@@ -53,6 +53,7 @@
       setSidebar(saved.sidebarVisible!==false);
       $('panel').querySelectorAll('details').forEach((e,i)=>{if(typeof saved.sidebarDetails?.[i]==='boolean')e.open=saved.sidebarDetails[i];});
       $('listing-filters').open=true;
+      for(const id of ['map-layers','address-search','parcel-colors','occupancy-assumption'])$(id).open=false;
       $('parcel-colors').querySelectorAll('.instructions-notes').forEach(e=>{e.open=false;});
       restorePopup(saved.property);
       setAverages(saved.averagesVisible!==false);
