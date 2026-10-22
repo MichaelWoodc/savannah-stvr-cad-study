@@ -97,3 +97,14 @@ main{height:calc(100dvh - 120px)}
 .inline-button:hover{background:#e1e9ef}
 
 .listing-size{display:block;font-size:10px;line-height:1.5;color:#26392e}
+
+/* Prevent accidental text highlighting while using map controls. */
+body { -webkit-user-select: none; user-select: none; }
+input, textarea { -webkit-user-select: text; user-select: text; }
+
+/* Compact annual averages table. */
+.comparison-panel{width:min(470px,calc(100% - 72px));padding:10px}
+.comparison-panel th,.comparison-panel td{padding:5px 3px;overflow-wrap:normal}
+.comparison-panel h2{margin-bottom:6px}
+#comparison-all-count,#comparison-residential-count,#comparison-stvr-count{white-space:pre-line}
+@media(max-width:760px){.comparison-panel{width:calc(100% - 60px);padding:6px}.comparison-panel th,.comparison-panel td{padding:4px 2px}}

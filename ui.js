@@ -52,6 +52,8 @@
     try{
       setSidebar(saved.sidebarVisible!==false);
       $('panel').querySelectorAll('details').forEach((e,i)=>{if(typeof saved.sidebarDetails?.[i]==='boolean')e.open=saved.sidebarDetails[i];});
+      $('listing-filters').open=true;
+      $('parcel-colors').querySelectorAll('.instructions-notes').forEach(e=>{e.open=false;});
       restorePopup(saved.property);
       setAverages(saved.averagesVisible!==false);
       $('panel').scrollTop=Number(saved.sidebarScroll)||0;$('feature-filters').scrollTop=Number(saved.featureScroll)||0;($('listing-ranking').querySelector('.listing-rows')||$('listing-ranking')).scrollTop=Number(saved.rankingScroll)||0;panel.scrollTop=Number(saved.panelScroll)||0;

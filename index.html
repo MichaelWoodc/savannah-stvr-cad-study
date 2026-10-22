@@ -3,85 +3,81 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>SAVANNAH: STVR &amp; CAD STUDY | Listings, Capacity, &amp; Calls</title>
+  <title>STVRS &amp; CALL ANALYSIS | Listings, Capacity, &amp; Calls</title>
   <link rel="stylesheet" href="vendor/leaflet.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header><div><span class="eyebrow">SAVANNAH: STVR &amp; CAD STUDY</span><h1>Listings, Capacity, &amp; Calls</h1></div><button id="toggle" aria-expanded="true" aria-controls="panel">Hide menu</button><button type="button" id="clear-listing-filters" class="secondary">Clear all filters</button><button id="toggle-averages" aria-expanded="true" aria-controls="averages-panel">Hide averages</button></header>
+  <header><div><span class="eyebrow">STVRS &amp; CALL ANALYSIS</span><h1>Listings, Capacity, &amp; Calls</h1></div><button id="toggle" aria-expanded="true" aria-controls="panel">Hide menu</button><button type="button" id="clear-listing-filters" class="secondary">Clear all filters</button><button id="toggle-averages" aria-expanded="true" aria-controls="averages-panel">Hide averages</button></header>
   <main>
     <aside id="panel">
-      <p class="intro">Only the official STVR overlay inside Savannah city limits. At zoom 18+, numbered circles show calls on properties with at least one call; click to open the property card, then expand a section for details. Licensed parcels have hatching and thick navy outlines. Red cross-hatching adds advertised over-capacity or on-site amenity flags; these are listing-text signals, not confirmed parties or occupancy violations. A red pulse flags direct calls/year at least 3 times the all-residential average, using the selected call filters.</p>
-      <div id="coverage" class="coverage"></div>
-      <label for="measure">Call measure</label>
-      <select id="measure"><option value="all_retained">All retained normalized calls</option><option value="citizen_initiated" selected>Citizen-initiated calls only</option></select>
-      <button type="button" id="jump-call-categories" class="secondary">Choose call categories</button><p class="note">Use the checkboxes in Call categories below. Select one or more; none selected shows all categories. With a category selected, properties with no matching direct calls are hidden from the map and ranked list. Zero-call properties remain in statistical denominators.</p>
-      <p class="note">These are recorded-address call associations, not confirmed crimes or verified 911-origin calls.</p>
-      <label for="stvr-occupancy">STVR occupancy assumption <output id="stvr-occupancy-value" for="stvr-occupancy">59%</output></label>
-      <input id="stvr-occupancy" type="range" min="1" max="100" step="1" value="59">
-      <p class="note">Default: <a href="https://www.airdna.co/vacation-rental-data/app/us/georgia/savannah/overview" target="_blank" rel="noopener noreferrer">AirDNA Savannah: 59%</a> (updated October 20, 2026). STVR table rates = calendar-year rate ÷ assumed occupancy. Map colors, call thresholds and counts remain on a calendar-year basis.</p>
-      <details id="listing-filters" open><summary>🏡 Listing occupancy & amenity filters</summary>
+      <details class="instructions-notes"><summary>Instructions &amp; Notes</summary><p class="intro">Click to open the property card, then expand a section for details. Licensed parcels have hatching and navy blue outlines. Red cross-hatching adds advertised over-capacity or party amenity flags, these are listing-text matches and automatic calculations, not confirmed party houses or occupancy violations. A red pulse flags direct calls/year at least 3 times the all-residential average, using the selected call filters.</p>
+      </details><div id="coverage" class="coverage"></div>
+      <button type="button" id="jump-call-categories" class="secondary">Choose call categories</button><details id="occupancy-assumption" open><summary>STVR occupancy assumption</summary><label for="stvr-occupancy">STVR occupancy assumption <output id="stvr-occupancy-value" for="stvr-occupancy">59%</output></label>
+      <input id="stvr-occupancy" type="range" min="40" max="80" step="1" value="59">
+      <details class="instructions-notes"><summary>Notes</summary><p class="note">Default: <a href="https://www.airdna.co/vacation-rental-data/app/us/georgia/savannah/overview" target="_blank" rel="noopener noreferrer">AirDNA Savannah: 59%</a> (updated October 20, 2026). STVR table rates = calendar-year rate % assumed occupancy. Map colors, call thresholds and counts remain on a calendar-year basis.</p>
+      </details></details><details id="listing-filters" open><summary>🏡 Listing occupancy & amenity filters</summary>
         <p id="listing-coverage"></p>
 
-        <label for="min-bedrooms">Minimum bedrooms per listing <output id="min-bedrooms-value">Any bedroom count</output></label><input id="min-bedrooms" type="range" min="0" max="20" step="1" value="0">
+        <label for="min-bedrooms">Minimum bedrooms per listing <output id="min-bedrooms-value">Any bedroom count</output></label><input id="min-bedrooms" type="range" min="0" max="12" step="1" value="0">
         <label for="min-guests">Minimum advertised guest capacity <output id="min-guests-value">Any guest capacity</output></label><input id="min-guests" type="range" min="0" max="30" step="1" value="0">
-        <p class="note">These size filters include compliant listings. Guest capacity is advertised guests, separate from the 59% booking-occupancy assumption. Zero removes each minimum; listings with unknown values are excluded only while that minimum is active.</p>
-        <label for="calls-basis">Annual call threshold applies to</label><select id="calls-basis"><option value="neighbors">Residential neighbors only</option><option value="direct">On-property calls</option><option value="combined">Property + residential neighbors</option></select>
+        <label for="min-overage">Minimum over occupancy <output id="min-overage-value" for="min-overage">Any occupancy</output></label><input id="min-overage" type="range" min="0" max="30" step="1" value="0">
+        <details class="instructions-notes"><summary>Instructions &amp; Notes</summary><p class="note">These size filters include compliant listings. Guest capacity is advertised guests, separate from the 59% booking-occupancy assumption. Zero removes each minimum; listings with unknown values are excluded only while that minimum is active.</p>
+        </details><label for="calls-basis">Annual call threshold applies to</label><select id="calls-basis"><option value="neighbors">Residential neighbors only</option><option value="direct">On-property calls</option><option value="combined" selected>Property + residential neighbors</option></select>
         <label for="min-calls">Minimum calls per year <output id="min-calls-value" for="min-calls">Any call count</output></label>
         <input id="min-calls" type="range" min="0" max="50" step="0.1" value="0">
         <label><input type="checkbox" id="over-capacity"> 👥 Advertised above matched licensed capacity</label>
-        <label for="min-overage">Minimum advertised overage <output id="min-overage-value" for="min-overage">Any occupancy</output></label><input id="min-overage" type="range" min="0" max="30" step="1" value="0">
-        <p class="note">Move either slider to zero to remove that threshold. Calls use the selected call category and initiation measure. Thresholds select the STVR cohort; the residential control sample stays fixed.</p>
-        <label for="feature-evidence">Keyword evidence</label><select id="feature-evidence"><option value="mention">Mentions / amenities (excludes restrictions & unavailable)</option><option value="onsite">On-site amenity candidates only</option><option value="restriction">Restrictions / prohibitions only</option></select>
+        <details class="instructions-notes"><summary>Instructions &amp; Notes</summary><p class="note">Move either slider to zero to remove that threshold. Calls use the selected call category and citizen-initiated calls. Thresholds select the STVR cohort; the residential control sample stays fixed.</p>
+        </details><label for="feature-evidence">Keyword evidence</label><select id="feature-evidence"><option value="mention">Mentions / amenities (excludes restrictions & unavailable)</option><option value="onsite">On-site amenity candidates only</option><option value="restriction">Restrictions / prohibitions only</option></select>
         <label for="feature-mode">Selected features must match</label><select id="feature-mode"><option value="any">Any selected feature</option><option value="all">All selected features in the same listing</option></select>
         <div id="feature-filters" class="feature-filters"></div>
-        <p class="note">Checkbox counts show unique STVR parcels <strong>after clicking</strong>, with the +/− change from the current view. Current sliders and other filters are included.</p>
+        <details class="instructions-notes"><summary>Notes</summary><p class="note">Checkbox counts show unique STVR parcels <strong>after clicking</strong>, with the +/− change from the current view. Current sliders and other filters are included.</p>
         <p class="note">Filters select licensed parcels with a matching listing. Multiple listings on one parcel count once in statistics. The residential comparison uses the original fixed random sample and does not change with filters. Quotes are keyword evidence, not proof of parties, violations, or incident causes.</p>
-      </details>
-      <p class="note">Both groups use residential parcels and residential border neighbors only. Hotels and commercial STVR locations are excluded from the map and averages.</p>
-      <label for="color-by">Parcel color shows</label>
-      <select id="color-by"><option value="neighbors">Total neighbor calls / focal parcel / year</option><option value="direct">Calls on the parcel / year</option><option value="residential">Parcel + residential neighbors / year</option></select>
-      <div id="legend" class="legend"></div>
-      <div class="layers">
+      </details></details>
+      <details id="parcel-colors" open><summary>Parcel colors &amp; legend</summary><label for="color-by">Parcel color shows</label>
+      <select id="color-by"><option value="neighbors">Total neighbor calls / stvr parcel / year</option><option value="direct">Calls on the parcel / year</option><option value="residential">Parcel + residential neighbors / year</option></select>
+      <div id="legend" class="legend"></div><details class="instructions-notes"><summary>Notes</summary><p class="note">Both groups use residential parcels and residential border neighbors only. Hotels and commercial STVR locations are excluded from the map and averages.</p>
+      </details></details>
+      <details id="map-layers" open><summary>Map layers</summary><div class="layers">
         <label><input type="checkbox" id="licenses" checked> Licensed parcel outlines & locations</label>
         <label><input type="checkbox" id="controls"> Random residential sample outlines</label>
         <label><input type="checkbox" id="excluded" checked> Nonlicensed commercial neighbors (exploration only)</label>
         <label><input type="checkbox" id="points"> Recorded call coordinates</label>
       </div>
-      <label for="search">Find an address, PIN, or permit</label>
+      </details><details id="address-search" open><summary>Find a property</summary><label for="search">Find an address, PIN, or permit</label>
       <form id="search-form"><input id="search" placeholder="e.g. 1508 Barnard or SVR-00001"><button type="submit">Find</button></form>
       <div id="search-result" role="status"></div>
-      <button id="reset" class="secondary">Fit study boundary</button>
-      <details id="ranked-listings" open><summary>🏆 Listings ranked by call count</summary>
+      <button id="reset" class="secondary">Fit Map to View</button></details>
+      <details id="ranked-listings" open><summary>Listings ranked by call count</summary>
         <label for="listing-rank">Rank by</label><select id="listing-rank"><option value="neighbors">Residential neighbors only</option><option value="direct">On-property calls</option><option value="combined" selected>Property + residential neighbors</option></select>
-        <label class="above-average-option"><input type="checkbox" id="above-average" checked> Only listings above the random-control average</label><p id="above-average-note" class="note"></p>
+        <label class="above-average-option"><input type="checkbox" id="above-average" checked> Only listings above the random-control average</label><details class="instructions-notes"><summary>Notes</summary><p id="above-average-note" class="note"></p></details>
         <div id="listing-match-status" aria-live="polite"></div><div id="listing-ranking"></div>
         <button type="button" id="download-listing-view" class="secondary">Download filtered listing CSV</button>
-        <p class="note">Listing rows can share a parcel and its call totals; do not sum listing rows. Capacity is advertised guest count versus the matched allowance, not observed occupancy.</p>
-      </details>
-      <details id="category-section" open><summary>Call categories</summary><p class="note">Checkboxes filter calls on properties and their neighbors across the map, property cards, and ranked results. Check categories to combine them, or <button type="button" id="clear-call-categories" class="inline-button">show all categories</button>.</p><p>Calls per neighboring residential parcel: STVR rates use estimated occupied years; the fixed random and all-residential baselines use calendar years. Parentheses show unchanged call memberships across focal neighborhoods; a call can appear in multiple neighborhoods.</p><table class="category-table"><thead><tr><th>Category</th><th>STVR</th><th>Random</th><th>All residential</th></tr></thead><tbody id="category-body"></tbody></table></details>
+        <details class="instructions-notes"><summary>Instructions &amp; Notes</summary><p class="note">Listing rows can share a parcel and its call totals; do not sum listing rows. Capacity is advertised guest count versus the matched allowance, not observed occupancy.</p>
+      </details></details>
+      <details id="category-section" open><summary>Call categories</summary><details class="instructions-notes"><summary>Instructions &amp; Notes</summary><p class="note">Use the checkboxes in Call categories below. None selected shows all call categories. With a category selected, properties with no matching direct calls are hidden from the map and ranked list. Zero-call properties remain in statistical denominators.</p>
+      <p class="note">Note: these are recorded-address call associations, not confirmed crimes or verified addresses.</p>
+      <p class="note">Checkboxes filter calls on properties and their neighbors across the map, property cards, and ranked results. Check categories to combine them.</p><p>Calls per neighboring residential parcel: STVR rates use estimated occupied years; the fixed random and all-residential baselines use calendar years. Parentheses show unchanged call memberships across stvr neighborhoods; a call can appear in multiple neighborhoods.</p></details><button type="button" id="clear-call-categories" class="inline-button">Show all categories</button><table class="category-table"><thead><tr><th>Category</th><th>STVR</th><th>Random</th><th>All residential</th></tr></thead><tbody id="category-body"></tbody></table></details>
       <details><summary>Methods & downloads</summary>
-        <ul><li><a href="excluded_tybee_listings.csv" download>Excluded Tybee listing match audit</a></li><li><a href="ranked_listings_with_calls.csv" download>Ranked listings, capacities & keyword flags</a></li><li><a href="listing_keyword_evidence.csv" download>All quoted keyword evidence</a></li><li><a href="listing_feature_statistics.csv" download>Feature & occupancy comparison statistics</a></li><li><a href="listing_screen_all.csv" download>All 4,372 screened listing records</a></li></ul>
-        <p>Neighbor = a shared boundary longer than 0.1 m, with no overlapping interiors. Corner contacts, across-road proximity, and neighbors of neighbors are excluded. Each unique Call Number is counted once within each focal neighborhood.</p>
-        <p>Annual mean = sum of each focal parcel’s neighborhood calls ÷ focal parcel count ÷ exposure years. Both cohorts use residential neighbors only, and the cohorts overlap. Overlapping neighborhoods can reuse the same call; a cohort sum is not a regional unique-call count.</p>
-        <p>Only definitive exact normalized parcel matches are used. Unresolved candidates are excluded. The local license inventory is a snapshot; license status during each call is not established. Past expiration dates are flagged in the license audit.</p>
-        <p>The neighbor-only numerator excludes the focal parcel entirely. A caller’s address or reporting location does not establish where an event originated, or that it was caused by an STVR. The comparison is descriptive; random controls are not matched on neighborhood or building size.</p>
-        <ul><li><a href="neighbor_only_statistics.csv" download>Neighbors-only statistics CSV</a></li><li><a href="neighbor_category_breakdown.csv" download>Neighbor call category rates CSV</a></li><li><a href="random_residential_sample.csv" download>Reproducible residential sample CSV</a></li><li><a href="neighbor_call_membership.csv" download>Focal parcel / neighbor call audit CSV</a></li><li><a href="parcel_rates.csv" download>Parcel rates CSV</a></li><li><a href="cohort_statistics.csv" download>Earlier cohort statistics CSV</a></li><li><a href="excluded_properties.csv" download>Excluded-property audit CSV</a></li><li><a href="license_matches.csv" download>License matching audit CSV</a></li><li><a href="REPORT.md">Full report</a></li><li><a href="study_map.png">Printable parcel map</a></li></ul>
-        <p><a href="https://www.savannahga.gov/2327/STVR-Regulations">City STVR regulations</a> · <a href="https://pub.sagis.org/arcgis/rest/services/savannah/SAV_Encode/MapServer/3">Official overlay</a> · <a href="https://savannahga.gov/DocumentCenter/View/33943">City hotel inventory</a></p>
-      </details>
+        <details class="instructions-notes"><summary>Notes</summary><p>Neighbor = a shared boundary longer than 0.1 m, with no overlapping interiors. Corner contacts, across-road proximity, and neighbors of neighbors are excluded. Each Call Number is counted once within each house-neighbor cluster.</p>
+        <p>Annual mean = sum of each parcel clusters neighborhood calls % stvr parcel count % exposure years. Both cohorts use residential neighbors only, and the cohorts overlap. Overlapping clusters can reuse the same call.</p>
+        <p>Only definitive exact address to parcel matches are used for the statistics. Unmatched calls are excluded. The local license inventory is a snapshot and license status during each call is not established.</p>
+        <p>The neighbor-only numerator excludes the licensed short term vacation rental parcel entirely. A caller's address or reporting location does not establish where an event originated, or that it was caused by a STVR. The comparison is descriptive; random controls are not matched on neighborhood or building size.</p>
+        </details><ul><li><a href="study_map.png">Parcel/Listing Map</a></li></ul>
+        <p><a href="https://www.savannahga.gov/2327/STVR-Regulations">City STVR regulations</a></p></details>
       <button type="button" id="cookie-settings" class="secondary">Cookie preferences</button>
     </aside>
     <section class="map-wrap" aria-label="Savannah parcel map"><div id="map"></div>
       <section id="averages-panel" class="comparison-panel" aria-label="Annual call rate comparison" aria-live="polite">
         <h2>Average calls per residential parcel</h2>
-        <table id="comparison-table"><thead><tr><th scope="col">Residential calls counted</th><th scope="col">All residential<br><small>Per calendar year · fixed</small></th><th scope="col">Random residential<br><small>Per calendar year · fixed</small></th><th scope="col">STVR<br><small>Per estimated occupied year</small></th></tr></thead>
+        <table id="comparison-table"><thead><tr><th scope="col">Residential calls</th><th scope="col">All residential<br><small>Per calendar year</small></th><th scope="col">Random<br>residential<br><small>Per calendar year</small></th><th scope="col">STVR<br><small>Per occupied year</small></th></tr></thead>
         <tbody><tr><th scope="row">House only</th><td id="comparison-all-house" rowspan="3"></td><td id="comparison-residential-house">?</td><td id="comparison-stvr-house">?</td></tr>
         <tr><th scope="row">House + neighbors</th><td id="comparison-residential-combined">?</td><td id="comparison-stvr-combined">?</td></tr>
         <tr><th scope="row">Neighbors only</th><td id="comparison-residential-neighbors">?</td><td id="comparison-stvr-neighbors">?</td></tr></tbody>
         <tfoot><tr><th scope="row">Full-cohort average<br><small>All properties; selected call types</small></th><td id="comparison-all-overall"></td><td id="comparison-residential-overall"></td><td id="comparison-stvr-overall"></td></tr><tr><td></td><td id="comparison-all-count"></td><td id="comparison-residential-count"></td><td id="comparison-stvr-count"></td></tr></tfoot></table>
-        <p id="occupancy-explanation"></p>
+        <details class="instructions-notes"><summary>Notes</summary><p id="occupancy-explanation"></p>
         <p>Occupancy is a scenario, not an attribution of calls to guests. AirDNA measures booked / available nights; this scenario assumes year-round availability. Hover over STVR rates for the unadjusted calendar-year rate.</p>
-      </section><div id="map-status" class="map-status" aria-live="polite">Loading study…</div></section>
+      </details></section><div id="map-status" class="map-status" aria-live="polite">Loading study…</div></section>
   </main>
   <section id="cookie-consent" class="cookie-consent" role="region" aria-label="Cookie consent" hidden><p>Allow cookies to remember your filters and map area on this device?</p><div><button type="button" id="accept-cookies">Allow saved preferences</button><button type="button" id="decline-cookies" class="secondary">No thanks</button></div></section>
   <script src="vendor/leaflet.js"></script><script src="data.js"></script><script src="app.js"></script><script src="listings.js"></script><script src="ui.js"></script><script src="call-badges.js"></script><script src="preferences.js"></script>

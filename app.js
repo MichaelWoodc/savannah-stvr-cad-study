@@ -40,7 +40,7 @@ function popup(f,listingId){const p=window.ListingScreen?.propsFor(f.id)||f.prop
   const calls=neighborhoodCalls(f,residentialOnly,neighborsOnly);const licenses=licensesByPin.get(f.id)||[];
   let html=`<div class="popup-title">${esc(p.address)}</div><div class="popup-muted">PIN ${esc(p.pin)} · ${esc(p.classification.replaceAll('_',' '))}</div>`;
   if(window.ListingScreen)html+=window.ListingScreen.propertyLinksHTML(f.id);
-  html+=`<p><span class="popup-count">${p[prefix+'direct_calls']}</span> calls on focal parcel · ${fmt(p[prefix+'direct_per_year'])}/year<br><span class="popup-count">${calls.length}</span> calls ${neighborsOnly?'on residential neighbors only':'on focal parcel + residential neighbors'} · ${fmt(calls.length/S.exposure_years)}/year</p>`;
+  html+=`<p><span class="popup-count">${p[prefix+'direct_calls']}</span> calls on STVR parcel · ${fmt(p[prefix+'direct_per_year'])}/year<br><span class="popup-count">${calls.length}</span> calls ${neighborsOnly?'on residential neighbors only':'on stvr parcel + residential neighbors'} · ${fmt(calls.length/S.exposure_years)}/year</p>`;
   if(p.random_control)html+='<p class="popup-muted">Selected random residential control parcel.</p>';
   html+=`<div>${p.residential_neighbor_count} residential / ${p.neighbor_count} total eligible border neighbors</div>`;
   if(licenses.length)html+=`<details class="property-licenses"><summary>${licenses.length} local license record${licenses.length===1?'':'s'}</summary>${licenses.map(r=>{const detected=window.ListingScreen?.detectedPermits(f.id,listingId).has(r.permit_number);return licenseRecordHTML(r,detected,Boolean(listingId&&!detected),listingId?'Detected in this listing':'Detected in local listings');}).join('')}</details>`;
@@ -96,9 +96,9 @@ function update(){
   if(window.ListingScreen)window.ListingScreen.render();
   if(savedUI)window.StudyUI.applyPreferences(savedUI);
 }
-$('coverage').textContent=`${S.date_start} to ${S.date_end} · ${S.exposure_days} days · ${fmt(S.exposure_years,3)} years`;
+$('coverage').textContent=`${S.date_start} to ${S.date_end} · ${S.exposure_days} days · ~2 years`;
 $('legend').innerHTML=[[0,'0'],[.5,'<1'],[2,'1–<3'],[5,'3–<10'],[15,'10+']].map(([n,label])=>`<span><i class="swatch" style="background:${color(n)}"></i>${label}/year</span>`).join('');
-for(const [id,key] of [['measure','measure'],['color-by','colorBy']])$(id).addEventListener('change',e=>{state[key]=e.target.value;update();});
+for(const [id,key] of [['color-by','colorBy']])$(id).addEventListener('change',e=>{state[key]=e.target.value;update();});
 for(const id of ['licenses','excluded','points','controls'])$(id).addEventListener('change',e=>{state[id]=e.target.checked;update();});
 $('reset').onclick=()=>map.fitBounds(boundary.getBounds(),{padding:[25,25]});
 $('toggle').onclick=()=>{document.body.classList.toggle('panel-hidden');$('toggle').setAttribute('aria-expanded',String(!document.body.classList.contains('panel-hidden')));setTimeout(()=>map.invalidateSize(),50);};
