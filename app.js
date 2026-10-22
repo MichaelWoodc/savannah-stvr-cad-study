@@ -5,7 +5,7 @@ const $=id=>document.getElementById(id);
 const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fmt=(n,d=2)=>Number(n).toLocaleString(undefined,{minimumFractionDigits:d,maximumFractionDigits:d});
 const map=L.map('map',{preferCanvas:true,zoomControl:true});
-const tiles=L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:20,attribution:'© OpenStreetMap contributors'}).addTo(map);
+const tiles=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:20,maxNativeZoom:19,attribution:'© OpenStreetMap contributors'}).addTo(map);
 tiles.on('tileerror',()=>{$('map-status').textContent='Basemap unavailable. Parcel shapes and statistics remain available.';});
 map.createPane('licenses');map.getPane('licenses').style.zIndex=450;
 map.createPane('boundary');map.getPane('boundary').style.zIndex=460;map.getPane('boundary').style.pointerEvents='none';
