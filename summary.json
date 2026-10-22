@@ -2858,7 +2858,7 @@
     "row_grain": "One listing row per folder; parcel call totals can repeat across listings. Feature statistics deduplicate parcel PINs."
   },
   "comparison_display": {
-    "control_rule": "Original fixed random nonlicensed residential sample; selected initiation measure (citizen-initiated by default); unaffected by listing and category filters.",
+    "control_rule": "Original fixed random nonlicensed residential sample; selected initiation measure (citizen-initiated by default); selected call categories apply; unaffected by listing filters.",
     "control_parcels": 991,
     "table_denominator": "House: focal parcels; house + neighbors: focal parcels plus neighbor memberships; neighbors only: neighbor memberships. All residential: full-population direct rate. All denominators multiply exposure years.",
     "map_rule": "Exclude every ineligible licensed parcel and hotel from map rendering and search."

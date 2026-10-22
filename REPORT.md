@@ -25,7 +25,7 @@ Neighbors only = neighbor call memberships / residential-neighbor parcel members
 
 These are pooled per-parcel rates. Shared neighbors can count in multiple focal neighborhoods. Zero-call parcels stay in denominators; parcels without neighbors add no neighbor memberships. Call numbers are deduplicated inside each focal neighborhood. Cohort membership totals are not regional unique-call totals.
 
-All residential shows the full-population direct rate rather than repeated neighborhood rows. The random reference stays fixed under listing and category filters. The selected initiation measure applies to every cohort. STVR rows respond to listing, threshold and category filters. The unfiltered row ignores those filters, but retains the chosen initiation measure and occupancy assumption.
+All residential shows the full-population direct rate rather than repeated neighborhood rows. The all-residential population and random sample stay fixed under listing filters. Selected call categories and initiation apply to every column and row. STVR membership responds to listing filters, with calls following the selected categories. The full-cohort row ignores listing filters only, while using the selected call categories, initiation measure and occupancy assumption.
 
 Default citizen-only display, with 59% STVR booking occupancy:
 
@@ -57,7 +57,7 @@ At zoom 18+, circles show direct property call counts; zero-call circles are omi
 
 Category checkboxes combine selections with OR; no selection means all categories. Selecting a category hides properties with no matching direct calls from the map and ranked results, while zero-call cases remain in statistical denominators. Property cards start with all sections collapsed. Clicking a section fills the card while retaining the address at its top. Matched Airbnb links are shown near the top; missing matches are labeled explicitly.
 
-The ranked list defaults to house + neighbors. Its default-on above-average option compares the selected occupancy-adjusted per-parcel rate against the corresponding random reference; it affects the ranked list, not the statistical cohort. Listing rows sharing a parcel repeat parcel call totals and must not be summed as distinct properties.
+The ranked list defaults to house + neighbors. Its default-on above-average option compares the selected occupancy-adjusted per-parcel rate against the corresponding random reference for the selected call categories and initiation measure; it affects the ranked list, not the statistical cohort. Listing rows sharing a parcel repeat parcel call totals and must not be summed as distinct properties.
 
 ## Saved state and source attribution
 

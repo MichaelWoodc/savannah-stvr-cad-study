@@ -31,8 +31,8 @@
   },
   {
     "path": "data.js",
-    "bytes": 12194321,
-    "sha256": "34028f2f8bf45835b9f964b35950371c86ed9795ffd7915a0997b0e4bff965c9"
+    "bytes": 12194340,
+    "sha256": "b5b9e371e84a6f440afa7031ec99bda1199d64aa004bfeea5036bea78fa17e98"
   },
   {
     "path": "excluded_properties.csv",
@@ -46,8 +46,8 @@
   },
   {
     "path": "index.html",
-    "bytes": 14222,
-    "sha256": "810c156fea26df8b57ed0c7d51e4cd3520b6a11f1f89b481cc2ce00d2d64a498"
+    "bytes": 14210,
+    "sha256": "f0f61eb26793fef24cf0a2b2ea6d7430a10729a0c96ca3427cddecbb74302d8f"
   },
   {
     "path": "license_matches.csv",
@@ -71,8 +71,8 @@
   },
   {
     "path": "listings.js",
-    "bytes": 30123,
-    "sha256": "b81c2d935040064e5b9357b1afb6cf7e819782c016ef79e2e83ba37e5034798b"
+    "bytes": 30128,
+    "sha256": "7179372a53dbf69df849442ced4824afaf305ec415ee444ac2acea901b84a270"
   },
   {
     "path": "neighbor_call_membership.csv",
@@ -126,8 +126,8 @@
   },
   {
     "path": "REPORT.md",
-    "bytes": 7642,
-    "sha256": "840b568668b22845a1dfb8d9f47b3c55d7575c8a7c091637d0b2f8c6afd1e255"
+    "bytes": 7782,
+    "sha256": "513c50ff0f1d78724d286a33d23f2277a3e8b2f751fa7d69a29a5e9676b5974c"
   },
   {
     "path": "sources/city_existing_hotels.csv",
@@ -176,8 +176,8 @@
   },
   {
     "path": "summary.json",
-    "bytes": 103017,
-    "sha256": "cf7793fb6c186305a7e5b393b603b7fcbd68f26e8d5813b0a92c8fe46d2a291a"
+    "bytes": 103036,
+    "sha256": "2c5350a74b33e6f2612719e7a95e46f1f69b224459418e53934c3c00889de8ff"
   },
   {
     "path": "ui.js",

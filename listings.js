@@ -62,9 +62,9 @@
     return (contextCallsByPin.get(pin)||[]).some(c=>callAllowed(c)&&(!citizen()||c.initiation==='Cit Initiated'));
   }
   function flagReasons(pin){const ls=listByPin.get(pin)||[];return {overCapacity:ls.some(l=>String(l.capacity_status).startsWith('advertised_exceeds')),amenities:[...new Set(ls.flatMap(l=>l.onSiteFeatures))]};}
-  function group(members,fixed=false){let direct=0,neighbors=0,links=0,zeros=0;const categories=new Map();const prefix=citizen()?'citizen_':'';
-    for(const pin of members){const p=fixed?features.get(pin).properties:propsFor(pin);direct+=p[prefix+'direct_calls'];neighbors+=p[prefix+'neighbor_only_calls'];links+=p.residential_neighbor_count;if(!p[prefix+'neighbor_only_calls'])zeros++;
-      for(const other of p.neighbor_pins.map(x=>x.replace(/[^A-Z0-9]/gi,''))){for(const c of (fixed?callsByPin:directCategory).get(other)||[]){if(citizen()&&c.initiation!=='Cit Initiated')continue;categories.set(c.category,(categories.get(c.category)||0)+1);}}}
+  function group(members){let direct=0,neighbors=0,links=0,zeros=0;const categories=new Map();const prefix=citizen()?'citizen_':'';
+    for(const pin of members){const p=propsFor(pin);direct+=p[prefix+'direct_calls'];neighbors+=p[prefix+'neighbor_only_calls'];links+=p.residential_neighbor_count;if(!p[prefix+'neighbor_only_calls'])zeros++;
+      for(const other of p.neighbor_pins.map(x=>x.replace(/[^A-Z0-9]/gi,''))){for(const c of directCategory.get(other)||[]){if(citizen()&&c.initiation!=='Cit Initiated')continue;categories.set(c.category,(categories.get(c.category)||0)+1);}}}
     const n=members.length;return{n,direct,neighbors,links,zeros,categories,rate:links?neighbors/links/S.exposure_years:null,
       combinedPerParcel:n+links?(direct+neighbors)/(n+links)/S.exposure_years:null,perFocal:n?neighbors/n/S.exposure_years:null,directRate:n?direct/n/S.exposure_years:null,combined:n?(direct+neighbors)/n/S.exposure_years:null};
   }
@@ -106,7 +106,7 @@
     selectedPins=active()?new Set(currentListings.map(l=>l.pin)):new Set(allLicensed);
     const featureCounts=renderFeatureCounts();
     currentControls=draw;
-    const a=group([...selectedPins]),b=group(currentControls,true),overallSTVR=group(allLicensed,true),allResidential=group([...features.keys()],true),occupancy=filter.occupancy/100;
+    const a=group([...selectedPins]),b=group(currentControls),overallSTVR=group(allLicensed),allResidential=group([...features.keys()]),occupancy=filter.occupancy/100;
     $('stvr-occupancy-value').textContent=`${filter.occupancy}%`;
     for(const [id,r] of [['residential',b],['stvr',a]]){
       for(const [key,value] of [['house',r.directRate],['combined',r.combinedPerParcel],['neighbors',r.rate]]){const cell=$(`comparison-${id}-${key}`);cell.textContent=value===null?'—':fmt(id==='stvr'?value/occupancy:value);cell.dataset.calendarRate=value===null?'':String(value);cell.title=value===null?'No qualifying parcels':`Unadjusted calendar-year rate: ${fmt(value,4)}${id==='stvr'?`; divided by ${filter.occupancy}% occupancy`:''}`;}
@@ -119,8 +119,8 @@
     $('comparison-all-count').title='All eligible residential parcels in the study area, including licensed residential STVR parcels. Hotels and commercial parcels excluded.';
     $('comparison-residential-overall').textContent=fmt(b.combinedPerParcel);
     $('comparison-stvr-overall').textContent=fmt(overallSTVR.combinedPerParcel/occupancy);
-    $('comparison-stvr-overall').title=`All ${allLicensed.length} eligible STVR parcels; unadjusted ${fmt(overallSTVR.combinedPerParcel,4)} calls per calendar year. No listing or call filters.`;
-    $('occupancy-explanation').textContent=`All residential = calls / all residential parcels / year. House + neighbors = calls / (focal parcels + neighbor parcel memberships) / year; neighbors only divides by neighbor memberships. Shared neighbors can count in multiple focal neighborhoods. Zero-call parcels count; groups with no neighbors add no neighbor memberships. STVR rates are also divided by ${filter.occupancy}% occupancy. Unfiltered average ignores listing and call filters; it matches house + neighbors when no filters apply. Residential baselines ignore listing and category filters; the selected initiation measure applies to all cohorts.`;
+    $('comparison-stvr-overall').title=`All ${allLicensed.length} eligible STVR parcels; unadjusted ${fmt(overallSTVR.combinedPerParcel,4)} calls per calendar year. No listing filters; selected call categories and initiation measure apply.`;
+    $('occupancy-explanation').textContent=`All residential = calls / all residential parcels / year. House + neighbors = calls / (focal parcels + neighbor parcel memberships) / year; neighbors only divides by neighbor memberships. Shared neighbors can count in multiple focal neighborhoods. Zero-call parcels count; groups with no neighbors add no neighbor memberships. STVR rates are also divided by ${filter.occupancy}% occupancy. Selected call categories and initiation apply to every column and row. Residential parcel groups stay fixed under listing filters. Full-cohort average ignores listing filters only; it matches house + neighbors when no listing filters apply.`;
     $('category-body').innerHTML=Object.keys(emoji).map(name=>{const x=a.categories.get(name)||0,y=b.categories.get(name)||0,z=allResidential.categories.get(name)||0;return `<tr><td><label class="category-choice"><input type="checkbox" data-call-category="${esc(name)}" ${filter.categories.has(name)?'checked':''}>${categoryLabel(name)}</label></td><td>${a.links?fmt(x/a.links/S.exposure_years/occupancy,3):'\u2014'} <small>(${x})</small></td><td>${b.links?fmt(y/b.links/S.exposure_years,3):'—'} <small>(${y})</small></td><td>${allResidential.links?fmt(z/allResidential.links/S.exposure_years,3):'\u2014'} <small>(${z})</small></td></tr>`;}).join('');
     const mapMatches=new Set(screen.listings.filter(l=>matches(l)).map(l=>l.pin));
     licenseOutlines.setStyle(f=>{const flags=flagReasons(f.id),flagged=flags.overCapacity||flags.amenities.length>0,visible=propertyVisible(f.id);return {opacity:!visible?0:!active()||selectedPins.has(f.id)?1:.08,fillOpacity:!visible?0:!active()||selectedPins.has(f.id)?0.55:0.04,fillColor:flagged?'url(#licensed-parcel-crosshatch)':'url(#licensed-parcel-hatch)'};});
@@ -131,7 +131,7 @@
     currentListings.sort((a,b)=>metric(b)-metric(a)||Number(b.capacity_overage||0)-Number(a.capacity_overage||0)||a.folder_name.localeCompare(b.folder_name));
     const reference=filter.rank==='direct'?b.directRate:filter.rank==='combined'?b.combinedPerParcel:b.rate;
     const rankedListings=currentListings.filter(l=>propertyVisible(l.pin)&&(!filter.aboveAverage||(listingRate(l)!==null&&listingRate(l)>reference)));
-    $('above-average-note').textContent=`Ranked list only; statistics unchanged. ${filter.rank==='direct'?'House':filter.rank==='combined'?'House + neighbors':'Neighbors only'} calls per parcel/year, STVR adjusted to ${filter.occupancy}% occupancy; fixed random reference ${fmt(reference,3)}.`;
+    $('above-average-note').textContent=`Ranked list only; statistics unchanged. ${filter.rank==='direct'?'House':filter.rank==='combined'?'House + neighbors':'Neighbors only'} calls per parcel/year, STVR adjusted to ${filter.occupancy}% occupancy; random reference for selected call types ${fmt(reference,3)}.`;
     $('listing-match-status').textContent=`${rankedListings.length.toLocaleString()} listing rows | ${new Set(rankedListings.map(l=>l.pin)).size.toLocaleString()} parcels | top 40`;
     $('listing-ranking').innerHTML=rankedListings.length?`<div class="listing-rows">${rankedListings.slice(0,40).map(listingSummaryHTML).join('')}</div>`:'<p class="filter-empty">No listings match the ranked-list settings.</p>';
     const nActive=D.calls.filter(c=>callAllowed(c)&&(!citizen()||c.initiation==='Cit Initiated')).length;
