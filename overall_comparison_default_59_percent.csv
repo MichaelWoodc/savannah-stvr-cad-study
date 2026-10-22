@@ -1,0 +1,8 @@
+﻿cohort,measure,initiation_measure,focal_parcels,call_memberships,parcel_memberships_denominator,neighbor_parcel_memberships,exposure_calendar_years,calendar_year_rate,assumed_STVR_occupancy_percent,display_rate,display_basis
+all_eligible_residential,house_only,citizen_initiated,4806,5562,4806,11230,2.0698151950718686,0.5591336721954699,,0.5591336721954699,calendar_year
+fixed_random_residential,house_only,citizen_initiated,991,1159,991,2350,2.0698151950718686,0.5650387215094582,,0.5650387215094582,calendar_year
+fixed_random_residential,house_plus_residential_neighbors,citizen_initiated,991,3420,3341,2350,2.0698151950718686,0.49455894300252273,,0.49455894300252273,calendar_year
+fixed_random_residential,residential_neighbors_only,citizen_initiated,991,2261,2350,2350,2.0698151950718686,0.46483747044917256,,0.46483747044917256,calendar_year
+overall_eligible_STVR,house_only,citizen_initiated,991,693,991,2293,2.0698151950718686,0.33785317860746716,59,0.5726325061143511,estimated_occupied_year
+overall_eligible_STVR,house_plus_residential_neighbors,citizen_initiated,991,2153,3284,2293,2.0698151950718686,0.31674466629932524,59,0.5368553666090259,estimated_occupied_year
+overall_eligible_STVR,residential_neighbors_only,citizen_initiated,991,1460,2293,2293,2.0698151950718686,0.30762188579458527,59,0.5213930267704835,estimated_occupied_year

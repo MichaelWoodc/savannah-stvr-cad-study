@@ -1,0 +1,342 @@
+{
+  "currentVersion": 11.5,
+  "cimVersion": "3.5.0",
+  "id": 3,
+  "name": "Short Term Vacation Rental Overlay",
+  "type": "Feature Layer",
+  "description": "",
+  "geometryType": "esriGeometryPolygon",
+  "sourceSpatialReference": {
+    "wkid": 102666,
+    "latestWkid": 2239,
+    "xyTolerance": 0.003280833333333333,
+    "zTolerance": 0.001,
+    "mTolerance": 0.001,
+    "falseX": -17790500,
+    "falseY": -43703500,
+    "xyUnits": 3048.0060960121928,
+    "falseZ": 0,
+    "zUnits": 1,
+    "falseM": 0,
+    "mUnits": 1
+  },
+  "spatialReference": {
+    "wkid": 102666,
+    "latestWkid": 2239,
+    "xyTolerance": 0.003280833333333333,
+    "zTolerance": 2,
+    "mTolerance": 0.001,
+    "falseX": -18733406.15615748,
+    "falseY": -45929438.65609207,
+    "xyUnits": 132752354.07509798,
+    "falseZ": 0,
+    "zUnits": 1,
+    "falseM": -100000,
+    "mUnits": 10000
+  },
+  "copyrightText": "",
+  "parentLayer": null,
+  "subLayers": [],
+  "minScale": 0,
+  "maxScale": 0,
+  "referenceScale": 0.0,
+  "drawingInfo": {
+    "renderer": {
+      "type": "simple",
+      "symbol": {
+        "type": "esriSFS",
+        "style": "esriSFSSolid",
+        "color": [
+          200,
+          250,
+          210,
+          255
+        ],
+        "outline": {
+          "type": "esriSLS",
+          "style": "esriSLSSolid",
+          "color": [
+            110,
+            110,
+            110,
+            255
+          ],
+          "width": 0.4
+        }
+      }
+    },
+    "scaleSymbols": true,
+    "transparency": 0,
+    "labelingInfo": null
+  },
+  "defaultVisibility": false,
+  "extent": {
+    "xmin": 984439.8886934109,
+    "ymin": 747666.3038544059,
+    "xmax": 994652.6924147457,
+    "ymax": 760998.0993692428,
+    "spatialReference": {
+      "wkid": 102666,
+      "latestWkid": 2239,
+      "xyTolerance": 0.003280833333333333,
+      "zTolerance": 2,
+      "mTolerance": 0.001,
+      "falseX": -18733406.15615748,
+      "falseY": -45929438.65609207,
+      "xyUnits": 132752354.07509798,
+      "falseZ": 0,
+      "zUnits": 1,
+      "falseM": -100000,
+      "mUnits": 10000
+    }
+  },
+  "hasAttachments": false,
+  "htmlPopupType": "esriServerHTMLPopupTypeAsHTMLText",
+  "displayField": "SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.DISTRICT",
+  "typeIdField": null,
+  "subtypeFieldName": null,
+  "subtypeField": null,
+  "defaultSubtypeCode": null,
+  "fields": [
+    {
+      "name": "SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.ID",
+      "type": "esriFieldTypeInteger",
+      "alias": "ID",
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.DISTRICT",
+      "type": "esriFieldTypeString",
+      "alias": "DISTRICT",
+      "length": 48,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.GlobalID",
+      "type": "esriFieldTypeGlobalID",
+      "alias": "GlobalID",
+      "length": 38,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.SHAPE",
+      "type": "esriFieldTypeGeometry",
+      "alias": "SHAPE",
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.OBJECTID",
+      "type": "esriFieldTypeInteger",
+      "alias": "OBJECTID",
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.Zone_Description",
+      "type": "esriFieldTypeString",
+      "alias": "Zone_Description",
+      "length": 255,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.Zoning_Code",
+      "type": "esriFieldTypeString",
+      "alias": "Zoning_Code",
+      "length": 255,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.ECP_Zone_Desc",
+      "type": "esriFieldTypeString",
+      "alias": "ECP_Zone_Desc",
+      "length": 255,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.ECP_Zoning_Code",
+      "type": "esriFieldTypeString",
+      "alias": "ECP_Zoning_Code",
+      "length": 255,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.Use_Regs",
+      "type": "esriFieldTypeString",
+      "alias": "Use_Regs",
+      "length": 255,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.Dev_Stnds",
+      "type": "esriFieldTypeString",
+      "alias": "Dev_Stnds",
+      "length": 255,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.Signage",
+      "type": "esriFieldTypeString",
+      "alias": "Signage",
+      "length": 255,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.Gen_Standards",
+      "type": "esriFieldTypeString",
+      "alias": "Gen_Standards",
+      "length": 255,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.Landscaping",
+      "type": "esriFieldTypeString",
+      "alias": "Landscaping",
+      "length": 255,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.Parking",
+      "type": "esriFieldTypeString",
+      "alias": "Parking",
+      "length": 255,
+      "domain": null
+    },
+    {
+      "name": "SAGIS.SAGIS.BND_Zoning_Encode.GlobalID",
+      "type": "esriFieldTypeGUID",
+      "alias": "GlobalID",
+      "length": 38,
+      "domain": null
+    }
+  ],
+  "geometryField": {
+    "name": "SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.SHAPE",
+    "type": "esriFieldTypeGeometry",
+    "alias": "SHAPE"
+  },
+  "indexes": [
+    {
+      "name": "R1327_pk",
+      "fields": "SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "UUID_1327",
+      "fields": "SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.GlobalID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "UUID_OID_1327",
+      "fields": "SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.GlobalID,SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "S1036_idx",
+      "fields": "SAGIS.SAGIS.SAV_NEWZO_STVR_OVERLAY.SHAPE",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "R1318_SDE_ROWID_UK",
+      "fields": "SAGIS.SAGIS.BND_Zoning_Encode.OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "UUID_1318",
+      "fields": "SAGIS.SAGIS.BND_Zoning_Encode.GlobalID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    },
+    {
+      "name": "UUID_OID_1318",
+      "fields": "SAGIS.SAGIS.BND_Zoning_Encode.GlobalID,SAGIS.SAGIS.BND_Zoning_Encode.OBJECTID",
+      "isAscending": true,
+      "isUnique": true,
+      "description": ""
+    }
+  ],
+  "subtypes": [],
+  "relationships": [],
+  "canModifyLayer": true,
+  "canScaleSymbols": false,
+  "hasLabels": false,
+  "capabilities": "Query,Map,Data",
+  "maxRecordCount": 2000,
+  "maxSelectionCount": 2000,
+  "supportsStatistics": true,
+  "supportsExceedsLimitStatistics": true,
+  "supportsAdvancedQueries": true,
+  "supportedQueryFormats": "JSON, geoJSON, PBF",
+  "isDataVersioned": true,
+  "ownershipBasedAccessControlForFeatures": {
+    "allowOthersToQuery": true
+  },
+  "useStandardizedQueries": true,
+  "supportedSpatialRelationships": [
+    "esriSpatialRelIntersects",
+    "esriSpatialRelContains",
+    "esriSpatialRelCrosses",
+    "esriSpatialRelEnvelopeIntersects",
+    "esriSpatialRelIndexIntersects",
+    "esriSpatialRelOverlaps",
+    "esriSpatialRelTouches",
+    "esriSpatialRelWithin",
+    "esriSpatialRelRelation"
+  ],
+  "advancedQueryCapabilities": {
+    "useStandardizedQueries": true,
+    "supportsStatistics": true,
+    "supportsPercentileStatistics": true,
+    "supportsHavingClause": true,
+    "supportsOrderBy": true,
+    "supportsDistinct": true,
+    "supportsCountDistinct": true,
+    "supportsAdvancedQueryRelated": true,
+    "supportsQueryRelatedPagination": true,
+    "supportsPagination": true,
+    "supportsLod": false,
+    "supportsQueryWithLodSR": false,
+    "supportsTrueCurve": true,
+    "supportsQueryWithDatumTransformation": true,
+    "supportsReturningQueryExtent": true,
+    "supportsQueryWithDistance": true,
+    "supportsSqlExpression": true,
+    "supportsTimeRelation": true,
+    "supportsSqlFormat": false,
+    "supportsQueryAnalytic": true,
+    "supportsCurrentUserQueries": true
+  },
+  "supportsDatumTransformation": true,
+  "advancedQueryAnalyticCapabilities": {
+    "supportsLinearRegression": true,
+    "supportsAsync": false,
+    "supportsPercentileAnalytic": true
+  },
+  "dateFieldsTimeReference": null,
+  "preferredTimeReference": null,
+  "datesInUnknownTimezone": false,
+  "hasMetadata": true,
+  "isDataArchived": false,
+  "archivingInfo": {
+    "supportsQueryWithHistoricMoment": false,
+    "startArchivingMoment": -1
+  },
+  "supportsCoordinatesQuantization": true,
+  "supportsDynamicLegends": true,
+  "serviceItemId": "93e28536a9f84aa5a854489129feb19b"
+}

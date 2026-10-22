@@ -1,0 +1,1013 @@
+﻿PIN,address,classification,commercial_category,reason,hotel_evidence,direct_calls_before_exclusion,direct_calls_per_year_before_exclusion,licensed_inventory_parcel,threshold_per_year
+20003 01003,500 W RIVER ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20003 02003,400 W RIVER ST,other_or_unknown,594,hotel_or_lodging,assessor_lodging_category_594 | City_existing_hotel_inventory:Plant Riverside Marriott,0,0.0,False,25.0
+20003 02004,300 W RIVER ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20003 06002,532 INDIAN ST,commercial_industrial,7300,commercial_property,,0,0.0,False,25.0
+20003 06003,574 INDIAN ST,commercial_industrial,326,commercial_property,,0,0.0,False,25.0
+20003 07001A,3 MARTIN LUTHER KING BLVD,commercial_industrial,442,commercial_property,,0,0.0,False,25.0
+20003 07002,7 MARTIN LUTHER KING BLVD,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20003 07003,512 INDIAN ST,commercial_industrial,326,commercial_property,,0,0.0,False,25.0
+20003 08001,412 WILLIAMSON ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594 | City_existing_hotel_inventory:The Alida,0,0.0,False,25.0
+20003 09001,202 W BAY ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20003 09004,219 W RIVER ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20003 09005,225 W RIVER ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20003 09006,301 W RIVER ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20003 09007,313 W RIVER ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20003 09009,223 W RIVER ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20003 09010,205 W RIVER ST,commercial_industrial,459,commercial_property,,11,5.3144841269841265,False,25.0
+20003 09011,214 W BAY ST,commercial_industrial,459,commercial_property,,5,2.4156746031746033,True,25.0
+20003 09015,213 W RIVER ST,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20003 09021,210 W BAY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20003 09029,208 W BAY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20003 11007,630 W BAY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:The Bluff Hotel,72,34.785714285714285,False,25.0
+20003 14001,412 W BAY ST,commercial_industrial,343,hotel_or_lodging,City_existing_hotel_inventory:Best Western Plus,0,0.0,False,25.0
+20003 15001,9 JEFFERSON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20003 15002,300 W BAY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,False,25.0
+20003 15003,300 W BAY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,False,25.0
+20003 15004,326 W BAY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20003 16001,502 W BAY ST,commercial_industrial,419,commercial_property,,0,0.0,False,25.0
+20004 06001,504 E RIVER ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20004 06002,502 E RIVER ST #70,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 07001,102 W BAY ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594 | City_existing_hotel_inventory:The Bohemian,0,0.0,False,25.0
+20004 07002,117 W RIVER ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 07004,W BAY ST #1A,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07005,120 W BAY ST #1B,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07006,W BAY ST #1C,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07007,124 W BAY ST #1D,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594 | City_existing_hotel_inventory:River Street Inn,0,0.0,False,25.0
+20004 07008,W BAY ST #1E,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07009,132 W BAY ST #1F,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07010,W BAY ST #2A,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07011,W BAY ST #2B,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07012,W BAY ST #2C,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07013,W BAY ST #2D,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07014,W BAY ST #2E,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07015,W BAY ST #2F,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07016,W BAY ST #3A,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07017,W BAY ST #3B,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07018,W BAY ST #3C,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07019,W BAY ST #3D,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07020,W BAY ST #3E,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07021,W BAY ST #3F,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 07022,125 W RIVER ST #4,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 07023,W BAY ST,vacant_or_no_building,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 08001,2 W BAY ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594 | City_existing_hotel_inventory:Hyatt Regency,0,0.0,False,25.0
+20004 10001,115 E RIVER ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,False,25.0
+20004 10001A,102 E BAY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,False,25.0
+20004 10007,13 E RIVER ST,commercial_industrial,597,commercial_property,,13,6.280753968253968,False,25.0
+20004 10007L,12 E BAY ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20004 10009,23 E RIVER ST #1,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 10010,42 LOWER FACTORS WALK #2,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 10011,42 UPPER FACTORS WALK #3,commercial_industrial,3531,commercial_property,,0,0.0,True,25.0
+20004 10012,42 E BAY ST #4,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 10014,19 E RIVER ST,commercial_industrial,350,commercial_property,,47,22.70734126984127,False,25.0
+20004 10015,21 E RIVER ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20004 10016,36 E BAY ST #3,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 10017,36 E BAY ST #4,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 10018,36 E BAY ST #5,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 10020,36 E BAY ST #7,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 10023,15 E RIVER ST,commercial_industrial,353,commercial_property,,17,8.21329365079365,False,25.0
+20004 10024,26 E BAY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 10025,36 E BAY ST #9E,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 10027,18 E RIVER ST #1,commercial_industrial,350,commercial_at_or_above_annual_call_threshold,,53,25.606150793650794,False,25.0
+20004 11002,223 E RIVER ST,commercial_industrial,597,commercial_property,,0,0.0,True,25.0
+20004 11003,215 E RIVER ST,commercial_industrial,597,commercial_property,,0,0.0,True,25.0
+20004 11004,209 E RIVER ST,commercial_industrial,597,commercial_property,,0,0.0,True,25.0
+20004 11005,207 E RIVER ST,commercial_industrial,353,commercial_property,,0,0.0,True,25.0
+20004 11006,201 E RIVER ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 11007,225 E RIVER ST #1,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 11008,1 LINCOLN ST #2,commercial_industrial,353,commercial_property,,8,3.865079365079365,False,25.0
+20004 12001,508 E FACTORS WALK,commercial_industrial,539,hotel_or_lodging,City_existing_hotel_inventory:Olde Harbour Inn,0,0.0,False,25.0
+20004 12004,423 E RIVER ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 12005,301 E RIVER ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20004 12006,411 E RIVER ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 12007,503 E RIVER ST,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20004 13005,111 W BAY ST,commercial_industrial,353,commercial_property,,20,9.662698412698413,False,25.0
+20004 13008,16 BARNARD ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 13033,135 W BAY ST #101W,commercial_industrial,350,commercial_property,,13,6.280753968253968,False,25.0
+20004 13034,10 BARNARD ST #102W,commercial_industrial,350,commercial_property,,11,5.3144841269841265,False,25.0
+20004 13035,175 W BAY ST #103W,commercial_industrial,350,commercial_property,,36,17.392857142857142,False,25.0
+20004 13059,190 W BRYAN ST #A,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 13060,0 BRYAN ST #B,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 13061,110 BRYAN ST W #101,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 13091,BRYAN ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 14001,5 BULL ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20004 14002,15 BULL ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20004 14003,18 W BRYAN ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20004 14004,10 WHITAKER ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20004 14005,2 WHITAKER ST,commercial_industrial,442,commercial_property,,0,0.0,False,25.0
+20004 14006,21 W BAY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 14007,13 W BAY ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20004 14008,11 W BAY ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 15001,7 DRAYTON ST,other_or_unknown,594,hotel_or_lodging,assessor_lodging_category_594 | City_existing_hotel_inventory:Drayton Hotel,0,0.0,False,25.0
+20004 15002,9 DRAYTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 15004,30 E BRYAN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 15005,26 E BRYAN ST,commercial_industrial,3442,commercial_property,,0,0.0,False,25.0
+20004 15006,14 E BRYAN ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20004 15010,9 E BAY ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 15011,17 E BAY ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 15011A,21 E BAY ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20004 15011B,15 E BAY ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 16001,199 E BAY ST,vacant_or_no_building,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,False,25.0
+20004 16001L,199 E BAY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,False,25.0
+20004 16009,115 E BAY ST,commercial_industrial,353,commercial_property,,0,0.0,True,25.0
+20004 16009A,117 E BAY ST,commercial_industrial,539,commercial_property,,0,0.0,True,25.0
+20004 17002,9 LINCOLN ST,vacant_or_no_building,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,False,25.0
+20004 17003,226 E BRYAN ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,True,25.0
+20004 17004,220 E BRYAN ST,vacant_or_no_building,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,False,25.0
+20004 17010,201 E BAY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:Hampton Inn,0,0.0,False,25.0
+20004 17011,225 E BAY ST,commercial_industrial,539,hotel_or_lodging,City_existing_hotel_inventory:East Bay Inn,0,0.0,False,25.0
+20004 18001,325 E BAY ST,commercial_industrial,353,commercial_property,,8,3.865079365079365,False,25.0
+20004 18007,304 E BRYAN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 18009,301 E BAY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:Staybridge Suites,46,22.224206349206348,False,25.0
+20004 19006,401 E BAY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 19010,409 E BAY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 20001,22 BARNARD ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20004 21001,25 BULL ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20004 23001,22 BULL ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20004 24001,23 ABERCORN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 24002,120 E ST JULIAN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 24003,24 DRAYTON ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20004 26001,200 E ST JULIAN ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20004 27001,20 LINCOLN ST,commercial_industrial,345,commercial_property,,0,0.0,False,25.0
+20004 30002,108 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 30003,110 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 30005,116 W CONGRESS ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20004 30006,106 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 30007,102 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 31001,27 BULL ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20004 33001,27 ABERCORN ST,commercial_industrial,3442,commercial_property,,0,0.0,False,25.0
+20004 33002,29 ABERCORN ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:Planter's Inn,0,0.0,False,25.0
+20004 34003,28 ABERCORN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 34004,25 LINCOLN ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 36001A,103 W CONGRESS ST,commercial_industrial,353,commercial_property,,26,12.561507936507937,False,25.0
+20004 36003,41 WHITAKER ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 36004,102 W BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 36006,106 W BROUGHTON ST,commercial_industrial,459,commercial_property,,2,0.9662698412698413,False,25.0
+20004 36007,108 W BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 36010,30 BARNARD ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 36011,127 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 36012,121 W CONGRESS ST,commercial_industrial,442,commercial_property,,0,0.0,False,25.0
+20004 36013,117 W CONGRESS ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 36015,111 W CONGRESS ST,commercial_industrial,597,commercial_property,,2,0.9662698412698413,False,25.0
+20004 36016,125 W CONGRESS ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 36017,122 W BROUGHTON ST #001,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 36018,122 W BROUGHTON ST #002,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 36019,122 W BROUGHTON ST #003,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 36021,112 W BROUGHTON ST,commercial_industrial,353,commercial_property,,11,5.3144841269841265,False,25.0
+20004 36022,110 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 36100,120 W BROUGHTON ST #401,commercial_industrial,353,commercial_property,,27,13.044642857142858,False,25.0
+20004 36312,105 W CONGRESS ST #A,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 36313,105 W CONGRESS ST #B,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 36314,105 W CONGRESS ST #C,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 36315,107 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 36321,104 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 36326,37 WHITAKER ST #D,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 37002,2 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 37005,22 BROUGHTON ST W,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 37006,26 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 37007,28 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 37010,33 BULL ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20004 37011,36 W BROUGHTON ST #101,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 37012,36 W BROUGHTON ST #102,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 37013,36 W BROUGHTON ST #201,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 37014,36 W BROUGHTON ST #301,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 38002,32 E BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 38003,24 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 38004,20 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 38005,14 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 38006,10 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 38007,2 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 38011,18 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 38012,32 BULL ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20004 39001,35 ABERCORN ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20004 39002,132 E BROUGHTON ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20004 39003,128 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 39004,126 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 39005,118 E BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 39007,116 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 39008,110 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 39008A,112 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 39008B,114 E BROUGHTON ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20004 39009,102 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 39011,115 E CONGRESS ST,commercial_industrial,345,commercial_property,,0,0.0,False,25.0
+20004 40002A,232 E BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20004 40003,210 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 40004,202 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 40006,215 E CONGRESS ST,commercial_industrial,326,commercial_property,,0,0.0,False,25.0
+20004 41003A,41 HABERSHAM ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 41004,318 E BROUGHTON ST,commercial_industrial,353,commercial_property,,8,3.865079365079365,False,25.0
+20004 41009,E CONGRESS ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 41012,315 E CONGRESS ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 41013,301 E CONGRESS ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 42002,418 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 42002A,420 E BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 42003,410 E BROUGHTON ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 42011,410 E CONGRESS ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 42012,402 E BROUGHTON ST,commercial_industrial,455,commercial_property,,0,0.0,False,25.0
+20004 43002,109 WHITAKER ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20004 43003,110 W STATE ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 43004,114 BARNARD ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 43008,113 W BROUGHTON ST,commercial_industrial,353,commercial_property,,17,8.21329365079365,False,25.0
+20004 43011,107 W BROUGHTON ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20004 43013,110 BARNARD ST #101,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 43014,110 BARNARD ST #102,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 43015,110 BARNARD ST #103,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 43030,107 WHITAKER ST #107B,commercial_industrial,353,commercial_property,,13,6.280753968253968,False,25.0
+20004 43031,107 WHITAKER ST #107,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 43032,101 W BROUGHTON ST #101,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 43033,103 W BROUGHTON ST #103,commercial_industrial,353,commercial_property,,8,3.865079365079365,False,25.0
+20004 43048,109 W BROUGHTON ST #202,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 44001,1 W BROUGHTON ST,commercial_industrial,353,commercial_at_or_above_annual_call_threshold,,81,39.13392857142857,False,25.0
+20004 44002,119 BULL ST,commercial_industrial,597,commercial_property,,0,0.0,True,25.0
+20004 44003,12 W STATE ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 44004,14 W STATE ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20004 44004A,16 W STATE ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 44005,116 WHITAKER ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 44006,25 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 44007,19 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 44008,17 W BROUGHTON ST,commercial_industrial,353,commercial_property,,9,4.348214285714286,False,25.0
+20004 44011,18 W STATE ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 44012,5 W BROUGHTON ST #A,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 44043,23 W BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20004 45001,25 E BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 45003,24 E STATE ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 45004,18 E STATE ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 45005,14 E STATE ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 45006,8 E STATE ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 45007,118 BULL ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20004 45008,100 BULL ST,commercial_industrial,3441,commercial_property,,0,0.0,True,25.0
+20004 45009,7 E BROUGHTON ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20004 45010,15 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 45011,17 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 45012,22 E STATE ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 46001,129 E BROUGHTON ST #1A,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 46007,101 E BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 46008,107 E BROUGHTON ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20004 46009,125 E BROUGHTON ST,commercial_industrial,350,commercial_property,,14,6.763888888888888,False,25.0
+20004 46011,129 E BROUGHTON ST #1B,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20004 48007,301 E BROUGHTON ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 49001,417 E BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20004 49008,409 E BROUGHTON ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 49009,415 E BROUGHTON ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 49010,415 E BROUGHTON ST ##A,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20004 54004,110 E PRESIDENT ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 54005,110 E PRESIDENT ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 54006,110 E PRESIDENT ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 54007,110 E PRESIDENT ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 57001,123 HABERSHAM ST,commercial_industrial,539,commercial_property,,1,0.48313492063492064,False,25.0
+20004 60001,DRAYTON ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20004 60001A,127 ABERCORN ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20004 60002,111 E PRESIDENT ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20005 04001,480 E BAY ST,commercial_industrial,345,commercial_property,,0,0.0,False,25.0
+20005 04003A,520 E BRYAN ST,residential,RES,hotel_or_lodging,City_existing_hotel_inventory:Four Points Sheraton,1,0.48313492063492064,True,25.0
+20005 05001,601 E BAY ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594 | City_existing_hotel_inventory:The Brice,0,0.0,False,25.0
+20005 11001,21 E BROAD ST,commercial_industrial,3442,commercial_property,,2,0.9662698412698413,False,25.0
+20005 14004,518 E BROUGHTON ST,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20005 14011,517 E CONGRESS ST,commercial_industrial,344,commercial_property,,3,1.4494047619047619,False,25.0
+20005 14013,502 E BROUGHTON ST,commercial_industrial,459,commercial_property,,3,1.4494047619047619,True,25.0
+20005 17001,555 E BROUGHTON ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20005 17012,537 E BROUGHTON ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20005 23002,120 HABERSHAM ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20005 23003,120 HABERSHAM ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20005 26004,125 E BROAD ST #A,commercial_industrial,344,commercial_property,,0,0.0,True,25.0
+20005 26007,125 E BROAD ST #1C,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20005 26008,125 E BROAD ST #1D,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20005 27001,130 HOUSTON ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20005 29002,425 E PRESIDENT ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20005 29004,128 HABERSHAM ST,commercial_industrial,344,commercial_property,,4,1.9325396825396826,False,25.0
+20005 31001,129 E BROAD ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20005 31004,540 E OGLETHORPE AVE,commercial_industrial,3442,commercial_property,,14,6.763888888888888,False,25.0
+20005 31005,134 HOUSTON ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20005 31008,545 E YORK ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20005A04001,501 E BAY ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20005A04002,6 PRICE ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20005A04003,6 PRICE ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20005A04004,6 PRICE ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20014 01002,513 E OGLETHORPE AVE #A,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01003,513 E OGLETHORPE AVE #B,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01004,513 E OGLETHORPE AVE #C,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01005,513 E OGLETHORPE AVE #D,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01006,513 E OGLETHORPE AVE #E,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01007,513 E OGLETHORPE AVE #F,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01008,513 E OGLETHORPE AVE #G,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01009,513 E OGLETHORPE AVE #H,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01010,513 E OGLETHORPE AVE #I,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01011,513 E OGLETHORPE AVE #J,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01012,513 E OGLETHORPE AVE #K,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01013,513 E OGLETHORPE AVE #L,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01014,513 E OGLETHORPE AVE #M,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01015,513 E OGLETHORPE AVE #N,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01016,513 E OGLETHORPE AVE #O,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 01017,513 E OGLETHORPE AVE #P,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 02002,213 E BROAD ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20014 02008,541 E OGLETHORPE AVE,commercial_industrial,344,commercial_property,,5,2.4156746031746033,False,25.0
+20014 02016,598 E HULL ST,commercial_industrial,326,commercial_property,,0,0.0,False,25.0
+20014 02017,500 E HULL ST,commercial_industrial,326,commercial_property,,0,0.0,False,25.0
+20014 02019,209 BROAD ST E,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20014 05003,225 HOUSTON ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20014 07003,224 HOUSTON ST,commercial_industrial,539,commercial_property,,16,7.73015873015873,False,25.0
+20014 10002,530 E LIBERTY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20014 10003,510 E LIBERTY ST,commercial_industrial,352,commercial_property,,0,0.0,False,25.0
+20014 12001,413 E LIBERTY ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20014 12013A,409 E LIBERTY ST,commercial_industrial,459,commercial_property,,1,0.48313492063492064,True,25.0
+20014 12014,411 E LIBERTY ST,commercial_industrial,3442,commercial_property,,0,0.0,False,25.0
+20014 13001A,541 E LIBERTY ST,commercial_industrial,3442,commercial_property,,0,0.0,False,25.0
+20014 13011,501 E LIBERTY ST,commercial_industrial,494,commercial_property,,3,1.4494047619047619,False,25.0
+20014 13019,317 E BROAD ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 01002,128 ABERCORN ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 01003,225 E PRESIDENT ST,commercial_industrial,539,hotel_or_lodging,City_existing_hotel_inventory:Presidents Quarters,0,0.0,False,25.0
+20015 02001,307 E PRESIDENT ST,commercial_industrial,539,hotel_or_lodging,City_existing_hotel_inventory:1790 Inn,0,0.0,False,25.0
+20015 04001,136 HABERSHAM ST,commercial_industrial,3443,commercial_property,,6,2.8988095238095237,False,25.0
+20015 04010,409 E YORK ST,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20015 05004,309 E YORK ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20015 05005,311 E YORK ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 05017,145 HABERSHAM ST,commercial_industrial,344,commercial_property,,5,2.4156746031746033,False,25.0
+20015 06015,204 E OGLETHORPE AVE,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20015 07011,144 DRAYTON ST,commercial_industrial,3442,commercial_property,,1,0.48313492063492064,False,25.0
+20015 08001,136 BULL ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20015 08002,5 E YORK ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20015 08003,11 E YORK ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 08004,13 E YORK ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 08005,15 E YORK ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 08007,21 E YORK ST,commercial_industrial,344,commercial_property,,0,0.0,True,25.0
+20015 08008,25 E YORK ST,commercial_industrial,353,commercial_property,,0,0.0,True,25.0
+20015 08009,24 E OGLETHORPE AVE,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 08013,14 E OGLETHORPE AVE,other_or_unknown,539,hotel_or_lodging,City_existing_hotel_inventory:Ballastone Inn,0,0.0,False,25.0
+20015 08014,20 E OGLETHORPE AVE,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 08018,17 E YORK ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20015 09002,23 W YORK ST,commercial_industrial,9000,commercial_property,,1,0.48313492063492064,False,25.0
+20015 09005B,137 BULL ST #2,commercial_industrial,353,commercial_property,,14,6.763888888888888,False,25.0
+20015 09005C,135 BULL ST #3,commercial_industrial,353,commercial_property,,2,0.9662698412698413,False,25.0
+20015 09006,143 BULL ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20015 09022,22 W OGLETHORPE AVE #H,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20015 09023,141 BULL ST #1A,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20015 09024,139 BULL ST #1B,commercial_industrial,353,commercial_property,,3,1.4494047619047619,False,25.0
+20015 09026,21 W YORK ST,commercial_industrial,353,commercial_property,,4,1.9325396825396826,False,25.0
+20015 09027,15 W YORK ST,commercial_industrial,353,commercial_property,,4,1.9325396825396826,False,25.0
+20015 09028,13 W YORK ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 09029,7 W YORK ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 09030,5 W YORK ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 09063,134 WHITAKER ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20015 12004,215 WHITAKER ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 12008,W HULL ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 12010,119 W OGLETHORPE AVE,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20015 12010A,115 W OGLETHORPE AVE,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20015 13006,14 W HULL ST,commercial_industrial,539,hotel_or_lodging,City_existing_hotel_inventory:Foley House Inn,0,0.0,False,25.0
+20015 13007,16 W HULL ST,commercial_industrial,539,commercial_property,,2,0.9662698412698413,False,25.0
+20015 13013,220 WHITAKER ST,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20015 15009,214 DRAYTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 20001,222 BULL ST,commercial_industrial,311,commercial_property,,0,0.0,False,25.0
+20015 20002,222 DRAYTON ST,commercial_industrial,459,commercial_at_or_above_annual_call_threshold,,375,181.17559523809524,True,25.0
+20015 20006,256 E PERRY ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594 | City_existing_hotel_inventory:Perry Lane Hotel,0,0.0,False,25.0
+20015 20007,22 E MCDONOUGH ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 20008,231 DRAYTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 20011,230 BULL ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20015 20012,232 BULL ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20015 23003,17 W MCDONOUGH ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 27013,120 W LIBERTY ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 27014,124 W LIBERTY ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 27015,128 W LIBERTY ST,commercial_industrial,539,commercial_property,,0,0.0,False,25.0
+20015 27017,102 W LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 27018,104 W LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 27019,106 W LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 27020,108 W LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 27021,110 W LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 28011,12 W LIBERTY ST,commercial_industrial,353,commercial_property,,3,1.4494047619047619,False,25.0
+20015 28012,14 W LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 28013,20 W LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 28014,18 W LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 28018,4 W LIBERTY ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20015 28019,8 W LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 29005,17 E PERRY ST,commercial_industrial,3442,commercial_property,,0,0.0,False,25.0
+20015 29006,241 DRAYTON ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20015 29008,20 E LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 29010,6 E LIBERTY ST,commercial_industrial,353,commercial_property,,0,0.0,True,25.0
+20015 29011,2 E LIBERTY ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20015 29074,24 E LIBERTY ST #83,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 29077,24 E LIBERTY ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 29079,24 E LIBERTY ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 29082,11 E PERRY ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20015 29083,13 E PERRY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 29088,2 E PERRY LN,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 29089,242 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 30001,236 DRAYTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 30002,255 E PERRY ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20015 30009,122 E LIBERTY ST,commercial_industrial,353,commercial_property,,2,0.9662698412698413,False,25.0
+20015 30023,102 E LIBERTY ST #8,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 30159,102 E LIBERTY ST #101(WEST),commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 30160,102 E LIBERTY ST #101(EAST),commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 30185,102 E LIBERTY ST #302-304,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 31010,324 E HARRIS ST,commercial_industrial,459,commercial_property,,1,0.48313492063492064,True,25.0
+20015 33004B,123 E LIBERTY ST,commercial_industrial,597,commercial_property,,1,0.48313492063492064,True,25.0
+20015 33005,313 ABERCORN ST,commercial_industrial,459,commercial_property,,5,2.4156746031746033,True,25.0
+20015 33013,318 DRAYTON ST,commercial_industrial,459,commercial_property,,5,2.4156746031746033,False,25.0
+20015 33016,300 DRAYTON ST,commercial_industrial,597,commercial_property,,0,0.0,True,25.0
+20015 33017,LIBERTY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20015 34001,15 E LIBERTY ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594 | City_existing_hotel_inventory:Hilton Desoto,79,38.16765873015873,False,25.0
+20015 34004,300 BULL ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20015 34005,300 BULL ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20015 34006,300 BULL ST #302,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20015 34007,300 BULL ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20015 35001,31 W LIBERTY ST,commercial_industrial,345,commercial_property,,0,0.0,False,25.0
+20015 35012,26 W HARRIS ST,commercial_industrial,3442,commercial_property,,0,0.0,False,25.0
+20015 36002,113 W LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 36003,111 W LIBERTY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20015 36003A,109 W LIBERTY ST,commercial_industrial,539,commercial_property,,5,2.4156746031746033,True,25.0
+20015 36013,101 W LIBERTY ST,commercial_industrial,344,commercial_property,,3,1.4494047619047619,False,25.0
+20015 36014,311 WHITAKER ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20016 01003,225 W BAY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,False,25.0
+20016 01004,200 W BRYAN ST,vacant_or_no_building,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20016 01005,201 W BAY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:Hotel Indigo,0,0.0,False,25.0
+20016 01006,220 W BRYAN ST,commercial_industrial,345,commercial_property,,0,0.0,False,25.0
+20016 02001,301 W BAY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 02005,11 JEFFERSON ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20016 02006,321 W BAY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:Hilton Garden Inn,0,0.0,False,25.0
+20016 03005,420 W BRYAN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 03006,420 W BAY LN,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 03007,W BRYAN ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20016 03009,411 W BAY ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594 | City_existing_hotel_inventory:Doubletree,0,0.0,False,25.0
+20016 04001,15 MARTIN LUTHER KING BLVD,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20016 04004,510 BRYAN ST W,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 09003,30 MARTIN LUTHER KING BLVD,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20016 09006,27 MONTGOMERY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 11006,232 W ST JULIAN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 12001,19 BARNARD ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20016 12004,230 W ST JULIAN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 12005,232 W ST JULIAN ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20016 12007,23 BARNARD ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20016 14001,35 BARNARD ST #201,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20016 14002,209 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 14003,213 W CONGRESS ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20016 14004,223 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 14009,226 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 14010,220 W BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20016 14011,216 W BROUGHTON ST,commercial_industrial,597,commercial_property,,5,2.4156746031746033,False,25.0
+20016 14016,202 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 14100,202 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 14101,204 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 14304,246 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 14305,246 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 14307,240 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 15001,301 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 15002,307 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 15003,311 W CONGRESS ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20016 15004,315 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 15005,319 W CONGRESS ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20016 15006,38 MONTGOMERY ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20016 15011,300 W BROUGHTON ST,commercial_industrial,597,commercial_at_or_above_annual_call_threshold,,62,29.95436507936508,False,25.0
+20016 15012,310 W BROUGHTON ST #A,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 16001,MONTGOMERY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20016 16001A,31 MONTGOMERY ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 16001C,39 MONTGOMERY ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20016 16001D,35 MONTGOMERY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 16003,409 W CONGRESS ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20016 16005,36 MARTIN LUTHER KING BLVD,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20016 16007,424 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 16008,420 W BROUGHTON ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 16009,418 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 16010,408 W BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20016 16011,402 W BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20016 16013,38 MARTIN LUTHER KING BLVD,commercial_industrial,442,commercial_property,,0,0.0,False,25.0
+20016 16014,405 W CONGRESS ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 16016,411 W CONGRESS ST #A,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 16017,411 W CONGRESS ST #B,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20016 16018,411 W CONGRESS ST #C,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 18004A,720 W OGLETHORPE AVE,commercial_industrial,412,commercial_property,,0,0.0,False,25.0
+20016 19003,102 FAHM ST,commercial_industrial,406,commercial_property,,0,0.0,False,25.0
+20016 19004,102 FAHM ST,commercial_industrial,406,commercial_property,,6,2.8988095238095237,False,25.0
+20016 21001,110 ANN ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20016 22002,109 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 22003,111 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 22006,125 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 22008,147 MARTIN LUTHER KING BLVD,commercial_industrial,419,commercial_property,,0,0.0,False,25.0
+20016 22012,135 MARTIN LUTHER KING BLVD,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,False,25.0
+20016 22013,140 ANN ST,commercial_industrial,345,commercial_property,,0,0.0,False,25.0
+20016 22014,512 W OGLETHORPE AVE,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:Aloft,0,0.0,False,25.0
+20016 24002,309 W BROUGHTON ST,commercial_industrial,353,commercial_property,,16,7.73015873015873,False,25.0
+20016 24003,311 W BROUGHTON ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20016 24004,315 W BROUGHTON ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 24005,317 W BROUGHTON ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20016 24006,319 W BROUGHTON ST,commercial_industrial,459,commercial_property,,4,1.9325396825396826,False,25.0
+20016 24012,105 MONTGOMERY ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 24013,325 W BROUGHTON ST,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20016 24014,323 W BROUGHTON ST,commercial_industrial,353,commercial_property,,2,0.9662698412698413,False,25.0
+20016 24015,321 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 24032,301 W BROUGHTON ST #1A,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 24033,301 W BROUGHTON ST #2B,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 24034,301 W BROUGHTON ST #3A,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 24035,301 W BROUGHTON ST #3B,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 25003,207 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,True,25.0
+20016 25005,217 W BROUGHTON ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20016 25006,221 W BROUGHTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 25008,110 JEFFERSON ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 25009,218 W STATE ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 25010,218 W STATE ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 25011,111 BARNARD ST,commercial_industrial,3441,commercial_property,,0,0.0,False,25.0
+20016 25012,225 W BROUGHTON ST #1,commercial_industrial,353,commercial_property,,4,1.9325396825396826,False,25.0
+20016 25013,229 W BROUGHTON ST #2,commercial_industrial,353,commercial_property,,3,1.4494047619047619,False,25.0
+20016 25018,223 W BROUGHTON ST,commercial_industrial,353,commercial_property,,3,1.4494047619047619,False,25.0
+20016 25019,201 W BROUGHTON ST #100,commercial_industrial,353,commercial_property,,17,8.21329365079365,False,25.0
+20016 25020,205 W BROUGHTON ST #101,commercial_industrial,353,commercial_property,,2,0.9662698412698413,False,25.0
+20016 32004,214 W BOUNDARY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 33003,611 W OGLETHORPE AVE,commercial_industrial,343,hotel_or_lodging,City_existing_hotel_inventory:The Thunderbird Inn,0,0.0,False,25.0
+20016 33005,605 W OGLETHORPE AVE,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:Embassy Suites,0,0.0,False,25.0
+20016 33006,606 TURNER BLVD,commercial_industrial,345,commercial_property,,0,0.0,False,25.0
+20016 34001,603 W OGLETHORPE AVE,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:Hampton Inn & Suites,0,0.0,False,25.0
+20016 34002,520 W HULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 34004,223 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20016 36001,301 W YORK ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20016 36004,313 W YORK ST,commercial_industrial,344,commercial_property,,4,1.9325396825396826,False,25.0
+20016 36006A,146 MONTGOMERY ST #1,commercial_industrial,309,commercial_property,,0,0.0,False,25.0
+20016 36006B,144 MONTGOMERY ST #2,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 36006C,MONTGOMERY ST #3,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 36006D,MONTGOMERY ST #4,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 36006E,MONTGOMERY ST #5,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 36012,317 W YORK ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 36014,323 W YORK ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 36015,150 MONTGOMERY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:Springhill Suites,0,0.0,False,25.0
+20016 37003,217 W YORK ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20016 37003A,223 W YORK ST,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20016 37014,213 W YORK ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20031 10001,234 MARTIN LUTHER KING BLVD,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20031 10002,255 MONTGOMERY ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20031 10003,416 W LIBERTY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20031 10004,250 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20031 10005,234 MARTIN LUTHER KING BLVD,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20031 10006,234 MARTIN LUTHER KING BLVD,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20031 13003,415 W LIBERTY ST,vacant_or_no_building,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20031 13003L,415 W LIBERTY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595,0,0.0,False,25.0
+20031 15007,319 TATTNALL ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20031 15007A,317 TATTNALL ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20031 16006,217 W LIBERTY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20031 16007,215 W LIBERTY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20031 18001,325 MARTIN LUTHER KING BLVD,commercial_industrial,419,commercial_property,,0,0.0,False,25.0
+20031 18020,500 W CHARLTON ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:Residence Inn,0,0.0,False,25.0
+20031 19001,321 MONTGOMERY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:Cambria,0,0.0,False,25.0
+20031 20001,321 JEFFERSON ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20031 20012,305 W HARRIS ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20031 20015,320 MONTGOMERY ST,commercial_industrial,595,hotel_or_lodging,assessor_lodging_category_595 | City_existing_hotel_inventory:TRYP by Wyndham,27,13.044642857142858,False,25.0
+20031 21001,325 TATTNALL ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20031 24002,347 MARTIN LUTHER KING BLVD,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20031 24003,351 MARTIN LUTHER KING BLVD,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20031 24004,355 MARTIN LUTHER KING BLVD,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20031 24010,539 W CHARLTON ST,commercial_industrial,311,commercial_property,,0,0.0,False,25.0
+20031 24014,339 MARTIN LUTHER KING BLVD,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20031 24015,343 MARTIN LUTHER KING BLVD,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20031 24016,506 W JONES ST,commercial_industrial,3442,commercial_property,,0,0.0,False,25.0
+20031 24017,508 W JONES ST,commercial_industrial,353,commercial_property,,3,1.4494047619047619,False,25.0
+20031 24018,525 W CHARLTON ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594,0,0.0,False,25.0
+20031 24019,515 W CHARLTON ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20031 25005,348 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20031 25009,405 W CHARLTON ST,commercial_industrial,326,commercial_property,,0,0.0,False,25.0
+20031 27007,346 JEFFERSON ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20031 32006,606 BERRIEN ST,commercial_industrial,309,commercial_property,,0,0.0,False,25.0
+20031 33007,W JONES ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20031 33008,W JONES ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20031 33009,PURSE ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20031 34001,513 W JONES ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20031 34002,512 BERRIEN ST,commercial_industrial,309,commercial_property,,0,0.0,False,25.0
+20031 34003,514 BERRIEN ST,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20031 34006,PURSE ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20031 34007,W JONES ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20031 34008,533 W JONES ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20031 34009,W JONES ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20031 34010,527 W JONES ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20031 34013,521 W JONES ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20031 34014,404 PURSE ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20031 35001,405 MARTIN LUTHER KING BLVD,commercial_industrial,419,commercial_property,,0,0.0,False,25.0
+20031 36007,408 MARTIN LUTHER KING BLVD #410,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20031 36008,406 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20031 36009,402 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20031 37001,301 W JONES ST,commercial_industrial,353,commercial_property,,19,9.179563492063492,False,25.0
+20032 04004,330 ABERCORN ST,commercial_industrial,539,hotel_or_lodging,City_existing_hotel_inventory:Hamilton-Turner Inn,0,0.0,False,25.0
+20032 05001,348 WHITAKER ST,commercial_industrial,353,commercial_property,,8,3.865079365079365,False,25.0
+20032 07003,123 E CHARLTON ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20032 11007,422 HABERSHAM ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20032 12001,E JONES ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20032 12008,HABERSHAM ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20032 13001,404 ABERCORN ST,commercial_industrial,350,commercial_property,,4,1.9325396825396826,False,25.0
+20032 14026,410 DRAYTON ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20032 15033,402 BULL ST,commercial_industrial,353,commercial_property,,9,4.348214285714286,False,25.0
+20032 15034,408 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20032 16001,400 WHITAKER ST,commercial_industrial,353,commercial_property,,11,5.3144841269841265,False,25.0
+20032 16005,5 W JONES ST,commercial_industrial,539,hotel_or_lodging,City_existing_hotel_inventory:Eliza Thompson House,4,1.9325396825396826,False,25.0
+20032 16013,412 WHITAKER ST,commercial_industrial,353,commercial_property,,4,1.9325396825396826,False,25.0
+20032 16014,1 W JONES ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20032 17007,107 W JONES ST,commercial_industrial,459,commercial_property,,2,0.9662698412698413,True,25.0
+20032 17008,105 W JONES ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20032 17009,403 WHITAKER ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20032 17011,414 BARNARD ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20032 17022,411 WHITAKER ST,commercial_industrial,353,commercial_property,,10,4.8313492063492065,False,25.0
+20032 17028,417 WHITAKER ST,commercial_industrial,459,commercial_property,,5,2.4156746031746033,True,25.0
+20032 17029,121 W JONES ST,commercial_industrial,539,commercial_property,,0,0.0,True,25.0
+20032 24001,424 WHITAKER ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20032 42002,127 W GORDON ST,commercial_industrial,539,commercial_property,,0,0.0,False,25.0
+20032 42005,121 W GORDON ST,commercial_industrial,539,commercial_property,,0,0.0,False,25.0
+20032 42006,119 W GORDON ST,commercial_industrial,539,commercial_property,,0,0.0,False,25.0
+20032 42007,117 W GORDON ST,commercial_industrial,539,commercial_property,,0,0.0,False,25.0
+20032 44001,1 E GORDON ST,commercial_industrial,459,commercial_property,,1,0.48313492063492064,True,25.0
+20032 44013,20 E GASTON ST,commercial_industrial,323,commercial_property,,0,0.0,False,25.0
+20032 44014,450 BULL ST,commercial_industrial,323,commercial_property,,0,0.0,False,25.0
+20032 46009,220 E GASTON ST,commercial_industrial,539,hotel_or_lodging,City_existing_hotel_inventory:The Gastonian,8,3.865079365079365,False,25.0
+20032 47009,442 LINCOLN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20032 48013,402 E GASTON ST,commercial_industrial,539,commercial_property,,1,0.48313492063492064,False,25.0
+20032 50003,316 E GASTON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20032 50004,501 HABERSHAM ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20032 50011,304 E HUNTINGDON ST,commercial_industrial,539,commercial_property,,6,2.8988095238095237,False,25.0
+20032 50012,302 E HUNTINGDON ST,commercial_industrial,539,commercial_property,,0,0.0,False,25.0
+20032 51003,209 E GASTON ST,commercial_industrial,539,commercial_property,,0,0.0,False,25.0
+20032 51004,211 E GASTON ST,commercial_industrial,539,hotel_or_lodging,City_existing_hotel_inventory:Dresser-Palmer House,2,0.9662698412698413,False,25.0
+20032 51007,217 E GASTON ST,commercial_industrial,539,commercial_property,,0,0.0,False,25.0
+20032 53006,513 WHITAKER ST,commercial_industrial,459,commercial_property,,3,1.4494047619047619,False,25.0
+20032 55002,205 W GASTON ST,commercial_industrial,9000,commercial_property,,1,0.48313492063492064,False,25.0
+20032 55004A,509 BARNARD ST,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20032 55013,515 BARNARD ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20032 56008,204 W HALL ST,commercial_industrial,342,commercial_property,,3,1.4494047619047619,False,25.0
+20032 56010,212 W HALL ST,commercial_industrial,344,commercial_property,,4,1.9325396825396826,True,25.0
+20032 58006,102 W HALL ST,commercial_industrial,539,commercial_property,,0,0.0,False,25.0
+20032 59005,612 DRAYTON ST,commercial_industrial,323,commercial_property,,0,0.0,False,25.0
+20032 61007,711 WHITAKER ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20032 61009,106 W GWINNETT ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20032 61011,106 W GWINNETT ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20032 61012,106 W GWINNETT ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20032 61013,106 W GWINNETT ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20032 61053,106 W GWINNETT ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20033 03006,439 E BROAD ST,commercial_industrial,7300,commercial_property,,4,1.9325396825396826,False,25.0
+20033 04011,509 BLAIR ST,commercial_industrial,352,commercial_property,,0,0.0,False,25.0
+20033 09009,629 E BROAD ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20033 09010,627 E BROAD ST,commercial_industrial,459,commercial_property,,1,0.48313492063492064,False,25.0
+20043 02002,711 E BROAD ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20043 02003,719 E BROAD ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20044 01003,220 E HALL ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20044 01008,602 ABERCORN ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20044 01012,217 E HUNTINGDON ST,commercial_industrial,539,commercial_property,,8,3.865079365079365,False,25.0
+20044 01013,604 ABERCORN ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20044 04001,700 DRAYTON ST,commercial_industrial,594,hotel_or_lodging,assessor_lodging_category_594 | explicit_Hotel_Bardo_PIN | City_existing_hotel_inventory:Mansion on Forsyth Park / Hotel Bardo,0,0.0,False,25.0
+20044 06008,704 ABERCORN ST,commercial_industrial,353,commercial_property,,3,1.4494047619047619,True,25.0
+20044 06011,213 E HALL ST,commercial_industrial,539,commercial_property,,1,0.48313492063492064,False,25.0
+20044 07009,304 GWINNETT ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20044 08020,720 HABERSHAM ST,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20044 13009,808 DRAYTON ST,commercial_industrial,539,commercial_property,,8,3.865079365079365,False,25.0
+20044 14007,820 ABERCORN ST,commercial_industrial,341,commercial_property,,1,0.48313492063492064,False,25.0
+20044 15015,311 E GWINNETT ST,commercial_industrial,340,commercial_property,,0,0.0,False,25.0
+20044 16001,800 HABERSHAM ST,commercial_industrial,319,commercial_property,,0,0.0,False,25.0
+20044 17001,901 BARNARD ST,commercial_industrial,494,commercial_property,,1,0.48313492063492064,False,25.0
+20044 18001,115 W BOLTON ST,commercial_industrial,309,commercial_property,,1,0.48313492063492064,False,25.0
+20044 20005,118 E WALDBURG ST,commercial_industrial,539,commercial_property,,1,0.48313492063492064,False,25.0
+20044 21021,908 ABERCORN ST,commercial_industrial,341,commercial_property,,7,3.381944444444444,False,25.0
+20044 24001,111 W WALDBURG ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20044 24002,120 W PARK AVE,commercial_industrial,391,commercial_property,,0,0.0,False,25.0
+20044 24003,124 W PARK AVE,commercial_industrial,342,commercial_property,,2,0.9662698412698413,False,25.0
+20044 25001,1001 WHITAKER ST,commercial_industrial,3442,commercial_property,,0,0.0,False,25.0
+20044 25002,1015 WHITAKER ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20044 26008,1020 DRAYTON ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20044 27012,1014 ABERCORN ST,commercial_industrial,459,commercial_property,,2,0.9662698412698413,True,25.0
+20044 27013,1004 ABERCORN ST,commercial_industrial,412,commercial_property,,41,19.808531746031747,False,25.0
+20044 27031,1020 ABERCORN ST,commercial_industrial,459,commercial_property,,4,1.9325396825396826,True,25.0
+20044 30001,101 W PARK AVE,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20044 30029,107 PARK AVE W,commercial_industrial,539,commercial_property,,0,0.0,True,25.0
+20044 31002,1111 BULL ST,commercial_industrial,344,commercial_property,,5,2.4156746031746033,False,25.0
+20044 31007,21 W PARK AVE,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20044 31025,1 W PARK AVE,commercial_industrial,344,commercial_property,,37,17.875992063492063,False,25.0
+20044 34010,1114 ABERCORN ST,commercial_industrial,419,commercial_property,,31,14.97718253968254,False,25.0
+20044 35006,1220 BARNARD ST,commercial_industrial,350,commercial_property,,4,1.9325396825396826,False,25.0
+20044 35024,125 W DUFFY ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20044 36001,1201 BULL ST,commercial_industrial,459,commercial_property,,4,1.9325396825396826,False,25.0
+20044 36002,1211 BULL ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20044 36003,6 W HENRY ST,commercial_industrial,322,commercial_property,,0,0.0,False,25.0
+20044 36004,24 W HENRY ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20044 37001,2 E HENRY ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20045 04056,540 SELMA ST,commercial_industrial,321,commercial_property,,0,0.0,False,25.0
+20045 05005,427 MONTGOMERY ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20045 07006,409 W TAYLOR ST,commercial_industrial,9000,commercial_property,,1,0.48313492063492064,False,25.0
+20045 10008,315 W WAYNE ST,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20045 14001,601 COHEN ST,commercial_industrial,311,commercial_property,,0,0.0,False,25.0
+20045 15003,466 MARTIN LUTHER KING BLVD,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20045 16004,466 MONTGOMERY ST,commercial_industrial,3531,commercial_property,,2,0.9662698412698413,False,25.0
+20045 18001,615 MARTIN LUTHER KING BLVD,commercial_industrial,349,commercial_property,,0,0.0,False,25.0
+20045 19001,601 MARTIN LUTHER KING BLVD,commercial_industrial,349,commercial_property,,0,0.0,False,25.0
+20045 19007,605 MARTIN LUTHER KING BLVD,commercial_industrial,349,commercial_property,,0,0.0,False,25.0
+20045 19009,701 MARTIN LUTHER KING BLVD,commercial_industrial,413,commercial_property,,0,0.0,False,25.0
+20045 20003,512 MARTIN LUTHER KING BLVD,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20045 20004,510 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20045 21001,501 MONTGOMERY ST,commercial_industrial,459,commercial_property,,1,0.48313492063492064,True,25.0
+20045 21007,518 MARTIN LUTHER KING BLVD,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20045 21015,528 MARTIN LUTHER KING BLVD,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20045 22002,500 MONTGOMERY ST,commercial_industrial,528,commercial_property,,21,10.145833333333334,False,25.0
+20045 24005,634 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20045 24006,628 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20045 24007,610 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20045 24008,606 MARTIN LUTHER KING BLVD,commercial_industrial,349,commercial_property,,0,0.0,False,25.0
+20045 25004,608 MONTGOMERY ST,commercial_industrial,326,commercial_property,,0,0.0,False,25.0
+20045 28004,715 MONTGOMERY ST,commercial_industrial,455,commercial_property,,0,0.0,False,25.0
+20045 28008,718 MARTIN LUTHER KING BLVD,commercial_industrial,309,commercial_property,,0,0.0,False,25.0
+20045 29009,702 MONTGOMERY ST,commercial_industrial,455,commercial_property,,6,2.8988095238095237,False,25.0
+20045 29011,313 W HALL ST,commercial_industrial,539,commercial_property,,2,0.9662698412698413,False,25.0
+20045 30011,711 TATTNALL ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20052 01001,405 W GWINNETT ST,commercial_industrial,349,commercial_property,,0,0.0,False,25.0
+20052 02001,802 MONTGOMERY ST,commercial_industrial,3531,commercial_property,,24,11.595238095238095,False,25.0
+20052 03001,902 MONTGOMERY ST,commercial_industrial,419,commercial_property,,2,0.9662698412698413,False,25.0
+20052 03011,914 MONTGOMERY ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20052 04001,900 MARTIN LUTHER KING BLVD,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20052 04002,417 W BOLTON ST,commercial_industrial,352,commercial_property,,0,0.0,False,25.0
+20052 04008,915 MONTGOMERY ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20052 04013,922 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20052 13007,1001 MONTGOMERY ST,commercial_industrial,344,commercial_property,,3,1.4494047619047619,False,25.0
+20052 13014,1018 MARTIN LUTHER KING BLVD,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20052 14001,1002 MONTGOMERY ST,commercial_industrial,344,commercial_property,,3,1.4494047619047619,False,25.0
+20052 17001,1104 MONTGOMERY ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20052 17015,1112 MONTGOMERY ST,commercial_industrial,344,commercial_property,,7,3.381944444444444,False,25.0
+20052 18006,MONTGOMERY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20052 25001,1204 MARTIN LUTHER KING BLVD,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20052 25002,413 W DUFFY ST,commercial_industrial,341,commercial_property,,1,0.48313492063492064,False,25.0
+20052 25007,1223 MONTGOMERY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20052 25008,1221 MONTGOMERY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20052 25009,1219 MONTGOMERY ST,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20052 25013,1216 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20052 26001,325 W DUFFY ST,commercial_industrial,353,commercial_property,,9,4.348214285714286,False,25.0
+20052 26002,1216 MONTGOMERY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20052 26007,300 W HENRY ST,commercial_industrial,459,commercial_property,,2,0.9662698412698413,True,25.0
+20052 26011,1220 MONTGOMERY ST,commercial_industrial,419,commercial_at_or_above_annual_call_threshold,,71,34.30257936507937,False,25.0
+20052 27013,1215 BARNARD ST,commercial_industrial,350,commercial_property,,13,6.280753968253968,False,25.0
+20052 28008,1309 BARNARD ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20052 28010,1309 BARNARD ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20052 29001,1308 MONTGOMERY ST,commercial_industrial,350,commercial_property,,15,7.247023809523809,False,25.0
+20052 29009,314 W ANDERSON ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20052 29012,1314 MONTGOMERY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20052 30002,1308 MARTIN LUTHER KING BLVD,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20052 30004,1313 MONTGOMERY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20053 01002,422 E DUFFY ST,commercial_industrial,309,commercial_property,,0,0.0,False,25.0
+20053 03001,1201 ABERCORN ST,commercial_industrial,309,commercial_property,,0,0.0,False,25.0
+20053 03017,1210 DRAYTON ST,commercial_industrial,419,commercial_property,,0,0.0,False,25.0
+20053 04010,1216 ABERCORN ST,commercial_industrial,350,commercial_property,,4,1.9325396825396826,False,25.0
+20053 04011B,1206 ABERCORN ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20053 05001,1201 HABERSHAM ST,commercial_industrial,350,commercial_property,,12,5.7976190476190474,False,25.0
+20053 06003,416 E HENRY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20053 06008,1220 HABERSHAM ST,commercial_industrial,353,commercial_property,,6,2.8988095238095237,False,25.0
+20053 06014,467 E HENRY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20053 08003,1315 BULL ST,commercial_industrial,597,commercial_property,,0,0.0,False,25.0
+20053 10001,1309 ABERCORN ST,commercial_industrial,344,commercial_property,,3,1.4494047619047619,False,25.0
+20053 10003,1317 ABERCORN ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20053 10009,1312 DRAYTON ST,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20053 11001,1301 LINCOLN ST,commercial_industrial,412,commercial_property,,0,0.0,False,25.0
+20053 11012,1310 ABERCORN ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20053 11016,217 E HENRY ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20053 12001,319 E HENRY ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20053 12003,1313 HABERSHAM ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20053 14002,1309 E BROAD ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20053 17001,101 E ANDERSON ST,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20053 17003,1413 ABERCORN ST,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20053 17004,1415 ABERCORN ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20053 18005,210 E 31ST ST,commercial_industrial,344,commercial_property,,5,2.4156746031746033,False,25.0
+20053 18006,200 E 31ST ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20053 19001,1401 HABERSHAM ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20053 20013,1402 HABERSHAM ST,commercial_industrial,350,commercial_property,,4,1.9325396825396826,False,25.0
+20053 22003,1515 BULL ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20053 22008,16 W 32ND ST,commercial_industrial,309,commercial_property,,0,0.0,False,25.0
+20053 22010,1516 WHITAKER ST,commercial_industrial,309,commercial_property,,0,0.0,False,25.0
+20053 23010,1514 BULL ST,commercial_industrial,350,commercial_property,,6,2.8988095238095237,False,25.0
+20053 23016,1520 BULL ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20053 23017,1522 BULL ST,commercial_industrial,3531,commercial_property,,1,0.48313492063492064,False,25.0
+20053 23018,1526 BULL ST,commercial_industrial,3531,commercial_property,,8,3.865079365079365,False,25.0
+20053 24003,1515 ABERCORN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20053 24009,1510 DRAYTON ST,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20053 24013,1501 ABERCORN ST,commercial_industrial,341,commercial_property,,16,7.73015873015873,False,25.0
+20053 24015,1505 ABERCORN ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20053 25014,207 E 31ST ST,commercial_industrial,3443,commercial_property,,5,2.4156746031746033,False,25.0
+20053 28001,1501 E BROAD ST,commercial_industrial,326,commercial_property,,0,0.0,False,25.0
+20053 30015,1602 BULL ST,commercial_industrial,412,commercial_property,,0,0.0,False,25.0
+20053 30016,1608 BULL ST,commercial_industrial,412,commercial_property,,14,6.763888888888888,False,25.0
+20053 31001,1601 ABERCORN ST,commercial_industrial,341,commercial_property,,1,0.48313492063492064,False,25.0
+20053 33002,1611 HABERSHAM ST,commercial_industrial,350,commercial_property,,13,6.280753968253968,False,25.0
+20053 37002,22 E 34TH ST,commercial_industrial,344,commercial_property,,27,13.044642857142858,False,25.0
+20053 37005,1718 BULL ST,commercial_industrial,350,commercial_property,,2,0.9662698412698413,False,25.0
+20053 37006,1714 BULL ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20053 37007,1710 BULL ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20053 37008,1702 BULL ST,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20053 38002,1703 ABERCORN ST,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20053 38004,1719 ABERCORN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20053 38005,120 E 34TH ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20053 38006,118 E 34TH ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20053 39021,1710 ABERCORN ST,commercial_industrial,459,commercial_property,,8,3.865079365079365,False,25.0
+20053 39022,1702 ABERCORN ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20064 10013,1801 HABERSHAM ST,commercial_industrial,350,commercial_property,,4,1.9325396825396826,False,25.0
+20064 11008,414 E 35TH ST,commercial_industrial,424,commercial_property,,3,1.4494047619047619,False,25.0
+20064 23013,1916 HABERSHAM ST,commercial_industrial,459,commercial_property,,1,0.48313492063492064,False,25.0
+20064 32002,502 E 37TH ST,commercial_industrial,494,commercial_property,,0,0.0,False,25.0
+20064 33001,410 E 37TH ST,commercial_industrial,3443,commercial_property,,0,0.0,False,25.0
+20064 34001,2101 PRICE ST,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20064 34003,2111 PRICE ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20064 35001,2112 PRICE ST,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20064 40013,2121 E BROAD ST,commercial_industrial,311,commercial_property,,0,0.0,False,25.0
+20064 42001,2200 HABERSHAM ST,commercial_industrial,419,commercial_property,,2,0.9662698412698413,False,25.0
+20064 42005,2201 PRICE ST,commercial_industrial,412,commercial_property,,0,0.0,False,25.0
+20064 42011,2216 HABERSHAM ST,commercial_industrial,3531,commercial_property,,1,0.48313492063492064,False,25.0
+20064 43001,2200 PRICE ST,commercial_industrial,326,commercial_property,,0,0.0,False,25.0
+20065 01005,1801 ABERCORN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 01006,118 E 35TH ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 01007,104 E 35TH ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 01009,1805 ABERCORN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 02005,1818 ABERCORN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 02006,1816 ABERCORN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 02007,1810 ABERCORN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 02008,1808 ABERCORN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 04005,1901 ABERCORN ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20065 04010,1903 ABERCORN ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20065 04013,113 E 35TH ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20065 06002,1901 BULL ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 06005,1915 BULL ST,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20065 06006,1919 BULL ST,commercial_industrial,459,commercial_property,,34,16.4265873015873,False,25.0
+20065 06009,20 W 36TH ST,commercial_industrial,352,commercial_property,,5,2.4156746031746033,False,25.0
+20065 08010,322 W 37TH ST,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20065 11002,102 W 37TH ST,commercial_industrial,419,commercial_property,,21,10.145833333333334,False,25.0
+20065 12006,2011 BULL ST,commercial_industrial,459,commercial_property,,25,12.078373015873016,False,25.0
+20065 14006,2007 ABERCORN ST,commercial_industrial,3531,commercial_property,,2,0.9662698412698413,False,25.0
+20065 15002,206 E 37TH ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 15004,212 E 37TH ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 15005,2010 ABERCORN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 15006,202 E 37TH ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 16006,2019 HABERSHAM ST,commercial_industrial,350,commercial_property,,4,1.9325396825396826,False,25.0
+20065 19001,105 E 37TH ST,commercial_industrial,350,commercial_property,,8,3.865079365079365,False,25.0
+20065 19010A,2108 DRAYTON ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20065 20001,2100 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 20009,2112 BULL ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20065 21003,2101 BULL ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 21004,2107 BULL ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 24001,2100 MONTGOMERY ST,commercial_industrial,419,commercial_at_or_above_annual_call_threshold,,146,70.53769841269842,False,25.0
+20065 24012,2110 MONTGOMERY ST,commercial_industrial,419,commercial_property,,18,8.696428571428571,False,25.0
+20065 25007,2210 MONTGOMERY ST,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20065 29004,2217 BULL ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20065 29016,2201 BULL ST,commercial_industrial,309,commercial_property,,0,0.0,False,25.0
+20065 30014,2222 BULL ST,commercial_industrial,3441,commercial_property,,3,1.4494047619047619,False,25.0
+20065 32011,2222 ABERCORN ST,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20065 34001,303 E 38TH ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 34009,2212 LINCOLN ST,commercial_industrial,353,commercial_property,,2,0.9662698412698413,False,25.0
+20065 35002,2305 HABERSHAM ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20065 37004,2312 ABERCORN ST,commercial_industrial,353,commercial_property,,2,0.9662698412698413,False,25.0
+20065 38008,2313 ABERCORN ST,commercial_industrial,528,commercial_property,,1,0.48313492063492064,False,25.0
+20065 38012,2310 DRAYTON ST,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20065 38013,104 E 40TH ST,commercial_industrial,412,commercial_property,,0,0.0,False,25.0
+20065 39001,2302 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 39002,9 E 39TH ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 39008,2309 DRAYTON ST,commercial_industrial,459,commercial_property,,1,0.48313492063492064,False,25.0
+20065 39015,BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 40004,2301 BULL ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20065 40005,2307 BULL ST,commercial_industrial,442,commercial_property,,0,0.0,False,25.0
+20065 40006,2315 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 43020,2323 BARNARD ST,commercial_industrial,3531,commercial_property,,1,0.48313492063492064,False,25.0
+20065 44014,2310 MONTGOMERY ST,commercial_industrial,350,commercial_property,,9,4.348214285714286,False,25.0
+20065 46003,111 W 40TH ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20065 47002,2411 DESOTO AVE,commercial_industrial,350,commercial_at_or_above_annual_call_threshold,,54,26.089285714285715,False,25.0
+20065 47009,2401 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 47010,2417 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 47011,2418 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47012,2420 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47013,2422 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47014,2424 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47015,2425 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 47016,2421 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47017,2423 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47018,2425 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47019,2427 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47020,12 W 41ST ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47022,2425 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20065 47023,2405 BULL ST,commercial_industrial,3531,commercial_property,,4,1.9325396825396826,False,25.0
+20065 47024,2409 BULL ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47025,2413 BULL ST,commercial_industrial,3531,commercial_property,,4,1.9325396825396826,False,25.0
+20065 47032,5 W 40TH ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47033,9 W 40TH ST,commercial_industrial,3531,commercial_property,,1,0.48313492063492064,False,25.0
+20065 47042,2408 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47043,2410 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47044,2414 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20065 47045,2404 DESOTO AVE,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20066 04001,1407 MONTGOMERY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20066 04002,1410 MARTIN LUTHER KING BLVD,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20066 04003,1408 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20066 04004,1400 MARTIN LUTHER KING BLVD,commercial_industrial,391,commercial_property,,0,0.0,False,25.0
+20066 07012,1402 BARNARD ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20066 07024,113 W ANDERSON ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20066 11007,1516 MONTGOMERY ST,commercial_industrial,419,commercial_property,,27,13.044642857142858,False,25.0
+20066 16002,1607 MONTGOMERY ST,commercial_industrial,9000,commercial_property,,18,8.696428571428571,False,25.0
+20066 16006,1602 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20066 19001,1601 WHITAKER ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20066 25003,1809 MONTGOMERY ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20066 25006,416 KLINE ST,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20066 25007,1812 MARTIN LUTHER KING BLVD,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20066 26013,1708 MONTGOMERY ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20066 28007,1725 WHITAKER ST,commercial_industrial,344,commercial_property,,2,0.9662698412698413,False,25.0
+20066 33004,1825 MONTGOMERY ST,commercial_industrial,419,commercial_property,,0,0.0,False,25.0
+20066 34003,302 W 35TH ST,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20066 34008,318 W 35TH ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20066 34009,1820 MONTGOMERY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20066 34010,1816 MONTGOMERY ST,commercial_industrial,419,commercial_property,,39,18.842261904761905,False,25.0
+20066 35001,1803 BARNARD ST,commercial_industrial,494,commercial_property,,0,0.0,False,25.0
+20066 38001,103 BRADY ST,commercial_industrial,459,commercial_property,,1,0.48313492063492064,False,25.0
+20066 43002,402 W 36TH ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20066 43008,1910 MARTIN LUTHER KING BLVD,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20066 44008,1902 MONTGOMERY ST,commercial_industrial,3531,commercial_property,,1,0.48313492063492064,False,25.0
+20066 44014,1930 MONTGOMERY ST,commercial_industrial,353,commercial_property,,3,1.4494047619047619,False,25.0
+20066 45003,202 W 36TH ST,commercial_industrial,3531,commercial_property,,3,1.4494047619047619,False,25.0
+20073 11004,407 W 36TH ST,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20073 11005,2001 MONTGOMERY ST,commercial_industrial,455,commercial_property,,0,0.0,False,25.0
+20073 11006,2021 MONTGOMERY ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20073 11008,2010 MARTIN LUTHER KING BLVD,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20073 12003,401 W 37TH ST,commercial_industrial,459,commercial_property,,3,1.4494047619047619,False,25.0
+20073 14001,2300 MARTIN LUTHER KING BLVD,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20073 14004,2301 MONTGOMERY ST,commercial_industrial,391,commercial_property,,17,8.21329365079365,False,25.0
+20073 14007,2324 MARTIN LUTHER KING BLVD,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20073 28006,2401 MONTGOMERY ST,commercial_industrial,353,commercial_property,,3,1.4494047619047619,False,25.0
+20073 28008A,2415 MONTGOMERY ST,commercial_industrial,3531,commercial_property,,1,0.48313492063492064,False,25.0
+20073 29001,2404 MONTGOMERY ST,commercial_industrial,455,commercial_property,,1,0.48313492063492064,False,25.0
+20073 29012,2414 MONTGOMERY ST,commercial_industrial,442,commercial_property,,0,0.0,False,25.0
+20073 30001,W 41ST ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20073 30008,2510 MONTGOMERY ST,commercial_industrial,350,commercial_property,,10,4.8313492063492065,False,25.0
+20073 31007,2513 MONTGOMERY ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20073 31008,414 W 42ND ST,commercial_industrial,528,commercial_property,,1,0.48313492063492064,False,25.0
+20074 01011,14 MAUPAS AVE,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20074 01018,2423 DRAYTON ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20074 01019,2400 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20074 02025,2424 DRAYTON ST #E,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20074 03001,2423 ABERCORN ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20074 03002,2427 ABERCORN ST,commercial_industrial,309,commercial_property,,1,0.48313492063492064,False,25.0
+20074 03004,116 E 41ST ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20074 03005,114 E 41ST ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20074 03006,112 E 41ST ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20074 03008,104 E 41ST ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20074 04011,28 E 41ST ST,commercial_industrial,344,commercial_property,,3,1.4494047619047619,False,25.0
+20074 04020,2432 BULL ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20074 04023,15 MAUPAS AVE,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20074 04024,25 MAUPAS AVE,commercial_industrial,528,commercial_property,,2,0.9662698412698413,False,25.0
+20074 05011,216 W 42ND ST,commercial_industrial,326,commercial_property,,3,1.4494047619047619,False,25.0
+20074 06011,114 W 42ND ST,commercial_industrial,344,commercial_property,,4,1.9325396825396826,False,25.0
+20074 06012,2506 BARNARD ST,commercial_industrial,353,commercial_property,,2,0.9662698412698413,False,25.0
+20074 07003,2501 BULL ST,commercial_industrial,442,commercial_property,,0,0.0,False,25.0
+20074 07004,2505 BULL ST,commercial_industrial,442,commercial_property,,0,0.0,False,25.0
+20074 07005,2517 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20074 07006,2517 W 42ND ST,commercial_industrial,391,commercial_property,,0,0.0,False,25.0
+20074 08009,2514 BULL ST,commercial_industrial,349,commercial_property,,51,24.639880952380953,False,25.0
+20074 10001,2505 ABERCORN ST,commercial_industrial,304,commercial_property,,0,0.0,False,25.0
+20074 10003,2515 ABERCORN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20074 10004,2517 ABERCORN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20074 10009,120 E 42ND ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20074 11001,102 E VICTORY DR,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20074 11003,E VICTORY DR,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20074 11004,130 E VICTORY DR,commercial_industrial,419,commercial_property,,0,0.0,False,25.0
+20074 11005,198 E VICTORY DR,commercial_industrial,419,commercial_property,,0,0.0,False,25.0
+20074 12003,2601 DRAYTON ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20074 14001,14 W 43RD ST,commercial_industrial,353,commercial_property,,0,0.0,True,25.0
+20074 14002,2601 BULL ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20074 15003,2601 WHITAKER ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20074 17001,2602 MONTGOMERY ST,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20074 21001,2614 MONTGOMERY ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20074 21010,2626 W VICTORY DR,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20074 21013,310 W VICTORY DR,commercial_industrial,9000,commercial_property,,5,2.4156746031746033,False,25.0
+20074 21014,302 W VICTORY DR,commercial_industrial,412,commercial_property,,19,9.179563492063492,False,25.0
+20074 22007,2601 BARNARD ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20074 22008,204 W VICTORY DR,commercial_industrial,353,commercial_property,,3,1.4494047619047619,False,25.0
+20074 22009,210 W VICTORY DR,commercial_industrial,353,commercial_property,,2,0.9662698412698413,False,25.0
+20074 23004,2603 WHITAKER ST,commercial_industrial,311,commercial_property,,0,0.0,False,25.0
+20074 23005,2605 WHITAKER ST,commercial_industrial,350,commercial_property,,0,0.0,False,25.0
+20074 23006,102 W VICTORY DR,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20074 23008,112 W VICTORY DR,commercial_industrial,528,commercial_property,,0,0.0,False,25.0
+20074 23009,112 W VICTORY DR,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20074 24001,15 W 43RD ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20074 24004,2701 BULL ST,commercial_industrial,419,commercial_property,,0,0.0,False,25.0
+20074 24005,2705 BULL ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20074 24006,8 VICTORY DR W,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20074 33001,2805 BULL ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20075 04005,2305 PRICE ST,commercial_industrial,459,commercial_property,,0,0.0,True,25.0
+20075 04011,402 E 40TH ST,commercial_industrial,352,commercial_property,,5,2.4156746031746033,False,25.0
+20075 05011,535 E 39TH ST,commercial_industrial,350,commercial_property,,12,5.7976190476190474,False,25.0
+20075 08007,2423 LINCOLN ST,commercial_industrial,326,commercial_property,,1,0.48313492063492064,False,25.0
+20075 08009,224 E 41ST ST,commercial_industrial,442,commercial_property,,0,0.0,False,25.0
+20075 08010,222 E 41ST ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20075 08011,218 E 41ST ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20075 08012,216 E 41ST ST,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20075 08013,208 E 41ST ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20075 08014,2430 ABERCORN ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20075 08015,2426 ABERCORN ST,commercial_industrial,459,commercial_property,,0,0.0,False,25.0
+20075 08016,2424 ABERCORN ST,commercial_industrial,442,commercial_property,,0,0.0,False,25.0
+20075 08017,2422 ABERCORN ST,commercial_industrial,353,commercial_property,,4,1.9325396825396826,False,25.0
+20075 08019,2416 ABERCORN ST,commercial_industrial,344,commercial_property,,3,1.4494047619047619,False,25.0
+20075 08021,209 E 40TH ST,commercial_industrial,353,commercial_property,,1,0.48313492063492064,False,25.0
+20075 10011,2412 HABERSHAM ST,commercial_industrial,3531,commercial_property,,0,0.0,False,25.0
+20075 14008,302 E 41ST ST,commercial_industrial,353,commercial_property,,10,4.8313492063492065,False,25.0
+20075 14010,2431 HABERSHAM ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20075 15001,2430 HABERSHAM ST,commercial_industrial,350,commercial_property,,17,8.21329365079365,False,25.0
+20075 15011,E 41ST ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20075 15013,414 E 41ST ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20075 19001,2502 ABERCORN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20075 19002,2506 ABERCORN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20075 19003,207 E 41ST ST,commercial_industrial,9000,commercial_property,,0,0.0,False,25.0
+20075 19004,217 E 41ST ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20075 19005,2501 LINCOLN ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20075 19008,2514 ABERCORN ST,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20075 19023,2514 ABERCORN ST #110,commercial_industrial,344,commercial_property,,0,0.0,False,25.0
+20075 19024,2514 ABERCORN ST #120,commercial_industrial,353,commercial_property,,0,0.0,False,25.0
+20075 20006,2515 HABERSHAM ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20075 20007,E 42ND ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20075 20008,LINCOLN ST,commercial_industrial,341,commercial_property,,0,0.0,False,25.0
+20075 20017,2501 HABERSHAM ST,commercial_industrial,528,commercial_property,,6,2.8988095238095237,False,25.0
+20075 21001,2502 HABERSHAM ST,commercial_industrial,3442,commercial_property,,1,0.48313492063492064,False,25.0
+20075 21007,2512 HABERSHAM ST,commercial_industrial,344,commercial_property,,1,0.48313492063492064,False,25.0
+20075 25003,2606 ABERCORN ST,commercial_industrial,419,commercial_at_or_above_annual_call_threshold,,136,65.7063492063492,False,25.0

@@ -1,0 +1,9 @@
+{
+  "default_percent": 59,
+  "source_url": "https://www.airdna.co/vacation-rental-data/app/us/georgia/savannah/overview",
+  "source_updated": "2026-10-20",
+  "verified_on": "2026-10-21",
+  "definition": "Booked nights divided by available nights, averaged over active listings.",
+  "formula": "STVR calendar-year rate / (assumed occupancy percent / 100)",
+  "assumptions": "Year-round availability; citywide snapshot applied across study period; not property-specific observed occupancy or event attribution."
+}

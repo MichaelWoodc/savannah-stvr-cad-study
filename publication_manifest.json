@@ -1,0 +1,202 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 9,
+    "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 32,
+    "sha256": "df43e5994fb84e1a57a0db6bd9d242a2b6c9d68cc6d952475a6b631cbdf27dfe"
+  },
+  {
+    "path": ".nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "app.js",
+    "bytes": 15972,
+    "sha256": "e1fe5212eae94d04d8956ef9b90f88ddb03cc698f464ace2c717bfb3f255dcf6"
+  },
+  {
+    "path": "call-badges.js",
+    "bytes": 2258,
+    "sha256": "f4d4057e684bdafe503c211b1ce7deabd5a166d422f76f578b316b8432d00d9a"
+  },
+  {
+    "path": "cohort_statistics.csv",
+    "bytes": 1169,
+    "sha256": "158dd2456713951bc2bcb91268478b739271dc0d9933aeb0f5873383c3615937"
+  },
+  {
+    "path": "data.js",
+    "bytes": 12194321,
+    "sha256": "34028f2f8bf45835b9f964b35950371c86ed9795ffd7915a0997b0e4bff965c9"
+  },
+  {
+    "path": "excluded_properties.csv",
+    "bytes": 102599,
+    "sha256": "2d0ec122bb34d7d123fa5e4206df26157ec3fc21d7710abcfb1524e04b8f7421"
+  },
+  {
+    "path": "excluded_tybee_listings.csv",
+    "bytes": 1062006,
+    "sha256": "6b71bdeec8339dc28dc419ed3d23802273e0d55c57b17f909728844a72529247"
+  },
+  {
+    "path": "index.html",
+    "bytes": 14222,
+    "sha256": "810c156fea26df8b57ed0c7d51e4cd3520b6a11f1f89b481cc2ce00d2d64a498"
+  },
+  {
+    "path": "license_matches.csv",
+    "bytes": 311270,
+    "sha256": "450f6c9e6614b39f1fcef343418c78db50919c8588eeaf48c2cb30a1840745aa"
+  },
+  {
+    "path": "listing_feature_statistics.csv",
+    "bytes": 25972,
+    "sha256": "4470ef51ebf67fd469eed24fa66fd654533b0d459a5834fbc51d80027191d519"
+  },
+  {
+    "path": "listing_keyword_evidence.csv",
+    "bytes": 20853986,
+    "sha256": "cd21ef02df009a2242cd4ca10ca99fc156e402fab80048d5428a9d7d29b80f96"
+  },
+  {
+    "path": "listing_screen_all.csv",
+    "bytes": 2949682,
+    "sha256": "d1ed2eee8b72ef44b3dc14b86427b7820379d5f17459ec83b50312a385e8ea39"
+  },
+  {
+    "path": "listings.js",
+    "bytes": 30123,
+    "sha256": "b81c2d935040064e5b9357b1afb6cf7e819782c016ef79e2e83ba37e5034798b"
+  },
+  {
+    "path": "neighbor_call_membership.csv",
+    "bytes": 644536,
+    "sha256": "aff6cf99186e2fd0d555a610f5f57d96330a92aab48ab76ba7197c69ea25cc1b"
+  },
+  {
+    "path": "neighbor_category_breakdown.csv",
+    "bytes": 22478,
+    "sha256": "c24e79f29e2758fc8806c5ac51d86b30167d8468090d3b7a44ff797403e3a76a"
+  },
+  {
+    "path": "neighbor_only_statistics.csv",
+    "bytes": 1435,
+    "sha256": "e823d54bdb762f8df03778f466b4e91dd769170b361397fa40e0e1688a4bea59"
+  },
+  {
+    "path": "occupancy_source.json",
+    "bytes": 519,
+    "sha256": "b9d645c6b9b34408ab5650417879718bed055f8a9eefb3eaf7bab08da6df066c"
+  },
+  {
+    "path": "overall_comparison_default_59_percent.csv",
+    "bytes": 1360,
+    "sha256": "72b8c092e51c0e2e295c2c91fcba4be08ec2592f6108dd264bc877137db71289"
+  },
+  {
+    "path": "parcel_rates.csv",
+    "bytes": 1186998,
+    "sha256": "e138c0ce4c6d990269fb9e85ad3421588cc0607971984b223c48c21c7c9f3337"
+  },
+  {
+    "path": "preferences.js",
+    "bytes": 2675,
+    "sha256": "8aa989493786d8b6e52632520eb659951944b15f7d8c4f2f6444360ae9531f6c"
+  },
+  {
+    "path": "random_residential_sample.csv",
+    "bytes": 60665,
+    "sha256": "8792a36fcb215f8eae167b0086121d98ab3bf4b7275fb12e80e8c53d905faedd"
+  },
+  {
+    "path": "ranked_listings_with_calls.csv",
+    "bytes": 649771,
+    "sha256": "09b2be1bee52f3299c5ee5a6d4d2520f825e7b43c40b54dbbbee1fd0e6586fba"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2045,
+    "sha256": "c92e6aff782315b0c7be3a5fbe8fecf53a8cced567fa10ffecd64e6379f5a20e"
+  },
+  {
+    "path": "REPORT.md",
+    "bytes": 7642,
+    "sha256": "840b568668b22845a1dfb8d9f47b3c55d7575c8a7c091637d0b2f8c6afd1e255"
+  },
+  {
+    "path": "sources/city_existing_hotels.csv",
+    "bytes": 3907,
+    "sha256": "71f8102ea28c14d9cd76a567ea5e96baaf02fb847cd659c9725621f79eeb7a38"
+  },
+  {
+    "path": "sources/city_hotels_january_2025.pdf",
+    "bytes": 66751,
+    "sha256": "6c6b7f0eeaf998f983e80bd02f3b2b3e0e20c718940650704b832a30c809bb38"
+  },
+  {
+    "path": "sources/layer_23.geojson",
+    "bytes": 1880503,
+    "sha256": "a6ea7f08c3332f14e5f943995cd4bfdb7c33f73c69275d92bf9503044f88d962"
+  },
+  {
+    "path": "sources/layer_23_metadata.json",
+    "bytes": 26025,
+    "sha256": "462a28d8f0ad9c71d7bc69c4c5acb9b8dab364d014eb19fd63bf391560c00836"
+  },
+  {
+    "path": "sources/layer_3.geojson",
+    "bytes": 7540,
+    "sha256": "d2e6da06920587ffdd9a4117a600d5a73b69c99e34d1becf81cecd9d88e9a23a"
+  },
+  {
+    "path": "sources/layer_3_metadata.json",
+    "bytes": 9328,
+    "sha256": "eafe3c901312af1e849cf1e975ffd0962510c85bcebc591b2e6d7abdbe2ec764"
+  },
+  {
+    "path": "sources/official_stvr_webmap.json",
+    "bytes": 560025,
+    "sha256": "956570492a4ff6e3784df300847e1832baf99e8b18334db416e74224dbbbbe5b"
+  },
+  {
+    "path": "study_map.png",
+    "bytes": 1469456,
+    "sha256": "83af6720b349865368da43d11efe200bc93c3aabbf073dec60a434f375f36d2a"
+  },
+  {
+    "path": "style.css",
+    "bytes": 15461,
+    "sha256": "4c820a1e8139a22e8f821bc854683d16ac72d205aa95ac0747259558bcb27dc4"
+  },
+  {
+    "path": "summary.json",
+    "bytes": 103017,
+    "sha256": "cf7793fb6c186305a7e5b393b603b7fcbd68f26e8d5813b0a92c8fe46d2a291a"
+  },
+  {
+    "path": "ui.js",
+    "bytes": 5234,
+    "sha256": "95807645bd79e9968581f45274434f399df76437e7cb002e2152833e2b4d460a"
+  },
+  {
+    "path": "vendor/Leaflet-LICENSE.txt",
+    "bytes": 1395,
+    "sha256": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb"
+  },
+  {
+    "path": "vendor/leaflet.css",
+    "bytes": 14806,
+    "sha256": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6"
+  },
+  {
+    "path": "vendor/leaflet.js",
+    "bytes": 147552,
+    "sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+  }
+]
