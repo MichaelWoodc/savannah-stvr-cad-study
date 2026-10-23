@@ -119,3 +119,12 @@ input, textarea { -webkit-user-select: text; user-select: text; }
 #panel .feature-count,#panel .listing-card,#panel .listing-chips,#panel .listing-evidence,#panel .source-line,#panel .listing-summary span,#panel .listing-summary small,#panel .host-links,#panel .compact-calls,#panel .listing-size{font-size:12px}
 #panel .category-table,#panel .category-choice{font-size:12px}
 #panel .category-table small{font-size:11px}
+
+/* Compact call categories: rate and percentage share a line; count sits below. */
+#panel .category-table th,#panel .category-table td{padding:3px 2px;line-height:1.2;vertical-align:top}
+#panel .category-table th:first-child,#panel .category-table td:first-child{width:40%}
+#panel .category-table td:nth-child(2){white-space:nowrap}
+#panel .category-table .category-difference{display:inline;margin-left:3px}
+#panel .category-table td>small:last-child{margin-top:1px}
+#panel .category-choice{gap:4px;line-height:1.2}
+#panel .category-choice input{margin:1px 0 0}
