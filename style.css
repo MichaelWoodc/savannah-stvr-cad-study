@@ -108,3 +108,14 @@ input, textarea { -webkit-user-select: text; user-select: text; }
 .comparison-panel h2{margin-bottom:6px}
 #comparison-all-count,#comparison-residential-count,#comparison-stvr-count{white-space:pre-line}
 @media(max-width:760px){.comparison-panel{width:calc(100% - 60px);padding:6px}.comparison-panel th,.comparison-panel td{padding:4px 2px}}
+
+#category-section:not(.show-random-categories) .random-category-column{display:none}.category-table .category-difference{font-weight:700;color:#253d32;white-space:nowrap}.random-category-option{display:flex;align-items:center;gap:6px;margin-top:12px;font-size:12px}
+
+/* Keep sidebar controls and call comparisons comfortably readable. */
+#panel{font-size:14px}
+#panel details,#panel .note,#panel .coverage,#panel .stat p,#panel .stat>span,#panel #search-result,#panel #listing-match-status{font-size:13px}
+#panel summary,#panel label,#panel select,#panel button,#panel #search,#panel .stat-label{font-size:14px}
+#panel .feature-filters label,#panel .listing-title,#panel .property-link,#panel .listing-summary{font-size:13px}
+#panel .feature-count,#panel .listing-card,#panel .listing-chips,#panel .listing-evidence,#panel .source-line,#panel .listing-summary span,#panel .listing-summary small,#panel .host-links,#panel .compact-calls,#panel .listing-size{font-size:12px}
+#panel .category-table,#panel .category-choice{font-size:12px}
+#panel .category-table small{font-size:11px}

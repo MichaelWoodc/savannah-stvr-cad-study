@@ -7,6 +7,9 @@
   function setSidebar(visible){const center=map.getCenter(),zoom=map.getZoom();document.body.classList.toggle('panel-hidden',!visible);$('toggle').textContent=visible?'Hide menu':'Show menu';$('toggle').setAttribute('aria-expanded',String(visible));map.invalidateSize({pan:false});map.setView(center,zoom,{animate:false});changed();}
   button.onclick=()=>setAverages(panel.hidden);
   $('toggle').onclick=()=>setSidebar(document.body.classList.contains('panel-hidden'));
+  $('show-random-categories').onchange=e=>{
+    $('category-section').classList.toggle('show-random-categories',e.target.checked);
+  };
   function popupState(){
     const root=current?.getElement();
     if(!root)return null;
