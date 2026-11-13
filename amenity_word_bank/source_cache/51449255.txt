@@ -1,0 +1,581 @@
+URL: https://www.airbnb.com/rooms/51449255
+Title: Historic Charm, Prime Location & Parking
+Latitude: 32.07819
+Longitude: -81.08737
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 4
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Offering room for 10 in a dreamlike setting, Spanish Moss Inn delights with old-world touches combined with modern comforts! This four-bedroom home offers a high-end retreat space that pampers the senses with stunning architecture, beautiful décor and a picture-perfect front porch. The home also comes with exclusive access to a private, heated pool located nearby in beautiful Tybee Island! While enjoying the outdoor space of Spanish Moss Inn, enjoy views of Bay Street from your own front porch.
+
+The space
+Glimpses of the Savannah River and Emmet Park are also visible. Spanish Moss Inn is a home with a fascinating history. Originally built in a different location on the corner of Jefferson and Hull in 1808, the home was relocated to its current location at Bay and Price in 1968. When you arrive at the rental for your stay, take a moment to look for the numbers etched into the home's exposed beams to see the placement markers used by architects when reconstructing the home. There's simply no comparison between this home and other Savannah vacation rentals if you're dreaming of spending some time in a Southern estate by the river!
+
+
+
+Welcome to Spanish Moss Inn: A Look Inside One of the Most Captivating Savannah Vacation Homes
+
+
+
+Take a minute to soak in a large front porch accented by classic touches like black shutters, potted plants and ceiling fans that scatter the breeze. The porch leads you inside to an elegant, oversized foyer that truly belongs in a movie! Next, it's time to step inside one of the most stunning Savannah vacation homes to take in views of a breathtaking living room featuring tall windows, built-in shelving, intricate crown molding and a grand fireplace. Next, the dining room beckons with its elongated dining table for eight, crystal chandelier and grand fireplace.
+
+
+
+Bringing things to a more casual level, the home's kitchen is all that you could ever dream of when designing a functional, high-end place to handle meals and snacks. This large kitchen is overflowing with countertops and cabinets. In addition to a beautiful gas stove with stainless-steel hood, you'll enjoy a refrigerator, dishwasher, microwave, toaster and coffee maker. All of your cooking essentials are waiting inside the kitchen. There's also a large walk-in pantry situated just off of the kitchen that features storage, a utility sink and an auxiliary refrigerator.
+
+
+
+It's now time to enter what many would consider to be the highlight of the home! Spanish Moss Inn features a beautiful glassed-in sunroom that is fully furnished with a dining table, hutch and extra seating. This portion of the home leads directly to your private courtyard that is peppered with umbrella-topped patio tables. Plan a little cookout any day of the week using your private outdoor grill.
+
+
+
+The bedrooms of Spanish Moss Inn are easily the most impressive "suites" found in any Savannah vacation rentals. Every single bedroom in this home features a king-sized bed with access to its own private full-sized bathroom! Every aspect of the home's bedrooms and bathrooms will delight you with the quality and attention to detail you're observing! No expense has been spared when decorating these bedrooms with large, high-end furnishings that provide space for storage and relaxation. The bathrooms feature touches like high-end, marble-topped vanities, beautiful tiles and oversized showers or tubs. In addition to the five full bathrooms accompanying the bedrooms, a half bathroom is located off of the home's main living area. The home also has its own washer-dryer setup.
+
+
+
+While this home may have a rich, fascinating history going back two centuries, you can rest assured that it will fit all of your modern tastes in terms of amenities and technology! Guests enjoy air conditioning, Wi-Fi, and flat-panel televisions. Touches like keypad entry, ample outdoor lighting and off-street parking for two vehicles make entering and exiting this rental property a breeze for guests. Prior to your arrival, the home will be thoroughly cleaned and disinfected in anticipation of your stay. Finally, Spanish Moss Inn comes with free access to a resort-style heated pool located on the south end of Tybee Island. Located just 30 minutes away by car, Tybee offers an amazing spot to visit if you'd like to swap city views for beach views for the afternoon!
+
+
+
+Things to Do When Staying at Spanish Moss Inn in Savannah
+
+
+
+The amazing location of Spanish Moss Inn makes this home one of the vacation rentals Savannah GA visitors who want to feel connected to the city from their own front porch should not miss! During your stay, be sure to put spots like Forsyth Park, the Mercer-Williams House Museum, the Savannah Historic District, River Street, City Market and the Coastal Georgia Botanical Gardens on your list of places to visit! Savannah is filled with amazing restaurants, shopping, live music and exhibits. It is also known for its city ghost tours, haunted cemetery walks and fun pub crawls. Of course, keeping a loose itinerary allows Savannah tourists to enjoy the simple pleasures of admiring ornate front porches, chasing down magical water fountains or following floating jazz notes to little clubs by the river. Spanish Moss is one of the vacation rentals Savannah GA visitors looking to soak in a truly historic experience will love!
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+ 
+
+SVR-02388 & SVR-02392
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Pool
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Charm, Prime Location & Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+10 guests · 4 bedrooms · 6 beds · 5.5 baths
+Rated 4.58 out of 5 stars.
+4.58
+·
+38 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Emmet Park is right outside, with River Street about a 5-min walk away
+Sunroom and private courtyard
+A glassed-in sunroom opens to a private courtyard with patio tables and a grill
+Walkable and comfortable
+Guests consistently praise the walkable location and comfortable beds
+Offering room for 10 in a dreamlike setting, Spanish Moss Inn delights with old-world touches combined with modern comforts! This four-bedroom home offers a high-end retreat space that pampers the senses with stunning architecture, beautiful décor and a picture-perfect front porch. The home also comes with exclusive access to a private, heated pool located nearby in beautiful Tybee Island! While enjoying the outdoor space of Spanish Moss Inn, enjoy views of Bay Street from your own front porch.
+
+The space
+Glimpses of the Savannah River and Emmet Park are also visible. Spanish Moss Inn is a home with a fascinating history. Originally built in a different location on the corner of Jefferson and Hull in 1808, the home was relocated to its current location at Bay and Price in 1968. When you arrive at the rental for your stay, take a moment to look for the numbers etched into the home's exposed beams to see the placement markers used by architects when reconstructing the home. There's simply no comparison between this home and other Savannah vacation rentals if you're dreaming of spending some time in a Southern estate by the river!
+
+
+
+Welcome to Spanish Moss Inn: A Look Inside One of the Most Captivating Savannah Vacation Homes
+
+
+
+Take a minute to soak in a large front porch accented by classic touches like black shutters, potted plants and ceiling fans that scatter the breeze. The porch leads you inside to an elegant, oversized foyer that truly belongs in a movie! Next, it's time to step inside one of the most stunning Savannah vacation homes to take in views of a breathtaking living room featuring tall windows, built-in shelving, intricate crown molding and a grand fireplace. Next, the dining room beckons with its elongated dining table for eight, crystal chandelier and grand fireplace.
+
+
+
+Bringing things to a more casual level, the home's kitchen is all that you could ever dream of when designing a functional, high-end place to handle meals and snacks. This large kitchen is overflowing with countertops and cabinets. In addition to a beautiful gas stove with stainless-steel hood, you'll enjoy a refrigerator, dishwasher, microwave, toaster and coffee maker. All of your cooking essentials are waiting inside the kitchen. There's also a large walk-in pantry situated just off of the kitchen that features storage, a utility sink and an auxiliary refrigerator.
+
+
+
+It's now time to enter what many would consider to be the highlight of the home! Spanish Moss Inn features a beautiful glassed-in sunroom that is fully furnished with a dining table, hutch and extra seating. This portion of the home leads directly to your private courtyard that is peppered with umbrella-topped patio tables. Plan a little cookout any day of the week using your private outdoor grill.
+
+
+
+The bedrooms of Spanish Moss Inn are easily the most impressive "suites" found in any Savannah vacation rentals. Every single bedroom in this home features a king-sized bed with access to its own private full-sized bathroom! Every aspect of the home's bedrooms and bathrooms will delight you with the quality and attention to detail you're observing! No expense has been spared when decorating these bedrooms with large, high-end furnishings that provide space for storage and relaxation. The bathrooms feature touches like high-end, marble-topped vanities, beautiful tiles and oversized showers or tubs. In addition to the five full bathrooms accompanying the bedrooms, a half bathroom is located off of the home's main living area. The home also has its own washer-dryer setup.
+
+
+
+While this home may have a rich, fascinating history going back two centuries, you can rest assured that it will fit all of your modern tastes in terms of amenities and technology! Guests enjoy air conditioning, Wi-Fi, and flat-panel televisions. Touches like keypad entry, ample outdoor lighting and off-street parking for two vehicles make entering and exiting this rental property a breeze for guests. Prior to your arrival, the home will be thoroughly cleaned and disinfected in anticipation of your stay. Finally, Spanish Moss Inn comes with free access to a resort-style heated pool located on the south end of Tybee Island. Located just 30 minutes away by car, Tybee offers an amazing spot to visit if you'd like to swap city views for beach views for the afternoon!
+
+
+
+Things to Do When Staying at Spanish Moss Inn in Savannah
+
+
+
+The amazing location of Spanish Moss Inn makes this home one of the vacation rentals Savannah GA visitors who want to feel connected to the city from their own front porch should not miss! During your stay, be sure to put spots like Forsyth Park, the Mercer-Williams House Museum, the Savannah Historic District, River Street, City Market and the Coastal Georgia Botanical Gardens on your list of places to visit! Savannah is filled with amazing restaurants, shopping, live music and exhibits. It is also known for its city ghost tours, haunted cemetery walks and fun pub crawls. Of course, keeping a loose itinerary allows Savannah tourists to enjoy the simple pleasures of admiring ornate front porches, chasing down magical water fountains or following floating jazz notes to little clubs by the river. Spanish Moss is one of the vacation rentals Savannah GA visitors looking to soak in a truly historic experience will love!
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+ 
+
+SVR-02388 & SVR-02392
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.58 out of 5 stars from 38 reviews
+4.58 · 38 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 71% of reviews
+5
+4 stars, 21% of reviews
+4
+3 stars, 5% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 3% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.6 out of 5 stars for accuracy
+Accuracy
+4.6
+Rated 4.7 out of 5 stars for check-in
+Check-in
+4.7
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Walkability
+15
+Location
+21
+Hospitality
+15
+Indoor spaces
+12
+Comfort
+9
+Outdoor spaces
+8
+Kitchen
+9
+Sleep quality
+7
+Condition
+7
+Bathroom
+5
+Brandi
+8 months on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+We had a great time! The house is absolutely beautiful & had everything we needed. They sent lots of reminders for everything and very clear instructions for everything.
+Show more
+Deb
+St. Louis, Missouri
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Group trip
+We had 4 couples in this beautiful Historic Home, for 3 nights.  The host was extremely helpful and responded quickly when needed.  We loved the private patio and enjoyed time around the large dining table.  I will be telling friends and family about this amazing Airbnb when we get back to Missouri☺️
+Show more
+Andrew
+Boston, Massachusetts
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Amazing location and very nice historic home that gave a Savannah vibe. My only issues were: pool was many miles away so not realistic to get to; dining room chair was broken so one of the guests fell through the chair during dinner (nobody was hurt).
+Show more
+Sharon
+Greensboro, North Carolina
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+Can’t beat the location! Walk to restaurants, rooftop bars on the river, easy to get to hop on hop off bus! Beds were comfy.  One shower in lower level on the small side.   Some traffic noise for light sleepers.  Loved the rear patio for informal drinks.
+Show more
+Marlon
+Augusta, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Great location and very  affordable.
+Maura
+Buffalo, New York
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+Spanish Moss Inn was an excellent place for our group to stay while visiting and exploring Savannah. It was walking distance to everything we wanted to see downtown, including restaurants, a ghost tour, river st and nightlife. The house accommodated our group of 11 comfortably. We especially enjoyed the outdoor patio! The hosts were clear in their instructions and very responsive. I would definitely recommend Spanish Moss Inn for any larger group visiting Savannah.
+Show more
+Show all 38 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Beach house vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

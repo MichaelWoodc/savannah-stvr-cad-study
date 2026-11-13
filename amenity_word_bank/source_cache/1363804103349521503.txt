@@ -1,0 +1,583 @@
+URL: https://www.airbnb.com/rooms/1363804103349521503
+Title: Forsyth Park Hideaway I Downtown
+Latitude: 32.06209
+Longitude: -81.08954
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Kevin And Karli
+Host ID: 531768568
+Host profile ID: 1470388199797331641
+Host URL: https://www.airbnb.com/users/profile/1470388199797331641
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Discover timeless elegance in this meticulously renovated 1900 condo in downtown Savannah. Showcasing original hardwood floors alongside a sleek, modern kitchen, the home offers the perfect balance of historic charm and contemporary comfort. Ideally situated in the Historic District, you’ll enjoy easy walking access to Forsyth Park, acclaimed cafés, and curated boutiques
+
+SVR-02827
+
+The space
+🌿 Experience Historic Savannah in Comfort & Style
+
+Step into the heart of the Savannah Historic District and enjoy the perfect blend of classic Southern charm and modern comfort in this beautifully restored historic home. Thoughtfully designed for working professionals, couples, families, and long-term stays, this inviting retreat places you just steps from oak-lined streets, local cafés, art galleries, and Savannah’s most iconic attractions.
+
+Wake up beneath moss-draped trees, stroll through nearby historic squares, and spend your days exploring Forsyth Park, River Street, City Market, and the city’s rich architectural heritage—all easily accessible on foot. At the end of the day, return to a peaceful, residential street where comfort and calm await.
+
+📍 CENTRAL LOCATION | SAVANNAH HISTORIC DISTRICT
+Enjoy one of the most walkable and desirable locations in downtown Savannah:
+✔ 5-minute walk to Forsyth Park
+✔ 1 mile to Savannah College of Art and Design (SCAD)
+✔ 1.5 miles to River Street & City Market
+✔ 2 miles to Savannah’s Historic Waterfront
+You’ll be close to everything Savannah is known for—yet perfectly tucked away for quiet evenings and restful nights.
+
+⭐️ HOME HIGHLIGHTS
+Built in 1900 and lovingly updated, this historic home retains its original character—high ceilings, tall windows, and timeless architectural details—while offering the modern conveniences today’s travelers value.
+
+🛏️ Bedrooms
+Designed for comfort and relaxation after a day of exploring:
+✔︎King Bedroom – Plush memory-foam mattress, ✔︎55" Smart TV, dresser, and nightstands
+✔︎Queen Bedroom – Memory-foam mattress, 50" ✔︎Smart TV, dresser, and nightstands
+
+🛋️ Living Room
+A bright, welcoming space ideal for unwinding.
+✔︎55" Smart TV with streaming
+✔︎Oversized historic windows filling the room with natural light
+✔︎Comfortable seating for movie nights, reading, or quiet conversation
+
+🍳 Kitchen & Dining
+Fully equipped for both short visits and extended stays.
+✔︎Full-size stove, oven, microwave, dishwasher, and refrigerator/freezer
+✔︎Keurig coffee maker with complimentary pods and creamer
+✔︎Cookware, utensils, dishware, kettle, and glassware provided
+✔︎Dining table for four plus kitchen island seating for three
+✔︎In-unit washer & dryer for added convenience
+
+🛁 Bathroom
+A charming mix of classic Savannah style and modern updates.
+✔︎Clawfoot tub/shower combo
+✔︎Updated vanity and fixtures
+✔︎Fresh towels, hairdryer, and complimentary toiletries
+
+🌸 OUTDOOR SPACE
+✔︎Step outside to your own private balcony—a peaceful urban escape.
+✔︎Comfortable seating
+✔︎Perfect for morning coffee, afternoon reading, or evening wine
+
+🚗 PARKING
+Free on-street parking available
+Please observe posted street-sweeping signage
+
+🐾 PET-FRIENDLY STAY
+Pets are welcome with prior approval and a small additional fee. Savannah’s nearby parks, squares, and tree-lined streets make this an ideal location for scenic walks with your furry companion.
+
+🌆 WHY GUESTS LOVE THIS SAVANNAH AIRBNB
+✔︎Prime location in the Savannah Historic District
+✔︎Walkable to Forsyth Park, River Street, and SCAD
+✔︎Authentic historic home thoughtfully updated with modern comforts
+✔︎Washer/dryer and free parking
+✔︎Ideal for business travel, extended stays, families, or romantic getaways
+
+💬 THE EXPERIENCE
+Whether you’re visiting for a romantic escape, a productive work-from-home stay, or a memorable family vacation, this downtown Savannah historic home offers an exceptional combination of location, comfort, and genuine Southern hospitality.
+
+Make this your home base and experience Savannah like a local—walkable, welcoming, historic, and full of timeless charm.
+
+
+Please note: this is a second story unit, it is only accessible by stair. The stairwell & entryway is a shared space.
+
+Guest access
+Enjoy full privacy in your own historic Savannah condo—the entire space is yours to relax and unwind.
+
+Other things to note
+Enjoy convenient free street parking right outside your downtown Savannah condo. Please check street-sweeping schedules, as they vary depending on which side you park.
+
+Please note: This is a second story unit, accessible only by stairs. The entryway & stairwell is a shared space.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Bed linens
+Room-darkening shades
+Clothing storage: dresser
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Forsyth Park Hideaway I Downtown
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.94 out of 5 stars.
+4.94
+65 reviews
+65
+Reviews
+Hosted by Kevin And Karli
+Superhost · 3 years hosting
+Listing highlights
+In Savannah's Historic District
+About a 10-min walk to Forsyth Park, with historic squares and cafés along the way
+Restored 1900 condo with period details
+A clawfoot tub, original hardwood floors, and high ceilings in a home built in 1900
+Decor that stands out
+Guests highlight the curated vintage decor, with many saying the photos don't do it justice
+Discover timeless elegance in this meticulously renovated 1900 condo in downtown Savannah. Showcasing original hardwood floors alongside a sleek, modern kitchen, the home offers the perfect balance of historic charm and contemporary comfort. Ideally situated in the Historic District, you’ll enjoy easy walking access to Forsyth Park, acclaimed cafés, and curated boutiques
+
+SVR-02827
+
+The space
+🌿 Experience Historic Savannah in Comfort & Style
+
+Step into the heart of the Savannah Historic District and enjoy the perfect blend of classic Southern charm and modern comfort in this beautifully restored historic home. Thoughtfully designed for working professionals, couples, families, and long-term stays, this inviting retreat places you just steps from oak-lined streets, local cafés, art galleries, and Savannah’s most iconic attractions.
+
+Wake up beneath moss-draped trees, stroll through nearby historic squares, and spend your days exploring Forsyth Park, River Street, City Market, and the city’s rich architectural heritage—all easily accessible on foot. At the end of the day, return to a peaceful, residential street where comfort and calm await.
+
+📍 CENTRAL LOCATION | SAVANNAH HISTORIC DISTRICT
+Enjoy one of the most walkable and desirable locations in downtown Savannah:
+✔ 5-minute walk to Forsyth Park
+✔ 1 mile to Savannah College of Art and Design (SCAD)
+✔ 1.5 miles to River Street & City Market
+✔ 2 miles to Savannah’s Historic Waterfront
+You’ll be close to everything Savannah is known for—yet perfectly tucked away for quiet evenings and restful nights.
+
+⭐️ HOME HIGHLIGHTS
+Built in 1900 and lovingly updated, this historic home retains its original character—high ceilings, tall windows, and timeless architectural details—while offering the modern conveniences today’s travelers value.
+
+🛏️ Bedrooms
+Designed for comfort and relaxation after a day of exploring:
+✔︎King Bedroom – Plush memory-foam mattress, ✔︎55" Smart TV, dresser, and nightstands
+✔︎Queen Bedroom – Memory-foam mattress, 50" ✔︎Smart TV, dresser, and nightstands
+
+🛋️ Living Room
+A bright, welcoming space ideal for unwinding.
+✔︎55" Smart TV with streaming
+✔︎Oversized historic windows filling the room with natural light
+✔︎Comfortable seating for movie nights, reading, or quiet conversation
+
+🍳 Kitchen & Dining
+Fully equipped for both short visits and extended stays.
+✔︎Full-size stove, oven, microwave, dishwasher, and refrigerator/freezer
+✔︎Keurig coffee maker with complimentary pods and creamer
+✔︎Cookware, utensils, dishware, kettle, and glassware provided
+✔︎Dining table for four plus kitchen island seating for three
+✔︎In-unit washer & dryer for added convenience
+
+🛁 Bathroom
+A charming mix of classic Savannah style and modern updates.
+✔︎Clawfoot tub/shower combo
+✔︎Updated vanity and fixtures
+✔︎Fresh towels, hairdryer, and complimentary toiletries
+
+🌸 OUTDOOR SPACE
+✔︎Step outside to your own private balcony—a peaceful urban escape.
+✔︎Comfortable seating
+✔︎Perfect for morning coffee, afternoon reading, or evening wine
+
+🚗 PARKING
+Free on-street parking available
+Please observe posted street-sweeping signage
+
+🐾 PET-FRIENDLY STAY
+Pets are welcome with prior approval and a small additional fee. Savannah’s nearby parks, squares, and tree-lined streets make this an ideal location for scenic walks with your furry companion.
+
+🌆 WHY GUESTS LOVE THIS SAVANNAH AIRBNB
+✔︎Prime location in the Savannah Historic District
+✔︎Walkable to Forsyth Park, River Street, and SCAD
+✔︎Authentic historic home thoughtfully updated with modern comforts
+✔︎Washer/dryer and free parking
+✔︎Ideal for business travel, extended stays, families, or romantic getaways
+
+💬 THE EXPERIENCE
+Whether you’re visiting for a romantic escape, a productive work-from-home stay, or a memorable family vacation, this downtown Savannah historic home offers an exceptional combination of location, comfort, and genuine Southern hospitality.
+
+Make this your home base and experience Savannah like a local—walkable, welcoming, historic, and full of timeless charm.
+
+
+Please note: this is a second story unit, it is only accessible by stair. The stairwell & entryway is a shared space.
+
+Guest access
+Enjoy full privacy in your own historic Savannah condo—the entire space is yours to relax and unwind.
+
+Other things to note
+Enjoy convenient free street parking right outside your downtown Savannah condo. Please check street-sweeping schedules, as they vary depending on which side you park.
+
+Please note: This is a second story unit, accessible only by stairs. The entryway & stairwell is a shared space.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+Pets allowed
+TV
+Washer
+Free dryer – In unit
+Air conditioning
+Bathtub
+Private patio or balcony
+Show all 40 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.94 out of 5 from 65 reviews.
+4.94
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 95% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.6 out of 5 stars for location
+Location
+4.6
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+17
+Decor
+26
+Location
+23
+Parks
+5
+Parking
+12
+Indoor spaces
+17
+Comfort
+15
+Getting around
+8
+Hospitality
+16
+Cleanliness
+14
+Samantha
+Whittier, California
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Such a beautiful home! Very welcoming and communicative hosts. It was the perfect spot to come back to every night during a work conference.
+Sarah
+6 months on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Fantastic, spacious, beautifully decorated  accommodation with great AC! Lovely veranda for morning coffee. Hosts were great - we arrived a day early and they were able to accommodate us. 
+We do a lot of walking, so location was fine for us (supermarket round the corner too) and the tourist tram stop 5 isn’t far. Overall it was fantastic and I would definitely stay again! Thank you 🙏
+Show more
+Kimberly
+New Jersey, United States
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This apartment is in a great spot with easy parking and the ability to walk to Forsyth Park and other locations easily. We were a five minute drive from most of the places we went around the city. The house is very cute and spacious. The owners thought of everything needed for a great stay. We had an amazing time!
+Show more
+Wade
+Tamarac, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+Very cozy!  Great location ! Would definitely return!
+Amy
+2 months on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+It was a wonderful spot for our weekend getaway. Kevin and Karol’s home was gorgeous and comfortable! Highly recommend this property!
+Emma
+Winder, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Place was so cute, looks just like the pictures. Great location, walked distance to great places around!
+Show all 65 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Kevin And Karli
+Superhost
+197 reviews
+197
+Reviews
+4.85 out of 5 average rating
+4.85
+Rating
+3 years of hosting
+3
+Years hosting
+As Savannah locals, we would be happy to provide recommendations for touring, eating, or fun! We also understand that some people prefer to explore on their own, so if you need anything at all, just let us know!
+Kevin And Karli is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Karli
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

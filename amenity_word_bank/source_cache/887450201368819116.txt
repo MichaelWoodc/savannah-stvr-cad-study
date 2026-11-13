@@ -1,0 +1,533 @@
+URL: https://www.airbnb.com/rooms/887450201368819116
+Title: Cozy Cottage Retreat| Parking and Private Patio
+Latitude: 32.064
+Longitude: -81.0993
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 single bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Welcome to the Cottage Retreat at Forsyth Park! This two bedroom, one bath historic cottage is just steps away from restaurants, shopping, and Savannah's dreamy Forsyth Park. You will be immersed in timeless charm and modern comfort, from off-street parking, to a gourmet kitchen and stunning courtyard oasis you will get to experience loads of Savannah charm! The cottage is perfect for a romantic getaway or family retreat. Book your trip for an unforgettable stay! We can't wait to host you all!
+
+The space
+Welcome to our cozy historic cottage nestled around the corner from the beautiful Forsyth Park! 
+
+This charming home offers a timeless retreat with its two cozy bedrooms, a delightful Jack and Jill bathroom, convenient off-street parking, and a shady courtyard paired with a screen porch oasis.
+
+The cottage has two bedrooms and one bathroom with multiple sleeping arrangements. The master bedroom has a comfy queen size mattress, the guest room has a memory foam twin size day bed. The living room the most comfy West Elm queen sleeper sofa. 
+
+Fresh bedding and towels are provided for guest use. We have extra pillows and blankets stored as well. 
+
+Outside, a hidden gem awaits. The gorgeous courtyard is the perfect place to unwind under the lush greenery, offering a relaxing setting for morning coffees or evening stargazing. The screen porch provides the perfect spot to sip on a glass of wine while enjoying the gentle breeze and the melody of chirping birds.
+
+Enjoy game and movie nights in the cozy living room. A 50 in smart tv is available to stream your favorite apps. Free wifi is available to guests at the cottage, but please note we do not provide cable. 
+
+We have a fully equipped kitchen with all the essentials you need to cook meals. A washer and dryer are available in the cottage for you to use as well s a clothing steamer.
+
+For those arriving by car, rest easy knowing that off-street parking is available, ensuring convenience and peace of mind throughout your stay. We offer one free off street parking space. 
+
+Take leisurely strolls through tree-lined streets downtown and discover nearby boutiques, cafes, and local attractions, all within walking distance. You will love this location in Savannah!
+
+Whether you seek a romantic getaway, a family retreat, or a peaceful escape, our historic cottage is a  delightful blend of old-Savannah charm and modern comforts! 
+
+We can't wait to host you!
+
+SVR-03071
+
+Guest access
+Guests will have full access to the cottage and courtyard. There is one closet in the master bedroom reserved for owner storage. There is a front door keypad, a code will be provided to you prior to your arrival time.
+
+Other things to note
+Please note that the cottage is located in the Historic District. There may be some city noises you are not accustomed to such as trains, traffic and the fire department is close by. A sound machine is provided to help minimize any unfamiliar sounds. A pac n play is available upon request. The cottage has a very strict no pet policy and a very strict no smoking policy.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Outdoor shower
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Clothing storage: closet
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib - available upon request
+Board games
+Heating and cooling
+Central air conditioning
+Indoor fireplace: wood-burning
+Ceiling fan
+Portable fans
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+AEG stainless steel electric stove
+Stainless steel oven
+Hot water kettle
+Coffee maker: drip coffee maker, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Private patio or balcony
+Private backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Sun loungers
+Parking and facilities
+Free parking garage on premises
+Free street parking
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Cozy Cottage Retreat| Parking and Private Patio
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+130 reviews
+130
+Reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+Steps from Forsyth Park
+About a 5-min walk to Forsyth Park, with restaurants, cafes, and shops along the way.
+Private screened porch and courtyard
+A private screened porch and fenced courtyard tucked behind the cottage for morning coffee or evening wind-downs.
+Alyssa is an attentive host
+Guests consistently praise Alyssa for proactive communication and thoughtful local recommendations.
+Welcome to the Cottage Retreat at Forsyth Park! This two bedroom, one bath historic cottage is just steps away from restaurants, shopping, and Savannah's dreamy Forsyth Park. You will be immersed in timeless charm and modern comfort, from off-street parking, to a gourmet kitchen and stunning courtyard oasis you will get to experience loads of Savannah charm! The cottage is perfect for a romantic getaway or family retreat. Book your trip for an unforgettable stay! We can't wait to host you all!
+
+The space
+Welcome to our cozy historic cottage nestled around the corner from the beautiful Forsyth Park! 
+
+This charming home offers a timeless retreat with its two cozy bedrooms, a delightful Jack and Jill bathroom, convenient off-street parking, and a shady courtyard paired with a screen porch oasis.
+
+The cottage has two bedrooms and one bathroom with multiple sleeping arrangements. The master bedroom has a comfy queen size mattress, the guest room has a memory foam twin size day bed. The living room the most comfy West Elm queen sleeper sofa. 
+
+Fresh bedding and towels are provided for guest use. We have extra pillows and blankets stored as well. 
+
+Outside, a hidden gem awaits. The gorgeous courtyard is the perfect place to unwind under the lush greenery, offering a relaxing setting for morning coffees or evening stargazing. The screen porch provides the perfect spot to sip on a glass of wine while enjoying the gentle breeze and the melody of chirping birds.
+
+Enjoy game and movie nights in the cozy living room. A 50 in smart tv is available to stream your favorite apps. Free wifi is available to guests at the cottage, but please note we do not provide cable. 
+
+We have a fully equipped kitchen with all the essentials you need to cook meals. A washer and dryer are available in the cottage for you to use as well s a clothing steamer.
+
+For those arriving by car, rest easy knowing that off-street parking is available, ensuring convenience and peace of mind throughout your stay. We offer one free off street parking space. 
+
+Take leisurely strolls through tree-lined streets downtown and discover nearby boutiques, cafes, and local attractions, all within walking distance. You will love this location in Savannah!
+
+Whether you seek a romantic getaway, a family retreat, or a peaceful escape, our historic cottage is a  delightful blend of old-Savannah charm and modern comforts! 
+
+We can't wait to host you!
+
+SVR-03071
+
+Guest access
+Guests will have full access to the cottage and courtyard. There is one closet in the master bedroom reserved for owner storage. There is a front door keypad, a code will be provided to you prior to your arrival time.
+
+Other things to note
+Please note that the cottage is located in the Historic District. There may be some city noises you are not accustomed to such as trains, traffic and the fire department is close by. A sound machine is provided to help minimize any unfamiliar sounds. A pac n play is available upon request. The cottage has a very strict no pet policy and a very strict no smoking policy.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 single bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking garage on premises
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Private patio or balcony
+Show all 61 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 130 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Parks
+16
+Walkability
+43
+Location
+68
+Hospitality
+57
+Family
+24
+Outdoor spaces
+21
+Parking
+24
+Quiet
+18
+Nearby
+27
+Comfort
+27
+Rebekah
+Fairfax, Virginia
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed with kids
+Very cute, comfortable cottage with original flooring and fireplace hearth, plus a modern kitchen and bath, and a washer and dryer. We enjoyed sitting on the enclosed porch in the evenings and playing Scrabble at the kitchen table. The dedicated parking space for the unit was SO helpful, as parking is otherwise on the street and can be at a premium. Great location for lovely walks to Forsyth Park. We could hear the jazz festival happening at Forsyth from the house. It's further from the North Historic District and waterfront, but an easy drive. The cottage is great for a couple or small family—the smaller bedroom with a daybed was perfect for our 10-year-old. AC and Wi-fi worked great. The hosts were very proactive and provided an extensive multi-page guidebook in advance, which was great for recommendations. There was plenty of coffee and Byrd's cookies. The beds were a little softer than we prefer, but otherwise this was a great stay!
+Show more
+Angela
+Huntington, New York
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+The cottage had everything we needed!   We used the outdoor space for reading and quiet time when needed.  Alyssa was an excellent host and gave a lot of excellent recommendations.  
+We were able to walk to Forsyth Park which always had a lot going on and Collins Quarter was right there for  great coffee food and atmosphere or to go coffee and pastries.  
+We walked to cute shops and saw all the beautiful homes in the area and there was a cute organic market near the park too. 
+We had an enjoyable stay and are sad to leave Savannah and all its beauty and history.
+Show more
+Robert
+7 years on Airbnb
+Rating, 4 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed over a week
+I was there on work related project not vacation so my perspective may vary from others but Alyssa was a wonderful host and was very responsive to all of my needs, I will certainly reach back out to her for my next visit to Savannah
+Show more
+Robert
+1 month on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with kids
+Great place, quiet location walking distance to almost everything
+Cynthia
+Newport News, Virginia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+I loved the simplicity of the home and decor.  I loved the outdoor shower.  I would have slept in a hammock if they’d had one.  So sweet and perfect.
+Sylvain
+11 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+A small house on the edge of the historic district and very close to Forsyth Park. 
+The interior is high quality and can accommodate 4 people. 
+We had a lovely stay there during our visit to Savannah.
+Show more
+Show all 130 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+J. Christopher's
+Brunch restaurant
+Forsyth Park
+Park
+Leopold's Ice Cream - Broughton Street
+Ice cream shop
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Staying at the cottage you will be just a short two block walk from the south end of Forsyth Park, there are restaurant, bars, and shops within walking distance. I do recommend driving or taking an uber if you want to explore City Market, River Street and the shopping along Broughton Street. While they are all walkable, it is about 1.5 miles or a 35 minute walk. The cottage is about a 20 minute drive to the Savannah airport and a 20 minute drive to Tybee Island beaches.
+Show more
+Meet your host
+Alyssa
+Superhost
+1,511 reviews
+1511
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Alyssa
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

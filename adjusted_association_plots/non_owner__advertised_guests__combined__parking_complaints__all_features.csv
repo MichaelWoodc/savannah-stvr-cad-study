@@ -1,0 +1,12 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr
+non_owner,advertised_guests,combined,Parking complaints,mention_bar,Bar mention,amenities,411,38,90,321,5,33,0.617569229348899,0.1547062958819701,2.465263296909181,0.4949729200459842,0.752937600188776
+non_owner,advertised_guests,combined,Parking complaints,mention_wine,Wine / wine accessories,amenities,411,38,272,139,14,24,0.3302033221081508,0.1005358883422363,1.084530466972088,0.0678118187997531,0.3236726661425563
+non_owner,advertised_guests,combined,Parking complaints,mention_outdoor,Outdoor space,amenities,411,38,240,171,16,22,0.5278109300794858,0.1173859802013601,2.3732338174754526,0.4047512608057807,0.7016511555124375
+non_owner,advertised_guests,combined,Parking complaints,mention_yard,Yard / garden / courtyard,amenities,411,38,268,143,30,8,2.166408819743141,0.4811866314592314,9.753652465422894,0.3138977364617221,0.6479263276629166
+non_owner,advertised_guests,combined,Parking complaints,mention_pool,Swimming pool,amenities,411,38,91,320,3,35,0.2973970575589567,0.0727171694215089,1.216287852625962,0.0915019468363435,0.3799562973840798
+non_owner,advertised_guests,combined,Parking complaints,mention_events,Events / gatherings,amenities,411,38,137,274,6,32,0.3118214141908,0.0890546552601352,1.0918305625228335,0.0683652290062439,0.3236726661425563
+non_owner,advertised_guests,combined,Parking complaints,mention_patio,Patio / deck / balcony / porch,amenities,411,38,257,154,32,6,3.128129300342558,0.8318555080431727,11.763092057513644,0.0914919191004264,0.3799562973840798
+non_owner,advertised_guests,combined,Parking complaints,mention_grill,Grill / BBQ,amenities,411,38,89,322,4,34,0.3542382302350143,0.0905341301505649,1.3860488144232963,0.1359665192636788,0.4374702659370861
+non_owner,advertised_guests,combined,Parking complaints,mention_cocktails,Cocktails / spirits,amenities,411,38,67,344,5,33,0.7905212139457368,0.2251986205791409,2.774989420854939,0.7136917313643613,0.8822050056143257
+non_owner,advertised_guests,combined,Parking complaints,mention_outdoor_dining,Outdoor dining,amenities,411,38,97,314,5,33,0.5455804078137144,0.1648724635991586,1.8053832331507536,0.3210062101836977,0.6525228782602892
+non_owner,advertised_guests,combined,Parking complaints,keyword_swimming_pool,Swimming Pool,keywords,411,38,88,323,3,35,0.3075561881478448,0.0749759198000807,1.2616158510659672,0.101568219147493,0.3908090386025869

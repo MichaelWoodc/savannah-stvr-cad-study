@@ -1,0 +1,452 @@
+URL: https://www.airbnb.com/rooms/25164262
+Title: Spacious Downtown Loft by Lucky Savannah
+Latitude: 32.0792
+Longitude: -81.0939
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 4
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Spread out in this impressive four-bedroom loft right in the heart of downtown! The city's best shopping and dining are only steps away, with City Market and River Street within walking distance.
+
+The space
+Experience the city like a local in your very own downtown loft. Up to ten Lucky guests will call this spacious condo home, only steps away from Savannah's prime shopping and dining attractions. 
+
+Newly renovated with lofty ceilings and exposed brick, Telfair Loft is the ideal downtown headquarters. Catch up with old friends in the open living area before going out on the town for dinner and drinks. Or, make use of the brand new kitchen and formal dining room for a cozy night in. 
+
+A primary bedroom with King size bed, writing desk, and en suite bath is located just off the main living space. The second bedroom is two steps up from the living area and boasts a Queen size bed and the perfect nook to enjoy your morning coffee. Up to four guests can spaciously accommodate the middle bedroom with two Queen beds and a walk-in closet. Another two guests can occupy the back bedroom with Full bed. 
+
+Between the newly renovated kitchen, stacking washer/dryer, and flat screen smartTVs in every room, Telfair Loft truly leaves no amenity aside for your most comfortable vacation yet.
+
+Start your day with a local brew from The Coffee Fox and make your way down to The Paris Market Brocante & Cafe for some retail therapy, recently voted "The South's Best Shop" by Southern Living. Head towards City Market and grab lunch in Little Duck Diner before starting a walking tour with Genteel and Bard. After learning of Savannah's rich history, cap the night with dinner at Chive Sea Bar & Lounge and drinks on the roof at Rocks on the Roof / Bohemian Hotel.
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Queen Size Bed
+Bedroom 3: Two Queen Size Beds
+Bedroom 4: Full Size Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, with enforcement by the City of Savannah Monday through Saturday, 8am to 8pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or utilize a nearby public parking garage. Pre-paid visitor parking passes are available for purchase at the Parking and Mobility Services office. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-03307
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Spacious Downtown Loft by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+10 guests · 4 bedrooms · 5 beds · 2 baths
+Rated 4.74 out of 5 stars.
+4.74
+·
+39 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In downtown Savannah's Historic District
+Steps from Wright Square and Telfair Academy, with Ellis Square and City Market a short walk away
+Renovated loft with exposed brick
+Exposed brick, lofty ceilings, and an open living area that flows into a formal dining room
+Spacious and perfectly located
+Guests highlight how spacious and walkable this stay is, with several calling it a top pick
+Spread out in this impressive four-bedroom loft right in the heart of downtown! The city's best shopping and dining are only steps away, with City Market and River Street within walking distance.
+
+The space
+Experience the city like a local in your very own downtown loft. Up to ten Lucky guests will call this spacious condo home, only steps away from Savannah's prime shopping and dining attractions. 
+
+Newly renovated with lofty ceilings and exposed brick, Telfair Loft is the ideal downtown headquarters. Catch up with old friends in the open living area before going out on the town for dinner and drinks. Or, make use of the brand new kitchen and formal dining room for a cozy night in. 
+
+A primary bedroom with King size bed, writing desk, and en suite bath is located just off the main living space. The second bedroom is two steps up from the living area and boasts a Queen size bed and the perfect nook to enjoy your morning coffee. Up to four guests can spaciously accommodate the middle bedroom with two Queen beds and a walk-in closet. Another two guests can occupy the back bedroom with Full bed. 
+
+Between the newly renovated kitchen, stacking washer/dryer, and flat screen smartTVs in every room, Telfair Loft truly leaves no amenity aside for your most comfortable vacation yet.
+
+Start your day with a local brew from The Coffee Fox and make your way down to The Paris Market Brocante & Cafe for some retail therapy, recently voted "The South's Best Shop" by Southern Living. Head towards City Market and grab lunch in Little Duck Diner before starting a walking tour with Genteel and Bard. After learning of Savannah's rich history, cap the night with dinner at Chive Sea Bar & Lounge and drinks on the roof at Rocks on the Roof / Bohemian Hotel.
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Queen Size Bed
+Bedroom 3: Two Queen Size Beds
+Bedroom 4: Full Size Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, with enforcement by the City of Savannah Monday through Saturday, 8am to 8pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or utilize a nearby public parking garage. Pre-paid visitor parking passes are available for purchase at the Parking and Mobility Services office. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-03307
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Elevator
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.74 out of 5 stars from 39 reviews
+4.74 · 39 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 77% of reviews
+5
+4 stars, 21% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.7 out of 5 stars for cleanliness
+Cleanliness
+4.7
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.6 out of 5 stars for check-in
+Check-in
+4.6
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Location
+33
+Walkability
+12
+Layout
+4
+Indoor spaces
+12
+Cleanliness
+13
+Access
+4
+Parking
+4
+Sleep quality
+5
+Comfort
+6
+Kitchen
+5
+Michelle
+South Lyon, Michigan
+Rating, 4 stars
+,
+·
+1 week ago
+,
+·
+Group trip
+Great location, central, walkable, safe. The place was clean and host was easy to communicate with.
+Show more
+Andrea
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Loved this apartment very spacious and lots of fun!
+Show more
+Kiley
+6 years on Airbnb
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Stayed at Lucky Savannah for a girls trip and the place was perfect! It was in a great location and so comfortable!
+Show more
+Sarah
+Dallas, Texas
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Group trip
+This condo was even better in person than in the photos! High ceilings and huge bedrooms and the open floor plan made it easy for our group to all hangout. Plenty of furniture for everyone to sit in and the dining table was huge! One of the bedrooms is only accessible through another bedroom but that wasn’t an issue at all since the bedroom you have to walk through already has 2 additional beds so it wouldn’t be considered a more “private” bedroom anyways. You can’t get a better location either - once we arrived, we didn’t have to uber the entire time we were there!It was also quiet even though the unit is above some shops. Out of all the Airbnbs I’ve stayed at, this one definitely ranks as a favorite!
+Show more
+Nicole
+Sheboygan, Wisconsin
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Group trip
+Outstanding location, spacious common spaces and very clean.
+Show more
+Darrin & Barbara
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Great location !   We had a great stay
+Show more
+Show all 39 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,300 reviews
+9300
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

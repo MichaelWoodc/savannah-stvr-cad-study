@@ -1,0 +1,505 @@
+URL: https://www.airbnb.com/rooms/801076900525632327
+Title: Charming ArtPad Condo | Savannah Historic District
+Latitude: 32.0801
+Longitude: -81.0959
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 double bed
+
+=== FULL DESCRIPTION ===
+Enjoy an artsy Southern escape in this luxury condo in the heart of downtown Savannah, brimming with inspiration. The Savannah Art Pad is a perfect eclectic combination of a historic and trendy, with exposed brick, original wood floors and soaring high ceilings mixed with beautifully decorated art studio aesthetic throughout every detail. Gaze out the large arched windows looking over Broughton Street as you sip your morning coffee or evening cocktail as you plan an amazing Savannah adventure!
+
+The space
+Welcome to this special downtown loft! If you're looking for something a little more unique than Savannah's traditional historic homes, you've found it. This open-concept loft has a fun, artsy feel with an industrial edge, featuring original artwork throughout the space. It displays art pieces created by local Savannah artists and a bold Keith Haring-inspired wallpaper mural that gives the bedroom its own personality.
+
+Designed to be both stylish and comfortable, the loft features a queen Casper mattress in the bedroom and a premium full size deep mattress on the Murphy bed in the living area that easily folds away to maximize the space. Thoughtful touches like smart storage, a fold-out workspace, high-speed Wi-Fi, and a 50-inch 4K Fire TV make it easy to relax, whether you're here for a weekend getaway or a longer stay.
+
+The fully equipped kitchen has everything you need to cook at home, plus a Keurig with complimentary K-Cups to help start your mornings. The spacious bathroom features a beautifully tiled walk-in shower, fresh towels and linens, a hair dryer, and complimentary toiletries.
+
+Step outside and you're right in the heart of it all. Located on iconic Broughton Street, you'll be just steps from City Market and within an easy walk of River Street, the Plant Riverside District, local boutiques, galleries, rooftop bars, coffee shops, and some of Savannah's best restaurants.
+
+Loved by visiting SCAD families and perfect for students touring SCAD, romantic getaway, girls' trips or simply just to experience Savannah from a unique downtown loft, we hope you'll love this creative little space as much as we do.
+
+We can't wait to host you!
+
+SVR 02219
+
+Guest access
+Guests enjoy exclusive access to the entire condo, providing privacy and comfort throughout your stay.
+
+You will arrive through a secure lobby entrance of the building, followed by elevator access to the condo's 2nd floor. A short walk down the interior hallway leads you to your private entrance. There is a small section of seven stairs in the hallway.
+
+Inside, you'll find everything needed for a relaxing stay, including a spacious living area, fully equipped kitchen, comfortable bedrooms, dining space, and a full-size washer and dryer for your convenience. The condo is completely private and reserved exclusively for your group.
+
+Other things to note
+Because the condo is located in the center of downtown, you'll experience the energy that makes Savannah so special. Restaurants, bars, and nightlife are just outside your door, particularly on Friday and Saturday evenings, so some city noise should be expected. For your comfort, we've provided a sound machine to help ensure a restful night's sleep.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+City skyline view
+Bathroom
+Hair dryer
+Cleaning products
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Safe
+Clothing storage: closet and dresser
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib - available upon request
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Whirlpool stainless steel electric stove
+Stainless steel oven
+Coffee maker: Keurig coffee machine, pour-over coffee
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Parking and facilities
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Paid parking lot off premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Charming ArtPad Condo | Savannah Historic District
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+199 reviews
+199
+Reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+On Broughton Street in the Historic District
+Steps from City Market and about a 5-min walk to the Telfair Museums and River Street
+Art-filled loft with industrial character
+An open-concept loft with exposed brick, high ceilings, and original artwork by local Savannah artists
+Consistently praised across 37 reviews
+Guests highlight the walkable location, the art-filled decor, and how responsive Alyssa is
+Enjoy an artsy Southern escape in this luxury condo in the heart of downtown Savannah, brimming with inspiration. The Savannah Art Pad is a perfect eclectic combination of a historic and trendy, with exposed brick, original wood floors and soaring high ceilings mixed with beautifully decorated art studio aesthetic throughout every detail. Gaze out the large arched windows looking over Broughton Street as you sip your morning coffee or evening cocktail as you plan an amazing Savannah adventure!
+
+The space
+Welcome to this special downtown loft! If you're looking for something a little more unique than Savannah's traditional historic homes, you've found it. This open-concept loft has a fun, artsy feel with an industrial edge, featuring original artwork throughout the space. It displays art pieces created by local Savannah artists and a bold Keith Haring-inspired wallpaper mural that gives the bedroom its own personality.
+
+Designed to be both stylish and comfortable, the loft features a queen Casper mattress in the bedroom and a premium full size deep mattress on the Murphy bed in the living area that easily folds away to maximize the space. Thoughtful touches like smart storage, a fold-out workspace, high-speed Wi-Fi, and a 50-inch 4K Fire TV make it easy to relax, whether you're here for a weekend getaway or a longer stay.
+
+The fully equipped kitchen has everything you need to cook at home, plus a Keurig with complimentary K-Cups to help start your mornings. The spacious bathroom features a beautifully tiled walk-in shower, fresh towels and linens, a hair dryer, and complimentary toiletries.
+
+Step outside and you're right in the heart of it all. Located on iconic Broughton Street, you'll be just steps from City Market and within an easy walk of River Street, the Plant Riverside District, local boutiques, galleries, rooftop bars, coffee shops, and some of Savannah's best restaurants.
+
+Loved by visiting SCAD families and perfect for students touring SCAD, romantic getaway, girls' trips or simply just to experience Savannah from a unique downtown loft, we hope you'll love this creative little space as much as we do.
+
+We can't wait to host you!
+
+SVR 02219
+
+Guest access
+Guests enjoy exclusive access to the entire condo, providing privacy and comfort throughout your stay.
+
+You will arrive through a secure lobby entrance of the building, followed by elevator access to the condo's 2nd floor. A short walk down the interior hallway leads you to your private entrance. There is a small section of seven stairs in the hallway.
+
+Inside, you'll find everything needed for a relaxing stay, including a spacious living area, fully equipped kitchen, comfortable bedrooms, dining space, and a full-size washer and dryer for your convenience. The condo is completely private and reserved exclusively for your group.
+
+Other things to note
+Because the condo is located in the center of downtown, you'll experience the energy that makes Savannah so special. Restaurants, bars, and nightlife are just outside your door, particularly on Friday and Saturday evenings, so some city noise should be expected. For your comfort, we've provided a sound machine to help ensure a restful night's sleep.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 double bed
+
+What this place offers
+City skyline view
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Elevator
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Pack ’n play/Travel crib - available upon request
+Show all 53 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 199 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Location
+140
+Walkability
+73
+Noise
+42
+Hospitality
+83
+Decor
+35
+Nearby
+58
+Cleanliness
+46
+Accuracy
+25
+Comfort
+36
+Sleep quality
+30
+Chad
+Sand Springs, Oklahoma
+Rating, 5 stars
+,
+·
+2 days ago
+,
+·
+Stayed a few nights
+Location was perfect. Everything you need is all within walking distance. The condo is very nice! Alyssa was very responsive and helpful
+Kellie
+Baltimore, Maryland
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+It was an absolute pleasure staying at Alyssa’s place! The location was fantastic—central to so many of Savannah’s attractions, restaurants, and everything else we wanted to enjoy during our visit. 
+The space was exceptionally clean, comfortable, and thoughtfully appointed. I especially loved the art throughout the home, which added such a unique and charming touch to the space. 
+I’m so glad I chose to stay here and would absolutely recommend Alyssa’s place to anyone visiting Savannah. I would happily stay here again!
+Show more
+Sarah
+Thomasville, North Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+This condo is close to almost everything in Savannah. The guide book the hosts have put together is amazing!! Perfect for a short work trip!
+Tiffani
+Pinehurst, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+such a great spot and my daughter absolutely loved it with the decor and art supplies.  Friday night was a little loud but they had a sound machine to help, they thought of everything. the location is perfect,  a block from market and a few from the river!! loved this place and hope to be back!
+Show more
+Ted
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Fabulous place in great location!  Best in class!
+Meghan
+Brunswick, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Incredible location close to all the fun things in Savannah! We would stay here again in a heartbeat! Safe, beautiful, and convenient.
+Show all 199 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Forsyth Farmers' Market
+Farmers market
+J. Christopher's
+Brunch restaurant
+Forsyth Park
+Park
+Leopold's Ice Cream - Broughton Street
+Ice cream shop
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Perfectly situated on iconic Broughton Street in the heart of Savannah's Historic District, you'll be surrounded by some of the city's best shopping, dining, and entertainment. Spend the afternoon browsing local boutiques and favorite national retailers before strolling over to lively City Market, where you'll find open-air courtyards, local artists, live music, galleries, and some of Savannah's favorite restaurants.
+
+Just a few blocks away, River Street offers a true Savannah experience, with historic cobblestone streets, waterfront dining, unique shops, festivals, and beautiful views of the Savannah River. Don't miss a sunset along the river or a stop at one of Savannah's famous candy stores for a sweet local tradition.
+
+Art lovers will also appreciate being just a short walk from the Telfair Museums, including the contemporary Jepson Center the historic Telfair Academy, and the SCAD Museum making this an ideal location for experiencing the very best of Savannah.
+Show more
+Meet your host
+Alyssa
+Superhost
+1,512 reviews
+1512
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Garret
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

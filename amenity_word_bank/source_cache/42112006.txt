@@ -1,0 +1,443 @@
+URL: https://www.airbnb.com/rooms/42112006
+Title: High Ceilings and Historic by Lucky Savannah
+Latitude: 32.0773
+Longitude: -81.0889
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This two-story townhome sits on the corner of Lincoln and York Street, just across from Savannah's famed President's Quarters. Step outside of your front door and live like a local by venturing out to many nearby restaurants, events and venues.
+
+The space
+Located on the corner of Lincoln and York Street, this Historic Luxurious Townhome is in the heart of it all. Live like a local and enjoy being within walking distance to many nearby venues, restaurants, and attractions. The home boasts with high ceilings, fine furnishings, and a private courtyard.
+
+Entering into the foyer, you'll immediately take notice of a multitude of rich architectural details, including original hardwood floors, high ceilings, and large decorative fireplaces. On the first floor, you'll find a designated sitting room and a chef's kitchen fitted with a gas stove. Adjacent to the kitchen is dining room with seating for four Lucky guests. Down the hall, a full-size bathroom with a walk-in shower.
+
+Head upstairs where you'll find the spacious bedrooms, and two additional bathrooms. The first bathroom is located just atop of the stairs, and offers a large vanity, with plenty of space to get ready for a day on the town. Around the corner, the primary suite, that floods with natural light and rich decor. The large dressing room off of the primary bedroom is perfect for a bride-to-be on her big day. Also connected, a spa-like ensuite bathroom fitted with a jetted tub, walk-in shower and double vanity. Head down the hall to find the second bedroom, that overlooks tree lined York Street.  Off of the kitchen, guests can find the private courtyard space that is deal for family meals, an evening glass of wine, or a morning cup of joe! 
+
+Sleeping Configuration:
+Bedroom 1: Queen bed
+Bedroom 2: Queen bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, with enforcement by the City of Savannah Monday through Saturday, 8am to 8pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or utilize a nearby public parking garage. Pre-paid visitor parking passes are available for purchase at the Parking and Mobility Services office. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-00880
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+High Ceilings and Historic by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 3 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.97 out of 5 stars.
+4.97
+34 reviews
+34
+Reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Oglethorpe Square, with the Owens-Thomas House right outside the front door
+Townhome with a private courtyard
+A private courtyard off the kitchen for morning coffee or a quiet evening outdoors
+Spotless and full of character
+Guests highlight how clean and beautifully decorated the home is, with many planning return visits
+This two-story townhome sits on the corner of Lincoln and York Street, just across from Savannah's famed President's Quarters. Step outside of your front door and live like a local by venturing out to many nearby restaurants, events and venues.
+
+The space
+Located on the corner of Lincoln and York Street, this Historic Luxurious Townhome is in the heart of it all. Live like a local and enjoy being within walking distance to many nearby venues, restaurants, and attractions. The home boasts with high ceilings, fine furnishings, and a private courtyard.
+
+Entering into the foyer, you'll immediately take notice of a multitude of rich architectural details, including original hardwood floors, high ceilings, and large decorative fireplaces. On the first floor, you'll find a designated sitting room and a chef's kitchen fitted with a gas stove. Adjacent to the kitchen is dining room with seating for four Lucky guests. Down the hall, a full-size bathroom with a walk-in shower.
+
+Head upstairs where you'll find the spacious bedrooms, and two additional bathrooms. The first bathroom is located just atop of the stairs, and offers a large vanity, with plenty of space to get ready for a day on the town. Around the corner, the primary suite, that floods with natural light and rich decor. The large dressing room off of the primary bedroom is perfect for a bride-to-be on her big day. Also connected, a spa-like ensuite bathroom fitted with a jetted tub, walk-in shower and double vanity. Head down the hall to find the second bedroom, that overlooks tree lined York Street.  Off of the kitchen, guests can find the private courtyard space that is deal for family meals, an evening glass of wine, or a morning cup of joe! 
+
+Sleeping Configuration:
+Bedroom 1: Queen bed
+Bedroom 2: Queen bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, with enforcement by the City of Savannah Monday through Saturday, 8am to 8pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or utilize a nearby public parking garage. Pre-paid visitor parking passes are available for purchase at the Parking and Mobility Services office. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-00880
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.97 out of 5 from 34 reviews.
+4.97
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.7 out of 5 stars for check-in
+Check-in
+4.7
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Location
+27
+Walkability
+11
+Cleanliness
+12
+Backyard
+2
+Indoor spaces
+10
+Parking
+4
+Comfort
+6
+Decor
+4
+Family
+6
+Outdoor spaces
+4
+Ashley
+New Orleans, Louisiana
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Great place in a wonderful location, right in the middle of Savannah’s historic district. We thoroughly enjoyed our stay.
+Show more
+Evan
+Eau Claire, Wisconsin
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Wonderful place.  The sound of horses clomping down the street in the evening greatly added to the charm.  Close to everything.  We luckily got the parking spot closest to the unit and it was easy to pay with the app.
+Show more
+Stephanie
+Maryland, United States
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Great location and wonderful home. Would definitely stay again!
+Show more
+Kristi
+San Antonio, Texas
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Stayed a few nights
+This house is decorated beautifully, it’s walkable to everything. We did not have to uber anywhere. Most importantly…it’s spotless!!! That’s absolutely a must for me. Thank you for wonderful accommodations!
+Show more
+Amanda
+Minneapolis, Minnesota
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+If I make it back to Savannah, I hope to stay here again. Great location. Spacious, cute, and clean. The private patio was such a welcomed perk! We walked all over and stopped back “home” in between. Comfy beds. Would recommend
+Show more
+Margaret
+Lincoln, Nebraska
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Stayed a few nights
+Beautiful place in a great location!! The place was clean and comfortable, great patio. We walked all over the historic district, no car needed. We really enjoyed the city, especially the historic squares. 😊 Thanks
+Show more
+Show all 34 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

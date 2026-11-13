@@ -1,0 +1,62 @@
+﻿REGISTVR BACKEND / DATABASE ACCESS NOTES
+Prepared: October 27, 2026
+
+STATUS
+These details come from the saved VM setup records; the server has not been
+checked live for this note. At the last recorded setup, PostgreSQL/PostGIS,
+a database disk, and the backend application had NOT been configured.
+No database name, database username, database password, or database connection
+URL is recorded. The SSH account below is a server account.
+
+BACKEND SERVER
+VM name: registvr-backend
+Proxmox VM ID: 105
+Proxmox node: pve-tower
+Proxmox administration: https://10.10.10.2:8006/
+Recorded server IP: 192.168.1.230
+Server username: registvr
+OS recorded: Ubuntu Server 26.04.1 LTS
+Network access: connect from a network that can reach the private server IP.
+The IP uses DHCP and may change. Recorded MAC: BC:24:11:95:45:DC.
+
+SSH ACCESS FROM THE ORIGINAL WINDOWS ACCOUNT
+Run in PowerShell:
+  ssh registvr-backend
+
+Or use the explicit host and key:
+  ssh -i "$env:USERPROFILE\.ssh\registvr_vm_management_ed25519" registvr@192.168.1.230
+
+SSH uses key authentication. SSH password login and root SSH are disabled.
+The registvr account has passwordless sudo.
+
+ACCESS FROM ANOTHER COMPUTER
+The SSH alias is local to the original Windows account. Use the explicit
+server IP on another computer. That computer needs an authorized SSH key and
+network access to the server. This note does not contain a private SSH key
+and does not itself grant access.
+
+CONSOLE RECOVERY
+Open VM 105 in Proxmox and use its console.
+Console username: registvr
+The existing console password is saved on the original Windows account at:
+  %USERPROFILE%\.ssh\registvr_vm105_console_password.txt
+A separate local setup record also contains the console login details:
+  hosts_servers_and_services\proxmox\VM105_PRIVATE_LOGIN_DETAILS.txt
+The console password is not an SSH password.
+
+DATABASE ACCESS
+A working database connection cannot be supplied from the saved setup records.
+First verify whether a database has since been installed and configured.
+If PostgreSQL is installed, a typical local administration command is:
+  sudo -u postgres psql
+That command depends on the actual PostgreSQL installation and configuration.
+Do not assume that a database port is reachable: the saved firewall setup
+allowed only SSH (TCP 22).
+
+SOURCE RECORDS
+  hosts_servers_and_services\proxmox\VM105_PRIVATE_LOGIN_DETAILS.txt
+  hosts_servers_and_services\proxmox\VM105_VERIFICATION.json
+
+HANDLING
+This note contains private infrastructure details. Transfer it privately.
+Private keys and passwords are not embedded in this note.

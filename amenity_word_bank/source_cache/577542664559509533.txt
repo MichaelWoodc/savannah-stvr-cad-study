@@ -1,0 +1,438 @@
+URL: https://www.airbnb.com/rooms/577542664559509533
+Title: Adorable, private and quiet 1 bedroom in Savannah
+Latitude: 32.06948
+Longitude: -81.09086
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: John
+Host ID: 220853256
+Host profile ID: 1469166376946114670
+Host URL: https://www.airbnb.com/users/profile/1469166376946114670
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Enjoy a stylish, romantic experience at this centrally-located 1 bedroom carriage house. Private entrance with easy street parking nearby. Walk to all the best Savannah restaurants and stroll through Forsyth Park located 2 blocks away. You'll fall asleep to the lulling sounds of the courtyard fountain, relax in the interior designed by 1chicretreat.com, and will want to move to Savannah soon enough!
+This is a carriage house so there are fifteen (15) steps to enter.
+SVR-02520
+
+The space
+This is an open concept studio carriage house with the possibility of closing off the bedroom space with large sliding barn doors. The bedroom has a king size bed and black-out curtains so guests may sleep in. The kitchen is a full working kitchen with oven, stovetop, microwave, chef knives, top-of-the-line coffee maker,  and all the cooking tools one needs. Bathroom provides a walk-in shower. Dining nook is ample enough for two guests plus 2 visitors.
+The outdoor courtyard has comfy furniture and an awesome water fountain for maximum relaxation. This is a shared and quiet area.
+
+Guest access
+All
+
+Other things to note
+As mentioned above, this is a carriage house so there are 15 steps.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Room-darkening shades
+Clothing storage: closet and dresser
+Entertainment
+60 inch HDTV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+GE stainless steel oven
+Hot water kettle
+Coffee maker: drip coffee maker, Keurig coffee machine
+Wine glasses
+Toaster
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free street parking
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Adorable, private and quiet 1 bedroom in Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Add dates for prices
+Add dates for prices
+4.99 ·
+111 reviews
+Rated 4.99 out of 5 from 111 reviews.
+Check availability
+Entire guesthouse in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.99 out of 5 stars.
+4.99
+111 reviews
+111
+Reviews
+Hosted by John
+Superhost · 5 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's historic district
+Steps from Whitefield Square, with Forsyth Park about a 5-min walk away
+Well-equipped carriage house kitchen
+A full kitchen with oven, stovetop, and quality cookware in a beautifully designed carriage house
+John goes above and beyond
+Guests consistently praise John as a responsive, helpful host with outstanding local recommendations
+Enjoy a stylish, romantic experience at this centrally-located 1 bedroom carriage house. Private entrance with easy street parking nearby. Walk to all the best Savannah restaurants and stroll through Forsyth Park located 2 blocks away. You'll fall asleep to the lulling sounds of the courtyard fountain, relax in the interior designed by 1chicretreat.com, and will want to move to Savannah soon enough!
+This is a carriage house so there are fifteen (15) steps to enter.
+SVR-02520
+
+The space
+This is an open concept studio carriage house with the possibility of closing off the bedroom space with large sliding barn doors. The bedroom has a king size bed and black-out curtains so guests may sleep in. The kitchen is a full working kitchen with oven, stovetop, microwave, chef knives, top-of-the-line coffee maker,  and all the cooking tools one needs. Bathroom provides a walk-in shower. Dining nook is ample enough for two guests plus 2 visitors.
+The outdoor courtyard has comfy furniture and an awesome water fountain for maximum relaxation. This is a shared and quiet area.
+
+Guest access
+All
+
+Other things to note
+As mentioned above, this is a carriage house so there are 15 steps.
+Show more
+What this place offers
+Kitchen
+Wifi
+Free street parking
+60 inch HDTV
+Washer
+Free dryer – In unit
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 40 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.99 out of 5 from 111 reviews.
+4.99
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 99% of reviews
+5
+4 stars, 1% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+47
+Location
+66
+Decor
+37
+Parks
+12
+Comfort
+44
+Sleep quality
+28
+Hospitality
+58
+Quiet
+27
+Parking
+12
+Nearby
+24
+Martha Bridges
+Leesburg, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+This apartment is beautifully decorated and comfortable. The bed was very comfortable. I loved the shower. The kitchen was just what we needed and very clean. 
+We didn't use the outdoor space simply because it was very hot outside but in the fall and spring I'm sure it would be very comfortable. We loved walking to all the restaurants, parks and jazz fest! We had a wonderful weekend.
+Show more
+Mallory
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+We loved our stay at John and Mercedes' place. It's beautifully decorated, quiet & peaceful and in a great location. Easy to walk downtown and very close to Forsyth Park. John was very responsive and provided some great recommendations (wish we had time to try them all, next time!). Would definitely stay here on a future visit.
+Show more
+Brian
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We had a wonderful time. The cottage is close to everything, yet quiet and peaceful.
+Rudy
+Winston-Salem, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+It is a lovely place right in the middle of everything but somehow also quiet at night. Park your car and walk everywhere. Beautifully decorated.
+Nicole
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+From the moment we arrived, everything felt genuinely high end, from the bedding to the cookware to the thoughtful details throughout. We arranged a Whole Foods delivery from home before we arrived and groceries were waiting when we settled in, which made the stay feel effortless. The location is outstanding, a five minute walk to Forsyth Park, shops, restaurants, and the SCAD admissions office. A few honest notes: the door faces the alley, but a short walk and you're in a beautiful neighborhood. The courtyard is shared with the main house so not fully private, and the carriage house sits above a garage so the door is audible, though it only happened twice in three days and never at odd hours. The property felt very secure with gated entry and a private door up a flight of stairs. John responded quickly to every question and his local recommendations were genuinely outstanding. This was the perfect base for touring SCAD. Highly recommend.
+Show more
+Brit'Nee
+Virginia, United States
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Very nice place and great location. Comfy beds and very cute kitchen!
+Show all 111 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Meet your host
+John
+Superhost
+111 reviews
+111
+Reviews
+4.99 out of 5 average rating
+4.99
+Rating
+5 years of hosting
+5
+Years hosting
+Speaks English, Portuguese, and Spanish
+Lives in Savannah, Georgia
+John is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within a few hours
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Guesthouse vacation rentals in Savannah
+Guesthouse vacation rentals in Chatham County
+Guesthouse vacation rentals in Georgia
+Guesthouse vacation rentals in United States
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

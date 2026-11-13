@@ -1,0 +1,574 @@
+URL: https://www.airbnb.com/rooms/50526047
+Title: Bay St Beauty 2 Bedroom Condo in the Heart of SAV
+Latitude: 32.0812
+Longitude: -81.0932
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Amber
+Host ID: 45887321
+Host profile ID: 1462701598014383509
+Host URL: https://www.airbnb.com/users/profile/1462701598014383509
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+LOCATION, LOCATION, LOCATION! Ideally located between CITY MARKET and RIVER STREET, this 1800+ sq ft 2 Bedroom / 2.5 Bathroom Bay Street Beauty offers plenty of room to relax while staying close to all the action in Savannah's historic district. Enjoy 2 comfortable King suites with ensuite bathrooms, one featuring grab bars for accessibility. The condo includes an elevator, wide doorways, and in-unit laundry so that it is convenient and enjoyable for all. Southern charm and modern comfort all in
+
+The space
+LOCATION, LOCATION, LOCATION!
+Ideally situated between City Market and River Street, this 1,860 sq ft Bay Street Beauty offers the perfect place to stay when you want to be close to everything in Savannah's historic district while enjoying plenty of room to spread out. This entire condo rental is easily accessible with an elevator in the building and features 2 luxurious king-size bedroom suites, each with its own ensuite bathroom; one bathroom is equipped with grab bars for enhanced accessibility. Southern charm and comfort all in one! 
+STVR Certificate: SVR-02342
+
+Why Stay Here?
+
+- Spacious and Comfortable: With 2 king-size bedroom suites, spacious walk-in closets, and plenty of fluffy blankets, this condo is perfect for families or friends seeking a relaxing retreat. Maximum occupancy is 4, as per the City of Savannah and our condo association.
+
+- Accessible Features: One of the ensuite bathrooms is equipped with grab bars in both the shower and next to the toilet, providing enhanced safety and accessibility for all guests. The condo also features wide doorways for ease of movement, and the building is equipped with an elevator.
+
+- Modern Amenities: The condo, built in 2007 after a complete restoration of the original 1800s building, blends history and modernity. Enjoy Smart TVs in the living room and both bedrooms, and feel at home with the in-unit laundry room equipped with a washer and dryer. A starter pack of laundry pods and dryer sheets is provided for your convenience.
+
+- Stunning Kitchen: The modern kitchen shines with stainless steel appliances and is fully stocked with all the essentials, including coffee supplies. We provide a drip coffee maker with a starter pack of coffee grounds and filters, as well as a Keurig machine with a selection of K-cups, sugar, and dairy creamer.
+
+Prime Location: Walkable to Everything
+This condo is ideally located in the heart of Savannah's historic district, making it easy to explore the city's rich history and vibrant culture on foot:
+
+- River Street: Stroll along the picturesque Savannah River, visit local shops, and dine at waterfront restaurants. Don't miss out on pralines from River Street Sweets or a visit to the captivating Plant Riverside District.
+
+- City Market: Enjoy lively restaurants, boutiques, and live music just a short walk away. Vinny Van Go Go's, a beloved local pizza haven, is a must-try!
+
+- Broughton Street & Forsyth Park: Discover charming shops and iconic sites, including the beautiful Forsyth Park, all within a few blocks.
+
+Dining at Your Doorstep
+Onsite Options: If you prefer to dine close by, you’ll love having Five Guys, YATAI ramen + yakitori, and Starbucks right in the same building. For a top-notch dining experience, Ruth's Chris Steakhouse is just next door.
+
+Stocked for Your Comfort
+
+- Plush Linens & Towels: We've thought of everything to make your stay comfortable, including high-quality linens and towels. You'll find sheet sets and quilts for all bed sizes, as well as white bath towels, hand towels, and washcloths.
+
+- Well-Equipped Kitchens: Whether you’re cooking a family meal or just grabbing a snack, our kitchens have you covered. We’ve stocked them with supplies to cook a delicious meal, including a full set of pots and pans, cups, plates, bowls, measuring cups, mixing bowls, and a toaster, to name a some items. We also supply a starter pack of dish cloths, dish soap, dishwasher detergent, salt and pepper.
+
+- Personal Care Items: We provide a starter pack of personal care items including shampoo, conditioner, and soap.
+
+- Laundry & Cleaning Supplies: We provide a starter pack of what you need to keep things tidy during your stay, including laundry detergent, dryer sheets, bleach, trash bags for both the kitchen and bathroom, and paper towels.
+
+Additional Amenities
+- Balcony Views: Enjoy glimpses of the Savannah River and the bustling City Market from the standing balcony off the living room.
+- Floral Arrangements: Our property manager, a talented local florist, can arrange exquisite floral bouquets to enhance your stay.
+- Baby Equipment: Need baby gear? We can recommend trusted rental services to make your stay even more comfortable.
+
+Parking & Security
+
+- Parking: We recommend parking in the Whitaker St. Garage, located around the corner from the condo. A parking pass for 1 vehicle is provided for the duration of your stay. Please return the pass to the table at the entrance of the condo unit upon departure, or a $200 replacement fee will be charged. Street parking is also available at your own expense.
+
+- Security: For your peace of mind, the HOA has cameras in the common areas and exterior of the building.
+
+Explore Savannah’s Charm
+The neighborhood surrounding this condo is a captivating destination for guests seeking to experience the essence of Savannah's historic district. With cobblestone streets, well-preserved buildings, and picturesque squares adorned with moss-draped oak trees, you’ll be immersed in Southern charm. Visit nearby museums like the Ships of the Sea Maritime Museum and the Telfair Museums, or take a leisurely stroll in Forsyth Park. The diverse culinary scene, featuring Southern specialties and international flavors, makes this area a food lover's paradise.
+
+*No parties or third party bookings*
+A rental agreement is required to be completed upon booking.
+
+Guest access
+We recommend parking in the Whitaker St. Garage around the corner from the condo.  We will allow you to use our parking pass (good for 1 vehicle) for the Whitaker St parking garage during your stay.  It must be returned to the table at the entrance of our condo unit when you leave or we will charge you a $200 replacement fee.
+
+You may also find street parking at your own expense.
+
+Other things to note
+This luxurious 1,860 sq. ft. condo blends Southern charm with modern convenience. It boasts two spacious king-size bedroom suites with ensuite bathrooms, one featuring grab bars for enhanced accessibility. Enjoy a fully equipped kitchen with stainless steel appliances, in-unit laundry, Smart TVs in every room, and a standing balcony with views of the Savannah River and City Market. The building includes an elevator for easy access, and a parking pass is provided for nearby garage parking. Perfectly located in Savannah’s historic district, you’re steps away from River Street, City Market, and top dining options.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+River view
+City skyline view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Safe
+Clothing storage: walk-in closet, closet, and dresser
+Entertainment
+TV
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+The HOA has cameras/surveillance in the common areas of the condo building.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Frigidaire stainless steel gas stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Private patio or balcony
+Parking and facilities
+Free parking on premises
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Paid parking off premises
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Bay St Beauty 2 Bedroom Condo in the Heart of SAV
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+229 reviews
+229
+Reviews
+Hosted by Amber
+Superhost · 9 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's historic district
+Ellis Square is steps away, with River Street and City Market both within a short walk.
+Spacious condo with modern comforts
+Over 1,800 sq ft with a fully equipped kitchen, in-unit washer and dryer, and an elevator.
+Consistently clean and comfortable
+Guests highlight how clean, spacious, and comfortable the condo is, with many planning return visits.
+LOCATION, LOCATION, LOCATION! Ideally located between CITY MARKET and RIVER STREET, this 1800+ sq ft 2 Bedroom / 2.5 Bathroom Bay Street Beauty offers plenty of room to relax while staying close to all the action in Savannah's historic district. Enjoy 2 comfortable King suites with ensuite bathrooms, one featuring grab bars for accessibility. The condo includes an elevator, wide doorways, and in-unit laundry so that it is convenient and enjoyable for all. Southern charm and modern comfort all in
+
+The space
+LOCATION, LOCATION, LOCATION!
+Ideally situated between City Market and River Street, this 1,860 sq ft Bay Street Beauty offers the perfect place to stay when you want to be close to everything in Savannah's historic district while enjoying plenty of room to spread out. This entire condo rental is easily accessible with an elevator in the building and features 2 luxurious king-size bedroom suites, each with its own ensuite bathroom; one bathroom is equipped with grab bars for enhanced accessibility. Southern charm and comfort all in one! 
+STVR Certificate: SVR-02342
+
+Why Stay Here?
+
+- Spacious and Comfortable: With 2 king-size bedroom suites, spacious walk-in closets, and plenty of fluffy blankets, this condo is perfect for families or friends seeking a relaxing retreat. Maximum occupancy is 4, as per the City of Savannah and our condo association.
+
+- Accessible Features: One of the ensuite bathrooms is equipped with grab bars in both the shower and next to the toilet, providing enhanced safety and accessibility for all guests. The condo also features wide doorways for ease of movement, and the building is equipped with an elevator.
+
+- Modern Amenities: The condo, built in 2007 after a complete restoration of the original 1800s building, blends history and modernity. Enjoy Smart TVs in the living room and both bedrooms, and feel at home with the in-unit laundry room equipped with a washer and dryer. A starter pack of laundry pods and dryer sheets is provided for your convenience.
+
+- Stunning Kitchen: The modern kitchen shines with stainless steel appliances and is fully stocked with all the essentials, including coffee supplies. We provide a drip coffee maker with a starter pack of coffee grounds and filters, as well as a Keurig machine with a selection of K-cups, sugar, and dairy creamer.
+
+Prime Location: Walkable to Everything
+This condo is ideally located in the heart of Savannah's historic district, making it easy to explore the city's rich history and vibrant culture on foot:
+
+- River Street: Stroll along the picturesque Savannah River, visit local shops, and dine at waterfront restaurants. Don't miss out on pralines from River Street Sweets or a visit to the captivating Plant Riverside District.
+
+- City Market: Enjoy lively restaurants, boutiques, and live music just a short walk away. Vinny Van Go Go's, a beloved local pizza haven, is a must-try!
+
+- Broughton Street & Forsyth Park: Discover charming shops and iconic sites, including the beautiful Forsyth Park, all within a few blocks.
+
+Dining at Your Doorstep
+Onsite Options: If you prefer to dine close by, you’ll love having Five Guys, YATAI ramen + yakitori, and Starbucks right in the same building. For a top-notch dining experience, Ruth's Chris Steakhouse is just next door.
+
+Stocked for Your Comfort
+
+- Plush Linens & Towels: We've thought of everything to make your stay comfortable, including high-quality linens and towels. You'll find sheet sets and quilts for all bed sizes, as well as white bath towels, hand towels, and washcloths.
+
+- Well-Equipped Kitchens: Whether you’re cooking a family meal or just grabbing a snack, our kitchens have you covered. We’ve stocked them with supplies to cook a delicious meal, including a full set of pots and pans, cups, plates, bowls, measuring cups, mixing bowls, and a toaster, to name a some items. We also supply a starter pack of dish cloths, dish soap, dishwasher detergent, salt and pepper.
+
+- Personal Care Items: We provide a starter pack of personal care items including shampoo, conditioner, and soap.
+
+- Laundry & Cleaning Supplies: We provide a starter pack of what you need to keep things tidy during your stay, including laundry detergent, dryer sheets, bleach, trash bags for both the kitchen and bathroom, and paper towels.
+
+Additional Amenities
+- Balcony Views: Enjoy glimpses of the Savannah River and the bustling City Market from the standing balcony off the living room.
+- Floral Arrangements: Our property manager, a talented local florist, can arrange exquisite floral bouquets to enhance your stay.
+- Baby Equipment: Need baby gear? We can recommend trusted rental services to make your stay even more comfortable.
+
+Parking & Security
+
+- Parking: We recommend parking in the Whitaker St. Garage, located around the corner from the condo. A parking pass for 1 vehicle is provided for the duration of your stay. Please return the pass to the table at the entrance of the condo unit upon departure, or a $200 replacement fee will be charged. Street parking is also available at your own expense.
+
+- Security: For your peace of mind, the HOA has cameras in the common areas and exterior of the building.
+
+Explore Savannah’s Charm
+The neighborhood surrounding this condo is a captivating destination for guests seeking to experience the essence of Savannah's historic district. With cobblestone streets, well-preserved buildings, and picturesque squares adorned with moss-draped oak trees, you’ll be immersed in Southern charm. Visit nearby museums like the Ships of the Sea Maritime Museum and the Telfair Museums, or take a leisurely stroll in Forsyth Park. The diverse culinary scene, featuring Southern specialties and international flavors, makes this area a food lover's paradise.
+
+*No parties or third party bookings*
+A rental agreement is required to be completed upon booking.
+
+Guest access
+We recommend parking in the Whitaker St. Garage around the corner from the condo.  We will allow you to use our parking pass (good for 1 vehicle) for the Whitaker St parking garage during your stay.  It must be returned to the table at the entrance of our condo unit when you leave or we will charge you a $200 replacement fee.
+
+You may also find street parking at your own expense.
+
+Other things to note
+This luxurious 1,860 sq. ft. condo blends Southern charm with modern convenience. It boasts two spacious king-size bedroom suites with ensuite bathrooms, one featuring grab bars for enhanced accessibility. Enjoy a fully equipped kitchen with stainless steel appliances, in-unit laundry, Smart TVs in every room, and a standing balcony with views of the Savannah River and City Market. The building includes an elevator for easy access, and a parking pass is provided for nearby garage parking. Perfectly located in Savannah’s historic district, you’re steps away from River Street, City Market, and top dining options.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+River view
+City skyline view
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Elevator
+Free washer – In unit
+Exterior security cameras on property
+Show all 56 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 229 reviews.
+4.96
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+66
+Location
+168
+Parking
+43
+Cleanliness
+87
+Noise
+21
+Comfort
+53
+Hospitality
+72
+River
+5
+Decor
+23
+Nearby
+34
+Julie
+Lake City, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Beautiful place very clean. Great location. I loved the clear instructions she gave on how to check in and check out. The parking pass was fantastic. I would definitely rent this place again.
+Show more
+Angel
+Green Cove Springs, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This place was amazing better than the pictures. It was an incredible find. Everything we needed was within walking distance. We parked in their provided garage and did not need to worry about our car the whole trip. Elevator access makes it easily accessible. Most places in this area require walking up steps. It was nice not to have to worry about steps with luggage. We will definitely plan to stay again. Thank you for sharing your wonderful place with us.
+Show more
+Alexis
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Absolutely loved our stay. The hosts include an online guide that I originally thought was overkill, but I literally found myself on the guide every time I had to think about food, places, adventures, anything really! So helpful and the instructions to parking and get in the building were perfect. Loved the location. Step right out to the street and walk every where you could possibly want to go. We will definitely be back and hopefully we can book here again!
+Show more
+Robin
+Apex, North Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+The place was beautiful and in the perfect location. We really enjoyed it
+Josh
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed over a week
+Thank you for the opportunity to stay in your charming place!!
+Jennifer
+Shawnee, Kansas
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed about a week
+Thank you for the opportunity to stay at your home. We had a good visit in Savannah and the location was within walking distance of many restaurant and shopping options.
+Show all 229 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+This condo is located in the heart of the city's historic downtown district, where guests are immersed in the allure of Savannah's rich history and charming architecture. With its cobblestone streets, well-preserved buildings, and picturesque squares adorned with moss-draped oak trees, this vibrant area exudes Southern charm. Located near the scenic River Street, visitors can explore riverside shops, indulge in waterfront dining, and embark on scenic riverboat cruises. The neighborhood is also home to captivating museums, such as the Ships of the Sea Maritime Museum and the Telfair Museums, showcasing art, history, and maritime exhibits. Forsyth Park, with its iconic fountain, offers a serene green space for leisurely strolls. With its diverse culinary scene, featuring a range of restaurants serving Southern specialties and international flavors, the neighborhood surrounding this condo is a captivating destination for guests seeking to experience the essence of Savannah's historic district.
+Show more
+Meet your host
+Amber
+Superhost
+1,479 reviews
+1479
+Reviews
+4.97 out of 5 average rating
+4.97
+Rating
+9 years of hosting
+9
+Years hosting
+Where I went to school: Georgia Institute of Technology
+My work: IT PM
+We're genuine, down-to-earth hosts who adore sharing our beloved hometown, Savannah, our adopted hometown, Atlanta, and the thrill of theme park life in Orlando with guests like you. In our spare time, we love traveling, escape rooms, and spending time outdoors with our kids and dog, Lucy.
+Amber is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Ryan
+Coanna
+Todd
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

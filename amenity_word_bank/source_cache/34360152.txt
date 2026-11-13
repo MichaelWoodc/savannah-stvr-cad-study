@@ -1,0 +1,511 @@
+URL: https://www.airbnb.com/rooms/34360152
+Title: Jones Street Apartment Circa 1850
+Latitude: 32.0729
+Longitude: -81.0958
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sabrina
+Host ID: 9542698
+Host profile ID: 1462570035401539185
+Host URL: https://www.airbnb.com/users/profile/1462570035401539185
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Spacious apartment in the most coveted location of Savannah' s Historic District. Private entry on Jones Street named one of the "Most beautiful street in America".  Feel like a local in a historic mansion that dates back to 1850, walk to all shops and restaurants. Very quiet and peaceful. Garden level, no stairs. Beautiful back courtyard garden and a side courtyard to enjoy your morning coffee. See PARKING INFO on listing. Large bedroom, separate living room, queen sofa-bed in LR. 
+SVR-02204
+
+The space
+Large living room area, big screen smart tv,  comfortable desk/work area.
+Spacious bedroom with a queen bed and lots of closets. 
+The kitchen is fully equipped with everything you need: including dishes, pots and pans, mugs, glassware, coffeemaker, toaster, etc. and a dining table with two chairs.
+There is a drip coffee maker. Filters, ground coffee, tea, sugar and creamer are all available and complimentary. 
+Additional entry/ exit through the back of the apartment opens up to a beautiful back courtyard. There's also a side door that leads out to a beautiful separate side courtyard that faces Jones Street.
+Bathroom undergoing a complete renovation in November! All brand new everything, welcoming reservations again December 1st.
+
+Guest access
+Full access the the entire apartment and access to two beautiful and peaceful courtyards.
+
+Other things to note
+*****PARKING INFO********
+Parking is on street. Meters in effect Mon-Fri 8am to 5pm. Free after 5pm, free all weekend, free overnight any night. Parking on the same block as the apartment should be easy, you should have no problem finding a spot right outside the door on W Jones St. 
+Here are your options: 
+ If you are coming just for the weekend: Parking in any spot around the apartment is FREE after 5pm on Friday and all weekend. It's ok and free to park overnight. 
+
+If you are parking during the week:
+1) Park in any spot that has a number and pay the meter Mon-Fri 8am to 5pm. Pay at the muni meter with a credit card or cash or use the Parking Savannah Phone app and pay fom your  mobile phone. Parking overnight is free. TIP: if you want to park for free on street, E Jones St just 3 blocks away has not meters, just be mindful of street sweeper signs. 
+
+2) If you don't want to deal with paying meters just go to the visitor's center  **Currently closed due to COVID**  about 5 mins away on MLK boulevard) and get a visitor's parking pass for the duration of your stay. Put it on your dashboard and park anywhere (pay attention to street sweeping signs). They cost $15 a day. **During COVID: you have to get the pass at the Parking and Mobility office on Bryan St. They want you to call ahead if you want to purchase them. Airbnb won't let me disclose the website or their phone number here but just search "Parking and Mobility Savannah" and go to the "Visitor's" tab. It's all there. 
+
+3) Garage option: forget about meters and street sweepers: There is a very inexpensive parking garage 5 minute walking distance from the carriage house. Called the Liberty Street parking garage. It costs about $17 for 24 hours. It is covered and safe. 
+
+4) Last option is park your car in streets nearby that have no meters: Ask me for the link to a map I created  that shows the nearest streets without meters, can't put link here airbnb does not allow links. These streets are EJones St.  (east of Abercorn), and any street South of Gaston Street. Both about 5 minute stroll from the apartment. Just be mindful of the street sweeper nights.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Garden view
+Courtyard view
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Suave conditioner
+Liquid body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In building
+Free dryer – In building
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Entertainment
+75 inch HDTV
+Family
+Crib
+Pack ’n play/Travel crib
+Children’s books and toys
+Baby bath
+Babysitter recommendations
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Security cameras located OUTSIDE in the shared back courtyard and in the lane (alley) behind the property. THERE ARE NO SECURITY CAMERAS INSIDE THE APARTMENT
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Gas stove
+Oven
+Coffee maker
+Wine glasses
+Baking sheet
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Paid street parking off premises
+Single level home
+No stairs in home
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+Cleaning available during stay
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Jones Street Apartment Circa 1850
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.97 out of 5 stars.
+4.97
+312 reviews
+312
+Reviews
+Hosted by Sabrina
+Superhost · 13 years hosting
+Listing highlights
+In the heart of Savannah's Historic District
+Steps from Chatham Square and the Green-Meldrim House, with Forsyth Park about a 5-min walk away
+Two private-feeling courtyards
+Two courtyards with outdoor seating, one off Jones Street for morning coffee and one in the back
+Sabrina is an attentive host
+Guests praise Sabrina's responsiveness, clear instructions, and thoughtful local recommendations
+Spacious apartment in the most coveted location of Savannah' s Historic District. Private entry on Jones Street named one of the "Most beautiful street in America".  Feel like a local in a historic mansion that dates back to 1850, walk to all shops and restaurants. Very quiet and peaceful. Garden level, no stairs. Beautiful back courtyard garden and a side courtyard to enjoy your morning coffee. See PARKING INFO on listing. Large bedroom, separate living room, queen sofa-bed in LR. 
+SVR-02204
+
+The space
+Large living room area, big screen smart tv,  comfortable desk/work area.
+Spacious bedroom with a queen bed and lots of closets. 
+The kitchen is fully equipped with everything you need: including dishes, pots and pans, mugs, glassware, coffeemaker, toaster, etc. and a dining table with two chairs.
+There is a drip coffee maker. Filters, ground coffee, tea, sugar and creamer are all available and complimentary. 
+Additional entry/ exit through the back of the apartment opens up to a beautiful back courtyard. There's also a side door that leads out to a beautiful separate side courtyard that faces Jones Street.
+Bathroom undergoing a complete renovation in November! All brand new everything, welcoming reservations again December 1st.
+
+Guest access
+Full access the the entire apartment and access to two beautiful and peaceful courtyards.
+
+Other things to note
+*****PARKING INFO********
+Parking is on street. Meters in effect Mon-Fri 8am to 5pm. Free after 5pm, free all weekend, free overnight any night. Parking on the same block as the apartment should be easy, you should have no problem finding a spot right outside the door on W Jones St. 
+Here are your options: 
+ If you are coming just for the weekend: Parking in any spot around the apartment is FREE after 5pm on Friday and all weekend. It's ok and free to park overnight. 
+
+If you are parking during the week:
+1) Park in any spot that has a number and pay the meter Mon-Fri 8am to 5pm. Pay at the muni meter with a credit card or cash or use the Parking Savannah Phone app and pay fom your  mobile phone. Parking overnight is free. TIP: if you want to park for free on street, E Jones St just 3 blocks away has not meters, just be mindful of street sweeper signs. 
+
+2) If you don't want to deal with paying meters just go to the visitor's center  **Currently closed due to COVID**  about 5 mins away on MLK boulevard) and get a visitor's parking pass for the duration of your stay. Put it on your dashboard and park anywhere (pay attention to street sweeping signs). They cost $15 a day. **During COVID: you have to get the pass at the Parking and Mobility office on Bryan St. They want you to call ahead if you want to purchase them. Airbnb won't let me disclose the website or their phone number here but just search "Parking and Mobility Savannah" and go to the "Visitor's" tab. It's all there. 
+
+3) Garage option: forget about meters and street sweepers: There is a very inexpensive parking garage 5 minute walking distance from the carriage house. Called the Liberty Street parking garage. It costs about $17 for 24 hours. It is covered and safe. 
+
+4) Last option is park your car in streets nearby that have no meters: Ask me for the link to a map I created  that shows the nearest streets without meters, can't put link here airbnb does not allow links. These streets are EJones St.  (east of Abercorn), and any street South of Gaston Street. Both about 5 minute stroll from the apartment. Just be mindful of the street sweeper nights.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Garden view
+Courtyard view
+Kitchen
+Wifi
+Dedicated workspace
+75 inch HDTV
+Free washer – In building
+Free dryer – In building
+Central air conditioning
+Exterior security cameras on property
+Show all 57 amenities
+Accessibility features
+This info was provided by the Host and reviewed by Airbnb.
+Guest entrance and parking
+Lit path to the guest entrance
+Show all 1 feature
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.97 out of 5 from 312 reviews.
+4.97
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+132
+Location
+257
+Hospitality
+162
+Outdoor spaces
+50
+Nearby
+54
+Comfort
+66
+Parking
+32
+Cleanliness
+100
+Getting around
+19
+Indoor spaces
+41
+Jeff
+Pleasant Lake, Michigan
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed about a week
+My wife and I had a great week at Sabrina's place on beautiful Jones St. Many restaurants, historic homes to tour, shopping and beautiful squares near by-all within walking distance. We only used our car to do things outside of the historic district. Loved morning coffee and breakfast in the side courtyard. Enjoyed being so close to Forsyth Park. Sabrina was very responsive and gave clear instructions for check in and check out.
+Show more
+Steven
+Guilford, Connecticut
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Excellent stay for a weekend. The home was very clean and comfortable and the location was great.
+Marsha
+Texas, United States
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed about a week
+This was a great place to stay!  Convenient to everything in the historic district including amazing restaurants. Sabrina gave tons of recommendations for places to go and things to do. She also gave detailed info on things like parking so we knew what our options were up front. We would definitely stay here again if we ever get back to Savannah!
+Show more
+James
+Buffalo, New York
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed about a week
+It was a great location for exploring the many parts of historic district. We decided to not rent a car and it was a good decision for us ... just need to be prepared for lots of walking or regular use of Uber if you do so. Savannah just has a flavor we have not experienced elsewhere.
+Show more
+Matt
+Knoxville, Tennessee
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed one night
+Sabrina was a wonderful host and provided clear instructions and communication. Beautiful quiet and peaceful neighborhood and storybook setting. Very convenient and walkable.
+Show more
+Pamela
+Portsmouth, New Hampshire
+Rating, 4 stars
+,
+·
+April 2026
+,
+·
+Stayed over a week
+Loved the location of the apartment.  It is on one of the most beautiful streets in Savannah  Love to hear the clip clopping horses pulling carriages by the front door several times a day..  The bed was comfortable and the living room was convenient for relaxing  or getting to  work at the desk that overlooks the tree filled patio on the side of the property. The kitchen and bathroom are a little small but work for 2 people. The kitchen has most of the basics to cook a simple meal.  Foodies who might enjoy staying in to cook a gourmet meal might find some things lacking. But the abundance of great  restaurants, bars and shops nearby entice you to forgo cooking and just go out!  A fun place and a fun time. And we had a front row seat!
+Show more
+Show all 312 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Alex Raskin Antiques
+Home store
+Littles on Liberty, The Beaufort Bonnet Company Signature Store
+Clothing store
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+The apartment is located on W Jones Street, commonly referred to as "one of the most beautiful streets in the U.S". Nestled beneath the lush canopy of live oaks and spanish moss, it's quiet and yet within walking distance to all of downtown's attractions, restaurants and bars.
+Just a two minute walk to Forsyth Park and around the corner from the free DOT shuttle that circles the downtown historic District and within the Design District. Savannah's most stylish home shops and chic boutiques are just around the corner.
+You will love staying like a true local in a beautiful Historic home built in 1850 with direct access to two beautiful courtyards for you to enjoy.
+Show more
+Meet your host
+Sabrina
+Superhost
+1,411 reviews
+1411
+Reviews
+4.97 out of 5 average rating
+4.97
+Rating
+13 years of hosting
+13
+Years hosting
+Speaks English, French, and Spanish
+Lives in Savannah, Georgia
+I live in Savannah’s Historic Landmark District and truly enjoy welcoming guests to its endless charm. I love traveling, hosting and great restaurants :)
+Sabrina is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

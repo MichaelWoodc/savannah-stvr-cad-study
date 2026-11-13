@@ -1,0 +1,431 @@
+URL: https://www.airbnb.com/rooms/1305079293855509406
+Title: Light-filled Carriage House on Forsyth Park
+Latitude: 32.0647
+Longitude: -81.0979
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to The Squares of Savannah, a stunning collection of five unique and thoughtfully designed apartments located in a prime location. Surrounded by a beautifully manicured courtyard and garden, in the heart of Savannah’s historic district.
+
+The space
+Welcome to The Squares of Savannah, a stunning collection of five unique and thoughtfully designed apartments located in a prime location. Surrounded by a beautifully manicured courtyard and garden, this property offers a charming retreat in the heart of Savannah’s historic district.
+
+The Madison is a charming carriage apartment in this historic home—a spacious 1-bedroom, 1-bathroom unit that comfortably accommodates up to 2 guests. Just across from the picturesque Forsyth Park, this apartment is furnished with tasteful finishes, blending historic charm with modern comfort.
+
+The bedroom features a plush queen bed, with an ample amount of storage and a window overlooking the charming courtyard. The bathroom offers a walk in shower and ample storage space, ensuring a comfortable and convenient stay for all.
+
+What Makes The Squares of Savannah Special?
+
+- Unbeatable Location: Perfectly situated on Forsyth Park, guests can enjoy Savannah’s largest green space just outside their door. The park is ideal for morning strolls, weekend farmers’ markets, and leisurely afternoons. Additionally, the property is just steps from local coffee shops, renowned restaurants, and the vibrant Starland District.
+
+- Enchanting Outdoor Spaces: The lushly landscaped courtyard provides a serene space for all guests to enjoy. Whether you’re savoring a morning coffee, an evening glass of wine, or simply soaking in the beauty of Savannah, this shared garden area offers a peaceful escape.
+
+The Madison at The Squares of Savannah promises a memorable stay filled with charm, comfort, and the perfect blend of historic elegance and modern luxury.
+
+Sleeping configuration: 
+Bedroom: Queen Bed
+
+What is parking like for this home?
+Parking in this area can be found on-street and non-metered. Parking in front of the home on West Park Avenue, or across Whitaker Street on West Park Avenue is typically the easiest and offers free street parking.
+
+SVR-03088
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Light-filled Carriage House on Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Rated 4.8 out of 5 stars.
+4.8
+·
+10 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's historic district
+Steps from Forsyth Park, with coffee shops, restaurants, and the Starland District within walking distance
+Full kitchen with dishwasher
+A full kitchen with oven, stove, dishwasher, and coffee maker for cooking on your own schedule
+Clean, quiet, and charming
+Guests describe a clean, quiet retreat with a charming courtyard and easy access to the park
+Welcome to The Squares of Savannah, a stunning collection of five unique and thoughtfully designed apartments located in a prime location. Surrounded by a beautifully manicured courtyard and garden, in the heart of Savannah’s historic district.
+
+The space
+Welcome to The Squares of Savannah, a stunning collection of five unique and thoughtfully designed apartments located in a prime location. Surrounded by a beautifully manicured courtyard and garden, this property offers a charming retreat in the heart of Savannah’s historic district.
+
+The Madison is a charming carriage apartment in this historic home—a spacious 1-bedroom, 1-bathroom unit that comfortably accommodates up to 2 guests. Just across from the picturesque Forsyth Park, this apartment is furnished with tasteful finishes, blending historic charm with modern comfort.
+
+The bedroom features a plush queen bed, with an ample amount of storage and a window overlooking the charming courtyard. The bathroom offers a walk in shower and ample storage space, ensuring a comfortable and convenient stay for all.
+
+What Makes The Squares of Savannah Special?
+
+- Unbeatable Location: Perfectly situated on Forsyth Park, guests can enjoy Savannah’s largest green space just outside their door. The park is ideal for morning strolls, weekend farmers’ markets, and leisurely afternoons. Additionally, the property is just steps from local coffee shops, renowned restaurants, and the vibrant Starland District.
+
+- Enchanting Outdoor Spaces: The lushly landscaped courtyard provides a serene space for all guests to enjoy. Whether you’re savoring a morning coffee, an evening glass of wine, or simply soaking in the beauty of Savannah, this shared garden area offers a peaceful escape.
+
+The Madison at The Squares of Savannah promises a memorable stay filled with charm, comfort, and the perfect blend of historic elegance and modern luxury.
+
+Sleeping configuration: 
+Bedroom: Queen Bed
+
+What is parking like for this home?
+Parking in this area can be found on-street and non-metered. Parking in front of the home on West Park Avenue, or across Whitaker Street on West Park Avenue is typically the easiest and offers free street parking.
+
+SVR-03088
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Long term stays allowed
+Show all 28 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.8 out of 5 stars from 10 reviews
+4.8 · 10 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 80% of reviews
+5
+4 stars, 20% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.2 out of 5 stars for check-in
+Check-in
+4.2
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Parks
+3
+Location
+7
+Walkability
+3
+Cleanliness
+3
+TV
+2
+Quiet
+2
+Erik
+Sanford, Florida
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Amazing stay. My fiancé and I highly recommend! Place was clean, centric to the historic district, many places in walking distance, lots to do. Perfect getaway for couples. Would love to stay again!
+Show more
+Lisa
+Lunenburg, Massachusetts
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+You can't beat the location, and the private patio and amenities were great.  We had an issue with the TV and the resolution was courteous and fast.  We've been hosted by Lucky Savannah for a different (larger) property multiple times and highly recommend.
+Show more
+Sara
+Orlando, Florida
+Rating, 4 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+The apartment itself is very beautiful. I found it very difficult to get in due to lack of signage, but I was able to get a hold of someone on the phone who had to walk me through how to get to the front doorstep by step. Once I figure that out, it really easy to get in and out of the Airbnb. The television was not in the bedroom, which wasn’t a problem for me as I was there for work, but had I wanted to relax and watch something that would’ve been unfortunate. This is a no-frills Airbnb, there was no coffee or water container or array of seasonings, which was kind of disappointing when given the price point.
+Show more
+James
+Chestertown, New York
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+This was a wonderful space.  Right on the south end of Forsyth Park and a lovely mile walk to Old  Savannah. We did not need a car. 
+Just steps from a coffee and health food shop, a little farther to a Krogers. 
+The place was so quiet and the perfect size for a couple.
+Show more
+Rachel
+Lakeland, Florida
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+My boyfriend and I stayed at this beautiful property for Valentine's Day week as well as his birthday and it was perfect. Clean, stunning and cozy. The location was calming and romantic, we loved going for morning strolls through the park and picking up coffee. I would recommend anyone to stay here who is looking for a quiet romantic getaway!
+Show more
+Cherie
+Yulee, Florida
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Stayed a few nights
+it was a very nice stay for the holiday.
+Show more
+Show all 10 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

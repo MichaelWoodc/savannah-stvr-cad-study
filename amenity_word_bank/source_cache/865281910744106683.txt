@@ -1,0 +1,446 @@
+URL: https://www.airbnb.com/rooms/865281910744106683
+Title: Villa De Luxe Near Forsyth Park w/Private Hot Tub
+Latitude: 32.0714
+Longitude: -81.0989
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Allan
+Host ID: 376644934
+Host profile ID: 1463561123306813590
+Host URL: https://www.airbnb.com/users/profile/1463561123306813590
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located in the heart of downtown Savannah and just steps away from Forsyth Park, this is the perfect home base for your next vacation. SVR-02739
+
+The space
+The owner spared no expense in creating the most pleasurable experience one could ask for when visiting Savannah.   This home was recently purchased and made available to visitors.  Listed in the Savannah Morning News as the most expensive residential purchase at the time. Inside you'll find that no detail has been overlooked.  This home is dripping in upscale amenities, from the gourmet kitchen with wine fridge, 3 bedrooms 3 and a half baths with 2 private ensuites, to the beautiful private courtyard with hot tub. This home is decorated beautifully and will leave you torn as to whether to explore Savannah or relax here in your own private Oasis. 
+
+This home is equipped with a 75 inch smart tv in a spacious living area along with 55 inch smart tv's in each of the bedrooms.  Two of the bedrooms have private ensuites and the third bedroom has access to a full bathroom for their private use.  Each bed is equipped with high end mattresses and bedding for the utmost sleeping comfort. 
+
+So if you're looking to stay in Savannah,  here's an opportunity to stay in one of the most beautiful homes in one of the best locations Savannah has to offer....  ENJOY!
+
+Important: Parking space: large pick ups or SUV may have a hard time fitting.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Outdoor furniture
+Parking and facilities
+Free parking garage on premises
+Private hot tub
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Cleaning available during stay
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Villa De Luxe Near Forsyth Park w/Private Hot Tub
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 3 bedrooms · 4 beds · 3.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.91 out of 5 stars.
+4.91
+180 reviews
+180
+Reviews
+Hosted by Allan
+Superhost · 6 years hosting
+Listing highlights
+In Savannah's Historic District South
+Steps from Chatham Square, with Forsyth Park about a 5-min walk away
+Private courtyard with hot tub
+A private courtyard with hot tub and outdoor seating for unwinding after a day of exploring
+Allan is a responsive host
+Many guests highlight how responsive and communicative Allan is throughout their stay
+Located in the heart of downtown Savannah and just steps away from Forsyth Park, this is the perfect home base for your next vacation. SVR-02739
+
+The space
+The owner spared no expense in creating the most pleasurable experience one could ask for when visiting Savannah.   This home was recently purchased and made available to visitors.  Listed in the Savannah Morning News as the most expensive residential purchase at the time. Inside you'll find that no detail has been overlooked.  This home is dripping in upscale amenities, from the gourmet kitchen with wine fridge, 3 bedrooms 3 and a half baths with 2 private ensuites, to the beautiful private courtyard with hot tub. This home is decorated beautifully and will leave you torn as to whether to explore Savannah or relax here in your own private Oasis. 
+
+This home is equipped with a 75 inch smart tv in a spacious living area along with 55 inch smart tv's in each of the bedrooms.  Two of the bedrooms have private ensuites and the third bedroom has access to a full bathroom for their private use.  Each bed is equipped with high end mattresses and bedding for the utmost sleeping comfort. 
+
+So if you're looking to stay in Savannah,  here's an opportunity to stay in one of the most beautiful homes in one of the best locations Savannah has to offer....  ENJOY!
+
+Important: Parking space: large pick ups or SUV may have a hard time fitting.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking garage on premises
+Private hot tub
+TV
+Washer
+Dryer
+Air conditioning
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 38 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.91 out of 5 from 180 reviews.
+4.91
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+55
+Location
+89
+Cleanliness
+66
+Parking
+35
+Parks
+9
+Indoor spaces
+37
+Hospitality
+58
+Comfort
+50
+Family
+28
+Quiet
+21
+Imani
+Neptune Beach, Florida
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Enjoyed my stay in Savannah!  The townhouse was close to the park. The home was well appointed with necessities in the kitchen. There’s space to park in a garage but we parked out front with no issue. The only time the neighborhood was busy was in Sunday for church, as there is one across the street.  I’d stay here again. Hosts were responsive to all of my questions.
+Show more
+Cheryl
+Massachusetts, United States
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great location in Savannah! We stayed here to move our girls into SCAD. It’s a perfect location to relax and explore.
+Shannon
+11 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We had a great time.  The place was spacious and provided enough seating for our girls trip.  Rooms were great size and 3 baths were amazing with six women and a baby :).  Walkable to everything but also far enough away so nights were quiet and peaceful!  Will definitely stay here again when back in Savannah
+Show more
+Kenia
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Allan and his wife are great. They are very responsive and helpful from beginning to end. Their house is the best one that I was able to
+find in the historic district. It is new and modern inside, very clean and beautiul decoration. Everthing was inmmaculate. Would be helpful to have a pair of scissors in the kitchen. I personally like modern things even if the surroundings are historic, and this house has everything modern and well equipped. It is very walkable to everything. The garage is tight, but big compared to the rest of the houses in that area. It was nice to have a garage where to leave the car, instead of parking in the street. Our toyota sienna fit with the mirrors inside, so that was good.
+It was a nice stay. I would recommend it 100% if you want to stay in the historic district
+Show more
+Seth
+Littleton, Colorado
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+This place was exactly what we needed for a bachelor weekend. Very comfortable, clean, and lots to do in the area.
+Mara
+Chappaqua, New York
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Beautiful home in the historic district. You can walk to almost anything. The house was very clean and well-decorated. Rebecca and Allan were incredibly responsive hosts--usually within a few minutes. I highly recommend for a wonderful stay in Savannah.
+Show more
+Show all 180 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Forsyth Park
+Park
+Cathedral of Saint John the Baptist
+Church
+The Grey
+American restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Did you know the entire Savannah Historic District is only 2.1 square miles? That’s a big reason why staying in the Historic district is so convenient, allowing walkable access to anywhere. The Historic District is broken down into zones. This home is in the zone called Savannah Historic District South. While each zone has an abundance of places to explore, the South District is well known for its beautiful historic homes, churches, the historic park squares, the old oak trees dripping in Spanish moss, the Cathedral Basilica of St. John the Baptist, Colonial Park Cemetery, The Mercer Williams House (made famous by the book, Midnight in the Garden of Good and Evil), Jones Street and the entrance the beautiful Forsyth Park.
+Show more
+Meet your host
+Allan
+Superhost
+3,175 reviews
+3175
+Reviews
+4.86 out of 5 average rating
+4.86
+Rating
+6 years of hosting
+6
+Years hosting
+Speaks English and Spanish
+Lives in Savannah, Georgia
+My wife and I moved to Savannah over 14 years ago and fell in love with everything about the area. We have 2 kids that fill our lives with joy and excitement. I have an engineering and aerospace background and my wife has a background in Culinary Arts and makes custom decorated cakes and other treats.
+Allan is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Rebeca
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 9:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

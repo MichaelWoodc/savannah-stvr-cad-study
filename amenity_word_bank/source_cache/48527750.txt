@@ -1,0 +1,469 @@
+URL: https://www.airbnb.com/rooms/48527750
+Title: Comfy Condo Steps from Forsyth Park | Parking
+Latitude: 32.0687
+Longitude: -81.0988
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah
+Host ID: 352974878
+Host profile ID: 1469705445503924467
+Host URL: https://www.airbnb.com/users/profile/1469705445503924467
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+This two bedroom condo is nestled on a quiet street just two blocks from Forsyth Park!  Private off-street parking, beautiful neighborhood, king sized beds, laundry, and so much more - the perfect home base for your Savannah explorations!
+
+SVR-2134
+
+The space
+This beautifully furnished and fully equipped carriage house has everything you need for a quick trip or extended stay in Savannah.  The two king bedrooms, full bath, and cozy kitchen and living area will make you feel right at home.  Whether you want to hit the town or relax on the leather couch and enjoy the full cable line up and streaming apps, it's the perfect spot to start and end your Savannah days!
+
+Guest access
+The entire second floor carriage house with kitchen, bedrooms, bath, laundry, and living room is all yours!
+
+Other things to note
+Don't be afraid to reach out with any questions or issues!  We always try to help our guests with anything that comes up, big or small.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: walk-in closet, closet, and dresser
+Entertainment
+HDTV with premium cable, standard cable
+Books and reading material
+Family
+Pack ’n play/Travel crib - available upon request
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 119 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free driveway parking on premises – 1 space
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Comfy Condo Steps from Forsyth Park | Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+479 reviews
+479
+Reviews
+Hosted by Sarah
+Superhost · 6 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Victorian District
+About a 5-min walk to Forsyth Park, with Monterey Square and the Historic District nearby
+Free off-street parking
+A dedicated driveway spot included with your stay, a real convenience in Savannah
+Comfy beds guests keep coming back for
+Guests highlight the comfortable king beds, and many return for repeat stays
+This two bedroom condo is nestled on a quiet street just two blocks from Forsyth Park!  Private off-street parking, beautiful neighborhood, king sized beds, laundry, and so much more - the perfect home base for your Savannah explorations!
+
+SVR-2134
+
+The space
+This beautifully furnished and fully equipped carriage house has everything you need for a quick trip or extended stay in Savannah.  The two king bedrooms, full bath, and cozy kitchen and living area will make you feel right at home.  Whether you want to hit the town or relax on the leather couch and enjoy the full cable line up and streaming apps, it's the perfect spot to start and end your Savannah days!
+
+Guest access
+The entire second floor carriage house with kitchen, bedrooms, bath, laundry, and living room is all yours!
+
+Other things to note
+Don't be afraid to reach out with any questions or issues!  We always try to help our guests with anything that comes up, big or small.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Kitchen
+Fast wifi – 119 Mbps
+Dedicated workspace
+Free driveway parking on premises – 1 space
+HDTV with premium cable, standard cable
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Pack ’n play/Travel crib - available upon request
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 479 reviews.
+4.93
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 94% of reviews
+5
+4 stars, 6% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+170
+Parks
+74
+Location
+275
+Comfort
+176
+Sleep quality
+110
+Hospitality
+170
+Cleanliness
+160
+Parking
+78
+Quiet
+77
+Accuracy
+53
+Taylor
+Wilmington, North Carolina
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with kids
+We had the absolute best stay! It was very nicely decorated and super walkable. Sarah was super responsive and helpful with recommendations. The beds were super comfortable! Highly recommend their Airbnb!
+Show more
+Gail
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We throughly enjoyed our stay.  The beds were very comfortable. The complimentary coffee, wine and snacks were a nice addition. It felt like home. 👌 
+The quite and quaint location was excellent since we were moving our grandson to his college dorm. 
+Sarah was readily available if we needed something. We would definitely stay here again.
+Thanks again Sarah!!!!
+Show more
+Marlene
+Los Angeles, California
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Great little apartment, ideally located. We walked to all the squares and even the waterfront, not to mention Forsyth Park which is just 2 minutes away on foot. The beds were comfortable, and the Keurig coffee machine with the creamers was lovely. Having a parking spot right was a huge plus. Highly recommend!
+Show more
+Sarah
+Chicago, Illinois
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Stayed with kids
+The place was perfect, and Sarah was a fantastic host. Would stay again the next time we’re in Savannah.
+Jennifer
+Louisville, Kentucky
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed about a week
+This place was as described and more.  There were so many great extra amenities.  Very homey, in a beautiful location.
+Nicole
+Chattanooga, Tennessee
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This was the perfect spot to explore and rest. Thank you for accommodating us!
+Show all 479 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+This is probably our favorite neighborhood in the city! The house is off a quiet street split by a treeway full of Spanish-moss covered oaks. Stroll just two blocks and enter the middle of gorgeous Forsyth Park, the city's crown jewel! Take in the beautiful architecture and shaded streets surrounding this condo that straddles Savannah's Victorian and Historic Districts. Collin's in Forsyth, Crystal Beer Parlor, Black Rabbit, 700 Drayton, Local 11Ten and other incredible bars and restaurants are right outside your door.
+
+If you choose to stay with us and need lots of recommendations...don't worry! We are happy to provide personalized recommendations based on your interests and preferences...just ask us! We are passionate about our little Southern city and are happy to provide lots of awesome spots to check out! We also provide our guests a full welcome packet, full of our personal favorites, from quiet local spots to must-sees attractions! And we live right around the corner, so we are ALWAYS here if you need us!
+Show more
+Meet your host
+Sarah
+Superhost
+1,185 reviews
+1185
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+6 years of hosting
+6
+Years hosting
+My work: Helicopter Pilot & Forensic Psychologist
+Speaks English
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy exploring our little Southern city, sampling all that Savannah's amazing restaurant scene has to offer, and sipping cocktails on rooftop bars. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are the proud parents of two quirky by lovable geriatric pups. And we live just a block away from this stunning home...so we are always close by if you need anything at all!
+Sarah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for infants (under 2 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Condo vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

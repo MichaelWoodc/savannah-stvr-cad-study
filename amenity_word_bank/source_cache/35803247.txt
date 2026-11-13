@@ -1,0 +1,548 @@
+URL: https://www.airbnb.com/rooms/35803247
+Title: "The Clara" | History Meets Comfort w/ Parking!
+Latitude: 32.0623
+Longitude: -81.0952
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Carmen
+Host ID: 85862410
+Host profile ID: 1467034226433507183
+Host URL: https://www.airbnb.com/users/profile/1467034226433507183
+Bedrooms: 4
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 5
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+2 double beds
+
+Bedroom 3
+1 double bed
+
+Bedroom 4
+1 king bed
+
+Living room
+1 couch
+
+=== FULL DESCRIPTION ===
+Welcome to “The Clara”, our Victorian townhome in beautiful Downtown Savannah's Victorian District. Located within a few short blocks of iconic Forsyth Park, this 4-bedroom/2-bath, vacation home offers all the comfortable and cozy luxuries you’re looking for in a historic setting AND provides 2 free, private/designated off-street parking spaces with ample on street (non-metered) parking also available.
+
+SVR-00090 | Proud City of Savannah Short-Term Vacation Rental Certificate license holder.
+
+The space
+Entering “The Clara” vacation home you’ll find a large living area with comfortable seating including a sofa, loveseat, flat screen LCD TV, DVD player, drop-leaf table with two chairs, and a secretary desk. (A comfy twin roll-away bed with foam mattress is stored with extra linens in the closet under the stairs.)
+
+The formal dining room with semi-open floorplan to the living room offers a 6-seat dining room table with a buffet server. An additional 6-seat dining table is located adjacent in the breakfast room to accommodate a total of 12 dining guests.
+
+The kitchen is modern and well equipped with all cooking and kitchenware to prepare a fine meal. Fridge with icemaker and filtered water dispenser. Dishwasher and disposal. Electric smooth top range and oven. Microwave, blender, toaster, and coffee maker. 
+
+Step out the french doors from the kitchen onto the classic back porch with charming wicker furniture overlooking our private courtyard…a perfect place to sip morning coffee and bird watch for red cardinals, our resident mourning doves, or the occasional squirrel.
+ 
+A full bath is located downstairs off the kitchen with a vintage claw foot tub with shower combo. The second, near identical full bath, is located upstairs adjacent to the large laundry/dressing room conveniently autonomous of the bedrooms (so as not to disturb any sleeping beauties when the bath is in use late night or early morning).
+
+The grand staircase takes you to the 2nd floor where the  aforementioned full bath and dressing/laundry room is located in addition to 3 large bedrooms, and a tiny 4th bedroom known as the ‘trunk room’. 
+
+The ‘master’ bedroom is bright and sunny with the beautiful bay window, two full/double beds that sleep four, a large dresser, matching antique ‘washstand’ with seating area, closet, and a LCD TV. 
+
+The second bedroom boasts the comfy King bed, dresser, closet, a recliner, and LCD TV.
+
+The third sunny bedroom is furnished with the queen bed, large wicker dresser, and TV with DVD player.
+
+The fourth bedroom or Trunk room, a customary Savannah term used in our historic homes, comfortably accommodates a full size bed and dresser.
+
+Park up to two of your vehicles in the free designated off-street parking spaces provide in rear of the home. Enjoy the leisurely 5 minute walk to Savannah’s iconic Forsyth Park or spend the day strolling the 1.2 miles from the rental under Spanish moss draped trees to River Street exploring all our beautiful Savannah Squares, quaint shops, and eateries along the way!
+
+Guest access
+Guest have use of the entire home including courtyard and designated parking on the premises for two vehicles. Guest are not to access attic space, crawl space, or areas behind the fenceline between the neighboring homes.
+
+Other things to note
+We welcome children and families, although our home has not been childproofed. Please inquire with any questions or concerns.
+
+Must be able to safely climb stairs, carry luggage to bedrooms upstairs as needed,  and step into clawfoot tubs.
+
+Detailed, written check-in/access instructions will be emailed within one-week of the stay. Guest must confirm total guest count and a list of guest names staying on the premises, confirm cell number of the person booking the home and a secondary contact number of an alternate guest prior to check-in. A signed Rental Agreement may be required with written acknowledgment of House Rules.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet, wardrobe, and dresser
+Entertainment
+Ethernet connection
+TV
+Family
+Crib
+Pack ’n play/Travel crib - available upon request
+Sheets provided
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Portable fans
+Central heating
+Home safety
+Exterior security cameras on property
+We reserve the right to install, monitor, and/or record surveillance from the exterior entrances, courtyard, side yards, & parking areas of the home.
+Smoke alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Whirlpool refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Whirlpool single oven
+Hot water kettle
+Coffee maker: drip coffee maker, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Private patio or balcony
+Private backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Private BBQ grill: gas
+Parking and facilities
+Free parking on premises – 2 spaces
+Free street parking
+Services
+Self check-in
+Lockbox
+Housekeeping - available at extra cost
+Not included
+Unavailable: Essentials
+Essentials
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Host has indicated no carbon monoxide detector is necessary. Reach out to the host with any questions.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+"The Clara" | History Meets Comfort w/ Parking!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+10 guests · 4 bedrooms · 5 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+62 reviews
+62
+Reviews
+Hosted by Carmen
+Superhost · 10 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with Savannah's squares and River Street all within a stroll
+Private courtyard with porch and grill
+A private fenced courtyard with wicker seating, a gas grill, and a back porch off the kitchen
+Carmen is an exceptional host
+Guests consistently praise Carmen's responsiveness, warmth, and thoughtful welcome touches
+Welcome to “The Clara”, our Victorian townhome in beautiful Downtown Savannah's Victorian District. Located within a few short blocks of iconic Forsyth Park, this 4-bedroom/2-bath, vacation home offers all the comfortable and cozy luxuries you’re looking for in a historic setting AND provides 2 free, private/designated off-street parking spaces with ample on street (non-metered) parking also available.
+
+SVR-00090 | Proud City of Savannah Short-Term Vacation Rental Certificate license holder.
+
+The space
+Entering “The Clara” vacation home you’ll find a large living area with comfortable seating including a sofa, loveseat, flat screen LCD TV, DVD player, drop-leaf table with two chairs, and a secretary desk. (A comfy twin roll-away bed with foam mattress is stored with extra linens in the closet under the stairs.)
+
+The formal dining room with semi-open floorplan to the living room offers a 6-seat dining room table with a buffet server. An additional 6-seat dining table is located adjacent in the breakfast room to accommodate a total of 12 dining guests.
+
+The kitchen is modern and well equipped with all cooking and kitchenware to prepare a fine meal. Fridge with icemaker and filtered water dispenser. Dishwasher and disposal. Electric smooth top range and oven. Microwave, blender, toaster, and coffee maker. 
+
+Step out the french doors from the kitchen onto the classic back porch with charming wicker furniture overlooking our private courtyard…a perfect place to sip morning coffee and bird watch for red cardinals, our resident mourning doves, or the occasional squirrel.
+ 
+A full bath is located downstairs off the kitchen with a vintage claw foot tub with shower combo. The second, near identical full bath, is located upstairs adjacent to the large laundry/dressing room conveniently autonomous of the bedrooms (so as not to disturb any sleeping beauties when the bath is in use late night or early morning).
+
+The grand staircase takes you to the 2nd floor where the  aforementioned full bath and dressing/laundry room is located in addition to 3 large bedrooms, and a tiny 4th bedroom known as the ‘trunk room’. 
+
+The ‘master’ bedroom is bright and sunny with the beautiful bay window, two full/double beds that sleep four, a large dresser, matching antique ‘washstand’ with seating area, closet, and a LCD TV. 
+
+The second bedroom boasts the comfy King bed, dresser, closet, a recliner, and LCD TV.
+
+The third sunny bedroom is furnished with the queen bed, large wicker dresser, and TV with DVD player.
+
+The fourth bedroom or Trunk room, a customary Savannah term used in our historic homes, comfortably accommodates a full size bed and dresser.
+
+Park up to two of your vehicles in the free designated off-street parking spaces provide in rear of the home. Enjoy the leisurely 5 minute walk to Savannah’s iconic Forsyth Park or spend the day strolling the 1.2 miles from the rental under Spanish moss draped trees to River Street exploring all our beautiful Savannah Squares, quaint shops, and eateries along the way!
+
+Guest access
+Guest have use of the entire home including courtyard and designated parking on the premises for two vehicles. Guest are not to access attic space, crawl space, or areas behind the fenceline between the neighboring homes.
+
+Other things to note
+We welcome children and families, although our home has not been childproofed. Please inquire with any questions or concerns.
+
+Must be able to safely climb stairs, carry luggage to bedrooms upstairs as needed,  and step into clawfoot tubs.
+
+Detailed, written check-in/access instructions will be emailed within one-week of the stay. Guest must confirm total guest count and a list of guest names staying on the premises, confirm cell number of the person booking the home and a secondary contact number of an alternate guest prior to check-in. A signed Rental Agreement may be required with written acknowledgment of House Rules.
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 5 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+2 double beds
+
+Bedroom 3
+1 double bed
+
+Bedroom 4
+1 king bed
+
+Living room
+1 couch
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises – 2 spaces
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Exterior security cameras on property
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 58 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 62 reviews.
+5.0
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+22
+Parks
+6
+Location
+32
+Hospitality
+37
+Indoor spaces
+17
+Sleep quality
+11
+Comfort
+14
+Family
+7
+Check-in
+9
+Nearby
+9
+Alma
+Blythewood, South Carolina
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Group trip
+Carmen was super friendly and responsive. We had one minor issue with one of the showers and it was fixed immediately. The beds were very comfortable and the home is close to downtown. It was a charming home. Thanks for the hospitality!
+Show more
+Jennette
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Group trip
+Went up there for a girls weekend one of my friends turned 40 and it was absolutely amazing. We enjoyed every second the house is beautiful so clean it was right downtown and Carmen was a great communicator. Absolutely recommend this place!
+Show more
+Amy
+Chapel Hill, North Carolina
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Stayed with kids
+We had a wonderful weekend at the Clara! We were 5 adults and 4 little ones, and felt like we had plenty of space. The weather was amazing so we even took advantage of the serene and shady back garden. Carmen is an outstanding host! Extremely clear instructions, easy check in and out process, responsive and incredibly friendly. We felt we were in good hands! The location is excellent, just a few minutes walk to Forsyth Park (farmers market and playground) and some cute restaurants in the neighborhood. The house itself is charming and well-appointed, and felt authentic. We loved it and would stay again!
+Show more
+Anthony
+Tampa, Florida
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Group trip
+🌟 Truly Exceptional Experience! 🌟
+The property was wonderful, and Carmen is an absolutely fantastic and gracious host.
+She went above and beyond when our family of eight arrived early with perishable items for our Thanksgiving meal, generously allowing us to drop them off before check-in. This flexibility and thoughtfulness was truly appreciated and made our holiday seamless.
+We highly recommend staying here. The next time we are in Savannah, checking Carmen's availability will be our top priority!
+Show more
+Catalina
+13 years on Airbnb
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Group trip
+Beautiful home and perfect for our large group! Carmen was very helpful with check in and made sure we felt welcome. We had a great time exploring the area including some breakfast spots within walking distance and even walked downtown. Thank you!
+Show more
+Melanie
+Southern Pines, North Carolina
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Stayed with kids
+Carmen's "The Clara" was the perfect stay after a long day of driving.  We all want to go back very soon!! The home is amazing 👏
+Show all 62 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+The Victorian District borders the Landmark Historic District. Enjoy the leisurely 5 minute walk to Savannah’s iconic Forsyth Park or spend the day strolling the 1.2 miles from our home under Spanish moss draped trees to River Street, the most northern border of historic downtown, exploring all our beautiful Savannah Squares, quaint shops, and eateries along the way!
+
+Kroger is only 5 blocks away with Brighter Day, a local health and organic market within 3 blocks as is the weekly Saturday morning Forsyth Park Farmer's Market. Locally owned coffee shops, bbq and slider joints, a Cuban diner and more all within a few block stroll of our home as well.
+Show more
+Meet your host
+Carmen
+Superhost
+390 reviews
+390
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+10 years of hosting
+10
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Carmen is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 3:00 PM - 10:00 PM
+Checkout before 10:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide detector not required
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

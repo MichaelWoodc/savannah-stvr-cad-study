@@ -1,0 +1,437 @@
+URL: https://www.airbnb.com/rooms/54273451
+Title: Restored Carriage on Pulaski Sq by Lucky Savannah
+Latitude: 32.0736
+Longitude: -81.0966
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Enjoy your own private slice of Savannah’s National Historic Landmark District in this immaculately restored 1854 home nestled on the quiet Pulaski Square.
+
+The space
+Enjoy your own private slice of Savannah’s National Historic Landmark District in this immaculately restored 1854 home nestled on the quiet Pulaski Square. Enjoy all the excitement downtown Savannah has to offer within walking distance of the tranquil, light-drenched retreat offered by this rare corner-lot home adorned with full-height windows and awash in natural light.
+
+Upon entering Bell Carriage on Pulaski Square, you'll find a lovingly restored interior that blends historic charm with modern luxury appointments. The space features an inviting living room, where there is a lovely kitchen island with seating for two and a fully equipped kitchen with stainless steel appliances and granite countertops.
+
+Right up the staircase you'll find a large bedroom, that is fitted with a plush king bed, custom built-in shelves, and a spacious closet for all of your belongings. Adjacent to the bedroom, you'll find a full-size bathroom with a walk-in shower. 
+
+Start your day of exploration at Savannah Coffee Roasters just across the square, with a morning cup of coffee. You’ll be a short walk from the Cathedral of St. John the Baptist, Forsyth Park, and so many other well known monuments in Savannah. 
+
+Sleeping Configuration:
+Bedroom: King Size Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-02494
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Restored Carriage on Pulaski Sq by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 2 baths
+Rated 4.64 out of 5 stars.
+4.64
+·
+28 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Right on Pulaski Square in the Historic District, with Madison Square and Monterey Square a short walk away
+Restored carriage house from 1854
+An 1854 carriage house with full-height windows, a private courtyard, and a kitchen with granite countertops
+Clean, comfortable, and walkable
+Guests describe it as clean, comfortable, and walkable to everything Savannah has to offer
+Enjoy your own private slice of Savannah’s National Historic Landmark District in this immaculately restored 1854 home nestled on the quiet Pulaski Square.
+
+The space
+Enjoy your own private slice of Savannah’s National Historic Landmark District in this immaculately restored 1854 home nestled on the quiet Pulaski Square. Enjoy all the excitement downtown Savannah has to offer within walking distance of the tranquil, light-drenched retreat offered by this rare corner-lot home adorned with full-height windows and awash in natural light.
+
+Upon entering Bell Carriage on Pulaski Square, you'll find a lovingly restored interior that blends historic charm with modern luxury appointments. The space features an inviting living room, where there is a lovely kitchen island with seating for two and a fully equipped kitchen with stainless steel appliances and granite countertops.
+
+Right up the staircase you'll find a large bedroom, that is fitted with a plush king bed, custom built-in shelves, and a spacious closet for all of your belongings. Adjacent to the bedroom, you'll find a full-size bathroom with a walk-in shower. 
+
+Start your day of exploration at Savannah Coffee Roasters just across the square, with a morning cup of coffee. You’ll be a short walk from the Cathedral of St. John the Baptist, Forsyth Park, and so many other well known monuments in Savannah. 
+
+Sleeping Configuration:
+Bedroom: King Size Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-02494
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.64 out of 5 stars from 28 reviews
+4.64 · 28 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 75% of reviews
+5
+4 stars, 21% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 4% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.7 out of 5 stars for check-in
+Check-in
+4.7
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+14
+Location
+23
+Comfort
+9
+Cleanliness
+6
+Parking
+4
+Access
+4
+Indoor spaces
+4
+Outdoor spaces
+3
+Quiet
+4
+Hospitality
+6
+Aaron
+Opelika, Alabama
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Stayed a few nights
+The carriage house is an absolute gem! Nestled right down in the historic district and walkable to all things Savannah! Clean and comfortable with nice finishes.
+Show more
+Theresa
+Jupiter, Florida
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Stayed a few nights
+Great location, super cool place!
+Clean and very cute inside!
+Show more
+Mary
+Kaukauna, Wisconsin
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+We enjoyed our stay at Lucky Savannah.  The place was wonderful. The king bed, linens and pillows were very comfortable.  There was even a pull out sofa bed that was pretty good if you have a snorer. AC worked great when needed.  Kitchen well appointed but not over done. Just enough.  The location is near the famous Jones Street and walkable to everything.  It is only a very short block to the DOT (which is a free city transit system) that does a loop all day long, incase you prefer not to walk everywhere.  We explored the 22 squares with ease.  Many places to eat, drink, explore within a few blocks.  The Crystal Beer Factory is only 1 block over from the carriage house. The area around the house felt very safe, even after dark.  The house also has a small private courtyard outside your entry door.  The place is only steps from Pulaski Square, which is a beautiful quiet park.  The neighborhood folks were friendly.  Airport is 30 min away easy drive/lyft ride. Would stay again!
+Show more
+Malin
+5 years on Airbnb
+Rating, 4 stars
+,
+·
+June 2025
+,
+·
+Stayed a few nights
+Lucky Savannah were very helpful and responsive. Our first apartment had a leak in the ceiling and the toilet was clogged. We were offered to move to a new apartment on day 2 which turned out to be a very nice apartment, spacious and well equipped. So all in all, we enjoyed our stay in Savannah and are happy with the communication with Lucky Savannah.
+Show more
+Moore
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Stayed a few nights
+We accidentally locked ourselves out around midnight we called and they had us within 20 minutes back into the home wonderful place to stay
+Show more
+Libby
+Dallas, Texas
+Rating, 4 stars
+,
+·
+March 2025
+,
+·
+Stayed a few nights
+Beautiful location in the historic district, this charming carriage was fun for our long weekend stay in Savannah.
+Show more
+Show all 28 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

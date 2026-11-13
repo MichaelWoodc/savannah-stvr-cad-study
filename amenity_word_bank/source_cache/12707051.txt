@@ -1,0 +1,677 @@
+URL: https://www.airbnb.com/rooms/12707051
+Title: Heated Pool Access | 5*Clean | Flex Cancelation
+Latitude: 32.0738
+Longitude: -81.0877
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+You don't have to mortgage your house to feel like a member of the jet set when you go on vacation. At Jet Setter, one of the finest Savannah GA vacation rentals on the market, it doesn't cost an arm and a leg to breathe rarefied air. This incomparable property has everything an intimate group of friends, romantic couple or small family could want in a vacation property - at a far lower cost than similar properties offered by other Savannah vacation rental companies.
+
+The space
+Jet Setter: Showing Up Other Savannah GA Vacation Rentals
+
+Although Jet Setter sits on a quiet street, it's just a short walk from bustling Liberty Street and Oglethorpe Avenue. It's also within easy walking distance of Colonial Park Cemetery, the burial site of many of Savannah's original inhabitants. To the west lies Chippewa Square, a charming park that was made famous as a key filming site for Forrest Gump.
+
+
+
+Of course, the main attraction of this most unique of Savannah GA vacation rentals is Jet Setter itself. Before you even step inside this one-of-a-kind property, you'll understand why so many visitors have fallen in love with it. Thanks to a private courtyard that's shielded from the street by leafy palmettos, this quintessentially "Savannah" pad offers the perfect environment for lounging outdoors on warm, sunny days or taking your coffee and tea in the open air on brisk spring mornings. With seating space for six and standing room for plenty more, Jet Setter's courtyard is also great for intimate evening gatherings of friends and family members.
+
+
+
+A Look Inside Jet Setter
+
+Once you enter Jet Setter, you'll immediately see why this space is the envy of other Savannah vacation rental companies. This spacious yet intimate property comfortably sleeps four in two handsome bedrooms and boasts 1.5 bathrooms that are sure to accommodate your pampering needs.
+
+
+
+The house's public areas are quite impressive as well. The living room features a comfortable couch with whimsical pillows, a plush rug and a stunning glass coffee table. A decorative fireplace provides a homey touch, and the tasteful wall pictures offer a bit of color when the sun isn't shining. Meanwhile, a massive flatscreen TV that sits atop a fine-grained wooden entertainment enter will keep the guys entertained on game day.
+
+
+
+The kitchen of this Savannah GA Historic District rental features all the appliances you'll need to cook unforgettable meals in the comfort of your temporary home. There's plenty of counter space for you to spread out and prep. Once you've served the meal, these surfaces can double as a convenient base for cocktail hour.
+
+
+
+After you've finished with the day's activities, adjourn to the two queen bedrooms with gleaming fixtures and intimate touches that will make you feel right at home. In the main bathroom, a huge standup shower is the envy of other Savannah vacation rental companies, and modern fixtures are sure to brighten your morning routine.
+
+
+
+What to Do in the Savannah GA Historic District?
+
+
+
+When you stay this close to Savannah downtown, it's a shame to spend all your time inside - even when your accommodations are as classy as this. This is just a small sampling of what you can expect from the nearby Savannah GA Historic District:
+
+
+
+    The Pirates' House, a restaurant that's wildly popular with residents of Savannah downtown
+
+
+
+    The shops and stores of Broughton Street
+
+
+
+    Chippewa Square and Colonial Park Cemetery
+
+
+
+    The famous Waving Girl statue, a favorite of kids and adults alike
+
+
+
+    Paula Deen's the Lady and Sons Restaurant, a popular choice for residents of Savannah GA vacation rentals
+
+
+
+    Savannah City Market, a haven for home cooks
+
+
+
+Whether you're spending a leisurely week amid the sights and sounds of the Savannah GA Historic District or need a home away from home while you conduct business in bustling Savannah downtown, Jet Setter has everything necessary to ensure that your trip is a smashing success. After you've taken a look at our interior photographs and read the glowing reviews left by previous guests, take the plunge and book your stay today! We're confident that you'll be counting down the days until you can return to this one-of-a-kind oasis.
+
+Guest access
+2 Bedrooms
+
+1.5 Baths
+
+2 Queen Beds
+
+Newly Renovated
+
+Newly Painted
+
+Washer/dryer
+
+Wifi
+
+Private patio
+
+1 Off-Street Parking Space (available on a first-come-first-serve basis only)
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+SVR-00322
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Pool
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Heated Pool Access | 5*Clean | Flex Cancelation
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1.5 baths
+Rated 4.76 out of 5 stars.
+4.76
+·
+75 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Jones East, near Troup Square
+Troup Square is steps away, with the Cathedral of St. John the Baptist about a 5-min walk
+Private courtyard behind the townhouse
+A palmetto-shaded courtyard with seating, tucked behind the townhouse for morning coffee or evening drinks
+Charming decor guests love
+Guests highlight the fun mid-century modern decor, with many calling it one of the most charming stays
+You don't have to mortgage your house to feel like a member of the jet set when you go on vacation. At Jet Setter, one of the finest Savannah GA vacation rentals on the market, it doesn't cost an arm and a leg to breathe rarefied air. This incomparable property has everything an intimate group of friends, romantic couple or small family could want in a vacation property - at a far lower cost than similar properties offered by other Savannah vacation rental companies.
+
+The space
+Jet Setter: Showing Up Other Savannah GA Vacation Rentals
+
+Although Jet Setter sits on a quiet street, it's just a short walk from bustling Liberty Street and Oglethorpe Avenue. It's also within easy walking distance of Colonial Park Cemetery, the burial site of many of Savannah's original inhabitants. To the west lies Chippewa Square, a charming park that was made famous as a key filming site for Forrest Gump.
+
+
+
+Of course, the main attraction of this most unique of Savannah GA vacation rentals is Jet Setter itself. Before you even step inside this one-of-a-kind property, you'll understand why so many visitors have fallen in love with it. Thanks to a private courtyard that's shielded from the street by leafy palmettos, this quintessentially "Savannah" pad offers the perfect environment for lounging outdoors on warm, sunny days or taking your coffee and tea in the open air on brisk spring mornings. With seating space for six and standing room for plenty more, Jet Setter's courtyard is also great for intimate evening gatherings of friends and family members.
+
+
+
+A Look Inside Jet Setter
+
+Once you enter Jet Setter, you'll immediately see why this space is the envy of other Savannah vacation rental companies. This spacious yet intimate property comfortably sleeps four in two handsome bedrooms and boasts 1.5 bathrooms that are sure to accommodate your pampering needs.
+
+
+
+The house's public areas are quite impressive as well. The living room features a comfortable couch with whimsical pillows, a plush rug and a stunning glass coffee table. A decorative fireplace provides a homey touch, and the tasteful wall pictures offer a bit of color when the sun isn't shining. Meanwhile, a massive flatscreen TV that sits atop a fine-grained wooden entertainment enter will keep the guys entertained on game day.
+
+
+
+The kitchen of this Savannah GA Historic District rental features all the appliances you'll need to cook unforgettable meals in the comfort of your temporary home. There's plenty of counter space for you to spread out and prep. Once you've served the meal, these surfaces can double as a convenient base for cocktail hour.
+
+
+
+After you've finished with the day's activities, adjourn to the two queen bedrooms with gleaming fixtures and intimate touches that will make you feel right at home. In the main bathroom, a huge standup shower is the envy of other Savannah vacation rental companies, and modern fixtures are sure to brighten your morning routine.
+
+
+
+What to Do in the Savannah GA Historic District?
+
+
+
+When you stay this close to Savannah downtown, it's a shame to spend all your time inside - even when your accommodations are as classy as this. This is just a small sampling of what you can expect from the nearby Savannah GA Historic District:
+
+
+
+    The Pirates' House, a restaurant that's wildly popular with residents of Savannah downtown
+
+
+
+    The shops and stores of Broughton Street
+
+
+
+    Chippewa Square and Colonial Park Cemetery
+
+
+
+    The famous Waving Girl statue, a favorite of kids and adults alike
+
+
+
+    Paula Deen's the Lady and Sons Restaurant, a popular choice for residents of Savannah GA vacation rentals
+
+
+
+    Savannah City Market, a haven for home cooks
+
+
+
+Whether you're spending a leisurely week amid the sights and sounds of the Savannah GA Historic District or need a home away from home while you conduct business in bustling Savannah downtown, Jet Setter has everything necessary to ensure that your trip is a smashing success. After you've taken a look at our interior photographs and read the glowing reviews left by previous guests, take the plunge and book your stay today! We're confident that you'll be counting down the days until you can return to this one-of-a-kind oasis.
+
+Guest access
+2 Bedrooms
+
+1.5 Baths
+
+2 Queen Beds
+
+Newly Renovated
+
+Newly Painted
+
+Washer/dryer
+
+Wifi
+
+Private patio
+
+1 Off-Street Parking Space (available on a first-come-first-serve basis only)
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+SVR-00322
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Show all 47 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.76 out of 5 stars from 75 reviews
+4.76 · 75 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 83% of reviews
+5
+4 stars, 13% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+32
+Decor
+37
+Location
+52
+Comfort
+27
+Backyard
+3
+Pool
+8
+Parking
+9
+Parks
+3
+Cleanliness
+21
+Sleep quality
+11
+Morgan
+Greenville, South Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+This was a truly great stay for our family! The condo was so thoughtfully decorated with cool antiques, and everything was very comfortable. Host was very responsive about a lock issue and questions about the AC upstairs and sent help/provided advice promptly. We enjoyed our stay!
+Show more
+Christine
+Blauvelt, New York
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Our stay was really wonderful!!  It’s so nice when you find an Airbnb that is clean, comfortable, and thoughtfully designed and cared for!! This was in a great location. Many restaurants within walking distance, the Savannah River, many parks and beautiful churches.
+Thank you!
+Show more
+Mb
+Little Rock, Arkansas
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed with kids
+The JetSetter was very nice and comfortable.  The only things that bothered us was the box springs on the beds. They both made lots of noise whenever you moved.  The beds were comfortable, just very noisy.
+Show more
+Dinesh
+Marietta, Georgia
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+The pool is shown alongside the house, and it is a half-hour away from the house.
+Show more
+Jennifer
+Washington, District of Columbia
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Beautiful, fun town home. In a beautiful neighborhood that is walkable to great restaurants, shops, and sites. Support from host was five stars! We would gladly return!
+Becky
+Lincoln, Nebraska
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Stayed a few nights
+This is one of the cutest Airbnbs that we’ve stayed in! Decor is so fun and well thought out - and the modern bathroom/shower was perfect.
+This is a bit closer to the outskirts of the historic district but we felt safe and walked back and forth to river street multiple times. Such a beautiful city you’ll want to walk and explore anyway.
+Kitchen and appliances were modern and easy to use - directions to enter the rental were well thought out - lovely to have a free parking spot in Savannah too.
+We didn’t use the pool but it’s nice to have that option. Courtyard space in the back felt cozy and inviting.
+If you need storage luggage before/after your rental, there’s a convenient ‘bounce’ location close by inside of a dog cafe - super nice owner.
+Tons of great food options close by - urban deli, goose feathers, funky brunch, Vinny’s pizza — would definitely recommend this rental!
+Show more
+Show all 75 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Jones East
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

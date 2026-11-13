@@ -1,0 +1,448 @@
+URL: https://www.airbnb.com/rooms/1214474836664296639
+Title: Charming Carriage House in Prime Location
+Latitude: 32.0718
+Longitude: -81.0936
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located in the heart of downtown Savannah, just steps from Monterey Square, Southern Belle Carriage combines historic charm with modern amenities. Enjoy easy access to Forsyth Park, local restaurants, and shopping.
+
+The space
+Located in the heart of downtown Savannah, just steps from Monterey Square, Southern Belle Carriage combines historic charm with modern amenities. Enjoy easy access to Forsyth Park, local restaurants, and shopping.
+
+Located on Jones Lane, this 1-bedroom, 1-bathroom, two-story carriage house is rich with historic details. Accessed via lane, guests will enjoy the beautiful features it offers, such as refinished hardwood floors and an ample amount of space for your guests to spread out!
+
+What Do We Love About Southern Belle Carriage? 
+
+- Inviting Spaces: The charming living room has a smart TV, exposed brick, and a dining table for four. The kitchen is fully equipped with everything needed to prepare home cooked meals, including a microwave, stove, oven, and full-size refrigerator!
+
+- Spacious Bedroom: The bedroom boasts a king-size bed and a twin bed, perfect for children, large windows overlooking the tree-lined street, and a smart TV. 
+
+- Location: Southern Belle Carriage is located on East Jones Lane, near the famous Mercer-Williams House and Congregation Mickve Israel, both of which offer tours of their historic buildings. Enjoy your stay in this beautifully preserved townhome in Savannah's historic district.
+
+Sleeping Configuration:
+Bedroom: King Size Bed + 1 Twin Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-01517
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Charming Carriage House in Prime Location
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Add dates for prices
+Add dates for prices
+4.55 ·
+33 reviews
+Rated 4.55 out of 5 from 33 reviews.
+Check availability
+Entire rental unit in Savannah, Georgia
+3 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.55 out of 5 stars.
+4.55
+·
+33 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's historic district
+Steps from Monterey Square and Lafayette Square, with Forsyth Park about a 5-min walk away
+Historic carriage house with character
+A two-story carriage house with exposed brick, hardwood floors, and a spiral staircase
+Walk to everything from here
+Guests highlight how walkable the location is, with many exploring the city entirely on foot
+Located in the heart of downtown Savannah, just steps from Monterey Square, Southern Belle Carriage combines historic charm with modern amenities. Enjoy easy access to Forsyth Park, local restaurants, and shopping.
+
+The space
+Located in the heart of downtown Savannah, just steps from Monterey Square, Southern Belle Carriage combines historic charm with modern amenities. Enjoy easy access to Forsyth Park, local restaurants, and shopping.
+
+Located on Jones Lane, this 1-bedroom, 1-bathroom, two-story carriage house is rich with historic details. Accessed via lane, guests will enjoy the beautiful features it offers, such as refinished hardwood floors and an ample amount of space for your guests to spread out!
+
+What Do We Love About Southern Belle Carriage? 
+
+- Inviting Spaces: The charming living room has a smart TV, exposed brick, and a dining table for four. The kitchen is fully equipped with everything needed to prepare home cooked meals, including a microwave, stove, oven, and full-size refrigerator!
+
+- Spacious Bedroom: The bedroom boasts a king-size bed and a twin bed, perfect for children, large windows overlooking the tree-lined street, and a smart TV. 
+
+- Location: Southern Belle Carriage is located on East Jones Lane, near the famous Mercer-Williams House and Congregation Mickve Israel, both of which offer tours of their historic buildings. Enjoy your stay in this beautifully preserved townhome in Savannah's historic district.
+
+Sleeping Configuration:
+Bedroom: King Size Bed + 1 Twin Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-01517
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+What this place offers
+Kitchen
+Wifi
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 31 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.55 out of 5 stars from 33 reviews
+4.55 · 33 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 67% of reviews
+5
+4 stars, 24% of reviews
+4
+3 stars, 6% of reviews
+3
+2 stars, 3% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.7 out of 5 stars for cleanliness
+Cleanliness
+4.7
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.4 out of 5 stars for check-in
+Check-in
+4.4
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.4 out of 5 stars for value
+Value
+4.4
+Guest reviews mention
+Walkability
+18
+Location
+23
+Parking
+7
+Hospitality
+15
+Cleanliness
+12
+Parks
+2
+Nearby
+6
+Indoor spaces
+5
+Sleep quality
+5
+Bathroom
+5
+Johanna
+New to Airbnb
+Rating, 4 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with kids
+Beautiful location, everything was pretty much walkable which I enjoyed, free parking during the weekends. They were extremely flexible, had something come up and they were willing to accommodate. The neighbors were friendly also and welcoming. The only thing is that they had windows that we couldn’t close. But overall loved it, very cute and cozy.
+Show more
+Raymond
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with a pet
+If you’re in the Savannah area and need a nice place to stay, I would highly recommend this Airbnb. Host was amazing and responded very quickly to any questions I had.
+Carolyn
+Atlanta, Georgia
+Rating, 4 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Great little spot near Jones St. Easy access to all parts of Savannah that we wanted to visit. We particularly liked the bedroom area - it was bright and roomy. We were worried about parking but it ended up being easy. We parked on Taylor street which was free on the weekend.
+Show more
+Hannah
+Memphis, Tennessee
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+This was such a lovely stay. We did not use our car once because we could walk everywhere!! We loved staying in such a historic neighborhood with darling shops to stops and take a look around in. Would definitely book again!!
+Show more
+Stacy
+Belleair, Florida
+Rating, 3 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Convenient location. Street noise was very loud at night. My biggest issue would be parking Saturday and Sunday is free but Monday through Friday you pay from 8 to 5 I had to wake up each morning to make sure that I paid for parking at 8 o'clock. Then if I understood correctly, parking was for only two hours so every two hours you needed to relocate your car.
+Show more
+Gaylene
+7 years on Airbnb
+Rating, 4 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+The carriage house was just as described and shown in photos. It was super clean.  It’s in a great location to walk the beautiful historic district of Savannah. The Jones St. neighborhood, where this property is located, is gorgeous. 
+As other reviewers mentioned, the spiral staircase was a bit challenging but if you move slowly and carefully you will be ok. Not for the mobility challenged though. If you have large suitcases it’s best to use the outside staircase to bring them to the upstairs, which is where the bedroom, bathroom, and laundry are located. 
+Communication with friendly host was great. 
+Parking here is an issue, but we knew that going in. You’ll need to get a parking pass from Mobility Services (the meters are only good for two hours at a time) and make sure you aren’t in the street sweeper zone.
+Show more
+Show all 33 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Pet-friendly vacation rentals in Georgia
+Pet-friendly vacation rentals in United States
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

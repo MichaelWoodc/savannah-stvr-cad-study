@@ -1,0 +1,686 @@
+URL: https://www.airbnb.com/rooms/1650888127472018991
+Title: Luxury Savannah Retreat | Heated Pool Access
+Latitude: 32.07311
+Longitude: -81.09309
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 4
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Step into The Stables, a beautifully reimagined historic retreat in the heart of Savannah’s Historic District. Blending old-world charm with modern comfort, this thoughtfully designed home features inviting living spaces, a private outdoor courtyard with a firepit and fountain, and garage parking. Walk to top landmarks, dining, and shops, then unwind in a peaceful, refined setting.
+
+The space
+Welcome to The Stables, a truly one-of-a-kind luxury retreat tucked away in the heart of Savannah’s Historic District. Once home to working stables, this thoughtfully transformed residence blends rich history with refined design, offering a timeless escape just steps from Lafayette Square. Designed to comfortably accommodate up to eight guests across four beautifully appointed bedrooms and three full bathrooms, this home delivers both space and sophistication in one of downtown Savannah’s most coveted locations. From the moment you arrive, you’ll feel the magic of this hidden gem where historic charm meets elevated, modern comfort.
+
+
+
+An Effortless Blend of Indoor & Outdoor Living
+
+Entering through the front gates, you’re transported into what feels like another country entirely. The Stables reveals itself as a private European-inspired oasis, quietly tucked away from the energy of the city yet perfectly positioned to enjoy it all. The expansive courtyard is nothing short of breathtaking—an experience in itself and the true heart of the home. At its center, you’ll find dining tables ideal for al fresco meals beneath the Savannah sky, surrounded by lush greenery, blooming flowers, and soft ambient lighting that transforms the space at night into something truly unforgettable. A custom-designed fire feature invites guests to gather and unwind, while a peaceful fountain adds a sense of calm and tranquility. With a comfortable lounge area and a grill for preparing meals, this outdoor sanctuary is designed for connection, relaxation, and memorable evenings that feel worlds away from downtown, yet you’re right in the middle of it.
+
+
+
+Inside, the home continues to impress with a seamless flow and beautifully curated interiors that honor its historic roots while embracing a sophisticated, modern aesthetic. The main living space is designed for both comfort and conversation, effortlessly connecting the dining area, living room, and additional sitting spaces. The dining area offers seating for four, perfect for shared meals or a casual breakfast before heading out to explore the city. Just beyond, the living room invites you to settle in with a plush sofa, four comfortable sitting chairs, and ottomans arranged around a smart TV, creating a warm and welcoming space to unwind after a day of sightseeing.
+
+
+
+At the base of the staircase, you’ll find a charming nook that adds both function and character to the home. This quaint sitting area, complete with a work desk, provides a quiet place to catch up on emails, journal, or simply enjoy a moment of stillness. It’s these thoughtful details that make The Stables feel not just like a place to stay, but a place to truly live.
+
+
+
+The kitchen is a standout feature in its own right, beautifully designed with custom finishes, elegant tile work, and a refined aesthetic that feels both luxurious and inviting. Fully equipped with full-size stainless steel appliances, it offers everything you need to prepare meals at home, whether you’re cooking for the group or simply brewing your morning coffee. A tucked-away pantry houses a convenient coffee bar along with a stacked washer and dryer, making longer stays as effortless as they are enjoyable. Just off the kitchen, a cozy breakfast area with seating for two provides the perfect spot for a quiet start to the day.
+
+
+
+Restful, Well-Appointed Accommodations
+
+Thoughtfully designed for both gathering and privacy, The Stables offers a well-balanced layout that comfortably accommodates up to eight guests across four bedrooms and three full bathrooms. Each sleeping space has been carefully curated to provide a restful retreat, while still maintaining the home’s cohesive blend of historic character and refined style.
+
+
+
+On the first floor, the primary guest suite offers a serene retreat with a king-size bed and its own en suite full bathroom. This room is filled with character, featuring a unique arched window that adds architectural interest, along with French doors that open directly onto the courtyard allowing you to step outside and enjoy the peaceful surroundings at any time of day. A charming bar area with a mini fridge adds an extra touch of convenience, perfect for evening refreshments. The en suite bathroom features a petite clawfoot tub with a handheld shower head, adding a vintage-inspired detail that reflects the home’s historic past.
+
+
+
+As you make your way upstairs, you’ll notice one of the most distinctive reminders of the property’s history—original hardware still mounted along the walls, once used to tie up horses when the building functioned as a working stable. These preserved elements offer a tangible connection to the past, thoughtfully integrated into the home’s design.
+
+
+
+The second floor hosts three additional guest rooms, each offering its own unique charm. The second guest suite is particularly spacious, featuring a king-size bed and a private en suite bathroom with a beautifully tiled walk-in shower. Down the hall, two additional guest rooms provide comfortable accommodations, one with a queen bed and the other with a double bed. These rooms share access to a nearby full bathroom, also featuring a tiled walk-in shower, ensuring that every guest has access to well-appointed, stylish amenities.
+
+
+
+An Exceptional Location with the Ease of Private Parking and Security
+
+Beyond the home itself, The Stables offers the rare convenience of a private three-car garage with EV charger, an exceptional feature in the Historic District. Additional paid street parking is also available nearby, making it easy for guests traveling with multiple vehicles. For added peace of mind during your stay, the property is equipped with exterior-facing security cameras located in the courtyard, garage, and lane outside the front gate.
+
+
+
+One of the most compelling aspects of this property is its unbeatable location. Situated just off Lafayette Square, you are within walking distance of some of Savannah’s most iconic landmarks and attractions. Take a leisurely stroll to the stunning Cathedral Basilica of St. John the Baptist, explore the historic beauty of the Andrew Low House, or wander through the nearby Colonial Park Cemetery. The Sorrel Weed House and Savannah Theatre are also just moments away, offering a glimpse into the city’s rich history and vibrant culture.
+
+
+
+When it comes to dining and nightlife, you’ll be spoiled for choice. Enjoy a relaxed brunch at J. Christopher’s, savor elevated cuisine at The Public or Emporium, or grab a quick and flavorful bite from Zunzi’s. In the evenings, head to Peregrin for rooftop cocktails with sweeping views, experience the refined ambiance of Artillery Bar, or enjoy a laid-back night at local favorites like Pinkie Masters or McDonough’s Lounge. For coffee and lighter fare, nearby cafés like Mirabelle, Gryphon Tea Room, and Gallery Espresso provide charming spots to start your day or take a midday break.
+
+
+
+Whether you’re visiting Savannah for a weekend getaway, a special celebration, or an extended stay, The Stables offers an experience that is truly unmatched. It’s a place where history and luxury coexist effortlessly, where every detail has been thoughtfully considered, and where the beauty of the surroundings invites you to slow down and savor each moment. At The Stables, you’re not just booking a place to stay, you’re stepping into a story, a setting, and a level of comfort that will leave a lasting impression long after your visit ends.
+
+Guest access
+Occupancy: 8
+
+4 bedrooms, 3 full bathrooms
+
+Outdoor space: Private outdoor area dining tables, gas fire feature, lounge area with fountain, and a grill
+
+Living room: Comfortable seating, smart TV
+
+Kitchen: Full kitchen with modern appliances
+
+Indoor Dining: Breakfast nook seating for 2; dining table seats 4
+
+Bedroom 1 (Main Level): King bed, private en suite bathroom with petite clawfoot tub and handheld shower, smart TV, mini fridge
+
+Bedroom 2 (Second Level): King bed, private bathroom with tiled walk in shower
+
+Bedroom 3 (Second Level): Queen bed
+
+Bedroom 4 (Second Level): Double bed
+
+Shared bathroom: Hall bathroom on second level with tiled walk in shower
+
+Laundry: Stackable washer and dryer
+
+Parking: Private three-car garage with EV charger
+
+Security: Exterior-facing security cameras monitor the courtyard, garage, and lane outside the front gate for added safety
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+
+
+SVR-03166
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Fire pit
+Parking and facilities
+Free parking on premises
+Pool
+EV charger
+Guests can charge their electric vehicles on the property
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Luxury Savannah Retreat | Heated Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 4 bedrooms · 4 beds · 3 baths
+Rated 4.86 out of 5 stars.
+4.86
+·
+7 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Lafayette Square, the Cathedral of St. John the Baptist, and Telfair Museums
+Walled courtyard with fire pit
+A private courtyard with a fire pit, fountain, dining tables, and a grill for outdoor meals
+A stay guests want to repeat
+Guests call the location and courtyard stunning, with several saying they'd return
+Step into The Stables, a beautifully reimagined historic retreat in the heart of Savannah’s Historic District. Blending old-world charm with modern comfort, this thoughtfully designed home features inviting living spaces, a private outdoor courtyard with a firepit and fountain, and garage parking. Walk to top landmarks, dining, and shops, then unwind in a peaceful, refined setting.
+
+The space
+Welcome to The Stables, a truly one-of-a-kind luxury retreat tucked away in the heart of Savannah’s Historic District. Once home to working stables, this thoughtfully transformed residence blends rich history with refined design, offering a timeless escape just steps from Lafayette Square. Designed to comfortably accommodate up to eight guests across four beautifully appointed bedrooms and three full bathrooms, this home delivers both space and sophistication in one of downtown Savannah’s most coveted locations. From the moment you arrive, you’ll feel the magic of this hidden gem where historic charm meets elevated, modern comfort.
+
+
+
+An Effortless Blend of Indoor & Outdoor Living
+
+Entering through the front gates, you’re transported into what feels like another country entirely. The Stables reveals itself as a private European-inspired oasis, quietly tucked away from the energy of the city yet perfectly positioned to enjoy it all. The expansive courtyard is nothing short of breathtaking—an experience in itself and the true heart of the home. At its center, you’ll find dining tables ideal for al fresco meals beneath the Savannah sky, surrounded by lush greenery, blooming flowers, and soft ambient lighting that transforms the space at night into something truly unforgettable. A custom-designed fire feature invites guests to gather and unwind, while a peaceful fountain adds a sense of calm and tranquility. With a comfortable lounge area and a grill for preparing meals, this outdoor sanctuary is designed for connection, relaxation, and memorable evenings that feel worlds away from downtown, yet you’re right in the middle of it.
+
+
+
+Inside, the home continues to impress with a seamless flow and beautifully curated interiors that honor its historic roots while embracing a sophisticated, modern aesthetic. The main living space is designed for both comfort and conversation, effortlessly connecting the dining area, living room, and additional sitting spaces. The dining area offers seating for four, perfect for shared meals or a casual breakfast before heading out to explore the city. Just beyond, the living room invites you to settle in with a plush sofa, four comfortable sitting chairs, and ottomans arranged around a smart TV, creating a warm and welcoming space to unwind after a day of sightseeing.
+
+
+
+At the base of the staircase, you’ll find a charming nook that adds both function and character to the home. This quaint sitting area, complete with a work desk, provides a quiet place to catch up on emails, journal, or simply enjoy a moment of stillness. It’s these thoughtful details that make The Stables feel not just like a place to stay, but a place to truly live.
+
+
+
+The kitchen is a standout feature in its own right, beautifully designed with custom finishes, elegant tile work, and a refined aesthetic that feels both luxurious and inviting. Fully equipped with full-size stainless steel appliances, it offers everything you need to prepare meals at home, whether you’re cooking for the group or simply brewing your morning coffee. A tucked-away pantry houses a convenient coffee bar along with a stacked washer and dryer, making longer stays as effortless as they are enjoyable. Just off the kitchen, a cozy breakfast area with seating for two provides the perfect spot for a quiet start to the day.
+
+
+
+Restful, Well-Appointed Accommodations
+
+Thoughtfully designed for both gathering and privacy, The Stables offers a well-balanced layout that comfortably accommodates up to eight guests across four bedrooms and three full bathrooms. Each sleeping space has been carefully curated to provide a restful retreat, while still maintaining the home’s cohesive blend of historic character and refined style.
+
+
+
+On the first floor, the primary guest suite offers a serene retreat with a king-size bed and its own en suite full bathroom. This room is filled with character, featuring a unique arched window that adds architectural interest, along with French doors that open directly onto the courtyard allowing you to step outside and enjoy the peaceful surroundings at any time of day. A charming bar area with a mini fridge adds an extra touch of convenience, perfect for evening refreshments. The en suite bathroom features a petite clawfoot tub with a handheld shower head, adding a vintage-inspired detail that reflects the home’s historic past.
+
+
+
+As you make your way upstairs, you’ll notice one of the most distinctive reminders of the property’s history—original hardware still mounted along the walls, once used to tie up horses when the building functioned as a working stable. These preserved elements offer a tangible connection to the past, thoughtfully integrated into the home’s design.
+
+
+
+The second floor hosts three additional guest rooms, each offering its own unique charm. The second guest suite is particularly spacious, featuring a king-size bed and a private en suite bathroom with a beautifully tiled walk-in shower. Down the hall, two additional guest rooms provide comfortable accommodations, one with a queen bed and the other with a double bed. These rooms share access to a nearby full bathroom, also featuring a tiled walk-in shower, ensuring that every guest has access to well-appointed, stylish amenities.
+
+
+
+An Exceptional Location with the Ease of Private Parking and Security
+
+Beyond the home itself, The Stables offers the rare convenience of a private three-car garage with EV charger, an exceptional feature in the Historic District. Additional paid street parking is also available nearby, making it easy for guests traveling with multiple vehicles. For added peace of mind during your stay, the property is equipped with exterior-facing security cameras located in the courtyard, garage, and lane outside the front gate.
+
+
+
+One of the most compelling aspects of this property is its unbeatable location. Situated just off Lafayette Square, you are within walking distance of some of Savannah’s most iconic landmarks and attractions. Take a leisurely stroll to the stunning Cathedral Basilica of St. John the Baptist, explore the historic beauty of the Andrew Low House, or wander through the nearby Colonial Park Cemetery. The Sorrel Weed House and Savannah Theatre are also just moments away, offering a glimpse into the city’s rich history and vibrant culture.
+
+
+
+When it comes to dining and nightlife, you’ll be spoiled for choice. Enjoy a relaxed brunch at J. Christopher’s, savor elevated cuisine at The Public or Emporium, or grab a quick and flavorful bite from Zunzi’s. In the evenings, head to Peregrin for rooftop cocktails with sweeping views, experience the refined ambiance of Artillery Bar, or enjoy a laid-back night at local favorites like Pinkie Masters or McDonough’s Lounge. For coffee and lighter fare, nearby cafés like Mirabelle, Gryphon Tea Room, and Gallery Espresso provide charming spots to start your day or take a midday break.
+
+
+
+Whether you’re visiting Savannah for a weekend getaway, a special celebration, or an extended stay, The Stables offers an experience that is truly unmatched. It’s a place where history and luxury coexist effortlessly, where every detail has been thoughtfully considered, and where the beauty of the surroundings invites you to slow down and savor each moment. At The Stables, you’re not just booking a place to stay, you’re stepping into a story, a setting, and a level of comfort that will leave a lasting impression long after your visit ends.
+
+Guest access
+Occupancy: 8
+
+4 bedrooms, 3 full bathrooms
+
+Outdoor space: Private outdoor area dining tables, gas fire feature, lounge area with fountain, and a grill
+
+Living room: Comfortable seating, smart TV
+
+Kitchen: Full kitchen with modern appliances
+
+Indoor Dining: Breakfast nook seating for 2; dining table seats 4
+
+Bedroom 1 (Main Level): King bed, private en suite bathroom with petite clawfoot tub and handheld shower, smart TV, mini fridge
+
+Bedroom 2 (Second Level): King bed, private bathroom with tiled walk in shower
+
+Bedroom 3 (Second Level): Queen bed
+
+Bedroom 4 (Second Level): Double bed
+
+Shared bathroom: Hall bathroom on second level with tiled walk in shower
+
+Laundry: Stackable washer and dryer
+
+Parking: Private three-car garage with EV charger
+
+Security: Exterior-facing security cameras monitor the courtyard, garage, and lane outside the front gate for added safety
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+
+
+SVR-03166
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV with standard cable
+EV charger
+Washer
+Dryer
+Air conditioning
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.86 out of 5 stars from 7 reviews
+4.86 · 7 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 86% of reviews
+5
+4 stars, 14% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.7 out of 5 stars for check-in
+Check-in
+4.7
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Outdoor spaces
+4
+Location
+5
+Parking
+2
+Bathroom
+3
+Indoor spaces
+3
+Value
+2
+Kim
+Blountville, Tennessee
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+The house is beautiful.  Location is fantastic.   The bathrooms are smaller than what I am used to because it is a historic house, but they were adequate.  We had one small issue while we were there with the Tesla charger, but it was resolved quickly.  Loved the garage parking!   We will return.
+Show more
+Danielle
+Plantation, Florida
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+We enjoyed our stay at this location. Lots of rooms and a beautiful courtyard with great garage parking. Kitchen was great with gas stove. Great communication prior and nice to be able to check in early on the day of arrival. The showers are quite small in all bathrooms which made them difficult to maneuver. The air conditioning never cooled off the upstairs so it was warm throughout the trip. Some fans we located helped a little. The pool that was advertised was over 30 minutes away and not practical to include as an amenity.
+Show more
+Heather
+Austin, Texas
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Group trip
+We had an amazing time hosting my son and a few of his friends!  It was an incredible location and sooooo cute!!
+Robin
+Trussville, Alabama
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Beautiful location with lots of room. Very unique home comfortable beds. Everything you need for a vacation away from home.
+Spencer
+Huntsville, Alabama
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Amazing location and the courtyard was absolutely one of the best features of the stay. Totally worth it!
+Joan
+Carlsbad, California
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+What an amazing place! Walkable to all, gorgeous park and church across the street. You’ll never want to leave though— the house is amazing and the courtyard is beautiful. I was worried as it was a tad out of the budget…. But well worth it!
+Show more
+Show all 7 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Vacation rentals with a pool in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

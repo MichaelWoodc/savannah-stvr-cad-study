@@ -1,0 +1,479 @@
+URL: https://www.airbnb.com/rooms/335525
+Title: Awesome Downtown Condo with Pool!
+Latitude: 32.06487
+Longitude: -81.08986
+Privacy radius (meters): 152
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: David
+Host ID: 1708042
+Host profile ID: 1462519858286238590
+Host URL: https://www.airbnb.com/users/profile/1462519858286238590
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+This awesome condo is in the perfect location in beautiful downtown Savannah. A historic cottage originally constructed in the late 1800's, it has been eloquently renovated with modern conveniences. Walking distance to grocery, bars, fine dining, and world famous Forsyth Park make this an unbeatable location. A 20 minute walk to the shopping district through the heart of the historic city provides a complete Savannah experience. Did we mention there is a pool?
+
+
+Savannah License # - SVR-00571
+
+The space
+This fantastic condo is in the perfect location in the Landmark Historic District of beautiful downtown Savannah, GA. The unit features a large bedroom, large living area, fully equipped kitchen and luxury bathroom with a 2 person Jacuzzi hot tub garden bath. Ohhh-la la. This historic cottage, originally constructed in the late 1800's, has been eloquently renovated and furnished with modern conveniences and a contemporary feel. Walking distance to grocery, bars, fine dining, and world famous Forsyth Park make this an unbeatable location. A 20 minute walk to the shopping district through the heart of the historic city provides a complete Savannah experience. Also, a short 20 minute drive to Tybee Island for a beach day. Did we mention there is a pool?
+
+Nightly rates range from about $120 to $165. Rates vary based on seasons, special events, availability, holidays. Please message for exact quote!
+
+Guest access
+This is a fully private unit.  All rooms and amenities within the unit, including laundry facilities,  are not shared.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Indoor fireplace
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Sun loungers
+Parking and facilities
+Free parking on premises
+Free street parking
+Private outdoor pool - available all year, open specific hours
+open from 9:00 AM to 10:00 PM
+Private hot tub
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Awesome Downtown Condo with Pool!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.79 out of 5 stars.
+4.79
+·
+345 reviews
+Hosted by David
+Superhost · 14 years hosting
+Listing highlights
+In Savannah's Landmark Historic District
+About a 5-min walk to Forsyth Park, with Whitefield Square and local dining even closer
+In-unit jacuzzi tub
+A private hot tub in the bathroom for unwinding after a day exploring the city
+Walkable and comfortable
+Guests highlight how walkable the location is and how comfortable the bed is
+This awesome condo is in the perfect location in beautiful downtown Savannah. A historic cottage originally constructed in the late 1800's, it has been eloquently renovated with modern conveniences. Walking distance to grocery, bars, fine dining, and world famous Forsyth Park make this an unbeatable location. A 20 minute walk to the shopping district through the heart of the historic city provides a complete Savannah experience. Did we mention there is a pool?
+
+
+Savannah License # - SVR-00571
+
+The space
+This fantastic condo is in the perfect location in the Landmark Historic District of beautiful downtown Savannah, GA. The unit features a large bedroom, large living area, fully equipped kitchen and luxury bathroom with a 2 person Jacuzzi hot tub garden bath. Ohhh-la la. This historic cottage, originally constructed in the late 1800's, has been eloquently renovated and furnished with modern conveniences and a contemporary feel. Walking distance to grocery, bars, fine dining, and world famous Forsyth Park make this an unbeatable location. A 20 minute walk to the shopping district through the heart of the historic city provides a complete Savannah experience. Also, a short 20 minute drive to Tybee Island for a beach day. Did we mention there is a pool?
+
+Nightly rates range from about $120 to $165. Rates vary based on seasons, special events, availability, holidays. Please message for exact quote!
+
+Guest access
+This is a fully private unit.  All rooms and amenities within the unit, including laundry facilities,  are not shared.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Private outdoor pool - available all year, open specific hours
+Private hot tub
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Show all 60 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.79 out of 5 stars from 345 reviews
+4.79 · 345 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 84% of reviews
+5
+4 stars, 13% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+107
+Pool
+85
+Location
+174
+Nearby
+89
+Parks
+24
+Hospitality
+143
+Sleep quality
+33
+Cleanliness
+83
+Bathroom
+43
+Parking
+32
+Vicky
+Wapakoneta, Ohio
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+The condo was just as described. David and Devin provided all the amenities we needed during our stay. The condo was within walking distance to many great local places. Bed was comfy! Pool was refreshing!
+Show more
+Ashlyn
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Perfect place for an individual, couple, or small family with younger children! Close to everything and stocked with anything you might need. I definitely would recommend to anyone!
+Show more
+Laura
+Davidson, North Carolina
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+We had a great stay at David’s place in Savannah. The location was good and it was quiet. We were able to conveniently walk to many places - grocery, book stores, restaurants, coffee shops, and Forsyth Park. The kitchen was well supplied with everything we needed for when we wanted to make our own meals…better than many Airbnbs I’ve been to. The pool was a lovely bonus that gave us a chance to relax and unwind. All in all a fantastic stay. Would definitely come back.
+Show more
+Pennie
+Sumter, South Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+We enjoyed our stay.  We were in town for a Banana Ball Game. The house was only an 8 minute drive to the stadium.  
+The house location is in a more run down area but still felt safe. We walked to Forsyth Park with no issues.  Would definitely stay again.
+Show more
+Stella
+Elkhorn, Wisconsin
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+We loved our condo! Parking was convenient. The amenities were great. Kroger was just a block or two away. The neighborhood was quiet, away from a ton of foot traffic, while still being close to all the sights of Savannah. Loved the pool, even though you share it with the other units it still felt private. The bathroom was nice. Loved the jacuzzi tub and the shower head had great pressure. Very nice place to stay. I would definitely book this place again.
+Show more
+Riley
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+This stay was good! Great location! It’s a 20 min walk to downtown and a 10 min walk to Forsyth Park! There is a Kroger like 5 min away! I’m glad I stayed away from downtown due to it being St Patrick’s day weekend. Much quieter! Loved walking around the neighborhoods! The place was fully stocked and no complaints. The only suggestion I have is to paint the house numbers in black, they are the same color as the siding and I got there late at night and the porch light was off so it was hard to see. The bed was comfy and the shower had good pressure and temperature. Pool was nice to sit by but too cold to swim in. The back patio was nice to sit on. Also had pool towels which was nice! Would have loved a few favorite restaurants in a binder or something small!
+Show more
+Show all 345 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+The Vault Kitchen & Market
+Asian restaurant
+Local 11ten Food | Wine
+Restaurant
+East Broughton Street
+Route
+Kroger
+Grocery store
+Jepson Center for the Arts
+Museum
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+This neighborhood is great because it is NOT in the fully tourist district of Savannah. You will see professionals, students, life ling residents, and daily commuters. It really gives you a taste of the live-ablitly of the town.
+Show more
+Meet your host
+David
+Superhost
+1,318 reviews
+1318
+Reviews
+4.81 out of 5 average rating
+4.81
+Rating
+14 years of hosting
+14
+Years hosting
+My work: mehhh, who needs it?
+Fun fact: I ran witht he bulls in Pamplona, twice.
+Hi everyone. I am a Savannah native born and raised. I really enjoy accting as an amdassidor of sorts to my home town. I hope you find my little units to be a fantastic place to stay while you are exploring the lovely town that Savannah is. Plesae feel free to send me questoins abuot your stay. I am fully invloved and want eveyone to have the best stay possible.
+David is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Devin
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+Apartment vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

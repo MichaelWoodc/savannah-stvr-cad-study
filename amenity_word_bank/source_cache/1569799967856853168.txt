@@ -1,0 +1,693 @@
+URL: https://www.airbnb.com/rooms/1569799967856853168
+Title: Historic 4BR Downtown Home with 3-Car Parking Pets
+Latitude: 32.0621
+Longitude: -81.0957
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: ⁨Hosthappy9⁩
+Host ID: 658011564
+Host profile ID: 1470652928767830050
+Host URL: https://www.airbnb.com/users/profile/1470652928767830050
+Bedrooms: 4
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 5
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+2 queen beds
+
+=== FULL DESCRIPTION ===
+Discover Savannah from our luxurious 4BR/3.5BA Historic District home, perfect for 2-3 families. This spacious retreat features a unique queen bunk bed, a chef's kitchen, and rare private parking for 3 cars. Just a short walk to Forsyth Park and downtown attractions, it's the ideal base for your getaway. Comfortably sleeps your entire group in style. 
+Come make memories, celebrate your special occasions, and enjoy a truly relaxing Savannah stay.
+
+The space
+NestNgo at Abercorn is a rare gem in the heart of Savannah’s Historic District, designed with connection, comfort, and convenience in mind. This spacious urban retreat features 4 bedrooms and 3.5 bathrooms, offering plenty of room for 2–3 families to relax and enjoy quality time together without sacrificing privacy.
+
+With stylish interiors, a full kitchen, private parking for 3 vehicles, and a cozy front porch perfect for coffee or conversation, this home is a favorite for multigenerational families, reunion trips, and city explorers.
+
+🛏️ Highlight of Space & Sleeping Arrangements: Room for Everyone
+
+Say goodbye to cramped hotel rooms—this home comfortably sleeps your group with room to spare:
+Bedroom 1 (Downstairs): Queen bed
+Bedroom 2: King bed
+Bedroom 3: Queen bed
+Bedroom 4: Show-stopping Queen-sized double Bunk Beds – a favorite for teens and groups of kids
+
+With 3.5 bathrooms, there’s no need to wait in line—ideal for big groups getting ready for a day of adventure.
+
+🍽️ Kitchen Details: Fully Equipped for Family Feasts
+
+Enjoy home-cooked meals in your fully stocked kitchen, perfect for group dinners or quick breakfasts before a day exploring the city. Features include:
+
+Full-size appliances
+Coffee maker for your morning brew ☕
+Grill just outside on the back porch
+Spacious dining area for gathering everyone at once
+
+💻 WIFI & Workspace Details: Stay Connected
+
+Whether you’re streaming, browsing, or squeezing in a little remote work, you’re covered:
+⚡ Fast WiFi throughout the home
+Space to set up a laptop if needed
+Smart TV for downtime or movie nights
+
+
+🎮 Entertainment Details: Family Fun Indoors & Out
+
+When you're not exploring Savannah, enjoy:
+📺 Smart TV for streaming your favorites
+🎲 Board games for game nights with the whole crew
+🍖 Grill on the back porch for casual cookouts
+🎮 Xbox console – perfect for teens or late-night gaming
+
+
+🌆 Nearby Activities & Restaurants: Something for Everyone
+🚶‍♀️ Walk to Forsyth Park for a picnic or stroll
+🎨 Explore SCAD galleries and art installations
+🍽️ Dine at top-rated local eateries, bakeries, and cafes
+🛍️ Shop in charming boutiques along River Street
+👶 Let the kids enjoy the Savannah Children's Museum
+
+
+Whether you're foodies, art lovers, or history buffs, you’re in the perfect place to explore it all.
+
+⭐ Summary of Exceptional 5-Star Property: Why Guests Love Us 
+
+Guests rave about:
+✅ Roomy layout for multiple families
+✅ More bathrooms than most properties in the area
+✅ Queen-size bunk beds – rare, fun, and ultra-comfy
+✅ 3-car private parking in downtown (almost unheard of!)
+✅ Family-friendly features like high chair, pack-n-play & board games
+✅ Walkability to Savannah’s most iconic destinations
+
+Whether it's a reunion, a holiday, or a weekend getaway, this home is built for togetherness, ease, and unforgettable memories.
+
+
+📋 House Rules & Other Considerations
+🤫 Quiet hours: 11 PM – 7 AM
+🚭 No smoking
+🐾 One pet allowed
+📄 Rental agreement required before check-in
+💵 $300 security deposit
+⏰ Check-in: 4 PM / Check-out: 11 AM
+🚗 Parking behind the home (3 vehicles); enter through the back porch
+
+Guest access
+Guests will have exclusive access to the entire home, including all bedrooms, bathrooms, living areas, kitchen, and private outdoor spaces.
+
+   Entry: Access to the home is through the rear entrance. After parking, enter through the wooden gate and climb the porch stairs to the back door.
+   Parking: The private parking area is located behind the home and can be reached via the narrow lane beside the fourth house on the block. It accommodates up to 3 vehicles.
+
+Other things to note
+🛋️ Large, comfortable living space for relaxing, game nights, and movie marathons
+🛏️ Unique queen-size bunk bed – perfect for teens or group-style sleeping
+🍽️ Fully equipped kitchen – cook, dine, and gather with ease
+🚗 Rare private parking for 3 cars in the Historic District
+🌿 Charming front porch + grill on the back porch
+🎮 Entertainment options: Xbox, board games, smart TV with streaming
+👶 Family-ready amenities: high chair & pack-n-play
+🚶‍♀️ Walkable to Forsyth Park, SCAD, River Street, museums & more
+💨 Fast WiFi and space for remote work
+🐾 Pet-friendly for one furry friend
+📋 Rental agreement + refundable $300 deposit required for peace of mind
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Bidet
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Safe
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Game console
+Books and reading material
+Family
+Crib
+Pack ’n play/Travel crib
+Children’s books and toys
+High chair
+Children’s dinnerware
+Fireplace guards
+Window guards
+Board games
+Baby safety gates
+Children's playroom
+An indoor room with toys, books, and games for children
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+For your safety and ours, the property has exterior cameras at the front and back. There are no indoor cameras.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Mini fridge
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free parking on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Cleaning available during stay
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic 4BR Downtown Home with 3-Car Parking Pets
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+10 guests · 4 bedrooms · 6 beds · 3.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+11 reviews
+11
+Reviews
+Hosted by ⁨Hosthappy9⁩
+Superhost · 2 years hosting
+Listing highlights
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, with River Street and downtown dining within reach
+Chef's kitchen with outdoor grill
+A fully equipped kitchen with a grill on the back porch for casual cookouts
+Spotless home, attentive host
+Guests highlight the clean, well-decorated space and a responsive host who replies in minutes
+Discover Savannah from our luxurious 4BR/3.5BA Historic District home, perfect for 2-3 families. This spacious retreat features a unique queen bunk bed, a chef's kitchen, and rare private parking for 3 cars. Just a short walk to Forsyth Park and downtown attractions, it's the ideal base for your getaway. Comfortably sleeps your entire group in style. 
+Come make memories, celebrate your special occasions, and enjoy a truly relaxing Savannah stay.
+
+The space
+NestNgo at Abercorn is a rare gem in the heart of Savannah’s Historic District, designed with connection, comfort, and convenience in mind. This spacious urban retreat features 4 bedrooms and 3.5 bathrooms, offering plenty of room for 2–3 families to relax and enjoy quality time together without sacrificing privacy.
+
+With stylish interiors, a full kitchen, private parking for 3 vehicles, and a cozy front porch perfect for coffee or conversation, this home is a favorite for multigenerational families, reunion trips, and city explorers.
+
+🛏️ Highlight of Space & Sleeping Arrangements: Room for Everyone
+
+Say goodbye to cramped hotel rooms—this home comfortably sleeps your group with room to spare:
+Bedroom 1 (Downstairs): Queen bed
+Bedroom 2: King bed
+Bedroom 3: Queen bed
+Bedroom 4: Show-stopping Queen-sized double Bunk Beds – a favorite for teens and groups of kids
+
+With 3.5 bathrooms, there’s no need to wait in line—ideal for big groups getting ready for a day of adventure.
+
+🍽️ Kitchen Details: Fully Equipped for Family Feasts
+
+Enjoy home-cooked meals in your fully stocked kitchen, perfect for group dinners or quick breakfasts before a day exploring the city. Features include:
+
+Full-size appliances
+Coffee maker for your morning brew ☕
+Grill just outside on the back porch
+Spacious dining area for gathering everyone at once
+
+💻 WIFI & Workspace Details: Stay Connected
+
+Whether you’re streaming, browsing, or squeezing in a little remote work, you’re covered:
+⚡ Fast WiFi throughout the home
+Space to set up a laptop if needed
+Smart TV for downtime or movie nights
+
+
+🎮 Entertainment Details: Family Fun Indoors & Out
+
+When you're not exploring Savannah, enjoy:
+📺 Smart TV for streaming your favorites
+🎲 Board games for game nights with the whole crew
+🍖 Grill on the back porch for casual cookouts
+🎮 Xbox console – perfect for teens or late-night gaming
+
+
+🌆 Nearby Activities & Restaurants: Something for Everyone
+🚶‍♀️ Walk to Forsyth Park for a picnic or stroll
+🎨 Explore SCAD galleries and art installations
+🍽️ Dine at top-rated local eateries, bakeries, and cafes
+🛍️ Shop in charming boutiques along River Street
+👶 Let the kids enjoy the Savannah Children's Museum
+
+
+Whether you're foodies, art lovers, or history buffs, you’re in the perfect place to explore it all.
+
+⭐ Summary of Exceptional 5-Star Property: Why Guests Love Us 
+
+Guests rave about:
+✅ Roomy layout for multiple families
+✅ More bathrooms than most properties in the area
+✅ Queen-size bunk beds – rare, fun, and ultra-comfy
+✅ 3-car private parking in downtown (almost unheard of!)
+✅ Family-friendly features like high chair, pack-n-play & board games
+✅ Walkability to Savannah’s most iconic destinations
+
+Whether it's a reunion, a holiday, or a weekend getaway, this home is built for togetherness, ease, and unforgettable memories.
+
+
+📋 House Rules & Other Considerations
+🤫 Quiet hours: 11 PM – 7 AM
+🚭 No smoking
+🐾 One pet allowed
+📄 Rental agreement required before check-in
+💵 $300 security deposit
+⏰ Check-in: 4 PM / Check-out: 11 AM
+🚗 Parking behind the home (3 vehicles); enter through the back porch
+
+Guest access
+Guests will have exclusive access to the entire home, including all bedrooms, bathrooms, living areas, kitchen, and private outdoor spaces.
+
+   Entry: Access to the home is through the rear entrance. After parking, enter through the wooden gate and climb the porch stairs to the back door.
+   Parking: The private parking area is located behind the home and can be reached via the narrow lane beside the fourth house on the block. It accommodates up to 3 vehicles.
+
+Other things to note
+🛋️ Large, comfortable living space for relaxing, game nights, and movie marathons
+🛏️ Unique queen-size bunk bed – perfect for teens or group-style sleeping
+🍽️ Fully equipped kitchen – cook, dine, and gather with ease
+🚗 Rare private parking for 3 cars in the Historic District
+🌿 Charming front porch + grill on the back porch
+🎮 Entertainment options: Xbox, board games, smart TV with streaming
+👶 Family-ready amenities: high chair & pack-n-play
+🚶‍♀️ Walkable to Forsyth Park, SCAD, River Street, museums & more
+💨 Fast WiFi and space for remote work
+🐾 Pet-friendly for one furry friend
+📋 Rental agreement + refundable $300 deposit required for peace of mind
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 5 | Count unverified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+2 queen beds
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Exterior security cameras on property
+Show all 75 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 11 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Sleep quality
+4
+Location
+6
+Getting around
+4
+Indoor spaces
+4
+Parking
+2
+Walkability
+2
+Decor
+2
+Accuracy
+3
+Comfort
+3
+Cleanliness
+3
+Susan
+Waunakee, Wisconsin
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with a pet
+Lovely home, very comfortable. Nice amenities. Host responded quickly to our needs. This place was a great place for our family to gather and spend time exploring Savannah.
+Aimee
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+I went here to celebrate my best friend getting married. We loved the stay. It was super fun and cute decor. It was super clean. It slept all 8 of us easily!! The location is close to all of the bars and restaurants. I would definitely stay here again! :)
+Show more
+Madison
+Williston, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Very beautiful location, a great spot to do a bachelorette trip!
+Michelle
+7 months on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+We had a great time at this home. It worked very well for our group of 7. Plenty of bedrooms and bathrooms! The kitchen was well stocked, and we especially appreciated the coffee bar and snack box. It was very clean and well maintained. The host was very friendly, helpful, and responsive. Any questions we had were answered within minutes! Highly recommend!
+Show more
+Elena
+Roanoke, Virginia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+We had 9 women staying in this house and it was plenty of space! The house is beautifully decorated and has plenty of beds, bathrooms, and common space to accommodate a large group. There are 3 parking spaces available behind the property, which is hard to come by. The bus system ended up not running on time, but Ubers to downtown were very affordable and Forsyth Park is in walking distance. I would definitely stay here again!
+Show more
+Joseph
+Cincinnati, Ohio
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+A group of us stayed here for a wedding and we would definitely rent again. The sleeping situation was a perfect fit, a well equipped kitchen, and good location are just a few of the many things we loved about this rental. I highly recommend this for a larger group
+Show more
+Show all 11 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Perfectly positioned near downtown and the Riverwalk, our home places you at the heart of Savannah’s culinary scene, historic architecture, and vibrant nightlife—the experiences that define the city’s famous “Hostess City” reputation.
+
+📍 Location Features: Historic District Charm Meets City Convenience
+Step outside and explore Savannah like a local! Your stay puts you within easy walking or biking distance of:
+🌿 Forsyth Park – perfect for picnics and play
+🎨 SCAD Museum of Art – iconic arts & culture destination
+🌊 River Walk / River Street – cobblestone charm & waterfront vibes
+🧒 Children’s Museum – a hit with younger travelers
+☕ Local cafes, restaurants, and shops – all steps away
+Whether you’re strolling under moss-draped oaks or grabbing brunch nearby, everything Savannah has to offer is right outside your door.
+
+Places to eat:-
+Seafood - Places to eat -Public Kitchen and Bar, Boar's Head Grill, Chive Sea Bar and Lounge and Tavern and District Seafood.
+Light Bites - Kayak Cafe, Cafe M, Collins Quarter.
+Fine Dining - Alligator Soul, 45 Bistro, Common Thread, Husk, Elizabeth on 37th, The Grey
+Breakfast - B .Matthew's, Little Duck Dinner, Huey's, Quinn's, Goose Feathers Cafe & Bakery
+Southern Fare - Wilkes Dining room, Olde Pink House, Lady & Sons, Vic's On the River, Pirate's House, Boar's Head Grill and Tavern, Crystal Beer Parlor
+
+Sight Seeing
+1. Sorrell Weed House - 6W Harris St, Savannah, GA - 31401
+2. Telfair Museums - Oldest public art museum spread over 3 themed buildings
+3. Isaiah Davenport House - 324 E State st, Savannah, GA 31401
+4. Bonaventure Cemetery - 330 Bonaventure Road, Thunderbolt, GA -31404
+5. Mercer Williams House Museum
+
+Family Friendly activities
+1. ArtZeum at the Jepson Center - 207 W York St, Savannah, GA -31401
+2. Savannah Children's Museum - 655 Louisville Rd,Savannah, GA 31401
+3,Tybee Island Marine Science Center
+4.Old Savannah Trolley - 215 W Boundary Street Savannah, GA -31401
+
+Certificates-SVR-03187
+Show more
+Meet your host
+⁨Hosthappy9⁩
+Superhost
+74 reviews
+74
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+I spend too much time: Travelling to places & reading history.
+Speaks English
+We’re passionate travelers who love discovering beautiful places. Savannah captured our hearts from the very first visit. It quickly became our all-year-round retreat. NestNGo Escapes grew from our love of creating spaces that feel like home. Hosting allows us to share that joy with others. Sharing our Victorian home with guests from around the world means a lot to us.We want every stay to feel thoughtful and relaxing. Most of all, we hope your time here becomes a memorable part of your journey.
+⁨Hosthappy9⁩ is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

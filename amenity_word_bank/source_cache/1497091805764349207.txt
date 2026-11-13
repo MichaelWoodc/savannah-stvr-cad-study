@@ -1,0 +1,757 @@
+URL: https://www.airbnb.com/rooms/1497091805764349207
+Title: Gather Together | Walk to Forsyth | 4 King Suites
+Latitude: 32.0629
+Longitude: -81.096
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Daniel
+Host ID: 715839542
+Host profile ID: 1497091806593442073
+Host URL: https://www.airbnb.com/users/profile/1497091806593442073
+Bedrooms: 4
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 6
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+Living room 1
+1 floor mattress
+
+Living room 2
+1 floor mattress
+
+=== FULL DESCRIPTION ===
+Some trips are about the places you visit. The best ones are about the people you share them with. Welcome to The Henry House, a beautifully restored 1900 Victorian just a short walk from Forsyth Park. With 4 king bedrooms, 2 kitchens, 2 living rooms, 3 bathrooms, 2 parking spaces and 2 covered porches, it's thoughtfully designed for families and friends to gather, reconnect, and experience Savannah together—all while enjoying the comfort of having space to spread out.
+
+The space
+# THE SPACE
+
+Welcome to **The Henry House**, a beautifully restored 1900 Victorian where historic charm meets modern comfort.
+
+Your group will enjoy the **entire main home**, which is one private residence spanning **two levels**. The home is connected by an interior staircase, making it ideal for families and friends traveling together while also providing a little extra privacy between floors.
+
+**Main Floor**
+
+* 2 King bedrooms
+* 2 Full bathrooms
+* Fully equipped kitchen
+* Comfortable living room
+* Covered front porch
+* Washer & dryer
+
+**Upper Floor**
+
+* 2 King bedrooms
+* 1 Full bathroom
+* Fully equipped kitchen
+* Comfortable living room
+* Covered front porch
+* Washer & dryer
+
+With **4 king bedrooms, 3 full bathrooms, 2 kitchens, 2 living rooms, and 2 covered porches**, everyone has room to gather while still enjoying their own space to relax.
+
+One of the things guests love most about The Henry House is its thoughtful layout. Share breakfast before a day exploring Savannah, gather for conversation after dinner downtown, or enjoy a quiet cup of coffee on one of the porches while the rest of the group sleeps in.
+
+### Historic Character, Modern Comfort
+
+Originally built in 1900, the home has been carefully restored to preserve its beautiful Victorian architecture while offering today's modern conveniences, including:
+
+• High-speed Wi-Fi
+
+• Smart TVs
+
+• Fully stocked kitchens
+
+• Washer & dryer on both floors
+
+• Central heating and air conditioning
+
+• Complimentary parking for two vehicles
+
+Please note that because this is a historic two-story home, **guests staying in the upstairs bedrooms will need to use the interior staircase**. If anyone in your group has mobility concerns, we recommend assigning them one of the two king bedrooms located on the main floor.
+
+Whether you're reconnecting with lifelong friends, traveling with family, celebrating a special occasion, or discovering Savannah for the first time, The Henry House was thoughtfully designed to bring people together.
+
+Guest access
+You'll have exclusive access to the entire main home, including both the main floor and upper floor of this beautifully restored Victorian.
+
+Main Floor:
+• 2 King bedrooms
+• 2 Full bathrooms (including one private ensuite and one hall bathroom)
+• Fully equipped kitchen
+• Comfortable living room
+• Covered front porch
+• Washer & dryer
+
+Upper Floor:
+• 2 King bedrooms
+• 1 Shared full bathroom
+• Fully equipped kitchen
+• Comfortable living room
+• Covered front porch
+• Washer & dryer
+
+The two levels share a welcoming front foyer. Each floor also features a lockable interior door, allowing you to enjoy the home as one spacious residence while providing additional privacy between floors whenever desired.
+
+Please note that guests staying in the upstairs bedrooms will need to use the staircase.
+
+You'll also enjoy two designated parking spaces.
+
+For the safety and security of our guests and property, exterior security cameras monitor the front entrance, rear entrance, and parking areas. There are **no cameras or recording devices inside the home.**
+
+The home is equipped with both front door and backyard cameras for added security.
+
+NOTE: The separate carriage house located behind the main home may be occupied during your stay. It has its own private entrance, parking area, and outdoor space, allowing both homes to enjoy privacy.
+
+Other things to note
+THINGS TO KNOW:
+
+We want every guest to have a wonderful stay at Kenneth Manor, so here are a few helpful things to know before booking:
+
+**Historic Home**
+Kenneth Manor was originally built in 1900 and has been thoughtfully restored to preserve its historic character while offering modern comforts. As with many historic homes, you may notice charming architectural details and unique features that reflect its history.
+
+**Two-Story Home**
+The home spans two levels connected by an interior staircase. Two king bedrooms are located on the main floor and two king bedrooms are upstairs, making it an ideal layout for families, multiple couples, and friends traveling together.
+
+**Parking**
+Two designated parking spaces are included with your reservation. Additional street parking may also be available nearby, subject to city regulations.
+
+**Sensitive Plumbing**
+Like many historic homes, Kenneth Manor has older plumbing. To help prevent backups, please flush **toilet paper only**. Baby wipes, paper towels, feminine hygiene products, "flushable" wipes, and other items should be placed in the waste bins provided.
+
+**Quiet Hours**
+To help preserve the peaceful character of our neighborhood, we kindly ask that guests observe quiet hours between **9:00 PM and 9:00 AM**.
+
+**Smoke-Free Home**
+Kenneth Manor is a **100% smoke-free property**, including cigarettes, cigars, vaping, marijuana, and all other smoking products.
+
+**Weapons & Illegal Substances**
+For the safety and comfort of all guests, **firearms, weapons, and illegal substances are not permitted anywhere on the property.**
+
+**Pets**
+Approved pets are welcome! Please let us know before booking if you plan to bring a pet so we can confirm your reservation and apply the appropriate pet fee. Undisclosed pets are not permitted.
+
+**Packages & Mail**
+Packages and mail cannot be delivered to the property. If you need to receive an item during your stay, we're happy to recommend nearby Amazon Lockers, UPS Stores, or other secure pickup locations.
+
+**Security Cameras**
+For the safety and security of our guests and property, exterior security cameras monitor the front entrance, rear entrance, and parking areas. There are **no cameras or recording devices inside the home**.
+
+**Please Review Our House Rules**
+Before booking, we kindly ask that you review our complete House Rules. They cover important information about the home and help ensure a comfortable stay for you, your fellow travelers, and our neighbors.
+
+We look forward to welcoming you to Kenneth Manor and hope your stay is filled with wonderful memories.
+
+
+
+
+SVTR License # SVR-03027
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+City skyline view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Theme room
+A room or multiple spaces that are designed to follow the same theme
+Family
+Crib - available upon request
+Mini (38 inches long x 24 inches wide), room-darkening shades in room
+Pack ’n play/Travel crib
+Children’s books and toys
+Standalone high chair - available upon request
+With food tray
+Baby bath - available upon request
+Children’s dinnerware
+Changing table - available upon request
+Baby monitor
+Outlet covers
+Board games
+Table corner guards
+Babysitter recommendations
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+Our home features a video doorbell which monitors the front door area of the home. We also have a rear camera which covers the backyard area.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Mini fridge
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Rice maker
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free parking on premises
+Free street parking
+Paid parking lot off premises
+Paid parking lot on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Cleaning available during stay
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Gather Together | Walk to Forsyth | 4 King Suites
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+10 guests · 4 bedrooms · 4 beds · 3 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+38 reviews
+38
+Reviews
+Hosted by Daniel
+Superhost · 1 year hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with cafés, restaurants, and historic squares beyond
+Double-decker covered porches
+A covered front porch on each floor for morning coffee or watching the neighborhood go by
+Spotless and genuinely comfortable
+Guests highlight how clean and comfortable the home is, with many praising the king beds
+Some trips are about the places you visit. The best ones are about the people you share them with. Welcome to The Henry House, a beautifully restored 1900 Victorian just a short walk from Forsyth Park. With 4 king bedrooms, 2 kitchens, 2 living rooms, 3 bathrooms, 2 parking spaces and 2 covered porches, it's thoughtfully designed for families and friends to gather, reconnect, and experience Savannah together—all while enjoying the comfort of having space to spread out.
+
+The space
+# THE SPACE
+
+Welcome to **The Henry House**, a beautifully restored 1900 Victorian where historic charm meets modern comfort.
+
+Your group will enjoy the **entire main home**, which is one private residence spanning **two levels**. The home is connected by an interior staircase, making it ideal for families and friends traveling together while also providing a little extra privacy between floors.
+
+**Main Floor**
+
+* 2 King bedrooms
+* 2 Full bathrooms
+* Fully equipped kitchen
+* Comfortable living room
+* Covered front porch
+* Washer & dryer
+
+**Upper Floor**
+
+* 2 King bedrooms
+* 1 Full bathroom
+* Fully equipped kitchen
+* Comfortable living room
+* Covered front porch
+* Washer & dryer
+
+With **4 king bedrooms, 3 full bathrooms, 2 kitchens, 2 living rooms, and 2 covered porches**, everyone has room to gather while still enjoying their own space to relax.
+
+One of the things guests love most about The Henry House is its thoughtful layout. Share breakfast before a day exploring Savannah, gather for conversation after dinner downtown, or enjoy a quiet cup of coffee on one of the porches while the rest of the group sleeps in.
+
+### Historic Character, Modern Comfort
+
+Originally built in 1900, the home has been carefully restored to preserve its beautiful Victorian architecture while offering today's modern conveniences, including:
+
+• High-speed Wi-Fi
+
+• Smart TVs
+
+• Fully stocked kitchens
+
+• Washer & dryer on both floors
+
+• Central heating and air conditioning
+
+• Complimentary parking for two vehicles
+
+Please note that because this is a historic two-story home, **guests staying in the upstairs bedrooms will need to use the interior staircase**. If anyone in your group has mobility concerns, we recommend assigning them one of the two king bedrooms located on the main floor.
+
+Whether you're reconnecting with lifelong friends, traveling with family, celebrating a special occasion, or discovering Savannah for the first time, The Henry House was thoughtfully designed to bring people together.
+
+Guest access
+You'll have exclusive access to the entire main home, including both the main floor and upper floor of this beautifully restored Victorian.
+
+Main Floor:
+• 2 King bedrooms
+• 2 Full bathrooms (including one private ensuite and one hall bathroom)
+• Fully equipped kitchen
+• Comfortable living room
+• Covered front porch
+• Washer & dryer
+
+Upper Floor:
+• 2 King bedrooms
+• 1 Shared full bathroom
+• Fully equipped kitchen
+• Comfortable living room
+• Covered front porch
+• Washer & dryer
+
+The two levels share a welcoming front foyer. Each floor also features a lockable interior door, allowing you to enjoy the home as one spacious residence while providing additional privacy between floors whenever desired.
+
+Please note that guests staying in the upstairs bedrooms will need to use the staircase.
+
+You'll also enjoy two designated parking spaces.
+
+For the safety and security of our guests and property, exterior security cameras monitor the front entrance, rear entrance, and parking areas. There are **no cameras or recording devices inside the home.**
+
+The home is equipped with both front door and backyard cameras for added security.
+
+NOTE: The separate carriage house located behind the main home may be occupied during your stay. It has its own private entrance, parking area, and outdoor space, allowing both homes to enjoy privacy.
+
+Other things to note
+THINGS TO KNOW:
+
+We want every guest to have a wonderful stay at Kenneth Manor, so here are a few helpful things to know before booking:
+
+**Historic Home**
+Kenneth Manor was originally built in 1900 and has been thoughtfully restored to preserve its historic character while offering modern comforts. As with many historic homes, you may notice charming architectural details and unique features that reflect its history.
+
+**Two-Story Home**
+The home spans two levels connected by an interior staircase. Two king bedrooms are located on the main floor and two king bedrooms are upstairs, making it an ideal layout for families, multiple couples, and friends traveling together.
+
+**Parking**
+Two designated parking spaces are included with your reservation. Additional street parking may also be available nearby, subject to city regulations.
+
+**Sensitive Plumbing**
+Like many historic homes, Kenneth Manor has older plumbing. To help prevent backups, please flush **toilet paper only**. Baby wipes, paper towels, feminine hygiene products, "flushable" wipes, and other items should be placed in the waste bins provided.
+
+**Quiet Hours**
+To help preserve the peaceful character of our neighborhood, we kindly ask that guests observe quiet hours between **9:00 PM and 9:00 AM**.
+
+**Smoke-Free Home**
+Kenneth Manor is a **100% smoke-free property**, including cigarettes, cigars, vaping, marijuana, and all other smoking products.
+
+**Weapons & Illegal Substances**
+For the safety and comfort of all guests, **firearms, weapons, and illegal substances are not permitted anywhere on the property.**
+
+**Pets**
+Approved pets are welcome! Please let us know before booking if you plan to bring a pet so we can confirm your reservation and apply the appropriate pet fee. Undisclosed pets are not permitted.
+
+**Packages & Mail**
+Packages and mail cannot be delivered to the property. If you need to receive an item during your stay, we're happy to recommend nearby Amazon Lockers, UPS Stores, or other secure pickup locations.
+
+**Security Cameras**
+For the safety and security of our guests and property, exterior security cameras monitor the front entrance, rear entrance, and parking areas. There are **no cameras or recording devices inside the home**.
+
+**Please Review Our House Rules**
+Before booking, we kindly ask that you review our complete House Rules. They cover important information about the home and help ensure a comfortable stay for you, your fellow travelers, and our neighbors.
+
+We look forward to welcoming you to Kenneth Manor and hope your stay is filled with wonderful memories.
+
+
+
+
+SVTR License # SVR-03027
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 6 | Count unverified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+Living room 1
+1 floor mattress
+
+Living room 2
+1 floor mattress
+
+What this place offers
+City skyline view
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV
+Washer
+Dryer
+Exterior security cameras on property
+Show all 78 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 38 reviews.
+5.0
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Parks
+5
+Location
+21
+Hospitality
+19
+Walkability
+11
+Comfort
+16
+Family
+14
+Cleanliness
+12
+Indoor spaces
+10
+Decor
+7
+Sleep quality
+8
+Stacey
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had a wonderful stay and would absolutely recommend this home! The property was very clean, spacious, and extremely comfortable. The beds were especially comfortable, which made for a great night’s sleep after a full day out.
+We also loved having two full kitchens—one upstairs and one downstairs. Although we didn’t cook during our stay, having a refrigerator on each floor was incredibly convenient and something we really appreciated. Our host was excellent from beginning to end—very communicative, accommodating, and easy to reach. He checked in with us regularly through the Airbnb chat to make sure everything was going well and that we had everything we needed, which was such a nice touch. Overall, we had a fantastic experience. The home had plenty of room for everyone to spread out and relax, and we felt very comfortable throughout our stay. We would definitely stay here again and highly recommend it to anyone looking for a clean, spacious, comfortable home with a great host.
+Show more
+Alicia
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Daniels place was a wonderful place to stay. We came for a girls weekend and there was plenty of space. Daniel was always responsive to any questions we had and check in was very easy. The surrounding neighbors were even so helpful and friendly to us while we were outside. I would stay here again if we are ever in the Savannah area. This was a great place for a girls trip.
+Show more
+Lori
+Miami, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+The home was beautiful, clean and had so many great amenities to enjoy. We wush we had more time to take advantage of everything it had to offer. Everything was thoughtfully prepared. We had a wonderful stay and would happily stay again. Highly recommend!
+Show more
+Lynsie Chia Yin
+12 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Overall a lovely stay. Decor is pretty much like the pics. Spacious bedrooms. Upstairs lounge kitchen was better for us socially. Very responsive hosts. We weren't too sure about the area initially but it was fine once we found our bearings. Close stroll to Forsyth park and for those who like to walk a bit more, you can get down towards the river and main High Street easily by continuing on. Takes about 17 to 25mins depending on how quickly you walk. Was good for us as we like to walk. Lyft or uber is like 5-7mins ride if you dont feel like walking. Cool place. Would recommend if you want to be on the cusp of it and dont mind a walk.
+Show more
+Jordan
+Haymarket, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Lovely spot, we enjoyed how close it was to Forsyth Park and not too far from downtown. It had everything for a comfortable 4 night stay
+Show more
+Maria
+Boca Raton, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Host was very responsive and helpful! He answered our questions and made sure we were comfortable and happy with our stay. The house is beautiful and just a couple of blocks away from the park. The property is modern, carefully decorated and spotless. My family and I had a great time and would be happy to go back to this place.
+Show more
+Show all 38 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+The Kenneth Manor is located in Savannah's beautiful Victorian District, one of the city's most charming and walkable historic neighborhoods.
+
+Just a short stroll from the iconic Forsyth Park, you'll find yourself surrounded by tree-lined streets, beautifully preserved Victorian homes, cozy cafés, local bakeries, boutiques, neighborhood restaurants, and the timeless charm that makes Savannah so unforgettable.
+
+Start your morning with coffee from a nearby café before wandering beneath the famous live oaks of Forsyth Park. Spend the afternoon exploring Savannah's historic squares, unique shops, museums, art galleries, and River Street, then enjoy an easy walk home through one of the city's most picturesque neighborhoods.
+
+Unlike staying in the busy downtown core, The Henry House offers the best of both worlds—a peaceful residential setting where you can truly relax, while still being close enough to experience everything Savannah has to offer.
+
+Whether you're visiting for a weekend getaway, reconnecting with family, or exploring the city with friends, you'll quickly discover why so many visitors fall in love with this neighborhood.
+Show more
+Meet your host
+Daniel
+Superhost
+319 reviews
+319
+Reviews
+4.97 out of 5 average rating
+4.97
+Rating
+1 year of hosting
+1
+Year hosting
+Daniel is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Mark
+Vilma
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

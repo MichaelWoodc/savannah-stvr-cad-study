@@ -1,0 +1,20 @@
+{
+  "focal_rental_parcels": 253,
+  "focal_types": {
+    "single_family": 249,
+    "duplex": 4
+  },
+  "residential_neighbor_links": 482,
+  "zero_neighbor_rentals": 9,
+  "unique_calls_in_included_neighborhoods": 43,
+  "call_memberships": 52,
+  "conflicting_call_numbers": 0,
+  "formula": "For each focal parcel: unique selected neighborhood calls / (1 + eligible touching neighbors); plots show arithmetic mean of these ratios within occupancy groups.",
+  "source_sha256": {
+    "raw_data/registvr_neighborhood_assessor.csv": "4d08137c6cd0c55b8c08ff9da7c782562117cc317b1238c395ebeb57b119580f",
+    "raw_data/registvr_neighborhood_realtor.csv": "5a7092c7111c13d1762989d19b37085079f730fbbfadc15213169fd00d83ad10",
+    "excluded_properties.csv": "2d0ec122bb34d7d123fa5e4206df26157ec3fc21d7710abcfb1524e04b8f7421",
+    "raw_data/CAD-log.xlsx": "2fab32a09b654fc49bef54418195c235c875221328d0c233bb793c5b278ce5d1",
+    "raw_data/Parcel_Digest_2025.geojson": "5b0d8d45109801bfea0741fbd4b717da8c87a0e83e222c9ec745e881ca9d6883"
+  }
+}

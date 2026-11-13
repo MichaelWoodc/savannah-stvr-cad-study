@@ -1,0 +1,449 @@
+URL: https://www.airbnb.com/rooms/1147071899759295272
+Title: Liberty Lane Cottage
+Latitude: 32.07324
+Longitude: -81.0883
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sam
+Host ID: 30127298
+Host profile ID: 1465443628953432844
+Host URL: https://www.airbnb.com/users/profile/1465443628953432844
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Located in the Landmark Historic District.  Walk to everything downtown historic savannah has to offer. Our beautiful cottage, built in 1885, is newly updated, very spacious and has lovely  furnishings. This cozy place is fully equipped for cooking, dining, and relaxing.  It is a separate building in the back of the main house with a courtyard entrance and outdoor sitting area. There is an additional private entrance onto the back lane.
+(SVR-03070)
+
+The space
+One queen size bed in separate bedroom and one bench seat couch with linens in the living room (see photos).
+
+The house is on a quiet historic street.   Parking is on the street.
+
+Guest access
+Guests may use the entire cottage, deck and courtyard area.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Drying rack for clothing
+Entertainment
+TV with Roku, Netflix, HBO Max
+Family
+Window guards
+Heating and cooling
+Air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker: drip coffee maker, french press
+Wine glasses
+Toaster
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Essentials
+Essentials
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+This place may not have a carbon monoxide detector. Reach out to the host with any questions.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Liberty Lane Cottage
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire guesthouse in Savannah, Georgia
+3 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.99 out of 5 stars.
+4.99
+173 reviews
+173
+Reviews
+Hosted by Sam
+Superhost · 2 years hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+Steps from Troup Square
+Right outside Troup Square, with the Cathedral of St. John the Baptist about a 5-min walk away
+Historic carriage house with courtyard
+A separate 1885 cottage with a courtyard entrance, patio seating, and a private back-lane entry
+Spotless, with a thoughtful host
+Guests call it clean, cozy, and well-stocked, and many highlight Sam as a responsive host
+Located in the Landmark Historic District.  Walk to everything downtown historic savannah has to offer. Our beautiful cottage, built in 1885, is newly updated, very spacious and has lovely  furnishings. This cozy place is fully equipped for cooking, dining, and relaxing.  It is a separate building in the back of the main house with a courtyard entrance and outdoor sitting area. There is an additional private entrance onto the back lane.
+(SVR-03070)
+
+The space
+One queen size bed in separate bedroom and one bench seat couch with linens in the living room (see photos).
+
+The house is on a quiet historic street.   Parking is on the street.
+
+Guest access
+Guests may use the entire cottage, deck and courtyard area.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV with Roku, Netflix, HBO Max
+Free washer – In unit
+Free dryer – In unit
+Air conditioning
+Patio or balcony
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 42 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.99 out of 5 from 173 reviews.
+4.99
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 99% of reviews
+5
+4 stars, 1% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+68
+Location
+86
+Cleanliness
+57
+Nearby
+25
+Quiet
+28
+Parking
+23
+Comfort
+41
+Hospitality
+61
+Decor
+18
+Amenities
+17
+Dawn
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed a few nights
+Adorable house with everything we needed for our three night stay. Clean, well equipped and quiet. A bit off the busiest areas which made it very quiet.
+Skyler
+Greenville, South Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Really appreciate how wonderful he stay was . So clean , so peaceful , and he helped get me my batteries back .
+Sama
+Austell, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed one night
+Wonderful spot!! Felt right at home. 
+Easy walk to restaurants, and river street. 
+Had a great time.
+Susan
+West Palm Beach, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+This cozy cottage is in a great location and is well equipped with everything needed for a comfortable stay. Sam is super friendly and gave us recommendations for nearby restaurants and activities. Would definitely stay here again!
+Show more
+Joe
+Charlotte, Vermont
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We had a great time here.  A beautiful, safe, comfortable place in a perfect location.
+Franca
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Stayed a few nights
+Sam's place was so very lovely, quiet, clean, charming and beautifully furnished. I would stay there again.
+Show all 173 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Sam
+Superhost
+173 reviews
+173
+Reviews
+4.99 out of 5 average rating
+4.99
+Rating
+2 years of hosting
+2
+Years hosting
+My work: Prof of Architecture
+Speaks English
+Happily enjoying people and places sharing this beautiful world.
+Sam is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm not reported
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Guesthouse vacation rentals in Savannah
+Guesthouse vacation rentals in Chatham County
+Guesthouse vacation rentals in Georgia
+Guesthouse vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

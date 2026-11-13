@@ -1,0 +1,479 @@
+URL: https://www.airbnb.com/rooms/1287635611768191242
+Title: Chatham Carriage - Vintage Charm on Quiet Square
+Latitude: 32.0714
+Longitude: -81.0978
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Welcome to Chatham Carriage
+
+Nestled just off Chatham Square and only two blocks from Forsyth Park, this beautifully remodeled retreat offers the perfect blend of charm and convenience. You're within easy walking distance to all that Downtown Savannah has to offer.
+
+The space
+🛏️ Sleep in Comfort
+The space features one Tuft & Needle memory foam bed for a restful night’s sleep, plus a comfortable full size sofa bed—ideal for couples, friends, or small families.
+
+🍳 Cook Like a Pro
+The kitchen is fully stocked with everything you need to prepare meals at home.
+
+📺 Stream in Style
+Log into your favorite apps on the smart TV and enjoy your shows just like at home.
+
+🧼 Pamper Yourself
+We provide ultra-plush towels and a complete suite of Public Goods care products—free from harmful chemicals and naturally scented with essential oils.
+
+📲 Effortless Check-In
+Our check-in and check-out process is fully digital for your convenience. Need anything? Just message us through the app and we’ll respond promptly.
+
+🚲 Explore on Two Wheels
+Two cruiser style bicycles are available for your riding pleasure. Simply message us for the lock code and enjoy Savannah on the go.
+
+STVR Certificate: SVR-03189
+
+Other things to note
+Bikes are available for your riding pleasure. Please message us to get the lock code for use.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Bedroom and laundry
+Washer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free street parking
+Paid parking off premises
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Chatham Carriage - Vintage Charm on Quiet Square
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+103 reviews
+103
+Reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Chatham Square, with Forsyth Park about a 5-min walk away
+Charming carriage house with character
+A fully stocked kitchen, soaking tub, and a private balcony off the bedroom
+Chaz is a responsive, hands-on host
+Guests highlight Chaz's responsiveness and how quickly issues are resolved
+Welcome to Chatham Carriage
+
+Nestled just off Chatham Square and only two blocks from Forsyth Park, this beautifully remodeled retreat offers the perfect blend of charm and convenience. You're within easy walking distance to all that Downtown Savannah has to offer.
+
+The space
+🛏️ Sleep in Comfort
+The space features one Tuft & Needle memory foam bed for a restful night’s sleep, plus a comfortable full size sofa bed—ideal for couples, friends, or small families.
+
+🍳 Cook Like a Pro
+The kitchen is fully stocked with everything you need to prepare meals at home.
+
+📺 Stream in Style
+Log into your favorite apps on the smart TV and enjoy your shows just like at home.
+
+🧼 Pamper Yourself
+We provide ultra-plush towels and a complete suite of Public Goods care products—free from harmful chemicals and naturally scented with essential oils.
+
+📲 Effortless Check-In
+Our check-in and check-out process is fully digital for your convenience. Need anything? Just message us through the app and we’ll respond promptly.
+
+🚲 Explore on Two Wheels
+Two cruiser style bicycles are available for your riding pleasure. Simply message us for the lock code and enjoy Savannah on the go.
+
+STVR Certificate: SVR-03189
+
+Other things to note
+Bikes are available for your riding pleasure. Please message us to get the lock code for use.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Washer
+Air conditioning
+Bathtub
+Private patio or balcony
+Shared backyard – Fully fenced
+Pack ’n play/Travel crib - always at the listing
+Show all 47 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 103 reviews.
+4.95
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+37
+Location
+63
+Parking
+19
+Parks
+7
+Hospitality
+50
+Comfort
+20
+Nearby
+16
+Accuracy
+14
+Quiet
+21
+Sleep quality
+13
+Cayla
+Lititz, Pennsylvania
+Rating, 5 stars
+,
+·
+4 days ago
+,
+·
+Stayed about a week
+We had a pleasant stay overall! The hosts were very responsive and accommodating when we had an issue with the thermostat upon arrival, and they took care of it promptly. We really appreciated their communication and willingness to help. Thank you for a nice stay!
+Show more
+Amanda
+Delanson, New York
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Our stay was perfect. We had everything we needed and the location was great!
+Yaninna
+Cleveland, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Thank you for opening your residence for us to stay in for a few days. We were able to maximize our experience here due to you being located in a great area. Everything was in walking distance. Would highly recommend to anyone else that desires to experience Savannah, GA.
+Show more
+Jaymes
+Columbus, Indiana
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with kids
+Very nice little place right in the middle of everything we wanted to do really! Beautiful area!
+Michael
+Birmingham, Alabama
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This was a very charming place. It was extremely comfortable, very clean and situated in a really good neighborhood.  The host was extremely responsive and helpful. I would recommend this place to anyone.
+Show more
+Ron & Deanna
+Moseley, Virginia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+The carriage house was exactly as described - beautifully decorated in a spacious, comfortable Savannah style. The fully equipped kitchen and coffee station were a great bonus. The neighborhood felt safe, with plenty of parks, restaurants, and attractions within easy walking distance. The air conditioning was very efficient, which was especially appreciated in the summer heat. Free parking was available nearby, though you'll need to pay attention to the varying street cleaning schedules. Overall, I would definitely recommend staying here.
+Show more
+Show all 103 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+The property is located in a quiet, primarily residential pocket of the historic district.
+Show more
+Meet your host
+Chaz
+Superhost
+3,099 reviews
+3099
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Some spaces are shared
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

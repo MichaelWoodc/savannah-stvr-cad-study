@@ -1,0 +1,342 @@
+URL: https://www.airbnb.com/rooms/1087832468175602645
+Title: Impeccable Luxury Mansion on Pulaski Square
+Latitude: 32.0738
+Longitude: -81.0965
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 8
+Occupancy (maximum guests): 16
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 9
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+The Bell Mansion on Pulaski Square is your own private slice of Savannah’s National Historic Landmark District. Built in 1854, this impeccably restored mansion is nestled on quiet Pulaski Square.
+
+The space
+The Bell Mansion on Pulaski Square is your own private slice of heaven in Savannah’s National Historic Landmark District. Built in 1854, this impeccably restored mansion is nestled on quiet Pulaski Square. Featuring floor to ceiling windows that boast with natural light, impressive 14-foot ceilings, original moldings and wood floors, you will appreciate the lovingly restored interiors that blend historic charm with modern luxury appointments. 
+
+The grand exterior staircase leads up to the second level entrance, which is deemed the parlor level here in the south. You'll find that the open floor plan on this level is an entertainers dream! The open gathering room and dining room create an inviting and intimate space, perfect for entertaining while enjoying mesmerizing views of Pulaski Square where you'll be transported through time. The kitchen is situated just at the back of the home, with high-end finished and appliances, such as marble countertops, a gas-range, and everything you need to prepare meals.
+
+Seven of the bedrooms are spread out amongst the four ravishing levels of the main home. The third floor has two King bedrooms, with luxurious ensuite bathrooms, an ample amount of closet space, and tasteful furnishings. The primary suite faces charming Pulaski Square, with a plush king size bed. Also on this floor, you'll find a small sitting room with a flat screen television and a wet bar with a wine cooler - a great space to hangout! Heading up to the fourth floor four additional bedrooms can be found, where guests will enjoying soaring views of the treelined streets, and two shared full bathrooms.
+
+Heading down to the garden level apartment, or first floor, this private retreat is the perfect place for family members with mobility issues as it has ground floor access. Packed with history and charm, the original historic beams and decorative brick fireplace, bring so much character to this quaint space. The thoughtfully chosen furnishings create a comfortable place to relax, and catch-up after a long day exploring the beautiful city. No detail was sparred while remodeling the kitchen - you'll have all of the modern conveniences one could ask for! The garden level apartment additionally features a cozy bedroom, with a queen size bed and full-size bathroom. 
+
+Across the enticing courtyard, you'll find a two-story carriage house where the eighth bedroom is located. The space features an inviting living room, where there is a lovely kitchen island with seating for two and a fully equipped kitchen with stainless steel appliances and granite countertops. Right up the staircase you'll find a large bedroom, that is fitted with a plush king bed, custom built-in shelves, and a spacious closet for all of your belongings. Adjacent to the bedroom, you'll find a full-size bathroom with a walk-in shower. 
+
+Whether you're here for a formal event, or family reunion, Bell Mansion on Pulaski Square is the perfect home for your party. Start your day of exploration through the squares as you venture down Barnard Street, that leads all the way to the river front. You’ll be a short walk from the Cathedral of St. John the Baptist, Forsyth Park, and so many other well known monuments and venues in Savannah.
+
+Sleeping Configuration:
+3rd Level:
+Bedroom 1 (Primary Suite): King Bed w/ Ensuite
+Bedroom 2: King Bed w/ Ensuite
+4th Level:
+Bedroom 3: 2 Twin Beds
+Bedroom 4: King Bed
+Bedroom 5: King Bed
+Bedroom 6: Queen Bed
+Garden Apartment:
+Bedroom 7: Queen Bed
+Carriage House:
+Bedroom 8: King Bed
+
+Parking:
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-02495
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Impeccable Luxury Mansion on Pulaski Square
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+16+ guests · 8 bedrooms · 9 beds · 8 baths
+No reviews yet
+No reviews yet
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+On Pulaski Square in Savannah
+Right on Pulaski Square, with Madison Square and Chippewa Square about a 5-min walk away
+Historic mansion with carriage house
+Built in 1854 with 14-foot ceilings, original moldings, and a courtyard leading to a carriage house
+Spread across two buildings
+Four levels in the main home, a garden apartment, and a separate carriage house with its own kitchen
+The Bell Mansion on Pulaski Square is your own private slice of Savannah’s National Historic Landmark District. Built in 1854, this impeccably restored mansion is nestled on quiet Pulaski Square.
+
+The space
+The Bell Mansion on Pulaski Square is your own private slice of heaven in Savannah’s National Historic Landmark District. Built in 1854, this impeccably restored mansion is nestled on quiet Pulaski Square. Featuring floor to ceiling windows that boast with natural light, impressive 14-foot ceilings, original moldings and wood floors, you will appreciate the lovingly restored interiors that blend historic charm with modern luxury appointments. 
+
+The grand exterior staircase leads up to the second level entrance, which is deemed the parlor level here in the south. You'll find that the open floor plan on this level is an entertainers dream! The open gathering room and dining room create an inviting and intimate space, perfect for entertaining while enjoying mesmerizing views of Pulaski Square where you'll be transported through time. The kitchen is situated just at the back of the home, with high-end finished and appliances, such as marble countertops, a gas-range, and everything you need to prepare meals.
+
+Seven of the bedrooms are spread out amongst the four ravishing levels of the main home. The third floor has two King bedrooms, with luxurious ensuite bathrooms, an ample amount of closet space, and tasteful furnishings. The primary suite faces charming Pulaski Square, with a plush king size bed. Also on this floor, you'll find a small sitting room with a flat screen television and a wet bar with a wine cooler - a great space to hangout! Heading up to the fourth floor four additional bedrooms can be found, where guests will enjoying soaring views of the treelined streets, and two shared full bathrooms.
+
+Heading down to the garden level apartment, or first floor, this private retreat is the perfect place for family members with mobility issues as it has ground floor access. Packed with history and charm, the original historic beams and decorative brick fireplace, bring so much character to this quaint space. The thoughtfully chosen furnishings create a comfortable place to relax, and catch-up after a long day exploring the beautiful city. No detail was sparred while remodeling the kitchen - you'll have all of the modern conveniences one could ask for! The garden level apartment additionally features a cozy bedroom, with a queen size bed and full-size bathroom. 
+
+Across the enticing courtyard, you'll find a two-story carriage house where the eighth bedroom is located. The space features an inviting living room, where there is a lovely kitchen island with seating for two and a fully equipped kitchen with stainless steel appliances and granite countertops. Right up the staircase you'll find a large bedroom, that is fitted with a plush king bed, custom built-in shelves, and a spacious closet for all of your belongings. Adjacent to the bedroom, you'll find a full-size bathroom with a walk-in shower. 
+
+Whether you're here for a formal event, or family reunion, Bell Mansion on Pulaski Square is the perfect home for your party. Start your day of exploration through the squares as you venture down Barnard Street, that leads all the way to the river front. You’ll be a short walk from the Cathedral of St. John the Baptist, Forsyth Park, and so many other well known monuments and venues in Savannah.
+
+Sleeping Configuration:
+3rd Level:
+Bedroom 1 (Primary Suite): King Bed w/ Ensuite
+Bedroom 2: King Bed w/ Ensuite
+4th Level:
+Bedroom 3: 2 Twin Beds
+Bedroom 4: King Bed
+Bedroom 5: King Bed
+Bedroom 6: Queen Bed
+Garden Apartment:
+Bedroom 7: Queen Bed
+Carriage House:
+Bedroom 8: King Bed
+
+Parking:
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-02495
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 9 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+No reviews (yet)
+This host has 9,302 reviews for other places to stay. Show other reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+No pets
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

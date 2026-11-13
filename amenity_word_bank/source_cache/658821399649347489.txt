@@ -1,0 +1,723 @@
+URL: https://www.airbnb.com/rooms/658821399649347489
+Title: Cozy Victorian District Carriage House
+Latitude: 32.05765
+Longitude: -81.09714
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Drayton Place Carriage House Unit 1 is a premier property for anyone searching for Savannah vacation rentals offering room for up to two guests. This studio suite comes with a fully updated interior, quaint outdoor courtyard, and entertainment features. The home's enviable location in Savannah's famed Thomas Square neighborhood places guests next door the vibrant Starland District.
+
+The space
+Enjoy your morning coffee beneath the striped umbrella at Drayton Place, Carriage Unit 1. This bright, beautifully decorated suite for two is near all the best Savannah has to offer in terms of dining, shopping and night life. Stroll the quiet neighborhoods of Thomas Square, and bask in the warm hospitality of Savannah vacation rentals. Ideal for a sweet weekend getaway or a longer, luxurious stay, Carriage Unit 1 has all the ingredients for making epic memories.
+
+
+
+The Accommodations
+
+
+
+As part of the Drayton Place estate, Carriage Unit 1 shares an upscale address with several other vacation rentals Savannah GA, but it stands alone as a lovely, convenient home base for your exciting stay. When you open the ground-level front door, you’ll be surrounded in the uplifting atmosphere of this spotless studio apartment for two.
+
+
+
+Featuring an ultra-modern barn door-style décor that harkens back to its roots as a carriage house, this stunning studio enjoys an open floor plan that belies the compact space. The comfy leather sofa and armchair invite you to take a deep breath and sink in. A large TV offers entertainment options, including streaming, as you wind down and let vacation mode kick in.
+
+
+
+Plenty of windows keep the space bright and enhance a sense of expanse. Adjacent to the living room, the convenience kitchen offers an induction burner, fridge/freezer, dishwasher, toaster oven and microwave as well as a coffee maker. Like all our Savannah vacation homes, the Carriage house kitchen includes dishes, cookware, a double sink and chef’s basics like herbs and spices.
+
+
+
+A sunny corner breakfast nook provides intimate seating for two beneath eye-catching, retro-style lighting. Brightly upholstered chairs, art, and a space-stretching mirror provide colorful counterpoints.
+
+
+
+The spacious king-sized bed is piled with fluffy pillows, promising restful nights. The ceiling fan above helps keep you cool and comfortable as you drift toward sleep.
+
+
+
+The bathroom is designed for two, from the double mirrors to the double sinks and shower. A clear glass wall partitions the space while maintaining an open-air vibe. A handy on-site laundry room includes a washer and dryer and a shelf for extra bedding, towels and an iron for your use.
+
+
+
+A large, enclosed brick courtyard provides a common area for conversations, soaking up some sun and socializing with other Savannah vacation rentals guests, if you like. Enjoy cool mornings and romantic evenings at the lovely wrought iron bistro table just steps from your front door. Try your hand at some outdoor grilling on the shared gas barbeque. Also, just a scenic drive away, our private pool awaits, reserved exclusively for the use of our guests at vacation rentals Savannah GA.
+
+
+
+Your Savannah Itinerary
+
+
+
+A tour of the Savannah Historic District’s 22 town squares is a great starting point for your Savannah vacation itinerary. Walk a few blocks to Forsyth Park where you can board the free shuttle. Get on and off as many times as it takes to explore the delights of every square to your satisfaction.
+
+
+
+Some squares, such as Lafayette, border must-see destinations such as the Cathedral of St. John the Baptist. Others, like Pulaski Square, feature shady benches among blooming flowers and foliage. Grab some lunch to go along the way, and spend some time drinking in the Southern culture as you make your way around town.
+
+
+
+The Thomas Square Streetcar Historic District, which surrounds the Drayton Place estate, is one of the hottest up-and-coming areas of the city. Its eclectic mix of restaurants, shopping and points of interest makes it a favorite of Savannah vacation rentals guests as well.
+
+
+
+Once a suburb of Savannah, electric streetcar lines connected it to the city proper in 1888. One of the highlights of this popular district is the Savannah African Art Museum on 37th street. It has over 1,000 artifacts on exhibit from West and Central African locations, including ceremonial and religious items from the past two centuries. Be sure to drop by for its Juneteenth celebration if your visit coincides with that holiday.
+
+
+
+Take in some of the restaurants in the nearby Starland District of Savannah where residents and guests of Savannah vacation homes love to converge. For example, lunch at the Starland Café in a gracious Victorian-style location on E. 41st Street. Splurge on a fine dining experience at Elizabeth on 37th, or drop by Back In the Day Bakery on Bull Street for a Saturday afternoon pick-me up.
+
+
+
+Browse local art at The Hidden Hand Society on DeSoto Street, or feed your own creative appetite with art supplies from Starlandia on Bull Street. Shop for one-of-a-kind finds at one of the Starland District boutiques like Gypsy World Savannah on Bull Street.
+
+
+
+Go antiquing during your vacation homes Savannah GA stay at nearby emporiums like Picker Joe’s Antique Mall & Vintage Market on 41st street. Drop by Habersham Antique Market & Collectibles on Habersham Street for more vintage shopping options.
+
+
+
+When you’re ready to explore areas further afield, take a drive to nearby Tybee Island, where you can enjoy time at our exclusive pool facility or go beachcombing along the Atlantic shore. Be sure to bring your walking shoes so you can explore the nature trails along the northern end of the Island.
+
+
+
+Be sure to contact us at Southern Belle Vacation Rentals to reserve your time at Drayton Place, Carriage Unit 1. Our Savannah vacation homes fill up early, so get in touch today.
+
+
+
+SVR-02264
+
+Guest access
+Occupancy: 2
+
+Living area features seating and smart TV with streaming access
+
+Fully equipped kitchenette with induction burner, fridge, microwave, toaster oven, coffee maker, and dishwasher (no stove or oven)
+
+King size bed
+
+Full bathroom with tiled walk in shower
+
+Washer/Dryer in unit
+
+Dog friendly for additional fee (up to 2 dogs, combined weight can be no more that 50lbs)
+
+Private entry in secure building, apartment located on first floor
+
+Outdoor space: Shared courtyard with gas grill, seating and cafe lights
+
+Parking: Shared off street parking pad for 1 vehicle only, first-come, first serve; additional free parking on street
+
+Location: Starland District; You will find great local restaurants, shopping, coffee shops, and more right outside your door! Situated next door to Thomas Square Park.
+
+Please note that this property is equipped with exterior security cameras for the safety and security of our guests and the property.
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Free street parking
+Pool
+Single level home
+No stairs in home
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Cozy Victorian District Carriage House
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Rated 4.76 out of 5 stars.
+4.76
+·
+51 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Thomas Square, near Forsyth Park
+Thomas Park is steps away, and Forsyth Park is about a 10-min walk for the free downtown shuttle.
+Converted carriage house studio
+A converted carriage house with an open layout, king bed, and barn door-style details throughout.
+Consistently clean and well-kept
+Guests consistently highlight how clean and well-maintained the space is.
+Drayton Place Carriage House Unit 1 is a premier property for anyone searching for Savannah vacation rentals offering room for up to two guests. This studio suite comes with a fully updated interior, quaint outdoor courtyard, and entertainment features. The home's enviable location in Savannah's famed Thomas Square neighborhood places guests next door the vibrant Starland District.
+
+The space
+Enjoy your morning coffee beneath the striped umbrella at Drayton Place, Carriage Unit 1. This bright, beautifully decorated suite for two is near all the best Savannah has to offer in terms of dining, shopping and night life. Stroll the quiet neighborhoods of Thomas Square, and bask in the warm hospitality of Savannah vacation rentals. Ideal for a sweet weekend getaway or a longer, luxurious stay, Carriage Unit 1 has all the ingredients for making epic memories.
+
+
+
+The Accommodations
+
+
+
+As part of the Drayton Place estate, Carriage Unit 1 shares an upscale address with several other vacation rentals Savannah GA, but it stands alone as a lovely, convenient home base for your exciting stay. When you open the ground-level front door, you’ll be surrounded in the uplifting atmosphere of this spotless studio apartment for two.
+
+
+
+Featuring an ultra-modern barn door-style décor that harkens back to its roots as a carriage house, this stunning studio enjoys an open floor plan that belies the compact space. The comfy leather sofa and armchair invite you to take a deep breath and sink in. A large TV offers entertainment options, including streaming, as you wind down and let vacation mode kick in.
+
+
+
+Plenty of windows keep the space bright and enhance a sense of expanse. Adjacent to the living room, the convenience kitchen offers an induction burner, fridge/freezer, dishwasher, toaster oven and microwave as well as a coffee maker. Like all our Savannah vacation homes, the Carriage house kitchen includes dishes, cookware, a double sink and chef’s basics like herbs and spices.
+
+
+
+A sunny corner breakfast nook provides intimate seating for two beneath eye-catching, retro-style lighting. Brightly upholstered chairs, art, and a space-stretching mirror provide colorful counterpoints.
+
+
+
+The spacious king-sized bed is piled with fluffy pillows, promising restful nights. The ceiling fan above helps keep you cool and comfortable as you drift toward sleep.
+
+
+
+The bathroom is designed for two, from the double mirrors to the double sinks and shower. A clear glass wall partitions the space while maintaining an open-air vibe. A handy on-site laundry room includes a washer and dryer and a shelf for extra bedding, towels and an iron for your use.
+
+
+
+A large, enclosed brick courtyard provides a common area for conversations, soaking up some sun and socializing with other Savannah vacation rentals guests, if you like. Enjoy cool mornings and romantic evenings at the lovely wrought iron bistro table just steps from your front door. Try your hand at some outdoor grilling on the shared gas barbeque. Also, just a scenic drive away, our private pool awaits, reserved exclusively for the use of our guests at vacation rentals Savannah GA.
+
+
+
+Your Savannah Itinerary
+
+
+
+A tour of the Savannah Historic District’s 22 town squares is a great starting point for your Savannah vacation itinerary. Walk a few blocks to Forsyth Park where you can board the free shuttle. Get on and off as many times as it takes to explore the delights of every square to your satisfaction.
+
+
+
+Some squares, such as Lafayette, border must-see destinations such as the Cathedral of St. John the Baptist. Others, like Pulaski Square, feature shady benches among blooming flowers and foliage. Grab some lunch to go along the way, and spend some time drinking in the Southern culture as you make your way around town.
+
+
+
+The Thomas Square Streetcar Historic District, which surrounds the Drayton Place estate, is one of the hottest up-and-coming areas of the city. Its eclectic mix of restaurants, shopping and points of interest makes it a favorite of Savannah vacation rentals guests as well.
+
+
+
+Once a suburb of Savannah, electric streetcar lines connected it to the city proper in 1888. One of the highlights of this popular district is the Savannah African Art Museum on 37th street. It has over 1,000 artifacts on exhibit from West and Central African locations, including ceremonial and religious items from the past two centuries. Be sure to drop by for its Juneteenth celebration if your visit coincides with that holiday.
+
+
+
+Take in some of the restaurants in the nearby Starland District of Savannah where residents and guests of Savannah vacation homes love to converge. For example, lunch at the Starland Café in a gracious Victorian-style location on E. 41st Street. Splurge on a fine dining experience at Elizabeth on 37th, or drop by Back In the Day Bakery on Bull Street for a Saturday afternoon pick-me up.
+
+
+
+Browse local art at The Hidden Hand Society on DeSoto Street, or feed your own creative appetite with art supplies from Starlandia on Bull Street. Shop for one-of-a-kind finds at one of the Starland District boutiques like Gypsy World Savannah on Bull Street.
+
+
+
+Go antiquing during your vacation homes Savannah GA stay at nearby emporiums like Picker Joe’s Antique Mall & Vintage Market on 41st street. Drop by Habersham Antique Market & Collectibles on Habersham Street for more vintage shopping options.
+
+
+
+When you’re ready to explore areas further afield, take a drive to nearby Tybee Island, where you can enjoy time at our exclusive pool facility or go beachcombing along the Atlantic shore. Be sure to bring your walking shoes so you can explore the nature trails along the northern end of the Island.
+
+
+
+Be sure to contact us at Southern Belle Vacation Rentals to reserve your time at Drayton Place, Carriage Unit 1. Our Savannah vacation homes fill up early, so get in touch today.
+
+
+
+SVR-02264
+
+Guest access
+Occupancy: 2
+
+Living area features seating and smart TV with streaming access
+
+Fully equipped kitchenette with induction burner, fridge, microwave, toaster oven, coffee maker, and dishwasher (no stove or oven)
+
+King size bed
+
+Full bathroom with tiled walk in shower
+
+Washer/Dryer in unit
+
+Dog friendly for additional fee (up to 2 dogs, combined weight can be no more that 50lbs)
+
+Private entry in secure building, apartment located on first floor
+
+Outdoor space: Shared courtyard with gas grill, seating and cafe lights
+
+Parking: Shared off street parking pad for 1 vehicle only, first-come, first serve; additional free parking on street
+
+Location: Starland District; You will find great local restaurants, shopping, coffee shops, and more right outside your door! Situated next door to Thomas Square Park.
+
+Please note that this property is equipped with exterior security cameras for the safety and security of our guests and the property.
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.76 out of 5 stars from 51 reviews
+4.76 · 51 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 80% of reviews
+5
+4 stars, 16% of reviews
+4
+3 stars, 4% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+18
+Parking
+13
+Cleanliness
+22
+Noise
+8
+Location
+19
+Indoor spaces
+9
+Nearby
+9
+Accuracy
+8
+Sleep quality
+9
+Comfort
+11
+Erica
+Livonia, New York
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed about a week
+Great spot for visiting Savannah, was very clean and has everything you need and the added bonus of the pool at tybee if you’re taking a trip on your stay is a plus. Was able to easily walk from apartment to downtown, and has restaurants in the surrounding blocks if you don’t feel like taking the walk all the way to main downtown area . Only negatives which are minor is you can hear light traffic noise as some others have stated and waking home at night felt a little uneasy at some points. Would definitely recommend!
+Show more
+Bettina Maria
+1 month on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Very nice and clean room. I would rent again at any time.
+We are very satisfied.
+Show more
+William
+3 months on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Stay for about a week and the place was exactly as adverstised. It was clean and tidy and is in a great location. Host was quick to respond and very helpful. Parking can be a little tricky if youre not good with tighter spaces but there are plenty of street options nearby. 10/10 would book again.
+Show more
+Jordan
+Boone, North Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed about a week
+The place was absolutely perfect! Parking was always available and unit itself was super clean and adorable. I would absolutely recommend staying here!
+Grace
+Denver, Colorado
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Staying at Southern Belle was a wonderful experience! The place was impeccably clean. There is a unit above this one, no one was renting it during our stay. 
+There are many well detailed institutions for the listing and in the home. I appreciated the thorough, well-thoughtout binder the host provided of local spots and information!
+Show more
+Mary Beth
+Little Rock, Arkansas
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+We really enjoyed our stay the Drayton Place carriage house. Everything was exactly as described and exactly what we needed!
+Show all 51 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Vacation rentals with a pool in Chatham County
+Apartment vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

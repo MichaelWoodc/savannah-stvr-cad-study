@@ -1,0 +1,446 @@
+URL: https://www.airbnb.com/rooms/43925232
+Title: Quiet Townhome One Block From Forsyth Park
+Latitude: 32.0699
+Longitude: -81.0972
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Off the beaten path, this charming townhome is filled with character. Centrally located and nestled away on a quiet street, Forsyth Place is your next home away from home!
+
+The space
+Nestled away on quiet street this charming town home is filled with character. An idyllic getaway for a family of four just steps away from the park, surrounded by divine historic homes. Take a stroll beneath the Spanish Moss Trees, and amongst some of the wealthiest homes on Gaston Street.
+
+Enter and step right into the heart home! The open living space is an inviting area to plan your ventures, or catch up to share your favorite part of the day with your group. The large solid wood dining room table is great to host dinners, and enjoy your family cooked meals. The kitchen sits just on the other side, where you'll have plenty of room to prepare meals and a brew a fresh pot of local coffee! You can enjoy your meals, or morning cup of joe at the bistro set in the kitchen, or the private courtyard that sits behind the home. 
+
+Upstairs you'll find two bedrooms with comfortable furnishings. The first bedroom sits at the front of the home, boasts with natural light, offers a queen size bed, and ample closet space. Across the hall, you can find a bathroom with tub and shower combination. Toward the back of the home, the primary bedroom awaits you - A large plush queen size bed, with walk-in closet, wardrobe and ensuite bathroom. Don't forget about your small private balcony, that can be opened to enjoy the birds whistling and views of the treelined courtyard. 
+
+Enjoy being just a short walk to Forsyth Park, and the Farmers Market that takes place on Saturday mornings. Looking for a coffee shop to kick your day off? Head over to Sentient Bean, just at the end of Forsyth, or Collins Quarters at The Park. Feel like venturing downtown? Start at Bull Street and head South walking through each square until you reach Broughton Street!
+
+What is parking like for this home?
+Parking is non-metered, on-street. Please be sure to pay close attention to street signs when parking. Street signs state when the street cleaners come, and require you to move your vehicle to an opposite street.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+
+SVR-00064
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Quiet Townhome One Block From Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Rated 4.87 out of 5 stars.
+4.87
+·
+15 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+Steps from Forsyth Park
+Steps from Forsyth Park, with Savannah's historic squares and downtown within easy walking distance
+Townhome with a private courtyard
+A private courtyard behind the home for morning coffee or unwinding after a day of exploring
+Guests keep coming back
+Guests highlight the walkability and how close everything is, with many saying they'd stay again
+Off the beaten path, this charming townhome is filled with character. Centrally located and nestled away on a quiet street, Forsyth Place is your next home away from home!
+
+The space
+Nestled away on quiet street this charming town home is filled with character. An idyllic getaway for a family of four just steps away from the park, surrounded by divine historic homes. Take a stroll beneath the Spanish Moss Trees, and amongst some of the wealthiest homes on Gaston Street.
+
+Enter and step right into the heart home! The open living space is an inviting area to plan your ventures, or catch up to share your favorite part of the day with your group. The large solid wood dining room table is great to host dinners, and enjoy your family cooked meals. The kitchen sits just on the other side, where you'll have plenty of room to prepare meals and a brew a fresh pot of local coffee! You can enjoy your meals, or morning cup of joe at the bistro set in the kitchen, or the private courtyard that sits behind the home. 
+
+Upstairs you'll find two bedrooms with comfortable furnishings. The first bedroom sits at the front of the home, boasts with natural light, offers a queen size bed, and ample closet space. Across the hall, you can find a bathroom with tub and shower combination. Toward the back of the home, the primary bedroom awaits you - A large plush queen size bed, with walk-in closet, wardrobe and ensuite bathroom. Don't forget about your small private balcony, that can be opened to enjoy the birds whistling and views of the treelined courtyard. 
+
+Enjoy being just a short walk to Forsyth Park, and the Farmers Market that takes place on Saturday mornings. Looking for a coffee shop to kick your day off? Head over to Sentient Bean, just at the end of Forsyth, or Collins Quarters at The Park. Feel like venturing downtown? Start at Bull Street and head South walking through each square until you reach Broughton Street!
+
+What is parking like for this home?
+Parking is non-metered, on-street. Please be sure to pay close attention to street signs when parking. Street signs state when the street cleaners come, and require you to move your vehicle to an opposite street.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+
+SVR-00064
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.87 out of 5 stars from 15 reviews
+4.87 · 15 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 7% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+8
+Parks
+3
+Location
+10
+Cleanliness
+8
+Parking
+3
+Kitchen
+3
+Check-in
+2
+Wifi
+2
+Accuracy
+2
+Nearby
+2
+Simon
+Irvine, California
+Rating, 3 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+The PROS:
+Great location in Savannah, right outside Forsyth Park. The house itself has a great historic feel to it, in tune with Savannah history. This is the main reason we picked this place. 
+The house was clean and pretty easy to get into.
+The CONS:
+The WiFi is completely UNUSABLE. In this day and age, this is no longer acceptable. I'm not talking about just being slow (which it is), but emails and websites are not even loading at all in any consistent manner. 
+The house is extremely poorly equipped. There are probably 8 bottle openers, but only 2 coasters and not even placemats or a tablecloth. And ZERO spices.
+Another thing that stood out, is how stingy the allotment for cleaning products is. I understand some guests would probably plunder the box for dishwasher tablets, but at least allow for more than 1 run of the dishwasher per day.
+Show more
+Heather
+Carlsbad, California
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Beautiful house in a great location! Lots of communication from the property mgt team.
+Show more
+Sally
+Greensboro, North Carolina
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+The condo was just as described. The location could not have been better. It was lovely that there was parking right outside the door. The beds were comfortable and the small patio was enjoyable. The communication and logistics for arrival were simple and clear. Nice place.
+Show more
+Sherri
+11 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Beautiful townhome in beautiful area. Nice walk to restaurants and shopping. We’d stay here again. Thank you!
+Show more
+Joseph
+Richmond, Virginia
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Great Place. Clean. Secure. On-street parking was very easy (spots open in front of place - only one night where there is street cleaning). Easy walks to all the fun.
+Show more
+Brent
+Euless, Texas
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Convenient location. Clean and roomy.  Let us store our luggage before our return flight.  We would stay here again.
+Show more
+Show all 15 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

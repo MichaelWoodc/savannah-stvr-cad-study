@@ -1,0 +1,740 @@
+URL: https://www.airbnb.com/rooms/995566123657952103
+Title: Modern Broughton Loft with Southern Charm
+Latitude: 32.0809
+Longitude: -81.09319
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Undeniably, this property reflects historical Savannah with black-and-white photos gracing the walls and brick accents defining the surroundings. Huge windows providing you with a view of the surrounding city will also create bright light in this cheery living room. Relax on the couch, or stretch out on the armchairs as you flip on the flat-screen TV.
+
+The space
+A Southern Escape at Broughton Haven
+
+
+
+Picture yourself in Downtown Savannah, Georgia, where you can see the historic Savannah River outside your modern vacation home. With that, welcome to Broughton Haven. This second-floor apartment is just steps away from Ellis Square, eateries and all the excitement the South brings you. Explore our Savannah vacation homes for your next retreat.
+
+
+
+Modern Downtown Glamour
+
+
+
+At the corner of Broughton and Barnard Streets, discover our two-bedroom vacation home. Enter at the street-level side door, and venture up to apartment 203. Meeting with a property manager isn't necessary because our vacation rentals Savannah GA include an easy-access keypad. With your proprietary code, step into the hallway that leads into the main living space.
+
+
+
+Undeniably, this property reflects historical Savannah with black-and-white photos gracing the walls and brick accents defining the surroundings. Huge windows providing you with a view of the surrounding city will also create bright light in this cheery living room. Relax on the couch, or stretch out on the armchairs as you flip on the flat-screen TV. Look upward to see how modern ventilation was installed in this vintage building, which provides comfortable heating and air conditioning whenever necessary. Alternatively, use the ceiling fans on more moderate days.
+
+
+
+Next, step into the kitchen just behind the couch. Our Savannah vacation rentals offer an open concept at this property, which creates a conversational flow throughout your stay. Hop up at the breakfast bar that doubles as a kitchen island. Hang out, eat or prepare food at the breakfast bar that seats up to six people.
+
+
+
+Remarkably, the kitchen comes fully equipped. Find pots, pans, plates and utensils in their respective drawers and cabinets. In addition, the space includes a refrigerator, coffee maker, oven, stove, dishwasher and microwave. Truthfully, you only need groceries to move into this kitchen.
+
+
+
+Next, slide open the barn door connecting the kitchen to the two bedrooms. Both bedrooms include plenty of linens, blankets and towels for your convenience. Also, the bedrooms include king-size beds and flat-screen TVs. Because this property can accommodate up to six people, the couch also converts into a sleeper sofa.
+
+
+
+The master bedroom has an attached en suite bathroom. For example, take a luxurious bath in the separate tub or clean up in the nearby shower. Alternatively, the other bathroom includes a shower/tub combination. Altogether, these bathrooms are quite roomy to share for a relaxing vacation.
+
+
+
+If you get the urge to do some laundry, a hidden nook contains both a washer, dryer and extra storage. Additionally, use the included iron and ironing board to look your best. Whether you stay for a few days or a week, Broughton Haven has all the essentials.
+
+
+
+A Hidden Oasis
+
+
+
+It's no secret that Downtown Savannah is a densely populated area, which means an outdoor retreat isn't always possible at the property. However, our Savannah vacation rentals have a hidden oasis found at 19 Silver Avenue on Tybee Island, Georgia.
+
+
+
+Discover our resort-style pool and lounge area located just 20 to 30 minutes from Broughton Haven. It's a large, heated pool with shallow and deep ends. In addition, plenty of lounge chairs and umbrellas surround this cool retreat.
+
+
+
+Furthermore, we've installed a grill at the pool so that you can make a day out of your visit. For example, bring hot dogs, steaks or any other grill-worthy ingredient to feed your hungry group.
+
+
+
+Without a doubt, this is a private pool that's reserved only for our Savannah vacation homes guests. Indeed, it's gated and an access code is necessary to enter. As a result, you can spread out without worrying about space. It's available during the warmer season.
+
+
+
+Southern Hospitality Outside Your Door
+
+
+
+If you parked in the metered parking outside Broughton Haven, keep your spot because most attractions are within walking distance. Naturally, you're situated in the historic district where you can find many museums, such as Webb Military and SCAD Museum of Art. Consider visiting a few historic homes preserved around the city, such as Owens-Thomas or Sorrel Weed Houses. Learning about Savannah's history gives you a greater understanding of the culture and people.
+
+
+
+Certainly, this city is known for its walking tours. From architecture to haunted houses, these tours involve unique subjects famous in Savannah. They're available during the day or night, depending on the subject matter.
+
+
+
+One of the most popular attractions in town is River Street. Head over to the edge of the Savannah River for many hours of shopping, eating, drinking and exciting activities. Live music, bars and even candy shops are also big draws. If you're interested in a throwback to another time, then consider a riverboat cruise. These huge, white vessels slowly cruise down the waterway while you enjoy the ride, a sunset view or other diversion.
+
+
+
+When you want to venture outside the city, travel toward the Atlantic Ocean's coast. Of course, Tybee Island and our resort-style pool reside in this region, but there are also marshes and preserves for wildlife watching. Bring your binoculars to see birds along the shoreline and dolphins just off the coast, for instance. Savannah is an eclectic collection of history, people, flora and fauna for your vacation pleasures.
+
+
+
+Book vacation rentals Savannah GA with ease by clicking on your desired dates. Broughton Haven is a property that's perfectly located in the heart of Downtown where you can explore both historic and modern attractions. The first city in Georgia welcomes you anytime.
+
+Guest access
+Occupancy: 4
+
+TV room in with large flatscreen
+
+Variety of comfortable seating options
+
+Full kitchen equipped with cooking essentials and bar seating for four 
+
+Breakfast bar with seating for six
+
+Bedroom 1: King bed, en suite full bathroom with garden tub and separate shower
+
+Bedroom 2: King bed
+
+Additional sleeping accommodation: Sleeper sofa
+
+Washer/dryer
+
+Special amenities: Amazing location downtown Savannah, walk to restaurants, boutiques, museums
+
+Parking: Metered street parking.
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+
+
+SVR-02864
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free street parking
+Pool
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Modern Broughton Loft with Southern Charm
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+97 reviews
+97
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In downtown Savannah's historic district
+Ellis Square and City Market are steps away, with River Street about a 5-min walk
+Full kitchen with in-unit laundry
+A fully equipped kitchen with a breakfast bar, plus in-unit washer and dryer
+Highly rated across dozens of stays
+Guests consistently highlight the walkability, cleanliness, and comfortable beds
+Undeniably, this property reflects historical Savannah with black-and-white photos gracing the walls and brick accents defining the surroundings. Huge windows providing you with a view of the surrounding city will also create bright light in this cheery living room. Relax on the couch, or stretch out on the armchairs as you flip on the flat-screen TV.
+
+The space
+A Southern Escape at Broughton Haven
+
+
+
+Picture yourself in Downtown Savannah, Georgia, where you can see the historic Savannah River outside your modern vacation home. With that, welcome to Broughton Haven. This second-floor apartment is just steps away from Ellis Square, eateries and all the excitement the South brings you. Explore our Savannah vacation homes for your next retreat.
+
+
+
+Modern Downtown Glamour
+
+
+
+At the corner of Broughton and Barnard Streets, discover our two-bedroom vacation home. Enter at the street-level side door, and venture up to apartment 203. Meeting with a property manager isn't necessary because our vacation rentals Savannah GA include an easy-access keypad. With your proprietary code, step into the hallway that leads into the main living space.
+
+
+
+Undeniably, this property reflects historical Savannah with black-and-white photos gracing the walls and brick accents defining the surroundings. Huge windows providing you with a view of the surrounding city will also create bright light in this cheery living room. Relax on the couch, or stretch out on the armchairs as you flip on the flat-screen TV. Look upward to see how modern ventilation was installed in this vintage building, which provides comfortable heating and air conditioning whenever necessary. Alternatively, use the ceiling fans on more moderate days.
+
+
+
+Next, step into the kitchen just behind the couch. Our Savannah vacation rentals offer an open concept at this property, which creates a conversational flow throughout your stay. Hop up at the breakfast bar that doubles as a kitchen island. Hang out, eat or prepare food at the breakfast bar that seats up to six people.
+
+
+
+Remarkably, the kitchen comes fully equipped. Find pots, pans, plates and utensils in their respective drawers and cabinets. In addition, the space includes a refrigerator, coffee maker, oven, stove, dishwasher and microwave. Truthfully, you only need groceries to move into this kitchen.
+
+
+
+Next, slide open the barn door connecting the kitchen to the two bedrooms. Both bedrooms include plenty of linens, blankets and towels for your convenience. Also, the bedrooms include king-size beds and flat-screen TVs. Because this property can accommodate up to six people, the couch also converts into a sleeper sofa.
+
+
+
+The master bedroom has an attached en suite bathroom. For example, take a luxurious bath in the separate tub or clean up in the nearby shower. Alternatively, the other bathroom includes a shower/tub combination. Altogether, these bathrooms are quite roomy to share for a relaxing vacation.
+
+
+
+If you get the urge to do some laundry, a hidden nook contains both a washer, dryer and extra storage. Additionally, use the included iron and ironing board to look your best. Whether you stay for a few days or a week, Broughton Haven has all the essentials.
+
+
+
+A Hidden Oasis
+
+
+
+It's no secret that Downtown Savannah is a densely populated area, which means an outdoor retreat isn't always possible at the property. However, our Savannah vacation rentals have a hidden oasis found at 19 Silver Avenue on Tybee Island, Georgia.
+
+
+
+Discover our resort-style pool and lounge area located just 20 to 30 minutes from Broughton Haven. It's a large, heated pool with shallow and deep ends. In addition, plenty of lounge chairs and umbrellas surround this cool retreat.
+
+
+
+Furthermore, we've installed a grill at the pool so that you can make a day out of your visit. For example, bring hot dogs, steaks or any other grill-worthy ingredient to feed your hungry group.
+
+
+
+Without a doubt, this is a private pool that's reserved only for our Savannah vacation homes guests. Indeed, it's gated and an access code is necessary to enter. As a result, you can spread out without worrying about space. It's available during the warmer season.
+
+
+
+Southern Hospitality Outside Your Door
+
+
+
+If you parked in the metered parking outside Broughton Haven, keep your spot because most attractions are within walking distance. Naturally, you're situated in the historic district where you can find many museums, such as Webb Military and SCAD Museum of Art. Consider visiting a few historic homes preserved around the city, such as Owens-Thomas or Sorrel Weed Houses. Learning about Savannah's history gives you a greater understanding of the culture and people.
+
+
+
+Certainly, this city is known for its walking tours. From architecture to haunted houses, these tours involve unique subjects famous in Savannah. They're available during the day or night, depending on the subject matter.
+
+
+
+One of the most popular attractions in town is River Street. Head over to the edge of the Savannah River for many hours of shopping, eating, drinking and exciting activities. Live music, bars and even candy shops are also big draws. If you're interested in a throwback to another time, then consider a riverboat cruise. These huge, white vessels slowly cruise down the waterway while you enjoy the ride, a sunset view or other diversion.
+
+
+
+When you want to venture outside the city, travel toward the Atlantic Ocean's coast. Of course, Tybee Island and our resort-style pool reside in this region, but there are also marshes and preserves for wildlife watching. Bring your binoculars to see birds along the shoreline and dolphins just off the coast, for instance. Savannah is an eclectic collection of history, people, flora and fauna for your vacation pleasures.
+
+
+
+Book vacation rentals Savannah GA with ease by clicking on your desired dates. Broughton Haven is a property that's perfectly located in the heart of Downtown where you can explore both historic and modern attractions. The first city in Georgia welcomes you anytime.
+
+Guest access
+Occupancy: 4
+
+TV room in with large flatscreen
+
+Variety of comfortable seating options
+
+Full kitchen equipped with cooking essentials and bar seating for four 
+
+Breakfast bar with seating for six
+
+Bedroom 1: King bed, en suite full bathroom with garden tub and separate shower
+
+Bedroom 2: King bed
+
+Additional sleeping accommodation: Sleeper sofa
+
+Washer/dryer
+
+Special amenities: Amazing location downtown Savannah, walk to restaurants, boutiques, museums
+
+Parking: Metered street parking.
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+
+
+SVR-02864
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+Pool
+TV
+Elevator
+Washer
+Dryer
+Air conditioning
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 97 reviews.
+4.92
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 94% of reviews
+5
+4 stars, 5% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+37
+Location
+81
+Parking
+13
+Pool
+6
+Cleanliness
+26
+Parks
+3
+Nearby
+15
+Comfort
+16
+Noise
+12
+Hospitality
+22
+Kimberly
+Fairview, Oklahoma
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great location. Great communication.  Loved the access to pool on Tybee.  Perfect for our girls trip.
+Show more
+Edna
+Waverly Hall, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Our Airbnb was perfectly placed. It was a short walk to River St. Had alot of shops and resturants within walking distance. The place was very clean and comfortable for our party. Had all the amenities we needed. Easy to get in with the instructions provided. Had such a wonderful time and would diffently stay with them again...
+Show more
+Libby
+Winter Haven, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Amazing stay! So close to everything. The house was beautiful and had everything we needed.
+Brittni
+Augusta, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+The location is perfect, for wanting to tour around the historic district. The apartment is clean, homey, and secure. The point of contact is very helpful and quick to respond. We really appreciated the parking pass, and being able to use the pool on Tybee. Overall, a great rental and would definitely recommend.
+Show more
+Samantha
+Toronto, Canada
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Agreeing with some of the other comments here.  Great location and very nice place.   Master barn door allows too much noise when others are in the kitchen.  The unit is on the second floor of an old (beautiful) building and you can hear every step of the people upstairs who were up at all times of the night and start their days very early in the AM.  Noise machines help but not enough.  The sound from outside is totally tolerable.  Highly recommend for very solid sleepers but not  won’t be for light sleepers who want more than a few hours uninterrupted.
+Show more
+Brett
+Carrollton, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Our place was right in the heart of The Historic District and so close to everything! The Southern Bells were always accessible when we had questions or needed anything. Our stay couldn’t have been any better.
+Show more
+Show all 97 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Condo vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Vacation rentals with a pool in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

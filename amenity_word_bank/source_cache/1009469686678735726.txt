@@ -1,0 +1,439 @@
+URL: https://www.airbnb.com/rooms/1009469686678735726
+Title: Prime Location w/ Private Parking + Courtyard
+Latitude: 32.0722
+Longitude: -81.0881
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to Harris House, a charming home nestled in the heart of the Historic District, where tree-lined streets and the convenience of downtown living await.
+
+The space
+Welcome to Harris House, a charming home nestled in the heart of the Historic District, where tree-lined streets and the convenience of downtown await. Within walking distance to everything downtown has to offer, this three-story freestanding home exudes a timeless appeal with a touch of history. With three full bedrooms, all featuring ensuite bathrooms, this delightful home is perfect for couples or families. Harris House offers an open and airy ambiance, thoughtfully adorned with mid-century furnishings that radiate warmth and invite you to relax.
+
+Upon entering, you'll be greeted by an open living room, perfect for hosting gatherings with friends and family. It’s an ideal space to unwind, catch up on your favorite shows after a day of exploring the town, engage in a lively game night with your fellow travelers, or curl up by the decorative fireplace with a selection from the reading library. Adjacent to the living room is a formal dining room, conveniently situated next to a well-appointed wet bar, making it an excellent spot for intimate dinners or even a productive workspace. The fully equipped kitchen features stainless steel appliances and ensures you have all you need to prepare delicious home-cooked meals. A convenient powder room and year-round sunroom complete the first floor.
+
+Venture up to the second floor, where the primary suite awaits with a king-sized bed, decorative fireplace, ceiling fan, plenty of storage for your belongings, a smart television, and a spacious ensuite bathroom complete with double vanity. Down the hall, the second suite boasts a queen-sized bed, ceiling fan, two double-wide closets, smart television and an ensuite bathroom with a tub-shower combination. Conveniently located between both rooms, guests will have access to a full size washer and dryer.
+
+Ascend to the third floor to discover the final suite, where guests will enjoy views of the spires of The Cathedral Basilica of St. John the Baptist. On this floor, another comfortable king-sized bed, ceiling fan, large closet, smart television and an ensuite bathroom with skylight, ensuring every guest enjoys their own space and privacy.
+
+Out back, you'll find a large, brick courtyard with privacy fence that provides a delightful escape. Equipped with a gas grill and ample seating, it's the perfect setting for intimate outdoor meals or a relaxing evening glass of wine.
+
+Harris House is not just a vacation rental; it's a retreat that combines modern comforts with old-world charm. Make this your home away from home as you explore the vibrant surroundings of the Historic District and enjoy the rich tapestry of experiences that await you in beautiful Savannah.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: Queen Bed
+Bedroom 3: King Bed
+
+What is parking like for this home?
+Guests have access to two private parking spaces directly behind the home.
+SVR-02810
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Prime Location w/ Private Parking + Courtyard
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 3.5 baths
+Rated 4.78 out of 5 stars.
+4.78
+·
+9 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Right on Troup Square, with Lafayette Square and the Cathedral of St. John the Baptist about a 5-min walk away
+Private courtyard with gas grill
+A brick courtyard with a gas grill and seating, enclosed by a privacy fence for quiet evenings outdoors
+Highly rated across the board
+Guests highlight the location, comfortable beds, and how responsive the host is to questions
+Welcome to Harris House, a charming home nestled in the heart of the Historic District, where tree-lined streets and the convenience of downtown living await.
+
+The space
+Welcome to Harris House, a charming home nestled in the heart of the Historic District, where tree-lined streets and the convenience of downtown await. Within walking distance to everything downtown has to offer, this three-story freestanding home exudes a timeless appeal with a touch of history. With three full bedrooms, all featuring ensuite bathrooms, this delightful home is perfect for couples or families. Harris House offers an open and airy ambiance, thoughtfully adorned with mid-century furnishings that radiate warmth and invite you to relax.
+
+Upon entering, you'll be greeted by an open living room, perfect for hosting gatherings with friends and family. It’s an ideal space to unwind, catch up on your favorite shows after a day of exploring the town, engage in a lively game night with your fellow travelers, or curl up by the decorative fireplace with a selection from the reading library. Adjacent to the living room is a formal dining room, conveniently situated next to a well-appointed wet bar, making it an excellent spot for intimate dinners or even a productive workspace. The fully equipped kitchen features stainless steel appliances and ensures you have all you need to prepare delicious home-cooked meals. A convenient powder room and year-round sunroom complete the first floor.
+
+Venture up to the second floor, where the primary suite awaits with a king-sized bed, decorative fireplace, ceiling fan, plenty of storage for your belongings, a smart television, and a spacious ensuite bathroom complete with double vanity. Down the hall, the second suite boasts a queen-sized bed, ceiling fan, two double-wide closets, smart television and an ensuite bathroom with a tub-shower combination. Conveniently located between both rooms, guests will have access to a full size washer and dryer.
+
+Ascend to the third floor to discover the final suite, where guests will enjoy views of the spires of The Cathedral Basilica of St. John the Baptist. On this floor, another comfortable king-sized bed, ceiling fan, large closet, smart television and an ensuite bathroom with skylight, ensuring every guest enjoys their own space and privacy.
+
+Out back, you'll find a large, brick courtyard with privacy fence that provides a delightful escape. Equipped with a gas grill and ample seating, it's the perfect setting for intimate outdoor meals or a relaxing evening glass of wine.
+
+Harris House is not just a vacation rental; it's a retreat that combines modern comforts with old-world charm. Make this your home away from home as you explore the vibrant surroundings of the Historic District and enjoy the rich tapestry of experiences that await you in beautiful Savannah.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: Queen Bed
+Bedroom 3: King Bed
+
+What is parking like for this home?
+Guests have access to two private parking spaces directly behind the home.
+SVR-02810
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.78 out of 5 stars from 9 reviews
+4.78 · 9 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 89% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 11% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.6 out of 5 stars for check-in
+Check-in
+4.6
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Parking
+3
+Location
+5
+Walkability
+2
+Sleep quality
+2
+Amenities
+2
+Hospitality
+2
+Chris
+Nashville, Tennessee
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Exactly what the listing says...perfect location for walking around the historic district and exploring all the beautiful parks and homes. This place did not lack for any amenities. The A/C was stout during the summer heatwave while we were there, even in the loft bedroom. Master bed was super comfy, laundry was quiet, wifi was good. Parking out back in the alley was plus and we felt as safe as can be. A perfect place to hub during a stay here for couples or families.
+Show more
+Laura
+Farragut, Tennessee
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Wonderful location to explore the city. Appreciated the private parking in the back. House had all amenities, comfortable beds, plenty of space to spread out. Would definitely recommend!
+Show more
+Sara
+Amarillo, Texas
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+We loved our stay! Perfect location, right in the heart of Savannah!
+Show more
+John
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+Parking in back was great. Walking distance to the visitor center and so many good restaurants. Had to wait 45 min for cleaners to finish.
+Show more
+Paula
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+Great location and easy to find. House was exactly what we needed for the week! I would visit again!
+Show more
+Alexander
+Edgewater, Florida
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Stayed a few nights
+The home was absolutely stunning! Everything was incredibly clean and organized! Anytime I needed to reach out to speak to them, they always responded within 5 minutes and always had a solution! Looking forward to my next trip to Savannah, as I will be booking my next stay with them!
+Show more
+Show all 9 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

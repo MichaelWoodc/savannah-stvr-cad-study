@@ -1,0 +1,456 @@
+URL: https://www.airbnb.com/rooms/861803179442783974
+Title: Historic District Gem - 2BR/2BA (Lower Level)
+Latitude: 32.06221
+Longitude: -81.09997
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Mayra
+Host ID: 140950835
+Host profile ID: 1468393545070635158
+Host URL: https://www.airbnb.com/users/profile/1468393545070635158
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+**Gorgeous, New Construction, Short or Mid-Term Stays Available**
+This gorgeous new construction offers complete furnishings, inclusive utilities/internet, and a range of desirable amenities for an exceptional stay.  Located in the Victorian District West, only minutes away from SCAD Eckburg Hall and Number Nine, local dining and Forsyth Park.
+
+The space
+This duplex located in the Victorian District in Savannah is perfect for weekend trips or mid term stays. The two bedrooms are spacious and comfortable, with king-sized beds that guarantee a good night’s sleep. The fully stocked kitchen has everything you need to prepare meals, including cookware, utensils, and appliances. The living room is cozy and inviting, with a smart TV for your entertainment. The bathrooms are clean and modern, with all the necessary amenities. High-speed internet is available throughout the property, so you can stay connected with ease and work comfortably at the dedicated workstation. All linens are provided, so you can travel light and enjoy a hassle-free stay.  Utilities included as well.
+
+Guest access
+Guests will have full access to the unit, with exception of one locked owners closest which is used for storage.
+
+Other things to note
+Units are set up with wifi electronic locks for easy self check-in.  There is one street facing camara on the exterior for guest and host safety.
+
+SVR-02961
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+H2O shampoo
+H2O conditioner
+H2O body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Room-darkening shades
+Iron
+Clothing storage: walk-in closet
+Entertainment
+65 inch HDTV with Roku
+Family
+Folding or convertible high chair - always at the listing
+Children’s dinnerware
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+Security camera is located on the front porch facing the exterior of the home.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Whirlpool refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Whirlpool electric stove
+Whirlpool stainless steel single oven
+Hot water kettle
+Coffee maker: drip coffee maker, french press, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Rice maker
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic District Gem - 2BR/2BA (Lower Level)
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Rated 4.9 out of 5 stars.
+4.9
+·
+31 reviews
+Hosted by Mayra
+Superhost · 5 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with restaurants and coffee shops within easy reach
+New-construction duplex with big-screen TV
+A 65-inch Roku TV in the living room and a fully stocked kitchen with a dishwasher
+Clean, spacious, and modern throughout
+Guests highlight how clean and spacious the apartment feels, with many praising the modern finishes
+**Gorgeous, New Construction, Short or Mid-Term Stays Available**
+This gorgeous new construction offers complete furnishings, inclusive utilities/internet, and a range of desirable amenities for an exceptional stay.  Located in the Victorian District West, only minutes away from SCAD Eckburg Hall and Number Nine, local dining and Forsyth Park.
+
+The space
+This duplex located in the Victorian District in Savannah is perfect for weekend trips or mid term stays. The two bedrooms are spacious and comfortable, with king-sized beds that guarantee a good night’s sleep. The fully stocked kitchen has everything you need to prepare meals, including cookware, utensils, and appliances. The living room is cozy and inviting, with a smart TV for your entertainment. The bathrooms are clean and modern, with all the necessary amenities. High-speed internet is available throughout the property, so you can stay connected with ease and work comfortably at the dedicated workstation. All linens are provided, so you can travel light and enjoy a hassle-free stay.  Utilities included as well.
+
+Guest access
+Guests will have full access to the unit, with exception of one locked owners closest which is used for storage.
+
+Other things to note
+Units are set up with wifi electronic locks for easy self check-in.  There is one street facing camara on the exterior for guest and host safety.
+
+SVR-02961
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+65 inch HDTV with Roku
+Washer
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 53 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.9 out of 5 stars from 31 reviews
+4.9 · 31 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.5 out of 5 stars for location
+Location
+4.5
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+12
+Parking
+9
+Cleanliness
+14
+Location
+12
+Indoor spaces
+8
+Getting around
+6
+Kitchen
+7
+Hospitality
+11
+Nearby
+5
+Amenities
+5
+Dasha
+Charlotte, North Carolina
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We enjoyed our stay here, the place is relatively clean with a few blemishes. Neighborhood was a little less quiet but other than those areas, everything else was okay/
+Demetrie
+Houston, Texas
+Rating, 5 stars
+,
+·
+July 2025
+,
+·
+Stayed with kids
+We had a lovely stay at this apartment! The space was spotlessly clean, beautifully decorated, and everything felt new and well-maintained. Mayra was incredibly responsive and helpful throughout our visit, which made the experience even smoother. The location was fantastic! Just a short walk or drive to great restaurants and local attractions.
+While we were a bit surprised to find the apartment was located in a transitional neighborhood, the area was actually peaceful and safe during our stay. Overall, it was a wonderful place to stay and we’d definitely recommend it to others!
+Show more
+Callie
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2025
+,
+·
+Stayed a few nights
+Great stay! Spacious, clean, well equipped! Street parking was easy and plentiful. Great to stay with another couple.
+Nicole
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+We really enjoyed staying here, plenty of space for 4, always had a parking space out front in the street.  Walkable to park and downtown and short drive to all the main tourist areas.
+Tiffany
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2025
+,
+·
+Stayed about a week
+Perfect location! Very clean and fully stocked!
+Madeline
+Raleigh, North Carolina
+Rating, 4 stars
+,
+·
+April 2025
+,
+·
+Stayed a few nights
+Mayra’s place was great for our girls weekend! We did not use the kitchen but it looked well equipped! Beds were comfortable, showers had seemingly endless hot water, and living room was enough for what we needed. It is a duplex, which we did not realize beforehand. We also believe they must have renovated upstairs with the same fan/light fixtures because ours kept turning on and off when we did hit the buttons so assuming the remotes to the upstairs fans/lights were close enough to reach our fixtures and turn them on/off. We walked to Forsyth park and dinner multiple nights, was nice to not have to drive because parking on the street was sometimes difficult. All in all a great place!
+Show more
+Show all 31 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Located in the Victorian District West, only minutes away from SCAD Eckburg Hall and Number Nine, local restaurants and Forsyth Park.
+Show more
+Meet your host
+Mayra
+Superhost
+419 reviews
+419
+Reviews
+4.93 out of 5 average rating
+4.93
+Rating
+5 years of hosting
+5
+Years hosting
+Born in the 70s
+My work: Finance/Treasury
+Mayra is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

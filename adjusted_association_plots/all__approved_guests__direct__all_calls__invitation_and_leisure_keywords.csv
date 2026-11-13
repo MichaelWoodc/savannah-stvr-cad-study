@@ -1,0 +1,9 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr,status
+all,approved_guests,direct,All calls,keyword_bachelorette,Bachelorette events,keywords,484,501,11,473,13,488,0.8226559401448622,0.4700403177528003,1.439797332899312,0.4942261525199034,0.752937600188776,
+all,approved_guests,direct,All calls,keyword_wedding,Wedding events,keywords,484,501,21,463,33,468,1.1370567010679595,0.7246168079469482,1.7842505545885834,0.576331412373207,0.7994747638671869,
+all,approved_guests,direct,All calls,keyword_swimming_pool,Swimming Pool,keywords,484,501,97,387,97,404,1.1291709915725896,0.7654119436540093,1.6658051115875692,0.5402871241798326,0.783304213076213,
+all,approved_guests,direct,All calls,keyword_hot_tub,Hot Tub,keywords,484,501,21,463,36,465,1.580478310369468,1.0132415351489632,2.465267759854608,0.0435917646773857,0.262805027335606,
+all,approved_guests,direct,All calls,keyword_bachelor,Bachelor events,keywords,484,501,4,480,3,498,,,,,,insufficient support
+all,approved_guests,direct,All calls,keyword_engagement,Engagement events,keywords,484,501,0,484,0,501,,,,,,insufficient support
+all,approved_guests,direct,All calls,keyword_jacuzzi,Jacuzzi,keywords,484,501,9,475,4,497,,,,,,insufficient support
+all,approved_guests,direct,All calls,keyword_pool_table,Pool Table,keywords,484,501,0,484,0,501,,,,,,insufficient support

@@ -1,0 +1,478 @@
+URL: https://www.airbnb.com/rooms/1468252738066763760
+Title: The Carriage Quarters off Jones Street | 1850s
+Latitude: 32.0724
+Longitude: -81.0952
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Step back in time—without sacrificing modern comfort—in this charming 2-bedroom, 1-bathroom carriage house tucked behind a historic 1850s estate in the heart of downtown Savannah. Nestled just off famously picturesque Jones Street and accessed through a private lane, this rare gem blends old-world character with an unbeatable location.
+SVR-02637
+
+The space
+This two-level carriage house offers a mix of historical touches and updated convenience. The open-concept living room and full kitchen are located on the ground floor—ideal for relaxing after a day exploring the city or preparing a meal with local ingredients.
+
+Upstairs are two bedrooms and one bathroom. It’s important to note that the only bathroom is inside the primary bedroom, meaning guests will need to be comfortable sharing space. If you're traveling with family or close friends, it's a quirky layout that adds to the fun. If you're strangers… well, you won’t be for long!
+
+The primary bedroom features access to a private balcony overlooking a serene shared courtyard—a peaceful spot for morning coffee or winding down with a glass of wine.
+
+Bedroom 1: Queen bed (with bathroom access)
+Bedroom 2: Queen bed
+Bathroom: Shower (ensuite to primary bedroom)
+Full kitchen with cookware, utensils, coffee maker
+Living room with Smart TV + high-speed Wi-Fi
+Heating and air conditioning work great through the mini split units.
+
+Guest access
+Guests will have full private access to the entire carriage house. The home is located at the back of the main property and is accessed via the rear lane/alley—common in Savannah’s historic layout. The entrance is private and self-check-in is available via smart lock.
+The shared courtyard is also accessible and makes for a lovely common area to enjoy the Savannah breeze.
+
+Other things to note
+The only bathroom is located inside the primary bedroom, which may not be ideal for all groups. Please make sure this layout works for your stay.
+This is a historic building, so some quirks come with the charm—creaky floors, antique details, and all the character you'd expect from a home built in the mid-1800s.
+The unit is located behind the main house, accessed via the back alley (very common in Savannah). Directions will be provided to make check-in smooth.
+The property may not be suitable for guests with limited mobility, as the bedrooms and bathroom are located on the second floor.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Baking sheet
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Carriage Quarters off Jones Street | 1850s
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+50 reviews
+50
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Steps from Monterey Square and Forsyth Park, with historic squares and cafés all around
+Historic carriage house with balcony
+An 1850s carriage house with a private balcony overlooking a courtyard
+Walkable, clean, and full of charm
+Guests highlight how walkable the location is and how clean and charming the space feels
+Step back in time—without sacrificing modern comfort—in this charming 2-bedroom, 1-bathroom carriage house tucked behind a historic 1850s estate in the heart of downtown Savannah. Nestled just off famously picturesque Jones Street and accessed through a private lane, this rare gem blends old-world character with an unbeatable location.
+SVR-02637
+
+The space
+This two-level carriage house offers a mix of historical touches and updated convenience. The open-concept living room and full kitchen are located on the ground floor—ideal for relaxing after a day exploring the city or preparing a meal with local ingredients.
+
+Upstairs are two bedrooms and one bathroom. It’s important to note that the only bathroom is inside the primary bedroom, meaning guests will need to be comfortable sharing space. If you're traveling with family or close friends, it's a quirky layout that adds to the fun. If you're strangers… well, you won’t be for long!
+
+The primary bedroom features access to a private balcony overlooking a serene shared courtyard—a peaceful spot for morning coffee or winding down with a glass of wine.
+
+Bedroom 1: Queen bed (with bathroom access)
+Bedroom 2: Queen bed
+Bathroom: Shower (ensuite to primary bedroom)
+Full kitchen with cookware, utensils, coffee maker
+Living room with Smart TV + high-speed Wi-Fi
+Heating and air conditioning work great through the mini split units.
+
+Guest access
+Guests will have full private access to the entire carriage house. The home is located at the back of the main property and is accessed via the rear lane/alley—common in Savannah’s historic layout. The entrance is private and self-check-in is available via smart lock.
+The shared courtyard is also accessible and makes for a lovely common area to enjoy the Savannah breeze.
+
+Other things to note
+The only bathroom is located inside the primary bedroom, which may not be ideal for all groups. Please make sure this layout works for your stay.
+This is a historic building, so some quirks come with the charm—creaky floors, antique details, and all the character you'd expect from a home built in the mid-1800s.
+The unit is located behind the main house, accessed via the back alley (very common in Savannah). Directions will be provided to make check-in smooth.
+The property may not be suitable for guests with limited mobility, as the bedrooms and bathroom are located on the second floor.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Hair dryer
+Refrigerator
+Microwave
+Show all 38 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 50 reviews.
+4.92
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+16
+Location
+32
+Parking
+6
+Cleanliness
+14
+Nearby
+8
+Hospitality
+17
+Comfort
+9
+Indoor spaces
+9
+Decor
+6
+Sleep quality
+3
+Maya
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great location! Very easy to walk to downtown shops and restaurants.  I would definitely stay here again. There is no parking on location but street parking near the house is very easy to find even on a busy weekend. We really enjoyed our stay!
+Show more
+Miranda
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We loved staying here! Everything was within walking distance and the house is super cute. Would definitely stay again!
+Megan
+Decatur, Georgia
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Great place. Central location on a beautiful street. Very clean, easy in and out
+Rachel
+Titusville, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+What a lovely, quaint Airbnb! It was perfect for the four of us and had what we needed! The beds were comfortable and there was plenty of extra pillows and towels!
+Hosts were extremely helpful and responsive when needed.
+The neighborhood was great and beautiful.
+Parking was a slight issue, but nothing we couldn't handle. 
+Definitely check this place out!
+Show more
+Emily
+Portland, Oregon
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We loved staying here! The home was the right size for us to stay for a few days. We were close enough to walk to everything Savannah has to offer. The hosts were kind and responsive. The decor was beautiful and seating was comfortable. I would stay here again for sure!
+Show more
+Karen
+Warner Robins, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Beautiful space to stay at in Savannah! We parked our car Friday when we arrived and didn't need it again until we left on Sunday. Tastefully decorated and serene, it's a wonderful spot to come back to after wandering around all day. The recommendation book was super helpful and we relied on it quite a bit. Can't beat Jones St.!
+Show more
+Show all 50 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Situated just off Jones Street, widely considered one of the most beautiful streets in America, this location is a dream for anyone hoping to immerse themselves in Savannah’s historic charm. You're surrounded by cobblestone streets, moss-draped oaks, and centuries-old architecture.
+
+Walkable highlights include:
+
+Forsyth Park
+Mercer-Williams House
+The Cathedral Basilica of St. John the Baptist
+Clary’s Café (from Midnight in the Garden of Good and Evil)
+Collins Quarter, Peregrin Rooftop Bar, and Mrs. Wilkes' Dining Room
+River Street, City Market, and a variety of museums and historic homes
+This is one of the most central and scenic areas in Savannah, and staying here means you're never far from the city’s best food, drink, and cultural attractions.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,351 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Some spaces are shared
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

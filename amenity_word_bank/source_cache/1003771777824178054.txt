@@ -1,0 +1,870 @@
+URL: https://www.airbnb.com/rooms/1003771777824178054
+Title: Jones St Penthouse | Private Rooftop + Golf Cart
+Latitude: 32.073
+Longitude: -81.0956
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Missy
+Host ID: 112081670
+Host profile ID: 1462900177736224806
+Host URL: https://www.airbnb.com/users/profile/1462900177736224806
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+=== FULL DESCRIPTION ===
+Slip away to your private rooftop retreat on Savannah’s iconic Jones Street~ often called “The Prettiest Street in America.”
+
+Featured in Condé Nast, Savannah Peach Penthouse is a romantic hideaway tucked inside a historic 1853 home, just a beautiful stroll from Forsyth Park.
+
+Wake up in a KING bed, sip morning coffee from Serena & Lily swing chairs on your PRIVATE ROOFTOP TERRACE, and take in sweeping views over Savannah.
+
+Plus, enjoy a complimentary GOLF CART for your Tybee Island adventures.
+
+The space
+✭ WELCOME TO SAVANNAH PEACH PENTHOUSE 🍑
+
+Perfectly perched on iconic Jones Street in the heart of Savannah’s Historic District, the Peach Penthouse is your little hideaway above the city.
+
+Park once and wander.
+
+Stroll beneath the oaks to Forsyth Park and Savannah’s beautiful squares. Browse the boutiques and galleries of the Downtown Design District. Mrs. Wilkes Dining Room is just across the street, the Mercer-Williams House is only steps away, and the cobblestones of River Street are waiting beyond.
+
+This is the Savannah people come here dreaming about.
+
+⸻
+
+✭ YOUR PRIVATE ROOFTOP
+
+This may just become your favorite spot in Savannah.
+
+Begin your morning with coffee or rooftop yoga as the city wakes below. Settle into the Serena & Lily swing chairs while church bells drift through the air. Pour something lovely as the skyline turns golden at sunset, then switch on the Edison lights and linger beneath the stars.
+
+Prefer to stay in? Fire up the electric grill and enjoy dinner with a view.
+
+Your rooftop includes:
+
+• Serena & Lily swing chairs
+• Adirondack seating
+• Sweeping Savannah skyline views
+• Edison lights
+• Yoga mats
+• Electric grill 
+
+And best of all ~ the rooftop is PRIVATE and exclusively yours during your stay.
+
+🖤 “Jones St. is truly beautiful, the views and the rooftop deck are fantastic! The location is perfect for walking everywhere.” ~ Stephen, ’25
+
+⸻
+
+✭ SOUTHERN CHARM + THOUGHTFUL LUXURIES
+
+Inside, historic Savannah meets a little indulgence.
+
+Antiques and original Southern artwork give the penthouse a collected-over-time, lived-in gallery feel, while luxurious linens, plush towels and thoughtful details make it feel like a true getaway.
+
+You’ll enjoy:
+
+• Oversized KING bed
+• Custom blackout Roman shades + drapes
+• Plush towels + terry-cloth bathrobes
+• Oversized walk-in shower + toiletries
+• Fully equipped kitchen
+• Wine cooler + Waterford wine glasses
+• Keurig + drip coffee maker + French press
+• Bar cart for cocktail crafting
+• High-speed Wi-Fi
+• 2 Smart TVs
+• Dedicated workspace
+• Washer + dryer
+• Record player
+• Games + books
+• Charging stations
+• Sound machine + ceiling fan
+
+🖤 “The decor was on point ~ a total vibe! The towels were next level—better than you find in a luxury hotel. The terrace was perfect ~ the views, the breeze, and the hanging chairs.” ~ Friedhelm, ’25
+
+⸻
+
+✭ YOUR KING BEDROOM
+
+After a day wandering Savannah, retreat to your oversized KING bedroom, where beautiful historic windows fill the room with morning light.
+
+When you’re ready to sleep in, custom Roman shades + blackout drapes, a ceiling fan and sound machine make that wonderfully easy.
+
+There’s also a Smart TV, dedicated workspace, charging stations, lighted makeup mirror, closet space and thoughtful storage.
+
+🖤 “The bed was heavenly, the Roman shades & blackout drapes made for very restful sleep.” ~ Allie, ’24
+
+⸻
+
+✭ A KITCHEN MADE FOR STAYING IN
+
+Savannah has incredible restaurants ~ but some evenings you may not want to leave the rooftop.
+
+The kitchen is fully appointed with a full-size refrigerator, wine cooler, oven + stove, dishwasher, Calphalon cookware and Cuisinart bakeware.
+
+And because the little things matter: Waterford wine glasses.
+
+Because even takeout tastes better in Waterford. 🥂
+
+⸻
+
+✭ YOUR TYBEE ISLAND ADVENTURE
+
+Savannah getaway + beach day? Yes, please.
+
+Tybee Island is about a breezy 25-minute drive away, where you’ll have access to my electric Club Car golf cart to cruise the island in true vacation style.
+
+Your complimentary Tybee perk includes:
+
+• Electric Club Car golf cart + parking decal
+• Bicycles, if you prefer two wheels
+• Beach chairs + umbrella
+• Cooler + beach towels
+• Complimentary parking for your car
+
+Pack your swimsuit ~ I’ve got the rest. ☀️
+
+🖤 “We really enjoyed Tybee Island for an afternoon ~ beautiful beaches, fun to drive around the golf cart, and great, chill restaurants.” ~ Greg, ’24
+
+⸻
+
+✭ THE VIEW IS WORTH THE CLIMB 🍑
+
+Savannah wasn’t built with elevators ~ and that’s part of her charm.
+
+Your stay begins with the classic Jones Street stoop, continues up the interior staircase, and finishes with one last climb to your private penthouse sanctuary.
+
+At the top? Your own rooftop retreat, Savannah skyline views, church steeples, sunshine and a little bit of magic.
+
+PLEASE NOTE: This historic home is a walk-up with multiple flights of stairs and NO elevator.
+
+I want you to know before booking so there are no surprises ~ except the good kind.
+
+⸻
+
+✭ A LITTLE HISTORY
+
+Savannah Peach Penthouse is tucked inside the historic William Remshart Row House, built circa 1853 and part of Savannah’s celebrated Historic District.
+
+William Remshart lived here with his family ~ including an astonishing 17 children.
+
+I sometimes wonder about all the lives these walls have witnessed over the past 170+ years.
+
+For a few days, you get to become a little part of the story.
+
+⸻
+
+Savannah Peach Penthouse is made for anniversaries, honeymoons, romantic escapes, birthday trips, girls’ getaways, solo adventures ~ and anyone who wants to experience Savannah from somewhere that actually feels like Savannah.
+
+I would be honored to host your Savannah escape.
+
+Your Superhostess with the Mostest,
+Missy 🍑
+
+Guest access
+✭ PRIVATE ACCESS + SELF CHECK-IN
+
+• The entire penthouse + PRIVATE rooftop are exclusively yours
+• The historic courtyard is the only shared space
+• Keyless entry for easy self check-in
+
+Other things to note
+✭ CLEANLINESS PROMISE
+
+Professionally cleaned using non-toxic products and carefully inspected after every stay to ensure a fresh, five-star experience.
+
+⸻
+
+✭ IMPORTANT NOTES
+
+• No pets
+• No smoking or vaping
+• Maximum occupancy: 2 guests
+• No outside guests
+• STAIRS TO ACCESS THE PENTHOUSE ~ there is no elevator
+
+⸻
+
+✭ TRAVEL INSURANCE
+
+Travel insurance is strongly recommended during hurricane season, June 1–November 30. Please review your travel insurance coverage and Airbnb’s cancellation policies carefully, as weather-related disruptions may not qualify for a refund.
+
+⸻
+
+✭ POOL
+
+Several downtown Savannah hotels offer pool day passes, primarily through platforms such as ResortPass. Availability, pricing and policies vary by hotel.
+
+⸻
+
+Savannah STR Certificate: SVR-02878
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+City skyline view
+Courtyard view
+Garden view
+Park view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Native shampoo
+Native conditioner
+Native body soap
+Outdoor shower
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Egyptian cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage: wardrobe and dresser
+Entertainment
+HDTV with Amazon Prime Video, Disney+, Fire TV, Hulu, Netflix
+Record player
+Sound system
+Exercise equipment: yoga mat
+Books and reading material
+Theme room
+A room or multiple spaces that are designed to follow the same theme
+Family
+Crib - available upon request
+Standard (52 inches long x 28 inches wide), sheets provided, room-darkening shades in room
+Pack ’n play/Travel crib - available upon request
+Sheets provided, room-darkening shades
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Portable fans
+Central heating
+Home safety
+Exterior security cameras on property
+Exterior Webcam in use that only monitors and records entry and exit to the building from the Jones Street entrance.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Mini fridge
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker: drip coffee maker, french press, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Waterfront
+Right next to a body of water
+Shared beach access
+Guests can enjoy a nearby beach
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Free resort access
+Guests can use nearby resort facilities
+Outdoor
+Private patio or balcony
+Private backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Outdoor kitchen
+Private BBQ grill: electric
+Beach essentials
+Beach gear such as towels, chairs, and an umbrella
+Bikes
+Sun loungers
+Parking and facilities
+Free parking on premises
+Free street parking
+Pool
+Paid street parking off premises
+Paid parking on premises
+Single level home
+No stairs in home
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Housekeeping available 24 hours, every day - available at extra cost
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Jones St Penthouse | Private Rooftop + Golf Cart
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+136 reviews
+136
+Reviews
+Hosted by Missy
+Superhost · 8 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+On Jones Street in the Historic District
+Steps from Chatham Square and Monterey Square, with Forsyth Park about a 5-min walk away
+Private rooftop terrace
+A private rooftop with swing chairs, Edison lights, and an electric grill for dinner with a view
+Thoughtful hosting by Missy
+Guests call this one of their favorite stays, praising the thoughtful details and Missy's hosting
+Slip away to your private rooftop retreat on Savannah’s iconic Jones Street~ often called “The Prettiest Street in America.”
+
+Featured in Condé Nast, Savannah Peach Penthouse is a romantic hideaway tucked inside a historic 1853 home, just a beautiful stroll from Forsyth Park.
+
+Wake up in a KING bed, sip morning coffee from Serena & Lily swing chairs on your PRIVATE ROOFTOP TERRACE, and take in sweeping views over Savannah.
+
+Plus, enjoy a complimentary GOLF CART for your Tybee Island adventures.
+
+The space
+✭ WELCOME TO SAVANNAH PEACH PENTHOUSE 🍑
+
+Perfectly perched on iconic Jones Street in the heart of Savannah’s Historic District, the Peach Penthouse is your little hideaway above the city.
+
+Park once and wander.
+
+Stroll beneath the oaks to Forsyth Park and Savannah’s beautiful squares. Browse the boutiques and galleries of the Downtown Design District. Mrs. Wilkes Dining Room is just across the street, the Mercer-Williams House is only steps away, and the cobblestones of River Street are waiting beyond.
+
+This is the Savannah people come here dreaming about.
+
+⸻
+
+✭ YOUR PRIVATE ROOFTOP
+
+This may just become your favorite spot in Savannah.
+
+Begin your morning with coffee or rooftop yoga as the city wakes below. Settle into the Serena & Lily swing chairs while church bells drift through the air. Pour something lovely as the skyline turns golden at sunset, then switch on the Edison lights and linger beneath the stars.
+
+Prefer to stay in? Fire up the electric grill and enjoy dinner with a view.
+
+Your rooftop includes:
+
+• Serena & Lily swing chairs
+• Adirondack seating
+• Sweeping Savannah skyline views
+• Edison lights
+• Yoga mats
+• Electric grill 
+
+And best of all ~ the rooftop is PRIVATE and exclusively yours during your stay.
+
+🖤 “Jones St. is truly beautiful, the views and the rooftop deck are fantastic! The location is perfect for walking everywhere.” ~ Stephen, ’25
+
+⸻
+
+✭ SOUTHERN CHARM + THOUGHTFUL LUXURIES
+
+Inside, historic Savannah meets a little indulgence.
+
+Antiques and original Southern artwork give the penthouse a collected-over-time, lived-in gallery feel, while luxurious linens, plush towels and thoughtful details make it feel like a true getaway.
+
+You’ll enjoy:
+
+• Oversized KING bed
+• Custom blackout Roman shades + drapes
+• Plush towels + terry-cloth bathrobes
+• Oversized walk-in shower + toiletries
+• Fully equipped kitchen
+• Wine cooler + Waterford wine glasses
+• Keurig + drip coffee maker + French press
+• Bar cart for cocktail crafting
+• High-speed Wi-Fi
+• 2 Smart TVs
+• Dedicated workspace
+• Washer + dryer
+• Record player
+• Games + books
+• Charging stations
+• Sound machine + ceiling fan
+
+🖤 “The decor was on point ~ a total vibe! The towels were next level—better than you find in a luxury hotel. The terrace was perfect ~ the views, the breeze, and the hanging chairs.” ~ Friedhelm, ’25
+
+⸻
+
+✭ YOUR KING BEDROOM
+
+After a day wandering Savannah, retreat to your oversized KING bedroom, where beautiful historic windows fill the room with morning light.
+
+When you’re ready to sleep in, custom Roman shades + blackout drapes, a ceiling fan and sound machine make that wonderfully easy.
+
+There’s also a Smart TV, dedicated workspace, charging stations, lighted makeup mirror, closet space and thoughtful storage.
+
+🖤 “The bed was heavenly, the Roman shades & blackout drapes made for very restful sleep.” ~ Allie, ’24
+
+⸻
+
+✭ A KITCHEN MADE FOR STAYING IN
+
+Savannah has incredible restaurants ~ but some evenings you may not want to leave the rooftop.
+
+The kitchen is fully appointed with a full-size refrigerator, wine cooler, oven + stove, dishwasher, Calphalon cookware and Cuisinart bakeware.
+
+And because the little things matter: Waterford wine glasses.
+
+Because even takeout tastes better in Waterford. 🥂
+
+⸻
+
+✭ YOUR TYBEE ISLAND ADVENTURE
+
+Savannah getaway + beach day? Yes, please.
+
+Tybee Island is about a breezy 25-minute drive away, where you’ll have access to my electric Club Car golf cart to cruise the island in true vacation style.
+
+Your complimentary Tybee perk includes:
+
+• Electric Club Car golf cart + parking decal
+• Bicycles, if you prefer two wheels
+• Beach chairs + umbrella
+• Cooler + beach towels
+• Complimentary parking for your car
+
+Pack your swimsuit ~ I’ve got the rest. ☀️
+
+🖤 “We really enjoyed Tybee Island for an afternoon ~ beautiful beaches, fun to drive around the golf cart, and great, chill restaurants.” ~ Greg, ’24
+
+⸻
+
+✭ THE VIEW IS WORTH THE CLIMB 🍑
+
+Savannah wasn’t built with elevators ~ and that’s part of her charm.
+
+Your stay begins with the classic Jones Street stoop, continues up the interior staircase, and finishes with one last climb to your private penthouse sanctuary.
+
+At the top? Your own rooftop retreat, Savannah skyline views, church steeples, sunshine and a little bit of magic.
+
+PLEASE NOTE: This historic home is a walk-up with multiple flights of stairs and NO elevator.
+
+I want you to know before booking so there are no surprises ~ except the good kind.
+
+⸻
+
+✭ A LITTLE HISTORY
+
+Savannah Peach Penthouse is tucked inside the historic William Remshart Row House, built circa 1853 and part of Savannah’s celebrated Historic District.
+
+William Remshart lived here with his family ~ including an astonishing 17 children.
+
+I sometimes wonder about all the lives these walls have witnessed over the past 170+ years.
+
+For a few days, you get to become a little part of the story.
+
+⸻
+
+Savannah Peach Penthouse is made for anniversaries, honeymoons, romantic escapes, birthday trips, girls’ getaways, solo adventures ~ and anyone who wants to experience Savannah from somewhere that actually feels like Savannah.
+
+I would be honored to host your Savannah escape.
+
+Your Superhostess with the Mostest,
+Missy 🍑
+
+Guest access
+✭ PRIVATE ACCESS + SELF CHECK-IN
+
+• The entire penthouse + PRIVATE rooftop are exclusively yours
+• The historic courtyard is the only shared space
+• Keyless entry for easy self check-in
+
+Other things to note
+✭ CLEANLINESS PROMISE
+
+Professionally cleaned using non-toxic products and carefully inspected after every stay to ensure a fresh, five-star experience.
+
+⸻
+
+✭ IMPORTANT NOTES
+
+• No pets
+• No smoking or vaping
+• Maximum occupancy: 2 guests
+• No outside guests
+• STAIRS TO ACCESS THE PENTHOUSE ~ there is no elevator
+
+⸻
+
+✭ TRAVEL INSURANCE
+
+Travel insurance is strongly recommended during hurricane season, June 1–November 30. Please review your travel insurance coverage and Airbnb’s cancellation policies carefully, as weather-related disruptions may not qualify for a refund.
+
+⸻
+
+✭ POOL
+
+Several downtown Savannah hotels offer pool day passes, primarily through platforms such as ResortPass. Availability, pricing and policies vary by hotel.
+
+⸻
+
+Savannah STR Certificate: SVR-02878
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 king bed
+
+What this place offers
+City skyline view
+Courtyard view
+Shared beach access
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+HDTV with Amazon Prime Video, Disney+, Fire TV, Hulu, Netflix
+Exterior security cameras on property
+Show all 87 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 136 reviews.
+4.98
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 99% of reviews
+5
+4 stars, 1% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+48
+Location
+75
+Hospitality
+77
+Decor
+33
+Nearby
+22
+Comfort
+31
+Cleanliness
+27
+Indoor spaces
+27
+Outdoor spaces
+12
+Getting around
+16
+Tony
+Ball Ground, Georgia
+Rating, 5 stars
+,
+·
+1 day ago
+,
+·
+Stayed a few nights
+Fantastic place to stay in Savannah and I would highly recommend to anyone looking for a high end apartment in the perfect location. Very quiet and close to all of the sites. Fantastic restaurant choices within a couple of blocks. Couldn’t be happier with our choice to stay at Missy’s place and I will definitely book again. I’ve stayed at many AirBandBs over the years and this is at the top of my list.
+Show more
+Steven
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Great place and great host.
+Show more
+Lindsay Michelle
+Hagerstown, Maryland
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+The Jones st penthouse was absolutely beautiful!!! The terrace was awesome and relaxing! The whole place was very comfortable and the bed was great! It had everything we needed for our trip! Missy was extremely friendly and responsive! I would love to stay there again and highly recommend it!!!!
+Show more
+Lauren
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Missy’s space was amazing! Walkable to just about everything and super cute! No detail went unnoticed. Would highly recommend this space and hope to stay again.
+Show more
+Timothy
+Plymouth, Massachusetts
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had a truly fantastic stay at Missy's absolutely gorgeous penthouse! It's stunningly beautiful while being incredibly comfortable at the same time. We've never stayed in a place like it, and we feel so lucky that we had 3 wonderful nights to enjoy it. We're not sure what our favorite part was: the huge windows with natural light (and those wood floors! and the art!), the decadently comfortable bed (softest sheets!), the perfectly stocked kitchen (so many coffee-making options!), the bathroom's adorable wallpaper (and fantastic shower!), the living room with its cozy vibe (hi zebra!), or the rooftop which is a place of dreams (esp. at sunset!). The location is perfect, parking is easy, and everything is walkable. (And definitely take advantage of the golf cart on Tybee - it was super easy to coordinate and so much fun!) And, of course, there's Missy who is a true delight, incredibly thoughtful, and someone we'd love to share a glass of wine with one day! We can't wait to return!
+Show more
+Rachael
+Okahumpka, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We absolutely loved our stay! This charming historic Airbnb was the perfect home base for our time in Savannah. It had so much character and Southern charm, while still feeling comfortable, cozy, and welcoming.
+The downtown location was fantastic—we were able to walk to so many of Savannah’s beautiful squares, restaurants, shops, and sights, then come back and relax in such a unique space. Staying in a historic home made the whole Savannah experience feel even more special.
+Everything was clean, thoughtfully prepared, and exactly what we hoped for. We would absolutely stay here again and would recommend it to anyone looking for a beautiful, memorable place to stay in the heart of Savannah. Five stars all around! ⭐️⭐️⭐️⭐️⭐️
+Show more
+Show all 136 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+The Mercer Williams House Museum
+Museum
+The Pirates' House
+Restaurant
+Savannah Ghost Tours®️
+Point of interest
+The Olde Pink House
+Restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Why will you gush over the prettiest street in Savannah? Jones is lined with brick-paved streets, magnificent homes, a serene atmosphere, and massive oak trees that appear to dip towards you with a Southern greeting. Although it might be hard to stroll away from Jones Street, there are several desirable stores and restaurants just around the corner.
+Show more
+Meet your host
+Missy
+Superhost
+1,004 reviews
+1004
+Reviews
+4.98 out of 5 average rating
+4.98
+Rating
+8 years of hosting
+8
+Years hosting
+Born in the 70s
+Where I went to school: Converse & University of Georgia
+Hi, I’m Missy from the Peach State ~ your Superhostess with the Mostest! I split my time between Savannah, Tybee Island, and the mountains of Highlands, NC. I personally own and care for each of my homes and have been hosting for 8 years. I welcome guests with true Southern warmth and thoughtful details ~ you’ll always feel right at home. You may find me walking the beach at sunset, gently returning starfish to the sea. or floating down a river on an inner tube in the mountains. Missy
+Missy is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Colden
+Jason
+Preston
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Waterfront vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Vacation rentals with beach access in Savannah
+Vacation rentals with a pool in Savannah
+Townhome vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Vacation rentals with beach access in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

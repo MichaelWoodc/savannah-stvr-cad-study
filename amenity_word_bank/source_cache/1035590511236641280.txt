@@ -1,0 +1,691 @@
+URL: https://www.airbnb.com/rooms/1035590511236641280
+Title: 12BR Contemporary Savannah Retreat | Forsyth Park
+Latitude: 32.0635
+Longitude: -81.0962
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jay
+Host ID: 155249121
+Host profile ID: 1462995880209039842
+Host URL: https://www.airbnb.com/users/profile/1462995880209039842
+Bedrooms: 12
+Occupancy (maximum guests): 16
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 21
+
+Beds enumerated in room tiles: 21
+
+Bed-count verification: matched
+
+Bedroom 1
+En suite bathroom, 1 queen bed, 1 single bed
+
+Bedroom 2
+En suite bathroom, 1 queen bed
+
+Bedroom 3
+En suite bathroom, 2 double beds, 1 single bed
+
+Bedroom 4
+1 queen bed, 1 single bed
+
+Bedroom 5
+1 queen bed
+
+Bedroom 6
+2 double beds, 1 single bed
+
+Bedroom 7
+1 queen bed
+
+Bedroom 8
+1 king bed
+
+Bedroom 9
+2 single beds
+
+Bedroom 10
+1 king bed
+
+Bedroom 11
+1 queen bed, 1 single bed
+
+Bedroom 12
+1 king bed
+
+Living room
+1 single bed
+
+=== FULL DESCRIPTION ===
+Welcome to this stunning 12-bedroom, 7-bathroom Victorian compound in Savannah's historic Victorian District, designed for groups of up to 24 guests. This listing includes the entire property for your exclusive use, featuring 3 fully stocked kitchens, a private heated outdoor pool and spa, and a 2-minute walk to Forsyth Park, making it the ultimate retreat for large groups exploring the best of Savannah.
+
+The space
+This property consists of a main house with 2 separate units and a carriage house in the back. This listing represents the entire property for your exclusive use. The outdoor space, including the private heated pool and spa, is exclusively yours for the duration of your stay.
+
+🏠 3 Units | 🛏️ 12 Bedrooms | 🛁 7 Full Bathrooms
+
+FEATURES
+🍳 3 fully stocked kitchens with essential cookware
+🏊 Private outdoor pool with loungers and dining area
+⚡ High-speed Wi-Fi
+🛏️ Premium mattresses and Matouk linens and towels
+🧴 High-end essential toiletries
+📺 Smart TVs with streaming capabilities
+🚗 Free off-street parking for up to 2 vehicles and free on-street parking available
+
+ACCESSIBILITY & LAYOUT
+Unit 1 is on a single level with no interior stairs. A few steps are required to access the front door. Unit 2 requires a few steps to access the front door and an additional 12 to 15 steps to reach the second floor unit. Once inside, Unit 2 is entirely on one level. The carriage house requires a few steps to access the front door and has bedrooms on both floors, accessible via an interior staircase. The heated outdoor pool and spa have direct access from Unit 1 and the carriage house. Unit 2 guests walk approximately 10 yards down the sidewalk to a locked gate. Gate codes will be provided at check-in.
+🛌 Sleeping Arrangements
+
+Unit 1 — First Floor — Single-level unit
+
+🛏️ Bedroom 1: Queen bed and Twin bed
+🛏️ Bedroom 2: Queen bed
+🛏️ Bedroom 3: Two Double beds and Twin bed 🛁 Bathroom 1 — Ensuite bathroom (shower and tub combo)
+🛁 Bathroom 2 — Hallway Full bathroom with walk-in shower (Serves Bedrooms 1 and 2)
+✨ Additional Spaces
+🛋️ Living room
+🍽️ Dining area
+🍳 Kitchen
+
+Unit 2 — Second Floor — Single-level unit
+
+🛏️ Bedroom 4: Queen bed and Twin bed
+🛏️ Bedroom 5: Queen bed
+🛏️ Bedroom 6: Two Double beds and Twin bed 🛁 Bathroom 3 — Ensuite bathroom (shower and tub combo)
+🛏️ Bedroom 7: Queen bed
+🛁 Bathroom 4 — Hallway Full bathroom with walk-in shower (Serves Bedrooms 4, 5 and 7)
+🛋️ Living room: Twin Daybed
+✨ Additional Spaces
+🛋️ Living room
+🍽️ Dining area
+🍳 Kitchen
+
+Carriage House — First Floor
+
+🛏️ Bedroom 8: King bed
+🛁 Bathroom 5 — Full bathroom with step-in shower (Serves Bedroom 8)
+✨ Additional Spaces
+🛋️ Living room
+🍽️ Dining area
+🍳 Kitchen
+Carriage House — Second Floor
+🛏️ Bedroom 9: Twin over Twin bunk
+🛏️ Bedroom 10: King bed
+🛏️ Bedroom 11: Queen bed and Single bed
+🛏️ Bedroom 12: King bed 🛁 Bathroom 7 — Ensuite bathroom with step-in shower
+🛁 Bathroom 6 — Hallway Full bathroom with shower and tub combo (Serves Bedrooms 9, 10 and 11)
+
+🌴 Outdoor Area
+Private heated outdoor pool and spa exclusively for your group. Includes lounge chairs and outdoor dining area. Direct access from Unit 1 and the carriage house. Unit 2 guests access via a locked gate approximately 10 yards down the sidewalk. Gate codes provided at check-in.
+
+Host Information:
+
+Stay Heirloom professionally manages a collection of handcrafted homes designed to bring your group together. 
+
+If you love this listing, but you are looking for something you don’t see here, please inquire!
+
+Guest access
+All units have locks with door codes. Codes and other check-in details will be provided via message and texted to your phone on the day of check-in.
+
+Other things to note
+HOUSE DISCLOSURES
+–We try our best to accommodate early check-ins, but we want to ensure the entirety of the spacious estate is clean and prepared for arrival. We can often accommodate early bag drop for your convenience. Please inquire if this is of interest to your group.
+
+BUSINESS DISCLAIMERS
+–We have a minimum age requirement for booking this rental. Reservation holder must be 21 years or older.
+–We request that guests complete a guest verification process and sign an additional agreement prior to receiving any check-in information. 
+–We require that guests provide a valid credit card and piece of ID for identification purposes only.  
+–We do not accept peer-to-peer payment systems or any prepaid debit cards as methods of payment. 
+–Pets are not allowed at this property. 
+–Mailing packages to the premises is not permitted.
+–We use Arlo/Hikvision and Noise Aware in our homes. Arlo/Hikvision is a video recording system that has been installed at the front/back doors of the home’s EXTERIOR ONLY, for your safety. NoiseAware is a decibel monitoring system that we use to keep in accordance with local noise regulations.
+
+Permit Numbers: SVR-01943, SVR-01942 & SVR-02497
+Show more
+
+=== AMENITIES ===
+What this place offers
+Popular
+Private outdoor pool
+Hot tub
+Kitchen
+Space where guests can cook their own meals
+Wifi
+Dedicated workspace
+TV
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Bowls, chopsticks, plates, cups, etc.
+Cleaning products
+Heating
+Included with your stay
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Public Goods shampoo
+Public Goods conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Crib
+Baby monitor
+Baby safety gates
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Bowls, chopsticks, plates, cups, etc.
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Private outdoor pool
+Hot tub
+Free street parking
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+12BR Contemporary Savannah Retreat | Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+16+ guests · 12 bedrooms · 21 beds · 7 baths
+Rated 4.96 out of 5 stars.
+4.96
+·
+46 reviews
+Extraordinary homes, vetted for quality.
+Hosted by Jay
+Superhost · 9 years hosting
+Listing highlights
+Steps from Forsyth Park
+Forsyth Park is about a 3-min walk away, with historic squares and dining within easy reach
+Private pool, hot tub, and grill
+A private outdoor pool and hot tub surrounded by a privacy fence, with a grill for cookouts
+A highly responsive host
+Guests consistently praise the host's responsiveness, with many noting immediate replies to questions
+Welcome to this stunning 12-bedroom, 7-bathroom Victorian compound in Savannah's historic Victorian District, designed for groups of up to 24 guests. This listing includes the entire property for your exclusive use, featuring 3 fully stocked kitchens, a private heated outdoor pool and spa, and a 2-minute walk to Forsyth Park, making it the ultimate retreat for large groups exploring the best of Savannah.
+
+The space
+This property consists of a main house with 2 separate units and a carriage house in the back. This listing represents the entire property for your exclusive use. The outdoor space, including the private heated pool and spa, is exclusively yours for the duration of your stay.
+
+🏠 3 Units | 🛏️ 12 Bedrooms | 🛁 7 Full Bathrooms
+
+FEATURES
+🍳 3 fully stocked kitchens with essential cookware
+🏊 Private outdoor pool with loungers and dining area
+⚡ High-speed Wi-Fi
+🛏️ Premium mattresses and Matouk linens and towels
+🧴 High-end essential toiletries
+📺 Smart TVs with streaming capabilities
+🚗 Free off-street parking for up to 2 vehicles and free on-street parking available
+
+ACCESSIBILITY & LAYOUT
+Unit 1 is on a single level with no interior stairs. A few steps are required to access the front door. Unit 2 requires a few steps to access the front door and an additional 12 to 15 steps to reach the second floor unit. Once inside, Unit 2 is entirely on one level. The carriage house requires a few steps to access the front door and has bedrooms on both floors, accessible via an interior staircase. The heated outdoor pool and spa have direct access from Unit 1 and the carriage house. Unit 2 guests walk approximately 10 yards down the sidewalk to a locked gate. Gate codes will be provided at check-in.
+🛌 Sleeping Arrangements
+
+Unit 1 — First Floor — Single-level unit
+
+🛏️ Bedroom 1: Queen bed and Twin bed
+🛏️ Bedroom 2: Queen bed
+🛏️ Bedroom 3: Two Double beds and Twin bed 🛁 Bathroom 1 — Ensuite bathroom (shower and tub combo)
+🛁 Bathroom 2 — Hallway Full bathroom with walk-in shower (Serves Bedrooms 1 and 2)
+✨ Additional Spaces
+🛋️ Living room
+🍽️ Dining area
+🍳 Kitchen
+
+Unit 2 — Second Floor — Single-level unit
+
+🛏️ Bedroom 4: Queen bed and Twin bed
+🛏️ Bedroom 5: Queen bed
+🛏️ Bedroom 6: Two Double beds and Twin bed 🛁 Bathroom 3 — Ensuite bathroom (shower and tub combo)
+🛏️ Bedroom 7: Queen bed
+🛁 Bathroom 4 — Hallway Full bathroom with walk-in shower (Serves Bedrooms 4, 5 and 7)
+🛋️ Living room: Twin Daybed
+✨ Additional Spaces
+🛋️ Living room
+🍽️ Dining area
+🍳 Kitchen
+
+Carriage House — First Floor
+
+🛏️ Bedroom 8: King bed
+🛁 Bathroom 5 — Full bathroom with step-in shower (Serves Bedroom 8)
+✨ Additional Spaces
+🛋️ Living room
+🍽️ Dining area
+🍳 Kitchen
+Carriage House — Second Floor
+🛏️ Bedroom 9: Twin over Twin bunk
+🛏️ Bedroom 10: King bed
+🛏️ Bedroom 11: Queen bed and Single bed
+🛏️ Bedroom 12: King bed 🛁 Bathroom 7 — Ensuite bathroom with step-in shower
+🛁 Bathroom 6 — Hallway Full bathroom with shower and tub combo (Serves Bedrooms 9, 10 and 11)
+
+🌴 Outdoor Area
+Private heated outdoor pool and spa exclusively for your group. Includes lounge chairs and outdoor dining area. Direct access from Unit 1 and the carriage house. Unit 2 guests access via a locked gate approximately 10 yards down the sidewalk. Gate codes provided at check-in.
+
+Host Information:
+
+Stay Heirloom professionally manages a collection of handcrafted homes designed to bring your group together. 
+
+If you love this listing, but you are looking for something you don’t see here, please inquire!
+
+Guest access
+All units have locks with door codes. Codes and other check-in details will be provided via message and texted to your phone on the day of check-in.
+
+Other things to note
+HOUSE DISCLOSURES
+–We try our best to accommodate early check-ins, but we want to ensure the entirety of the spacious estate is clean and prepared for arrival. We can often accommodate early bag drop for your convenience. Please inquire if this is of interest to your group.
+
+BUSINESS DISCLAIMERS
+–We have a minimum age requirement for booking this rental. Reservation holder must be 21 years or older.
+–We request that guests complete a guest verification process and sign an additional agreement prior to receiving any check-in information. 
+–We require that guests provide a valid credit card and piece of ID for identification purposes only.  
+–We do not accept peer-to-peer payment systems or any prepaid debit cards as methods of payment. 
+–Pets are not allowed at this property. 
+–Mailing packages to the premises is not permitted.
+–We use Arlo/Hikvision and Noise Aware in our homes. Arlo/Hikvision is a video recording system that has been installed at the front/back doors of the home’s EXTERIOR ONLY, for your safety. NoiseAware is a decibel monitoring system that we use to keep in accordance with local noise regulations.
+
+Permit Numbers: SVR-01943, SVR-01942 & SVR-02497
+Show more
+All sleeping arrangements
+
+Advertised beds: 21 | Enumerated: 21 | Count verified
+
+Bedroom 1
+En suite bathroom, 1 queen bed, 1 single bed
+
+Bedroom 2
+En suite bathroom, 1 queen bed
+
+Bedroom 3
+En suite bathroom, 2 double beds, 1 single bed
+
+Bedroom 4
+1 queen bed, 1 single bed
+
+Bedroom 5
+1 queen bed
+
+Bedroom 6
+2 double beds, 1 single bed
+
+Bedroom 7
+1 queen bed
+
+Bedroom 8
+1 king bed
+
+Bedroom 9
+2 single beds
+
+Bedroom 10
+1 king bed
+
+Bedroom 11
+1 queen bed, 1 single bed
+
+Bedroom 12
+1 king bed
+
+Living room
+1 single bed
+
+What this place offers
+Each Luxe home is fully equipped to meet your needs, with ample space and privacy.
+Private outdoor pool
+Hot tub
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Washer
+Dryer
+Exterior security cameras on property
+Show all 69 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 46 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Pool
+9
+Hospitality
+20
+Family
+9
+Walkability
+6
+Location
+11
+Indoor spaces
+9
+Cleanliness
+8
+Parking
+4
+Hot tub
+4
+Check-in
+3
+Amber
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Great stay! We traveled with a group for a work event and the property was perfect! All of the instructions were clear and easy to follow. We’d definitely love to stay again!
+Melanie
+Atlantic Beach, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+“We booked this Airbnb for our wedding weekend, and it was absolutely perfect. Clean, beautiful, spacious, and exactly as pictured. It made getting ready and spending time with family and friends incredibly easy and enjoyable. The host was responsive and helpful throughout the entire process. We made wonderful memories here and would recommend it without hesitation.”
+Show more
+Andrea
+Jersey City, New Jersey
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Wonderful place, exactly what we needed for our wedding weekend. Thank you so much Jay!
+Eric
+El Segundo, California
+Rating, 3 stars
+,
+·
+April 2026
+,
+·
+Group trip
+Jay and team are very responsive and helpful when dealing with an issue.  Unfortunately for us we dealt with many of them, most notably the pool and hot tub not heating.  This completely ruined our trip for the first few days as neither would heat for us, leaving us without the one amenity we booked the house for.
+Show more
+Jessica
+Middleton, Wisconsin
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Group trip
+We had a fabulous stay! The place is beautiful! We at times had a very large group staying, so all 3 units were perfect for this! We unfortunately also had a few nights that we didn't need the other units, however still worked out wonderfully. The gathering spaces and ability to use all of the extra bed/bedding made it so simple. We had some difficulties with the entering of the units because we somehow checked in and out of one or another with Heirloom but either way all was very responsive and helpful to manage the situations.  We definitely will recommend this accommodation to anyone traveling in Savannah!
+Show more
+Earl
+Little River, South Carolina
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Group trip
+Rented the whole compound for sales staff during meetings in Savannah. It’s convenient to everything in Savannah. It’s a great property with lots of character. I would recommend for team outing or family get together!
+Show more
+Show all 46 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Located a quick 2 min walk away from Forsyth Park, our home places you at the doorstep of Savannah’s acclaimed food and art scenes. Check out the SCAD Museum of Art, or spend the day shopping and dining along the riverfront. There are a few homes in the neighborhood that need to be renovated, so while this could still be considered a transitional neighborhood, we have never had any safety issues. As far as safety is concerned, common sense is the general rule of thumb, just like in any major city. All guests after booking will receive a personalized list of recommendations including locals favorite spots, restaurants, and activities. We will provide detailed information and guides on the surrounding area to enhance your overall experience.
+Show more
+Meet your host
+Jay
+Superhost
+3,007 reviews
+3007
+Reviews
+4.76 out of 5 average rating
+4.76
+Rating
+9 years of hosting
+9
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+My personal loves include my dog, traveling with my wife, and trying to cook the perfect fried chicken. Part of the joy for me is in providing a platform to let you discover what I love about these amazing cities. Cheers, Jay
+Jay is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+No pets
+Learn more
+Safety & property
+Exterior security cameras on property
+Pool/hot tub without a gate or lock
+Carbon monoxide alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Luxury vacation rentals in Savannah
+Vacation rentals with a pool in Chatham County
+House vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

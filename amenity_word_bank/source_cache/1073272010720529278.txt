@@ -1,0 +1,483 @@
+URL: https://www.airbnb.com/rooms/1073272010720529278
+Title: Victorian Apt at Forsyth Park, Savannah, 2nd Floor
+Latitude: 32.0645
+Longitude: -81.0986
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Marcus
+Host ID: 479552118
+Host profile ID: 1470160231818124028
+Host URL: https://www.airbnb.com/users/profile/1470160231818124028
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Step into Savannah’s history without sacrificing modern comfort. This bright, beautifully renovated 1-bedroom flat sits on the second floor of a 150-year-old Victorian home, just one block from iconic Forsyth Park. Here, historic character meets thoughtful upgrades: soaring ceilings, tall windows, decorative fireplaces, and repurposed original wood details blend seamlessly with a fully modern kitchen, keyless entry, and high-speed Wi-Fi.
+
+The space
+Perfect for couples, solo travelers, or anyone looking to explore Savannah’s most beloved sights on foot, our home offers both charm and convenience in one of the city’s most picturesque neighborhoods.
+
+-650 sq ft of light-filled living space with vintage architectural touches.
+-Spacious bedroom with a plush queen bed and en-suite bathroom.
+-Cozy living room ideal for relaxing after a day of sightseeing.
+-Fully equipped kitchen with full-size appliances, Keurig coffee maker, and a backsplash crafted from the home’s original floorboards.
+-Decorative fireplaces throughout (non-working but full of charm).
+-Historic touches including framed documents and photos of the home’s original owners.
+
+Unbeatable location – 1 block to Forsyth Park, 2 blocks to the free DOT shuttle, walkable to coffee shops, restaurants, and markets.
+Free, well-lit street parking right outside the door.
+Easy check-in with keyless entry.
+Fast Wi-Fi & Smart TV for downtime.
+Thoughtful amenities – extra towels, snacks, and flexible baggage drop-off.
+
+Whether you’re here for a weekend getaway, a special event in Forsyth Park, or to explore Savannah’s squares and waterfront, our home puts you close to it all while offering a quiet, comfortable retreat to come back to.
+
+NOTE: Two adult guests are permitted per reservation overnight. Any additional overnight guests will be charged $50.00 per night, per guest.
+
+STVR Certificate: SVR-02820
+
+Other things to note
+Search online for “visit Savannah” and you’ll find Savannah’s official “guide” to the city. A great place to start upon your visit so that you are sure to take advantage of Savannah’s historic beauty and rich culture.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Board games
+Heating and cooling
+Air conditioning
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+There is a video security camera in the lobby of the apartment building.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 335 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Parking and facilities
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Washer
+Washer
+Unavailable: Dryer
+Dryer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Victorian Apt at Forsyth Park, Savannah, 2nd Floor
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+147 reviews
+147
+Reviews
+Hosted by Marcus
+Superhost · 4 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Victorian District near Forsyth Park
+Steps from Forsyth Park, with restaurants, coffee shops, and the free DOT shuttle all within a short walk
+Light-filled Victorian with original details
+A 650 sq ft flat on the second floor of a 150-year-old Victorian with soaring ceilings and tall windows
+Marcus keeps it spotless
+Guests consistently highlight how clean and comfortable the space is, and many praise Marcus by name
+Step into Savannah’s history without sacrificing modern comfort. This bright, beautifully renovated 1-bedroom flat sits on the second floor of a 150-year-old Victorian home, just one block from iconic Forsyth Park. Here, historic character meets thoughtful upgrades: soaring ceilings, tall windows, decorative fireplaces, and repurposed original wood details blend seamlessly with a fully modern kitchen, keyless entry, and high-speed Wi-Fi.
+
+The space
+Perfect for couples, solo travelers, or anyone looking to explore Savannah’s most beloved sights on foot, our home offers both charm and convenience in one of the city’s most picturesque neighborhoods.
+
+-650 sq ft of light-filled living space with vintage architectural touches.
+-Spacious bedroom with a plush queen bed and en-suite bathroom.
+-Cozy living room ideal for relaxing after a day of sightseeing.
+-Fully equipped kitchen with full-size appliances, Keurig coffee maker, and a backsplash crafted from the home’s original floorboards.
+-Decorative fireplaces throughout (non-working but full of charm).
+-Historic touches including framed documents and photos of the home’s original owners.
+
+Unbeatable location – 1 block to Forsyth Park, 2 blocks to the free DOT shuttle, walkable to coffee shops, restaurants, and markets.
+Free, well-lit street parking right outside the door.
+Easy check-in with keyless entry.
+Fast Wi-Fi & Smart TV for downtime.
+Thoughtful amenities – extra towels, snacks, and flexible baggage drop-off.
+
+Whether you’re here for a weekend getaway, a special event in Forsyth Park, or to explore Savannah’s squares and waterfront, our home puts you close to it all while offering a quiet, comfortable retreat to come back to.
+
+NOTE: Two adult guests are permitted per reservation overnight. Any additional overnight guests will be charged $50.00 per night, per guest.
+
+STVR Certificate: SVR-02820
+
+Other things to note
+Search online for “visit Savannah” and you’ll find Savannah’s official “guide” to the city. A great place to start upon your visit so that you are sure to take advantage of Savannah’s historic beauty and rich culture.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Kitchen
+Fast wifi – 335 Mbps
+Free street parking
+TV
+Air conditioning
+Bathtub
+Luggage dropoff allowed
+Hair dryer
+Refrigerator
+Exterior security cameras on property
+Show all 43 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 147 reviews.
+4.95
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 95% of reviews
+5
+4 stars, 5% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Parks
+28
+Walkability
+64
+Location
+79
+Cleanliness
+65
+Nearby
+39
+Comfort
+45
+Hospitality
+46
+Parking
+21
+Getting around
+26
+Quiet
+18
+Jessica
+Las Vegas, Nevada
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+What a lovely, comfortable space. We loved our stay. It was such a perfect location, close to downtown, easy to walk to all the things we wanted to see and do. Parking was easy and plenty of availability along the street. We knew we would have to move the car to accommodate the street sweeping but it was not an issue. Marcus let us know ahead of time so there were no surprises. Also, the bed was deliciously comfortable! No trouble getting good rest during our stay. Five stars all around!
+Show more
+Tracy
+Barnstable, Massachusetts
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great spot to stay right near the park. Clean and had everything we needed. Even a fan after those long hot Savannah days!!
+Meghan
+West Palm Beach, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Had a great short visit to Savannah! Walkable to so many great eateries, coffee, and parks. Cozy spot to unwind while traveling.
+Brandy
+Louisville, Kentucky
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Fantastic! We had a great time and Marcus’s place made us feel even more at home. We loved the location literally like a block from the park. You can walk to lots of areas and restaurants. The townhome was spotless, very clean and he even provided extra blankets and pillows, as well as, a stand up fan for extra comfort. We will definitely choose Marcus place when we come back to Savannah in the future. Thanks so much for hosting us! :-)
+Show more
+Brandon
+Los Angeles, California
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+For a last minute stay this was comfortable, clean, conveniently located and reasonably priced. Would stay again
+Brian
+3 months on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Place was amazing and exactly what me and my girlfriend needed for our little getaway for our anniversary! Everything we wanted to do was within the area we were staying. Either a 30 minute walk or a 5 minute drive. With lots of food and drink options near the place itself. Would stay again for sure
+Show more
+Show all 147 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Cafe crepes square
+Dessert shop
+Georgia State Railroad Museum
+Museum
+Chippewa Square
+Park
+Forsyth Park
+Park
+Davenport House Museum
+Museum
+City Market
+Point of interest
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Savannah Victorian District. Admire the architecture in this 50-block neighborhood, known as Savannah’s first suburb. See fine examples of Victorian homes dating to the 1800s. Prominent features on the two-story frame homes include turrets, towers, bay windows, decorative trim and whimsical colors. Snap a photo and capture the famous fountain and beautiful grounds at Forsyth Park.
+Show more
+Meet your host
+Marcus
+Superhost
+381 reviews
+381
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+4 years of hosting
+4
+Years hosting
+Marcus is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Townhome vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Townhome vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

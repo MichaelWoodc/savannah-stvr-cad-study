@@ -1,0 +1,55 @@
+category,feature,parcels,events,status,adjusted_rate_ratio,ci_low,ci_high
+All calls,hot_tub,472,493,estimated,1.261129989889929,0.8803591657945387,1.8065908928935452
+All calls,pool,472,493,estimated,1.0231564167227902,0.7206443605490926,1.4526569697754617
+All calls,grill,472,493,estimated,1.404467712166522,1.055116740615158,1.8694893925844005
+All calls,fire_pit,472,493,estimated,1.146334691427021,0.6860393192615845,1.915463425891524
+All calls,sound_system,472,493,estimated,1.0843650987763194,0.6804059303626766,1.7281561123628288
+All calls,bar,472,493,estimated,1.1072020529832511,0.7281295094651693,1.6836240946075371
+All calls,outdoor_dining,472,493,estimated,1.1603247427231078,0.8560157625159964,1.572813921811734
+All calls,patio,472,493,estimated,1.865631703972436,1.3615500109141256,2.55633772315883
+All calls,yard,472,493,estimated,1.8925393369387649,1.2940259618783163,2.767877343559374
+Parking complaints,hot_tub,472,26,insufficient event/support count,,,
+Parking complaints,pool,472,26,insufficient event/support count,,,
+Parking complaints,grill,472,26,estimated,0.4046673321788886,0.079497830644866,2.059875702323385
+Parking complaints,fire_pit,472,26,insufficient event/support count,,,
+Parking complaints,sound_system,472,26,insufficient event/support count,,,
+Parking complaints,bar,472,26,insufficient event/support count,,,
+Parking complaints,outdoor_dining,472,26,estimated,0.9161645160589432,0.250050395339369,3.35675302311096
+Parking complaints,patio,472,26,insufficient event/support count,,,
+Parking complaints,yard,472,26,estimated,0.3392536979940074,0.0652028002616263,1.7651553482488194
+Noise complaints,hot_tub,472,27,estimated,3.5744364294920565,1.595334131681748,8.008727159251123
+Noise complaints,pool,472,27,estimated,2.285625566224558,1.0023772848817625,5.211694546325986
+Noise complaints,grill,472,27,estimated,1.9793889087059169,0.8910327081262386,4.397123041809721
+Noise complaints,fire_pit,472,27,estimated,1.619207312960943,0.5245996391187854,4.997777594262763
+Noise complaints,sound_system,472,27,insufficient event/support count,,,
+Noise complaints,bar,472,27,estimated,1.6205940843445903,0.5351853257202748,4.907319128524428
+Noise complaints,outdoor_dining,472,27,estimated,1.724890917059457,0.756358880500137,3.933646781256608
+Noise complaints,patio,472,27,estimated,2.3923419270083213,0.9143201830748714,6.259623271657803
+Noise complaints,yard,472,27,estimated,1.6887924959441998,0.5575271373631923,5.115482105222686
+Loud party,hot_tub,472,22,estimated,2.929189021161555,0.8328393266615105,10.30228526321813
+Loud party,pool,472,22,estimated,1.2120701893953465,0.4114029778503947,3.5709856834218376
+Loud party,grill,472,22,estimated,2.512214122849474,1.0674683856449934,5.912324790050751
+Loud party,fire_pit,472,22,estimated,4.192495739199605,1.2457409765527778,14.109691223167502
+Loud party,sound_system,472,22,estimated,2.519574040578057,0.5594172679343236,11.34797531258926
+Loud party,bar,472,22,estimated,2.717220726106029,0.8784414660288004,8.40498628526503
+Loud party,outdoor_dining,472,22,estimated,1.0759280065999923,0.3140204124825222,3.6864516743817215
+Loud party,patio,472,22,estimated,1.0580269062244112,0.3485404744377883,3.2117387115527283
+Loud party,yard,472,22,estimated,1.5714978489873357,0.4361400239420135,5.66241425643652
+Disturbance / nuisance,hot_tub,472,17,insufficient event/support count,,,
+Disturbance / nuisance,pool,472,17,insufficient event/support count,,,
+Disturbance / nuisance,grill,472,17,insufficient event/support count,,,
+Disturbance / nuisance,fire_pit,472,17,insufficient event/support count,,,
+Disturbance / nuisance,sound_system,472,17,insufficient event/support count,,,
+Disturbance / nuisance,bar,472,17,insufficient event/support count,,,
+Disturbance / nuisance,outdoor_dining,472,17,insufficient event/support count,,,
+Disturbance / nuisance,patio,472,17,insufficient event/support count,,,
+Disturbance / nuisance,yard,472,17,insufficient event/support count,,,
+Noise-party-disturbance,hot_tub,472,66,estimated,2.777965571062727,1.3763738119525988,5.60682908014791
+Noise-party-disturbance,pool,472,66,estimated,1.9034770574605693,0.9345712128880244,3.876884777011492
+Noise-party-disturbance,grill,472,66,estimated,1.6399071155115608,0.9024351092523536,2.980042908274552
+Noise-party-disturbance,fire_pit,472,66,estimated,1.822461697173836,0.728897831787317,4.5566971018715705
+Noise-party-disturbance,sound_system,472,66,estimated,0.9140678240357254,0.2516383043188691,3.3203211617522985
+Noise-party-disturbance,bar,472,66,estimated,1.7304031100570327,0.7436575380603018,4.026443315702999
+Noise-party-disturbance,outdoor_dining,472,66,estimated,1.022142981416739,0.4882543445719405,2.139819719116828
+Noise-party-disturbance,patio,472,66,estimated,1.385975345564539,0.6631452977031048,2.896691969567063
+Noise-party-disturbance,yard,472,66,estimated,1.626712225299155,0.7142390640989135,3.7049116982647465

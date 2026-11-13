@@ -1,0 +1,584 @@
+URL: https://www.airbnb.com/rooms/954458785132344963
+Title: Cheerful & Charming 2BR Condo @ The Lemon Drop!
+Latitude: 32.0636
+Longitude: -81.0913
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Megan
+Host ID: 342904444
+Host profile ID: 1469675143338665045
+Host URL: https://www.airbnb.com/users/profile/1469675143338665045
+Bedrooms: 2
+Occupancy (maximum guests): 5
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed, 1 single bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Make your Savannah vacay easy peasy lemon squeezy 🍋 with a stay at The Lemon Drop! This bright & beautifully renovated 2BR/1BA condo blends historic Savannah charm with colorful, modern comfort. Enjoy soaring ceilings, a spacious living + dining area, a fully equipped kitchen & plenty of room to unwind. Located in the Victorian District just a few blocks from iconic Forsyth Park 🌳, it’s the perfect home base for exploring Savannah on foot!
+
+SVR 02490
+
+The space
+Welcome to The Lemon Drop! 🍋 Step inside and make yourself at home in this bright and spacious second-floor condo in Savannah's beautiful Victorian District. With two bedrooms, a full kitchen, in-unit laundry, and plenty of room to spread out, relax, and recharge, it's a colorful and comfortable home base for your Savannah adventure!
+
+🛋️ LIVING + DINING
+
+The light-filled living and dining space is perfect for hanging out with friends and family, enjoying a meal together, planning the day's adventures, or kicking back after exploring Savannah.
+
+Settle into the spacious living room and stream your favorite shows on the Smart TV using our high-speed WiFi.
+
+🍋 FULL KITCHEN
+
+Our fully equipped kitchen makes everything from a quick breakfast to dinner at home easy. You'll find a large basin sink, dishwasher, range, refrigerator, cookware, dishes, and the essentials for cooking during your stay.
+
+Start your morning with a fresh cup of coffee from the Keurig—we provide a few starter K-Cups to get you going before a day of Savannah exploring! ☕️
+
+Please note: The refrigerator in this unit does not have an ice maker.
+
+🛏️ BEDROOM ONE – KING + TWIN
+
+The spacious primary bedroom features a plush king-sized bed with crisp white linens, plus a twin daybed for an additional guest.
+
+There's also a Smart TV, making this a great spot to sneak away, get cozy, and relax at the end of the day.
+
+🛏️ BEDROOM TWO – QUEEN
+
+The second bedroom features a comfy queen-sized bed with fresh, crisp bedding and its own Smart TV—a cozy space to settle in and recharge for another day in Savannah.
+
+🚿 MODERN BATHROOM
+
+The beautifully renovated bathroom is bright, fresh, and modern, with a gorgeous walk-in shower that adds a little spa-like luxury to your stay.
+
+🧺 WASHER + DRYER
+
+Need to freshen up your clothes during your trip? We've got you covered! A private washer and dryer are located right inside the condo and available for guest use.  Detergent provided.
+
+🌳 WALKABLE + CLOSE TO FORSYTH PARK
+
+The Lemon Drop is tucked into Savannah's beautiful Victorian District, a quieter, more residential part of the city that still puts you close to all the fun.
+
+You'll be just a few blocks from iconic Forsyth Park, making it easy to start your morning with a walk beneath the live oaks, visit the famous fountain, grab a coffee, or enjoy one of the many events happening in the park.
+
+You'll also have neighborhood restaurants within walking distance! Grab a slice at Pizza Party 🍕 or head to Tacos + Tequila for tacos and margaritas. 🌮🍹
+
+Ready to explore downtown? Savannah's downtown nightlife, restaurants, historic squares, and River Street are about a 20-minute walk away, or just a very quick Uber ride. You can also hop aboard Savannah's FREE DOT shuttle, which picks up at Forsyth Park and makes stops throughout the Historic District—an easy way to explore without worrying about driving or parking! 🚎
+
+We love that this location gives you the best of both worlds: a peaceful neighborhood to come home to with so much of Savannah easily accessible on foot, by free shuttle, or with a quick ride.
+
+🚗 FREE STREET PARKING
+
+This condo does not have a dedicated off-street parking space, but parking is typically easy in our neighborhood! You'll find free, non-metered street parking around The Lemon Drop and on the surrounding streets.
+
+That means no daily parking fees or parking garage to deal with—park nearby and start enjoying Savannah! 🚗✨
+
+💛 LOCALLY OWNED + MANAGED
+
+We're Megan & Justin, Savannah locals, and we love getting to share our city with our guests! The Lemon Drop isn't managed by a big, far-away vacation rental company—you'll have local hosts who know Savannah and are nearby if you need us.
+
+We're always happy to share our favorite restaurants, bars, coffee shops, sightseeing spots, hidden gems, and things to do. Looking for the perfect brunch? A great cocktail? Kid-friendly activities? Something fun to do on a rainy day? Just ask! We love helping our guests experience Savannah like a local.
+
+🍋 COMING WITH A BIGGER GROUP?
+
+The Lemon Drop has additional vacation rentals right here in the same building! Consider booking The Lemon Drop Simply the Zest or Lemon Lane in the back along with this condo. It's a great setup for larger families, friend groups, wedding parties, or anyone traveling together who wants to stay close while still having their own space.
+
+Historic charm, modern conveniences, plenty of room, a peaceful neighborhood, and a sweet location—your Savannah stay at The Lemon Drop is easy peasy lemon squeezy! 🍋✨
+
+Guest access
+The entire second floor condo is all yours! You'll enter using your own coded front door and there is no shared space whatsoever. We do ask that you please review the photos to see the stairs you will have to climb to access the condo, as we do not have an elevator or other way to get to the second floor.
+
+Other things to note
+Parking is free and easy on the street right out front! Just be careful for the once per week posted sweep zone times! We provide a handy little sign right on the inside of the condo door to help you with parking which reminds you where you can and cannot park each night!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+50 inch HDTV with Roku
+Theme room
+A room or multiple spaces that are designed to follow the same theme
+Family
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+Security camera on exterior of building monitoring entrance for guest safety.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free street parking
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Cheerful & Charming 2BR Condo @ The Lemon Drop!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+5 guests · 2 bedrooms · 3 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+112 reviews
+112
+Reviews
+Hosted by Megan
+Superhost · 6 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with historic squares and the free DOT shuttle nearby
+Full kitchen with in-unit laundry
+A fully equipped kitchen with a Keurig, dishwasher, and in-unit washer and dryer
+Charming decor and an attentive host
+Guests consistently praise the colorful decor, comfortable beds, and Megan's responsiveness
+Make your Savannah vacay easy peasy lemon squeezy 🍋 with a stay at The Lemon Drop! This bright & beautifully renovated 2BR/1BA condo blends historic Savannah charm with colorful, modern comfort. Enjoy soaring ceilings, a spacious living + dining area, a fully equipped kitchen & plenty of room to unwind. Located in the Victorian District just a few blocks from iconic Forsyth Park 🌳, it’s the perfect home base for exploring Savannah on foot!
+
+SVR 02490
+
+The space
+Welcome to The Lemon Drop! 🍋 Step inside and make yourself at home in this bright and spacious second-floor condo in Savannah's beautiful Victorian District. With two bedrooms, a full kitchen, in-unit laundry, and plenty of room to spread out, relax, and recharge, it's a colorful and comfortable home base for your Savannah adventure!
+
+🛋️ LIVING + DINING
+
+The light-filled living and dining space is perfect for hanging out with friends and family, enjoying a meal together, planning the day's adventures, or kicking back after exploring Savannah.
+
+Settle into the spacious living room and stream your favorite shows on the Smart TV using our high-speed WiFi.
+
+🍋 FULL KITCHEN
+
+Our fully equipped kitchen makes everything from a quick breakfast to dinner at home easy. You'll find a large basin sink, dishwasher, range, refrigerator, cookware, dishes, and the essentials for cooking during your stay.
+
+Start your morning with a fresh cup of coffee from the Keurig—we provide a few starter K-Cups to get you going before a day of Savannah exploring! ☕️
+
+Please note: The refrigerator in this unit does not have an ice maker.
+
+🛏️ BEDROOM ONE – KING + TWIN
+
+The spacious primary bedroom features a plush king-sized bed with crisp white linens, plus a twin daybed for an additional guest.
+
+There's also a Smart TV, making this a great spot to sneak away, get cozy, and relax at the end of the day.
+
+🛏️ BEDROOM TWO – QUEEN
+
+The second bedroom features a comfy queen-sized bed with fresh, crisp bedding and its own Smart TV—a cozy space to settle in and recharge for another day in Savannah.
+
+🚿 MODERN BATHROOM
+
+The beautifully renovated bathroom is bright, fresh, and modern, with a gorgeous walk-in shower that adds a little spa-like luxury to your stay.
+
+🧺 WASHER + DRYER
+
+Need to freshen up your clothes during your trip? We've got you covered! A private washer and dryer are located right inside the condo and available for guest use.  Detergent provided.
+
+🌳 WALKABLE + CLOSE TO FORSYTH PARK
+
+The Lemon Drop is tucked into Savannah's beautiful Victorian District, a quieter, more residential part of the city that still puts you close to all the fun.
+
+You'll be just a few blocks from iconic Forsyth Park, making it easy to start your morning with a walk beneath the live oaks, visit the famous fountain, grab a coffee, or enjoy one of the many events happening in the park.
+
+You'll also have neighborhood restaurants within walking distance! Grab a slice at Pizza Party 🍕 or head to Tacos + Tequila for tacos and margaritas. 🌮🍹
+
+Ready to explore downtown? Savannah's downtown nightlife, restaurants, historic squares, and River Street are about a 20-minute walk away, or just a very quick Uber ride. You can also hop aboard Savannah's FREE DOT shuttle, which picks up at Forsyth Park and makes stops throughout the Historic District—an easy way to explore without worrying about driving or parking! 🚎
+
+We love that this location gives you the best of both worlds: a peaceful neighborhood to come home to with so much of Savannah easily accessible on foot, by free shuttle, or with a quick ride.
+
+🚗 FREE STREET PARKING
+
+This condo does not have a dedicated off-street parking space, but parking is typically easy in our neighborhood! You'll find free, non-metered street parking around The Lemon Drop and on the surrounding streets.
+
+That means no daily parking fees or parking garage to deal with—park nearby and start enjoying Savannah! 🚗✨
+
+💛 LOCALLY OWNED + MANAGED
+
+We're Megan & Justin, Savannah locals, and we love getting to share our city with our guests! The Lemon Drop isn't managed by a big, far-away vacation rental company—you'll have local hosts who know Savannah and are nearby if you need us.
+
+We're always happy to share our favorite restaurants, bars, coffee shops, sightseeing spots, hidden gems, and things to do. Looking for the perfect brunch? A great cocktail? Kid-friendly activities? Something fun to do on a rainy day? Just ask! We love helping our guests experience Savannah like a local.
+
+🍋 COMING WITH A BIGGER GROUP?
+
+The Lemon Drop has additional vacation rentals right here in the same building! Consider booking The Lemon Drop Simply the Zest or Lemon Lane in the back along with this condo. It's a great setup for larger families, friend groups, wedding parties, or anyone traveling together who wants to stay close while still having their own space.
+
+Historic charm, modern conveniences, plenty of room, a peaceful neighborhood, and a sweet location—your Savannah stay at The Lemon Drop is easy peasy lemon squeezy! 🍋✨
+
+Guest access
+The entire second floor condo is all yours! You'll enter using your own coded front door and there is no shared space whatsoever. We do ask that you please review the photos to see the stairs you will have to climb to access the condo, as we do not have an elevator or other way to get to the second floor.
+
+Other things to note
+Parking is free and easy on the street right out front! Just be careful for the once per week posted sweep zone times! We provide a handy little sign right on the inside of the condo door to help you with parking which reminds you where you can and cannot park each night!
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed, 1 single bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+50 inch HDTV with Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Pack ’n play/Travel crib - always at the listing
+Exterior security cameras on property
+Show all 47 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 112 reviews.
+4.93
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 94% of reviews
+5
+4 stars, 5% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+35
+Parking
+18
+Location
+46
+Decor
+29
+Cleanliness
+31
+Comfort
+33
+Hospitality
+33
+Sleep quality
+20
+Parks
+6
+Family
+18
+Carrie
+6 months on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Fun, clean apartment near the Savanah parks!
+Chelsea
+Houston, Texas
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+This is a fun, quirky place that I personally felt was cute and comfortable. It’s clean,  just like the pictures, and has lots of pillows and fresh towels. However, there is a lot of street noise in the front bedroom. My family felt uncomfortable in the neighborhood, but I got the impression that most of Savannah was kind of run down and a mixed bag. It’s walking distance to a few places to eat and a grocery store which I thought was a plus.
+Show more
+Angela
+Manchester, Tennessee
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Beautiful home (upstairs apartment type home). Street sweeper comes through on Monday nights, so if staying on Monday night, you'll have to park around the corner. Not a big deal though, still parked very close. 10 minute walk to Forsyth Park. 33 minute walk to River Street. We opted to drive and park/pay since we were going all the way to River Street. 
+The owner doesn't ask you to do any chores before checking out. That was nice!
+Show more
+Krista
+Windermere, Florida
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Megan’s place is exactly how pictured. We had no issues finding on the street parking. One previous review said there was an issue with the water temperature, we didn't have that issue. Two of us took showers with no issues. We visited some of Megan’s recommend food spots all of them were excellent. We picked this because it's close to everything and is walkable if you choose. Highly recommend staying at Megan’s place.
+Show more
+Lily
+Leicester, North Carolina
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed with kids
+We had a lovely stay at Megan’s Air Bnb. The apartment was well stocked and had everything we needed. It was also beautiful, well decorated, and cozy! It made our weekend girls trip absolutely perfect.
+Show more
+Maria
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Megan,  your  place is great. I love the decoration , very colourful and in keeping with the Savannah vibes. The beds are comfortable and my young adults were very amused of how big one of  the bed was( we don’t have that size in the UK) 
+We have a great time walking around Savannah only 30 minutes. 
+The pizza party restaurant was good choice if you didn’t want to go downtown and the supermarket was only few minutes walk. My family really enjoyed your house thank you for letting us stay.
+Show more
+Show all 112 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+We are located in the Victorian District of Savannah, which is the area immediately bordering the Landmark Historic District to the South. We are four blocks off of Forsyth Park. While the Victorian District has its far share of awesome new spots to check out and explore, we are also pretty close to the downtown, better known tourist locations as well! We are 1.5 miles to the riverfront area and City Market. If you want to get downtown quickly and don't want to drive, walk through the gorgeous scenic squares, or take an Uber, you can just hop on the FREE dot shuttle express trolley, with a nearby stop right on Forsyth Park!
+Show more
+Meet your host
+Megan
+Superhost
+1,381 reviews
+1381
+Reviews
+4.93 out of 5 average rating
+4.93
+Rating
+6 years of hosting
+6
+Years hosting
+Where I went to school: Georgia Tech
+My work: Engineer
+Hey y'all! We're Megan & Justin. We met and fell in love right here in Savannah, and we're lucky to call this beautiful city home. We love strolling beneath the live oaks, exploring historic squares, finding great local food & drinks, and spending sunny afternoons in Forsyth Park. As local hosts, we're always happy to share our favorite restaurants, hidden gems & things to do. We hope you feel right at home and leave loving Savannah as much as we do!
+Megan is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+5 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

@@ -1,0 +1,448 @@
+URL: https://www.airbnb.com/rooms/22447734
+Title: Estate on Gaston near Forsyth by Lucky Savannah
+Latitude: 32.0689
+Longitude: -81.0914
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 5
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 7
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This spectacular 5 bedroom home has been fully renovated to showcase this homes historic features as well as provide all the modern amenities our guests look for.
+
+The space
+Located on beautiful, historic Gaston Street, this spectacular 5 bedroom home has been fully renovated top-to-bottom for a truly luxurious experience. The rich hardwood flooring, crown molding, and high ceilings are complemented with sophisticated-yet-comfortable furnishings, creating an inviting space for guests to relax. In true Savannah style, you’ll enter this home on the “second” floor to find an opening living and dining space, perfect for entertaining! The modern kitchen has stainless steel appliances, a breakfast bar, and a conveniently located TV you can watch while cooking or enjoying your coffee. Just off of the kitchen is a sitting room with double glass doors leading to a private back porch overlooking the courtyard. 
+
+Upstairs you’ll find three roomy, bright, and stylish bedrooms. The first bedroom has a comfortable king bed and TV, perfect for relaxing after a day of sightseeing. With two twin beds and a chalkboard, the second bedroom is perfect for children. The shared bathroom has a glass enclosed shower and waterfall shower head. The Primary Bedroom features a King sized, four poster bed, an en suite with a shower and tub, and an envy-worthy walk-in closet. The ground floor has a separate, outdoor entrance, and an interior staircase and entrance to the main floor. There are two spacious bedrooms, one with a king bed and one with two twin beds, and a private living space. There is also a laundry room off of the kitchen, which has double glass doors leading to the courtyard. 
+ 
+Why Lucky Savannah Loves this Property:
+1) The large, private courtyard has a grill, so you can enjoy the Savannah evening with your family and friends. 
+2) There are two parking spots located behind The Gaston Estate. 
+3) The twin bedrooms are perfect for families with children. 
+4) This home has ample space, making it fantastic for family and/or college reunions, wedding parties, and much more!
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: Two Twin Beds
+Bedroom 3: King Bed
+Bedroom 4: King Bed
+Bedroom 5: Two Twin Beds
+
+SVR-01103
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Estate on Gaston near Forsyth by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+10 guests · 5 bedrooms · 7 beds · 3.5 baths
+Rated 4.88 out of 5 stars.
+4.88
+·
+17 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+On Gaston Street near Forsyth Park
+Right outside Whitefield Square, with Forsyth Park about a 5-min walk away
+Private courtyard with parking
+A private courtyard with a grill and two dedicated parking spots behind the home
+Walkable and spacious
+Guests highlight how walkable the location is and how spacious the home feels
+This spectacular 5 bedroom home has been fully renovated to showcase this homes historic features as well as provide all the modern amenities our guests look for.
+
+The space
+Located on beautiful, historic Gaston Street, this spectacular 5 bedroom home has been fully renovated top-to-bottom for a truly luxurious experience. The rich hardwood flooring, crown molding, and high ceilings are complemented with sophisticated-yet-comfortable furnishings, creating an inviting space for guests to relax. In true Savannah style, you’ll enter this home on the “second” floor to find an opening living and dining space, perfect for entertaining! The modern kitchen has stainless steel appliances, a breakfast bar, and a conveniently located TV you can watch while cooking or enjoying your coffee. Just off of the kitchen is a sitting room with double glass doors leading to a private back porch overlooking the courtyard. 
+
+Upstairs you’ll find three roomy, bright, and stylish bedrooms. The first bedroom has a comfortable king bed and TV, perfect for relaxing after a day of sightseeing. With two twin beds and a chalkboard, the second bedroom is perfect for children. The shared bathroom has a glass enclosed shower and waterfall shower head. The Primary Bedroom features a King sized, four poster bed, an en suite with a shower and tub, and an envy-worthy walk-in closet. The ground floor has a separate, outdoor entrance, and an interior staircase and entrance to the main floor. There are two spacious bedrooms, one with a king bed and one with two twin beds, and a private living space. There is also a laundry room off of the kitchen, which has double glass doors leading to the courtyard. 
+ 
+Why Lucky Savannah Loves this Property:
+1) The large, private courtyard has a grill, so you can enjoy the Savannah evening with your family and friends. 
+2) There are two parking spots located behind The Gaston Estate. 
+3) The twin bedrooms are perfect for families with children. 
+4) This home has ample space, making it fantastic for family and/or college reunions, wedding parties, and much more!
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: Two Twin Beds
+Bedroom 3: King Bed
+Bedroom 4: King Bed
+Bedroom 5: Two Twin Beds
+
+SVR-01103
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 7 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.88 out of 5 stars from 17 reviews
+4.88 · 17 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 88% of reviews
+5
+4 stars, 12% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+6
+Location
+10
+Parks
+2
+Comfort
+5
+Hospitality
+7
+Check-in
+3
+Indoor spaces
+5
+Accuracy
+4
+Air conditioning
+2
+Nearby
+3
+Garrett
+Macon, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+This home is in an amazing part of downtown Savannah. Everything is really walkable and close. The location also has a private parking area and we could fit 3 cars with no problem and a 4th was very possible. If you have a big group this is a great place.
+Show more
+Judy
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+House we stayed in was beautiful. Beds were comfortable. We were within walking distance to everywhere we wanted to go. We had a late flight home and were able to leave our luggage at the office while we enjoyed one last day exploring. Only glitch we had was we did an early check in and the code we were given to get into the house was the wrong code. I called the office, they answered on the second ring, and gave us a new code immediately so I can’t complain.
+Show more
+Susan
+10 years on Airbnb
+Rating, 4 stars
+,
+·
+April 2026
+,
+·
+Group trip
+The home is lovely and comfortable. The air conditioning on the second floor bedroom area was not working and was very warm. Someone was sent promptly to repair. Temporary units were placed which helped most of the problem but not the middle bedroom. 
+The outside wicker furniture could use some cushion. 
+There was coffee and a wee bit of sugar but no creamer which would have been nice. 
+Overall we were very pleased with the house.
+Show more
+Natalie
+Washington, D.C., District of Columbia
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Group trip
+We had a great stay with a group of friends. The house was well located in between downtown Savannah and walkable to restaurants and shops farther west as well. The management company was flexible about check in which was helpful for those of us arriving early. Our only constructive feedback would be more comfy seating so we could all sit together in the living room.
+Show more
+Jontue
+Kentucky, United States
+Rating, 5 stars
+,
+·
+September 2024
+,
+·
+Group trip
+I booked this Airbnb for a girls trip and we could not have loved it more. The place itself is so spacious and gorgeous, perfect for a group trip. It was also central to so many restaurants, bars, grocery store, liquor store, and activities we wanted to do. Everything was 20-30 minutes less of a walk. And on top of it all Lucky Savannah provided a helpful guide prior to the trip with great recs, and were super responsive and friendly. Can't recommend this place more!
+Show more
+Isabel
+New York, New York
+Rating, 4 stars
+,
+·
+April 2023
+,
+·
+Stayed a few nights
+This place was great and exactly like the pictures. We loved the proximity to the park and the gorgeous street it is on. Had a little issue with check in and the AC but found the customer service was great and they reacted quickly. I would recommend!
+Show more
+Show all 17 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

@@ -1,0 +1,440 @@
+URL: https://www.airbnb.com/rooms/24033433
+Title: Garden Apt Across From Clary's by Lucky Savannah
+Latitude: 32.0718
+Longitude: -81.0919
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+On the 200 East block of Jones Street, this historic two bedroom home is steps away from everything including the legendary Clary's Restaurant. With a garden meeting you at your front door, to unwind after a busy day on the town.
+
+The space
+Tucked away behind the massive oak trees is Jones Street Hideaway, a quaint garden-level apartment beneath a 200-year-old estate. Guests will enjoy waking to the sounds of horse-drawn carriages, and spending a slow afternoon walking to the famous Clary's Cafe for brunch.
+
+Enter through the courtyard into your two-bedroom garden apartment. The living area is furnished for comfort with two leather sofas and a large flat-screen TV. A full size kitchen boasts stainless steel appliances and granite countertops, with a dining table fit for four.
+
+Both bedrooms have Queen size beds, and each have access to the full bath with standing shower. This home is ideal for the couple looking to have a quiet respite after a long day of exploring downtown.
+
+Bedroom Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-00905
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Garden Apt Across From Clary's by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Rated 4.75 out of 5 stars.
+4.75
+·
+28 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+On Jones Street in the Historic District
+Steps from Lafayette Square and the Flannery O'Connor Childhood Home, with Forsyth Park about a 5-min walk
+Historic garden apartment with courtyard
+A garden-level apartment beneath a 200-year-old estate, with a courtyard entrance and oak-shaded street
+Full kitchen with granite counters
+A full kitchen with stainless steel appliances, granite counters, and a dishwasher for easy cleanup
+On the 200 East block of Jones Street, this historic two bedroom home is steps away from everything including the legendary Clary's Restaurant. With a garden meeting you at your front door, to unwind after a busy day on the town.
+
+The space
+Tucked away behind the massive oak trees is Jones Street Hideaway, a quaint garden-level apartment beneath a 200-year-old estate. Guests will enjoy waking to the sounds of horse-drawn carriages, and spending a slow afternoon walking to the famous Clary's Cafe for brunch.
+
+Enter through the courtyard into your two-bedroom garden apartment. The living area is furnished for comfort with two leather sofas and a large flat-screen TV. A full size kitchen boasts stainless steel appliances and granite countertops, with a dining table fit for four.
+
+Both bedrooms have Queen size beds, and each have access to the full bath with standing shower. This home is ideal for the couple looking to have a quiet respite after a long day of exploring downtown.
+
+Bedroom Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-00905
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.75 out of 5 stars from 28 reviews
+4.75 · 28 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 75% of reviews
+5
+4 stars, 25% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.7 out of 5 stars for cleanliness
+Cleanliness
+4.7
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.7 out of 5 stars for check-in
+Check-in
+4.7
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.5 out of 5 stars for value
+Value
+4.5
+Guest reviews mention
+Walkability
+12
+Location
+21
+Access
+4
+Check-in
+5
+Quiet
+4
+Sleep quality
+4
+Comfort
+4
+Cleanliness
+4
+Nearby
+3
+Checkout
+3
+Ashley
+Put-in-Bay, Ohio
+Rating, 4 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+4.5/5 stars! This location was so walkable and the street was beautiful! Generally the location was peaceful and a great home base for our Savannah trip. It is close to so many great spots and easy to find!
+My only negatives were 1) I was sent the wrong code to get in and it took some time to get the correct code. 
+2) 2/3 nights the people who lived upstairs were incredibly loud from midnight until 7am. Moving furniture, stomping around, it sounded like several people both nights. We hardly got any sleep even though the beds are really comfy! This is the only thing that would keep us from booking here again. If you have good ear buds/ear plugs then this would be a great spot for you!
+Show more
+Lori
+Jasper, Georgia
+Rating, 5 stars
+,
+·
+June 2025
+,
+·
+Stayed a few nights
+We really enjoyed our stay. The Wi-Fi was excellent. We were able to walk everywhere. The environment was beautiful and quiet.
+Show more
+Jada
+Appleton, Wisconsin
+Rating, 4 stars
+,
+·
+May 2023
+,
+·
+Stayed a few nights
+This Lucky Savannah rental was in a cute location and is right near the downtown area which was perfect for us. It is also very walkable too which we really enjoyed! The only issue we had was getting into the apartment at first but eventually got the hang of it.. the lock was just a little tricky! Overall, the place was clean, cozy and felt very welcoming. We will definitely be back!
+Show more
+Kelly
+5 years on Airbnb
+Rating, 4 stars
+,
+·
+April 2023
+,
+·
+Stayed a few nights
+The rental was in a great location; central to most everything in the Historic District. There was enough space to move around easily. The only real issue is with the bathroom. You can only access it through a bedroom, and it can feel rather cramped at times, especially since the washer and dryer are located there.
+Show more
+Andi
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+April 2025
+,
+·
+Stayed a few nights
+This place is beautiful and so walkable. Safe area. Loved it
+Show more
+Jason
+Minneapolis, Minnesota
+Rating, 4 stars
+,
+·
+March 2023
+,
+·
+Stayed a few nights
+Everything was great but when you deal with a company rather than an individual it makes it more difficult to communicate. The whole place was really good, but we were hoping to check in early and could not get someone to communicate with right away. 
+That would be the only reason we wouldn't rent this place again.
+Show more
+Show all 28 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,467 @@
+URL: https://www.airbnb.com/rooms/1149169229163090596
+Title: Magnolia Carriage - Downtown, Easy Parking
+Latitude: 32.0728
+Longitude: -81.0876
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Welcome to Magnolia Carriage—your serene retreat nestled in vibrant downtown Savannah. Just steps from iconic River Street and the city’s famed cobblestone lanes, this beautifully appointed guesthouse offers the perfect blend of charm, comfort, and convenience.
+
+The space
+🛏️ Relax in Comfort
+Unwind in style with plush memory foam mattresses, cozy linens, and thoughtfully curated decor. Whether you're here for a romantic getaway or a solo escape, restful nights await.
+
+🍳 Fully Equipped Kitchen
+Cook up your favorite meals in the well-stocked kitchen, complete with cookware, utensils, seasonings, and cooking oil—everything you need for a night in.
+
+🚗 Easy Parking & Walkability
+Enjoy the convenience of a private garage spot suitable for a mid-size or smaller vehicle, or take advantage of free street parking on the block. With Savannah’s top attractions, restaurants, and shops just a short stroll away, you may not even want a car.
+
+🌳 Historic & Peaceful Location
+Tucked away on a quiet block of a tree-lined street in the historic district, Magnolia Carriage offers a peaceful haven after a day of exploring. Guests also have access to a shared courtyard—perfect for sipping sweet tea and soaking in the Southern charm. Every corner of Savannah tells a story—immerse yourself in its rich history, vibrant arts scene, and unforgettable hospitality.
+
+✨ Your Savannah Story Starts Here
+Whether you're relaxing in the courtyard or discovering hidden gems around town, Magnolia Carriage is your perfect home base. We can’t wait to host you!
+
+STVR Certificate: SVR-01421
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+Ethernet connection
+TV with standard cable
+Family
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Stove
+Oven
+Coffee maker
+Wine glasses
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free residential garage on premises – 1 space
+Free street parking
+Paid street parking off premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Camera at garage
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Magnolia Carriage - Downtown, Easy Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.94 out of 5 stars.
+4.94
+149 reviews
+149
+Reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+In Savannah's Historic District
+Right outside Troup Square, with Lafayette Square and the Cathedral about a 5-min walk away
+Private garage parking included
+A private garage spot means no circling for parking in downtown Savannah
+Chaz keeps it spotless and simple
+Guests call it clean, comfortable, and walkable, and many highlight Chaz as a responsive host
+Welcome to Magnolia Carriage—your serene retreat nestled in vibrant downtown Savannah. Just steps from iconic River Street and the city’s famed cobblestone lanes, this beautifully appointed guesthouse offers the perfect blend of charm, comfort, and convenience.
+
+The space
+🛏️ Relax in Comfort
+Unwind in style with plush memory foam mattresses, cozy linens, and thoughtfully curated decor. Whether you're here for a romantic getaway or a solo escape, restful nights await.
+
+🍳 Fully Equipped Kitchen
+Cook up your favorite meals in the well-stocked kitchen, complete with cookware, utensils, seasonings, and cooking oil—everything you need for a night in.
+
+🚗 Easy Parking & Walkability
+Enjoy the convenience of a private garage spot suitable for a mid-size or smaller vehicle, or take advantage of free street parking on the block. With Savannah’s top attractions, restaurants, and shops just a short stroll away, you may not even want a car.
+
+🌳 Historic & Peaceful Location
+Tucked away on a quiet block of a tree-lined street in the historic district, Magnolia Carriage offers a peaceful haven after a day of exploring. Guests also have access to a shared courtyard—perfect for sipping sweet tea and soaking in the Southern charm. Every corner of Savannah tells a story—immerse yourself in its rich history, vibrant arts scene, and unforgettable hospitality.
+
+✨ Your Savannah Story Starts Here
+Whether you're relaxing in the courtyard or discovering hidden gems around town, Magnolia Carriage is your perfect home base. We can’t wait to host you!
+
+STVR Certificate: SVR-01421
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free residential garage on premises – 1 space
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Bathtub
+Pack ’n play/Travel crib - always at the listing
+Show all 46 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.94 out of 5 from 149 reviews.
+4.94
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 94% of reviews
+5
+4 stars, 6% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+75
+Parking
+55
+Location
+84
+Cleanliness
+45
+Hospitality
+50
+Comfort
+31
+Quiet
+25
+Sleep quality
+14
+Nearby
+20
+Access
+17
+Jack
+3 years on Airbnb
+Rating, 4 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+I had a great stay in Savannah. The location is reasonably close to the riverwalk district and forsyth park. I went on the trolly tour and the large baptist church stop was only a 5-10 minute walk and from there was able to go all over the city. This air bnb doesnt have much going for it in terms of a view but there are many pretty sites around. You are over a shared garage so depending on how much the other guests come and go detemines how much of an annoyance that might be. It is a pretty noisy garage door too so its not like it goes unnoticed. Having a garage is a very nice addition bc parking can be tricky in Savannah. Overall I think it is a good spot for a couple or solo traveler. The bathroom was very clean and the rest of the space was cleanly aswell. I would stay here again if I ever return to Savannah
+Show more
+Vasilia
+Tampa, Florida
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We really enjoyed our stay in Savannah, it was such a fun and memorable trip! Chaz was incredibly welcoming and did a great job explaining all the check-in and check-out instructions, along with all the important details we needed during our stay. Everything was exactly as described, and the photos were an accurate representation of the place. The location was amazing as well, everything is super close to the center of Savannah and very walkable, which made exploring the city so easy and enjoyable. We had a wonderful experience from start to finish!
+Show more
+Nabanita
+Seattle, Washington
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We really enjoyed our stay! The location was great, the space was clean and comfortable, and the host was wonderful. We would happily book again!
+Jeremy
+Ho Chi Minh City, Vietnam
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+This is a great location and the unit is perfect for a single or couple.  The sofa bed wasn't very comfortable so I wouldn't recommend for more than two.  The apartment is beautifully decorated and was spotless on arrival.  If you want to have easy walking access to everything Savannah has to offer I would highly recommend this location.  It also comes with a private parking space which was a nice perk.
+Show more
+Edward
+8 months on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Chaz was a great host. Very responsive to any questions we had. The unit and surrounding area was clean and safe. Close to downtown shopping and restaurants. Would recommend.
+Clarissa
+Georgetown, South Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+My husband and I really enjoyed our stay!!
+The location is great, you have quick and easy entry and exit from the city and great accessibility to all the various areas of the City. We did end up grabbing quite a few Ubers and never had to spend over $10 per as we were within 3 miles of pretty much everything we wanted to do. 
+The only surprise we had would be the garage. I have a Kia sportage (mid size suv) and we had to do a 3-point turn and fold the side mirrors in to get into the garage. That said, it really was not a big deal for us and instead was just something we had to get used to as visitors!
+Show more
+Show all 149 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Located on a safe and quiet historic street, The Carriage House is the ideal home base for your Savannah adventures. Every street in Savannah offers something special, from charming cobblestone roads to a vibrant arts and dining scene. You'll never run out of things to discover.
+Show more
+Meet your host
+Chaz
+Superhost
+3,098 reviews
+3098
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Townhome vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Townhome vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

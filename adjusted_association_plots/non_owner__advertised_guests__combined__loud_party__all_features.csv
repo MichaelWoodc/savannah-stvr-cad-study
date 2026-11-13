@@ -1,0 +1,20 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr
+non_owner,advertised_guests,combined,Loud party,mention_bar,Bar mention,amenities,411,41,90,321,14,27,2.025595422010632,1.0335616355174888,3.9698037085288105,0.0397671677193744,0.2486931832002671
+non_owner,advertised_guests,combined,Loud party,mention_wine,Wine / wine accessories,amenities,411,41,272,139,31,10,1.5055089998032791,0.6492355130674302,3.491117326253322,0.3403869032508145,0.6649049532032228
+non_owner,advertised_guests,combined,Loud party,mention_outdoor,Outdoor space,amenities,411,41,240,171,33,8,2.442855690976904,0.969858861554939,6.153002424879332,0.058083803862461,0.3106606952628641
+non_owner,advertised_guests,combined,Loud party,mention_yard,Yard / garden / courtyard,amenities,411,41,268,143,31,10,1.3702670108725965,0.5875005235170356,3.1959659709669594,0.4659780062220496,0.7477255632473516
+non_owner,advertised_guests,combined,Loud party,mention_pool,Swimming pool,amenities,411,41,91,320,14,27,1.9151426449025144,1.062592951969737,3.4517181236005947,0.0306179721852072,0.2231118320974233
+non_owner,advertised_guests,combined,Loud party,mention_hot_tub,Hot tub / Jacuzzi,amenities,411,41,32,379,11,30,3.785207526717093,1.6420572584795414,8.725515475375394,0.0017844952181771,0.0385023736360431
+non_owner,advertised_guests,combined,Loud party,mention_sound_system,Sound system / speakers,amenities,411,41,33,378,8,33,2.625245667937497,0.8483211254214952,8.124181528074397,0.0940134786426094,0.3799562973840798
+non_owner,advertised_guests,combined,Loud party,mention_wedding,Wedding / bridal mention,amenities,411,41,36,375,6,35,1.346885066710454,0.3181482396589537,5.702056955814967,0.6858599835832362,0.873148933362564
+non_owner,advertised_guests,combined,Loud party,mention_events,Events / gatherings,amenities,411,41,137,274,16,25,0.9706147774323216,0.4511374155012867,2.0882618328678797,0.939180032679762,0.9711089825029652
+non_owner,advertised_guests,combined,Loud party,mention_rooftop,Rooftop / roof deck,amenities,411,41,20,391,4,37,1.9563043988061577,0.3038699728117088,12.594620210006,0.4800044855320445,0.7477255632473516
+non_owner,advertised_guests,combined,Loud party,mention_patio,Patio / deck / balcony / porch,amenities,411,41,257,154,33,8,2.063592433912861,0.7544688746145438,5.644253694995728,0.1581903366032468,0.4663652818054464
+non_owner,advertised_guests,combined,Loud party,mention_grill,Grill / BBQ,amenities,411,41,89,322,13,28,1.5197339632327176,0.7047063624613236,3.2773811079785453,0.2857781615429248,0.6170715128314282
+non_owner,advertised_guests,combined,Loud party,mention_fire_pit,Fire pit,amenities,411,41,21,390,5,36,2.4220695901787264,0.7610763416381726,7.7080586778474975,0.1341985347686616,0.4358851633183661
+non_owner,advertised_guests,combined,Loud party,mention_beer,Beer / beer pong,amenities,411,41,19,392,3,38,1.8498846384299563,0.5246294972166167,6.522837914480006,0.3387101130569706,0.664728512275741
+non_owner,advertised_guests,combined,Loud party,mention_cocktails,Cocktails / spirits,amenities,411,41,67,344,12,29,1.841120886350768,0.7940073529058699,4.269136936517629,0.1548953490693096,0.4619299022066956
+non_owner,advertised_guests,combined,Loud party,mention_music,Music / DJ,amenities,411,41,52,359,6,35,1.0940409544629233,0.313763967123924,3.814732523347421,0.8878362792910183,0.9502002580407066
+non_owner,advertised_guests,combined,Loud party,mention_outdoor_dining,Outdoor dining,amenities,411,41,97,314,11,30,0.9617197290016616,0.3848451091532376,2.403317114217894,0.9334305556847644,0.9693630110769688
+non_owner,advertised_guests,combined,Loud party,keyword_swimming_pool,Swimming Pool,keywords,411,41,88,323,14,27,1.9914776325928285,1.112222170676093,3.5658191912383024,0.0204563677738636,0.1843511237261623
+non_owner,advertised_guests,combined,Loud party,keyword_hot_tub,Hot Tub,keywords,411,41,20,391,5,36,2.61811644477372,0.9411364490236896,7.283251780871196,0.0652152560035932,0.3235958535238569

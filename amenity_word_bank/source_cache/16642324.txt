@@ -1,0 +1,464 @@
+URL: https://www.airbnb.com/rooms/16642324
+Title: Adorable Cottage 2 Blocks From Forsyth Park - B
+Latitude: 32.0638
+Longitude: -81.0938
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This is a late 1800's Victorian home - we have kept some of the original features, such as the doors/trim, hardwood floors and some fixtures. It has been updated/renovated to adjust to the times, giving you everything you need to call this space home!
+
+***This is one side of a duplex - message me about renting the entire duplex - 5 Bedrooms (10 People)***
+
+SVR-00690
+
+The space
+FREE Wifi 
+Smart TV with Netflix, Hulu, Pandora, etc. 
+Has kitchen essentials - coffee maker, grinder, toaster, microwave. All utensils included in drawers and cabinets.
+
+We have a 2 dog maximum, no cats. The one-time pet fee for one dog is $100, and $200 for 2.
+
+Guest access
+PARKING IS EASY! Just pull right up in front of the house and park. Be sure to check the street signs for information on which side of the street to park on for which night as there are street sweepers. 
+
+There is a comfortable and private backyard area with table and chairs.
+
+Other things to note
+We have a 2 dog maximum, no cats. The one-time pet fee for one dog is $100, and $200 for 2.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Smart lock
+Not included
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Adorable Cottage 2 Blocks From Forsyth Park - B
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.86 out of 5 stars.
+4.86
+520 reviews
+520
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Victorian Historic District
+About a 5-min walk to Forsyth Park, with coffee shops and restaurants just blocks away
+Private patio behind the cottage
+A private backyard patio with table and chairs, tucked behind the cottage
+Consistently praised by guests
+Guests call it clean, comfortable, and exactly as described, with many planning return visits
+This is a late 1800's Victorian home - we have kept some of the original features, such as the doors/trim, hardwood floors and some fixtures. It has been updated/renovated to adjust to the times, giving you everything you need to call this space home!
+
+***This is one side of a duplex - message me about renting the entire duplex - 5 Bedrooms (10 People)***
+
+SVR-00690
+
+The space
+FREE Wifi 
+Smart TV with Netflix, Hulu, Pandora, etc. 
+Has kitchen essentials - coffee maker, grinder, toaster, microwave. All utensils included in drawers and cabinets.
+
+We have a 2 dog maximum, no cats. The one-time pet fee for one dog is $100, and $200 for 2.
+
+Guest access
+PARKING IS EASY! Just pull right up in front of the house and park. Be sure to check the street signs for information on which side of the street to park on for which night as there are street sweepers. 
+
+There is a comfortable and private backyard area with table and chairs.
+
+Other things to note
+We have a 2 dog maximum, no cats. The one-time pet fee for one dog is $100, and $200 for 2.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.86 out of 5 from 520 reviews.
+4.86
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 88% of reviews
+5
+4 stars, 11% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Parks
+73
+Location
+330
+Walkability
+199
+Parking
+73
+Comfort
+112
+Hospitality
+168
+Backyard
+56
+Cleanliness
+122
+Getting around
+74
+Nearby
+124
+Brittney
+Chalfont, Pennsylvania
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with a pet
+Perfect spot for my dog and I while staying in Savannah. We loved the outdoor space and close proximity to Forsyth park. Parking was easy. Very glad I chose this place!
+Tripp
+Moose Pass, Alaska
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed about a week
+I had a great stay! The property was in a very good area and conveniently located. It was easy to get around and close to everything we needed. The stay was comfortable and enjoyable, and I would definitely recommend it to others looking for a convenient place to stay.
+Show more
+Leah
+Decatur, Texas
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Quiet place, near a park. Cute backyard. 
+The back gate was a little hard to lock but overall good experience.
+Colleen
+Verona, Wisconsin
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+Absolutely loved the neighborhood and proximity to the park! Beautiful backyard area to relax and comfy bed!
+T
+Bridgeport, Connecticut
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Brandon and Chase are awesome host. Our stay was amazing and the place as wonderful.  Location is as described, close to the famous park and a short uber ride from downtown. The whole, very friendly and understanding and I appreciate them beyond words. Neighborhood is very safe, diverse and walkable.
+Show more
+Amelie
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with a pet
+We love staying in this property or the one right next door each time we stay in Savannah. You can walk to Forsyth park, the farmers market, and even to River Street. It is very comfortable and the back patio is fantastic.
+Show more
+Show all 520 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Green Truck Neighborhood Pub
+American restaurant
+Mrs. Wilkes Dining Room
+American restaurant
+The Vault Kitchen & Market
+Asian restaurant
+Cotton & Rye
+American restaurant
+Local 11ten Food | Wine
+Restaurant
+Husk Savannah
+American restaurant
+Treylor Park
+American restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Just a few blocks away from Forsyth park - about a 2 minute walk. Great coffee/breakfast spots right there at your fingertips.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 10:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

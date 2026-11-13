@@ -1,0 +1,16 @@
+series,size,rate,parcels
+Owner-occupied,3.0,1.0924725822532404,5
+Owner-occupied,4.0,1.2138584247258226,1
+Owner-occupied,6.0,0.910393818544367,2
+Owner-occupied,7.0,1.2138584247258226,1
+Owner-occupied,8.0,2.427716849451645,1
+Non-owner-occupied,1.0,0.0,2
+Non-owner-occupied,2.0,0.9103938185443672,20
+Non-owner-occupied,3.0,0.635830603427812,21
+Non-owner-occupied,4.0,0.9103938185443672,12
+Non-owner-occupied,5.0,1.2897245762711864,8
+Non-owner-occupied,6.0,2.630026586905949,3
+Non-owner-occupied,7.0,1.820787637088734,1
+Non-owner-occupied,8.0,0.6069292123629113,1
+Non-owner-occupied,9.0,1.2138584247258226,1
+Non-owner-occupied,16.0,0.0,1

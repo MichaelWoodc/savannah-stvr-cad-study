@@ -1,0 +1,694 @@
+URL: https://www.airbnb.com/rooms/48400319
+Title: Exquisite Estate on Broughton Street!
+Latitude: 32.07623
+Longitude: -81.08596
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 4
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Bring everyone together at Broughton Street House Estate, a beautifully restored Historic District retreat featuring both a spacious main house and private carriage house. Sleeping up to 10 guests, this unique property offers a private courtyard, garage parking, fully equipped kitchens, and complimentary access to Southern Belle's heated pool on Tybee Island. Walk to River Street, local dining, shopping, and Savannah's iconic historic squares.
+
+The space
+Welcome to Broughton Street House Estate
+
+Experience the timeless charm of Savannah from Broughton Street House Estate, a beautifully restored Historic District retreat that brings together a spacious main residence and a private carriage house to create one unforgettable getaway. Designed for families, friends, wedding parties, and group vacations, this unique property comfortably accommodates up to 10 guests while offering the privacy and flexibility of two separate living spaces. Located on the eastern end of Broughton Street just a few blocks from River Street, you'll be perfectly positioned to experience everything that makes Savannah one of the South's most beloved destinations.
+
+
+
+Spend your days strolling beneath moss-draped oaks, exploring historic squares, shopping local boutiques, dining at award-winning restaurants, or discovering museums and galleries—all within easy walking distance of your front door. Whether you're planning a long weekend, celebrating a milestone, or gathering loved ones for a memorable vacation, Broughton Street House Estate offers the perfect blend of historic character, modern comfort, and an unbeatable location. As an added bonus, guests also enjoy complimentary access to Southern Belle's heated resort-style swimming pool at 19 Silver Avenue on Tybee Island, giving you the opportunity to experience both downtown Savannah and the coast during your stay.
+
+
+
+A Historic Home with Room for Everyone
+
+One of the things that makes Broughton Street House Estate so special is the space it provides for larger groups. Your reservation includes exclusive access to both the beautifully restored main house and the private carriage house, allowing everyone to stay together while still enjoying plenty of room to spread out. The main residence welcomes you with inviting gathering spaces filled with natural light and timeless architectural details that reflect the beauty of historic Savannah. Comfortable living areas provide the perfect place to relax after a day of sightseeing, while elegant touches throughout the home create a warm and welcoming atmosphere.
+
+
+
+The fully equipped kitchen includes full-size appliances, cookware, dishes, and everything needed to prepare meals throughout your stay. Whether you're making a quick breakfast before exploring downtown or sitting down together for dinner after a busy day, you'll find everything you need. The adjoining dining room creates a wonderful setting for shared meals, celebrations, board games, or simply spending quality time together.
+
+Sleeping accommodations have been thoughtfully arranged for comfort and convenience. The main house features two king bedrooms, one queen bedroom, two full bathrooms, one half bath, and a sleeper sofa for additional sleeping space.
+
+
+
+Just across the private courtyard, the carriage house offers another complete living space with a king bedroom, leather sleeper sofa, full bathroom, fully equipped kitchen, and dining area for four. This separate residence is ideal for grandparents, another family, or anyone who appreciates a little extra privacy while remaining just steps away from the rest of the group. Historic charm can be found throughout both homes, from beautiful hardwood floors and decorative fireplaces to elegant lighting, classic architectural details, and thoughtfully selected furnishings. At the same time, modern conveniences ensure a comfortable stay, including complimentary Wi-Fi, multiple televisions, central heating and air conditioning, and an in-home washer and dryer.
+
+
+
+Relax, Gather & Enjoy Your Stay
+
+Between adventures around Savannah, Broughton Street House Estate offers plenty of places to slow down and simply enjoy being together. The private courtyard serves as the heart of the property, creating a peaceful outdoor space where guests can sip morning coffee, enjoy lunch in the fresh air, or unwind with evening drinks after exploring the city. Surrounded by the main residence and carriage house, the courtyard offers a quiet retreat while remaining just steps from Savannah's vibrant Historic District. Parking is another convenience that sets this property apart. Two private garage parking spaces are included with your stay, allowing you to leave your vehicles behind and explore much of Savannah's Historic District on foot. The garage is accessed from the rear alleyway, and because the entrance requires a fairly tight turn, mid-size cars and smaller SUVs are recommended for the easiest access.
+
+
+
+Discover the Best of Savannah
+
+One of the greatest advantages of staying at Broughton Street House Estate is its exceptional location. Situated in Savannah's Historic District, the property places you within walking distance of many of the city's most iconic attractions. Start your day with coffee from a neighborhood café before browsing the locally owned boutiques and specialty shops along Broughton Street. Just a few blocks away, River Street offers historic cobblestone walkways, waterfront restaurants, candy shops, live entertainment, and scenic views of the Savannah River.
+
+
+
+Take time to explore Savannah's twenty-two historic squares, visit the iconic Forsyth Park, or discover nearby museums, galleries, and beautifully preserved historic landmarks. From Southern favorites and fresh seafood to rooftop dining, bakeries, coffee shops, and craft cocktail bars, you'll find no shortage of incredible local dining options nearby. Please note that because Broughton Street House Estate is located on historic Broughton Street, guests may occasionally experience the sounds and activity that naturally come with staying in the heart of a lively downtown neighborhood, a location many visitors consider part of the authentic Savannah experience.
+
+
+
+Your Historic Savannah Getaway Awaits
+
+Whether you're gathering with family for the holidays, celebrating a birthday or anniversary, attending a wedding, or planning a weekend with friends, Broughton Street House Estate provides the perfect setting for making lasting memories. With accommodations for up to 10 guests, a beautifully restored main home, a private carriage house, a peaceful courtyard, two garage parking spaces, heated pool access, and an exceptional location in Savannah's Historic District, this one-of-a-kind property offers everything you need for a comfortable and unforgettable stay.
+
+Guest access
+Main House Features: 
+
+full kitchen
+
+elegant dining room
+
+2 king bedrooms
+
+1 queen bedroom
+
+2 full bathrooms
+
+1 half bathroom
+
+sleeper sofa
+
+
+
+Carriage house features: 
+
+full kitchen
+
+table with seating for 4
+
+1 king bedroom
+
+1 full bathroom 
+
+leather sleeper sofa
+
+The garage is accessed via the alleyway, and larger vehicles may find it difficult to make the turn into the space. Mid-size and smaller cars are recommended for easier access.
+
+Garage parking- Garage Parking- with a JuiceBox Level 2 electric car charging station
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+SVR-02297
+
+SVR-02296
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Pool
+EV charger
+Guests can charge their electric vehicles on the property
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Exquisite Estate on Broughton Street!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+10 guests · 4 bedrooms · 6 beds · 3.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.84 out of 5 stars.
+4.84
+31 reviews
+31
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Washington Square, with River Street and Forsyth Park an easy walk away
+Two restored homes around a courtyard
+A main house and private carriage house connected by a quiet courtyard
+Loved for its charm and location
+Guests highlight the charm, walkable location, and comfortable beds throughout
+Bring everyone together at Broughton Street House Estate, a beautifully restored Historic District retreat featuring both a spacious main house and private carriage house. Sleeping up to 10 guests, this unique property offers a private courtyard, garage parking, fully equipped kitchens, and complimentary access to Southern Belle's heated pool on Tybee Island. Walk to River Street, local dining, shopping, and Savannah's iconic historic squares.
+
+The space
+Welcome to Broughton Street House Estate
+
+Experience the timeless charm of Savannah from Broughton Street House Estate, a beautifully restored Historic District retreat that brings together a spacious main residence and a private carriage house to create one unforgettable getaway. Designed for families, friends, wedding parties, and group vacations, this unique property comfortably accommodates up to 10 guests while offering the privacy and flexibility of two separate living spaces. Located on the eastern end of Broughton Street just a few blocks from River Street, you'll be perfectly positioned to experience everything that makes Savannah one of the South's most beloved destinations.
+
+
+
+Spend your days strolling beneath moss-draped oaks, exploring historic squares, shopping local boutiques, dining at award-winning restaurants, or discovering museums and galleries—all within easy walking distance of your front door. Whether you're planning a long weekend, celebrating a milestone, or gathering loved ones for a memorable vacation, Broughton Street House Estate offers the perfect blend of historic character, modern comfort, and an unbeatable location. As an added bonus, guests also enjoy complimentary access to Southern Belle's heated resort-style swimming pool at 19 Silver Avenue on Tybee Island, giving you the opportunity to experience both downtown Savannah and the coast during your stay.
+
+
+
+A Historic Home with Room for Everyone
+
+One of the things that makes Broughton Street House Estate so special is the space it provides for larger groups. Your reservation includes exclusive access to both the beautifully restored main house and the private carriage house, allowing everyone to stay together while still enjoying plenty of room to spread out. The main residence welcomes you with inviting gathering spaces filled with natural light and timeless architectural details that reflect the beauty of historic Savannah. Comfortable living areas provide the perfect place to relax after a day of sightseeing, while elegant touches throughout the home create a warm and welcoming atmosphere.
+
+
+
+The fully equipped kitchen includes full-size appliances, cookware, dishes, and everything needed to prepare meals throughout your stay. Whether you're making a quick breakfast before exploring downtown or sitting down together for dinner after a busy day, you'll find everything you need. The adjoining dining room creates a wonderful setting for shared meals, celebrations, board games, or simply spending quality time together.
+
+Sleeping accommodations have been thoughtfully arranged for comfort and convenience. The main house features two king bedrooms, one queen bedroom, two full bathrooms, one half bath, and a sleeper sofa for additional sleeping space.
+
+
+
+Just across the private courtyard, the carriage house offers another complete living space with a king bedroom, leather sleeper sofa, full bathroom, fully equipped kitchen, and dining area for four. This separate residence is ideal for grandparents, another family, or anyone who appreciates a little extra privacy while remaining just steps away from the rest of the group. Historic charm can be found throughout both homes, from beautiful hardwood floors and decorative fireplaces to elegant lighting, classic architectural details, and thoughtfully selected furnishings. At the same time, modern conveniences ensure a comfortable stay, including complimentary Wi-Fi, multiple televisions, central heating and air conditioning, and an in-home washer and dryer.
+
+
+
+Relax, Gather & Enjoy Your Stay
+
+Between adventures around Savannah, Broughton Street House Estate offers plenty of places to slow down and simply enjoy being together. The private courtyard serves as the heart of the property, creating a peaceful outdoor space where guests can sip morning coffee, enjoy lunch in the fresh air, or unwind with evening drinks after exploring the city. Surrounded by the main residence and carriage house, the courtyard offers a quiet retreat while remaining just steps from Savannah's vibrant Historic District. Parking is another convenience that sets this property apart. Two private garage parking spaces are included with your stay, allowing you to leave your vehicles behind and explore much of Savannah's Historic District on foot. The garage is accessed from the rear alleyway, and because the entrance requires a fairly tight turn, mid-size cars and smaller SUVs are recommended for the easiest access.
+
+
+
+Discover the Best of Savannah
+
+One of the greatest advantages of staying at Broughton Street House Estate is its exceptional location. Situated in Savannah's Historic District, the property places you within walking distance of many of the city's most iconic attractions. Start your day with coffee from a neighborhood café before browsing the locally owned boutiques and specialty shops along Broughton Street. Just a few blocks away, River Street offers historic cobblestone walkways, waterfront restaurants, candy shops, live entertainment, and scenic views of the Savannah River.
+
+
+
+Take time to explore Savannah's twenty-two historic squares, visit the iconic Forsyth Park, or discover nearby museums, galleries, and beautifully preserved historic landmarks. From Southern favorites and fresh seafood to rooftop dining, bakeries, coffee shops, and craft cocktail bars, you'll find no shortage of incredible local dining options nearby. Please note that because Broughton Street House Estate is located on historic Broughton Street, guests may occasionally experience the sounds and activity that naturally come with staying in the heart of a lively downtown neighborhood, a location many visitors consider part of the authentic Savannah experience.
+
+
+
+Your Historic Savannah Getaway Awaits
+
+Whether you're gathering with family for the holidays, celebrating a birthday or anniversary, attending a wedding, or planning a weekend with friends, Broughton Street House Estate provides the perfect setting for making lasting memories. With accommodations for up to 10 guests, a beautifully restored main home, a private carriage house, a peaceful courtyard, two garage parking spaces, heated pool access, and an exceptional location in Savannah's Historic District, this one-of-a-kind property offers everything you need for a comfortable and unforgettable stay.
+
+Guest access
+Main House Features: 
+
+full kitchen
+
+elegant dining room
+
+2 king bedrooms
+
+1 queen bedroom
+
+2 full bathrooms
+
+1 half bathroom
+
+sleeper sofa
+
+
+
+Carriage house features: 
+
+full kitchen
+
+table with seating for 4
+
+1 king bedroom
+
+1 full bathroom 
+
+leather sleeper sofa
+
+The garage is accessed via the alleyway, and larger vehicles may find it difficult to make the turn into the space. Mid-size and smaller cars are recommended for easier access.
+
+Garage parking- Garage Parking- with a JuiceBox Level 2 electric car charging station
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+SVR-02297
+
+SVR-02296
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+Pets allowed
+TV with standard cable
+EV charger
+Washer
+Dryer
+Show all 53 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.84 out of 5 from 31 reviews.
+4.84
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 87% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+12
+Location
+21
+Parking
+6
+Beach
+2
+Family
+6
+Comfort
+8
+Hospitality
+8
+Indoor spaces
+6
+Sleep quality
+4
+Check-in
+5
+Mindy
+Raleigh, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Hosted my bachelorette party at Southern Belle & it was amazing!! Plenty of room for our guests, great kitchen to cook meals in, huge dining table to fit everyone comfortably. We loved the location and how close it was to everything on River St. We had such an amazing time at Southern Belle, we will be coming back!!
+Show more
+Jennifer Lynn
+New Orleans, Louisiana
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+The place was beautiful and in a great location. The amenities were great and had everything we needed. The communication was great from the host.
+Ryan
+5 years on Airbnb
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+I only had one issue.  I requested early check in 4 months prior and paid for it. It was also listed on my receipt that I paid for early check in. I was told 2 weeks prior, I could not do early check in, but only after I confirmed with them. I also thought the host responded quickly however you are dealing with a company owned property therefore I had to explain myself every time to someone new about my issue with the early check in. Although I was originally scheduled to get in the house at 12:00 they were able to get me in at 1:00. Everything worked out but it was unneeded stress. Besides that the house is beautiful. Sleeps 8 people comfortably unless some people want to sleep on the couch. The house is close to all the restaurants and close to River street. The pool is not located on the property but is a nice 25 minute drive. The pool was great and perfect for the kids, and the beach is only a 5 minute walk away from the pool. 
+All and all I would recommend this house.
+Show more
+Christina
+Portland, Oregon
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed with kids
+Great location! Great communication. This home was the perfect set up for us, we stayed with our friends and littles in the main house and my parents stayed in the carriage house and came over to babysit when we had to attend wedding activities. We rented baby gates, pack’n’plays and booster chairs from a service. Would be nice if those were available at the home, but we were able to make it work. Would also recommend you bring a sleep mask if you sleep in the room with a sky light and want to sleep in because it gets bright early. Overall, no major issues and would love to stay again!
+Show more
+Liesl
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+We thoroughly enjoyed our stay and would book this location again! The home was perfect, easy to walk to everything from and provided ample parking for our family. Loved the house and the beds were very comfortable. An added bonus that the host was incredibly communicative!!
+Show more
+Meghan
+Hamburg, New York
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+Would highly recommend staying at this property. Very spacious, clean, and a beautiful home with a ton of character. Check in and check out went seamlessly, and instructions were simple and clear. The host was very easy to communicate with, and was quick to respond to any questions that we had. The towels and linens provided were high quality. The parking spaces were definitely tight in the provided garage, but most of our group ended up street parking in the area. We had no issues finding space on the block of the property, and Southern Belle sent over clear instructions prior to arriving which made it even easier. Overall, I would definitely stay again if I was coming back to Savannah!
+Show more
+Show all 31 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+Broughton East
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Beach house vacation rentals in Savannah
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

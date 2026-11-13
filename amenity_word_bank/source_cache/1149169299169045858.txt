@@ -1,0 +1,521 @@
+URL: https://www.airbnb.com/rooms/1149169299169045858
+Title: Magnolia Estate - 3 Separate Units, Courtyard
+Latitude: 32.0729
+Longitude: -81.0875
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 5
+Occupancy (maximum guests): 16
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 9
+
+Beds enumerated in room tiles: 9
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 double bed, 1 single bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 queen bed
+
+Living room 1
+1 sofa bed
+
+Living room 2
+1 sofa bed
+
+Living room 3
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+This spacious estate includes three distinct living quarters, each with its own private entrance: a two-story main house, a garden-level unit tucked below, and a charming carriage unit above the garage. Whether you're traveling with family, friends, or a multi-generational group, everyone will enjoy both privacy and connection in this thoughtfully designed retreat.
+
+The space
+With rich hardwood floors, soaring ceilings, and abundant natural light, the interiors offer a warm and inviting atmosphere from the moment you arrive.
+
+🛋️ Gather & Unwind
+Three beautifully appointed living rooms feature cozy seating and Smart TVs, perfect for relaxing after a day of exploring Savannah.
+
+🍽️ Cook, Dine, Enjoy
+Each of the three kitchens is fully equipped with everything you need to prepare meals with ease. The elegant main house dining room provides a comfortable space to share food and conversation.
+
+🛏️ Restful Retreats for All
+Every bedroom is styled with calming decor and outfitted with plush memory foam mattresses to ensure a peaceful night’s sleep. The layout offers flexibility and privacy for groups of all sizes.
+
+🚶‍♀️ Walkable & Convenient
+Located in the heart of Savannah’s historic district, the estate is just a short stroll from River Street, Forsyth Park, and the city’s best restaurants. Two garage parking spaces for mid-size or smaller vehicles and free street parking make it easy to explore beyond downtown.
+
+✨ What Guests Love Most
+
+• 	Three separate living quarters with private entrances
+• 	Multiple living and cooking areas for ultimate flexibility
+• 	Elegant interiors with a warm, welcoming ambiance
+• 	Prime location near Savannah’s top attractions
+
+STVR Certificate: SVR-01419
+STVR Certificate: SVR-01420
+STVR Certificate: SVR-01421
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Entertainment
+TV with Roku
+Family
+Pack ’n play/Travel crib
+Board games
+Baby safety gates
+Heating and cooling
+Air conditioning
+Indoor fireplace: gas
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Magnolia Estate - 3 Separate Units, Courtyard
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+16+ guests · 5 bedrooms · 9 beds · 4.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+7 reviews
+7
+Reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+In Savannah's Historic District
+Troup Square is steps away, with the Cathedral of St. John the Baptist about a 5-min walk
+A three-unit estate with private entries
+Three separate units with private entrances, each with its own kitchen and living room
+A responsive and attentive host
+Guests highlight the host's fast responses, even after hours when questions come up
+Some info has been automatically translated. Show original
+This spacious estate includes three distinct living quarters, each with its own private entrance: a two-story main house, a garden-level unit tucked below, and a charming carriage unit above the garage. Whether you're traveling with family, friends, or a multi-generational group, everyone will enjoy both privacy and connection in this thoughtfully designed retreat.
+
+The space
+With rich hardwood floors, soaring ceilings, and abundant natural light, the interiors offer a warm and inviting atmosphere from the moment you arrive.
+
+🛋️ Gather & Unwind
+Three beautifully appointed living rooms feature cozy seating and Smart TVs, perfect for relaxing after a day of exploring Savannah.
+
+🍽️ Cook, Dine, Enjoy
+Each of the three kitchens is fully equipped with everything you need to prepare meals with ease. The elegant main house dining room provides a comfortable space to share food and conversation.
+
+🛏️ Restful Retreats for All
+Every bedroom is styled with calming decor and outfitted with plush memory foam mattresses to ensure a peaceful night’s sleep. The layout offers flexibility and privacy for groups of all sizes.
+
+🚶‍♀️ Walkable & Convenient
+Located in the heart of Savannah’s historic district, the estate is just a short stroll from River Street, Forsyth Park, and the city’s best restaurants. Two garage parking spaces for mid-size or smaller vehicles and free street parking make it easy to explore beyond downtown.
+
+✨ What Guests Love Most
+
+• 	Three separate living quarters with private entrances
+• 	Multiple living and cooking areas for ultimate flexibility
+• 	Elegant interiors with a warm, welcoming ambiance
+• 	Prime location near Savannah’s top attractions
+
+STVR Certificate: SVR-01419
+STVR Certificate: SVR-01420
+STVR Certificate: SVR-01421
+Show more
+All sleeping arrangements
+
+Advertised beds: 9 | Enumerated: 9 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 double bed, 1 single bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 queen bed
+
+Living room 1
+1 sofa bed
+
+Living room 2
+1 sofa bed
+
+Living room 3
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with Roku
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Show all 52 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 7 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+2
+Indoor spaces
+3
+Hospitality
+4
+Family
+2
+Sleep quality
+2
+Location
+3
+Cleanliness
+2
+Amanda
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+We had a wonderful stay! The location was excellent and surprisingly quiet at night. It was about a 15-20 minute walk to River St. All of the units were clean, modern, and spacious. Our family of 16 had plenty of room to gather in the main house while still enjoying the privacy of the separate suites. The kitchen was well stocked with lots of pantry space.
+The standout was the communication from the owners—they responded incredibly quickly, even after hours when we had trouble getting into one of our units. 
+A few minor things to note: towels and extra sheets were a little limited, and we had to use blankets for the pull-out bed. The garage is best suited for compact cars, and the units are completely separate rather than connected internally. Street sweeping is on Thursdays, so you’ll need to move your car, but we had no trouble finding nearby parking.
+Overall, we’d absolutely stay here again!
+Show more
+Anthony
+Goshen, New York
+Rating, 5 stars
+,
+·
+July 2025
+,
+·
+Group trip
+Chad was great and the place was great.
+Amy
+Des Moines, Iowa
+Rating, 5 stars
+,
+·
+June 2025
+,
+·
+Group trip
+To be honest, this place was better than expected for me and all my friends for my bachelorette trip. It was a great place to chill after we walked around town in the Savannah heat. The rooms were very roomy and beds were comfortable! I would stay here again! Also Chaz was so responsive with any questions we had or giving us updates as needed!
+Show more
+Kristy
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2025
+,
+·
+Stayed with kids
+Delightful stay. We rented all three locations ( main house , garden level and carriage house.) we had 7 people in our family trip and plenty of room. It was so beautiful and clean. Exactly what a Savannah row house or townhouse should be. Lovely coastal decor. Easy to get to Bull street to walk to river or to Forsyth park. We also communicated with questions and had very fast response each time. Will recommend!
+Show more
+Jason
+Glen Cove, New York
+Rating, 5 stars
+,
+·
+February 2025
+,
+·
+Group trip
+House was even better than the pictures. Would stay again.
+Susan
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+February 2025
+,
+·
+Stayed with kids
+Very convenient place to stay close to everything
+Show all 7 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+This location is downtown just a few blocks from all the action on a safe and quiet street. Every street in Savannah has something to explore.
+Show more
+Meet your host
+Chaz
+Superhost
+3,100 reviews
+3100
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 11:00 AM
+No pets
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

@@ -1,0 +1,464 @@
+URL: https://www.airbnb.com/rooms/52167034
+Title: Pretty Jones Street Carriage House Free Parking
+Latitude: 32.0727
+Longitude: -81.0961
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sandra
+Host ID: 314313673
+Host profile ID: 1469592005946537681
+Host URL: https://www.airbnb.com/users/profile/1469592005946537681
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+One of the Jones Street Suites, The Johnson Suite is a thoughtfully decorated, light-filled carriage house on Jones Street just steps away from Forsyth Park, food, entertainment, River Street, and all that downtown has to offer. It is located behind the main building and has its own entrance. The private balcony that overlooks the peaceful courtyard is the perfect place to sip your morning coffee or relax after a day of sightseeing in our beautiful city.
+
+The space
+One of the Jones Street Suites, The Johnson Suite is a thoughtfully decorated, light-filled carriage house on Jones Street just steps away from Forsyth Park, food, entertainment, River Street, and all that downtown has to offer. It is located behind the main building and has its own entrance. The private balcony that overlooks the peaceful courtyard is the perfect place to sip your morning coffee or relax after a day of sightseeing in our beautiful city.
+
+Other things to note
+Certificate # SVR-02431
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Individual Travel size shampoo
+Individual Travel Size conditioner
+Individual Bar Soap body soap
+Hot water
+Bedroom and laundry
+Free washer – In building
+Free dryer – In building
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Includes a table
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free parking garage on premises
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Pretty Jones Street Carriage House Free Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+117 reviews
+117
+Reviews
+Hosted by Sandra
+7 years hosting
+Listing highlights
+In Historic Savannah on Jones Street
+Steps from Forsyth Park and Monterey Square, with dozens of historic squares within a short walk
+Carriage house with private balcony
+A private balcony overlooking a quiet courtyard, tucked behind the main building with its own entrance
+Consistently praised across reviews
+Guests highlight the walkability, cleanliness, and charm of this carriage house across dozens of stays
+One of the Jones Street Suites, The Johnson Suite is a thoughtfully decorated, light-filled carriage house on Jones Street just steps away from Forsyth Park, food, entertainment, River Street, and all that downtown has to offer. It is located behind the main building and has its own entrance. The private balcony that overlooks the peaceful courtyard is the perfect place to sip your morning coffee or relax after a day of sightseeing in our beautiful city.
+
+The space
+One of the Jones Street Suites, The Johnson Suite is a thoughtfully decorated, light-filled carriage house on Jones Street just steps away from Forsyth Park, food, entertainment, River Street, and all that downtown has to offer. It is located behind the main building and has its own entrance. The private balcony that overlooks the peaceful courtyard is the perfect place to sip your morning coffee or relax after a day of sightseeing in our beautiful city.
+
+Other things to note
+Certificate # SVR-02431
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking garage on premises
+TV
+Free washer – In building
+Free dryer – In building
+Central air conditioning
+Bathtub
+Private patio or balcony
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 117 reviews.
+4.92
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+72
+Parking
+46
+Location
+86
+Cleanliness
+52
+Comfort
+30
+Nearby
+20
+Hospitality
+40
+Indoor spaces
+23
+Parks
+4
+Outdoor spaces
+9
+Solomon
+Atlanta, Georgia
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+It was a great stay! The home was peaceful,clean, and comfortable with animities and a keyless check in. Jones street is a great location for tourists to roam the beautiful town of savannah and the surrounding park around it. I  reccomend this place to anyone who wants a nice southern comfort feel.
+Show more
+Angeline
+Chattanooga, Tennessee
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+First, everyone, the photographs are lovely, and you will immediately recognize 107 Jones Street when you open the door the first time. Though it is ever so much more. Imagine using your favorite family treasures  Great Aunt Margie Elizabeth passed down to you when new, comfortable  upholstered furniture. 
+And just about any item one wants in this kitchen is ready for you. And if you prefer dining out, the great room is laid out so practically no square footage nor a feeling of spaciousness is lost to the kitchen. 
+Both the bed and bed clothing make for all sorts of good dreams. 
+And the design of the bathroom is well thought out with each section seeming private even though it is one room. 
+There is one design flaw I’d need changed to move in full-time-more closet space and storage. Now I did not ask Sandra if there’s  accessible  attic  
+ space.
+I appreciate you, Sandra.
+Kindly,
+Angeline
+And I am not comparing this with hotels. My introduction to airbnbs began a decade ago.
+Show more
+David
+Stevensville, Maryland
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+My wife and I had a very relaxing weekend away at Sandra’s place in Savannah. The place is very clean and the location to everything can’t be beat. Anything you want to see or do is walkable but to beat the heat Lyft and Uber was very easy to schedule at Sandra’s. The place is tucked away back off the street and you feel like you have your own private getaway. We will definitely stay here again next time we visit Savannah. Don’t hesitate to book this place if it’s available!
+Show more
+Morgan
+Aurora, Illinois
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+We loved staying at the Carriage House! It was a perfect location to explore the historic neighborhoods of Savannah! Jones Street is just as beautiful as the pictures and the carriage house, porch, and court yard were incredible cozy! Having a covered parking was a huge plus, but it was a bit tricky to get in and out of, especially when there were a lot of cars in the alley. If you drive anything larger than a mid sized SUV, be prepared to make a few 3-point turns to wiggle in and out of the parking spot- oh the joys of historic towns! Overall, it was an absolutely lovely stay!
+Show more
+Andrew
+Stow, Ohio
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+All in all great stay and also location and the host was top notch. We were able to walk anywhere in savanna and the surrounding area was safe and gorgeous.
+The only thing keeping it from perfect was the seemly endless delivery trucks that come in and out at all hours next door as it’s a restaurant. 
+That and the bed was very firm. So sleep was hit or miss.
+All else was spot on and we would book again!
+Show more
+Samuel
+Fort Lauderdale, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Nice place. Will stay again.
+Show all 117 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Forsyth Park
+Park
+Savannah Bike Tours
+Sports shop
+Mrs. Wilkes Dining Room
+American restaurant
+Old Town Trolley Tours of Savannah
+Tour agency
+The Olde Pink House
+Restaurant
+Fiddler's Crab House & Oyster Bar
+Seafood restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Historic Savannah
+Show more
+Meet your host
+Sandra
+Host
+1,194 reviews
+1194
+Reviews
+4.89 out of 5 average rating
+4.89
+Rating
+7 years of hosting
+7
+Years hosting
+A happy transplant to Savannah! I enjoy traveling myself, so it is so exciting to be able to experience the rich history of this impressive city and to help others learn about it! What better place to be a host than in the “Host City of the South.” Send a message or book if you want a gorgeous rental in the Historic Downtown District!
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for children and infants
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,485 @@
+URL: https://www.airbnb.com/rooms/1356736142933832517
+Title: Modern Loft w/ Soaring Views of City + Parking
+Latitude: 32.0748
+Longitude: -81.0923
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+In the heart of Savannah, The Lollygag is a stunning 1,250 sq. ft. corner loft designed for modern comfort and convenience. With oversized windows offering panoramic city views, this bright and airy retreat accommodates 2-4 guests a
+
+The space
+Located in an historic high-rise in the heart of Savannah, The Lollygag is a newly renovated, stunning 1,250 sq. ft. corner loft designed for modern comfort and convenience. With oversized windows offering panoramic city views, this bright and airy retreat accommodates 2-4 guests and includes secure Wi-Fi, heat/AC, a washer/dryer, and cable TV.
+
+What Makes The Lollygag Special?
+
+- Prime Location – Step outside to Savannah’s top restaurants, cocktail bars, and nightlife. The FREE dot express shuttle and Savannah Trolley Tours stop just around the corner!
+
+- Exclusive Parking – A rare find! Guests receive a reserved underground parking space with 24-hour access, just steps from the building.
+
+- Modern Luxury & Security – Enjoy elevator access and secure entry via key fob for a stress-free stay.
+
+The chef’s galley kitchen is fully equipped with an oven, microwave, refrigerator, dishwasher, Cuisinart cookware, and a Brita water filter. Guests can enjoy meals at the marble-topped dining table for four, perfectly positioned to take in Savannah’s stunning sunsets. For cocktail enthusiasts, the dining area includes a drinks cupboard with barware and a Vita-Mix blender to craft the perfect drink. Coffee lovers will appreciate the Cuisinart coffee maker with local Savannah Roasters coffee provided.
+
+The bedroom offers a Queen adjustable bed, blackout shades, smart TV, bedside charging stations, oversized walk-in closet with a hotel safe, luggage racks, iron, steamer & drying rack. Professionally cleaned linens provided. The ensuite bathroom offers a luxurious experience with a large shower room featuring a Victorian clawfoot tub, a teak shower seat, and a double vanity with LED-lit mirrors. Natural light filters in through high-set windows, creating a relaxing atmosphere. Guests can indulge in exclusive CAVA bath products for an added touch of luxury.
+
+For those looking to stay active, guests have exclusive access to a private, state-of-the-art gym on the ground floor, available only to residents and guests.
+
+You truly won’t need a car at The Lollygag, thanks to its unbeatable walkability and vibrant surroundings. Nestled in the heart of Savannah’s historic district, you’ll be just a short stroll from the River Walk and the city’s 22 charming squares. Dotted with park benches, majestic oak trees draped in Spanish moss, and statues of prominent Savannahians, these squares offer a perfect place to relax and take in the city's beauty.
+
+Immerse yourself in Savannah’s rich history by joining a walking, pub, food, ghost, or historical tour—each offering a unique perspective on the city’s past and culture. We highly recommend starting with a historic district tour to gain a deeper appreciation of how Savannah became one of the South’s most beautiful and unforgettable cities.
+
+*This vibrant downtown location offers an authentic urban experience, where guests may hear typical city sounds such as early morning trash collection or the buzz of nightlife. To ensure a restful stay, earplugs and eye masks are thoughtfully provided in the bedroom.*
+
+Sleeping Configuration:
+Bedroom: Queen Adjustable Bed
+Living Room: Queen Sleeper Sofa
+
+*The parking garage that this property has a pass to has a height limit of 6'2".
+
+**This home is part of a private building that requires a brief guest registration [names and IDs for all guests] prior to arrival. We'll walk you through it after booking.**
+
+SVR-03082
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV with standard cable
+Exercise equipment
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: drip coffee maker, french press, Keurig coffee machine
+Wine glasses
+Toaster
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Modern Loft w/ Soaring Views of City + Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1.5 baths
+Rated 4.83 out of 5 stars.
+4.83
+·
+30 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's historic district
+Lafayette Square is steps away, with several of Savannah's famous squares within a 5-min walk
+Bright corner loft with city views
+A 1,250 sq ft corner loft with oversized windows and a fully equipped galley kitchen
+Clean, spacious, and well-equipped
+Guests highlight how clean, spacious, and well-equipped the space is, with many eager to return
+In the heart of Savannah, The Lollygag is a stunning 1,250 sq. ft. corner loft designed for modern comfort and convenience. With oversized windows offering panoramic city views, this bright and airy retreat accommodates 2-4 guests a
+
+The space
+Located in an historic high-rise in the heart of Savannah, The Lollygag is a newly renovated, stunning 1,250 sq. ft. corner loft designed for modern comfort and convenience. With oversized windows offering panoramic city views, this bright and airy retreat accommodates 2-4 guests and includes secure Wi-Fi, heat/AC, a washer/dryer, and cable TV.
+
+What Makes The Lollygag Special?
+
+- Prime Location – Step outside to Savannah’s top restaurants, cocktail bars, and nightlife. The FREE dot express shuttle and Savannah Trolley Tours stop just around the corner!
+
+- Exclusive Parking – A rare find! Guests receive a reserved underground parking space with 24-hour access, just steps from the building.
+
+- Modern Luxury & Security – Enjoy elevator access and secure entry via key fob for a stress-free stay.
+
+The chef’s galley kitchen is fully equipped with an oven, microwave, refrigerator, dishwasher, Cuisinart cookware, and a Brita water filter. Guests can enjoy meals at the marble-topped dining table for four, perfectly positioned to take in Savannah’s stunning sunsets. For cocktail enthusiasts, the dining area includes a drinks cupboard with barware and a Vita-Mix blender to craft the perfect drink. Coffee lovers will appreciate the Cuisinart coffee maker with local Savannah Roasters coffee provided.
+
+The bedroom offers a Queen adjustable bed, blackout shades, smart TV, bedside charging stations, oversized walk-in closet with a hotel safe, luggage racks, iron, steamer & drying rack. Professionally cleaned linens provided. The ensuite bathroom offers a luxurious experience with a large shower room featuring a Victorian clawfoot tub, a teak shower seat, and a double vanity with LED-lit mirrors. Natural light filters in through high-set windows, creating a relaxing atmosphere. Guests can indulge in exclusive CAVA bath products for an added touch of luxury.
+
+For those looking to stay active, guests have exclusive access to a private, state-of-the-art gym on the ground floor, available only to residents and guests.
+
+You truly won’t need a car at The Lollygag, thanks to its unbeatable walkability and vibrant surroundings. Nestled in the heart of Savannah’s historic district, you’ll be just a short stroll from the River Walk and the city’s 22 charming squares. Dotted with park benches, majestic oak trees draped in Spanish moss, and statues of prominent Savannahians, these squares offer a perfect place to relax and take in the city's beauty.
+
+Immerse yourself in Savannah’s rich history by joining a walking, pub, food, ghost, or historical tour—each offering a unique perspective on the city’s past and culture. We highly recommend starting with a historic district tour to gain a deeper appreciation of how Savannah became one of the South’s most beautiful and unforgettable cities.
+
+*This vibrant downtown location offers an authentic urban experience, where guests may hear typical city sounds such as early morning trash collection or the buzz of nightlife. To ensure a restful stay, earplugs and eye masks are thoughtfully provided in the bedroom.*
+
+Sleeping Configuration:
+Bedroom: Queen Adjustable Bed
+Living Room: Queen Sleeper Sofa
+
+*The parking garage that this property has a pass to has a height limit of 6'2".
+
+**This home is part of a private building that requires a brief guest registration [names and IDs for all guests] prior to arrival. We'll walk you through it after booking.**
+
+SVR-03082
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Elevator
+Washer
+Dryer
+Air conditioning
+Luggage dropoff allowed
+Show all 43 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.83 out of 5 stars from 30 reviews
+4.83 · 30 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 83% of reviews
+5
+4 stars, 17% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.3 out of 5 stars for check-in
+Check-in
+4.3
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+14
+Location
+19
+Noise
+10
+Parking
+7
+Cleanliness
+9
+Comfort
+7
+Access
+5
+Accuracy
+6
+Amenities
+6
+Sleep quality
+6
+Brooke
+Weaverville, North Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Wonderful condo in a great location. It is in the middle of the historic district and within easy walking distance to everything. The furniture is beautiful and comfortable. Everything we needed (and more) was provided. We had a great stay.
+I would recommend this for everyone, unless you are a light sleeper who is not accustom to city noises. Dumpsters are emptied during the night and the noise is loud. We used the provided earplugs our second and third nights which helped.
+Show more
+Michelle
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Genuinely, one of the best places we have stayed in Savannah. We will be booking again when we come back!
+Show more
+George
+Westminster, South Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Very responsive management team,
+Unit was everything we expected plus!
+ Would definitely stay there again.
+In the heart of the city, walkable to everything, beautifully decorated.
+Show more
+Broderick
+Buford, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+It was my wife and I 10 year wedding anniversary. And we love Savannah. The Airbnb was awesome just like in the pictures. loved how clean it was and that it was very very comfortable. It felt like a home away from home. Will definitely be revisiting lollygag. This place is made for couples that just want to get away. Thank you again The place definitely made the 10 year feel special and romantic
+Show more
+Sydney
+New York, New York
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Great spacious apartment in the perfect area of town. Such a great airbnb & worth it!
+Show more
+Frank
+Ohio, United States
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+We had a great stay at this Airbnb. The location was excellent, right in the middle of the historic district and within easy walking distance to everything. We didn’t have a car and never needed one, which made the experience even more convenient.
+The space itself was very clean, spacious, and well-equipped with all the amenities we needed for a comfortable stay. Access to the building was simple and seamless, and we didn’t encounter any issues with other residents during our time there.
+As others have mentioned, there can be some noise, particularly when dumpsters are being emptied in the early mornings or on weekends when nearby bars are active. That said, it didn’t bother us at all. It’s located downtown on a main street, so some level of noise is to be expected.
+Overall, a great experience, and we would stay here again.
+Show more
+Show all 30 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

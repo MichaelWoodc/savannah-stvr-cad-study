@@ -1,0 +1,595 @@
+URL: https://www.airbnb.com/rooms/1637771740175437841
+Title: Historic Cottage | Walk to Forsyth | King + Queen
+Latitude: 32.0674
+Longitude: -81.0904
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Savor Savannah Properties
+Host ID: 35638063
+Host profile ID: 1637771740911211668
+Host URL: https://www.airbnb.com/users/profile/1637771740911211668
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Stay in the heart of Savannah at Honey Bee Cottage, a charming circa-1900 two-bedroom cottage just a 5-minute walk from Forsyth Park. With a king bedroom, queen bedroom, queen sofa bed, private fenced patio, and comfortable living spaces, it’s an ideal home base for couples, friends, or a Savannah getaway with your pup. Walk to beautiful squares, restaurants, cafés, and historic sights, then come home and relax in your own private cottage.
+
+The space
+🐝 Welcome to Honey Bee Cottage!
+
+After a day exploring Savannah’s oak-lined streets, beautiful squares, restaurants, and historic homes, come back to your own private cottage and unwind. Only two small steps to your front porch and then into your single-story home away from home.
+
+• 2 bedrooms — 1 King + 1 Queen
+• 1 bathroom | ~600 sq ft
+• Private, fenced patio
+• Fully equipped kitchen
+• In-home washer & dryer
+• Fast WiFi/Internet (1GB + dedicated workspace)
+• Central A/C + ceiling fans
+• Pet-friendly
+• Free street parking (plentiful parking)
+
+🛏️ Sleep Comfortably
+
+Both bedrooms feature comfortable beds, blackout shades, and fresh, inviting spaces designed for a restful night.
+
+• Primary bedroom: King bed, ceiling fan + armoire for clothing and storage
+• Second bedroom: Queen bed
+• Living room: Queen pull-out sofa
+• Blackout shades in both bedrooms
+• Additional mirrors make getting ready easier when traveling together
+
+📍 Walk to Forsyth & Explore Savannah
+
+One of the best things about Honey Bee Cottage is its location. Forsyth Park is about a 5-minute walk away, with Savannah’s famous squares, historic architecture, cafés, restaurants, and attractions waiting beyond.
+
+With a Walk Score of 80 and Bike Score of 96, you can leave the car behind and experience much of Savannah on foot.
+
+🚗 Getting Around
+
+• Free street parking near the cottage
+• Free DOT downtown shuttle nearby
+• Complimentary electric transportation options within the Historic District
+
+Having a car is convenient for trips outside downtown, but you won't need one for much of your Savannah sightseeing.
+
+🌿 Your Private Patio
+
+Step outside to your private, fully fenced patio—a quiet little spot for morning coffee, an afternoon break, or a glass of wine after exploring the city.
+
+🐾 Bringing Your Pup?
+
+Dogs are welcome at Honey Bee Cottage! The private fenced patio makes traveling with your pup a little easier, and Mother Mathilda Beasley Park—with its dedicated dog park—is just a short walk away. Forsyth Park is also about a 5-minute walk from the cottage, giving you plenty of options for getting outside and exploring Savannah together.
+
+☕ Everything You Need
+
+The cottage includes the comforts that make a longer stay easy:
+
+• Fully equipped kitchen with dishwasher, microwave, coffee maker, cookware and essentials
+• Fast WiFi (up to 1 Gbps) + Smart TVs + workspace
+• Central A/C and heat
+• Washer & dryer
+• Beach towels and chairs for Tybee Island day trips
+• Pack ’n Play available upon request
+• Self check-in with a unique Smart Lock PIN provided before arrival
+
+A motion-activated exterior security camera is located on the front porch and faces the front entrance.
+
+STVR Permit: SVR-03253
+
+Guest access
+You have the whole cottage to yourselves ! Single-story (2 steps up onto the porch) with private entrance. Smart Lock on front door with your own, personalized code for easy self check-in.
+
+Other things to note
+📝 Good to Know
+• Starter supplies provided (toilet paper, paper towels, trash bags, dishwasher pods)
+• Pet fee: $75 (applied after booking)
+• Early check-in/late check-out available through the guest portal (fees apply)
+• No smoking ($100 fee for violations)
+• Street cleaning: Tuesdays 12:01am–4:00am—simply move your car to the other side of the street ahead of time
+
+STVR Permit: SVR-03253
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Security cameras monitor the front porch (and front door) ONLY.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Beach essentials
+Beach gear such as towels, chairs, and an umbrella
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Cottage | Walk to Forsyth | King + Queen
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire cottage in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 1 bath
+Rated 4.73 out of 5 stars.
+4.73
+·
+15 reviews
+Hosted by Savor Savannah Properties
+6 months hosting
+Listing highlights
+In Savannah's South Historic District
+About a 5-min walk to Forsyth Park, with Whitefield Square and historic squares just blocks away
+Private patio on a quiet side street
+A private fenced patio for morning coffee or unwinding after a day exploring the city
+A charming cottage guests return to
+Guests call the cottage cute and comfortable, and several highlight the walkable location
+Some info has been automatically translated. Show original
+Stay in the heart of Savannah at Honey Bee Cottage, a charming circa-1900 two-bedroom cottage just a 5-minute walk from Forsyth Park. With a king bedroom, queen bedroom, queen sofa bed, private fenced patio, and comfortable living spaces, it’s an ideal home base for couples, friends, or a Savannah getaway with your pup. Walk to beautiful squares, restaurants, cafés, and historic sights, then come home and relax in your own private cottage.
+
+The space
+🐝 Welcome to Honey Bee Cottage!
+
+After a day exploring Savannah’s oak-lined streets, beautiful squares, restaurants, and historic homes, come back to your own private cottage and unwind. Only two small steps to your front porch and then into your single-story home away from home.
+
+• 2 bedrooms — 1 King + 1 Queen
+• 1 bathroom | ~600 sq ft
+• Private, fenced patio
+• Fully equipped kitchen
+• In-home washer & dryer
+• Fast WiFi/Internet (1GB + dedicated workspace)
+• Central A/C + ceiling fans
+• Pet-friendly
+• Free street parking (plentiful parking)
+
+🛏️ Sleep Comfortably
+
+Both bedrooms feature comfortable beds, blackout shades, and fresh, inviting spaces designed for a restful night.
+
+• Primary bedroom: King bed, ceiling fan + armoire for clothing and storage
+• Second bedroom: Queen bed
+• Living room: Queen pull-out sofa
+• Blackout shades in both bedrooms
+• Additional mirrors make getting ready easier when traveling together
+
+📍 Walk to Forsyth & Explore Savannah
+
+One of the best things about Honey Bee Cottage is its location. Forsyth Park is about a 5-minute walk away, with Savannah’s famous squares, historic architecture, cafés, restaurants, and attractions waiting beyond.
+
+With a Walk Score of 80 and Bike Score of 96, you can leave the car behind and experience much of Savannah on foot.
+
+🚗 Getting Around
+
+• Free street parking near the cottage
+• Free DOT downtown shuttle nearby
+• Complimentary electric transportation options within the Historic District
+
+Having a car is convenient for trips outside downtown, but you won't need one for much of your Savannah sightseeing.
+
+🌿 Your Private Patio
+
+Step outside to your private, fully fenced patio—a quiet little spot for morning coffee, an afternoon break, or a glass of wine after exploring the city.
+
+🐾 Bringing Your Pup?
+
+Dogs are welcome at Honey Bee Cottage! The private fenced patio makes traveling with your pup a little easier, and Mother Mathilda Beasley Park—with its dedicated dog park—is just a short walk away. Forsyth Park is also about a 5-minute walk from the cottage, giving you plenty of options for getting outside and exploring Savannah together.
+
+☕ Everything You Need
+
+The cottage includes the comforts that make a longer stay easy:
+
+• Fully equipped kitchen with dishwasher, microwave, coffee maker, cookware and essentials
+• Fast WiFi (up to 1 Gbps) + Smart TVs + workspace
+• Central A/C and heat
+• Washer & dryer
+• Beach towels and chairs for Tybee Island day trips
+• Pack ’n Play available upon request
+• Self check-in with a unique Smart Lock PIN provided before arrival
+
+A motion-activated exterior security camera is located on the front porch and faces the front entrance.
+
+STVR Permit: SVR-03253
+
+Guest access
+You have the whole cottage to yourselves ! Single-story (2 steps up onto the porch) with private entrance. Smart Lock on front door with your own, personalized code for easy self check-in.
+
+Other things to note
+📝 Good to Know
+• Starter supplies provided (toilet paper, paper towels, trash bags, dishwasher pods)
+• Pet fee: $75 (applied after booking)
+• Early check-in/late check-out available through the guest portal (fees apply)
+• No smoking ($100 fee for violations)
+• Street cleaning: Tuesdays 12:01am–4:00am—simply move your car to the other side of the street ahead of time
+
+STVR Permit: SVR-03253
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Exterior security cameras on property
+Show all 56 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.73 out of 5 stars from 15 reviews
+4.73 · 15 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 7% of reviews
+1
+Rated 4.6 out of 5 stars for cleanliness
+Cleanliness
+4.6
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 4.5 out of 5 stars for value
+Value
+4.5
+Guest reviews mention
+Walkability
+7
+Comfort
+5
+Nearby
+4
+Location
+5
+Hospitality
+5
+Pets
+2
+Decor
+2
+Outdoor spaces
+2
+Cleanliness
+2
+Liz
+Lee's Summit, Missouri
+Rating, 5 stars
+,
+·
+2 days ago
+,
+·
+Stayed a few nights
+This adorable little cottage was everything we needed and more. It was very comfortable and super cute! The hosts were so helpful and accommodating. They were quick to answer any questions, and reached out to make sure everything was going well. I would highly recommend this cottage to anyone, and would love to stay here again when we come back.
+Show more
+Donna
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+5 days ago
+,
+·
+Stayed a few nights
+It was so cute & comfortable! Great stay ! Will be back.
+Show more
+Brett
+Harrison, Tennessee
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with a pet
+Cottage was perfect for our stay, within walking distant to the downtown area, plenty of restaurants within walking area. Joy was friendly and responsive
+Show more
+Erik
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Nice place to stay close to everything.
+Show more
+Chuck
+Azle, Texas
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Quaint little spot with great access to local spots. Grocery store in walking distance as is a few parks etc! Nice vibe!
+Show more
+Sierra
+Yulee, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+Great place!
+Show more
+Show all 15 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Honey Bee Cottage is tucked away on a quiet side street right in Savannah’s South Historic District, so you’ll be in the heart of everything while still enjoying some peace and quiet. Your walk to Forsyth Park takes you down a few lovely blocks of E. Hall Street, lined with beautiful historic homes. Along the way, you’ll pass a local favorite coffee shop and bakery called Mate Factor, and just a bit farther is Saint Bibbiana, a fantastic Italian spot. As you enter Forsyth Park, you’ll see The Collins Quarter, known for its amazing brunch and great atmosphere. Heading the other way brings you to Mother Mathilda Beasley Park and several of the city’s charming historic squares. It’s really an ideal location to experience the best of Savannah. Incredibly walkable with all the conveniences you may need (groceries, coffee, restaurants and a local liquor store - Johnny Ganem’s).
+Show more
+Meet your host
+Savor Savannah Properties
+Host
+15 reviews
+15
+Reviews
+4.73 out of 5 average rating
+4.73
+Rating
+6 months of hosting
+6
+Months hosting
+Where I went to school: San Francisco State University
+My work: Savannah, Host
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Cottage vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Cottage vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

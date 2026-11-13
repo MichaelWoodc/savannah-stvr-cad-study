@@ -1,0 +1,511 @@
+URL: https://www.airbnb.com/rooms/1207156682496370987
+Title: Stylish Forsyth Park Retreat – Walk Everywhere
+Latitude: 32.06472
+Longitude: -81.09479
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Joey
+Host ID: 591516974
+Host profile ID: 1470615950971295296
+Host URL: https://www.airbnb.com/users/profile/1470615950971295296
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+Stay in the heart of Savannah, directly across from iconic Forsyth Park! Built in 1892, this stunning Victorian home blends historic charm with modern comfort. Your second-floor retreat features soaring ceilings, original hardwood floors, and grand windows that flood the space with light. Step outside to stroll the park and enjoy the best of the city at your doorstep. Pets considered with pre-approval and additional fee.
+SVR-03022
+
+The space
+Step into Savannah’s storied charm with this second-floor unit overlooking iconic Forsyth Park. Blending timeless architecture with modern comfort, this beautifully preserved space features original hardwood floors, tall windows, fireplaces (non-operational), and intricate trim work—offering the true historic Savannah experience.
+
+⭐️ THE SPACE ⭐️
+
+★ LIVING ROOM ★
+✔ Smart TV with streaming apps
+✔ Oversized original windows that flood the space with natural light
+
+★ KITCHEN & LAUNDRY ★
+✔ Fully equipped kitchen with cookware, utensils, and Keurig machine
+✔ In-unit washer & dryer for your convenience
+
+★ BEDROOMS & BATHROOMS ★
+🛌 King Bedroom – Bay windows with park views, memory foam mattress, full en suite bathroom with stand-up shower
+🛌 Queen Bedroom – Large windows with Forsyth Park views, memory foam mattress, full en suite bathroom with stand-up shower
+
+🌳 SHARED OUTDOOR SPACE
+✔ Access to a charming shared courtyard on the side of the home—perfect for morning coffee or evening wine
+
+🚗 PARKING
+✔ Free street parking available nearby
+✔ Please check posted signs for street sweeping zones and times to avoid tickets
+
+📍 LOCATION HIGHLIGHT
+Right across from Forsyth Park—walk to historic squares, cafés, museums, and all the beauty Savannah has to offer.
+
+Guest access
+You will have the entire unit to yourselves. This is the second floor unit, there is another separate unit below.
+
+Other things to note
+Pets require pre approval and additional fee!
+
+This is a second floor unit - there is another, condo on the first floor below. 
+
+There is free on street parking - be sure to check the posted sweep times, they vary depending which side of the street you park. We do not have dedicated on site parking.
+
+For security purposes, there is an exterior camera monitoring the garden entrance/gate area. The camera is outward-facing and does not monitor any interior or private guest spaces.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Room-darkening shades
+Iron
+Clothing storage: dresser
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+Ring cameras
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Outdoor furniture
+Bikes
+Parking and facilities
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Stylish Forsyth Park Retreat – Walk Everywhere
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.97 out of 5 stars.
+4.97
+133 reviews
+133
+Reviews
+Hosted by Joey
+Superhost · 2 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+Right across from Forsyth Park
+Steps from Forsyth Park, with historic squares, cafés, and shops all within a walkable stretch.
+A light-filled Victorian apartment
+Built in 1892 with soaring ceilings, original hardwood floors, and grand windows facing the park.
+Joey goes above and beyond
+Guests highlight Joey's detailed local recommendations and quick, attentive communication.
+Stay in the heart of Savannah, directly across from iconic Forsyth Park! Built in 1892, this stunning Victorian home blends historic charm with modern comfort. Your second-floor retreat features soaring ceilings, original hardwood floors, and grand windows that flood the space with light. Step outside to stroll the park and enjoy the best of the city at your doorstep. Pets considered with pre-approval and additional fee.
+SVR-03022
+
+The space
+Step into Savannah’s storied charm with this second-floor unit overlooking iconic Forsyth Park. Blending timeless architecture with modern comfort, this beautifully preserved space features original hardwood floors, tall windows, fireplaces (non-operational), and intricate trim work—offering the true historic Savannah experience.
+
+⭐️ THE SPACE ⭐️
+
+★ LIVING ROOM ★
+✔ Smart TV with streaming apps
+✔ Oversized original windows that flood the space with natural light
+
+★ KITCHEN & LAUNDRY ★
+✔ Fully equipped kitchen with cookware, utensils, and Keurig machine
+✔ In-unit washer & dryer for your convenience
+
+★ BEDROOMS & BATHROOMS ★
+🛌 King Bedroom – Bay windows with park views, memory foam mattress, full en suite bathroom with stand-up shower
+🛌 Queen Bedroom – Large windows with Forsyth Park views, memory foam mattress, full en suite bathroom with stand-up shower
+
+🌳 SHARED OUTDOOR SPACE
+✔ Access to a charming shared courtyard on the side of the home—perfect for morning coffee or evening wine
+
+🚗 PARKING
+✔ Free street parking available nearby
+✔ Please check posted signs for street sweeping zones and times to avoid tickets
+
+📍 LOCATION HIGHLIGHT
+Right across from Forsyth Park—walk to historic squares, cafés, museums, and all the beauty Savannah has to offer.
+
+Guest access
+You will have the entire unit to yourselves. This is the second floor unit, there is another separate unit below.
+
+Other things to note
+Pets require pre approval and additional fee!
+
+This is a second floor unit - there is another, condo on the first floor below. 
+
+There is free on street parking - be sure to check the posted sweep times, they vary depending which side of the street you park. We do not have dedicated on site parking.
+
+For security purposes, there is an exterior camera monitoring the garden entrance/gate area. The camera is outward-facing and does not monitor any interior or private guest spaces.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+Pets allowed
+TV
+Washer
+Free dryer – In unit
+Air conditioning
+Shared patio or balcony
+Exterior security cameras on property
+Show all 45 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.97 out of 5 from 133 reviews.
+4.97
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Parks
+28
+Location
+87
+Walkability
+52
+Hospitality
+64
+Nearby
+30
+Indoor spaces
+28
+Comfort
+34
+View
+15
+Cleanliness
+35
+Parking
+8
+Jimmy
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+4 days ago
+,
+·
+Stayed a few nights
+Beautiful place and Joey has done a phenomenal job of restoring the place.  Faces Forsyth Park. We will go back every chance we get. Recommend for anyone who can climb stairs 
+We loved it!
+Show more
+Carrie
+Greenville, South Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We had a great time and Joey provided some wonderful recommendations that we enjoyed very much.
+Show more
+Santiago
+New to Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great dude, helpful, responsive. Place looked as advertised, great location. No complaints!
+Show more
+Eleanora
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed with a pet
+We loved our stay! This location is ideal for anyone who wants to walk the city and see all the sites Savannah has to offer. 
+It should be noted that since the home is older it takes awhile to cool down! Thus, if you know you like it cooler I would reach out to Joey ahead of time so he can adjust the thermostat accordingly (since he has a great response time!). 
+Highly recommend!!
+Show more
+Rachel
+Orlando, Florida
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We had a lovely few days staying at this Airbnb! We went to the farmers market right across the street and felt very safe and comfortable! We did a movie night our final night and the accommodations were perfect! Would definitely love to stay again.
+Show more
+Lindy
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+My mother and I were in Savannah to visit family, and choose this delightful Airbnb because of its location in the historic district and proximity to shops and things to do. The apartment is the light-filled second floor of a two-story row house, with a magnificent view of Forsyth Park, lovely tall ceilings, wood floors, pleasant furnishings and comfortable beds. There was a basketful of board games in the living room, and the TV offers all of the streaming channels - Netflix, Prime, HBOMax, etc. - and the kitchen has all the dishes, pots, and pans you could need if you wanted to cook-in rather than eat out. The coffee selection was delicious, and Joey even left a bottle of wine with two glasses to make our stay even more enjoyable. Really enjoyed this space and will stay here again the next time I'm in Savannah!!
+Show more
+Show all 133 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Joey
+Superhost
+290 reviews
+290
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+2 years of hosting
+2
+Years hosting
+Joey is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

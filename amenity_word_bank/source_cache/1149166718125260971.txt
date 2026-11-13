@@ -1,0 +1,412 @@
+URL: https://www.airbnb.com/rooms/1149166718125260971
+Title: Liberty Estate - Downtown with Courtyard & Garage
+Latitude: 32.07189
+Longitude: -81.08725
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 5
+Occupancy (maximum guests): 12
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This luxurious estate offers plenty of space for families or groups with its 3 separate units and a total of 5 bedrooms. Guests can enjoy the convenience of off-street parking, a rarity in downtown Savannah, and can easily explore the city on foot. The property exudes southern charm with its classic federal-style architecture and its location on an idyllic tree-lined street draped with Spanish moss.
+
+The space
+Discover the perfect blend of contemporary and vintage design at this stunning estate featuring three uniquely designed units: the spacious 3-bedroom main house, the charming garden apartment, and the cozy carriage house. Each unit is fully equipped with its own kitchen, allowing for a comfortable and convenient stay.
+
+Get lost in your favorite shows and movies with the six smart TVs scattered throughout the estate. Whether you're looking to relax in the courtyard around the fire pit, or enjoy a stroll around the neighborhood, this estate offers the ultimate sanctuary for all guests. Book your stay now and experience luxury living at its finest.
+
+STVR Certificate: SVR-01906
+STVR Certificate: SVR-01907
+STVR Certificate: SVR-01905
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet
+Entertainment
+Ethernet connection
+TV with standard cable
+Books and reading material
+Family
+Pack ’n play/Travel crib - always at the listing
+Children’s books and toys for ages 0-2 years old and 2-5 years old
+Standalone high chair
+Children’s dinnerware
+Baby monitor
+Board games
+Baby safety gates
+Heating and cooling
+Air conditioning
+Indoor fireplace: gas
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space with a printer
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Fire pit
+Outdoor furniture
+Parking and facilities
+Free residential garage on premises – 2 spaces
+Free street parking
+Paid parking off premises
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Liberty Estate - Downtown with Courtyard & Garage
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+12 guests · 5 bedrooms · 6 beds · 4.5 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+4 reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+In historic downtown Savannah
+Troup Square is steps away, with the Cathedral of St. John the Baptist about a 5-min walk
+A federal-style estate with three units
+Three separate units, each with its own kitchen, spread across a main house, garden apartment, and carriage house
+Spotless and well maintained
+Both reviews praise the cleanliness and location, with one guest calling the host Chaz responsive and accommodating
+This luxurious estate offers plenty of space for families or groups with its 3 separate units and a total of 5 bedrooms. Guests can enjoy the convenience of off-street parking, a rarity in downtown Savannah, and can easily explore the city on foot. The property exudes southern charm with its classic federal-style architecture and its location on an idyllic tree-lined street draped with Spanish moss.
+
+The space
+Discover the perfect blend of contemporary and vintage design at this stunning estate featuring three uniquely designed units: the spacious 3-bedroom main house, the charming garden apartment, and the cozy carriage house. Each unit is fully equipped with its own kitchen, allowing for a comfortable and convenient stay.
+
+Get lost in your favorite shows and movies with the six smart TVs scattered throughout the estate. Whether you're looking to relax in the courtyard around the fire pit, or enjoy a stroll around the neighborhood, this estate offers the ultimate sanctuary for all guests. Book your stay now and experience luxury living at its finest.
+
+STVR Certificate: SVR-01906
+STVR Certificate: SVR-01907
+STVR Certificate: SVR-01905
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free residential garage on premises – 2 spaces
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Show all 61 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+5.0 out of 5 stars from 4 reviews
+5.0 · 4 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Cleanliness
+3
+Location
+3
+Condition
+2
+Comfort
+2
+Hospitality
+2
+Meghan
+Okeechobee, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Chaz was an amazing host.  He was so responsive and accommodating!  This was a beautiful place, well-maintained, clean, and close to everything.  We loved our stay here!
+Deborah
+Lake George, New York
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Group trip
+Enjoyed our stay. Comfortable, clean and well stocked accommodations. Great location.
+Susan
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2025
+,
+·
+Stayed a few nights
+This is a very nice home. It’s very big with plenty of comfortable seating. We rented all three spaces. It’s all updated, very clean with nice towels and amenities. Lots of stairs but that’s Savannah. There is a back deck with seating and a little courtyard. Also fairly easy to find street parking in addition to the garage.
+Show more
+AnnaScott
+Dublin, Georgia
+Rating, 5 stars
+,
+·
+January 2025
+,
+·
+Group trip
+This Airbnb was perfect for our girls trip to Savannah! The location is great and the host is very responsive if you have to get in touch with them.
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Set in historic downtown Savannah and a stroll away from eateries, cafes, cocktail bars, and shops. Museums, art galleries, and other historic attractions are steps away.
+Show more
+Meet your host
+Chaz
+Superhost
+3,100 reviews
+3100
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 11:00 AM
+12 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

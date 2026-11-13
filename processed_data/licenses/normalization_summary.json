@@ -1,0 +1,21 @@
+{
+  "input_file": "raw_data\\Licensed Short-Term Rental Properties (1).xlsx",
+  "input_sha256": "d0a86d84be4ac6c1a3213610759ed38a5a22cb2bc134fc48966f75422b9e1790",
+  "source_sheet": "Sheet",
+  "normalization_version": "1.0.0",
+  "normalizer_sha256": "a8008437ba7dcb8171b96f0a759542524cb4079c408cdbe61063fa115a85e546",
+  "executed_utc": "2026-10-27T22:01:22.271674+00:00",
+  "python_version": "3.14.6",
+  "pandas_version": "3.0.3",
+  "rows": 1683,
+  "review_rows": 146,
+  "duplicate_address_rows": 60,
+  "review_reason_counts": {
+    "unit_note_or_alternate_address_requires_review": 141,
+    "conflicting_unit_fields": 4,
+    "unparsed_or_missing_city_state_zip": 1,
+    "unparsed_embedded_unit": 1
+  },
+  "usps_delivery_validated": false,
+  "note": "No rows dropped; no parcel/CAD matching; original source columns preserved."
+}

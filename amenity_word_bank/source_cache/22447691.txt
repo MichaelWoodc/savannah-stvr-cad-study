@@ -1,0 +1,454 @@
+URL: https://www.airbnb.com/rooms/22447691
+Title: Historic 3BR on Tattnall Street by Lucky Savannah
+Latitude: 32.0697
+Longitude: -81.0989
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This beautifully updated two story home has two private porches and lots of Southern charm.
+
+The space
+Tattnall Street is an often missed gem among the streets of Savannah, overshadowed by the cobblestones of Jones Street, which Southern Living Magazine dubbed “America’s prettiest street.” This quintessential Southern street will will make you feel like you’re coming home. 
+
+You’ll enter into the foyer, which has stairs leading to the second floor, a hallway that leads back to the kitchen, and opens to the living room to your right. Past the living room is the dining room with seating for six. The upgraded kitchen has a convenient island with stools and a breakfast nook. Enjoy your morning coffee in a rocking chair on your private porch just off the kitchen. 
+
+Upstairs you’ll find three beautiful bedrooms. The bedroom at the top of the stairs has two twin beds, perfect for families with children. The second bedroom has a queen-sized bed and its own private porch. These two bedrooms share a bath, which has a wonderful clawfoot tub. The primary bedroom has a king bed, television, and ensuite bath with a double vanity and huge shower with built-in seating.  
+
+Nearby dining favorites include Mrs. Wilkes Dining House, where you’ll find some of the best Southern home cooking in the city, and the Crystal Beer Parlor, Savannah’s oldest restaurant. You’ll also be a short walk from Forsyth Park, Savannah’s largest park and popular location for weddings, music and food festivals. 
+ 
+Why Lucky Savannah Loves this Property:
+- There is plenty of non-metered parking surrounding the home, so there's no need to park in a garage or pay parking meters! 
+- A washer and dryer is conveniently located in the kitchen area. 
+- Built in 1871, this home has been fully updated to provide all the comforts you’ll need during your stay in Savannah. 
+
+What is parking like for this home? Non-metered Parking
+This unit has free, on-street parking right outside the front door. Availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends.
+ 
+Sleeping Configuration:
+Bedroom 1: 2 Twin Beds 
+Bedroom 2: Queen Bed
+Bedroom 3: King Bed
+
+SVR-00349
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic 3BR on Tattnall Street by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 3 bedrooms · 4 beds · 2.5 baths
+Rated 4.6 out of 5 stars.
+4.6
+·
+15 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, with Chatham Square and Monterey Square also nearby
+Free street parking at the door
+Free on-street parking right outside, a convenience guests say is easy to find
+A beautiful home guests love
+Guests highlight the home's beauty, cleanliness, and its walkable location near Forsyth Park
+This beautifully updated two story home has two private porches and lots of Southern charm.
+
+The space
+Tattnall Street is an often missed gem among the streets of Savannah, overshadowed by the cobblestones of Jones Street, which Southern Living Magazine dubbed “America’s prettiest street.” This quintessential Southern street will will make you feel like you’re coming home. 
+
+You’ll enter into the foyer, which has stairs leading to the second floor, a hallway that leads back to the kitchen, and opens to the living room to your right. Past the living room is the dining room with seating for six. The upgraded kitchen has a convenient island with stools and a breakfast nook. Enjoy your morning coffee in a rocking chair on your private porch just off the kitchen. 
+
+Upstairs you’ll find three beautiful bedrooms. The bedroom at the top of the stairs has two twin beds, perfect for families with children. The second bedroom has a queen-sized bed and its own private porch. These two bedrooms share a bath, which has a wonderful clawfoot tub. The primary bedroom has a king bed, television, and ensuite bath with a double vanity and huge shower with built-in seating.  
+
+Nearby dining favorites include Mrs. Wilkes Dining House, where you’ll find some of the best Southern home cooking in the city, and the Crystal Beer Parlor, Savannah’s oldest restaurant. You’ll also be a short walk from Forsyth Park, Savannah’s largest park and popular location for weddings, music and food festivals. 
+ 
+Why Lucky Savannah Loves this Property:
+- There is plenty of non-metered parking surrounding the home, so there's no need to park in a garage or pay parking meters! 
+- A washer and dryer is conveniently located in the kitchen area. 
+- Built in 1871, this home has been fully updated to provide all the comforts you’ll need during your stay in Savannah. 
+
+What is parking like for this home? Non-metered Parking
+This unit has free, on-street parking right outside the front door. Availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends.
+ 
+Sleeping Configuration:
+Bedroom 1: 2 Twin Beds 
+Bedroom 2: Queen Bed
+Bedroom 3: King Bed
+
+SVR-00349
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.6 out of 5 stars from 15 reviews
+4.6 · 15 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 73% of reviews
+5
+4 stars, 20% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 7% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.5 out of 5 stars for cleanliness
+Cleanliness
+4.5
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.7 out of 5 stars for communication
+Communication
+4.7
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Parks
+3
+Location
+11
+Walkability
+5
+Parking
+3
+Family
+3
+Cleanliness
+4
+Quiet
+3
+Nearby
+3
+Indoor spaces
+3
+Getting around
+2
+Donna
+4 years on Airbnb
+Rating, 4 stars
+,
+·
+February 2025
+,
+·
+Stayed with kids
+The house is lovely and clean.  Just blocks from Forsyth park.  It was an older style with things you’d expect - creaky stairs, doors that won’t close, etc. 
+Things I’d want to know - it’s over a mile to river street so we still needed to drive or uber which wasn’t great with younger kids.  The first day there was only one small parking spot in front of the house which stressed me.  The rest of the time, it was fine.  I’m assuming it was the street cleaning (it was Thursday) that affected parking.  Weekends seem to be better.
+All in all it was good.
+Show more
+Julianne
+San Diego, California
+Rating, 5 stars
+,
+·
+March 2025
+,
+·
+Stayed a few nights
+Thank you, Lucky Savannah, for a wonderful stay! We truly enjoyed this beautiful home. Everything was perfect, and we’re already looking forward to coming back!
+Show more
+Aidee
+Nashville, Tennessee
+Rating, 5 stars
+,
+·
+October 2024
+,
+·
+Group trip
+The house was great and very pretty inside and out. The location was also great and Forsyth park is walking distance and very scenic nice area. Near to a lot of places yes in a quiet area. Overall great place.
+Show more
+Alice
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Group trip
+Really lived our stay!  In the heart of Savannah.
+Show more
+Haazim
+Marietta, Georgia
+Rating, 5 stars
+,
+·
+July 2024
+,
+·
+Stayed with kids
+Great place to stay!  Great neighborhood!  Great home!  My family and I walked the neighborhood and down to Rivers Street, stopping at a coffee shop and at a museum on the way.  Free parking space in front of house was open every day we were there just a block or 2 from paid street parking.
+Show more
+Kelly And John
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2024
+,
+·
+Group trip
+Loved this home and great quiet location!!!!!
+Show all 15 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

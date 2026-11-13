@@ -1,0 +1,383 @@
+URL: https://www.airbnb.com/rooms/925934317962566824
+Title: Walk to Beautiful Forsyth Park by Lucky Savannah
+Latitude: 32.0631
+Longitude: -81.0928
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+In the Victorian District, this extremely charming, stand-alone home is on a quiet lane within walking distance to Forsyth Park, the Historic District, and much more. Two Lucky guests can call Happy Times on Park Carriage their new home away from home!
+
+The space
+Located in the Victorian District, this extremely charming, stand-alone 2nd story home is on a quiet lane within walking distance to Forsyth Park, the Historic District, and much more. Two Lucky guests can call Happy Times on Park Carriage their new home away from home, where they'll make memories that will last a lifetime!
+
+Upon entering the courtyard off of the lane, you'll find a shared courtyard and a staircase that leads up to your charming 2nd story carriage house! Inside, you'll find that the space boasts with natural light, warm tones, and comfortable furnishings. The open floor plan allows guests to never feel separated, as the kitchen sits just off of the entrance, and overlooks the living room.The kitchen is fully stocked with everything you'll need, including all of the modern conveniences one could ask for.
+
+ The bedroom features a plush King size bed, graciously sized walk-in closet, and an ensuite bathroom. The bathroom features a tub-shower combination, and a stackable washer and dryer, perfect for extended stays!
+
+The shared courtyard is perfect for sipping sweet tea while watching the clouds roll by, while you and your guest reminisce on your favorite memories. 
+
+Head South a few blocks and find yourself immersed in Savannah's culture - a wine bar, vegan cafe, and the Forsyth Park Farmer's Market. A few minutes' walk in the other direction gets you closer to the bustling city. Take the scenic route through downtown's beautiful squares and end at the well-known River Walk - a great place to grab a beer and people watch.
+
+What Is Parking Like For This Home?
+Parking for this home is on-street, non-metered.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-02545
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Walk to Beautiful Forsyth Park by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Rated 4.67 out of 5 stars.
+4.67
+·
+3 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with Savannah's historic squares farther north
+Private carriage house with full kitchen
+A stand-alone carriage house with a full kitchen, king bed, and in-unit washer and dryer
+Clean, simple, and well-managed
+Guests describe it as clean and simple, with a responsive host and a convenient location
+In the Victorian District, this extremely charming, stand-alone home is on a quiet lane within walking distance to Forsyth Park, the Historic District, and much more. Two Lucky guests can call Happy Times on Park Carriage their new home away from home!
+
+The space
+Located in the Victorian District, this extremely charming, stand-alone 2nd story home is on a quiet lane within walking distance to Forsyth Park, the Historic District, and much more. Two Lucky guests can call Happy Times on Park Carriage their new home away from home, where they'll make memories that will last a lifetime!
+
+Upon entering the courtyard off of the lane, you'll find a shared courtyard and a staircase that leads up to your charming 2nd story carriage house! Inside, you'll find that the space boasts with natural light, warm tones, and comfortable furnishings. The open floor plan allows guests to never feel separated, as the kitchen sits just off of the entrance, and overlooks the living room.The kitchen is fully stocked with everything you'll need, including all of the modern conveniences one could ask for.
+
+ The bedroom features a plush King size bed, graciously sized walk-in closet, and an ensuite bathroom. The bathroom features a tub-shower combination, and a stackable washer and dryer, perfect for extended stays!
+
+The shared courtyard is perfect for sipping sweet tea while watching the clouds roll by, while you and your guest reminisce on your favorite memories. 
+
+Head South a few blocks and find yourself immersed in Savannah's culture - a wine bar, vegan cafe, and the Forsyth Park Farmer's Market. A few minutes' walk in the other direction gets you closer to the bustling city. Take the scenic route through downtown's beautiful squares and end at the well-known River Walk - a great place to grab a beer and people watch.
+
+What Is Parking Like For This Home?
+Parking for this home is on-street, non-metered.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-02545
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.67 out of 5 stars from 3 reviews
+4.67 · 3 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 67% of reviews
+5
+4 stars, 33% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.3 out of 5 stars for check-in
+Check-in
+4.3
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Mercedes
+Greenville, South Carolina
+Rating, 4 stars
+,
+·
+October 2025
+,
+·
+Stayed with a pet
+Lucky Savannah was kind and very responsive. Place was clean and simple. They provided all the basics needed for our stay. 
+Parking is tricky. The back alley for entering and un/loading on the property is a bit difficult with the trash cans of all the homes near by. 
+Overall, simple and clean place to stay.
+Show more
+Heather
+Hartwell, Georgia
+Rating, 5 stars
+,
+·
+April 2024
+,
+·
+Stayed a few nights
+Host very responsive. Perfect location and very clean. Will definitely stay again
+Denise
+St. Thomas, U.S. Virgin Islands
+Rating, 5 stars
+,
+·
+April 2024
+,
+·
+Stayed with a pet
+Nice cute little place!
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Pet-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

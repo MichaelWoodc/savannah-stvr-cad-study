@@ -1,0 +1,444 @@
+URL: https://www.airbnb.com/rooms/24033428
+Title: Historic Dist Gem + 3 King Beds by Lucky Savannah
+Latitude: 32.0713
+Longitude: -81.0874
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+There's room for the whole family in this recently updated, 2-story townhome. Located on charming Charlton Street, you're only blocks away from Savannah's most sought-after attractions.
+
+The space
+Feel like a true Savannah native when you pull up to this clapboard home. The foyer with main staircase greets you as you wander throughout the first floor. A first guest bedroom with King bed is just to your left - perfect as a mother-in-law or teen suite. Just down the hall, guests will find a full-size bathroom, with a walk-in shower. Continue on, you'll find the dining room that seats six. The kitchen is ideal for entertaining, as it's fully equipped with every culinary necessity and is open to both the living room and dining room. Kick your feet up and watch the game in the living room, filled with ample daylight from the outside. A door to the private courtyard is just right and is the perfect spot to barbecue and enjoy the sounds of the city.
+
+Upstairs you'll find the remaining two bedrooms, one as the primary and the other a guest room with en suite bath. The primary has a King size bed, two full closets, and balcony access off of the bath. Enjoy soaking in the jetted tub after a long day of exploring the city. A flat screen TV can be found in the armoire. The guest room is opposite the primary suite and also has a King size bed and flat screen TV. The bath has a tub/shower combo and beautiful views of historic downtown.
+
+Prospective guests should be aware of a neighboring beehive. The honeybees keep to themselves on the neighbor's second floor rooftop and are harmless, however guests with bee allergies should be cautious. 
+
+Sleeping Configuration:
+Bedroom 1: King bed
+Bedroom 2: King bed
+Bedroom 3: King bed
+
+Parking: Non-metered Parking
+This unit has on-street parking - one side is metered and the other is non-metered in the area. Availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 85 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-01009
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Dist Gem + 3 King Beds by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 3 baths
+Rated 4.69 out of 5 stars.
+4.69
+·
+26 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's historic district
+Steps from Troup Square and Whitefield Square, with Lafayette Square about a 5-min walk away
+Open-plan kitchen and courtyard
+An open kitchen flows into the living and dining rooms, with a private courtyard out back
+Walkable to nearly everything
+Guests highlight the central location, with easy walking access to restaurants and shops
+There's room for the whole family in this recently updated, 2-story townhome. Located on charming Charlton Street, you're only blocks away from Savannah's most sought-after attractions.
+
+The space
+Feel like a true Savannah native when you pull up to this clapboard home. The foyer with main staircase greets you as you wander throughout the first floor. A first guest bedroom with King bed is just to your left - perfect as a mother-in-law or teen suite. Just down the hall, guests will find a full-size bathroom, with a walk-in shower. Continue on, you'll find the dining room that seats six. The kitchen is ideal for entertaining, as it's fully equipped with every culinary necessity and is open to both the living room and dining room. Kick your feet up and watch the game in the living room, filled with ample daylight from the outside. A door to the private courtyard is just right and is the perfect spot to barbecue and enjoy the sounds of the city.
+
+Upstairs you'll find the remaining two bedrooms, one as the primary and the other a guest room with en suite bath. The primary has a King size bed, two full closets, and balcony access off of the bath. Enjoy soaking in the jetted tub after a long day of exploring the city. A flat screen TV can be found in the armoire. The guest room is opposite the primary suite and also has a King size bed and flat screen TV. The bath has a tub/shower combo and beautiful views of historic downtown.
+
+Prospective guests should be aware of a neighboring beehive. The honeybees keep to themselves on the neighbor's second floor rooftop and are harmless, however guests with bee allergies should be cautious. 
+
+Sleeping Configuration:
+Bedroom 1: King bed
+Bedroom 2: King bed
+Bedroom 3: King bed
+
+Parking: Non-metered Parking
+This unit has on-street parking - one side is metered and the other is non-metered in the area. Availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 85 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-01009
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Show all 36 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.69 out of 5 stars from 26 reviews
+4.69 · 26 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 81% of reviews
+5
+4 stars, 12% of reviews
+4
+3 stars, 4% of reviews
+3
+2 stars, 4% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.7 out of 5 stars for cleanliness
+Cleanliness
+4.7
+Rated 4.6 out of 5 stars for accuracy
+Accuracy
+4.6
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Location
+11
+Backyard
+2
+Parks
+2
+Pets
+4
+Quiet
+7
+Walkability
+5
+Nearby
+5
+Parking
+3
+Accuracy
+4
+TV
+3
+Anita
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed with a pet
+We loved our stay at Charming Charlton!  The home was exactly as shown in the pictures on the listing and was in a great location!  Lucky Savannah’s team was quick to communicate via text to answer any questions that I had.  I would happily choose Charming Charlton when I return to Savannah.
+Show more
+Ann
+Littleton, Colorado
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+We enjoyed the convenient location,  it's a short walk to a lot of restaurants and stores.
+Show more
+Donna
+Florida, United States
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Spacious property for large group.  Privacy and quiet.  Easy access to the most activities and restaurants.  Easy check in and checkout.  Responsive property managers.  Parking on street this time of year was fine.
+There was no TV in armoire as stated in description
+Show more
+Victoria
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed with a pet
+This house was great for a girls trip. We all had our own space and bathroom, and it was central to everything.
+Show more
+Trina
+Garner, North Carolina
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Stayed with a pet
+We enjoyed our stay in Savannah. The location was close to downtown shops, restaurants and parks. The house was as described online and was very clean. It was very spacious and we were able to have our dog with us. It even had an electric piano for extra fun. The master bath was very large and the 3 king-sized beds were a plus. We would stay again in the future.
+Show more
+Ishmael
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+March 2026
+I enjoyed staying here. The location was ideal for St. Patrick’s weekend, less than a mile from River Street.
+Show more
+Show all 26 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,297 reviews
+9297
+Reviews
+4.68 out of 5 average rating
+4.68
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

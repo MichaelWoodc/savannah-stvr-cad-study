@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .DS_Store
+.venv-party/
+party_sentiment/model_cache/
+party_sentiment/chunk_scores.sqlite*

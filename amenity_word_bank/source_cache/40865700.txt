@@ -1,0 +1,445 @@
+URL: https://www.airbnb.com/rooms/40865700
+Title: Downtown Plunge Pool + Parking by Lucky Savannah
+Latitude: 32.0729
+Longitude: -81.0876
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 4
+Occupancy (maximum guests): 12
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 8
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Newly built three-story home that offers true refined Southern Luxury, with private parking, a heated plunge pool, and elevator.
+
+The space
+Just off of Liberty Street, you will feel like a local in the Downtown Historic District. Just a few short steps up to the main level, guests will enter into their new home away from home. The main level offers an inviting living space with chefs kitchen and a formal dining area. Conveniently placed, your guests can use the half bath on the main floor. Off the dining room, step out onto your back porch for a morning cup of joe with views of your private plunge pool, and the cathedral in the distance. After sending your luggage up via elevator, the third floor consists of two primary suites, each fitted with an en suite bathroom, and sophisticated decor. 
+
+Downstairs, ground level living is a great option for guests or family members that have mobility issues. The garden apartment offers a full kitchen equipped with high-end stainless steel appliances, dedicated dining space and large kitchen island. At the back of the home, you'll find a roomy bathroom with a tiled shower and tub combo and Queen bedroom.
+
+Your fourth bedroom and bathroom can be found in the carriage, a standalone apartment behind the home located on the second level. The rest of your party simply crosses the courtyard and walks up a secure flight of stairs. The carriage features a full kitchen with granite countertops, featuring stainless appliances. Guests can catch up on their favorite shows on the flat screen TV, and the sofa also converts to a Queen bed.  The bedroom has a Queen bed with en suite bath, fitted with a shower and tub combination. 
+
+Private Parking: The private garage accommodates 1 small/mid-size sedan. Nearby parking is on-street and non-metered, although guests will need to be aware of the posted sweep zone signs.
+
+Sleeping Configuration:
+Main House:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+Living Room: Twin Sleeper Sofa
+Garden Apartment:
+Bedroom 3: Queen Bed
+Living Room: Twin Sleeper 
+Living Room: Queen Sleeper Sofa
+Carriage House:
+Bedroom 4: Queen Bed
+Living Room: Queen Sleeper Sofa
+
+SVR-02064  SVR-02065  SVR-02063
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Pool
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Downtown Plunge Pool + Parking by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+12 guests · 4 bedrooms · 8 beds · 4.5 baths
+Rated 4.71 out of 5 stars.
+4.71
+·
+7 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Troup Square, with Lafayette Square and the Cathedral of St. John the Baptist nearby
+Private plunge pool and courtyard
+A heated plunge pool in the private courtyard, visible from the back porch
+Beautiful home, attentive hosts
+Both reviews call the home beautiful, and guests praise the cleanliness and proactive hosts
+Newly built three-story home that offers true refined Southern Luxury, with private parking, a heated plunge pool, and elevator.
+
+The space
+Just off of Liberty Street, you will feel like a local in the Downtown Historic District. Just a few short steps up to the main level, guests will enter into their new home away from home. The main level offers an inviting living space with chefs kitchen and a formal dining area. Conveniently placed, your guests can use the half bath on the main floor. Off the dining room, step out onto your back porch for a morning cup of joe with views of your private plunge pool, and the cathedral in the distance. After sending your luggage up via elevator, the third floor consists of two primary suites, each fitted with an en suite bathroom, and sophisticated decor. 
+
+Downstairs, ground level living is a great option for guests or family members that have mobility issues. The garden apartment offers a full kitchen equipped with high-end stainless steel appliances, dedicated dining space and large kitchen island. At the back of the home, you'll find a roomy bathroom with a tiled shower and tub combo and Queen bedroom.
+
+Your fourth bedroom and bathroom can be found in the carriage, a standalone apartment behind the home located on the second level. The rest of your party simply crosses the courtyard and walks up a secure flight of stairs. The carriage features a full kitchen with granite countertops, featuring stainless appliances. Guests can catch up on their favorite shows on the flat screen TV, and the sofa also converts to a Queen bed.  The bedroom has a Queen bed with en suite bath, fitted with a shower and tub combination. 
+
+Private Parking: The private garage accommodates 1 small/mid-size sedan. Nearby parking is on-street and non-metered, although guests will need to be aware of the posted sweep zone signs.
+
+Sleeping Configuration:
+Main House:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+Living Room: Twin Sleeper Sofa
+Garden Apartment:
+Bedroom 3: Queen Bed
+Living Room: Twin Sleeper 
+Living Room: Queen Sleeper Sofa
+Carriage House:
+Bedroom 4: Queen Bed
+Living Room: Queen Sleeper Sofa
+
+SVR-02064  SVR-02065  SVR-02063
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 8 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV with standard cable
+Elevator
+Washer
+Dryer
+Air conditioning
+Show all 37 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.71 out of 5 stars from 7 reviews
+4.71 · 7 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 86% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 14% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Family
+3
+Access
+2
+Cleanliness
+3
+Hospitality
+3
+Bathroom
+2
+Robert
+Poinciana, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+The place was beautiful. Perfect for multiple family members to have spaces to be together, with spaces for privacy. We loved it!
+Show more
+Rylee
+San Antonio, Texas
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed with kids
+I stayed here with my family for 5 days and it was great! It was beautiful, clean and well stocked with dishes and linens. The only note I had was they don’t give you a bunch of soap, so if you are staying for more than a few days you might want to bring your own, but that is usually expected :) the hosts were very informative and proactive with their communication, and the stay was seamless. 10/10 would rent again!
+Show more
+Keaghan
+Charleston, West Virginia
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Group trip
+Beautiful place to stay in Savannah!
+Show more
+Nancy
+Medford, Massachusetts
+Rating, 5 stars
+,
+·
+October 2020
+,
+·
+Group trip
+Lucky Savannah helped make our stay in Savannah perfect.
+Kimberly
+Winston, Georgia
+Rating, 5 stars
+,
+·
+May 2020
+,
+·
+Stayed with kids
+I came down for Memorial Day weekend with my family of 5,  my parents, and my brother's family of 3. Lady Liberty provided the perfect setup, each family enjoyed being separate but together with the layout of the townhouse.  My children enjoyed the heated plunge pool and actually spent hours playing. The house is very clean and includes many essentials to get you started (lasted the three day weekend for us), including paper towels, toilet paper, dishwasher detergent,  dish soap, bar soap, travel size shampoo & conditioner,  laundry detergent, and umbrellas. There are also a couple of board and card games. 
+One thing worth noting, all exterior doors have a keypad however the door inside the garage which leads to the stairwell for the carriage house has a physical key. This key is located inside the kitchen of the main house. Since we parked in the garage, we were met with a locked door. The Property Mngt company was responsive & unlocked the door. We later found the key... We will definitely return. Thank you
+Show more
+Elizabeth
+Wilmington, Delaware
+Rating, 5 stars
+,
+·
+March 2020
+,
+·
+Group trip
+Amazing house. Great location. Loved Savannah. We will be back!
+Show all 7 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,297 reviews
+9297
+Reviews
+4.68 out of 5 average rating
+4.68
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+12 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

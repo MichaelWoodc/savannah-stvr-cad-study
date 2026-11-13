@@ -1,0 +1,471 @@
+URL: https://www.airbnb.com/rooms/1523377602268157515
+Title: Mariner's Cottage in Historic District
+Latitude: 32.0718
+Longitude: -81.0875
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: David
+Host ID: 335606894
+Host profile ID: 1469649835785352302
+Host URL: https://www.airbnb.com/users/profile/1469649835785352302
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+2 single beds
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+This lovely two bedroom cottage puts you in Savannah's beautiful Historic District. 
+
+Park your car or cars in your two dedicated off-street spaces.
+
+Enjoy the open plan that flows from the living room to the dining room and fully-equipped kitchen. The kitchen leads to the covered outdoor screened-in patio with ceiling fan.
+
+The Primary bedroom has a queen size bed. 
+
+***ENTRANCE TO THE FULL BATHROOM IS THRU THE PRIMARY BEDROOM
+
+The Second bedroom is configured with two twin beds
+
+SVR-03190
+
+The space
+Comfortable and well appointed urban cottage. Beautifully equipped kitchen and bath. Comfortable beds, good towels and sheets. Great WiFi.
+
+Guest access
+There is a keyless entry lock. The code will be provided just before your stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+Ethernet connection
+42 inch HDTV with standard cable, Roku
+Bluetooth sound system
+Books and reading material
+Family
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free driveway parking on premises – 2 spaces
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Cleaning available during stay
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Mariner's Cottage in Historic District
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+16 reviews
+16
+Reviews
+Hosted by David
+Superhost · 7 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Troup Square, with the Cathedral of St. John the Baptist about a 5-min walk away
+Cottage with patio and free parking
+A screened-in patio with a ceiling fan off the kitchen, plus two dedicated parking spaces
+Charming, clean, and worth rebooking
+Guests highlight the charm, cleanliness, and walkable location, with many planning return visits
+This lovely two bedroom cottage puts you in Savannah's beautiful Historic District. 
+
+Park your car or cars in your two dedicated off-street spaces.
+
+Enjoy the open plan that flows from the living room to the dining room and fully-equipped kitchen. The kitchen leads to the covered outdoor screened-in patio with ceiling fan.
+
+The Primary bedroom has a queen size bed. 
+
+***ENTRANCE TO THE FULL BATHROOM IS THRU THE PRIMARY BEDROOM
+
+The Second bedroom is configured with two twin beds
+
+SVR-03190
+
+The space
+Comfortable and well appointed urban cottage. Beautifully equipped kitchen and bath. Comfortable beds, good towels and sheets. Great WiFi.
+
+Guest access
+There is a keyless entry lock. The code will be provided just before your stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+2 single beds
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Free driveway parking on premises – 2 spaces
+Pets allowed
+42 inch HDTV with standard cable, Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Private patio or balcony
+Show all 56 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 16 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+8
+Location
+11
+Decor
+4
+Cleanliness
+6
+Comfort
+4
+Audrey
+Cincinnati, Ohio
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with a pet
+We had a fabulous stay! The property was spotless, and we loved the overall design. 
+The location was perfect for anyone hoping to walk all around Savannah. We’d absolutely stay here again!
+Show more
+Rhiannon
+Canton, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+I loved staying at this cottage! Restaurants and downtown Savannah were within walking distance (10-15 minute walk) and Tybee Island Beach was about a 22 minute drive. The cottage was easy to get in and out of. It felt cozy and private and lovely. Would stay here again!
+Show more
+Danna
+New Jersey, United States
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+This place was amazing! It was incredibly charming and the neighborhood was perfect. Highly recommend.
+Lynn
+Clearwater, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+We’ve stayed before at the cottage with the previous owner. The new owners have even made the cottage better than before. Spotless house, great decor, comfy beds. You will never regret staying here.
+Show more
+Jennifer
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Home is clean and tidy. Located within walking distance to area attractions. Would stay again if in the area.
+Jennifer
+Fort Myers, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Such a lovely home in a prime location. We walked all over Savannah! Thanks again.
+Show all 16 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Historic District south, close to Forsyth Park and loads of restaurants
+Show more
+Meet your host
+David
+Superhost
+295 reviews
+295
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+7 years of hosting
+7
+Years hosting
+Speaks English and Spanish
+Welcome, we are your hosts David & Erik! We know Savannah very well and are happy to share all our recommendation of must visit spots in the city, great new restaurants and places to grab a drink.
+David is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

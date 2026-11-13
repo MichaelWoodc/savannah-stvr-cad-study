@@ -1,0 +1,400 @@
+URL: https://www.airbnb.com/rooms/928275204254162097
+Title: 124 Garden: no stairs, with parking spot
+Latitude: 32.07734
+Longitude: -81.09031
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Mary
+Host ID: 10371587
+Host profile ID: 1462838847845697919
+Host URL: https://www.airbnb.com/users/profile/1462838847845697919
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Garden Level apartment in ideal central location. Staying in this amazing home with the off-street parking spot conveniently right out back may be the most stress-free way to enjoy Savannah. Renovated well stocked kitchen. 2 bedrooms. 1 Bathroom with combination tub/shower. Newly refinished heart of pine original hardwood flooring.  Beautiful living room with dining room combo in front of apartment.
+
+City of Savannah SVR-02587
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Iron
+Entertainment
+TV with standard cable
+Family
+Crib
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Paid parking on premises
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Shampoo
+Shampoo
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+124 Garden: no stairs, with parking spot
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Rated 4.63 out of 5 stars.
+4.63
+·
+8 reviews
+Hosted by Mary
+Superhost · 13 years hosting
+Listing highlights
+In Savannah's Historic District North
+Right outside Wright Square, with Chippewa Square and the Owens-Thomas House about a 3-min walk away
+Dedicated off-street parking
+A dedicated off-street parking spot right behind the building, included with the stay
+Walkable to restaurants and shops
+Guests highlight the central location and how easy it is to walk to restaurants and shops
+Garden Level apartment in ideal central location. Staying in this amazing home with the off-street parking spot conveniently right out back may be the most stress-free way to enjoy Savannah. Renovated well stocked kitchen. 2 bedrooms. 1 Bathroom with combination tub/shower. Newly refinished heart of pine original hardwood flooring.  Beautiful living room with dining room combo in front of apartment.
+
+City of Savannah SVR-02587
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Crib
+Hair dryer
+Refrigerator
+Microwave
+Show all 30 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.63 out of 5 stars from 8 reviews
+4.63 · 8 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 88% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 13% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.5 out of 5 stars for cleanliness
+Cleanliness
+4.5
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Location
+7
+Parking
+2
+Walkability
+2
+Cleanliness
+4
+Family
+2
+Comfort
+2
+Hospitality
+2
+Florence
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had a very good stay at Mary’s appartement. The location was both central and quiet, and there was a private parking spot available at the back. We had forgotten our baby bed at home, but thankfully there was one in the flat, and the owner answered our query right away. Can only recommend!
+Show more
+Walter
+Columbia, South Carolina
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed one night
+We had a great stay in Savannah. This was centrally located, able to walk where we wanted to go. Definitely recommend this place.
+Jenna
+Cayce, South Carolina
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Stayed one night
+This was the perfect location for the Savannah Bridge Run, which is why we were visiting. We were a group of 2 couples running the race, so we wanted to be close to the start/finish but also walking distance to restaurants. We went to an Italian restaurant and stopped in some shops, like Leopold's and Byrd's. We would absolutely stay here again for either a race or just a Savannah get away. The place itself was easy to find with the instructions and had comfy bedrooms, a clean bathroom, and a large front living room. Great find!
+Show more
+Madison
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Stayed one night
+Such a cute and nice stay! Thank you!
+Selvin
+Beaufort, South Carolina
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Stayed one night
+I would definitely recommend this place to anyone trying to stay in Savannah! Ite was nice and spacious, clean, and close to everything! No issues with the host being super responsive. Definitely recommend !
+Show more
+Ricardo
+10 years on Airbnb
+Rating, 2 stars
+,
+·
+July 2024
+,
+·
+Stayed with kids
+It’s a shame that the towels and bedding were absolutely filthy and disgusting. Smelled terrible. it would have been a five star review if these items were cleaned properly it was especially unfortunate since we had a child. great location close to everything if they fix their cleaning would be five stars
+Show more
+Show all 8 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Historic District North
+Show more
+Meet your host
+Mary
+Superhost
+12,061 reviews
+10,000
++
+Reviews
+4.83 out of 5 average rating
+4.83
+Rating
+13 years of hosting
+13
+Years hosting
+My work: Anderson VIP Concierge LLC
+Lives in Savannah, Georgia
+SavannahLuxuryRentals is a one stop shop for vacation rentals, tennis lessons for hire whenever possible and trolley tour tickets ;) We have budget friendly basic rentals as well as some of the most gorgeous luxury homes available. Please ask if you need us to help you select the best fit for you! Your contacts at the company will be Mary or Jennifer
+Mary is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Skylynn
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Some spaces are shared
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

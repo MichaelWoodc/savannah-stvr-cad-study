@@ -1,0 +1,450 @@
+URL: https://www.airbnb.com/rooms/22447730
+Title: Courtyard on Gaston Street by Lucky Savannah
+Latitude: 32.0708
+Longitude: -81.0981
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located on Gaston Street in the Historic District, this home is just steps away from beautiful Forsyth Park.  Guests love the private courtyard with original brickwork and plenty of Savannah charm.
+
+The space
+This spacious first floor apartment is located on historic Gaston Street, and features detailed millwork and hardwood floors. With two bedrooms and two full baths, up to 6 Lucky guests will be comfortably accommodated during their stay. 
+
+Guests will enter through the private courtyard into the sunroom, where you’ll find comfortable seating, a TV, and window seat. The sunroom doubles as a third bedroom, and when closed off from the rest of the home it has an en suite bath. The recently renovated kitchen has stainless steel appliances and every gadget you’d need to create a gourmet meal to enjoy in the adjacent dining room. 
+
+Both bedrooms have Queen sized beds, plenty of room to unpack, and large windows that filter in the beautiful Savannah sunlight. A formal living room provides space to get some work done, or just curl up on the couch with a good book. 
+
+For breakfast, we suggest taking a short walk to Clary’s Cafe, a local favorite and the setting for several scenes in Midnight in the Garden of Good and Evil. Just blocks from Forsyth Park, Savannah’s largest park, you’ll be well situated to attend several yearly music and food festivals as well as our weekly Saturday farmer's market. 
+
+Why Lucky Savannah Loves this Property:
+- A short walk from the Savannah Civic Center, this property is ideally located for events like SCAD graduation and concerts. 
+- Plenty of non-metered parking can be found on adjacent Tattnall Street. 
+ 
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+Sunroom: Queen Sized Murphy Bed
+
+PARKING: Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+Savannah Short Term Vacation Rental Permit #: SVR-00123
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Courtyard on Gaston Street by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 2 bedrooms · 3 beds · 2 baths
+Rated 4.69 out of 5 stars.
+4.69
+·
+29 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Forsyth Park, with Monterey Square and historic squares within a 5-min walk
+Courtyard with original brickwork
+A private courtyard with original brickwork leads into a sunroom with comfortable seating
+A walkable home base
+Guests highlight the walkability, with one noting they never needed a car during their stay
+Located on Gaston Street in the Historic District, this home is just steps away from beautiful Forsyth Park.  Guests love the private courtyard with original brickwork and plenty of Savannah charm.
+
+The space
+This spacious first floor apartment is located on historic Gaston Street, and features detailed millwork and hardwood floors. With two bedrooms and two full baths, up to 6 Lucky guests will be comfortably accommodated during their stay. 
+
+Guests will enter through the private courtyard into the sunroom, where you’ll find comfortable seating, a TV, and window seat. The sunroom doubles as a third bedroom, and when closed off from the rest of the home it has an en suite bath. The recently renovated kitchen has stainless steel appliances and every gadget you’d need to create a gourmet meal to enjoy in the adjacent dining room. 
+
+Both bedrooms have Queen sized beds, plenty of room to unpack, and large windows that filter in the beautiful Savannah sunlight. A formal living room provides space to get some work done, or just curl up on the couch with a good book. 
+
+For breakfast, we suggest taking a short walk to Clary’s Cafe, a local favorite and the setting for several scenes in Midnight in the Garden of Good and Evil. Just blocks from Forsyth Park, Savannah’s largest park, you’ll be well situated to attend several yearly music and food festivals as well as our weekly Saturday farmer's market. 
+
+Why Lucky Savannah Loves this Property:
+- A short walk from the Savannah Civic Center, this property is ideally located for events like SCAD graduation and concerts. 
+- Plenty of non-metered parking can be found on adjacent Tattnall Street. 
+ 
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+Sunroom: Queen Sized Murphy Bed
+
+PARKING: Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+Savannah Short Term Vacation Rental Permit #: SVR-00123
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.69 out of 5 stars from 29 reviews
+4.69 · 29 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 79% of reviews
+5
+4 stars, 14% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 3% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.5 out of 5 stars for cleanliness
+Cleanliness
+4.5
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.4 out of 5 stars for value
+Value
+4.4
+Guest reviews mention
+Location
+17
+Parks
+3
+Walkability
+6
+Comfort
+7
+Cleanliness
+6
+Family
+3
+Getting around
+3
+Kitchen
+3
+Hospitality
+5
+Value
+3
+Geneva Wilder
+Lakeland, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We spent our 50th Anniversary there. It was amazing. Beautiful, relaxing, convenient and just wonderful. Highly recommend. Our stay was perfect. Easiest check out ever!!!!  We will definitely come again.
+Show more
+Megan
+Ann Arbor, Michigan
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Group trip
+Great place in historic Savannah! Walking the streets around this place was so fun and scenic. While in Savannah, we didn't use a car at all - easily able to walk to all the downtown sites and great restaurants. 
+Very comfortable and spacious home for our group of friends! Thank you!
+Show more
+Moira
+Alachua, Florida
+Rating, 4 stars
+,
+·
+February 2025
+,
+·
+Group trip
+We booked this stay to celebrate my mother-in-law's 80th birthday (and informed the host when they asked our reason for visiting Savannah). Six days before the trip my mother-in-law became seriously ill. We requested to change the date, but were told it was "not possible." When I asked the reason I was told it's not possible to make any changes less than 7 days before. I understand that this may be the company's policy; however it was clearly possible to allow us to change the dates out of consideration and understanding. They just chose not to be helpful. So half of the family was forced to take the trip while the other half stayed home dealing with a medical situation. It was pretty disappointing that they were not more accommodating. Other than that, the location and house were good.
+Show more
+Benjamin
+Tega Cay, South Carolina
+Rating, 5 stars
+,
+·
+November 2024
+,
+·
+Stayed with kids
+The place was great, perfect location.  We would stay again.
+Show more
+Chris
+San Diego, California
+Rating, 5 stars
+,
+·
+July 2024
+,
+·
+Stayed with kids
+Two blocks from Forsyth Park, this property is amazingly located for exploring Savannah on foot or via the free trolley two blocks away. Very nicely restored original house with all amenities including commercial quality gas range and an amazing assortment of cookware and crockery. Great AC was much appreciated when coming in from the sweltering afternoon heat! Comfortable beds, dual head shower, courtyard patio. Very nice.
+Show more
+Ajay
+Atlanta, Georgia
+Rating, 2 stars
+,
+·
+May 2025
+,
+·
+Stayed with kids
+Amazing location
+Show more
+Show all 29 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

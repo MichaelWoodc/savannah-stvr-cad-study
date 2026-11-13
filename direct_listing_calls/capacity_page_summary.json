@@ -1,0 +1,52 @@
+{
+  "at_or_above": {
+    "listings": 500,
+    "parcels": 354,
+    "exactly_at_limit": 397,
+    "above_limit": 103,
+    "odd_advertised_capacity": 19,
+    "by_permit_type": {
+      "owner": {
+        "listings": 58,
+        "parcels": 42
+      },
+      "non_owner": {
+        "listings": 442,
+        "parcels": 312
+      },
+      "mixed": {
+        "listings": 0,
+        "parcels": 0
+      },
+      "unknown": {
+        "listings": 0,
+        "parcels": 0
+      }
+    }
+  },
+  "above": {
+    "listings": 103,
+    "parcels": 80,
+    "exactly_at_limit": 0,
+    "above_limit": 103,
+    "odd_advertised_capacity": 19,
+    "by_permit_type": {
+      "owner": {
+        "listings": 14,
+        "parcels": 10
+      },
+      "non_owner": {
+        "listings": 89,
+        "parcels": 70
+      },
+      "mixed": {
+        "listings": 0,
+        "parcels": 0
+      },
+      "unknown": {
+        "listings": 0,
+        "parcels": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,500 @@
+URL: https://www.airbnb.com/rooms/1481884803615680939
+Title: The Jungle Nook|Themed Getaway|Backyard|Grill
+Latitude: 32.0637
+Longitude: -81.0992
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Paul
+Host ID: 16014089
+Host profile ID: 1462976192406211064
+Host URL: https://www.airbnb.com/users/profile/1462976192406211064
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Look us up at “Tangle & Tide Savannah”! Historic charm meets verdant vibrancy with lavish king bed, comfy king sleeper sofa, fast wifi & workdesk, smart TVs, grill, and fully-equipped kitchen for short-term scouts, last-minute lemurs, and month-to-month macaws. Iconic Forsyth Park, year-round Farmers Market, and FREE daily shuttle to River Street are just steps away. All within 5 mins. *walking* you’ll find local gems like Sentient Bean, Local 11ten, Goody's, Corner Suite, & Bull Street Taco.
+
+The space
+Enjoy key-free access to this historic piece of early 20th century Savannah now tastefully modernized to fit the needs of any Savannah stay. Sip a morning cup of coffee from the Keurig as you sink into our plush orange couch or the suspended egg chair in the sunny backyard. Walk 2 minutes to verdant Forsyth Park for a morning stroll and catch the Saturday Farmers Market before meandering downtown to take in River Street and more of Savannah’s city squares. Swing back by The Jungle Nook to grab our guest picnic basket - fully equipped with utensils, tools, plates, blanket, wine holder, and cups for any snacker’s or wino’s needs - for a sunset picnic in Forsyth stocked with some healthy groceries from Brighter Day Natural Foods across the street. Go out to some of Savannah’s iconic spots downtown or uptown, shop upscale or thrifty, or just stay in altogether for a cozy night and grill it up in the backyard if you’d like. Enjoy a second splash of lushness, this time under the jungly full-wall mural, before cuddling up in the king-size bed and winding down with your favorite movie on the bedroom’s big-screen smart TV. 
+
+Relax and recharge at The Jungle Nook amidst your Savannah adventures with all of these options and more, or plug back in as needed, with 300 Mbps FAST wifi for streaming or video calls over a handful of devices at once, and multiple workstation surfaces fully equipped for your short- or long-term stay! 
+
+BEDROOM
+The bedroom features a king bed with high-quality linens, breathable duvet, and plenty of pillows alongside oversized blackout curtains for a good night’s rest. Ten-foot ceilings and large, original windows give the space air, elegance, and sun-drenched daytimes. A large-screen mounted smart TV adorns the wall opposite the bed for easy viewing and cozy movie nights. Decorative touches throughout the room are headlined by an immersive jungle scene wallpaper. The retro Vornado fan doubles as both an excellent circulator and a white noise generator for those looking to mask the hustle and bustle of city streets during busier times of year. A mounted door mirror makes for more convenient suiting up, dressing up, or getting made up prior to a day or night out on the town. Nightstand and desk with soft glow lamps and USB and outlet surge protectors mean less fuss and fidgeting for your morning and nighttime routines. And a dresser and closet mean you, family, and/or friends can comfortably settle in during your stay without having to live out of your suitcase. Traveling with an infant or toddler? We've also got pack n' play / travel crib available to make the parents' stay a bit easier! 
+
+WORKSTATION / STUDIO 
+We have a workstation / studio nook in the bedroom, consisting of simple desk, lamp, and two-tier shelving for easier organization; the desk features a solid surface for a laptop, notebook, and your cup of joe. A dimmable touch lamp with USB charger allows you to easily stay plugged in and work in the lighting that you find most productive, with some fun jungle accents hanging above to keep your natural zen even as you plug into cyberspace with fast 300 mbps internet. 
+
+Our dining table, along with two accessible foldable tray tables + chairs, offer a second work surface to round out any remote work duo. And for the more couch-minded digital nomads, our living room ottomans flip into solid-surface tabletops for couch-side computer crunching. 
+
+LIVING ROOM
+The living room’s heart runs through our vibrant orange couch, which you can sink into for casual reading, blanketed cuddling, or the latest sports, movies, or TV shows on our smart TV mounted across the way; the couch doubles as a *king* sleeper sofa that easily unfurls its comfortable cushions  into plush mattresses (host-tested many nights over!) rather than the traditional “backbreaker” sofa beds. Our footrest ottomans have coffee table alter-ego by flipping the tops over. The Jungle Nook’s centerpiece animal trio - the hippo bookends, monkey sconce, and leopard end table - immerse you in the wild-side of couch-potatoing and include a spread of books to enjoy at your leisure. Vibrant overhead lights from the leafy ceiling fan can be complemented or swapped for softer couchside lighting as nighttime reading rolls around. And finally, our shelves are stocked with various utilities and practical what-ifs: lightbulbs, chargers, flashlight, basic tools and spare batteries - but thoughtfully perched away from any young ones’ prying arms. 
+
+DINING AREA  
+Our dining area features a petite wooden table, two sturdy wooden chairs, and two accessible foldable chairs + extra tray tables to cozily accommodate any quartets staying at The Jungle Nook. The kitchen is fully equipped (see below!) with everything to set the table for the perfect stay-in date-night, hangout, or family meal. 
+
+KITCHEN
+Our kitchen is filled to a cook’s desire, with tools and vessels ranging from colander to meat thermometer to full grill set to blender to air fryer to ladle to bowl and plastic tupperware to tea kettle to mugs to plastic cups, wine glasses, and plates alongside more traditional glassware. Whether you’re whipping up a full night’s dinner or just enjoying some tasty takeout, our fully-appointed kitchen is equipped to ensure you make the most of your meal. Even at The Jungle Nook, we try to avoid sea-salty tap water, so we’ve also got a water filter pitcher to convert the tap water into more delightfully drinkable H2O. Our electric oven and stovetop makes for quick cooking, with overhead vent to keep the air flow fresh. Our dishwasher makes doing dishes a breeze, and our retractable screen door allows for some fresh air while you’re cooking up a storm. 
+
+PARKS & RECREATION
+Game on. Picnic on. Park on. The Jungle Nook features a sophisticated yet chic picnic basket containing all your picnicker needs [wine glasses, cooler, blanket, corkscrew, utensils, handkerchiefs, and more] to make your day out at majestic Forsyth Park or any of Savannah’s verdant squares as easy and memorable as possible, without needing to pack anything extra yourself before your stay. At home or at the park, enjoy our selection of nearly a dozen board games and card games, curated to strike a healthy balance of word games, games of chance, strategy games, games of wit, and even a jungle puzzle. 
+
+OUTDOOR SPACE 
+Our backyard offers fresh air and lounging comfort complete with grill, dining table and chairs, and a charming suspended “egg” chair that you’ll sink right into with childish delight. Take in the morning sun or cool down in the shade of the retractable umbrella. Our propane grill, full grill set, and even backup propane ensures you’re ready for your very own BBQ meal. Please note that the backyard space is shared with the upstairs unit and serves as emergency egress for the neighbors, so in the unlikely event there are others down there, you may need to wait a few minutes before enjoying or make a couple new friends :)  
+
+PARKING 
+There is free street parking immediately in front of the home that covers nearly the full length of our half of the block (~6 “car lengths” wide), with backup parking on busy days available just around the corner, one block over, and on most adjacent streets. You’ll be shared with simple yet detailed instructions for parking to ensure you’re fully covered. 
+
+LAUNDRY
+Your own private high-power washer and dryer laundry room comes with free supplies offered to run your wash during your stay so that you don’t need to pack anything extra to account for cleanup after a night out, recreation in the park, a morning run, the toddler spill, or an earthy picnic. A steamer, iron, and ironing board are also tucked into the laundry room for your use ahead of any special occasions!
+
+SVR - 03194
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib - always at the listing
+Room-darkening shades
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Portable fans
+Central heating
+Home safety
+Exterior security cameras on property
+We're big believers in privacy. Our backyard and front area cameras are *not* actively monitored and only checked retrospectively if an emergency is reported, or for package deliveries.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Laundromat nearby
+Outdoor
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Not included
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Jungle Nook|Themed Getaway|Backyard|Grill
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.86 out of 5 stars.
+4.86
+28 reviews
+28
+Reviews
+Hosted by Paul
+Superhost · 4 years hosting
+Listing highlights
+Steps from Forsyth Park
+Forsyth Park is steps away, with the Saturday Farmers Market and a free daily shuttle to River Street.
+Cook-ready kitchen and backyard grill
+A fully equipped kitchen with dishwasher, air fryer, and a propane grill in the backyard.
+Paul is a standout host
+Guests highlight Paul's fast responses and thoughtful touches like QR-code guides throughout.
+Look us up at “Tangle & Tide Savannah”! Historic charm meets verdant vibrancy with lavish king bed, comfy king sleeper sofa, fast wifi & workdesk, smart TVs, grill, and fully-equipped kitchen for short-term scouts, last-minute lemurs, and month-to-month macaws. Iconic Forsyth Park, year-round Farmers Market, and FREE daily shuttle to River Street are just steps away. All within 5 mins. *walking* you’ll find local gems like Sentient Bean, Local 11ten, Goody's, Corner Suite, & Bull Street Taco.
+
+The space
+Enjoy key-free access to this historic piece of early 20th century Savannah now tastefully modernized to fit the needs of any Savannah stay. Sip a morning cup of coffee from the Keurig as you sink into our plush orange couch or the suspended egg chair in the sunny backyard. Walk 2 minutes to verdant Forsyth Park for a morning stroll and catch the Saturday Farmers Market before meandering downtown to take in River Street and more of Savannah’s city squares. Swing back by The Jungle Nook to grab our guest picnic basket - fully equipped with utensils, tools, plates, blanket, wine holder, and cups for any snacker’s or wino’s needs - for a sunset picnic in Forsyth stocked with some healthy groceries from Brighter Day Natural Foods across the street. Go out to some of Savannah’s iconic spots downtown or uptown, shop upscale or thrifty, or just stay in altogether for a cozy night and grill it up in the backyard if you’d like. Enjoy a second splash of lushness, this time under the jungly full-wall mural, before cuddling up in the king-size bed and winding down with your favorite movie on the bedroom’s big-screen smart TV. 
+
+Relax and recharge at The Jungle Nook amidst your Savannah adventures with all of these options and more, or plug back in as needed, with 300 Mbps FAST wifi for streaming or video calls over a handful of devices at once, and multiple workstation surfaces fully equipped for your short- or long-term stay! 
+
+BEDROOM
+The bedroom features a king bed with high-quality linens, breathable duvet, and plenty of pillows alongside oversized blackout curtains for a good night’s rest. Ten-foot ceilings and large, original windows give the space air, elegance, and sun-drenched daytimes. A large-screen mounted smart TV adorns the wall opposite the bed for easy viewing and cozy movie nights. Decorative touches throughout the room are headlined by an immersive jungle scene wallpaper. The retro Vornado fan doubles as both an excellent circulator and a white noise generator for those looking to mask the hustle and bustle of city streets during busier times of year. A mounted door mirror makes for more convenient suiting up, dressing up, or getting made up prior to a day or night out on the town. Nightstand and desk with soft glow lamps and USB and outlet surge protectors mean less fuss and fidgeting for your morning and nighttime routines. And a dresser and closet mean you, family, and/or friends can comfortably settle in during your stay without having to live out of your suitcase. Traveling with an infant or toddler? We've also got pack n' play / travel crib available to make the parents' stay a bit easier! 
+
+WORKSTATION / STUDIO 
+We have a workstation / studio nook in the bedroom, consisting of simple desk, lamp, and two-tier shelving for easier organization; the desk features a solid surface for a laptop, notebook, and your cup of joe. A dimmable touch lamp with USB charger allows you to easily stay plugged in and work in the lighting that you find most productive, with some fun jungle accents hanging above to keep your natural zen even as you plug into cyberspace with fast 300 mbps internet. 
+
+Our dining table, along with two accessible foldable tray tables + chairs, offer a second work surface to round out any remote work duo. And for the more couch-minded digital nomads, our living room ottomans flip into solid-surface tabletops for couch-side computer crunching. 
+
+LIVING ROOM
+The living room’s heart runs through our vibrant orange couch, which you can sink into for casual reading, blanketed cuddling, or the latest sports, movies, or TV shows on our smart TV mounted across the way; the couch doubles as a *king* sleeper sofa that easily unfurls its comfortable cushions  into plush mattresses (host-tested many nights over!) rather than the traditional “backbreaker” sofa beds. Our footrest ottomans have coffee table alter-ego by flipping the tops over. The Jungle Nook’s centerpiece animal trio - the hippo bookends, monkey sconce, and leopard end table - immerse you in the wild-side of couch-potatoing and include a spread of books to enjoy at your leisure. Vibrant overhead lights from the leafy ceiling fan can be complemented or swapped for softer couchside lighting as nighttime reading rolls around. And finally, our shelves are stocked with various utilities and practical what-ifs: lightbulbs, chargers, flashlight, basic tools and spare batteries - but thoughtfully perched away from any young ones’ prying arms. 
+
+DINING AREA  
+Our dining area features a petite wooden table, two sturdy wooden chairs, and two accessible foldable chairs + extra tray tables to cozily accommodate any quartets staying at The Jungle Nook. The kitchen is fully equipped (see below!) with everything to set the table for the perfect stay-in date-night, hangout, or family meal. 
+
+KITCHEN
+Our kitchen is filled to a cook’s desire, with tools and vessels ranging from colander to meat thermometer to full grill set to blender to air fryer to ladle to bowl and plastic tupperware to tea kettle to mugs to plastic cups, wine glasses, and plates alongside more traditional glassware. Whether you’re whipping up a full night’s dinner or just enjoying some tasty takeout, our fully-appointed kitchen is equipped to ensure you make the most of your meal. Even at The Jungle Nook, we try to avoid sea-salty tap water, so we’ve also got a water filter pitcher to convert the tap water into more delightfully drinkable H2O. Our electric oven and stovetop makes for quick cooking, with overhead vent to keep the air flow fresh. Our dishwasher makes doing dishes a breeze, and our retractable screen door allows for some fresh air while you’re cooking up a storm. 
+
+PARKS & RECREATION
+Game on. Picnic on. Park on. The Jungle Nook features a sophisticated yet chic picnic basket containing all your picnicker needs [wine glasses, cooler, blanket, corkscrew, utensils, handkerchiefs, and more] to make your day out at majestic Forsyth Park or any of Savannah’s verdant squares as easy and memorable as possible, without needing to pack anything extra yourself before your stay. At home or at the park, enjoy our selection of nearly a dozen board games and card games, curated to strike a healthy balance of word games, games of chance, strategy games, games of wit, and even a jungle puzzle. 
+
+OUTDOOR SPACE 
+Our backyard offers fresh air and lounging comfort complete with grill, dining table and chairs, and a charming suspended “egg” chair that you’ll sink right into with childish delight. Take in the morning sun or cool down in the shade of the retractable umbrella. Our propane grill, full grill set, and even backup propane ensures you’re ready for your very own BBQ meal. Please note that the backyard space is shared with the upstairs unit and serves as emergency egress for the neighbors, so in the unlikely event there are others down there, you may need to wait a few minutes before enjoying or make a couple new friends :)  
+
+PARKING 
+There is free street parking immediately in front of the home that covers nearly the full length of our half of the block (~6 “car lengths” wide), with backup parking on busy days available just around the corner, one block over, and on most adjacent streets. You’ll be shared with simple yet detailed instructions for parking to ensure you’re fully covered. 
+
+LAUNDRY
+Your own private high-power washer and dryer laundry room comes with free supplies offered to run your wash during your stay so that you don’t need to pack anything extra to account for cleanup after a night out, recreation in the park, a morning run, the toddler spill, or an earthy picnic. A steamer, iron, and ironing board are also tucked into the laundry room for your use ahead of any special occasions!
+
+SVR - 03194
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Backyard
+Exterior security cameras on property
+Show all 57 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.86 out of 5 from 28 reviews.
+4.86
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 86% of reviews
+5
+4 stars, 14% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+7
+Decor
+6
+Hospitality
+18
+Nearby
+8
+Parks
+2
+Comfort
+8
+Parking
+3
+Location
+10
+Sleep quality
+5
+Cleanliness
+5
+Carlis
+Earlysville, Virginia
+Rating, 4 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We enjoyed our stay at the jungle!
+Deanna
+Chicago, Illinois
+Rating, 4 stars
+,
+·
+1 week ago
+,
+·
+Stayed one night
+We really enjoyed staying at Paul’s place. The jungle theme is so cute, and we found the place to be very clean inside and comfortable. Very convenient to Forsyth Park where there was a Farmers’ Market and Art Faire to check out on Saturday, and my aunt raved about her burger from Strange Bird that is just up the street. Parking was fine, as we got a spot right in front without any issue every time we returned. My hubby also loved the QR codes posted linked to instructional videos, which made navigating things in the house very easy. We really appreciate the little extras that made it a cozy and comfortable place to stay. Paul was great with communicating with us and we will definitely keep this place in mind if we venture back to Savannah. Thanks!
+Show more
+Susan
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+The place was so cute and comfortable. Paul was very responsive and easy to talk to. The QR codes throughout the air bnb was such a nice fun touch! We would definitely stay here again.
+Show more
+Josh
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We had a great time, listing was as described!
+Nicholas
+Raleigh, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Very cozy and always communicated fast!
+Kathy
+Tellico Plains, Tennessee
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Paul was very friendly and helpful, also responded within minutes whenever I had a question. 10/10 host!! Will definitely book with them again if I’m back in the area.
+Show all 28 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Paul
+Superhost
+213 reviews
+213
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+4 years of hosting
+4
+Years hosting
+Fun fact: Met my wife on an airplane!
+Speaks English and Spanish
+Through the years, Paige and I have fallen in love with the unparalleled exploration of the American road trip. We've been blessed to hit the roads from sea to shining sea taking in various countryside and cityscape. Through it all, Georgia has won a special place in our hearts as home, boasting southern city charm to subdued shorelines to Blue Ridge mountains to maybe even Bigfoot. We're excited to share our home and these experiences with you.
+Paul is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

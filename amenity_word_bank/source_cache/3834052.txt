@@ -1,0 +1,479 @@
+URL: https://www.airbnb.com/rooms/3834052
+Title: Azalea at Jasmine Quarters - Downtown
+Latitude: 32.0777
+Longitude: -81.0853
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brooke
+Host ID: 3618788
+Host profile ID: 1462634442719438626
+Host URL: https://www.airbnb.com/users/profile/1462634442719438626
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+Azalea Apartment at Jasmine Quarters overlooks Washington Square and is spacious and beautifully curated in a genteel Savannah style with all modern amenities making it a generous and comfortable apartment for up to four guests.
+There are two bedrooms each with a king bed and there are 2.5 bathrooms.
+A shareable Level II EV charger is available on the property.
+
+ (SVR-00099)
+
+The space
+The Downtown Historic District location makes this apartment accessible to all of Savannah's sites, restaurants, and shopping.  It is 3 blocks from the waterfront, a 10-minute walk from The City Market, and overlooks Washington Square.  There is WiFi, washer & dryer, dishwasher, stove, microwave, refrigerator,  Keurig coffee machine with a starter set of K-Cups, and shared courtyard.  2 HD TVs are available with a Chromcast.  There is no cable TV.
+
+Guest access
+The entire apartment is a dedicated vacation rental with a keyless lock system allowing for self check-in.  We generate a new code for each guest.
+Guests do share a vestibule at the front entrance with Begonia Apartment.  One parking space is provided in a garage behind Azalea on East Congress Lane.
+
+Other things to note
+Jasmine Quarters is only 20 minutes from both the Savannah/Hilton Head Airport and Tybee Island Beach.  Savannah is known for music, film  and book festivals as well as home and garden tours, various museums and beautiful architecture.  Definitely make your restaurant reservations before you come to town!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Park view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+HDTV with Chromecast
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Central air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Gas stove
+Oven
+Coffee maker: Keurig coffee machine
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+BBQ grill
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Azalea at Jasmine Quarters - Downtown
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire vacation home in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.97 out of 5 stars.
+4.97
+226 reviews
+226
+Reviews
+Hosted by Brooke
+Superhost · 12 years hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+On Washington Square, Historic District
+Right on Washington Square, with the riverfront about a 10-min walk away
+Included garage parking
+One garage parking space included, so there's no need to hunt for a spot on the street
+Quiet yet walkable, per guests
+Guests highlight how quiet the setting is despite being walkable to everything in Savannah
+Azalea Apartment at Jasmine Quarters overlooks Washington Square and is spacious and beautifully curated in a genteel Savannah style with all modern amenities making it a generous and comfortable apartment for up to four guests.
+There are two bedrooms each with a king bed and there are 2.5 bathrooms.
+A shareable Level II EV charger is available on the property.
+
+ (SVR-00099)
+
+The space
+The Downtown Historic District location makes this apartment accessible to all of Savannah's sites, restaurants, and shopping.  It is 3 blocks from the waterfront, a 10-minute walk from The City Market, and overlooks Washington Square.  There is WiFi, washer & dryer, dishwasher, stove, microwave, refrigerator,  Keurig coffee machine with a starter set of K-Cups, and shared courtyard.  2 HD TVs are available with a Chromcast.  There is no cable TV.
+
+Guest access
+The entire apartment is a dedicated vacation rental with a keyless lock system allowing for self check-in.  We generate a new code for each guest.
+Guests do share a vestibule at the front entrance with Begonia Apartment.  One parking space is provided in a garage behind Azalea on East Congress Lane.
+
+Other things to note
+Jasmine Quarters is only 20 minutes from both the Savannah/Hilton Head Airport and Tybee Island Beach.  Savannah is known for music, film  and book festivals as well as home and garden tours, various museums and beautiful architecture.  Definitely make your restaurant reservations before you come to town!
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Park view
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+HDTV with Chromecast
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Show all 45 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.97 out of 5 from 226 reviews.
+4.97
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+85
+Location
+159
+Quiet
+33
+Parking
+36
+Cleanliness
+77
+Hospitality
+76
+Comfort
+41
+Parks
+3
+Nearby
+26
+Decor
+22
+Julie
+Griffin, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Very comfortable.  Great location   Very easy walk to lots of great restaurants and to River street.  Very secure. Easy to access.  Highly recommend for 2 couples.  Our second stay and will come again
+Show more
+Susan
+Madison, Connecticut
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed about a week
+This place was just beautiful!! We really enjoyed our stay, and all the details for our comfort were so great!!
+Re
+The Villages, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Perfectly location.  Walking distance to almost everything.  I would definitely come back.
+Show more
+Kelly
+Lenoir, North Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+We LOVED our stay here!  The location cannot be beat.  Close to River Street and so quiet!  The accommodations were on point! Southern Savannah style!  Very spacious as well. We will choose this place again!
+Show more
+Sherry
+Mount Sidney, Virginia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed about a week
+Really nice place, good location.
+The only issue we had was getting in due to the wrong address, b was given but it was actually a.  Called the local office and they didn't answer because they said the call went thru as spam.  Went by the office during business hours and it was closed.  They did finally  get back to us after about an hour and half of trying to get in.  Brooke did compensate us for the aggravation and overall this house was really nice and in a good location.  Would recommend this house in the future.
+Show more
+Ryan
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+This place was incredible. Comfy beds, clean everything, and lots of extra thoughtful amendable such as little toothpastes and mouthwash. Airbnb was quiet, right across from a park out the front door, and walkable to lots to do. Highly recommend!
+Show more
+Show all 226 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Parker's Market
+Gas station
+Old Town Trolley Tours of Savannah
+Tour agency
+CVS
+Pharmacy
+Old Savannah Tours
+Tourist attraction
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+The neighborhood is a beautiful historic residential area centered on one of Savannah's 22 famous Squares. Washington Square which was built in 1791 and is one of the oldest. The Brice Hotel with Savannah's newest hotspot Pacci Restaurant + Bar is just across the square.
+Show more
+Meet your host
+Brooke
+Superhost
+894 reviews
+894
+Reviews
+4.93 out of 5 average rating
+4.93
+Rating
+12 years of hosting
+12
+Years hosting
+My work: Owner and Manager of Jasmine Quarters LLC
+Speaks English, French, and German
+Jasmine Quarters Vacation rentals has four luxurious Historic District properties apartments in its collection: Azalea Apartment, Begonia Apartment and The Carriage house at 535 East Congress Street; and Crawford House at 521 East Perry Street. All have fully equipped kitchens and washer/dryer.
+Brooke is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+MacKay
+Host details
+Response rate: 100%
+Responds within a day
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Some spaces are shared
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Vacation home rentals in Georgia
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

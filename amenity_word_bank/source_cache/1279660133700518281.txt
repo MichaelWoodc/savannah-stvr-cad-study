@@ -1,0 +1,457 @@
+URL: https://www.airbnb.com/rooms/1279660133700518281
+Title: The Quaint Quarters on Jones, Historic | Quiet
+Latitude: 32.0724
+Longitude: -81.0952
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 5
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to The Quaint Quarters on Jones, a charming two-bedroom, one-bathroom ground-floor apartment nestled in the heart of historic downtown Savannah. This cozy retreat blends timeless character with modern comforts, featuring historic details and a lovely, shared courtyard. Just minutes from Forsyth Park and steps away from dining, shops, and top attractions, it’s the perfect spot to experience Savannah’s charm, culture, and vibrant city life. Book now for an unforgettable stay! SVR-02637
+
+The space
+Enter Quaint Quarters on Jones through the main entrance, leading to a charming, shared brick-lined courtyard, where you'll find your private ground-floor entrance. Inside, you're immediately greeted by historic timber beams and the original fireplace casing, immersing you in the rich history of Savannah. The cozy living room features a comfortable sofa facing a smart TV for streaming your favorite shows, while a quaint dining set for two doubles as a perfect workspace.
+The efficient kitchen is fully equipped with modern appliances, including a 24-inch range, and thoughtfully stocked with cookware, utensils, and dishware. The original, white-washed brick adds a lovely architectural touch, complementing the kitchen’s historic charm.
+Off the kitchen, you'll find the first bedroom, boasting a brand-new queen mattress draped in crisp linens. The white-washed brick and exposed beams create a serene atmosphere for a restful night’s sleep. The adjacent bathroom features a low-entry shower, custom tilework, and a single vanity, stocked with essentials like towels, toiletries, and more.
+Directly off the living room is the spacious primary suite, complete with a new king-size mattress, plush pillows, and fresh linens. The room also offers ample storage with a dresser, perfect for longer stays, and has a private entrance leading outside for added convenience.
+Enjoy the perfect balance of historic charm and modern comfort in this thoughtfully designed space!
+
+Guest access
+The entire place is set up for your use! There is a shred courtyard in the rear that you may use at your leisure. The access to washers/dryers is through the courtyard as well.
+
+Other things to note
+No parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home.
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it were your property.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Paid parking lot off premises
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Quaint Quarters on Jones, Historic | Quiet
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+5 guests · 2 bedrooms · 3 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+76 reviews
+76
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Monterey Square and Chatham Square, with Forsyth Park about a 5-min walk away
+Ground-floor apartment with 1850s detail
+Exposed timber beams, original fireplace casing, and whitewashed brick throughout
+Walkable and well-hosted
+Guests consistently praise the walkable location and Brandon and Chase's responsiveness
+Welcome to The Quaint Quarters on Jones, a charming two-bedroom, one-bathroom ground-floor apartment nestled in the heart of historic downtown Savannah. This cozy retreat blends timeless character with modern comforts, featuring historic details and a lovely, shared courtyard. Just minutes from Forsyth Park and steps away from dining, shops, and top attractions, it’s the perfect spot to experience Savannah’s charm, culture, and vibrant city life. Book now for an unforgettable stay! SVR-02637
+
+The space
+Enter Quaint Quarters on Jones through the main entrance, leading to a charming, shared brick-lined courtyard, where you'll find your private ground-floor entrance. Inside, you're immediately greeted by historic timber beams and the original fireplace casing, immersing you in the rich history of Savannah. The cozy living room features a comfortable sofa facing a smart TV for streaming your favorite shows, while a quaint dining set for two doubles as a perfect workspace.
+The efficient kitchen is fully equipped with modern appliances, including a 24-inch range, and thoughtfully stocked with cookware, utensils, and dishware. The original, white-washed brick adds a lovely architectural touch, complementing the kitchen’s historic charm.
+Off the kitchen, you'll find the first bedroom, boasting a brand-new queen mattress draped in crisp linens. The white-washed brick and exposed beams create a serene atmosphere for a restful night’s sleep. The adjacent bathroom features a low-entry shower, custom tilework, and a single vanity, stocked with essentials like towels, toiletries, and more.
+Directly off the living room is the spacious primary suite, complete with a new king-size mattress, plush pillows, and fresh linens. The room also offers ample storage with a dresser, perfect for longer stays, and has a private entrance leading outside for added convenience.
+Enjoy the perfect balance of historic charm and modern comfort in this thoughtfully designed space!
+
+Guest access
+The entire place is set up for your use! There is a shred courtyard in the rear that you may use at your leisure. The access to washers/dryers is through the courtyard as well.
+
+Other things to note
+No parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home.
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it were your property.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Hair dryer
+Refrigerator
+Microwave
+Show all 39 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 76 reviews.
+4.92
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+34
+Location
+55
+Parks
+5
+Hospitality
+28
+Nearby
+19
+Indoor spaces
+11
+Comfort
+16
+Parking
+8
+Family
+8
+Sleep quality
+7
+Randy
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with kids
+Great unit in perfect location. Close to everything Savannah has to offer. All spaces were clean and tidy. Beds were comfortable and rooms had plenty of space. Would stay again.
+Show more
+Bronwyn
+Knoxville, Tennessee
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+We absolutely LOVED this place! One of our favorite Airbnb stays ever. Magical secret-garden-vibes entrance and courtyard, so much character, and plenty of space for a family of 4 (young kids). The street noise wasn’t bad, and it was about a 20 walk to River St. Communication was fantastic and they went above and beyond to help return some left-behind personal property. 10/10, we’ll definitely be back. Please be aware, the GPS takes you to the rear of the building, which can be misleading as there is an address plaque making it seem correct. Use the front entrance with the flag, as shown in pictures!
+Show more
+Amber
+Olean, New York
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Enjoyed our stay
+Emi
+Tallahassee, Florida
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Group trip
+We enjoyed spending our visit in Savannah in this charming historical and convenient location!
+Gail
+Baltimore, Maryland
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+We fell in love with our home away from home. It is the perfect place for two families traveling together. There was privacy and a ton of open space at the same time. 
+Top notch fixtures and furniture. Extremely comfortable beds. The kitchen had everything and is set up well. 
+The locations ideal between Forsyth and the river ~ closer to the beautiful park.
+Excellent communication. Beautiful place. 
+Look no further!!
+Show more
+Harrison
+Brackley, United Kingdom
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This place is a no brainer. Great price. Great location. Super easy.
+Show all 76 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+The Quaint Quarters is located just north of Forsyth Park on the west side of the Historic District. Surrounded by some of the best dining options in town, you are just a minute's walk from many of the local and out-of-town favorites.
+Grab a delicious southern bite and Mrs. Wilke's Dining Room. Pour a perfect pint at the Crystal Beer Parlor, or start your day with a short walk to Savannah Coffee Roasters.
+Short strolls towards the river walk will only increase your options with places like Noble Fare, fine dining, The Olde Pink House, The Lady & Sons, Chart House, and many more.
+Start your bar/pub tour by stopping into some staples of Savannah, including Six Pence Pub, O’Connell’s Irish Pub, or Dub’s Public House. Enjoy riverfront views at Myrtle & Rose Rooftop Bar down on the river walk.
+Are you looking to shop while you are in town? You are just a 14-minute walk from the famed City Market, where you can enjoy endless boutique shops and many brand-name stores.
+Explore the rich history of Savannah by stopping into one of the many museums and historical sites. Just minutes from Blue on Broad are the Web Military Museum, Telfair Museums, Owens-Thomas House & Slave Quarters, and the American Prohibition Museum.
+A stop in Savannah wouldn’t be complete without a walk-through of Forsyth Park, just a 20-minute walk away. Or enjoy Washington Square, another beautiful green space just minutes away.
+Want to take it all in at once while riding or biking? We are just minutes from Old Town Trolley Tours of Savannah and Savannah Bike Tours. Ready for a little on-the-water adventure? Try out the Savannah Belles Ferries to see the beautiful skyline of Savannah from the riverfront.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+5 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Some spaces are shared
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

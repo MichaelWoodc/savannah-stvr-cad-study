@@ -1,0 +1,500 @@
+URL: https://www.airbnb.com/rooms/731987792439581306
+Title: Mid-City Starland, free parking/trolley
+Latitude: 32.05254
+Longitude: -81.09976
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Heidi
+Host ID: 31070460
+Host profile ID: 1465457218004643540
+Host URL: https://www.airbnb.com/users/profile/1465457218004643540
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 4
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+2 single beds
+
+=== FULL DESCRIPTION ===
+A charming 1915 Victorian filled with amenities- just a 15 minute walk to Forsyth Park with a free trolley to the historic district around the corner. Located in the heart of Savannah’s hip, artsy Starland District - this is where the locals come for the best restaurants.
+
+The 2,100 sf space combines old-world elegance with modern comforts and amenities: a fun shuffleboard table, luxurious king-sized beds, large stocked kitchen, private patio, ultra-fast wifi & TVs in all bedrooms.
+
+The space
+Located on a city block lined with colorful 1915 Victorians, this private home is walkable to Forsyth Park, the Historic District and the best restaurants the city has to offer. Upscale amenities include all cotton bedding and towels, a fully stocked kitchen w/Nespresso, coffee, condiments & cooking supplies, a comfy down sofa and chair, and full size washer and dryer. A unique, bank-shot shuffleboard table provides pre-game entertainment before hitting neighborhood hot spots. Tennis rackets, yoga mats and board games galore provide for a fun time. Sweet, private backyard for enjoying your morning coffee. Gated parking for one vehicle or free street parking. Beach chairs and towels. 
+SVR-02569
+
+Guest access
+Entire home, patio and yard
+
+Other things to note
+Starland is a diverse, urban neighborhood that is very fun and artsy with amazing restaurants, breweries, bars and shopping. The neighborhood can be crowded on weekends with people enjoying themselves. Savannah’s infamous train makes a quick, but loud, pass by in the morning. All beds and full baths are on the second floor
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage: closet and dresser
+Entertainment
+HDTV
+Wireless speaker Bluetooth sound system
+Exercise equipment: yoga mat
+Books and reading material
+Family
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Portable fans
+Central heating
+Home safety
+Exterior security cameras on property
+Doorbell security camera records front door and back doors. Home is not childproofed
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 595 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Stainless steel oven
+Hot water kettle
+Coffee maker: drip coffee maker, Nespresso, pour-over coffee
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Private backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free driveway parking on premises – 1 space
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Mid-City Starland, free parking/trolley
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 3 bedrooms · 4 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+110 reviews
+110
+Reviews
+Hosted by Heidi
+Superhost · 4 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Starland District
+In Savannah's artsy Starland District, walkable to local restaurants, cafes, and shops
+Spacious 1915 Victorian with character
+A 2,100 sq ft Victorian with a stocked kitchen, private patio, and shuffleboard table
+Heidi is an exceptional host
+Guests consistently praise Heidi's responsiveness and thoughtful local recommendations
+A charming 1915 Victorian filled with amenities- just a 15 minute walk to Forsyth Park with a free trolley to the historic district around the corner. Located in the heart of Savannah’s hip, artsy Starland District - this is where the locals come for the best restaurants.
+
+The 2,100 sf space combines old-world elegance with modern comforts and amenities: a fun shuffleboard table, luxurious king-sized beds, large stocked kitchen, private patio, ultra-fast wifi & TVs in all bedrooms.
+
+The space
+Located on a city block lined with colorful 1915 Victorians, this private home is walkable to Forsyth Park, the Historic District and the best restaurants the city has to offer. Upscale amenities include all cotton bedding and towels, a fully stocked kitchen w/Nespresso, coffee, condiments & cooking supplies, a comfy down sofa and chair, and full size washer and dryer. A unique, bank-shot shuffleboard table provides pre-game entertainment before hitting neighborhood hot spots. Tennis rackets, yoga mats and board games galore provide for a fun time. Sweet, private backyard for enjoying your morning coffee. Gated parking for one vehicle or free street parking. Beach chairs and towels. 
+SVR-02569
+
+Guest access
+Entire home, patio and yard
+
+Other things to note
+Starland is a diverse, urban neighborhood that is very fun and artsy with amazing restaurants, breweries, bars and shopping. The neighborhood can be crowded on weekends with people enjoying themselves. Savannah’s infamous train makes a quick, but loud, pass by in the morning. All beds and full baths are on the second floor
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 4 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+2 single beds
+
+What this place offers
+Kitchen
+Fast wifi – 595 Mbps
+Dedicated workspace
+Free driveway parking on premises – 1 space
+HDTV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 61 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 110 reviews.
+4.95
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 1% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+24
+Kitchen
+25
+Hospitality
+73
+Nearby
+28
+Parking
+8
+Location
+53
+Family
+25
+Backyard
+4
+Comfort
+34
+Getting around
+22
+Justin
+Marietta, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed about a week
+We loved our stay here so much. We felt right at home and despite the morning train, which we barely noticed, it was quite peaceful. The kitchen is fully stocked (having an air fryer for kids is a game changer) and there is more than enough space for the whole family to relax when we weren’t out and about. Lots of things within walking distance and parking was never an issue, even with a music festival happening a couple blocks away at Starland Yard that we were unaware of and got to go enjoy. It was the perfect stay for our family of 4 and we will definitely book again for our next Savannah visit!
+Show more
+Catherine
+Aurora, Colorado
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+We loved this stay! Very spacious for the 4 of us. Bedrooms were very comfortable. The kitchen was well-supplied so we didn’t always have to eat out. Kroger was a 5 minute drive away. Location was perfect for quickly going downtown without being in the middle of the tourist areas. Quiet when we needed it. We had cocktails in the cozy back patio area. Parking was great and used both the designated parking space and parking in front of the house. Heidi is indeed a wonderful hostess! We hope to come back again!
+Show more
+Amber
+Waynesville, North Carolina
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Heidi's place was perfect for our weekend getaway. The location couldn't be better. Heidi gave us some great dining recommendation all within a short walk. The Scarlet Starlet had everything we needed with lots of thoughtful touches and great amenities. Loved the shuffleboard table. The backyard area was great for morning coffee and chilling out in the afternoon. We all loved it and wouldn't hesitate to stay again!
+Show more
+Nancy
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+This was a great place for our family get together. Beautiful large kitchen that is open to living room. Large dining table which was great for board games. Comfortable beds and rooms.
+Show more
+Gretchen
+Northampton, Massachusetts
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with kids
+We stayed here as a family and absolutely loved it.  Beautiful home with plenty of space for our family of 5.  Walkable to tons of great restaurants, coffee shops, etc.  Super responsive and helpful recommendations.  Would definitely stay here again at a future visit to Savannah!
+Show more
+Sharon
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+The house had everything needed for a perfect stay. Great amenities, enjoyed shuffle game, comfy beds, roomy bedrooms, well-stocked kitchen. Heidi was very responsive and provided recommendations.  We parked our van on property in the back drive. 
+Walked to local restaurants and even to Grayson field for a game and Ubered back at night. 
+Used the DOT to get to Forsyth Park but walked rest of the way to river area (DOT sch is hit or miss).  Again, used Uber to get home. On Sunday we just drove up to River and parked for the day. 
+Overall had a great time in Savannah!
+Show more
+Show all 110 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Late Air
+Restaurant
+Keyboard shortcuts
+Map data ©2026
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+Starland is an artsy, vibrant area with arguably the best restaurants, music venues and coffee shops in Savannah. This is where the locals go, yet you are close to all the tourist spots. We are a diverse neighborhood, authentically Savannah. Antique stores, a bookstore, unique art and vintage finds are around the corner. Forsyth Park is only 3/4 miles away. A FREE SHUTTLE runs from our street up to the River/Historic District.
+
+Tybee Island and the airport are both within a half hour drive. For SCAD parents, we are very close to Victory Village.
+
+Our quaint and colorful street reminds us of San Francisco’s famous “painted ladies.” Diverse, urban and hip, Starland is seeing tremendous investment and revitalization. As in most cities, you will encounter people experiencing homelessness in our neighborhood and throughout Savannah.
+
+Of Note: Our street is very quiet, but be aware that you will hear Savannah’s well-known train as it makes a quick, but loud, pass by the house most mornings on its way through town. You can find more information at the Starland District website
+Show more
+Meet your host
+Heidi
+Superhost
+110 reviews
+110
+Reviews
+4.95 out of 5 average rating
+4.95
+Rating
+4 years of hosting
+4
+Years hosting
+My work: Runaway Bar
+Lives in York, Maine
+We hope you love our “Scarlet Starlet” as much as we do! We live primarily on the Maine seacoast, but love to get away to our second home in Savannah whenever we can. We are retired restaurateurs, now living in a bucolic 1800 farmhouse with goats, dogs, a cat and usually a red-tailed hawk, as Taylor is a licensed falconer. We love to entertain and our shuffleboard table is always at the center of any fun evening. We hope you will enjoy it also!
+Heidi is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Meagan
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

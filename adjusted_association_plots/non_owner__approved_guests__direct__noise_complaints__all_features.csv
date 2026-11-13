@@ -1,0 +1,17 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr
+non_owner,approved_guests,direct,Noise complaints,mention_bar,Bar mention,amenities,423,23,90,333,6,17,1.523606886469978,0.5974529984662377,3.885457015795565,0.3779937591016641,0.6856250435653561
+non_owner,approved_guests,direct,Noise complaints,mention_wine,Wine / wine accessories,amenities,423,23,272,151,17,6,1.486747884230162,0.4425125383491261,4.995156249152252,0.521251960698719,0.7717476025892694
+non_owner,approved_guests,direct,Noise complaints,mention_outdoor,Outdoor space,amenities,423,23,240,183,20,3,3.5563763030649143,1.082127318821635,11.687915265621704,0.0366159269751723,0.2416074551590109
+non_owner,approved_guests,direct,Noise complaints,mention_yard,Yard / garden / courtyard,amenities,423,23,268,155,19,4,1.9055120026003127,0.6400915411184439,5.672588620229824,0.2466937755678486,0.5647323545709939
+non_owner,approved_guests,direct,Noise complaints,mention_pool,Swimming pool,amenities,423,23,91,332,9,14,2.969030427204418,1.084786226385161,8.126155608594326,0.0341390940856794,0.2307142003532209
+non_owner,approved_guests,direct,Noise complaints,mention_hot_tub,Hot tub / Jacuzzi,amenities,423,23,32,391,7,16,4.3922978697006245,1.7311525061845523,11.144183142302516,0.0018378221305987,0.0385023736360431
+non_owner,approved_guests,direct,Noise complaints,mention_wedding,Wedding / bridal mention,amenities,423,23,36,387,3,20,1.0726499805702143,0.3231879562206507,3.560089287583927,0.908776162433518,0.9579300932318088
+non_owner,approved_guests,direct,Noise complaints,mention_events,Events / gatherings,amenities,423,23,137,286,9,14,1.0685480163109482,0.4382581679662722,2.6053019581141803,0.884074404360083,0.9473840803756388
+non_owner,approved_guests,direct,Noise complaints,mention_patio,Patio / deck / balcony / porch,amenities,423,23,257,166,19,4,2.4257356615626766,0.8258903524034641,7.124666709876238,0.1069598814101402,0.3957375286356375
+non_owner,approved_guests,direct,Noise complaints,mention_grill,Grill / BBQ,amenities,423,23,89,334,10,13,2.191154914189589,0.8011398923564329,5.992910731052592,0.1264914348909185,0.423999289754359
+non_owner,approved_guests,direct,Noise complaints,mention_cocktails,Cocktails / spirits,amenities,423,23,67,356,8,15,2.9329900996546985,1.060667379861081,8.110394538388809,0.0381260353366306,0.2457662893238194
+non_owner,approved_guests,direct,Noise complaints,mention_late_night,Nightlife / late night,amenities,423,23,49,374,3,20,1.3218309553852094,0.4142727024644419,4.217601266558337,0.6373958649960539,0.8451546437764133
+non_owner,approved_guests,direct,Noise complaints,mention_outdoor_dining,Outdoor dining,amenities,423,23,97,326,13,10,3.167933810581549,1.4232173282682572,7.051491314005505,0.0047357156529831,0.0734912910592575
+non_owner,approved_guests,direct,Noise complaints,keyword_wedding,Wedding events,keywords,423,23,20,403,3,20,1.814308105404915,0.5402154660093395,6.093335175415107,0.3351690556038682,0.6624331806510415
+non_owner,approved_guests,direct,Noise complaints,keyword_swimming_pool,Swimming Pool,keywords,423,23,88,335,9,14,3.112613304653868,1.144734545430373,8.46341330658965,0.0260905136438831,0.1934854020670273
+non_owner,approved_guests,direct,Noise complaints,keyword_hot_tub,Hot Tub,keywords,423,23,20,403,7,16,7.618998093131514,3.4073374334673985,17.036508146499976,7.577813454783026e-07,0.0006350207675108

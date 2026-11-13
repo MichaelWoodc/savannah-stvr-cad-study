@@ -1,0 +1,449 @@
+URL: https://www.airbnb.com/rooms/30935412
+Title: Bright on Broughton w/ Parking by Lucky Savannah
+Latitude: 32.0774
+Longitude: -81.0856
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Stay within short walking distance to Savannah's most notable historic downtown attractions! This two-story clapboard house built in 1862 can host up to six Lucky guests and has ample parking for three cars!
+
+The space
+Guests looking for a truly local experience will fall in love with Blue on Broughton's historic charm. Nestled in the up-and-coming, East end of Broughton Street, this two-bedroom house built in 1862 is adorned with cast iron details and blue-painted clapboard siding. Inside, a beautifully appointed vacation rental with all the modern amenities expected to make your stay comfortable.
+
+The first floor boasts a converted parlor room with Queen bed, and an adjacent living room. These guests can use the nearby half bath, making getting ready a breeze. A full kitchen, equipped with every essential you'd need for a home-cooked meal, is just around the corner and has ample storage space for extended stays. A washer/dryer are also inside the home - great for young families!
+
+Upstairs, find two bedrooms with two full baths. The first bedroom features a King size bed, with the second bedroom furnished with a Queen. Both bedrooms have their own dressers, flat screen TVs, and en suite baths.
+
+Park your car in the private lot behind the home and explore Savannah by foot for the remainder of your stay. Blue on Broughton is located on the East end of Broughton Street: Savannah's "main" street scattered with some of the best shopping and dining in town. Most notably, guests are encouraged to stop by local favorites: Capital Bee Co., Hygge Savannah, East End Provisions, and Leopold's Ice Cream.
+
+What is parking like for this home?
+Guests receive private parking for 3 vehicles located behind the home, off-street and secure. Additional vehicles can find nearby metered parking on Broughton Street, which is enforced by the City of Savannah Monday through Saturday from 8am to 8pm. Guests can purchase a pre-paid parking pass from the Savannah Visitor's Center to avoid handling the meters. 
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Queen Size Bed
+Bedroom 3: Queen Size Bed 
+Living Room: Queen Sleeper Sofa
+
+SVR-01019
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Bright on Broughton w/ Parking by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 3 bedrooms · 4 beds · 2.5 baths
+Rated 4.47 out of 5 stars.
+4.47
+·
+17 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+On Broughton Street in the Historic District
+Right on Broughton Street, with Washington Square steps away and River Street within walking distance
+Private parking for three cars
+Private off-street parking for three cars, a real convenience in downtown Savannah
+Walkable with a well-liked layout
+Guests highlight the walkability, with one calling the layout great for privacy and hangouts
+Stay within short walking distance to Savannah's most notable historic downtown attractions! This two-story clapboard house built in 1862 can host up to six Lucky guests and has ample parking for three cars!
+
+The space
+Guests looking for a truly local experience will fall in love with Blue on Broughton's historic charm. Nestled in the up-and-coming, East end of Broughton Street, this two-bedroom house built in 1862 is adorned with cast iron details and blue-painted clapboard siding. Inside, a beautifully appointed vacation rental with all the modern amenities expected to make your stay comfortable.
+
+The first floor boasts a converted parlor room with Queen bed, and an adjacent living room. These guests can use the nearby half bath, making getting ready a breeze. A full kitchen, equipped with every essential you'd need for a home-cooked meal, is just around the corner and has ample storage space for extended stays. A washer/dryer are also inside the home - great for young families!
+
+Upstairs, find two bedrooms with two full baths. The first bedroom features a King size bed, with the second bedroom furnished with a Queen. Both bedrooms have their own dressers, flat screen TVs, and en suite baths.
+
+Park your car in the private lot behind the home and explore Savannah by foot for the remainder of your stay. Blue on Broughton is located on the East end of Broughton Street: Savannah's "main" street scattered with some of the best shopping and dining in town. Most notably, guests are encouraged to stop by local favorites: Capital Bee Co., Hygge Savannah, East End Provisions, and Leopold's Ice Cream.
+
+What is parking like for this home?
+Guests receive private parking for 3 vehicles located behind the home, off-street and secure. Additional vehicles can find nearby metered parking on Broughton Street, which is enforced by the City of Savannah Monday through Saturday from 8am to 8pm. Guests can purchase a pre-paid parking pass from the Savannah Visitor's Center to avoid handling the meters. 
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Queen Size Bed
+Bedroom 3: Queen Size Bed 
+Living Room: Queen Sleeper Sofa
+
+SVR-01019
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.47 out of 5 stars from 17 reviews
+4.47 · 17 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 59% of reviews
+5
+4 stars, 29% of reviews
+4
+3 stars, 12% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.6 out of 5 stars for accuracy
+Accuracy
+4.6
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.4 out of 5 stars for value
+Value
+4.4
+Guest reviews mention
+Walkability
+7
+Location
+9
+Sleep quality
+4
+Parking
+3
+Noise
+2
+Cleanliness
+3
+Hospitality
+4
+Kitchen
+2
+Nearby
+2
+Comfort
+2
+Tabita
+Bloomington, Indiana
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with kids
+This place is exactly like in the photos. The only issue for us was that the front door code didn’t work; it could only be locked from the inside, so we had to use the back door, which meant we had to walk around the block to get to the street. Plenty of good restaurants around, and the area is so pretty. Great location, and it’s walkable to everywhere.
+But it’s worth mentioning that since it’s downtown, it’s a loud and busy street, but they can’t control that. We had the fans on to hide some of the outside noise.
+They are responsive and attentive, which was great. Would definitely recommend and come back!
+Show more
+Joel
+Hudsonville, Michigan
+Rating, 5 stars
+,
+·
+March 2025
+,
+·
+Group trip
+This a great, historic place to stay in Savannah! This place needs to have more pictures since the pics on the site are lacking, but the charm and character of the condo are top notch. Firm, but comfortable beds, lots of towels, however kitchen is lacking a little bit on some basics from pans to cups, but not a big issue. Everything was very clean  Loved the layout, good privacy for three couples but great common areas for hanging out. Very walkable,  little be down from the main nightlife, but still an easy walk. We'd definitely stay again the next time we visit.
+Show more
+Maura
+Dallas, Texas
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Stayed a few nights
+We had an amazing stay! The house was the perfect location - we walked everywhere, was very clean and comfortable. We would love to stay again next time we are in town!
+Show more
+Carol
+Philadelphia, Pennsylvania
+Rating, 3 stars
+,
+·
+March 2024
+,
+·
+Stayed a few nights
+The house is a beautiful, older home- and house instructions were clear and easy to follow.  The house is in need of a little maintenance.  If you are looking to use a kitchen, this is not the place for you.  Not one teaspoon, and I think only one pot for cooking!  Dryer not working, upstairs sink VERY slow to drain, TV’s not working consistently, and customer service leaves something to be desired from Lucky Savannah.
+Show more
+Tricia
+Fort Wayne, Indiana
+Rating, 4 stars
+,
+·
+October 2024
+,
+·
+Stayed a few nights
+Could use a couple of chairs in the upstairs bedroom as the bed is super high, which is great for sleeping but not great for putting your shoes on if you have to sit down.
+The only other thing is this place desperately needs towel racks.  you don’t realize how much you need them until you don’t have them.
+Show more
+Gregory
+Charleston, South Carolina
+Rating, 5 stars
+,
+·
+December 2023
+,
+·
+Stayed a few nights
+What a great place! Close to everything downtown we wanted.
+Show all 17 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,487 @@
+URL: https://www.airbnb.com/rooms/1126991317759056330
+Title: Pink Paradise near Forsyth w/Hot Tub
+Latitude: 32.063
+Longitude: -81.0941
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Allan
+Host ID: 376644934
+Host profile ID: 1463561123306813590
+Host URL: https://www.airbnb.com/users/profile/1463561123306813590
+Bedrooms: 6
+Occupancy (maximum guests): 12
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 7
+
+Beds enumerated in room tiles: 7
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 queen bed
+
+Bedroom 5
+2 single beds
+
+Bedroom 6
+1 double bed
+
+=== FULL DESCRIPTION ===
+Step back in time at this historic Victorian gem in Savannah, GA
+
+This beautifully renovated home in the historic East Victorian district is a true gem. The house has been meticulously restored to preserve its original Victorian architectural details, and it has been professionally decorated to create a warm and inviting atmosphere.
+SVR-02959
+
+The space
+With six bedrooms and three bathrooms, this home can comfortably accommodate up to 10 guests. The house is perfect for families or groups of friends who are looking for a unique and memorable vacation experience.
+
+The house also has a fenced outdoor area with a hot tub, which is the perfect place to relax and unwind after a long day of sightseeing.
+
+Key features:
+Six bedrooms, three bathrooms
+Professionally decorated
+Original Victorian architectural details
+Fenced outdoor area with hot tub
+Two blocks away from Forsyth Park
+Walking distance to many historic sites, museums, and restaurants
+
+Other things to note
+There is free on-street parking on Lincoln and Duffy St. Guests are advised to keep an eye out for posted Sweep Zone signs. 
+Please note that the hot tub is for 6 people maximum.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Conditioner
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Central heating
+Home safety
+Exterior security cameras on property
+Motion detection camera monitors the front entrance
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Outdoor
+Patio or balcony
+Outdoor furniture
+BBQ grill
+Parking and facilities
+Hot tub
+Services
+Self check-in
+Smart lock
+Not included
+Unavailable: Shampoo
+Shampoo
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Pink Paradise near Forsyth w/Hot Tub
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+12 guests · 6 bedrooms · 7 beds · 3 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.87 out of 5 stars.
+4.87
+100 reviews
+100
+Reviews
+Hosted by Allan
+Superhost · 6 years hosting
+Listing highlights
+In the East Victorian District
+About a 5-min walk to Forsyth Park, with Savannah's historic squares and restaurants nearby
+Private patio with hot tub
+A fenced backyard with a hot tub for unwinding after a day of exploring Savannah
+Allan goes above and beyond
+Guests praise Allan's responsiveness, with many noting how quickly he handles any request
+Step back in time at this historic Victorian gem in Savannah, GA
+
+This beautifully renovated home in the historic East Victorian district is a true gem. The house has been meticulously restored to preserve its original Victorian architectural details, and it has been professionally decorated to create a warm and inviting atmosphere.
+SVR-02959
+
+The space
+With six bedrooms and three bathrooms, this home can comfortably accommodate up to 10 guests. The house is perfect for families or groups of friends who are looking for a unique and memorable vacation experience.
+
+The house also has a fenced outdoor area with a hot tub, which is the perfect place to relax and unwind after a long day of sightseeing.
+
+Key features:
+Six bedrooms, three bathrooms
+Professionally decorated
+Original Victorian architectural details
+Fenced outdoor area with hot tub
+Two blocks away from Forsyth Park
+Walking distance to many historic sites, museums, and restaurants
+
+Other things to note
+There is free on-street parking on Lincoln and Duffy St. Guests are advised to keep an eye out for posted Sweep Zone signs. 
+Please note that the hot tub is for 6 people maximum.
+Show more
+All sleeping arrangements
+
+Advertised beds: 7 | Enumerated: 7 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 queen bed
+
+Bedroom 5
+2 single beds
+
+Bedroom 6
+1 double bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Hot tub
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Exterior security cameras on property
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.87 out of 5 from 100 reviews.
+4.87
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 89% of reviews
+5
+4 stars, 9% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+36
+Parks
+8
+Location
+34
+Hospitality
+42
+Decor
+19
+Comfort
+30
+Indoor spaces
+27
+Parking
+12
+Nearby
+23
+Hot tub
+17
+Maddie
+Raleigh, North Carolina
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Group trip
+Was a great location for our bachelorette trip! Just a short walk to Forsyth park and a very short drive to Broughton and the river. The street parking was plentiful and we had no issues finding spots nearby. Only one bedroom (king bed) is downstairs so just keep that in mind for any groups with mobility issues and stairs
+Show more
+Ginette
+Rifle, Colorado
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Charming home in a good location. Easy to walk to shopping and food. Home was clean and very comfortable. 
+Allan was very responsive and welcoming.
+Azyah
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Check in was simply and Allan was very communicative. The home had accommodations for all guests and had many amenities that most places don’t offer. The stay was great and the house was very cozy and nicely decorated. Me and my other guests had a great time.
+Show more
+Erica
+Rock Hill, South Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Great location. Very responsive hosts. Very well decorated. Good amenities. Comfy beds.
+Amanda
+Apopka, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+We thoroughly enjoyed our time staying at this house with two other families. It was our first time staying in a historical home, so we enjoyed the character it offered. Parking was always readily available. Hot water was instant, and the AC downstairs was always nice and cold. We also enjoyed the proximity to nearby restaurants and parks, and the many fans made available in the house. We would love to stay here again in the future.
+Show more
+Brooke
+Austin, Texas
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+The home was super cute and great for our group of 12. We had an issue with the AC one night and Allan had a maintenance person there within 30 minutes to get it solved! Thanks for the great stay and communication!
+Show more
+Show all 100 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+The house is located in the heart of the East Victorian District, just two blocks away from Forsyth Park. This is the perfect location for exploring all that Savannah has to offer, including its many historic sites, museums, and restaurants.
+Show more
+Meet your host
+Allan
+Superhost
+3,177 reviews
+3177
+Reviews
+4.86 out of 5 average rating
+4.86
+Rating
+6 years of hosting
+6
+Years hosting
+Speaks English and Spanish
+Lives in Savannah, Georgia
+My wife and I moved to Savannah over 14 years ago and fell in love with everything about the area. We have 2 kids that fill our lives with joy and excitement. I have an engineering and aerospace background and my wife has a background in Culinary Arts and makes custom decorated cakes and other treats.
+Allan is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Rebeca
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 9:00 PM
+Checkout before 11:00 AM
+12 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

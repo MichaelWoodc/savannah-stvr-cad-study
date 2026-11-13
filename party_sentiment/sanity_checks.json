@@ -1,0 +1,79 @@
+[
+  {
+    "case": "generic",
+    "text": "Please message the host. Be aware of the smart locks.",
+    "scores": {
+      "party_welcome": 0.0001658273977227509,
+      "social_amenities": 0.000837439380120486,
+      "party_restriction": 0.0014981047715991735,
+      "nearby_nightlife": 0.0016110964352265
+    },
+    "affirmative_event_evidence": null
+  },
+  {
+    "case": "prohibition",
+    "text": "No parties or events are allowed. Keep noise down.",
+    "scores": {
+      "party_welcome": 0.00015927264757920057,
+      "social_amenities": 0.0022869217209517956,
+      "party_restriction": 0.9753992557525635,
+      "nearby_nightlife": 0.14340193569660187
+    },
+    "affirmative_event_evidence": null
+  },
+  {
+    "case": "invitation",
+    "text": "Host your birthday party here! Parties and celebrations are welcome at this house.",
+    "scores": {
+      "party_welcome": 0.9521322846412659,
+      "social_amenities": 0.3974796533584595,
+      "party_restriction": 0.0003430676879361272,
+      "nearby_nightlife": 0.04289810359477997
+    },
+    "affirmative_event_evidence": "Host your birthday party here!"
+  },
+  {
+    "case": "nearby",
+    "text": "The home is a short walk from downtown bars and nightlife.",
+    "scores": {
+      "party_welcome": 0.0006431073416024446,
+      "social_amenities": 0.0031502905767410994,
+      "party_restriction": 0.0017634360119700432,
+      "nearby_nightlife": 0.9243514537811279
+    },
+    "affirmative_event_evidence": null
+  },
+  {
+    "case": "amenity",
+    "text": "Enjoy our private hot tub, pool table, outdoor bar and barbecue patio.",
+    "scores": {
+      "party_welcome": 0.004801372066140175,
+      "social_amenities": 0.9581006169319153,
+      "party_restriction": 0.00026256483397446573,
+      "nearby_nightlife": 0.40771883726119995
+    },
+    "affirmative_event_evidence": null
+  },
+  {
+    "case": "travel_group",
+    "text": "With a deadbolt on the apartment door, your party is always safe at our vacation rentals. Artwork welcomes your party.",
+    "scores": {
+      "party_welcome": 0.9300031661987305,
+      "social_amenities": 0.00048814364708960056,
+      "party_restriction": 0.00013457122258841991,
+      "nearby_nightlife": 0.007176650688052177
+    },
+    "affirmative_event_evidence": null
+  },
+  {
+    "case": "catering_example",
+    "text": "Our baker specializes in cakes. I frequently send her a photo of something I would like for a party or small gathering and she can make it!",
+    "scores": {
+      "party_welcome": 0.010743500664830208,
+      "social_amenities": 0.0012306113494560122,
+      "party_restriction": 0.00039170781383290887,
+      "nearby_nightlife": 0.0004451878776308149
+    },
+    "affirmative_event_evidence": null
+  }
+]

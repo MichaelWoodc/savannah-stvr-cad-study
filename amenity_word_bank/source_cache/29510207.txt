@@ -1,0 +1,449 @@
+URL: https://www.airbnb.com/rooms/29510207
+Title: Quaint Studio w/ Courtyard by Lucky Savannah
+Latitude: 32.0774
+Longitude: -81.0856
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 0
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Enjoy the privacy of this upper-level studio apartment with full kitchen and balcony. Located at East Broughton and Houston, guests are a short walk away from the center of historic downtown Savannah.
+
+The space
+Walk past the main home and through the expansive courtyard to access this private, upper-level studio apartment - once a carriage house as part of this historic Savannah estate. Guests are within close distance to River Street, City Market, and Savannah's best shopping and dining along Broughton Street.
+
+A flight of stairs takes you from the courtyard to your second story carriage house entrance. Walk into the cozy bedroom, decorated with Southern touches all while keeping your comfort a priority. The Queen size bed is dressed in hotel grade linens, professionally pressed between each visit. With two large closets and a standing chest of drawers, you're encouraged to unpack your suitcase and even consider extending your stay.
+
+The full kitchen is stocked with every essential you'd need to prepare a home cooked meal. Just beyond is the full bath with walk in shower.
+
+East Broughton Street is swiftly becoming a bustling part of the city, with new restaurant East End Provisions joining the locally-cherished Cha Bella. Be sure to stop into Capital Bee Co. for a brick of local honey comb. Head due West towards the center of downtown and be greeted with Savannah's best shopping and dining options. On our list for must-sees: The Paris Market, Halfmoon Outfitters, Leopold's Ice Cream, and The Prohibition Museum.
+
+Catch a trolley (or count those steps) and head South along Bull Street for a promenade through the squares, ending at the Fountain of Forsyth Park, one of Savannah's most famous attractions. 
+
+Parking: Metered Parking
+Parking for this home is on-street and metered, with enforcement by the City of Savannah Monday through Saturday, 8am to 8pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or utilize a nearby public parking garage. Pre-paid visitor parking passes are available for purchase at the Parking and Mobility Services office. Please take note of posted Sweep Zone signs when parking on the street.
+
+Sleeping Configuration:
+Bedroom 1: Queen Size Bed
+
+SVR-01018
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Quaint Studio w/ Courtyard by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Add dates for prices
+Add dates for prices
+4.57 ·
+35 reviews
+Rated 4.57 out of 5 from 35 reviews.
+Check availability
+Entire rental unit in Savannah, Georgia
+2 guests · Studio · 1 bed · 1 bath
+Rated 4.57 out of 5 stars.
+4.57
+·
+35 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Washington Square is right outside, with River Street and Broughton Street dining within easy reach
+Historic carriage house with full kitchen
+A full kitchen with oven, dishwasher, and coffee maker in a converted carriage house
+Walkable to nearly everything
+Guests highlight how walkable the location is to shops, restaurants, and the riverfront
+Enjoy the privacy of this upper-level studio apartment with full kitchen and balcony. Located at East Broughton and Houston, guests are a short walk away from the center of historic downtown Savannah.
+
+The space
+Walk past the main home and through the expansive courtyard to access this private, upper-level studio apartment - once a carriage house as part of this historic Savannah estate. Guests are within close distance to River Street, City Market, and Savannah's best shopping and dining along Broughton Street.
+
+A flight of stairs takes you from the courtyard to your second story carriage house entrance. Walk into the cozy bedroom, decorated with Southern touches all while keeping your comfort a priority. The Queen size bed is dressed in hotel grade linens, professionally pressed between each visit. With two large closets and a standing chest of drawers, you're encouraged to unpack your suitcase and even consider extending your stay.
+
+The full kitchen is stocked with every essential you'd need to prepare a home cooked meal. Just beyond is the full bath with walk in shower.
+
+East Broughton Street is swiftly becoming a bustling part of the city, with new restaurant East End Provisions joining the locally-cherished Cha Bella. Be sure to stop into Capital Bee Co. for a brick of local honey comb. Head due West towards the center of downtown and be greeted with Savannah's best shopping and dining options. On our list for must-sees: The Paris Market, Halfmoon Outfitters, Leopold's Ice Cream, and The Prohibition Museum.
+
+Catch a trolley (or count those steps) and head South along Bull Street for a promenade through the squares, ending at the Fountain of Forsyth Park, one of Savannah's most famous attractions. 
+
+Parking: Metered Parking
+Parking for this home is on-street and metered, with enforcement by the City of Savannah Monday through Saturday, 8am to 8pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or utilize a nearby public parking garage. Pre-paid visitor parking passes are available for purchase at the Parking and Mobility Services office. Please take note of posted Sweep Zone signs when parking on the street.
+
+Sleeping Configuration:
+Bedroom 1: Queen Size Bed
+
+SVR-01018
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.57 out of 5 stars from 35 reviews
+4.57 · 35 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 66% of reviews
+5
+4 stars, 31% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 3% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.6 out of 5 stars for check-in
+Check-in
+4.6
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.4 out of 5 stars for value
+Value
+4.4
+Guest reviews mention
+Walkability
+18
+Location
+24
+Outdoor spaces
+9
+Indoor spaces
+9
+Sleep quality
+7
+Nearby
+6
+Hospitality
+10
+Cleanliness
+9
+River
+3
+Check-in
+4
+Kloe
+Gardendale, Alabama
+Rating, 1 star
+,
+·
+August 2025
+,
+·
+Stayed a few nights
+We arrived at midnight and the key was missing from the lockbox. We had been traveling all afternoon and night. We finally got in touch with them, went into the room and immediately saw a bug. Unsure of what kind. The toilet had not been flushed and there were urine streaks and stains on the toilet. The shower head had mold and sink had grime. We also saw a flea in the bed. There are two doors that don’t have deadbolts which I found to be very unsafe. We were able to get out of the stay with the help of Airbnb but still had to pay 70% of the one night stay. I’ve never had such a horrible Airbnb experience and because of this experience I will look at hotels first moving forward. Was not worth the money. The location was fine.
+Show more
+Daymon
+Summerville, Georgia
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Stayed with kids
+Nice, small, quaint apartment right within walking distance to everything in downtown. We enjoyed coffees at the Java Burrito right around the corner and walked to River Street, Bay Street and everything on Broughton. Everything you need is within a 20 minute walk. We found the parking to be the most annoying, but there was a SCAD film festival going on so it’s no fault of the host. The apartment is what you’d expect in the downtown historic district of Savannah, it’s small and tight, but everything you need for the night, the price definitely reflects on the location more than the actual apartment. The courtyard was nice, but hauling a baby and all the babies needs up the stairs were not nice, definitely needs to be addressed theres a steep set of steps required to get into the place. The apartment was very safe with a locked iron gate to the courtyard. We had a great experience and a great stay. It was everything we needed for a weekend getaway.
+Show more
+Abigail
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+My stay with Lucky Savannah was lovely! The host was always responsive, and the location was hard to beat. So walkable and right in the middle of the historic district. It is the perfect little apartment and we really enjoyed the outdoor seating area.
+Show more
+Hayden
+Florence, Alabama
+Rating, 4 stars
+,
+·
+July 2025
+,
+·
+Stayed a few nights
+my wife and I spent 4 nights in this historical carriage house for our anniversary. It was in great location for walking riverfront and inner city. The place is very quaint and intimate. The lights from the road lamps at night are a great nightlight but they've got blinds to help counter that. Only part that was unsettling was having a drink and coming back to the room after a haunted tour and you hear people walking by talking lol other than that we had a blast!
+Show more
+Steve
+Brooklyn Park, Minnesota
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+Great space, great location, and great communication and instructions. Would definitely revisit!
+Show more
+Ava
+Kennesaw, Georgia
+Rating, 5 stars
+,
+·
+March 2025
+,
+·
+Stayed a few nights
+My husband and I went to Savannah for our one year anniversary and this place was perfect! We hadn’t planned on being inside much so it was the perfect space to come to at the end of the night with its comfortable bedroom and cute little kitchen. It was in a WONDERFUL spot, a lot of the places we wanted to go to were very walkable from where we were. Couldn’t have asked for a better spot!
+Show more
+Show all 35 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

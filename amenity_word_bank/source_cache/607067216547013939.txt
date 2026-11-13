@@ -1,0 +1,467 @@
+URL: https://www.airbnb.com/rooms/607067216547013939
+Title: Forsyth Elegant Garden Apt (free parking)
+Latitude: 32.06908
+Longitude: -81.09329
+Privacy radius (meters): 152
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Garry
+Host ID: 20780077
+Host profile ID: 1463138259498043323
+Host URL: https://www.airbnb.com/users/profile/1463138259498043323
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Private garden apt near Forsythe park.   1 block from Krogers,  in the most gracious part of the historic district.   Homey, artsy and glamorous, with the exquisite hand knotted, vegetable died oriental carpets and the  fine art, and extensive use of hand carved wood panels.  There is also a private  patio, which is exclusively yours.   The fountain in the patio, surrounded by potted plants. 
+SVR-02555
+
+The space
+The living room is large, luxurious and warm with a fireplace (closed for insurance reasons,  and plushy newer furniture. The bedroom opens into a private patio garden, is oversized with brilliant hand knotted oriental carpeting, private full bath with travertine stone floor and hand carved decorative  panels. Security camera outside by front door.
+
+Guest access
+Extra towels are in the antique small cabinet to the right of the bedroom glass door and extra linens are in the closet by front door. Please reuse towels like you would at home.
+
+Other things to note
+Equipped with High speed wireless internet and amazing Roku 4K TVs.  Both the king size bed in the bedroom and the pull out sofa bed has the newest high-end self-cooling mattresses which are extremely comfortable!
+
+There are security cameras outside the front and back doors
+
+Very private home with no shared spaces or entry ways.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Quality shampoo
+Quality conditioner
+Quality body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Egyptian cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: walk-in closet and closet
+Entertainment
+Ethernet connection
+55 inch HDTV with Roku
+Heating and cooling
+Central air conditioning
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Pocket wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Frigidaire refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Frigidaire electric stove
+Frigidaire oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor dining area
+Parking and facilities
+Free parking on premises – 1 space
+Free street parking
+Paid parking lot on premises – 1 space
+Single level home
+No stairs in home
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Forsyth Elegant Garden Apt (free parking)
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+143 reviews
+143
+Reviews
+Hosted by Garry
+Superhost · 11 years hosting
+Listing highlights
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, with Whitefield Square and historic churches steps away
+Private patio with a fountain
+A private patio with a fountain, surrounded by potted plants off the bedroom
+A bed guests can't stop praising
+Guests highlight how comfortable the king bed is, with many calling it the best they've slept on
+Private garden apt near Forsythe park.   1 block from Krogers,  in the most gracious part of the historic district.   Homey, artsy and glamorous, with the exquisite hand knotted, vegetable died oriental carpets and the  fine art, and extensive use of hand carved wood panels.  There is also a private  patio, which is exclusively yours.   The fountain in the patio, surrounded by potted plants. 
+SVR-02555
+
+The space
+The living room is large, luxurious and warm with a fireplace (closed for insurance reasons,  and plushy newer furniture. The bedroom opens into a private patio garden, is oversized with brilliant hand knotted oriental carpeting, private full bath with travertine stone floor and hand carved decorative  panels. Security camera outside by front door.
+
+Guest access
+Extra towels are in the antique small cabinet to the right of the bedroom glass door and extra linens are in the closet by front door. Please reuse towels like you would at home.
+
+Other things to note
+Equipped with High speed wireless internet and amazing Roku 4K TVs.  Both the king size bed in the bedroom and the pull out sofa bed has the newest high-end self-cooling mattresses which are extremely comfortable!
+
+There are security cameras outside the front and back doors
+
+Very private home with no shared spaces or entry ways.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises – 1 space
+Pets allowed
+55 inch HDTV with Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Show all 53 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 143 reviews.
+4.92
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+65
+Location
+83
+Parking
+39
+Hospitality
+75
+Sleep quality
+29
+Comfort
+43
+Nearby
+37
+Cleanliness
+32
+Parks
+15
+Quiet
+13
+Chris
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Garry’s place was perfect for a quick weekend away. Walking distance to everything and super quiet. We would definitely stay here again.
+⁨William A. B.⁩
+Greenville, North Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Was in Savannah for 6 days to visit with family but also to be tourists. Garry's place was overall quiet, clean, things worked. It is a garden flat, which puts it just below street level. In an area that can be quite hot temperature-wise, this means the flat is a bit cooler. The bed was quite soft, a full king size, and the blackout curtains helped to make the sleeping area quite dark. The Historic District is very close, very walkable from this location. The area toward the river can get noisy at night, this flat was quiet. We did not go out at night, also felt very safe in this residental area. Overall very, very pleasant.
+Show more
+Chris
+Orlando, Florida
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Such a lovely home - both spacious and well decorated.  It is just under a mile from the riverwalk - so we could explore Savannah by foot.  I parked the car in the free parking spot provided and didn’t move it again until we left.  Garry was super responsive and a great host.  I would recommend this home to anyone visiting Savannah.  Thanks, Garry!
+Show more
+Antoine
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Highly recommend this place to anybody, private and quiet and close to a lot of places you can walk
+Isabella
+Lafayette, Indiana
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Very spacious and cute place! Great location to walk to parks or restaurants/shopping.
+Scott
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Highly recommend!
+Show all 143 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+One of the best neighborhood in Savannah with the finest mansions to enjoy on your way to the park or nearby coffee shops and restaurants. The nicest garden in the world (ok, I tend to speak in superlatives!) Can be found going one building to the left, turn right in Hall street, then look to your right between the mansions till you see the huge oak tree shading a pond with stunning landscaping design . It has such breathtaking charm. The magnificent house to the left of the garden is almost an afterthought!
+Show more
+Meet your host
+Garry
+Superhost
+493 reviews
+493
+Reviews
+4.93 out of 5 average rating
+4.93
+Rating
+11 years of hosting
+11
+Years hosting
+Born in the 50s
+Where I went to school: United States international university
+I am a retired pastor who loves art and good design. Of course I had to retire here in savannah where the excellent architecture and good colonial city planning are so inspiring. I hope my b&b reflects my love for tasteful, stimulating, pleasant and comfortable design and that you will be very pleased by your stay here.
+Garry is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Lei
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Pet-friendly vacation rentals in Georgia
+Pet-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

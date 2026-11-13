@@ -1,0 +1,480 @@
+URL: https://www.airbnb.com/rooms/1329855616115462909
+Title: Entire Home by Forsyth Park/private parking
+Latitude: 32.0652
+Longitude: -81.1014
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Tim
+Host ID: 320351715
+Host profile ID: 1469606810006517039
+Host URL: https://www.airbnb.com/users/profile/1469606810006517039
+Bedrooms: 4
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 5
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 double beds
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Fully furnished entire house with 2 King size beds, 1 queen bed, 2 full size beds, 2 full baths. Victorian architecture tucked in the heart of Savannah, this private home with high ceiling is mere blocks from Savannah’s biggest attractions - Forsyth Park. The most ideal place to explore the city! Walking distance to Forsyth, The Black Rabbit sandwich bar, White Whale Craft Ales, Brighter Day Natural Foods Market. Just a 5 minute ride to 100+ more destinations and all of the historic landmarks!
+
+The space
+The downstairs has 2 bedrooms (one king bed, one queen bed), living room, full kitchen with washer & dryer machines, and one full bath with renovated tile walk-in shower. 
+The upstairs has a spacious living room and dining area, full kitchen, 2 bedrooms (one king bed, 2 full-size beds), and a full bath with bathtub/shower combo and a laundry center (washer and dryer combo). 
+
+You will have 2 kitchens, 2 living room, total 4 bedrooms with 5 beds, 2 couches with one couch can pull out to a bed; and 2 full baths. 
+Big Private parking in the back, second floor balcony, and Spacious standalone relaxing home in the historic district.
+
+Guest access
+You can access the backyard thru the fence and park in the back of the property for private parking.
+
+Other things to note
+This is a duplex. If booked, you are renting both units in a Victorian Duplex, the entire building. Well maintained with modern amenities. SVR-02658 and SVR-02573
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Drying rack for clothing
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Family
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+There is one Video Doorbell at the front door capable of recording video and audio of the front porch area. There is no other security camera or audio recording device on the property.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Stove
+Oven
+Hot water kettle
+Coffee maker: pour-over coffee
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free parking garage on premises
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Entire Home by Forsyth Park/private parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+10 guests · 4 bedrooms · 5 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+27 reviews
+27
+Reviews
+Hosted by Tim
+Superhost · 6 years hosting
+Listing highlights
+In the West Victorian District
+About a 5-min walk to Forsyth Park, with local spots like The Black Rabbit just around the corner
+Victorian duplex with private parking
+A Victorian duplex with two full kitchens, two living rooms, and private parking in back
+Tim is a responsive, attentive host
+Guests praise Tim for quick responses and highlight how well the home fits larger groups
+Fully furnished entire house with 2 King size beds, 1 queen bed, 2 full size beds, 2 full baths. Victorian architecture tucked in the heart of Savannah, this private home with high ceiling is mere blocks from Savannah’s biggest attractions - Forsyth Park. The most ideal place to explore the city! Walking distance to Forsyth, The Black Rabbit sandwich bar, White Whale Craft Ales, Brighter Day Natural Foods Market. Just a 5 minute ride to 100+ more destinations and all of the historic landmarks!
+
+The space
+The downstairs has 2 bedrooms (one king bed, one queen bed), living room, full kitchen with washer & dryer machines, and one full bath with renovated tile walk-in shower. 
+The upstairs has a spacious living room and dining area, full kitchen, 2 bedrooms (one king bed, 2 full-size beds), and a full bath with bathtub/shower combo and a laundry center (washer and dryer combo). 
+
+You will have 2 kitchens, 2 living room, total 4 bedrooms with 5 beds, 2 couches with one couch can pull out to a bed; and 2 full baths. 
+Big Private parking in the back, second floor balcony, and Spacious standalone relaxing home in the historic district.
+
+Guest access
+You can access the backyard thru the fence and park in the back of the property for private parking.
+
+Other things to note
+This is a duplex. If booked, you are renting both units in a Victorian Duplex, the entire building. Well maintained with modern amenities. SVR-02658 and SVR-02573
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 5 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 double beds
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking garage on premises
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Exterior security cameras on property
+Show all 53 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 27 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.6 out of 5 stars for location
+Location
+4.6
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+10
+Hospitality
+15
+Backyard
+3
+Comfort
+7
+Location
+10
+Cleanliness
+8
+Family
+5
+Indoor spaces
+7
+Layout
+2
+Sleep quality
+3
+Bruna
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+We had a wonderful two-night stay at this beautiful home. The house has an incredible Savannah feel and a lot of charm. It was comfortable, clean, and had everything we needed for a pleasant stay.
+Tim was a great host, very responsive and communicative.
+We would definitely recommend it to anyone looking for a home with larger families.
+Show more
+Brandy
+Greenville, South Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+The two units were updated and well furnished.  The beds were ALL amazing.  We slept so well.  Location was convenient for walking, units were comfortable well furnished.  Highly recommend!
+Show more
+Tiffany
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+The house was nice and clean. The host was very welcoming and responds within a reasonable time. The home is very welcoming
+Telia
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Group trip
+Beautiful Home It Was Perfect
+Kameron
+5 years on Airbnb
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+This is a great location if you want to do activities in downtown Savannah. The space fit my family of 9 perfectly, but the pullout couch needs to be replaced for it to be properly enjoyed. There are bats next door but they don’t really bother anyone, though nights on the balcony might be a bit smelly and squeaky. The home was very comfortable and Tim was always quick to respond. Having a washer and dryer down and upstairs was very convenient! Outside of the pullout couch, the everything was great! Plenty of space for a family with kids and pet friendly thankfully.
+Show more
+Rachel
+Jupiter, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Enjoyed our stay, will stay again.
+Show all 27 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+We are in the West Victorian District mere blocks west of Forsyth Park. We are a short walk to local bars and restaurants like Local 11ten, Betty Bombers, Sentient Bean, and Cuban Window Cafe and many more!! You really can't beat this location with the proximity to the park. Location is about 1 mile to the heart of all activities- Bay Street, River Street, City Market, etc. This is an exciting part of town where you can get your own space yet be in the middle of everything Savannah!
+Show more
+Meet your host
+Tim
+Superhost
+185 reviews
+185
+Reviews
+4.84 out of 5 average rating
+4.84
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 80s
+Where I went to school: Tulane University
+Greetings from Savannah. We are Tim and An. We love hosting guests on Airbnb and share our house with others. We are local hosts and available through the app and by phone at all times. Send us a message if you want a comfortable charming historic rental near Forsyth Park!
+Tim is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,446 @@
+URL: https://www.airbnb.com/rooms/17418220
+Title: Modern Garden Apt, Near River by Lucky Savannah
+Latitude: 32.074
+Longitude: -81.0874
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+A charming ground level apartment in Downtown Savannah's Historic District located right off of Crawford Square
+
+The space
+This charming garden-level apartment overlooks Crawford Square, where a picturesque gazebo sits beneath majestic oak trees draped in Spanish moss. Tucked just off the beaten path, it offers a quiet, relaxing stay while remaining within easy walking distance of Savannah's top attractions. Traveler's Escape combines comfort and convenience in the Hostess City of the South.
+
+Inside, the living room features a queen trundle bed, comfortable seating, a flat-screen smart TV, and a breakfast table. The modern galley kitchen is fully equipped with everything you need to prepare meals at home. Step outside to the tropical courtyard-perfect for enjoying a book, a meal, or your morning coffee. At day's end, unwind in the king-sized bed with a plush pillow-top mattress. Please note that smoking is not permitted in the apartment or courtyard.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Living Room: Queen Trundle Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, with enforcement by the City of Savannah Monday through Saturday, 8am to 8pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or utilize a nearby public parking garage. Pre-paid visitor parking passes are available for purchase at the Parking and Mobility Services office. Please take note of posted Sweep Zone signs when parking on the street.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-01924
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Modern Garden Apt, Near River by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Add dates for prices
+Add dates for prices
+4.74 ·
+31 reviews
+Rated 4.74 out of 5 from 31 reviews.
+Check availability
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.74 out of 5 stars.
+4.74
+·
+31 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Right outside Crawford Square, with Troup Square, Lafayette Square, and the cathedral all walkable
+Private courtyard off the apartment
+A tropical courtyard for morning coffee or reading, just steps from your private entrance
+Walkable to top attractions
+Guests highlight the walkability and central location, with easy access to restaurants and bars
+A charming ground level apartment in Downtown Savannah's Historic District located right off of Crawford Square
+
+The space
+This charming garden-level apartment overlooks Crawford Square, where a picturesque gazebo sits beneath majestic oak trees draped in Spanish moss. Tucked just off the beaten path, it offers a quiet, relaxing stay while remaining within easy walking distance of Savannah's top attractions. Traveler's Escape combines comfort and convenience in the Hostess City of the South.
+
+Inside, the living room features a queen trundle bed, comfortable seating, a flat-screen smart TV, and a breakfast table. The modern galley kitchen is fully equipped with everything you need to prepare meals at home. Step outside to the tropical courtyard-perfect for enjoying a book, a meal, or your morning coffee. At day's end, unwind in the king-sized bed with a plush pillow-top mattress. Please note that smoking is not permitted in the apartment or courtyard.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Living Room: Queen Trundle Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, with enforcement by the City of Savannah Monday through Saturday, 8am to 8pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or utilize a nearby public parking garage. Pre-paid visitor parking passes are available for purchase at the Parking and Mobility Services office. Please take note of posted Sweep Zone signs when parking on the street.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-01924
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.74 out of 5 stars from 31 reviews
+4.74 · 31 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 77% of reviews
+5
+4 stars, 19% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.7 out of 5 stars for communication
+Communication
+4.7
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Walkability
+17
+Location
+21
+Pets
+7
+Parking
+5
+Cleanliness
+11
+Nearby
+5
+Comfort
+7
+Sleep quality
+4
+Parks
+2
+Hospitality
+4
+George
+Southbury, Connecticut
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Everything went great.  We had minor needs and they were resolved within the hour.  There could be more than one day of coffee and shampoo provided.  Especially since there are no nearby grocery stores (we were on foot).  
+The bed was a bit of an issue.  It was listed as a king, but was technically two twins on a king box box spring.  The situation was unstable and they did come to resolve.  As a host myself, I would get a king matress to resolve this.
+The place was clean and centrally located.  I recommend this property ... better if the matress situation gets resolved.
+Show more
+Lisa
+Deerfield, Massachusetts
+Rating, 4 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Good location and very nice stay!
+Show more
+Claire
+Westfield, New Jersey
+Rating, 4 stars
+,
+·
+October 2024
+,
+·
+Stayed a few nights
+This Airbnb rental is well located in Savannah’s historic district. We walked nearly everywhere. One of Savannah’s famous squares is across the street. The unit was clean. It is a ground-level unit with no stairs. All the windows had functioning locks. We felt safe. The only negative is that the unit has a persistent musty/mildew odor.
+Show more
+Jill
+Albuquerque, New Mexico
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+Great location with easy to find paid parking right across the street.  Walkable to the historic district with terrific restaurants and bars.
+Show more
+Steven
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2023
+,
+·
+Stayed a few nights
+Perfect place!  I was worried about parking but there was always a spot right outside the door, which was perfect because my elderly mother came over to visit a couple of times.  One step up the curb and another step into the unit, that was perfect.  The bed was ultra-comfortable, kitchen was exactly what was needed, and it was just a few blocks from all the downtown hubbub.  Would definitely stay again!
+Show more
+Ren
+Saint Petersburg, Florida
+Rating, 4 stars
+,
+·
+November 2024
+,
+·
+Stayed a few nights
+Nice clean place, you can walk everywhere. Just not a fan of not having everything in the Airbnb app.
+Show all 31 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,297 reviews
+9297
+Reviews
+4.68 out of 5 average rating
+4.68
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,458 @@
+URL: https://www.airbnb.com/rooms/1687029903504286024
+Title: Maison Barnard | Starland's Most Stunning Home
+Latitude: 32.0533
+Longitude: -81.1036
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Designed for guests seeking elevated accommodations, exceptional entertaining spaces, and resort-style amenities, this extraordinary home blends sophisticated design with the relaxed atmosphere of a private Savannah oasis.
+
+The space
+Maison Barnard by Lucky Savannah is a one-of-a-kind luxury retreat located in the heart of Savannah’s vibrant Starland District, offering an experience unlike anything else in the city. Designed for guests seeking elevated accommodations, exceptional entertaining spaces, and resort-style amenities, this extraordinary home blends sophisticated design with the relaxed atmosphere of a private Savannah oasis.
+
+From the moment you arrive, Maison Barnard sets itself apart. The outdoor experience is truly unmatched, featuring a private saltwater pool, sauna, conversational fire pit, and an incredible pool house complete with a custom bar designed for gathering, celebrating, and unwinding in style. Whether you’re spending afternoons poolside, hosting an intimate evening under the stars, or enjoying cocktails before a night out, every detail of this property was curated to create an unforgettable stay.
+
+Inside, the home showcases impeccable craftsmanship, luxurious finishes, and thoughtfully selected furnishings throughout. The chef’s kitchen is outfitted with top-of-the-line appliances and premium finishes, making it equally suited for preparing meals at home or hosting a private catered dinner experience. Expansive living spaces, soaring ceilings, and abundant natural light create a warm yet refined atmosphere throughout the home.
+
+What we love about Maison Barnard:
+
+Complete Savannah Oasis: Unlike any other home in Savannah, Maison Barnard offers a truly resort-style experience with a private pool, sauna, pool house, custom bar, and multiple outdoor gathering spaces designed for entertaining and relaxation.
+
+Incredible Finishes & Furnishings: Every inch of the home reflects exceptional quality, from the designer furnishings to the luxury appliances and custom details throughout.
+
+Direct Access to Victory North: Maison Barnard shares a unique connection with Victory North, one of Savannah’s premier live music venues. Enjoy a concert just steps from your door, then return home to your own quiet luxury retreat. The Historic District is also just a quick Uber ride away, giving you the perfect balance of energy and privacy.
+
+The home offers three graciously sized bedrooms, each filled with natural light, tall ceilings, and plush king beds. The stunning primary suite features a spa-inspired ensuite bathroom, an impressive walk-in closet, and private access to a lush outdoor porch. Two additional guest bedrooms share a beautifully appointed hall bathroom with a spacious walk-in shower, creating comfort and privacy for families, couples, or groups traveling together.
+
+Perfectly positioned in Savannah’s creative and eclectic Starland District, Maison Barnard places guests near celebrated restaurants, cocktail bars, coffee shops, galleries, and local favorites while offering a level of luxury and amenities rarely found in the city.
+
+Maison Barnard is more than a vacation rental, it is a destination experience all its own.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: King Bed
+Bedroom 3: King Bed
+
+What is parking like for this home? 
+Guests will have access to two private, gated, off-street parking spaces. 
+
+A Note on Events: 
+
+Maison Barnard sits directly adjacent to Victory North, Savannah's premier event venue, making it the natural choice for wedding parties, rehearsal dinners, elopement weekends, milestone celebrations, and corporate retreats that require a home base as memorable as the occasion itself.
+
+The home is fully equipped to host private events on-site, with in-house catering available, a pool house bar, and outdoor spaces that accommodate both intimate gatherings and larger soirées. For guests booking in connection with a Victory North event, Maison Barnard is the obvious answer to where the real celebration happens.
+
+Please contact us to discuss event bookings, buyout rates, and catering arrangements.
+
+SVR-03246
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Indoor fireplace
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Pool
+Hot tub
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Maison Barnard | Starland's Most Stunning Home
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 3 baths
+Rated 4.75 out of 5 stars.
+4.75
+·
+4 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In the Starland District
+In Savannah's Starland District, near local restaurants, coffee shops, and galleries
+Resort-style backyard with pool house
+A private saltwater pool, sauna, fire pit, and pool house with a custom bar
+A beautifully designed home
+Guests describe a gorgeous home with a well-stocked kitchen and stunning bathrooms
+Designed for guests seeking elevated accommodations, exceptional entertaining spaces, and resort-style amenities, this extraordinary home blends sophisticated design with the relaxed atmosphere of a private Savannah oasis.
+
+The space
+Maison Barnard by Lucky Savannah is a one-of-a-kind luxury retreat located in the heart of Savannah’s vibrant Starland District, offering an experience unlike anything else in the city. Designed for guests seeking elevated accommodations, exceptional entertaining spaces, and resort-style amenities, this extraordinary home blends sophisticated design with the relaxed atmosphere of a private Savannah oasis.
+
+From the moment you arrive, Maison Barnard sets itself apart. The outdoor experience is truly unmatched, featuring a private saltwater pool, sauna, conversational fire pit, and an incredible pool house complete with a custom bar designed for gathering, celebrating, and unwinding in style. Whether you’re spending afternoons poolside, hosting an intimate evening under the stars, or enjoying cocktails before a night out, every detail of this property was curated to create an unforgettable stay.
+
+Inside, the home showcases impeccable craftsmanship, luxurious finishes, and thoughtfully selected furnishings throughout. The chef’s kitchen is outfitted with top-of-the-line appliances and premium finishes, making it equally suited for preparing meals at home or hosting a private catered dinner experience. Expansive living spaces, soaring ceilings, and abundant natural light create a warm yet refined atmosphere throughout the home.
+
+What we love about Maison Barnard:
+
+Complete Savannah Oasis: Unlike any other home in Savannah, Maison Barnard offers a truly resort-style experience with a private pool, sauna, pool house, custom bar, and multiple outdoor gathering spaces designed for entertaining and relaxation.
+
+Incredible Finishes & Furnishings: Every inch of the home reflects exceptional quality, from the designer furnishings to the luxury appliances and custom details throughout.
+
+Direct Access to Victory North: Maison Barnard shares a unique connection with Victory North, one of Savannah’s premier live music venues. Enjoy a concert just steps from your door, then return home to your own quiet luxury retreat. The Historic District is also just a quick Uber ride away, giving you the perfect balance of energy and privacy.
+
+The home offers three graciously sized bedrooms, each filled with natural light, tall ceilings, and plush king beds. The stunning primary suite features a spa-inspired ensuite bathroom, an impressive walk-in closet, and private access to a lush outdoor porch. Two additional guest bedrooms share a beautifully appointed hall bathroom with a spacious walk-in shower, creating comfort and privacy for families, couples, or groups traveling together.
+
+Perfectly positioned in Savannah’s creative and eclectic Starland District, Maison Barnard places guests near celebrated restaurants, cocktail bars, coffee shops, galleries, and local favorites while offering a level of luxury and amenities rarely found in the city.
+
+Maison Barnard is more than a vacation rental, it is a destination experience all its own.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: King Bed
+Bedroom 3: King Bed
+
+What is parking like for this home? 
+Guests will have access to two private, gated, off-street parking spaces. 
+
+A Note on Events: 
+
+Maison Barnard sits directly adjacent to Victory North, Savannah's premier event venue, making it the natural choice for wedding parties, rehearsal dinners, elopement weekends, milestone celebrations, and corporate retreats that require a home base as memorable as the occasion itself.
+
+The home is fully equipped to host private events on-site, with in-house catering available, a pool house bar, and outdoor spaces that accommodate both intimate gatherings and larger soirées. For guests booking in connection with a Victory North event, Maison Barnard is the obvious answer to where the real celebration happens.
+
+Please contact us to discuss event bookings, buyout rates, and catering arrangements.
+
+SVR-03246
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Free parking on premises
+Pool
+Hot tub
+TV
+Washer
+Dryer
+Air conditioning
+Indoor fireplace
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.75 out of 5 stars from 4 reviews
+4.75 · 4 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 75% of reviews
+5
+4 stars, 25% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.5 out of 5 stars for cleanliness
+Cleanliness
+4.5
+Rated 4.0 out of 5 stars for accuracy
+Accuracy
+4.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.5 out of 5 stars for communication
+Communication
+4.5
+Rated 3.5 out of 5 stars for location
+Location
+3.5
+Rated 3.8 out of 5 stars for value
+Value
+3.8
+Guest reviews mention
+Pool
+2
+Location
+4
+Walkability
+2
+Hot tub
+2
+Nearby
+2
+Accuracy
+2
+Kerri
+Frisco, Texas
+Rating, 4 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+PROS:
+- Absolutely stunning house with beautiful decor, huge eat in areas and kitchen well stocked.
+- Loved the grounds: gorgeous pool, pool house, fire pit, and sauna.  
+- Bathrooms were immaculate and stunning.  Ample towels were supplied for our entire stay including pool towels.  
+- The views from the balcony to the back was nice.  
+- Cool coffee shop near
+CONS:
+- HOT TUB NOT ACCESSIBLE - told not a hot tub although it reads as one in the listing & had jets.  Very disappointing!
+- LOUD NOISE - train woke us up at 4AM and cont'd,  also next to an event center so loud parties can be heard in the house
+- Located in a neighborhood that has many abandoned rundown buildings and loud train
+- No guide to explain the numerous electronic devices, would have been helpful.  
+- Sonos sound system - unable to use as it kept reading unable to be found and they never got back to us.
+- Cleanliness of furniture and general areas, there must have been a party before us as we found evidence of it.
+Show more
+Laura
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed about a week
+Lovely and well-equipped home, appreciated the surrounding security gate.  The downstairs tv never worked properly during our stay and AC was unable to adequately cool home.  Washing machine needs maintenance - has a very mildew heavy odor.  Heavy paint fumes in pool house made it difficult to enjoy.  Neighborhood was not where I believed we were renting based on description- made it seem as if it was walkable to historic areas which it was not.  Neighborhood felt very run down and not super safe, but we were able to stay here because of the gate around and enclosing the property.  Lucky Savannah did respond to our needs for repair of a broken bed and tv issues, but tv issues were never resolved.  Also, description of home made me believe there was a hot tub but no controls existed and it was an extension of the swimming pool.  Pool area needs additional umbrellas.  Lovely home but  overpriced in light of lack of hot tub, neighborhood/location and need for maintenance of washer, AC&TV.
+Show more
+Timothy
+Morristown, Tennessee
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Amazing home and amazing location.  The privacy of this home and the back yard is unparalleled.  Especially given its location to the best of Savannah.  Highly recommend!
+Kaitlin
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Gorgeous house, amazing location. The perfect setting for our family’s vacation. Within walking distance to so many good restaurants.
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,297 reviews
+9297
+Reviews
+4.68 out of 5 average rating
+4.68
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Vacation rentals with a pool in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

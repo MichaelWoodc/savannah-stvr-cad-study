@@ -1,0 +1,465 @@
+URL: https://www.airbnb.com/rooms/11094644
+Title: Victorian Bakery Apartment
+Latitude: 32.06747
+Longitude: -81.10162
+Privacy radius (meters): 152
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Debbie
+Host ID: 57613465
+Host profile ID: 1462737755921469013
+Host URL: https://www.airbnb.com/users/profile/1462737755921469013
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+The Space
+One Bedroom apartment suite Victorian/Savannah charmer  built is 1884 is located above Savannah Rum Runners Bakery and Café. Complimentary fresh baked items will be provided for your stay from our bakery. The apartment is walking distance to many areas of Savannah; Forsyth Park, Starland Yard, Bay Street, River Street, Enmarket Arena, and many of our historical places. You can stroll through many of the historical squares as you make your way around the city.
+
+The space
+The Space
+One Bedroom Victorian/Savannah charmer built in 1884, located above Savannah Rum Runners Bakery and Café. Our upper level row house apartment has been newly painted and furnished in a comfortable style, but still has the charm of a home built in 1884. The bedroom has a king-sized bed and there is a full-sized bathroom with shower. The living room has a queen sleeper sofa. Bedding for the sleeper sofa is located in the laundry area. Equipped kitchen and breakfast area. 
+Amenities include:
+Broadband Internet/Cable TV
+Keurig Coffee Maker
+Housewares
+Full Kitchen
+Microwave
+Washer and Dryer
+
+Guest access
+We offer competitive rates for overnight rentals, week to week rentals or short term, month to month rentals options. You can have safety, security, privacy and a convenient location for less than what it would cost you to rent a budget hotel room, and yet have a full home instead! Registered with city of Savannah Certificate #SVR-00517.
+
+Other things to note
+The bakery is open Wednesday - Friday from 9:00am - 2:00pm, Saturday 9:00am - 3:00pm.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV with standard cable
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Central air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Victorian Bakery Apartment
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+572 reviews
+572
+Reviews
+Hosted by Debbie
+Superhost · 11 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with historic squares and downtown dining within easy reach
+An 1884 apartment above a bakery
+Complimentary fresh-baked treats from the bakery downstairs greet you when you arrive
+Debbie goes above and beyond
+Guests consistently praise Debbie's warmth, local tips, and personal touches like surprise cakes
+The Space
+One Bedroom apartment suite Victorian/Savannah charmer  built is 1884 is located above Savannah Rum Runners Bakery and Café. Complimentary fresh baked items will be provided for your stay from our bakery. The apartment is walking distance to many areas of Savannah; Forsyth Park, Starland Yard, Bay Street, River Street, Enmarket Arena, and many of our historical places. You can stroll through many of the historical squares as you make your way around the city.
+
+The space
+The Space
+One Bedroom Victorian/Savannah charmer built in 1884, located above Savannah Rum Runners Bakery and Café. Our upper level row house apartment has been newly painted and furnished in a comfortable style, but still has the charm of a home built in 1884. The bedroom has a king-sized bed and there is a full-sized bathroom with shower. The living room has a queen sleeper sofa. Bedding for the sleeper sofa is located in the laundry area. Equipped kitchen and breakfast area. 
+Amenities include:
+Broadband Internet/Cable TV
+Keurig Coffee Maker
+Housewares
+Full Kitchen
+Microwave
+Washer and Dryer
+
+Guest access
+We offer competitive rates for overnight rentals, week to week rentals or short term, month to month rentals options. You can have safety, security, privacy and a convenient location for less than what it would cost you to rent a budget hotel room, and yet have a full home instead! Registered with city of Savannah Certificate #SVR-00517.
+
+Other things to note
+The bakery is open Wednesday - Friday from 9:00am - 2:00pm, Saturday 9:00am - 3:00pm.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Central air conditioning
+Pack ’n play/Travel crib
+Hair dryer
+Show all 36 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 572 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+197
+Hospitality
+340
+Parks
+57
+Comfort
+166
+Location
+266
+Cleanliness
+217
+Nearby
+127
+Parking
+72
+Sleep quality
+101
+Amenities
+63
+Michael
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We really enjoyed our visit and Debbie was very responsive and an amazing host!  We told her we were celebrating my wife’s birthday and she had a special cake waiting for us when we checked in. This place has a lot of extras that you don’t find in most AirBNB‘s and anything you could possibly need.   She also supplied coffee and the filtered water tank was an added bonus.   Very memorable stay and would definitely look to stay here again when we visit Savannah. The sound machine was nice to have and bed was super comfy!
+Show more
+Amy
+Morrisville, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Lovely and charming
+Victorian upstairs unit. Very clean, pictures were accurate. The king bed was plush and comfortable. Kitchen had a 5 galloon water dispenser which was great bc we were out playing pickle ball a lot. Lots of great restaurant choices. Pretty walkable for the day. I wouldn’t walk towards downtown at night but that’s every city for me. Debbie was very responsive and helpful. Would definitely recommend staying with her. :)
+Show more
+Alisha
+Manchester, Tennessee
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Debbie was a wonderful host. The Victorian apartment was so clean and smelled wonderful. We throughly enjoyed our treats and visiting the bakery. It is in a great location that was close to everything, and it thankfully was not in an overly busy area. Debbie gave wonderful recommendations that helped when planning our vacation. All of her recommendations were so helpful and restaurant recommendations were delicious. She was so kind, and we enjoyed meeting her! We loved our stay in Savannah and felt at home in Debbie’s apartment.
+Show more
+Bridget
+North Charleston, South Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+The apartment was a beautiful and cozy space, perfect for a weekend getaway. The host had great local recommendations and the apartment is extremely walkable to several of them.
+Show more
+Maeve Patricia
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+A fabulous and very spacious apartment. Very comfortable.
+Walkable to everywhere including the river frontage. Easy parking and electronic access made our stay a delight. 
+Savannah is beautiful and being based in the historic district was a wonderful experience.
+Show more
+Mark
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+The accommodation was in an excellent spot close to dozens of restraunts. Krogers Grocery store, and a beautiful park where I enjoyed a morning walk
+The place was spotless, comfortable bed, and had everything someone would need for one day or a 30 day stay.
+Mark from Florida
+Show more
+Show all 572 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+The neighborhood is full of friendly, helpful people, who for the most part leave you alone unless you want to get to know them. This is a changing neighborhood, and is safe, but as in any neighborhood, we ask that you take normal precautions. We suggest that if you are out walking at night, you should consider taking an Uber/Lyft or a pedicab to get you back to the apartment, as the squares and streets all start to look the same!
+Show more
+Meet your host
+Debbie
+Superhost
+572 reviews
+572
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+11 years of hosting
+11
+Years hosting
+Lives in Savannah, Georgia
+Debbie is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

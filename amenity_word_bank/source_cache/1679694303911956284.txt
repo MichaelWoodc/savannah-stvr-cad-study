@@ -1,0 +1,557 @@
+URL: https://www.airbnb.com/rooms/1679694303911956284
+Title: First Level Historic District Apt Walk Everywhere!
+Latitude: 32.0778
+Longitude: -81.0896
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Carlos & Marci
+Host ID: 74160592
+Host profile ID: 1462812072906481326
+Host URL: https://www.airbnb.com/users/profile/1462812072906481326
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+=== FULL DESCRIPTION ===
+Step into Southern charm at this beautifully curated 1924 condo on Oglethorpe Square, in the heart of Savannah's Historic District! Walk to River Street, Broughton St. shops & Forsyth Park.
+
+Highlights:
+
+- City living at its finest
+- Metered street parking
+- Comfy King bed
+- Fully equipped kitchen
+- Smart TV
+- Self check-in via smart lock
+- Steps to amazing restaurants & lively nightlife
+- Sound machine, earplugs, and eye masks for restful sleep
+- Pack 'n Play available
+ 
+Stay Here!
+
+The space
+SVR-03247
+
+Welcome to your perfect Savannah getaway! This beautifully curated one-bedroom condo is nestled inside the iconic Graham Building, built in 1924 and overlooking one of Savannah's most beloved squares, Oglethorpe Square. 
+
+The moment you step inside, you'll feel the warmth of nearly a century of Southern history blended seamlessly with thoughtful modern updates designed for today's traveler.
+
+This mid-century modern retreat offers the ideal balance of vintage character and contemporary comfort. Original architectural details have been lovingly preserved throughout, while fresh updates ensure you enjoy every modern convenience during your stay. Large windows flood the space with natural light and frame stunning views of the tree-lined square below, where you can watch the world go by from the comfort of your own living room.
+
+The spacious living area features a comfortable sofa, a smart TV with streaming apps, and a curated selection of reading materials - perfect for a cozy night in. 
+
+The separate bedroom is anchored by a plush king bed with premium linens, ample closet space and a large dresser so you can wind down in total comfort after a day exploring Savannah's cobblestone streets.
+
+The fully equipped kitchen has been thoughtfully updated with everything you need to prepare meals during your stay. An electric stove, oven, full-size refrigerator, microwave, Keurig coffee maker, toaster, blender, tea kettle, and a generous supply of cookware, dishes, and utensils make cooking a pleasure. 
+
+Enjoy your morning coffee at the kitchen dining bar while planning the day's adventures, or prepare a full dinner with fresh ingredients from nearby markets.
+
+The updated bathroom features an original cast-iron shower and tub combo with modern fixtures, stocked with complimentary shampoo, conditioner, body soap, and fresh towels. A hair dryer and iron are provided so you're always ready for dinner reservations or a night out on the town.
+
+Located directly on Oglethorpe Square, you are steps away from Savannah's finest dining, shopping, and nightlife. The famous Owens-Thomas House & Slave Quarters museum is right across the square. Walk two blocks to the Olde Pink House, stroll to Leopold's Ice Cream in under a minute, or explore Broughton Street's boutiques and galleries. River Street, Forsyth Park, City Market, and dozens of historic squares are all within an easy walk from your front door.
+
+Whether you're planning a romantic escape, a solo adventure, a girls' trip, or a relaxing business stay, this historic condo delivers the location, character, and comfort to make your Savannah visit truly unforgettable. 
+
+Professionally managed by Stay Here Property Management for a seamless, five-star experience from booking to checkout.
+
+*Note: The apartment is in a building with local residents and other short-term travelers.  Please keep noise to a minimum between 8pm and 8am as per city ordinance.  Parties and events are strictly prohibited.
+
+The original windows, combined with a busy city allow light and sound throughout the day.  We provide earplugs, face masks, and a sound machine to make up for this, but light sleepers might consider making adjustments to their sleep routine to adjust for these typical city-living conditions.
+
+Guest access
+Guests enter the building through a shared entrance and have full, exclusive access to the entire condo (apt 2) during their stay. The unit is on the first floor of the building, so besides the three short steps to the front entrance, there are no stairs to navigate to reach the apartment. 
+
+Check-in is contactless via smart lock, with your unique code delivered through the app's messaging interface on the day of your arrival, around 3 pm. 
+
+A digital guidebook packed with our favorite restaurant recommendations, activity suggestions, and local tips is provided to help you make the most of your Savannah experience.  You can find the digital guidebook in the Guest App.  The link to the Guest App is sent shortly after booking via the booking platform's messaging interface.
+
+*Note: The apartment is in a building with local residents and other short-term travelers.  Please keep noise to a minimum between 8pm and 8am as per city ordinance.  Parties and events are strictly prohibited.
+
+The original windows, combined with a busy city allow light and sound throughout the day.  We provide earplugs, face masks, and a sound machine to make up for this, but light sleepers might consider making adjustments to their sleep routine to adjust for these typical city-living conditions.
+
+Other things to note
+Guests enter the building through a shared entrance and have full, exclusive access to the entire condo (apt 2) during their stay. The unit is on the first floor of the building, so besides the three short steps to the front entrance, there are no stairs to navigate to reach the apartment. 
+
+Check-in is contactless via smart lock, with your unique code delivered through the app's messaging interface on the day of your arrival, around 3 pm. 
+
+A digital guidebook packed with our favorite restaurant recommendations, activity suggestions, and local tips is provided to help you make the most of your Savannah experience.  You can find the digital guidebook in the Guest App.  The link to the Guest App is sent shortly after booking via the booking platform's messaging interface.
+
+*Note: The apartment is in a building with local residents and other short-term travelers.  Please keep noise to a minimum between 8pm and 8am as per city ordinance.  Parties and events are strictly prohibited.
+
+The original windows, combined with a busy city allow light and sound throughout the day.  We provide earplugs, face masks, and a sound machine to make up for this, but light sleepers might consider making adjustments to their sleep routine to adjust for these typical city-living conditions.
+
+Please be aware that even though we spray for bugs on a quarterly basis, you might see palmetto bugs, wasps, and other insects during your stay.  They usually come out to die, but please do your best to keep them out of the house by keeping the windows and doors shut at all times, only bringing food items to the dining room, and keeping trash in the trash can.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Hair & Body shampoo
+Hair & Body conditioner
+Hair & Body body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In building
+Free dryer – In building
+Hangers
+Bed linens
+Cotton California Design linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+Ethernet connection
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+Window AC unit
+Portable heater
+Home safety
+Exterior security cameras on property
+This apartment is located in a condominium that has cameras on the access points and in the hallways. They are there for security purposes only. There are no cameras inside the apartment itself.
+Smoke alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+GE refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+GE stainless steel electric stove
+GE stainless steel single oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Laundromat nearby
+Parking and facilities
+Paid parking lot off premises
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Housekeeping available from 9:00 AM to 5:00 PM, every day - available at extra cost
+Not included
+Unavailable: Essentials
+Essentials
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+First Level Historic District Apt Walk Everywhere!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Rated 4.83 out of 5 stars.
+4.83
+·
+6 reviews
+Hosted by Carlos & Marci
+Superhost · 7 years hosting
+Listing highlights
+In Savannah's Historic District
+Right on Oglethorpe Square, with the Owens-Thomas House steps away and Telfair Museums about a 5-min walk
+Historic condo with period character
+A 1924 condo in the Graham Building with original details and a fully equipped kitchen
+Cozy, walkable, and well-reviewed
+Guests highlight the walkable location and describe the condo as cozy and comfortable
+Step into Southern charm at this beautifully curated 1924 condo on Oglethorpe Square, in the heart of Savannah's Historic District! Walk to River Street, Broughton St. shops & Forsyth Park.
+
+Highlights:
+
+- City living at its finest
+- Metered street parking
+- Comfy King bed
+- Fully equipped kitchen
+- Smart TV
+- Self check-in via smart lock
+- Steps to amazing restaurants & lively nightlife
+- Sound machine, earplugs, and eye masks for restful sleep
+- Pack 'n Play available
+ 
+Stay Here!
+
+The space
+SVR-03247
+
+Welcome to your perfect Savannah getaway! This beautifully curated one-bedroom condo is nestled inside the iconic Graham Building, built in 1924 and overlooking one of Savannah's most beloved squares, Oglethorpe Square. 
+
+The moment you step inside, you'll feel the warmth of nearly a century of Southern history blended seamlessly with thoughtful modern updates designed for today's traveler.
+
+This mid-century modern retreat offers the ideal balance of vintage character and contemporary comfort. Original architectural details have been lovingly preserved throughout, while fresh updates ensure you enjoy every modern convenience during your stay. Large windows flood the space with natural light and frame stunning views of the tree-lined square below, where you can watch the world go by from the comfort of your own living room.
+
+The spacious living area features a comfortable sofa, a smart TV with streaming apps, and a curated selection of reading materials - perfect for a cozy night in. 
+
+The separate bedroom is anchored by a plush king bed with premium linens, ample closet space and a large dresser so you can wind down in total comfort after a day exploring Savannah's cobblestone streets.
+
+The fully equipped kitchen has been thoughtfully updated with everything you need to prepare meals during your stay. An electric stove, oven, full-size refrigerator, microwave, Keurig coffee maker, toaster, blender, tea kettle, and a generous supply of cookware, dishes, and utensils make cooking a pleasure. 
+
+Enjoy your morning coffee at the kitchen dining bar while planning the day's adventures, or prepare a full dinner with fresh ingredients from nearby markets.
+
+The updated bathroom features an original cast-iron shower and tub combo with modern fixtures, stocked with complimentary shampoo, conditioner, body soap, and fresh towels. A hair dryer and iron are provided so you're always ready for dinner reservations or a night out on the town.
+
+Located directly on Oglethorpe Square, you are steps away from Savannah's finest dining, shopping, and nightlife. The famous Owens-Thomas House & Slave Quarters museum is right across the square. Walk two blocks to the Olde Pink House, stroll to Leopold's Ice Cream in under a minute, or explore Broughton Street's boutiques and galleries. River Street, Forsyth Park, City Market, and dozens of historic squares are all within an easy walk from your front door.
+
+Whether you're planning a romantic escape, a solo adventure, a girls' trip, or a relaxing business stay, this historic condo delivers the location, character, and comfort to make your Savannah visit truly unforgettable. 
+
+Professionally managed by Stay Here Property Management for a seamless, five-star experience from booking to checkout.
+
+*Note: The apartment is in a building with local residents and other short-term travelers.  Please keep noise to a minimum between 8pm and 8am as per city ordinance.  Parties and events are strictly prohibited.
+
+The original windows, combined with a busy city allow light and sound throughout the day.  We provide earplugs, face masks, and a sound machine to make up for this, but light sleepers might consider making adjustments to their sleep routine to adjust for these typical city-living conditions.
+
+Guest access
+Guests enter the building through a shared entrance and have full, exclusive access to the entire condo (apt 2) during their stay. The unit is on the first floor of the building, so besides the three short steps to the front entrance, there are no stairs to navigate to reach the apartment. 
+
+Check-in is contactless via smart lock, with your unique code delivered through the app's messaging interface on the day of your arrival, around 3 pm. 
+
+A digital guidebook packed with our favorite restaurant recommendations, activity suggestions, and local tips is provided to help you make the most of your Savannah experience.  You can find the digital guidebook in the Guest App.  The link to the Guest App is sent shortly after booking via the booking platform's messaging interface.
+
+*Note: The apartment is in a building with local residents and other short-term travelers.  Please keep noise to a minimum between 8pm and 8am as per city ordinance.  Parties and events are strictly prohibited.
+
+The original windows, combined with a busy city allow light and sound throughout the day.  We provide earplugs, face masks, and a sound machine to make up for this, but light sleepers might consider making adjustments to their sleep routine to adjust for these typical city-living conditions.
+
+Other things to note
+Guests enter the building through a shared entrance and have full, exclusive access to the entire condo (apt 2) during their stay. The unit is on the first floor of the building, so besides the three short steps to the front entrance, there are no stairs to navigate to reach the apartment. 
+
+Check-in is contactless via smart lock, with your unique code delivered through the app's messaging interface on the day of your arrival, around 3 pm. 
+
+A digital guidebook packed with our favorite restaurant recommendations, activity suggestions, and local tips is provided to help you make the most of your Savannah experience.  You can find the digital guidebook in the Guest App.  The link to the Guest App is sent shortly after booking via the booking platform's messaging interface.
+
+*Note: The apartment is in a building with local residents and other short-term travelers.  Please keep noise to a minimum between 8pm and 8am as per city ordinance.  Parties and events are strictly prohibited.
+
+The original windows, combined with a busy city allow light and sound throughout the day.  We provide earplugs, face masks, and a sound machine to make up for this, but light sleepers might consider making adjustments to their sleep routine to adjust for these typical city-living conditions.
+
+Please be aware that even though we spray for bugs on a quarterly basis, you might see palmetto bugs, wasps, and other insects during your stay.  They usually come out to die, but please do your best to keep them out of the house by keeping the windows and doors shut at all times, only bringing food items to the dining room, and keeping trash in the trash can.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+TV
+Free washer – In building
+Free dryer – In building
+Window AC unit
+Bathtub
+Pack ’n play/Travel crib - always at the listing
+Exterior security cameras on property
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.83 out of 5 stars from 6 reviews
+4.83 · 6 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 83% of reviews
+5
+4 stars, 17% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.5 out of 5 stars for communication
+Communication
+4.5
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.3 out of 5 stars for value
+Value
+4.3
+Guest reviews mention
+Walkability
+4
+Location
+4
+Indoor spaces
+3
+Nearby
+2
+Hospitality
+2
+May
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+The place was in such a great location. The place was very clean.
+Liz
+2 months on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This AirBnB was absolutely incredible. Located off of Oglethorpe Square, it perfectly captures the essence of Historic Savannah and is right around the corner to the river and the restaurants. Right next to iconic locations such as the Savannah Theatre, Leopold’s, etc. The actual AirBnB was so cute and quaint and a truly restful place to land. We will be back!
+Show more
+Tyler
+Charlotte, North Carolina
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+It was a great location with a ton to do within walking distance. The overall place is what you would expect with a historic property.
+Robin
+11 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed about a week
+We had a great time staying at Carlos and Marci's place off Oglethorpe Square.  It was a great location with plenty to do within walking distance and a fantastic quiet square right outside.  Quirky neighbors in a historic building added to the real Savannah experience.  We had a problem with the WiFi and Carlos was very responsive and figured out the issue the next day.
+Show more
+Rosemarie
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+I truly enjoyed my stay at this Airbnb and would absolutely stay here again if I visit Savannah in the future. There were plenty of restaurants, shops, and attractions within walking distance, which made exploring the area very convenient. The apartment was cozy, comfortable, and thoughtfully decorated. The hosts were friendly, responsive, and very helpful throughout my stay. Overall, this was a wonderful experience and definitely a 5/5 stay! ⭐⭐⭐⭐⭐
+Show more
+Lucas
+4 months on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Quaint, little apartment.Just what we expected , easy walking to everything had a wonderful time.
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Oglethorpe Square is one of Savannah's six original colonial squares, established in 1742, and remains one of the most coveted addresses in the Historic District.
+
+The condo sits inside the Graham Building, directly facing the square and adjacent to the famous Owens-Thomas House & Slave Quarters, one of the finest examples of English Regency architecture in America.
+
+You are genuinely in the heart of it all: Leopold's Ice Cream is half a block away, the Olde Pink House is two blocks, Broughton Street's boutiques and restaurants are a three-minute walk, City Market is about seven minutes on foot, and River Street is a 12-minute stroll.
+
+Forsyth Park and its iconic fountain are a pleasant 15-minute walk south through the squares. Nearby dining favorites include The Grey, The Olde Pink House, Mrs. Wilkes Dining Room, Husk Savannah, Zunzi's, and Treylor Park.
+
+Coffee lovers will enjoy The Coffee Fox, Gallery Espresso, and Blends. Colonial Park Cemetery, the Telfair Museums, the Jepson Center for the Arts, and the SCAD Museum of Art are all within a few blocks.
+Show more
+Meet your host
+Carlos & Marci
+Superhost
+1,562 reviews
+1562
+Reviews
+4.89 out of 5 average rating
+4.89
+Rating
+7 years of hosting
+7
+Years hosting
+Born in the 80s
+Where I went to school: UNC at Chapel Hill - Go Tar Heels!
+We are a family of four who love traveling, good food, and hosting on Airbnb. Our years of hosting have been nothing short of amazing. Our guests have come from all over the world and have brought joy and new experiences to our home. We are easy to reach and always available to address any questions or requests from our guests—we pride ourselves on providing the best and most personal customer service of all hosts in Savannah, GA.
+Carlos & Marci is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Exterior security cameras on property
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

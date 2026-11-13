@@ -1,0 +1,364 @@
+URL: https://www.airbnb.com/rooms/1737118120818860998
+Title: 3BR Newly Built | Patio | W/D | Central AC
+Latitude: 32.06572
+Longitude: -81.09171
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jess
+Host ID: 1737055280704963511
+Host profile ID: 1737055552195993224
+Host URL: https://www.airbnb.com/users/profile/1737055552195993224
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located in Savannah's Landmark Historic District, Price Street Place is a newly built, professionally decorated townhome just 4 blocks from Forsyth Park. Featuring 3 bedrooms, 2.5 bathrooms, and an open floor plan, this custom home boasts high-end finishes, hardwood flooring, a new kitchen with stainless steel appliances, off-street parking for 1 vehicle, and a private courtyard perfect for morning coffee
+
+You will never want to leave this beautiful welcoming home!
+
+The space
+Treat your family to an unforgettable escapade to the heart of Savannah's Historic District at this newly built and professionally decorated townhouse! Featuring gorgeous interior decor, an open floor plan for entertaining, high-end finishes throughout, all new kitchen with stainless steel appliances, and your very own private courtyard on the back of the home, Price Street Place will delight everyone in your group. The main living space is on the first floor of the home, where you'll find the living room, dining area, kitchen, laundry room, and a half bathroom. The living room offers a welcoming atmosphere that invites you all to sit down, relax, and enjoy an entertaining time with good company. Here you'll find a sleeper sofa with a queen-size pull out mattress, a large, wall-mounted flatscreen TV with cable, and two armchairs.
+
+
+
+Right next, the dining area is open and offers a gorgeous dining table that seats up to six lucky guests. The open concept, fully-equipped kitchen boasts beautiful granite countertops, custom cabinets, tile backsplash, stainless steel appliances, and a convenient breakfast bar with counter seating for three.
+
+
+
+All three bedrooms are located upstairs, along with two full bathrooms. The main bedroom offers a wall-mounted flatscreen TV and an ensuite full bathroom with elegant fixtures, dual sinks, and a walk-in shower. One of the guest bedrooms has a wall-mounted flatscreen TV–each of the TVs in the home comes equipped with a Roku streaming device.
+
+
+
+What's nearby:
+
+This delight of a home is conveniently located in Savannah's Landmark Historic District and just four blocks away from beautiful Forsyth Park. This park is simply ideal for outdoor activities including picnics, outdoor sports, walking, jogging, playing tennis at the free tennis courts, and so much more! You can stock up on fresh groceries and goodies at the Forsyth Farmer’s Market (one mile away). Located just two blocks away are a Kroger grocery store and Mate Factor, a great coffee shop, and bakery. Beachgoers can make the 18-mile trip to Tybee Island, Savannah's beach. This is a great place for fishing, visiting Ft. Pulaski, or climbing Georgia's oldest and tallest lighthouse.
+
+
+
+Things to know:
+
+High-speed internet and free WiFi, perfect for working from home, distance learning, and streaming.
+
+
+
+STVR Permit: SVR-00854
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Iron
+Entertainment
+Ethernet connection
+TV with standard cable
+Bowling alley
+Family
+Outlet covers
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+3BR Newly Built | Patio | W/D | Central AC
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+8 guests · 3 bedrooms · 3 beds · 2.5 baths
+New listing
+New
+·
+2 reviews
+Hosted by Jess
+1 month hosting
+Listing highlights
+In the Historic District near Forsyth Park
+About a 5-min walk to Forsyth Park and Whitefield Square, in Savannah's Landmark Historic District
+Private courtyard with parking
+A private courtyard out back and off-street parking, a real convenience in the Historic District
+Comfortable and walkable
+Both reviews praise the walkability and comfort, with one guest noting they never needed their car
+Located in Savannah's Landmark Historic District, Price Street Place is a newly built, professionally decorated townhome just 4 blocks from Forsyth Park. Featuring 3 bedrooms, 2.5 bathrooms, and an open floor plan, this custom home boasts high-end finishes, hardwood flooring, a new kitchen with stainless steel appliances, off-street parking for 1 vehicle, and a private courtyard perfect for morning coffee
+
+You will never want to leave this beautiful welcoming home!
+
+The space
+Treat your family to an unforgettable escapade to the heart of Savannah's Historic District at this newly built and professionally decorated townhouse! Featuring gorgeous interior decor, an open floor plan for entertaining, high-end finishes throughout, all new kitchen with stainless steel appliances, and your very own private courtyard on the back of the home, Price Street Place will delight everyone in your group. The main living space is on the first floor of the home, where you'll find the living room, dining area, kitchen, laundry room, and a half bathroom. The living room offers a welcoming atmosphere that invites you all to sit down, relax, and enjoy an entertaining time with good company. Here you'll find a sleeper sofa with a queen-size pull out mattress, a large, wall-mounted flatscreen TV with cable, and two armchairs.
+
+
+
+Right next, the dining area is open and offers a gorgeous dining table that seats up to six lucky guests. The open concept, fully-equipped kitchen boasts beautiful granite countertops, custom cabinets, tile backsplash, stainless steel appliances, and a convenient breakfast bar with counter seating for three.
+
+
+
+All three bedrooms are located upstairs, along with two full bathrooms. The main bedroom offers a wall-mounted flatscreen TV and an ensuite full bathroom with elegant fixtures, dual sinks, and a walk-in shower. One of the guest bedrooms has a wall-mounted flatscreen TV–each of the TVs in the home comes equipped with a Roku streaming device.
+
+
+
+What's nearby:
+
+This delight of a home is conveniently located in Savannah's Landmark Historic District and just four blocks away from beautiful Forsyth Park. This park is simply ideal for outdoor activities including picnics, outdoor sports, walking, jogging, playing tennis at the free tennis courts, and so much more! You can stock up on fresh groceries and goodies at the Forsyth Farmer’s Market (one mile away). Located just two blocks away are a Kroger grocery store and Mate Factor, a great coffee shop, and bakery. Beachgoers can make the 18-mile trip to Tybee Island, Savannah's beach. This is a great place for fishing, visiting Ft. Pulaski, or climbing Georgia's oldest and tallest lighthouse.
+
+
+
+Things to know:
+
+High-speed internet and free WiFi, perfect for working from home, distance learning, and streaming.
+
+
+
+STVR Permit: SVR-00854
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Hair dryer
+Show all 36 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+2 reviews
+New · 2 reviews
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Corey
+Tallahassee, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+great place. comfortable, clean, and walkable to wherever we needed. would book again!
+Show more
+Jason
+Virginia Beach, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Good place for the price. The place teeters on a questionable area, but one block away there is a nice neighborhood that continues all the way into Forsyth Park and into the historic area. The place looked fairly clean at first glance, but you can see that it could use a nice thorough clean at close inspection. We walked a lot from the home to our destinations so you can essentially park your car and never have to use it. Needs and sheets were great. I would stay here again.
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Jess
+Host
+17 reviews
+17
+Reviews
+4.59 out of 5 average rating
+4.59
+Rating
+1 month of hosting
+1
+Month hosting
+My work: Hospitality!
+Speaks English
+Our whole family is avid travelers, with us constantly bouncing around to visit family, friends, and places we love.
+Host details
+Response rate: 98%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Townhome vacation rentals in Georgia
+Townhome vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

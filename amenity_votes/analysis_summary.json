@@ -1,0 +1,19 @@
+{
+  "properties": 484,
+  "listings": 758,
+  "features": 26,
+  "unique_calls_in_neighborhoods": 1219,
+  "call_memberships": 1509,
+  "raw_feature_vote_memberships": 7852,
+  "residential_baseline_properties": 4806,
+  "date_start": "2024-01-01",
+  "date_end": "2026-10-16",
+  "parking_note": "* Parking uses 2024-01-01 to 2024-09-20 (0.723 years); later parking coverage is unavailable.",
+  "citizen_only": true,
+  "source_hashes": {
+    "direct_listing_calls/report_data.js": "0885dd885e7cb36201cd2ea6d82211e76e78dc7a009975cf47902879469e33f9",
+    "processed_data/full_period_calls/combined_calls.csv": "869fac0691566de1cbead0d6a2cd20b84da9da10a1641181c4333cbc2ca7ed94",
+    "neighborhood_occupancy_plots/all_direct_boundary_links.csv": "7c210ce97e5a4e6594d75fbcedb0bc13947ce26ec31ea277fcec5db41ed416c9",
+    "processed_data/listing_matches/source_match_audit.csv": "6687319bf6ca053b7715070889a2410b18469e16e7925bdfabb5d5af1abd08b6"
+  }
+}

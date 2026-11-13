@@ -1,0 +1,351 @@
+URL: https://www.airbnb.com/rooms/1627619180989449750
+Title: Pet-friendly Row Home in Victorian District
+Latitude: 32.0627
+Longitude: -81.1003
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Minutes from Forsyth Park, this charming single-story home blends classic Savannah architecture with modern comfort, offering the perfect retreat for families, couples, or small groups looking to experience the Hostess City like a local.
+
+The space
+Welcome to Barnard Row 1406 by Lucky Savannah, a beautifully renovated three-bedroom vacation rental in Savannah’s vibrant Victorian District–West neighborhood. Just minutes from Forsyth Park and the Historic District, this charming single-story home blends classic Savannah architecture with modern comfort, offering the perfect retreat for families, couples, or small groups looking to experience the Hostess City like a local.
+
+Step inside to find bright, thoughtfully designed interiors with updated furnishings and warm hardwood floors. The inviting living room is ideal for relaxing after a day exploring downtown Savannah, complete with comfortable seating and a Smart TV for cozy movie nights. The eat-in kitchen features stainless steel appliances, ample counter space, and a charming dining area perfect for morning coffee or shared meals before heading out to explore the city.
+
+Each of the three bedrooms is designed with comfort in mind, offering plush bedding, private TVs, and closet space for longer stays. The full bathroom includes a tub and shower combination, making it convenient for families or groups traveling together.
+
+Outside, enjoy your private backyard space with a gas grill — perfect for a relaxed evening cookout under Savannah’s live oaks. The home’s single-level layout makes it easy and comfortable for guests of all ages.
+
+Located in the Victorian District–West, Barnard Row 1406 places you in one of Savannah’s most desirable residential neighborhoods. You’re just a short walk or bike ride to Forsyth Park, home to the iconic fountain, Saturday Farmers Market, tennis courts, and year-round events. Stroll north into the Historic District to explore Savannah’s picturesque squares, River Street, City Market, and renowned restaurants like The Olde Pink House and Husk. Coffee shops, local boutiques, and neighborhood favorites are all within easy reach.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: King Bed
+Bedroom 3: King Bed
+
+What is parking like for this home?
+Guests will have access to one dedicated parking space directly behind the home. All other parking is on-street and non-metered.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-02790
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Pet-friendly Row Home in Victorian District
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 1 bath
+Rated 4.5 out of 5 stars.
+4.5
+·
+2 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park and its iconic fountain, farmers market, and shaded paths
+Private backyard with a gas grill
+A private backyard with a gas grill under Savannah's live oaks for evening cookouts
+Walkable and comfortable, per guests
+A recent guest called it a nice place for families, with an easy walk to Forsyth Park
+Minutes from Forsyth Park, this charming single-story home blends classic Savannah architecture with modern comfort, offering the perfect retreat for families, couples, or small groups looking to experience the Hostess City like a local.
+
+The space
+Welcome to Barnard Row 1406 by Lucky Savannah, a beautifully renovated three-bedroom vacation rental in Savannah’s vibrant Victorian District–West neighborhood. Just minutes from Forsyth Park and the Historic District, this charming single-story home blends classic Savannah architecture with modern comfort, offering the perfect retreat for families, couples, or small groups looking to experience the Hostess City like a local.
+
+Step inside to find bright, thoughtfully designed interiors with updated furnishings and warm hardwood floors. The inviting living room is ideal for relaxing after a day exploring downtown Savannah, complete with comfortable seating and a Smart TV for cozy movie nights. The eat-in kitchen features stainless steel appliances, ample counter space, and a charming dining area perfect for morning coffee or shared meals before heading out to explore the city.
+
+Each of the three bedrooms is designed with comfort in mind, offering plush bedding, private TVs, and closet space for longer stays. The full bathroom includes a tub and shower combination, making it convenient for families or groups traveling together.
+
+Outside, enjoy your private backyard space with a gas grill — perfect for a relaxed evening cookout under Savannah’s live oaks. The home’s single-level layout makes it easy and comfortable for guests of all ages.
+
+Located in the Victorian District–West, Barnard Row 1406 places you in one of Savannah’s most desirable residential neighborhoods. You’re just a short walk or bike ride to Forsyth Park, home to the iconic fountain, Saturday Farmers Market, tennis courts, and year-round events. Stroll north into the Historic District to explore Savannah’s picturesque squares, River Street, City Market, and renowned restaurants like The Olde Pink House and Husk. Coffee shops, local boutiques, and neighborhood favorites are all within easy reach.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: King Bed
+Bedroom 3: King Bed
+
+What is parking like for this home?
+Guests will have access to one dedicated parking space directly behind the home. All other parking is on-street and non-metered.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-02790
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Free parking on premises
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 32 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+2 reviews
+2 reviews
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Angela
+2 years on Airbnb
+Rating, 4 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Lucky has great customer service.
+Show more
+Beth
+San Diego, California
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Nice little place for families. walking distance to Forsyth park. Easy drive to downtown. Nice kitchen. Clean and comfortable.
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

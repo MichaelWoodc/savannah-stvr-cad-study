@@ -1,0 +1,327 @@
+URL: https://www.airbnb.com/rooms/1737118305896813493
+Title: Darling 3BR | Patio | Washer/Dryer
+Latitude: 32.06485
+Longitude: -81.09167
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jess
+Host ID: 1737055280704963511
+Host profile ID: 1737055552195993224
+Host URL: https://www.airbnb.com/users/profile/1737055552195993224
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Savannah Price Place
+
+The space
+Conveniently located within a short drive of downtown Savannah, this beautiful, air conditioned vacation rental features high-end amenities and rich decor. Visiting chefs will find everything they need in the well-equipped, full kitchen complete with stainless steel appliances and plenty of countertop prep space to make meal prep a breeze. Dine together at the kitchen island with counter seating for three or at the adjacent table for four - ideal for dinners, laptops, or family game nights. The sunny living area invites you to take a seat on one of two sofas and stream your favorite channels on the TV. And if you need a little fresh air, step out into the cozy, furnished patio complete with a gas grill. This home is also located within walking distance of parks, shops, and restaurants.
+
+
+
+Things to Know
+
+Double sofa bed included
+
+Pack-N-Play and high chair provided
+
+Streaming TV services require guest accounts to access
+
+
+
+STVR Permit: SVR-02417
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Entertainment
+Ethernet connection
+TV with standard cable
+Family
+Crib
+Pack ’n play/Travel crib
+High chair
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+BBQ grill
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Washer
+Washer
+Unavailable: Essentials
+Essentials
+Unavailable: Shampoo
+Shampoo
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Darling 3BR | Patio | Washer/Dryer
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 3 bedrooms · 3 beds · 2.5 baths
+New listing
+New
+·
+1 review
+Hosted by Jess
+1 month hosting
+Listing highlights
+In Savannah's Historic District
+Steps from King Tisdell Cottage, with Forsyth Park and Whitefield Square about a 5-min walk away
+Well-equipped kitchen with outdoor grill
+A full kitchen with stainless steel appliances, plenty of counter space, and a gas grill on the patio
+Free parking and flexible check-in
+Free parking and self check-in with a keypad, so arriving is easy no matter what time you get in
+Savannah Price Place
+
+The space
+Conveniently located within a short drive of downtown Savannah, this beautiful, air conditioned vacation rental features high-end amenities and rich decor. Visiting chefs will find everything they need in the well-equipped, full kitchen complete with stainless steel appliances and plenty of countertop prep space to make meal prep a breeze. Dine together at the kitchen island with counter seating for three or at the adjacent table for four - ideal for dinners, laptops, or family game nights. The sunny living area invites you to take a seat on one of two sofas and stream your favorite channels on the TV. And if you need a little fresh air, step out into the cozy, furnished patio complete with a gas grill. This home is also located within walking distance of parks, shops, and restaurants.
+
+
+
+Things to Know
+
+Double sofa bed included
+
+Pack-N-Play and high chair provided
+
+Streaming TV services require guest accounts to access
+
+
+
+STVR Permit: SVR-02417
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Air conditioning
+Patio or balcony
+Crib
+Pack ’n play/Travel crib
+High chair
+Show all 31 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+1 review
+New · 1 review
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Shelby
+Suwannee, Florida
+Rating, 4 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+The house was very clean and exactly what I wanted for 5 people. Most of everything was there. It was walking distance to Forsyth park and a Kroger, which was very nice! I’m not giving a 5 star because there was not a second roll of paper towels, no laundry detergent, and no flat pans for the oven. Jess responded very quickly but it did sound like AI for most but it wasn’t an issue. I had a great vacation besides the minor things missing. I would stay here again!
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Jess
+Host
+17 reviews
+17
+Reviews
+4.59 out of 5 average rating
+4.59
+Rating
+1 month of hosting
+1
+Month hosting
+My work: Hospitality!
+Speaks English
+Our whole family is avid travelers, with us constantly bouncing around to visit family, friends, and places we love.
+Host details
+Response rate: 98%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

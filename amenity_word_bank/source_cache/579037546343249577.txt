@@ -1,0 +1,439 @@
+URL: https://www.airbnb.com/rooms/579037546343249577
+Title: Spacious Luxurious Townhome - 2 Blocks to Forsyth!
+Latitude: 32.0682
+Longitude: -81.0986
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Treat yourself to a calm and peaceful stay in this charming yet incredibly spacious townhome! Located just two blocks from Forsyth Park and on a quiet, tree-lined street, this rental allows you to savor the best of Savannah’s historic district with class and tranquility. This is a prime location that's walking distance to all that Savannah has to offer...you won't want to miss out!
+
+SVR-02402
+
+The space
+On the top floor of this palatial residence, you’ll find an open floor layout and large bay windows that allow in plenty of sunlight throughout the day. The living room’s neutral green walls reflect back natural light, allowing for its guests to enjoy a warm and welcoming coffee date early morning or mid-afternoon. Come nightfall, you can take in the spacious living room for a cocktail with friends or share some laughs over a board game! A large, Victorian-style desk sits off to the right of the east side of the room, by its expansive windows, and offers a glass top for easy writing. It's the best place in the home to get some work done while also getting in your daily dose of Vitamin D. Sturdy, wooden floors uphold the townhome’s charming furniture which include a detailed, full body mirror, a 6-person dining table, and even a small chess area! A stunning chandelier located right above the dining table adds an extra touch of elegance to the space. 
+
+On the first level, you’ll find a roomy kitchen with plenty of cabinetry and stainless steel appliances for effortless baking and cooking. Its beige/brown granite countertops make for easy cleaning, cutting and weekly meal prepping. The kitchen also sports two lateral, double-pane windows, allowing in plenty of fresh air whenever necessary. A round table big enough for four sits off to the corner and leads into the hallway. There you’ll find a beautiful red velvet couch overlooking the stairway.
+
+Guest access
+The whole parlor level of the home is yours! We do offer access to the laundry room downstairs, where you'll find the washer/dryer side by side and is free for you to use! PLEASE NOTE - this is the only shared space in the home, where the unit downstairs (ground level) may access the laundry space also. Please be cognizant of noise levels when coming down to do laundry, so you do not disturb our other guests.
+
+Other things to note
+Just to reiterate - the space where the laundry room is downstairs, is shared with other guests in the downstairs unit. This is the only shared space in the house, and is separated be a secure door.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Central air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Spacious Luxurious Townhome - 2 Blocks to Forsyth!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 3 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+175 reviews
+175
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Historic District near Forsyth Park
+Steps from Forsyth Park, with Savannah's historic squares and restaurants within an easy walk
+Charming townhome with room to gather
+A spacious townhome with high ceilings, a 6-person dining table, and a well-stocked kitchen
+Beautifully decorated and comfortable
+Guests highlight the beautiful decor, comfortable beds, and how the space exceeded expectations
+Treat yourself to a calm and peaceful stay in this charming yet incredibly spacious townhome! Located just two blocks from Forsyth Park and on a quiet, tree-lined street, this rental allows you to savor the best of Savannah’s historic district with class and tranquility. This is a prime location that's walking distance to all that Savannah has to offer...you won't want to miss out!
+
+SVR-02402
+
+The space
+On the top floor of this palatial residence, you’ll find an open floor layout and large bay windows that allow in plenty of sunlight throughout the day. The living room’s neutral green walls reflect back natural light, allowing for its guests to enjoy a warm and welcoming coffee date early morning or mid-afternoon. Come nightfall, you can take in the spacious living room for a cocktail with friends or share some laughs over a board game! A large, Victorian-style desk sits off to the right of the east side of the room, by its expansive windows, and offers a glass top for easy writing. It's the best place in the home to get some work done while also getting in your daily dose of Vitamin D. Sturdy, wooden floors uphold the townhome’s charming furniture which include a detailed, full body mirror, a 6-person dining table, and even a small chess area! A stunning chandelier located right above the dining table adds an extra touch of elegance to the space. 
+
+On the first level, you’ll find a roomy kitchen with plenty of cabinetry and stainless steel appliances for effortless baking and cooking. Its beige/brown granite countertops make for easy cleaning, cutting and weekly meal prepping. The kitchen also sports two lateral, double-pane windows, allowing in plenty of fresh air whenever necessary. A round table big enough for four sits off to the corner and leads into the hallway. There you’ll find a beautiful red velvet couch overlooking the stairway.
+
+Guest access
+The whole parlor level of the home is yours! We do offer access to the laundry room downstairs, where you'll find the washer/dryer side by side and is free for you to use! PLEASE NOTE - this is the only shared space in the home, where the unit downstairs (ground level) may access the laundry space also. Please be cognizant of noise levels when coming down to do laundry, so you do not disturb our other guests.
+
+Other things to note
+Just to reiterate - the space where the laundry room is downstairs, is shared with other guests in the downstairs unit. This is the only shared space in the house, and is separated be a secure door.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Hair dryer
+Show all 36 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 175 reviews.
+4.98
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+63
+Decor
+61
+Location
+105
+Parks
+18
+Comfort
+44
+Indoor spaces
+40
+Hospitality
+63
+Cleanliness
+49
+Accuracy
+18
+Bathroom
+19
+Amy
+Huntington Beach, California
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Every room in this home is super unique and special. The thing we loved the best was the incredible location! We did have a few little questions here and there for the hosts and they responded super fast, which was great! What a fantastic stay!
+Show more
+Amanda
+Lubbock, Texas
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+The home was beautiful and exactly as pictured. Everything was clean and owners communicated quickly. Very close to Forsyth Park which was absolutely beautiful. We walked almost everywhere. Loved your home. Thank you!
+Show more
+Matthew
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+It is a great place with an excellent location.
+Erica
+Columbus, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+It is a beautiful house! The Master bathroom is absolutely amazing! The beds are so comfortable! The smoke alarm started beeping during our stay. They responded within minutes of messaging even, and they had the battery changed by the time we got back from our training. It was a very positive experience!
+Show more
+Caili
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Easy check in. Beautiful home. Great location.
+Kendall
+Starkville, Mississippi
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Truly can’t say enough great things! My girlfriends and I stayed here for my bachelorette weekend and had a wonderful experience. The space was just as beautiful as the photos, and even bigger than we expected! Hosts were responsive, kind, and helpful — highly recommend to all!!!!
+Show more
+Show all 175 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+We are in the heart of the Historic District and only 2 blocks from Forsyth...being nice and quiet at night and an easy walk to EVERY thing, you cannot beat this location! Though mostly residential, there are plenty of restaurants and shops only a couple of blocks away! If you're interested in renting a bike while you're here, Savannah on Wheels is just a block away! We are a short walk away to some of the best (and LOCAL!) places in town including Local 11ten, Betty Bombers, Sentient Bean, Brighter Day (Natural Foods), and of course Collins Quarter at Forsyth! Please ask us about all of our hand-picked local favorites and we are more than happy to recommend!!
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,353 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

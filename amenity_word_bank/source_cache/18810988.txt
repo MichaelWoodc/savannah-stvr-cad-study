@@ -1,0 +1,520 @@
+URL: https://www.airbnb.com/rooms/18810988
+Title: NEW Bright 2BR • 1 Block to Forsyth Park
+Latitude: 32.0644
+Longitude: -81.0948
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Ashley
+Host ID: 85848099
+Host profile ID: 1462838826826909290
+Host URL: https://www.airbnb.com/users/profile/1462838826826909290
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Stay just one block from Forsyth Park in a brand-new, thoughtfully designed 2-bedroom apartment in Savannah's Victorian District. Completed in August of 2026, the former property was rebuilt from the ground up. Same longtime host, same fantastic location, and an entirely new stay.  Apartment A combines the walkability of one of Savannah's favorite neighborhoods with the comfort of a new space.
+
+SVR-02345
+
+The space
+Welcome to Unit A —a brand-new, second-floor apartment designed to be an easy, comfortable home base for experiencing Savannah.
+
+SLEEP
+Two private bedrooms feature:
+
+Queen-size beds
+Blackout curtains
+Ceiling Fans
+Private closet
+45" television
+
+LIVING + DINING
+The open living area includes comfortable seating, a 55" television and dining space for four. Large windows overlook the neighborhood and make the apartment feel bright and airy.
+
+The living room features a full-size sleeper sofa, giving you extra flexibility for relaxing or accommodating different sleeping arrangements within your group.
+
+KITCHEN
+The kitchen includes a full-size refrigerator, dishwasher, microwave, two-burner electric cooktop, Keurig coffee maker, cookware, dishes and everyday essentials—everything you need for morning coffee, takeout nights or preparing a simple meal at home.
+
+BATH
+The modern bathroom features marble flooring, a spacious walk-in shower and built-in shelving with fresh towels and bath essentials.
+
+NEIGHBORHOOD
+
+Located in the Victorian District just one block from Forsyth Park, the apartment puts you between Savannah’s famous Historic District and the restaurants, coffee shops and creative energy of the Starland area. Step outside and explore on foot, or catch the nearby free DOT shuttle for an easy ride through downtown.
+
+You’ll have the comforts of a completely new space while staying in one of Savannah’s most character-filled, walkable neighborhoods.
+
+Guest access
+Enjoy easy, contactless check-in. An entry code will be sent to you the morning of your arrival and you are welcome to check in anytime after 3:00 pm. 
+
+Please note, the unit is located on the second floor of the building and we do not have an elevator.
+
+Other things to note
+Parking at this location is free, unmetered street parking.  There is no designated parking space.  Please be aware of the street sweeping signs!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Hot water
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Room-darkening shades
+Iron
+Clothing storage: closet
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Security cameras installed in common areas of building.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Washer
+Washer
+Unavailable: Dryer – In unit
+Dryer – In unit
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+NEW Bright 2BR • 1 Block to Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.8 out of 5 stars.
+4.8
+481 reviews
+481
+Reviews
+Hosted by Ashley
+Superhost · 10 years hosting
+Listing highlights
+In the Victorian District by Forsyth Park
+Steps from Forsyth Park, with the Historic District and Starland area both within walking distance
+Newly built apartment with a full kitchen
+A brand-new apartment completed in 2026, with a full kitchen, dining for four, and large windows
+Ashley is a responsive, helpful host
+Guests highlight how clean the space is and how helpful host Ashley is with recommendations
+Stay just one block from Forsyth Park in a brand-new, thoughtfully designed 2-bedroom apartment in Savannah's Victorian District. Completed in August of 2026, the former property was rebuilt from the ground up. Same longtime host, same fantastic location, and an entirely new stay.  Apartment A combines the walkability of one of Savannah's favorite neighborhoods with the comfort of a new space.
+
+SVR-02345
+
+The space
+Welcome to Unit A —a brand-new, second-floor apartment designed to be an easy, comfortable home base for experiencing Savannah.
+
+SLEEP
+Two private bedrooms feature:
+
+Queen-size beds
+Blackout curtains
+Ceiling Fans
+Private closet
+45" television
+
+LIVING + DINING
+The open living area includes comfortable seating, a 55" television and dining space for four. Large windows overlook the neighborhood and make the apartment feel bright and airy.
+
+The living room features a full-size sleeper sofa, giving you extra flexibility for relaxing or accommodating different sleeping arrangements within your group.
+
+KITCHEN
+The kitchen includes a full-size refrigerator, dishwasher, microwave, two-burner electric cooktop, Keurig coffee maker, cookware, dishes and everyday essentials—everything you need for morning coffee, takeout nights or preparing a simple meal at home.
+
+BATH
+The modern bathroom features marble flooring, a spacious walk-in shower and built-in shelving with fresh towels and bath essentials.
+
+NEIGHBORHOOD
+
+Located in the Victorian District just one block from Forsyth Park, the apartment puts you between Savannah’s famous Historic District and the restaurants, coffee shops and creative energy of the Starland area. Step outside and explore on foot, or catch the nearby free DOT shuttle for an easy ride through downtown.
+
+You’ll have the comforts of a completely new space while staying in one of Savannah’s most character-filled, walkable neighborhoods.
+
+Guest access
+Enjoy easy, contactless check-in. An entry code will be sent to you the morning of your arrival and you are welcome to check in anytime after 3:00 pm. 
+
+Please note, the unit is located on the second floor of the building and we do not have an elevator.
+
+Other things to note
+Parking at this location is free, unmetered street parking.  There is no designated parking space.  Please be aware of the street sweeping signs!
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV with standard cable
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Long term stays allowed
+Exterior security cameras on property
+Show all 38 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.8 out of 5 from 481 reviews.
+4.8
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 84% of reviews
+5
+4 stars, 13% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Parks
+57
+Location
+290
+Walkability
+170
+Hospitality
+150
+Cleanliness
+137
+Nearby
+123
+Parking
+69
+Comfort
+76
+Noise
+61
+Getting around
+88
+Jeffery
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+March 2025
+,
+·
+Stayed a few nights
+The place was great! 10/10 would stay again!
+Don
+Torrance, California
+Rating, 5 stars
+,
+·
+March 2025
+,
+·
+Stayed a few nights
+Great location near Forsythe park. Street parking was always available. One of the cleanest Airbnb’s I’ve ever stayed in. Great value!
+Sara
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+March 2025
+,
+·
+Stayed a few nights
+I booked this house specifically because it was on the Saint Patrick's Day parade route and it did not disappoint! 
+our anniversary is 3/17 so we wanted to be right in the heart of it all and it was amazing to see everything unfold from the window of the house. 
+ashley was so helpful with anything we needed before and during our stay. 
+highly recommend even if it's not Saint Patrick's day!
+Show more
+Aaron
+Austin, Texas
+Rating, 5 stars
+,
+·
+March 2025
+,
+·
+Stayed a few nights
+Great location to explore Savannah from! Parked the car and started walking the city. Right next to Forsyth Park which is an absolute gem!
+Lori
+St Petersburg, Florida
+Rating, 5 stars
+,
+·
+February 2025
+,
+·
+Stayed a few nights
+Very cute place with everything you need. Comfortable bed,  very easy to feel right at home. Be aware there is some street noise but the location is great, steps from Forsyth park and close to a convenient store as well. Would stay here again!
+Show more
+Susan
+8 years on Airbnb
+Rating, 4 stars
+,
+·
+March 2025
+,
+·
+Stayed a few nights
+If you’re a senior citizen, this might not be the place for you. The chairs were uncomfortable, but luckily the bed was very comfortable.
+Show all 481 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Late Air
+Restaurant
+Shuk
+Restaurant
+PW Short Mercantile
+Store
+Common Thread
+Restaurant
+Jepson Center for the Arts
+Museum
+The Olde Pink House
+Restaurant
+JW Marriott Savannah Plant Riverside District
+Hotel
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Suite is in victorian district of Savannah within walking distance to many conveniences.
+Show more
+Meet your host
+Ashley
+Superhost
+1,075 reviews
+1075
+Reviews
+4.84 out of 5 average rating
+4.84
+Rating
+10 years of hosting
+10
+Years hosting
+Speaks English and Spanish
+Lives in Savannah, Georgia
+Ashley is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 96%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

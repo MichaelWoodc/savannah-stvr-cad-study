@@ -1,0 +1,522 @@
+URL: https://www.airbnb.com/rooms/1220978200108275596
+Title: Private Enchanted Birdhouse on Forsyth Park
+Latitude: 32.06599
+Longitude: -81.09484
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Joey
+Host ID: 591516974
+Host profile ID: 1470615950971295296
+Host URL: https://www.airbnb.com/users/profile/1470615950971295296
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Stay steps from Savannah’s iconic Forsyth Park fountain in your own private historic carriage house. Tucked behind a classic Savannah home, this separate retreat blends Southern charm with modern comfort in a prime Historic District location.
+
+Start your morning with coffee in the courtyard, stroll the Saturday Farmers Market, and walk to top restaurants, wedding venues, and River Street — no car needed.
+SVR-03023
+
+The space
+Step into classic Savannah charm—right across the street from the iconic Forsyth Park. This thoughtfully preserved unit features original architectural details, including wood floors, windows, trim, and doors, offering an authentic taste of the city’s historic character.
+
+Enjoy peaceful walks through moss-covered oaks, explore local cafés, or simply relax in your cozy home base in one of Savannah’s most picturesque neighborhoods.
+
+★ BEDROOM ★
+
+Your private retreat after a day in the Historic District.
+🛌 Queen memory foam mattress with crisp, hotel-quality linens
+✨ Styled with bold accents and warm lighting for a cozy, boutique feel
+🧳 Space to unpack and settle in comfortably
+
+★ BONUS SLEEPING SPACE ★
+
+✔ Living room sofa converts to a full-size bed — ideal for an additional guest or two
+
+★ BATHROOM ★
+
+Fresh and modern with everything you need.
+🛁 Stand-up shower
+✔ Plush towels & essential toiletries provided
+
+
+★ Stay steps from Savannah’s iconic Forsyth Park fountain in your own private historic carriage house. Tucked behind a classic Savannah home, this separate retreat blends Southern charm with modern comfort in a prime Historic District location.
+
+Start your morning with coffee in the courtyard, stroll the Saturday Farmers Market, and walk to top restaurants, wedding venues, and River Street — no car needed.
+
+Guest access
+You will have the entire unit to yourselves
+
+Other things to note
+🐾 Pets
+
+Pets are welcome with pre-approval and an additional fee. Please message us in advance with details about your pet before booking.
+
+🚗 Parking
+
+Free street parking is available nearby. Please check posted street sweeping signs, as schedules vary by side of the street. While there is no dedicated on-site parking, guests typically find convenient spots within walking distance.
+
+For security purposes, there is an exterior camera monitoring the garden entrance/gate area. The camera is outward-facing and does not monitor any interior or private guest spaces.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Park view
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Bed linens
+Iron
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Smart lock
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Private Enchanted Birdhouse on Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+3 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.94 out of 5 stars.
+4.94
+78 reviews
+78
+Reviews
+Hosted by Joey
+Superhost · 2 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+Steps from Forsyth Park
+Steps from Forsyth Park, with the Saturday Farmers Market and restaurants all walkable.
+Historic carriage house with character
+A private carriage house with original wood floors, high ceilings, and a courtyard for morning coffee.
+Warm hosting and a spotless space
+Guests highlight Joey's local recommendations and how clean and cozy the space feels.
+Stay steps from Savannah’s iconic Forsyth Park fountain in your own private historic carriage house. Tucked behind a classic Savannah home, this separate retreat blends Southern charm with modern comfort in a prime Historic District location.
+
+Start your morning with coffee in the courtyard, stroll the Saturday Farmers Market, and walk to top restaurants, wedding venues, and River Street — no car needed.
+SVR-03023
+
+The space
+Step into classic Savannah charm—right across the street from the iconic Forsyth Park. This thoughtfully preserved unit features original architectural details, including wood floors, windows, trim, and doors, offering an authentic taste of the city’s historic character.
+
+Enjoy peaceful walks through moss-covered oaks, explore local cafés, or simply relax in your cozy home base in one of Savannah’s most picturesque neighborhoods.
+
+★ BEDROOM ★
+
+Your private retreat after a day in the Historic District.
+🛌 Queen memory foam mattress with crisp, hotel-quality linens
+✨ Styled with bold accents and warm lighting for a cozy, boutique feel
+🧳 Space to unpack and settle in comfortably
+
+★ BONUS SLEEPING SPACE ★
+
+✔ Living room sofa converts to a full-size bed — ideal for an additional guest or two
+
+★ BATHROOM ★
+
+Fresh and modern with everything you need.
+🛁 Stand-up shower
+✔ Plush towels & essential toiletries provided
+
+
+★ Stay steps from Savannah’s iconic Forsyth Park fountain in your own private historic carriage house. Tucked behind a classic Savannah home, this separate retreat blends Southern charm with modern comfort in a prime Historic District location.
+
+Start your morning with coffee in the courtyard, stroll the Saturday Farmers Market, and walk to top restaurants, wedding venues, and River Street — no car needed.
+
+Guest access
+You will have the entire unit to yourselves
+
+Other things to note
+🐾 Pets
+
+Pets are welcome with pre-approval and an additional fee. Please message us in advance with details about your pet before booking.
+
+🚗 Parking
+
+Free street parking is available nearby. Please check posted street sweeping signs, as schedules vary by side of the street. While there is no dedicated on-site parking, guests typically find convenient spots within walking distance.
+
+For security purposes, there is an exterior camera monitoring the garden entrance/gate area. The camera is outward-facing and does not monitor any interior or private guest spaces.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Park view
+Kitchen
+Wifi
+Free street parking
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Shared patio or balcony
+Show all 45 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.94 out of 5 from 78 reviews.
+4.94
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 94% of reviews
+5
+4 stars, 6% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Parks
+21
+Location
+56
+Walkability
+28
+Hospitality
+29
+Nearby
+16
+Comfort
+18
+Decor
+11
+Indoor spaces
+17
+Parking
+7
+Cleanliness
+14
+Meghan
+Clermont, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with a pet
+This was my second visit to Savannah and my husband’s 5th. We had a great time as always. This house was perfect. It was just the right size for 2 of us + our dog (a Frenchie,) and being right across from Forsyth Park was awesome for walks & going to the farmer’s market on Saturday. 
+We parked our car on the street when we checked in & didn’t have to move it once until checkout because the location is so walkable to everything. The house was very clean, and very cozy. The board games, robes and coffee w/flavors were a nice and unexpected touch. The furniture was all very comfortable and the AC worked so well (which is important for us, we like to be cool when we’re lounging and sleeping.) We would definitely stay here again.
+Show more
+Ashley
+New Smyrna Beach, Florida
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed a few nights
+We absolutely LOVED our stay here!! This Airbnb was seriously incredible — so cute, cozy, and beautifully decorated. I loved all of the artwork and little decor details throughout the space; it made it feel so unique and welcoming. The location was absolutely perfect, and being so close to the farmers market was such a bonus because it was SO cute! Everything about our stay was wonderful, and honestly, I couldn’t recommend this place more. Joey was also so friendly and made everything so easy from start to finish. We had the best time and would 100% stay here again! ❤️
+Show more
+Carrie
+Baltimore, Maryland
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Beautiful space in a fabulous location. So many things to walk to—great view of Forsyth Park. Would stay again!
+Show more
+Tim
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+3 days ago
+,
+·
+Stayed with a pet
+Great host, location was the best, beautiful place
+Show more
+Sylva
+New York, New York
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Joey was a great host and the carriage house was very charming and comfortable. I will be back
+Show more
+David
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Great stay and responsive host. Joey accommodated our TWICE without pushback.  Great location and the pictures don’t do the place justice. Just be wary of the street parking on Thursdays. We did receive a parking citation and weren’t sure where else to park our vehicle. That’s a city of Savannah thing not on the host. Worth the money. Would book again.
+Show more
+Show all 78 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Show more
+Meet your host
+Joey
+Superhost
+290 reviews
+290
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+2 years of hosting
+2
+Years hosting
+Joey is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Some spaces are shared
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Pet-friendly vacation rentals in Georgia
+Pet-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,449 @@
+URL: https://www.airbnb.com/rooms/1625424725869483000
+Title: Hunter's Knoll on Rainbow Row | Walk to Forsyth
+Latitude: 32.06689068974516
+Longitude: -81.09251114466676
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Experience Historic Savannah just steps from Forsyth Park at this spacious duplex retreat perfect for families, wedding groups, and friends. Combining both upper and lower units, it sleeps up to 8 with 2 full kitchens, multiple living areas, and private ensuite bedrooms. Walk to oak-lined squares, top restaurants, cafés, and boutiques from picturesque Lincoln Street. 
+SVR-02340 + SVR-02341
+
+The space
+This combined listing includes both the upper and lower residences, thoughtfully arranged for larger groups who want to stay together while still enjoying the comfort of separate living spaces.
+Upper Residence — Bright, Airy, and Spacious
+The upstairs level serves as the heart of Hunter’s Knoll, featuring abundant natural light throughout, enhanced by large windows that create an open, airy atmosphere across the main living areas. The spacious modern kitchen is beautifully designed with updated finishes, generous counter space, and full appliances — perfect for preparing group meals or gathering over coffee before exploring Savannah. The expansive living and dining areas feel bright and welcoming throughout the day, making this level ideal for relaxing, entertaining, and spending time together. Two comfortable bedrooms one king and one queen, each with private ensuite bathrooms, provide privacy while maintaining the home’s bright and elevated feel. There is a small futon that can be used in the middle living room.
+Lower Residence — Comfortable and Private
+The lower level offers a private one-bedroom suite with a queen bed, a comfortable living room featuring a queen sleeper sofa, a full kitchen, and its own lounge space — ideal for additional guests who appreciate a little extra separation while still being part of the overall group stay.
+Together, Hunter’s Knoll provides sun-filled gathering spaces upstairs, two full kitchens, multiple living areas, and flexible sleeping arrangements, creating the perfect blend of brightness, comfort, and convenience just steps from Forsyth Park.
+
+Guest access
+The entire home is setup for your use. We have two parking spaces in the rear parking lot dedicated for you. More details will be sent in the check-in instructions.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Hunter's Knoll on Rainbow Row | Walk to Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 3 bedrooms · 5 beds · 3.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+11 reviews
+11
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, with oak-lined squares and cafés right outside the door
+Duplex layout with two kitchens
+A duplex with two full kitchens, separate living areas upstairs and down, and two dedicated parking spots
+Responsive hosts, comfortable stay
+Guests highlight the comfortable beds, fully stocked kitchens, and how responsive Brandon and Chase are
+Experience Historic Savannah just steps from Forsyth Park at this spacious duplex retreat perfect for families, wedding groups, and friends. Combining both upper and lower units, it sleeps up to 8 with 2 full kitchens, multiple living areas, and private ensuite bedrooms. Walk to oak-lined squares, top restaurants, cafés, and boutiques from picturesque Lincoln Street. 
+SVR-02340 + SVR-02341
+
+The space
+This combined listing includes both the upper and lower residences, thoughtfully arranged for larger groups who want to stay together while still enjoying the comfort of separate living spaces.
+Upper Residence — Bright, Airy, and Spacious
+The upstairs level serves as the heart of Hunter’s Knoll, featuring abundant natural light throughout, enhanced by large windows that create an open, airy atmosphere across the main living areas. The spacious modern kitchen is beautifully designed with updated finishes, generous counter space, and full appliances — perfect for preparing group meals or gathering over coffee before exploring Savannah. The expansive living and dining areas feel bright and welcoming throughout the day, making this level ideal for relaxing, entertaining, and spending time together. Two comfortable bedrooms one king and one queen, each with private ensuite bathrooms, provide privacy while maintaining the home’s bright and elevated feel. There is a small futon that can be used in the middle living room.
+Lower Residence — Comfortable and Private
+The lower level offers a private one-bedroom suite with a queen bed, a comfortable living room featuring a queen sleeper sofa, a full kitchen, and its own lounge space — ideal for additional guests who appreciate a little extra separation while still being part of the overall group stay.
+Together, Hunter’s Knoll provides sun-filled gathering spaces upstairs, two full kitchens, multiple living areas, and flexible sleeping arrangements, creating the perfect blend of brightness, comfort, and convenience just steps from Forsyth Park.
+
+Guest access
+The entire home is setup for your use. We have two parking spaces in the rear parking lot dedicated for you. More details will be sent in the check-in instructions.
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Hair dryer
+Show all 46 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 11 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+7
+Parks
+3
+Hospitality
+6
+Nearby
+4
+Location
+5
+Layout
+2
+Comfort
+3
+Family
+2
+Amenities
+2
+Kitchen
+2
+Quincy
+Virginia Beach, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Great place, walkable to all the sights in Savannah. Off street parking is a bonus.
+Nicole
+Cameron, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+This Airbnb by far exceeded my expectations. Loved the amenities and the two separate units gave a private oasis during a family reunion. Brandon and chase were always responsive and friendly. I’ve already recommended this place to others and can’t wait to return.
+Show more
+Laura
+Florence, South Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+We loved this place!  It was close to parks and coffee shops that we visited every morning.  We felt very safe even at night time.  The place was very spacious and well laid out for our family.  We can’t wait to visit again soon.
+Show more
+Ruba
+Abu Dhabi, United Arab Emirates
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Comfortable setup, pretty walkable area with restaurants and a supermarket nearby if needed. Hosts were very responsive!
+Joey
+Savannah, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed about a week
+Really good location, house is great
+Victoria
+Dallas, Georgia
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+This was probably one of the best AirBnBs I’ve stayed at in a long time. The pictures were accurate to the listing and amenities, the beds were soooo comfy, there were plenty of towels and washcloths for everyone, and the kitchen was fully stocked. There were little things that most hosts don’t think about, like laundry detergent pods, shampoo and conditioner, and throw blankets. Brandon & Chase were super responsive, and made sure our stay was as positive as possible. 
+The location was great as well: safe, and close to everything. We walked almost everywhere, 5 minutes to the park and 20 down to River St. 
+If we ever go back, we’ll check to see if Brandon & Chase’s property is available, because we’d love to stay again!
+Show more
+Show all 11 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Located just a short stroll from the iconic Forsyth Park, Hunter’s Knoll places you in one of the most desirable and walkable areas of Savannah’s Historic District. Start your mornings with coffee or brunch at The Collins Quarter at Forsyth, located directly inside the park and known for its Australian-inspired café menu and scenic outdoor seating. Another neighborhood favorite, Clary’s Cafe, offers classic Southern breakfasts just minutes away, while guests looking for an elevated dining experience love the seasonal Southern cuisine at The Collins Quarter. For a true Savannah tradition, enjoy unforgettable Southern comfort food at Mrs. Wilkes' Dining Room, also nearby.
+Art, history, and culture are all within easy reach. Spend the afternoon exploring the renowned Telfair Museums, one of the oldest public art institutions in the South, or step into the city’s past at the Savannah History Museum. A short ride brings you to the lively waterfront along River Street and the vibrant shops, galleries, and entertainment venues of City Market.
+From peaceful morning walks beneath Savannah’s famous oak-lined squares to evenings dining at award-winning local restaurants, the surrounding neighborhood offers the perfect blend of historic charm, culinary experiences, cultural attractions, and effortless walkability — making Hunter’s Knoll an ideal home base for weddings, group getaways, SCAD visits, and unforgettable Savannah vacations.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,353 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

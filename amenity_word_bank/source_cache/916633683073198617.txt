@@ -1,0 +1,468 @@
+URL: https://www.airbnb.com/rooms/916633683073198617
+Title: Home on Duffy Upstairs Private Condo
+Latitude: 32.06313
+Longitude: -81.09348
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Madison
+Host ID: 483322612
+Host profile ID: 1470176230408821019
+Host URL: https://www.airbnb.com/users/profile/1470176230408821019
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Stay in a private apartment on the top floor of a Victorian house in Savannah's Victorian District, a 6-8 minute walk from Forsyth Park. It has a large living room, equipped kitchen, renovated bathroom, Roku TV, Wi-Fi, washer, dryer and original heart pine floors. Ideal for couples.
+
+STVR: SVR-03081
+
+City of Savannah STVR Certificate #: SVR-03081
+
+The space
+This one-bedroom apartment features a comfortable queen size bed and a closet in the bedroom. The sofa offers extra sleeping space, and a queen size inflatable mattress is stored in the chaise section of the sofa. You will also find extra bedding in the bedroom closet for your convenience.
+
+Guest access
+Guests have private access to the entire upstairs apartment, which includes the bedroom, bathroom, living room, fully equipped kitchen, and washer/dryer. The backyard is shared, although it is rare for multiple guests to be there at the same time. The host may occasionally access the courtyard to perform maintenance tasks or move supplies.
+
+Other things to note
+This is a private apartment on the top floor of a historic Victorian house. To access the apartment, guests must go up a flight of stairs once they are inside. The back yard is shared, but it is usually quiet and rarely used by multiple guests at the same time. There is free street parking in front of the property.
+
+The streets are cleaned on Monday and Thursday nights. Please pay close attention to the parking signs on the streets.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+50 inch HDTV with Roku
+Theme room
+A room or multiple spaces that are designed to follow the same theme
+Heating and cooling
+Central air conditioning
+Heating
+Home safety
+Exterior security cameras on property
+Patio
+Smoke alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Outdoor dining area
+Parking and facilities
+Free parking on premises
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Dryer
+Dryer
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+This place may not have a carbon monoxide detector. Reach out to the host with any questions.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Home on Duffy Upstairs Private Condo
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.9 out of 5 stars.
+4.9
+49 reviews
+49
+Reviews
+Hosted by Madison
+Superhost · 3 years hosting
+Listing highlights
+Near Forsyth Park in Savannah
+About a 5-min walk to Forsyth Park, with Whitefield Square and the Victorian Historic District nearby
+Full kitchen with modern appliances
+A full kitchen with an oven, dishwasher, and stove for cooking meals on your own terms
+Spotless and surprisingly spacious
+Guests highlight how clean and spacious the apartment feels, with high ceilings and big windows
+Some info has been automatically translated. Show original
+Stay in a private apartment on the top floor of a Victorian house in Savannah's Victorian District, a 6-8 minute walk from Forsyth Park. It has a large living room, equipped kitchen, renovated bathroom, Roku TV, Wi-Fi, washer, dryer and original heart pine floors. Ideal for couples.
+
+STVR: SVR-03081
+
+City of Savannah STVR Certificate #: SVR-03081
+
+The space
+This one-bedroom apartment features a comfortable queen size bed and a closet in the bedroom. The sofa offers extra sleeping space, and a queen size inflatable mattress is stored in the chaise section of the sofa. You will also find extra bedding in the bedroom closet for your convenience.
+
+Guest access
+Guests have private access to the entire upstairs apartment, which includes the bedroom, bathroom, living room, fully equipped kitchen, and washer/dryer. The backyard is shared, although it is rare for multiple guests to be there at the same time. The host may occasionally access the courtyard to perform maintenance tasks or move supplies.
+
+Other things to note
+This is a private apartment on the top floor of a historic Victorian house. To access the apartment, guests must go up a flight of stairs once they are inside. The back yard is shared, but it is usually quiet and rarely used by multiple guests at the same time. There is free street parking in front of the property.
+
+The streets are cleaned on Monday and Thursday nights. Please pay close attention to the parking signs on the streets.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Free parking on premises
+50 inch HDTV with Roku
+Free washer – In unit
+Central air conditioning
+Hair dryer
+Refrigerator
+Exterior security cameras on property
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 43 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.9 out of 5 from 49 reviews.
+4.9
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+21
+Cleanliness
+23
+Location
+24
+Parks
+5
+Parking
+8
+Comfort
+11
+Hospitality
+18
+Pets
+6
+Sleep quality
+6
+Nearby
+8
+Tore
+Minneapolis, Minnesota
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+We love staying in this part of Savannah and the place was perfect for my stay.  Both the bed and sofa were very comfortable which was great since I spent more time at the house than I had planned.  Well stocked kitchen.  Great unit and will definitely consider for future trips.
+Show more
+Nancy
+Atlantis, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Very comfortable and convenient!
+Michael
+6 months on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Very clean and neat. Only minutes from downtown and nice amenities.
+Jennifer
+Berlin, Maryland
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed with a pet
+We really enjoyed our stay at Madison's airbnb.  It was extremely clean and looked exactly as expected.  It's difficult to find pet friendly places, especially if not booking far in advance, and this was one of the nicest we've stayed in.  Big bonus - parking was plentiful right in front of the condo at all times!
+Show more
+Ludvyg
+Miramar, Florida
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed about a week
+Great stay, very clean apartment and the host was super friendly and attentive.
+Will recommend.
+Melanie
+St. Louis, Missouri
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed with a pet
+Loved the location! We were in town for St. Patrick’s and were just a couple of blocks from the parade, which was perfect. The home was very nice and had one of the most comfortable beds I’ve slept on. It had everything we needed and then some. We also walked to Traylor Park Pizza on the corner—so good! Thanks for having us—we’d definitely stay again.
+Show more
+Show all 49 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Duffy street is runs East and West and we are on the East side 3-4 blocks from Forsyth Park.
+Parking is free on the street, beware of sign for street sweeping on Thursday nights-Friday Morning and the opposite street on Mondays
+Show more
+Meet your host
+Madison
+Superhost
+49 reviews
+49
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+3 years of hosting
+3
+Years hosting
+Born in the 00s
+Where I went to school: Scad
+Textile Designer+ Artist based in Savannah, Ga
+Madison is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Mitchell
+Kimberly
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 1:00 AM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm not reported
+Exterior security cameras on property
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

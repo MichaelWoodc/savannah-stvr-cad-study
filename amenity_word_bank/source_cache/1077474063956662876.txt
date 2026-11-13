@@ -1,0 +1,485 @@
+URL: https://www.airbnb.com/rooms/1077474063956662876
+Title: Custom Carriage House on Quiet Lane | 1BR
+Latitude: 32.0635
+Longitude: -81.0936
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah & Michael
+Host ID: 118016613
+Host profile ID: 1468206481524282224
+Host URL: https://www.airbnb.com/users/profile/1468206481524282224
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Welcome to our chic urban retreat! Experience luxury in this brand-new, custom-designed carriage house featuring unique art (some by yours truly) and stylish furnishings. The off-street parking and lane location offer some hard-to-find privacy in the Victorian District. The high ceilings give an airy feel while you unwind on plush furniture and indulge in the modern amenities. Ideal for a romantic getaway and starting point to explore Savannah's charm!
+
+SVR 02919
+
+The space
+This one bedroom, one bathroom condo in the heart of the Victorian District truly captures the quintessential Savannah experience, where Southern charm meets modern luxury! 
+
+The bedroom features a king-sized bed made up with fresh, crisp white linens. The living room is the perfect space to sit back and relax! Stay connected with fast WiFi and enjoy entertainment on the flat-screen Smart TV.
+
+The bathroom features some fun tile work in a spa-like arrangement.
+
+The kitchen is fully stocked with all the amenities and is meticulously built to ensure you have all the modern conveniences of home. Brew up a fresh cup of coffee (or pour yourself a glass of wine after a long day of exploring) and even prepare a meal if you need a break from the awesome food scene!
+
+The art in the kitchen was a fun project for me, and I hope you love the result as much as I do!
+
+An off-street parking space right by your door is included, making your stay hassle-free.
+
+Guest access
+The entire carriage house is all yours!
+
+Other things to note
+If you are bringing a pet - please add them to your guest list.  The pet fee will then be included automatically.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+55 inch HDTV with standard cable
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+AC - split type ductless system
+Ceiling fan
+Heating - split type ductless system
+Home safety
+Exterior security cameras on property
+Security camera monitoring exterior for guest safety.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi – 48 Mbps
+Verified by speed test. Stream 4K videos and join video calls.
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Free street parking
+Single level home
+No stairs in home
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Custom Carriage House on Quiet Lane | 1BR
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+3 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.99 out of 5 stars.
+4.99
+235 reviews
+235
+Reviews
+Hosted by Sarah & Michael
+Superhost · 9 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with local favorites like Sentient Bean and Shuk nearby
+Free off-street parking included
+A dedicated off-street parking spot right at the door, a real convenience in Savannah
+Loved for comfort and hosting
+Guests highlight the comfortable bed, spotless space, and Sarah's thoughtful, responsive hosting
+Welcome to our chic urban retreat! Experience luxury in this brand-new, custom-designed carriage house featuring unique art (some by yours truly) and stylish furnishings. The off-street parking and lane location offer some hard-to-find privacy in the Victorian District. The high ceilings give an airy feel while you unwind on plush furniture and indulge in the modern amenities. Ideal for a romantic getaway and starting point to explore Savannah's charm!
+
+SVR 02919
+
+The space
+This one bedroom, one bathroom condo in the heart of the Victorian District truly captures the quintessential Savannah experience, where Southern charm meets modern luxury! 
+
+The bedroom features a king-sized bed made up with fresh, crisp white linens. The living room is the perfect space to sit back and relax! Stay connected with fast WiFi and enjoy entertainment on the flat-screen Smart TV.
+
+The bathroom features some fun tile work in a spa-like arrangement.
+
+The kitchen is fully stocked with all the amenities and is meticulously built to ensure you have all the modern conveniences of home. Brew up a fresh cup of coffee (or pour yourself a glass of wine after a long day of exploring) and even prepare a meal if you need a break from the awesome food scene!
+
+The art in the kitchen was a fun project for me, and I hope you love the result as much as I do!
+
+An off-street parking space right by your door is included, making your stay hassle-free.
+
+Guest access
+The entire carriage house is all yours!
+
+Other things to note
+If you are bringing a pet - please add them to your guest list.  The pet fee will then be included automatically.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi – 48 Mbps
+Dedicated workspace
+Free parking on premises
+Pets allowed
+55 inch HDTV with standard cable
+Free washer – In unit
+Free dryer – In unit
+AC - split type ductless system
+Exterior security cameras on property
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.99 out of 5 from 235 reviews.
+4.99
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 99% of reviews
+5
+4 stars, 1% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Parking
+53
+Walkability
+80
+Parks
+29
+Comfort
+83
+Location
+90
+Cleanliness
+93
+Hospitality
+92
+Sleep quality
+49
+Nearby
+52
+Decor
+42
+Jennifer
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We were in town for two nights and loved the artsy carriage house.  Great location- We walked to Bull street Tacos and Cotton & Rye for dinner.   Very comfortable bed and sofa for relaxing! 
+Would rent again.
+Show more
+Alicia
+Benton City, Washington
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Beautiful Airbnb! Well decorated and clean space. Location was great for all the adventures we had!
+Buddy
+Shellman Bluff, Georgia
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+This is a great find in Savannah. Easily walkable to everything around Forsyth Park and off-street parking to boot. The place is perfect for a couple; great kitchen, comfortable dining room and a king sized bed. Sarah and Michael's place will definitely be on our list in the future.
+Show more
+Stacey
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Sarah & Michael's place was perfect for our girlfriend meet-up weekend! The apartment is cozy, beautiful, perfectly-stocked. Sarah was extremely responsive, friendly, and professional. Finally, the location can't be beat! The Saturday morning Farmer's Market in Forsyth Park is a must-do, and we loved being able to walk to the park from their place.
+Show more
+Tonya
+Loudon, Tennessee
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+This is the second time we have stayed at Sarah and Michael’s. It is in a perfect location and great for my fur baby. We walk everywhere and the local restaurants are so good, Strange Bird, Black Rabbit and so many more.
+Show more
+Jaye
+Gulf Shores, Alabama
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This was a great place to stay. Super cute and comfortable. I definitely recommend it.
+Show all 235 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+This brand new carriage house is located less just three blocks from Forsyth Park, where this is always something fun going on! From festivals to the Saturday Farmer's Market, to just walking the perimeter and enjoying the picturesque tree lined streets, we feel that we are situated in the perfect area for exploration and fun! Pizza Party, Das Box, Shuk, and Sentient Bean are steps away! We are also a scenic fifteen to twenty minute walk (or five minute Uber ride!) to the downtown area, including Broughton Street, City Market, River Street, and all 22 of Savannah's charmingly historic squares!
+Show more
+Meet your host
+Sarah & Michael
+Superhost
+1,558 reviews
+1558
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+9 years of hosting
+9
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! Sarah and Mike are so excited to host you in the adorable and historic bungalow, right in the heart of the bustling Victorian district. We absolutely LOVE our city and are happy to share our favorite restaurants, sightseeing spots, and more...just ask! Mike is a helicopter pilot in the United States Army and Sarah is a forensic psychologist. Sarah was also featured in the Summer 2017 issue of Airbnb Magazine! Send us a message or book with us if you want a gorgeous rental, full of modern amenities!
+Sarah & Michael is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

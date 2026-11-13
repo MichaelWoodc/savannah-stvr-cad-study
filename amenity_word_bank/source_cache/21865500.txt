@@ -1,0 +1,703 @@
+URL: https://www.airbnb.com/rooms/21865500
+Title: Heated Pool Access | 5*Clean | Flex Cancelation
+Latitude: 32.076
+Longitude: -81.0954
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+If you're planning to stay in Savannah vacation rentals on your trip to Savannah, then you'll likely want top notch amenities along with great locations giving you access to everything you want to see. That's why you need to book our vacation homes Savannah GA as we have a stunning selection of properties with excellent amenities and locations. Our Savannah Georgia vacation homes come in all sizes to accommodate nearly any party.
+
+The space
+One of our cozier Savannah vacation rentals with a great location overlooking Orleans Square, is a garden level property with the same name. It has two bedrooms and one bathroom and can sleep a total of four guests. Some of the fantastic amenities include private parking, a landscaped courtyard, a king size bed in one of the bedrooms, TVs throughout the home, dishwasher, and a recently remodeled interior. The other bedroom has two twin size beds. This setup makes it one of our ideal vacation homes Savannah GA for a small family, as the kids can share the twin room. The location is on the corner of West Perry and Barnard Streets and directly overlooks Orleans Square, which is one of Savannah's 22 historic squares and likely to be on your itinerary.
+
+
+
+All of our Savannah Georgia vacation homes are thoughtfully and tastefully decorated and furnished. This Orleans Square property is no exception and you'll walk into a handsomely nostalgic scene with dark wood accents, wood floor and exposed beams. The front room is comfortably appointed with lots of seating and a large flatscreen. The dining room offers wonderful ambiance with a table for four in a warmly lit room. The kitchen is a full kitchen with all necessary appliances and lots of room to work. The bedrooms include comfy beds, lamps and TVs. All linens and other necessities are included for bedrooms and bathrooms. As previously mentioned, the house looks directly out onto Orleans Square, so you can see it as well as walk to it.
+
+
+
+Since our Savannah vacation rentals put you in such prime locations, most of the time all you have to do is walk out your door to find something you'll want to see. With this one, Orleans Square is extremely close and near the Harper Fowlkes House and Savannah Civic Center. A short distance to the east and you'll find another square in Chippewa Square, and just south will bring you to Pulaski Square. Some nearby restaurants include the following:
+
+
+
+- Mellow Mushroom
+
+- Six Pence Pub
+
+- Soho South Cafe
+
+- The Public Kitchen and Bar
+
+
+
+Orleans Square is uniquely located close to a number of Savannah College of Art and Design (SCAD) facilities, and next door to the location of SCAD’s graduation ceremonies. Whether you are visiting SCAD, moving your child in or out of one of SCAD’s dormitories, attending parents weekend, or attending SCAD graduation, Orleans Square is in an ideal location, and can accommodate you and your family comfortably.
+
+
+
+Just north of this property are sites such as Oglethorpe House, the Telfair Museums, Jepson Center for the Arts and the Museum Store for both. Walking is one of the best ways to get around Savannah, but you can also use the Old Town Trolley Tour and Chatham Area Transit in the historic downtown. Here's a short list of must-see places to add to your itinerary:
+
+
+
+- Forsyth Park
+
+- River Street
+
+- Mercer-Williams House and Museum
+
+- Paula Deen Lady and Sons Restaurant
+
+- Cathedral of St. John the Baptist
+
+- City Market
+
+
+
+Our vacation homes Savannah GA not only give you great access to the downtown city of Savannah, but you will also be only 30 minutes from the charming island paradise of Tybee. If you have extra time on your stay, then this island makes a great day trip. You can spend some time on the beach, rent watercraft or surf equipment, or take a charter out to fish or watch dolphins. There are also historic sights to see like the Tybee Light Station and Museum and Fort Pulaski. The Tybee Marine Science Center is another fun activity for anyone interested in ecology, or if you have kids in your party. There are several different beaches on the island, including those facing the Atlantic and those facing the Savannah River. The north end beach even offers the opportunity to get a bit of both as you can watch maritime traffic come from the ocean into the Port of Savannah, which is one of the busiest ports in the country.
+
+
+
+When you stay in Savannah Georgia vacation homes, you may also have the opportunity to enjoy the special events and celebrations that happen throughout the year in Savannah and on Tybee Island. We can always provide you with an updated list, but the following are some examples:
+
+
+
+• Annual Martin Luther King, Jr. Day Celebration in January
+
+• Savannah Irish Festival in February
+
+• Mardi Gras Tybee in February
+
+• First Saturday on the River festival from March to December
+
+• Saint Patrick's Day in Savannah in March
+
+• Savannah Garden Expo in April
+
+• Savannah Seafood Festival in May
+
+• Tybee Island Beach Bum Parade in May
+
+• Fourth of July Fireworks on the Beach in July
+
+• Savannah Jazz Festival in September
+
+• Tybee Pirate Fest in October
+
+• Oktoberfest on the River in October
+
+• Taste of Savannah in November
+
+• Tybee Island Christmas Parade in December
+
+
+
+Book Savannah Georgia vacation homes with us to get hotel quality amenities along with some of the best locations in the city. Whether your party is big or small, we have an expansive selection of vacation homes Savannah GA to fit your plans. Make your choice of Savannah vacation rentals on our website or give us a call today.
+
+
+
+SVR-00846
+
+Guest access
+1 King Bed / 2 Twin Beds
+
+    1 Full Bath
+
+    TV's Throughout the Home
+
+    Dishwasher
+
+    Private Parking
+
+    Courtyard
+
+    Recently Remodeled
+
+    Great Location
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Pool
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Washer
+Washer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Heated Pool Access | 5*Clean | Flex Cancelation
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 1 bath
+Rated 4.66 out of 5 stars.
+4.66
+·
+107 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+Steps from Orleans Square
+Orleans Square is right outside, with Chippewa Square and SCAD about a 5-min walk away
+Private covered parking included
+A dedicated covered parking spot in a neighborhood where street parking is scarce
+A walkable home base for Savannah
+Guests highlight how walkable the location is, with many saying they barely used their car
+If you're planning to stay in Savannah vacation rentals on your trip to Savannah, then you'll likely want top notch amenities along with great locations giving you access to everything you want to see. That's why you need to book our vacation homes Savannah GA as we have a stunning selection of properties with excellent amenities and locations. Our Savannah Georgia vacation homes come in all sizes to accommodate nearly any party.
+
+The space
+One of our cozier Savannah vacation rentals with a great location overlooking Orleans Square, is a garden level property with the same name. It has two bedrooms and one bathroom and can sleep a total of four guests. Some of the fantastic amenities include private parking, a landscaped courtyard, a king size bed in one of the bedrooms, TVs throughout the home, dishwasher, and a recently remodeled interior. The other bedroom has two twin size beds. This setup makes it one of our ideal vacation homes Savannah GA for a small family, as the kids can share the twin room. The location is on the corner of West Perry and Barnard Streets and directly overlooks Orleans Square, which is one of Savannah's 22 historic squares and likely to be on your itinerary.
+
+
+
+All of our Savannah Georgia vacation homes are thoughtfully and tastefully decorated and furnished. This Orleans Square property is no exception and you'll walk into a handsomely nostalgic scene with dark wood accents, wood floor and exposed beams. The front room is comfortably appointed with lots of seating and a large flatscreen. The dining room offers wonderful ambiance with a table for four in a warmly lit room. The kitchen is a full kitchen with all necessary appliances and lots of room to work. The bedrooms include comfy beds, lamps and TVs. All linens and other necessities are included for bedrooms and bathrooms. As previously mentioned, the house looks directly out onto Orleans Square, so you can see it as well as walk to it.
+
+
+
+Since our Savannah vacation rentals put you in such prime locations, most of the time all you have to do is walk out your door to find something you'll want to see. With this one, Orleans Square is extremely close and near the Harper Fowlkes House and Savannah Civic Center. A short distance to the east and you'll find another square in Chippewa Square, and just south will bring you to Pulaski Square. Some nearby restaurants include the following:
+
+
+
+- Mellow Mushroom
+
+- Six Pence Pub
+
+- Soho South Cafe
+
+- The Public Kitchen and Bar
+
+
+
+Orleans Square is uniquely located close to a number of Savannah College of Art and Design (SCAD) facilities, and next door to the location of SCAD’s graduation ceremonies. Whether you are visiting SCAD, moving your child in or out of one of SCAD’s dormitories, attending parents weekend, or attending SCAD graduation, Orleans Square is in an ideal location, and can accommodate you and your family comfortably.
+
+
+
+Just north of this property are sites such as Oglethorpe House, the Telfair Museums, Jepson Center for the Arts and the Museum Store for both. Walking is one of the best ways to get around Savannah, but you can also use the Old Town Trolley Tour and Chatham Area Transit in the historic downtown. Here's a short list of must-see places to add to your itinerary:
+
+
+
+- Forsyth Park
+
+- River Street
+
+- Mercer-Williams House and Museum
+
+- Paula Deen Lady and Sons Restaurant
+
+- Cathedral of St. John the Baptist
+
+- City Market
+
+
+
+Our vacation homes Savannah GA not only give you great access to the downtown city of Savannah, but you will also be only 30 minutes from the charming island paradise of Tybee. If you have extra time on your stay, then this island makes a great day trip. You can spend some time on the beach, rent watercraft or surf equipment, or take a charter out to fish or watch dolphins. There are also historic sights to see like the Tybee Light Station and Museum and Fort Pulaski. The Tybee Marine Science Center is another fun activity for anyone interested in ecology, or if you have kids in your party. There are several different beaches on the island, including those facing the Atlantic and those facing the Savannah River. The north end beach even offers the opportunity to get a bit of both as you can watch maritime traffic come from the ocean into the Port of Savannah, which is one of the busiest ports in the country.
+
+
+
+When you stay in Savannah Georgia vacation homes, you may also have the opportunity to enjoy the special events and celebrations that happen throughout the year in Savannah and on Tybee Island. We can always provide you with an updated list, but the following are some examples:
+
+
+
+• Annual Martin Luther King, Jr. Day Celebration in January
+
+• Savannah Irish Festival in February
+
+• Mardi Gras Tybee in February
+
+• First Saturday on the River festival from March to December
+
+• Saint Patrick's Day in Savannah in March
+
+• Savannah Garden Expo in April
+
+• Savannah Seafood Festival in May
+
+• Tybee Island Beach Bum Parade in May
+
+• Fourth of July Fireworks on the Beach in July
+
+• Savannah Jazz Festival in September
+
+• Tybee Pirate Fest in October
+
+• Oktoberfest on the River in October
+
+• Taste of Savannah in November
+
+• Tybee Island Christmas Parade in December
+
+
+
+Book Savannah Georgia vacation homes with us to get hotel quality amenities along with some of the best locations in the city. Whether your party is big or small, we have an expansive selection of vacation homes Savannah GA to fit your plans. Make your choice of Savannah vacation rentals on our website or give us a call today.
+
+
+
+SVR-00846
+
+Guest access
+1 King Bed / 2 Twin Beds
+
+    1 Full Bath
+
+    TV's Throughout the Home
+
+    Dishwasher
+
+    Private Parking
+
+    Courtyard
+
+    Recently Remodeled
+
+    Great Location
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV with standard cable
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 45 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.66 out of 5 stars from 107 reviews
+4.66 · 107 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 74% of reviews
+5
+4 stars, 21% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Walkability
+49
+Location
+72
+Parking
+23
+Pool
+12
+Nearby
+22
+Accuracy
+15
+Beach
+3
+Parks
+3
+Noise
+16
+Hospitality
+21
+Robin
+Grove City, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Great place, perfect location, responsive host!
+Tyler
+3 months on Airbnb
+Rating, 2 stars
+,
+·
+July 2026
+,
+·
+Stayed about a week
+We paid 1100 for 7 days however it is really 5. Check in wasn't available until 4 pm and check out was at 10 am. We went 2 days without ac. The "heated pool" is 25 minutes away at a resort they also own condos in
+This wasn't an air B and B.
+It was a condo/time share rented out and mislead us completely.
+Show more
+Jodie
+Holts Summit, Missouri
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We loved the location! Pretty much everything was within walking distance. Savannah is a beautiful city with so much to do and see.
+Show more
+Jackson
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Great location! We stayed here for five days while I was going to a concert at Enmarket Arena and this bnb is perfect for easy exploration of what Savannah has to offer. Enmarket is about five minutes +/- away, and there are plenty of restaurants and bars within walking distance. Forsyth Park is just a short walk away as well. There is a very well preserved historic house museum on the same block that I would recommend checking out while you’re here. Overall this was a great first impression of the city, and I look forward to returning to Savannah in the near future.
+Show more
+Rebecca
+New Windsor, Maryland
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+An ideal location to explore Savannah.  Loved have morning coffee in Orleans Square which was right outside the door. The pool was as advertised and not near this stay. There was some noise from the street but not too disruptive. The covered parking was great. Would stay here again.
+Show more
+Patrick
+Bradenton, Florida
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+We had a great stay. Loved the location and the home was exactly what we expected. We will come again…
+Show all 107 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Jones West
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Beach house vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Vacation rentals with a pool in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

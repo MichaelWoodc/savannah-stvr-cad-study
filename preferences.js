@@ -1,4 +1,4 @@
-/* Opt-in, local map preferences. No listing data or call records are stored. */
+/* Local map preferences, enabled by the requested site-wide preference saving. No listing data or call records are stored. */
 (() => {
   'use strict';
   const CONSENT='stvr_study_consent_v1',STATE='stvr_study_state_v1';
@@ -9,7 +9,10 @@
     if(fileMode)try{localStorage.setItem(key,value);}catch{}
   }
   function remove(key){try{document.cookie=key+'=; Max-Age=0; Path=/; SameSite=Lax';localStorage.removeItem(key);}catch{}}
-  let consent=read(CONSENT),restoring=false,timer;
+  let consent=read(CONSENT)||'yes',restoring=false,timer;
+  if(!read(CONSENT))write(CONSENT,consent);
+  // Apply the user's request once; subsequent use of the map's opt-out still works.
+  if(read('stvr_preferences_requested_v1')!=='yes'){consent='yes';write(CONSENT,'yes');write('stvr_preferences_requested_v1','yes');}
   const banner=document.getElementById('cookie-consent');
   function save(){if(consent!=='yes'||restoring)return;const center=window.STVR_MAP.getCenter();write(STATE,JSON.stringify({version:1,filters:window.ListingScreen.getPreferences(),center:[center.lat,center.lng],zoom:window.STVR_MAP.getZoom(),ui:window.StudyUI.getPreferences()}));}
   function queueSave(){clearTimeout(timer);timer=setTimeout(save,200);}
@@ -21,7 +24,7 @@
   }
   banner.hidden=consent==='yes'||consent==='no';
   document.getElementById('accept-cookies').onclick=()=>{consent='yes';write(CONSENT,'yes');banner.hidden=true;save();};
-  document.getElementById('decline-cookies').onclick=()=>{consent='no';clearTimeout(timer);remove(STATE);write(CONSENT,'no');banner.hidden=true;};
+  document.getElementById('decline-cookies').onclick=()=>{consent='no';clearTimeout(timer);remove(STATE);remove('stvr_custom_presets_v1');write(CONSENT,'no');banner.hidden=true;};
   document.getElementById('cookie-settings').onclick=()=>{banner.hidden=false;document.getElementById('accept-cookies').focus();};
   window.addEventListener('stvr-ui-changed',queueSave);window.addEventListener('stvr-filters-changed',queueSave);window.STVR_MAP.on('moveend zoomend',queueSave);
   document.getElementById('search').addEventListener('input',queueSave);window.addEventListener('pagehide',save);

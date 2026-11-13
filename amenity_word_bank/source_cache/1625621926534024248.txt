@@ -1,0 +1,622 @@
+URL: https://www.airbnb.com/rooms/1625621926534024248
+Title: Charming Downtown Apartment | Heated Pool Access
+Latitude: 32.07613
+Longitude: -81.0912
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Haint & Porcelain is a one-bedroom retreat across from Colonial Park Cemetery in downtown Savannah. Soft blue tones, porcelain accents, antiques, and a queen canopy bed create an intimate, old-world atmosphere. Sleeps 4 with a sofa bed, full kitchen with island, walk-in shower, in-unit washer/dryer, and shared courtyard. Steps to Broughton Street.
+
+The space
+Haint & Porcelain A Romantic Retreat Across from Colonial Park Cemetery
+
+Haint & Porcelain is a romantic, ground-level retreat set directly across from Colonial Park Cemetery, where Savannah’s earliest stories rest just beyond your doorstep. Bathed in soft blue tones inspired by Southern haint traditions, the apartment is richly layered with porcelain, chinoiserie, antiques, and old-world detailing. Decorative molding, curated objects, and thoughtful styling create a space that feels intimate and storied, less like a rental and more like a hidden gem in the Historic District.
+
+
+
+Thoughtfully Designed Living Spaces
+
+The living room flows into a well-appointed kitchen anchored by a generous butcher-block island, ideal for slow mornings with coffee or relaxed evenings at home. The kitchen windows allow in gentle natural light and add to the cozy atmosphere of the space.
+
+
+
+Fully stocked with modern appliances, cookware, and essentials, the kitchen makes dining in easy and comfortable. A discreet washer and dryer are conveniently tucked just beyond the kitchen area for added convenience during longer stays.
+
+
+
+A Restful Private Sanctuary
+
+Toward the rear of the apartment, the bedroom offers a quiet retreat away from the street. A queen canopy bed dressed in soft, hotel-grade linens sits beneath warm lighting, creating an atmosphere that feels both indulgent and calming.
+
+
+
+The en-suite bathroom features a walk-in shower and marble vanity, offering a refined yet relaxed space to refresh after a day exploring the city.
+
+
+
+Location & Experience
+
+Step outside and you are immediately immersed in one of Savannah’s most atmospheric blocks. Evening ghost tours pass along the cemetery gates, Spanish moss drapes overhead, and history feels present in a way that is subtle and authentic. Just two short blocks away, the shops, dining, galleries, and energy of Broughton Street await. From morning pastries to late-night cocktails, everything you love about downtown Savannah is within easy walking distance.
+
+
+
+This is a place for romantics, history lovers, and those drawn to beauty with depth, a space where the past lingers softly and the present is meant to be savored.
+
+
+
+Parking Information
+
+On-street metered parking is available directly outside the home and throughout the neighborhood, enforced by the City of Savannah Monday–Saturday, 8am–8pm. Guests may pay via the ParkSavannah app, parking kiosks, or meters. Public garages and visitor parking passes are also available nearby. Please observe posted sweep-zone signage when parking.
+
+Guest access
+Occupancy: 4
+
+Living room with seating and smart TV
+
+Full kitchen
+
+Kitchen island with seating for 4
+
+Bedroom: Queen bed
+
+Additional sleeping space: Queen sofa bed in living room
+
+Full bathroom with tiled stand-up shower
+
+Washer/Dryer
+
+Secure keyless building entry
+
+Shared courtyard outdoor space
+
+Metered street parking nearby
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+SVR-00026
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Pool
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Charming Downtown Apartment | Heated Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.62 out of 5 stars.
+4.62
+·
+13 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Wright Square and Chippewa Square, with Broughton Street dining and shops two blocks away
+Well-equipped ground-level apartment
+A full kitchen with butcher-block island, in-unit washer and dryer, and a walk-in shower
+Walkable and full of character
+Guests highlight the walkability and the charming, well-styled decor throughout the space
+Haint & Porcelain is a one-bedroom retreat across from Colonial Park Cemetery in downtown Savannah. Soft blue tones, porcelain accents, antiques, and a queen canopy bed create an intimate, old-world atmosphere. Sleeps 4 with a sofa bed, full kitchen with island, walk-in shower, in-unit washer/dryer, and shared courtyard. Steps to Broughton Street.
+
+The space
+Haint & Porcelain A Romantic Retreat Across from Colonial Park Cemetery
+
+Haint & Porcelain is a romantic, ground-level retreat set directly across from Colonial Park Cemetery, where Savannah’s earliest stories rest just beyond your doorstep. Bathed in soft blue tones inspired by Southern haint traditions, the apartment is richly layered with porcelain, chinoiserie, antiques, and old-world detailing. Decorative molding, curated objects, and thoughtful styling create a space that feels intimate and storied, less like a rental and more like a hidden gem in the Historic District.
+
+
+
+Thoughtfully Designed Living Spaces
+
+The living room flows into a well-appointed kitchen anchored by a generous butcher-block island, ideal for slow mornings with coffee or relaxed evenings at home. The kitchen windows allow in gentle natural light and add to the cozy atmosphere of the space.
+
+
+
+Fully stocked with modern appliances, cookware, and essentials, the kitchen makes dining in easy and comfortable. A discreet washer and dryer are conveniently tucked just beyond the kitchen area for added convenience during longer stays.
+
+
+
+A Restful Private Sanctuary
+
+Toward the rear of the apartment, the bedroom offers a quiet retreat away from the street. A queen canopy bed dressed in soft, hotel-grade linens sits beneath warm lighting, creating an atmosphere that feels both indulgent and calming.
+
+
+
+The en-suite bathroom features a walk-in shower and marble vanity, offering a refined yet relaxed space to refresh after a day exploring the city.
+
+
+
+Location & Experience
+
+Step outside and you are immediately immersed in one of Savannah’s most atmospheric blocks. Evening ghost tours pass along the cemetery gates, Spanish moss drapes overhead, and history feels present in a way that is subtle and authentic. Just two short blocks away, the shops, dining, galleries, and energy of Broughton Street await. From morning pastries to late-night cocktails, everything you love about downtown Savannah is within easy walking distance.
+
+
+
+This is a place for romantics, history lovers, and those drawn to beauty with depth, a space where the past lingers softly and the present is meant to be savored.
+
+
+
+Parking Information
+
+On-street metered parking is available directly outside the home and throughout the neighborhood, enforced by the City of Savannah Monday–Saturday, 8am–8pm. Guests may pay via the ParkSavannah app, parking kiosks, or meters. Public garages and visitor parking passes are also available nearby. Please observe posted sweep-zone signage when parking.
+
+Guest access
+Occupancy: 4
+
+Living room with seating and smart TV
+
+Full kitchen
+
+Kitchen island with seating for 4
+
+Bedroom: Queen bed
+
+Additional sleeping space: Queen sofa bed in living room
+
+Full bathroom with tiled stand-up shower
+
+Washer/Dryer
+
+Secure keyless building entry
+
+Shared courtyard outdoor space
+
+Metered street parking nearby
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+SVR-00026
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pool
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Hair dryer
+Show all 44 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.62 out of 5 stars from 13 reviews
+4.62 · 13 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 77% of reviews
+5
+4 stars, 15% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 8% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Walkability
+7
+Parking
+5
+Location
+10
+Decor
+3
+Hospitality
+6
+Accuracy
+4
+Nearby
+3
+Comfort
+3
+TV
+2
+Indoor spaces
+2
+Susan
+Oak Creek, Colorado
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed about a week
+Great location and cute unit.  Worked great for my stay.  The only snag was having to constantly pay for the metered parking, there is an app but you have to stay on it.  I ended up with one ticket.  Everything in downtown Savannah was walkable distance so that was awesome.  Would stay again when visiting my son at SCAD.
+Show more
+Jennifer
+Pickerington, Ohio
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Haint & Porcelain was an excellent choice for our Savannah visit. The property is thoughtfully decorated and well-maintained, creating a comfortable and charming atmosphere. Its location is ideal, allowing us to easily walk throughout the Historic District and enjoy the city's restaurants, shops, and attractions. We also appreciated how easy it was to communicate with the rental company, and the prompt assistance provided by the after-hours staff. Overall, a great experience and a place we'd gladly return to.
+Show more
+Sarah
+St. Augustine, Florida
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Overall the apartment was nice. They didn’t provide basic items that most other AirBnB’s provide such as a couple of coffee pods, laundry detergent, condiments. The neighbors stomp around often and play music. The tv set up was slightly outdated. But other than that the apartment was nice in itself and was a great size for two of us. The location was great for walking to locations and there was street parking.
+Show more
+Asmeret
+Seattle, Washington
+Rating, 2 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+The location was great and easy to walk to places, also very quiet. However, there was a strong smell (musty/basement smell) that triggered my head to ache and my nose to stuff up. They were gracious to bring an air purifier but it was still difficult for me to stay comfortable in the unit during the night. I ended up leaving a day early and they were willing to refund for one night but I don’t believe I got the correct amount bc of cleaning fees. This was disappointing so just wanted to warn if someone has scent sensitivities, this may be due to humidity in homes located here, but don’t recommend this location if you have such sensitivities.
+Show more
+Rianna
+Spring Hill, Florida
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We enjoyed our stay!  Perfect little getaway for the two of us…. Parking was a bit much with having to make sure we parked at a meter and moved our car on street sweep night- but that’s the cost of the great location!
+Show more
+Jeff
+Raleigh, North Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+This was a really great little apartment in a perfect location, close to everything that downtown Savannah has to offer. We walked to everything and there were so many alternatives to choose from to have a great meal or to enjoy the beautiful sites in Savannah. I would definitely stay here again!
+Show more
+Show all 13 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Vacation rentals with a pool in Chatham County
+Apartment vacation rentals in Chatham County
+Vacation rentals with a pool in Georgia
+Apartment vacation rentals in Georgia
+Vacation rentals with a pool in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

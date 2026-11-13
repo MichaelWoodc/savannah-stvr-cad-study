@@ -1,0 +1,469 @@
+URL: https://www.airbnb.com/rooms/1113051406719642477
+Title: Welcoming Walk-Up in Landmark Historic District
+Latitude: 32.0713
+Longitude: -81.0964
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Farrell
+Host ID: 505817984
+Host profile ID: 1470273855656106441
+Host URL: https://www.airbnb.com/users/profile/1470273855656106441
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+=== FULL DESCRIPTION ===
+Our third-floor condo is perched in a gorgeous, historic, 1880 Savannah townhome, overlooking idyllic Monterey Square, steps from Forsyth Park. Featuring a darling kitchen with space at the bar for a quick bite, cozy and inviting living room (with pull-out sofa!), spacious bedroom with king sized bed and ensuite bathroom, and all the Southern, old-world charm you could wish for! The location is in the heart of the Landmark Historic District and is the perfect homebase for your stay!
+
+SVR-02736
+
+The space
+Welcome to our charming retreat in the heart of historic Savannah! Nestled within a beautifully restored 1880 rowhouse overlooking Monterey Square, our third-floor walk-up condo offers a truly immersive experience in one of the city's most iconic neighborhoods.
+
+As you ascend the stairs to our cozy abode, you'll be greeted by the original "floating" stairwell and the antique chandelier that adorns the front foyer. For us...it's those historic details that make the space so special! Once you've made your way up to the third floor, step inside and prepare to be transported back in time while still enjoying modern comforts.The living room serves as a welcoming space to relax and unwind. Sink into the sofa or have an extra comfy movie night with the pull-out portion while enjoying your favorite shows on the flat-screen TV. Stay connected with Wi-Fi, or simply admire the view of the majestic live oak trees adorned with Spanish moss from the large windows.
+
+Adjacent to the living area, you'll find our compact yet fully equipped kitchen. Despite its size, this culinary nook is mighty, boasting all the essentials you need to whip up a delicious meal. Pull up a seat at the bar seating for two and savor your creations while taking in the sights and sounds of the bustling streets below.
+
+Retreat to the spacious bedroom after a day of exploration. Drift off to sleep in the comfort of the king-sized mattress adorned with crisp white linens, ensuring a restful night's sleep. With ample storage space, you can unpack and make yourself at home during your stay. The en suite bathroom adds an extra touch of convenience, featuring all the necessities for your comfort.
+
+While our condo offers a truly immersive Savannah experience, it's important to note that it may not be suitable for guests with mobility issues due to the stairs. However, for those able to navigate the steps, the architectural details and historic charm make it well worth the climb!
+
+Located just around the corner from Forsyth Park and within walking distance of Savannah's top attractions, our condo is the perfect home base for your Savannah adventure. Whether you're strolling through the historic squares, indulging in southern cuisine at nearby restaurants, or simply soaking in the rich history and culture of this charming city, you're sure to create lasting memories during your stay. We can't wait to welcome you to our Savannah sanctuary and help you experience the magic of this historic city firsthand!
+
+Guest access
+The entire third-floor condo is all yours! It does have a private, coded entrance and is the only condo on the third floor of the building. This is a walk-up, so there will be other guests staying in the 2nd, 1st, and ground level condos.
+
+Other things to note
+Parking can be tricky in downtown Savannah! The parking options nearby are paid street parking, which can either be paid using the kiosks/meters, the Park Savannah App, or by purchasing a day pass from the city. We will share all the details regarding navigating parking with you upon booking! There are also some free parking options a few blocks away that we will also give you more info about!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Clothing storage
+Entertainment
+TV with standard cable
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Exterior security cameras on property
+We have one exterior security camera, located outside of the front door/main entrance to the building to ensure building security and guest safety.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Paid parking off premises
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Washer
+Washer
+Unavailable: Dryer
+Dryer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Welcoming Walk-Up in Landmark Historic District
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+3 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+151 reviews
+151
+Reviews
+Hosted by Farrell
+Superhost · 4 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Landmark Historic District
+Steps from Forsyth Park and Monterey Square, with historic squares and restaurants all within walking distance
+A charming third-floor historic condo
+An 1880 rowhouse with exposed brick, high ceilings, and an original floating stairwell
+Consistently praised across 50+ reviews
+Guests highlight the comfortable king bed, thoughtful welcome touches, and how walkable the location is
+Our third-floor condo is perched in a gorgeous, historic, 1880 Savannah townhome, overlooking idyllic Monterey Square, steps from Forsyth Park. Featuring a darling kitchen with space at the bar for a quick bite, cozy and inviting living room (with pull-out sofa!), spacious bedroom with king sized bed and ensuite bathroom, and all the Southern, old-world charm you could wish for! The location is in the heart of the Landmark Historic District and is the perfect homebase for your stay!
+
+SVR-02736
+
+The space
+Welcome to our charming retreat in the heart of historic Savannah! Nestled within a beautifully restored 1880 rowhouse overlooking Monterey Square, our third-floor walk-up condo offers a truly immersive experience in one of the city's most iconic neighborhoods.
+
+As you ascend the stairs to our cozy abode, you'll be greeted by the original "floating" stairwell and the antique chandelier that adorns the front foyer. For us...it's those historic details that make the space so special! Once you've made your way up to the third floor, step inside and prepare to be transported back in time while still enjoying modern comforts.The living room serves as a welcoming space to relax and unwind. Sink into the sofa or have an extra comfy movie night with the pull-out portion while enjoying your favorite shows on the flat-screen TV. Stay connected with Wi-Fi, or simply admire the view of the majestic live oak trees adorned with Spanish moss from the large windows.
+
+Adjacent to the living area, you'll find our compact yet fully equipped kitchen. Despite its size, this culinary nook is mighty, boasting all the essentials you need to whip up a delicious meal. Pull up a seat at the bar seating for two and savor your creations while taking in the sights and sounds of the bustling streets below.
+
+Retreat to the spacious bedroom after a day of exploration. Drift off to sleep in the comfort of the king-sized mattress adorned with crisp white linens, ensuring a restful night's sleep. With ample storage space, you can unpack and make yourself at home during your stay. The en suite bathroom adds an extra touch of convenience, featuring all the necessities for your comfort.
+
+While our condo offers a truly immersive Savannah experience, it's important to note that it may not be suitable for guests with mobility issues due to the stairs. However, for those able to navigate the steps, the architectural details and historic charm make it well worth the climb!
+
+Located just around the corner from Forsyth Park and within walking distance of Savannah's top attractions, our condo is the perfect home base for your Savannah adventure. Whether you're strolling through the historic squares, indulging in southern cuisine at nearby restaurants, or simply soaking in the rich history and culture of this charming city, you're sure to create lasting memories during your stay. We can't wait to welcome you to our Savannah sanctuary and help you experience the magic of this historic city firsthand!
+
+Guest access
+The entire third-floor condo is all yours! It does have a private, coded entrance and is the only condo on the third floor of the building. This is a walk-up, so there will be other guests staying in the 2nd, 1st, and ground level condos.
+
+Other things to note
+Parking can be tricky in downtown Savannah! The parking options nearby are paid street parking, which can either be paid using the kiosks/meters, the Park Savannah App, or by purchasing a day pass from the city. We will share all the details regarding navigating parking with you upon booking! There are also some free parking options a few blocks away that we will also give you more info about!
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Air conditioning
+Pack ’n play/Travel crib
+Hair dryer
+Refrigerator
+Microwave
+Exterior security cameras on property
+Show all 42 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 151 reviews.
+4.96
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Location
+98
+Walkability
+58
+Parking
+17
+Comfort
+45
+Parks
+9
+Decor
+24
+Nearby
+22
+Hospitality
+43
+Sleep quality
+29
+Accuracy
+28
+Veronica
+6 months on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+As a female solo traveler, I felt SO safe here! I had never been to Savannah before this and staying here made must-dos super accessible. I would absolutely book again!
+Rowan
+Greer, South Carolina
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We really enjoyed staying at this Airbnb! It is in a great location right by several squares and one block from Forsyth Park. The place looked just like the photos and was so comfy and cozy. We enjoyed being able to walk everywhere and when we did need to use the car we utilized the free parking that was close by during our stay. The complimentary snacks and wine were a nice touch that we really appreciated. We would stay here again next time we come to Savannah!
+Show more
+Andrew
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Place was super well decorated, quiet and comfortable. It is in a great location and perfect for a couple or a small family!
+Geraldine
+Port St. Lucie, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Absolutely darling place and perfect location. Walking distance to the most beautiful parks, coffee shops, restaurants and bars. It was a dreamy stay in the beautiful Savanah to say the least. The host was top notch responding to us quickly and was so helpful in giving us local recommendations to great places! Will be coming back with our son next time 🤗
+Show more
+Kayla
+Cherokee, Iowa
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Visited for the first time and it was amazing made me feel right at home! Everything was clean and I love that she doesn’t believe in chores on vacation but wanted to help a bit! Highly recommend this place and will stay again next time I visit!
+Show more
+Richard
+Gulfport, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+It's rare when it happens, but this place was even nicer than described. Beautiful apartment in a nice area. Roomy, nicely appointed and super comfortable. Parking was a little dicey but once 5:00 pm on Friday hit, it was easy. This was a great apartment and I highly recommend staying there.
+Show more
+Show all 151 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+We are located on one of Savannah's most gorgeous residential streets, just around the corner from the northern end of the incredible Forsyth Park, less than a block from the famous Mercer Williams House, and centrally tucked in the heart of the historic district! All of the awesome restaurants, parks, squares, history, and attractions are steps from your door! It's simply the perfect home base for all your Savannah explorations!
+Show more
+Meet your host
+Farrell
+Superhost
+2,740 reviews
+2740
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+4 years of hosting
+4
+Years hosting
+My work: Savannah Stays
+Speaks English
+Hi Y'all! I'm Farrell, and my husband Hemal and I are Savannah locals who love historic homes and want to share our beautiful city with the world! We take pride in our exceptional hospitality while creating a truly unique historic Savannah experience for our guests. Our good friend and Co-host Sarah are always nearby if you need us. Also, be sure to follow us at @SavannahStays for an insider glimpse!
+Farrell is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

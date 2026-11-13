@@ -1,0 +1,459 @@
+URL: https://www.airbnb.com/rooms/998754815789955540
+Title: Eleanor Loft, Quiet | Refreshing | Contemporary
+Latitude: 32.0733
+Longitude: -81.0954
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to the Eleanor Loft, ideally situated on Whitaker St., North of Forsyth Park and in the heart of Savannah’s best dining, pubs, and attractions. The apartment has been beautifully remodeled from top to bottom, featuring two bedrooms and one bathroom while preserving the historical touches. Boasting original hardwood floors, custom cabinets, high-end appliances, and more, you will have everything you need while visiting Savannah—steps from Pulaski and Madison Square.
+SVR-02418
+
+The space
+Located on the second floor of the beautiful Elanor apartments complex, the Eleanor Loft is a lovely and spacious retreat in the heart of the city.
+Enter the apartment to a long hallway that runs front to back of the unit. Along the right side of the apartment is an open-concept chef’s kitchen and living room, while the two bedrooms and shared bathroom run along the left side of the hallway.
+Stepping right into the well-appointed kitchen, you will immediately appreciate the custom cabinetry, tile work, and ample quartz countertops—new stainless-steel appliances, including a smart refrigerator cap off the beautiful kitchen. The kitchen provides everything you need to cook, including pots, pans, cooking utensils, dishware, and more. Find multiple small appliances, including a coffee maker and Keurig. Coffee provided.
+Flowing directly off the kitchen is a spacious den and dining space. The den features a comfortable oversized pull-out queen sofa, two sitting chairs, a custom-tiled fireplace, and a smart TV ready to stream your favorite shows. Large windows across the open space fill the room with abundant natural light.
+Across the hall, find the two bedrooms and shared bathroom. The primary suite features a new king-size mattress wrapped in fresh linens. Nightstands, a large dresser, and a closet provide ample storage space for extended stays. Find another smart TV above the custom-built fireplace.
+The second bedroom provides a new queen mattress with crisp linens. High ceilings and a large window make this smaller room live large.
+Finally, enjoy a perfectly renovated large bathroom with complete custom tile work, a hardwood vanity, and a low-entry shower. The bathroom has all the essentials, including toilet paper, towels, shampoo, body wash, and a hair dryer.
+
+Guest access
+The entire condo is for your use! You may use the pull-out sofa couch for kids, third-wheelers, or maybe for your snoring partner! :)
+We allow one (1) dog with a max weight of 50 pounds, no cats. The one-time pet fee for one dog is $100 and must be paid separately before checking in.
+
+Other things to note
+We allow one (1) dog, no cats. The one-time pet fee for one dog is $100 and must be paid separately before checking in. 
+No parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property.  
+Report all damaged property to the property owner immediately.
+Treat the studio with respect as if it were your property.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Central air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+GE electric stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Eleanor Loft, Quiet | Refreshing | Contemporary
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.94 out of 5 stars.
+4.94
+160 reviews
+160
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Historic District, between squares
+Pulaski and Madison Squares are about a minute's walk away, with Forsyth Park a few blocks south.
+Renovated condo with historic character
+A bright, open kitchen and living area with original hardwood floors and custom tile fireplaces.
+Spotlessly clean, per dozens of reviews
+Guests highlight how clean and well-maintained the space is, with many calling it one of their best stays.
+Welcome to the Eleanor Loft, ideally situated on Whitaker St., North of Forsyth Park and in the heart of Savannah’s best dining, pubs, and attractions. The apartment has been beautifully remodeled from top to bottom, featuring two bedrooms and one bathroom while preserving the historical touches. Boasting original hardwood floors, custom cabinets, high-end appliances, and more, you will have everything you need while visiting Savannah—steps from Pulaski and Madison Square.
+SVR-02418
+
+The space
+Located on the second floor of the beautiful Elanor apartments complex, the Eleanor Loft is a lovely and spacious retreat in the heart of the city.
+Enter the apartment to a long hallway that runs front to back of the unit. Along the right side of the apartment is an open-concept chef’s kitchen and living room, while the two bedrooms and shared bathroom run along the left side of the hallway.
+Stepping right into the well-appointed kitchen, you will immediately appreciate the custom cabinetry, tile work, and ample quartz countertops—new stainless-steel appliances, including a smart refrigerator cap off the beautiful kitchen. The kitchen provides everything you need to cook, including pots, pans, cooking utensils, dishware, and more. Find multiple small appliances, including a coffee maker and Keurig. Coffee provided.
+Flowing directly off the kitchen is a spacious den and dining space. The den features a comfortable oversized pull-out queen sofa, two sitting chairs, a custom-tiled fireplace, and a smart TV ready to stream your favorite shows. Large windows across the open space fill the room with abundant natural light.
+Across the hall, find the two bedrooms and shared bathroom. The primary suite features a new king-size mattress wrapped in fresh linens. Nightstands, a large dresser, and a closet provide ample storage space for extended stays. Find another smart TV above the custom-built fireplace.
+The second bedroom provides a new queen mattress with crisp linens. High ceilings and a large window make this smaller room live large.
+Finally, enjoy a perfectly renovated large bathroom with complete custom tile work, a hardwood vanity, and a low-entry shower. The bathroom has all the essentials, including toilet paper, towels, shampoo, body wash, and a hair dryer.
+
+Guest access
+The entire condo is for your use! You may use the pull-out sofa couch for kids, third-wheelers, or maybe for your snoring partner! :)
+We allow one (1) dog with a max weight of 50 pounds, no cats. The one-time pet fee for one dog is $100 and must be paid separately before checking in.
+
+Other things to note
+We allow one (1) dog, no cats. The one-time pet fee for one dog is $100 and must be paid separately before checking in. 
+No parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property.  
+Report all damaged property to the property owner immediately.
+Treat the studio with respect as if it were your property.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pets allowed
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Hair dryer
+Show all 33 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.94 out of 5 from 160 reviews.
+4.94
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 94% of reviews
+5
+4 stars, 6% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+75
+Location
+112
+Cleanliness
+67
+Comfort
+42
+Parking
+24
+Parks
+12
+Hospitality
+51
+Nearby
+41
+Pets
+12
+Accuracy
+22
+Cheryl
+Ball Ground, Georgia
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed with a pet
+We had the opportunity to stay here when my husband had a conference at a hotel close by.  We much prefer staying in an Airbnb with our dog when we travel so this was a perfect spot for us. We stay at a lot of places, and this is for sure one of the best.  The bed was so comfortable, everything was spotless and in great condition.  It was the perfect location to walk to all the restaurants and shops and attractions in historic Savannah.  You will not be disappointed if you choose this one!
+Show more
+Sarah-Lynne
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great rental, check in was easy, rental was clean, stylish, close to everything, or quick Uber to  River Street.  Would recommend or rent again if in town.
+Amy
+San Marcos, California
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Had a great stay. Super clean and comfortable. Great location, walk to Forsyth Park, shops and restaurants. Great coffee shop across the street.
+Daniel
+Gray Court, South Carolina
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with a pet
+Had such an incredible week in savannah, the home was absolutely perfect for the two of us and a pup. The home had such a good and beautiful location. Hosts were very helpful and responsive. We cannot wait to return and will definitely book the same place again.
+Show more
+Emery
+Pittsburgh, Pennsylvania
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We had a wonderful stay! The place was very nice, clean, and exactly as pictured. The location was perfect, especially traveling with two small children. We also really appreciated that it was stocked with just the right amount of essentials—towels, toilet paper, paper towels, and everything we needed for a long weekend. I was a little nervous about parking since there was no parking on our street, but we never had trouble finding a spot right around the corner. The street could be a little noisy at times, but it really didn’t bother us. Would definitely recommend!
+Show more
+Matteo
+New York, New York
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+The place was spacious and welcoming, in a great location. We had all we needed for our stay! Would definitely return!
+Show all 160 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Located just a seven-minute walk north of Forsyth Park, The Eleanor Loft puts you in the heart of Savannah. Enjoy your morning coffee from Savannah Coffee Roasters in Madison or Pulaski Square, one of Savannah’s many beautiful green spaces just steps from the apartment.
+Continue to explore all of the flavors Savannah has to offer, all just minutes from the apartment. Enjoy French-inspired dishes at Circa 1875, or grab a traditional southern dish at The Lady & Sons or Mrs. Wilkes's Dining Room. Crack a few oysters at Sorry Charlie’s Oyster Bar. Breakfast is easy and delicious by checking out Treylor Park Diner or the Little Duck Diner.
+Enjoy Savannah's incredible nightlife with a stop in the Crystal Beer Parlor Totally Awesome Bar, Jens’s and Friends, Moon River Brewing, and many more. Transport to London by stopping into Six Pence Pub, a British-inspired pub, or bring out your inner Irish with a stop into O’Connell’s Irish Pub.
+A trip to Savannah is complete with exploring a little of its historic colonial past. Fill your schedule by checking out the Telfair Academy, a beautiful art museum, or stroll through the Webb Military Museum. Relive the prohibition area by heading to the American Prohibition Museum. Don’t forget to grab a drink at their cocktail bar to celebrate freedom. Or fancy exploring Savannah’s ocean ties? Check out the Ships of the Sea Maritime Museum.
+Not enough time to walk all the sights of Savannah? Take it all in at once while riding or biking. We are just minutes from Old Town Trolley Tours of Savannah and Savannah Bike Tours. Check out the city’s skyline from the water by jumping on one of the Savannah Belle’s ferries, with multiple stops all along Savannah’s riverfront.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

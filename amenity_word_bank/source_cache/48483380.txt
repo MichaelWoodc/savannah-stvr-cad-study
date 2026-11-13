@@ -1,0 +1,465 @@
+URL: https://www.airbnb.com/rooms/48483380
+Title: Welcome toThe Billi Westbrook at Lincoln Plaza
+Latitude: 32.0777
+Longitude: -81.0889
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jon
+Host ID: 221216109
+Host profile ID: 1469168550447636994
+Host URL: https://www.airbnb.com/users/profile/1469168550447636994
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+This charming, FIRST-FLOOR apartment boasts the finest location in the downtown historic district within easy walking distance to everything Savannah has to offer and is just steps from the famous shopping street, Broughton Street, and an easy walk to River Street/Plant Riverside.   If shabby chic yet elegant and classy are your style than pack your bags and come on.  We have everything you'll need for your Savannah Adventure.  Park with ease with two parking decks right down the street.
+
+The space
+Back to hosting our wonderful home again for you as our guest after a two-year hiatus on another adventure and are thrilled to be back and look forward to having you in our home.  You won't be disappointed!
+
+NOISE DISCLAIMER:  Since this is a first floor apartment you get the advantage of being on the first floor; however, with that occasionally comes some noise from the apartment above of which we have no control over, AND, it's in the heart of the city so there are some street noises from time-to-time (like the clip-clop of the horse’s hooves and carriages and the occasional church bells), BUT we have noise machines in both bedrooms for those who may be light sleepers.
+
+Guest access
+You'll have the entire apartment to yourselves.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage: closet
+Entertainment
+TV with standard cable
+Books and reading material
+Family
+Pack ’n play/Travel crib - always at the listing
+Children’s books and toys
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Pocket wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: Nespresso, pour-over coffee
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Welcome toThe Billi Westbrook at Lincoln Plaza
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.99 out of 5 stars.
+4.99
+101 reviews
+101
+Reviews
+Hosted by Jon
+Superhost · 8 years hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+In Savannah's historic district
+Steps from Oglethorpe Square and Columbia Square, with River Street about a 5-min walk away
+Well-stocked kitchen with Nespresso
+A full kitchen with a dishwasher, Nespresso machine, and a dining table for meals in
+Jon goes above and beyond
+Guests highlight how responsive and attentive Jon is, with many returning for repeat stays
+This charming, FIRST-FLOOR apartment boasts the finest location in the downtown historic district within easy walking distance to everything Savannah has to offer and is just steps from the famous shopping street, Broughton Street, and an easy walk to River Street/Plant Riverside.   If shabby chic yet elegant and classy are your style than pack your bags and come on.  We have everything you'll need for your Savannah Adventure.  Park with ease with two parking decks right down the street.
+
+The space
+Back to hosting our wonderful home again for you as our guest after a two-year hiatus on another adventure and are thrilled to be back and look forward to having you in our home.  You won't be disappointed!
+
+NOISE DISCLAIMER:  Since this is a first floor apartment you get the advantage of being on the first floor; however, with that occasionally comes some noise from the apartment above of which we have no control over, AND, it's in the heart of the city so there are some street noises from time-to-time (like the clip-clop of the horse’s hooves and carriages and the occasional church bells), BUT we have noise machines in both bedrooms for those who may be light sleepers.
+
+Guest access
+You'll have the entire apartment to yourselves.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Bathtub
+Pack ’n play/Travel crib - always at the listing
+Children’s books and toys
+Show all 55 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.99 out of 5 from 101 reviews.
+4.99
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 99% of reviews
+5
+4 stars, 1% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+49
+Location
+82
+Hospitality
+64
+Cleanliness
+41
+Parking
+19
+Nearby
+18
+Comfort
+25
+Decor
+20
+River
+3
+Sleep quality
+12
+Shea
+Hartselle, Alabama
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We had a great stay! The location is absolutely perfect for touring the city. Jon's apartment is absolutely gorgeous and exactly as described. We would not hesitate when booking again.
+Show more
+Tim
+Dahlonega, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+I've been coming to Savannah regularly for four years and this is the best AirBnB I've stayed at. Very comfortable, squeaky clean, lot's of space, great location.
+Show more
+Astrid
+Guaynabo, Puerto Rico
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+This is my second time staying here.  I love how comfortable and cozy the apt is.  It has everything you need to feel like home.  Great restaurant and shops walking distance.  I will definitely stay here again im the future.
+Show more
+Laurie
+Dallas, Texas
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+We had a wonderful stay at Jon's place. It was clean, conveniently located, and well stocked with anything we could need. Jon was super communicative and responsive. We felt right at home and at ease. I would recommend the place to anyone who is looking for a comfortable and convenient stay in Savannah!
+Show more
+Lindsay
+Glen Dale, West Virginia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Amazing location and spotless on the inside!! Very walkable to the majority of all the historic district has to offer! Jon is super helpful with whatever questions you have and responds quickly. I would highly recommend this rental to anyone traveling to the historic district of Savannah!
+Show more
+Rachelle
+Cape Coral, Florida
+Rating, 5 stars
+,
+·
+April 2026
+Jon is a wonderful host!  His home is nicely furnished with beautiful decor.   It was so easy to relax and read on comfortable living room furniture.  Although we ate out for every meal, the kitchen is fully furnished with everything available to cook and dine in.  Plenty of premium coffee was provided, along with a variety of sweeteners and half and half.  The parking ramp was easy to find a block away and daily rates are reasonable.   Jon's home is centrally located so we could easily walk to all the squares/parks, shops and restaurants.  Thank you Jon!  We've already shared this information with friends and family.
+Show more
+Show all 101 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Hitch
+American restaurant
+Screamin' Mimi's
+Food and drink
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+This FIRST-FLOOR apartment is located within walking distances to many of the historic homes, buildings, parks, squares and many places of historical significance and interest. Broughton street is just steps away, literally, from the apartment, and it's an easy walk to River Street and the newly acclaimed, Plant Riverside District Entertainment Center, with Forsythe Park being a little further of a walk. Situated between Oglethorpe Square and Columbia Square with Lincoln Street Parking Garage and State Street Parking Garage right down the street. Over 100 restaurants and eateries to choose from and walk to most any of them. Park your car when you arrive and never drive anywhere until you're ready to head home. BE SURE AND CLICK ON THE SHOW MORE TAB BELOW TO SEE OUR GUEST GUIDEBOOK LISTING OR FAVORITES AND SOME GOOD INFORMATION
+
+
+SVR-03084
+Show more
+Meet your host
+Jon
+Superhost
+125 reviews
+125
+Reviews
+4.98 out of 5 average rating
+4.98
+Rating
+8 years of hosting
+8
+Years hosting
+Jon is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+No parking on property
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

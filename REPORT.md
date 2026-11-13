@@ -1,5 +1,7 @@
 # SAVANNAH: STVR & CAD STUDY
 
+> Listing-match correction, October 28, 2026: historical folder-derived permit joins were withdrawn. Active listing joins now require an SVR certificate in the source details and no contradictory displayed location. The current verified cohort is 758 listings across 484 covered parcels. Unverified or contradictory joins are quarantined in processed_data/listing_matches/. The original input join table is preserved there for audit. Earlier listing-based counts, rankings and amenity conclusions are superseded by the rebuilt outputs; call-record-to-parcel joins are unchanged.
+
 ## Listings, Capacity, & Calls
 
 [Open the map](index.html). This document describes the published application. The linked CSV exports document their own measure and denominator fields; older raw exports can use the all-retained-call basis rather than the current citizen-only default.
@@ -43,7 +45,7 @@ Default 59%, adjustable from 1% to 100%, sourced to [AirDNA Savannah](https://ww
 
 ## Listing screening and location safeguards
 
-4,372 local details files were screened; 925 listing rows match 561 eligible licensed residential parcels after location exclusions. 167 listings on 125 parcels advertise above the matched license allowance. These are screening flags, not proven violations or observed occupancy.
+4,372 local details files were screened; 758 source-supported listing rows match 484 eligible residential parcels after location exclusions. 103 listings advertise above their source-matched license allowance. These are screening flags, not proven violations or observed occupancy.
 
 Tybee-location rentals are excluded before Savannah permit matching, because permit identifiers can overlap across jurisdictions. The location check uses the official Tybee Island polygon with a 500 m coastal/privacy buffer for approximate displayed Airbnb coordinates; explicit Tybee location labels are used when coordinates are absent. Host company names and incidental mentions of Tybee are not exclusion rules. [Excluded Tybee listing audit](excluded_tybee_listings.csv) preserves rejected candidate joins without making them active Savannah matches.
 

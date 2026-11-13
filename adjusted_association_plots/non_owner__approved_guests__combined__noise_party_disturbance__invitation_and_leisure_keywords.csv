@@ -1,0 +1,9 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr,status
+non_owner,approved_guests,combined,Noise-party-disturbance,keyword_bachelorette,Bachelorette events,keywords,423,132,10,413,4,128,0.8757705807468549,0.2863275423616788,2.6786599143608365,0.8161019744630218,0.9173195268290364,
+non_owner,approved_guests,combined,Noise-party-disturbance,keyword_wedding,Wedding events,keywords,423,132,20,403,10,122,1.2210098079025935,0.4779791815005767,3.1191001798736906,0.6764607761890623,0.866780015973141,
+non_owner,approved_guests,combined,Noise-party-disturbance,keyword_swimming_pool,Swimming Pool,keywords,423,132,88,335,51,81,3.014420123632091,1.4411047984266303,6.305390622305066,0.0033845070020414,0.0603450397385265,
+non_owner,approved_guests,combined,Noise-party-disturbance,keyword_hot_tub,Hot Tub,keywords,423,132,20,403,18,114,3.727095883875777,1.8936338585121184,7.335760112843833,0.0001399982302278,0.0090245013023795,
+non_owner,approved_guests,combined,Noise-party-disturbance,keyword_bachelor,Bachelor events,keywords,423,132,4,419,1,131,,,,,,insufficient support
+non_owner,approved_guests,combined,Noise-party-disturbance,keyword_engagement,Engagement events,keywords,423,132,0,423,0,132,,,,,,insufficient support
+non_owner,approved_guests,combined,Noise-party-disturbance,keyword_jacuzzi,Jacuzzi,keywords,423,132,9,414,5,127,,,,,,insufficient support
+non_owner,approved_guests,combined,Noise-party-disturbance,keyword_pool_table,Pool Table,keywords,423,132,0,423,0,132,,,,,,insufficient support

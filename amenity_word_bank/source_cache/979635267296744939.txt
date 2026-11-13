@@ -1,0 +1,459 @@
+URL: https://www.airbnb.com/rooms/979635267296744939
+Title: Historic 1800's Condo, Forsyth | Dog-Friendly!
+Latitude: 32.064
+Longitude: -81.0937
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to Park Place, a beautifully restored 1800s one-bedroom, one-bathroom  pet-friendly condo in the heart of downtown Savannah. This second-floor condo is perfect for four guests ready to explore, featuring beautiful original hardwood floors, a comfortable king mattress, a pull-out sofa, and a private balcony. Just a five-minute walk to Forsyth Park and surrounded by incredible dining, attractions, and adventures.
+
+SVR-02424
+
+The space
+Originally built in 1880, Park Place has been freshly remodeled to include all the modern amenities you desire while preserving the historic colonial feel that attracts many to downtown Savannah.
+Enter the home through the second-floor entrance and enter a spacious open concept connecting the living room, kitchen, and dining spaces. In the living room, find a comfortable pull-out sofa, sitting chairs, and a smart TV ready to stream your favorite shows.
+Directly off the living room, find the fully appointed kitchen with a full appliances package, pots, pans, cooking utensils, small appliances, and dishware. A peninsula island provides two bar-height stools, and a small dining table offers two bar stools.
+Open the back door to your private balcony with comfortable patio furniture—an excellent place to enjoy your morning coffee or watch the sunset on beautiful Savannah.
+Original pocket doors separate the condo’s primary bedroom and includes the single bathroom. The bedroom features a king bed wrapped in crisp linens. The room lives large and comfortable, with multiple large windows filling the room with abundant natural light. A second smart TV lets you enjoy shows from the comfort of your bed, and a dedicated workspace makes working remotely on your trip a breeze.
+The bathroom features a shower/tub combination and a single vanity. The bathroom is outfitted with all essentials, including towels, toilet paper, shampoo, and body wash.
+
+Guest access
+Access to a private deck can be found just off the kitchen area. The front deck looks over Lincoln Street, allowing visitors to take in some fresh air in the morning. The deck also has a small area that seats two and is conveniently situated next to a large tree, which provides plenty of shade on those warmer days. 
+ 
+The King bedroom can be separated from the rest of the apartment with original pocket doors, and hosts a tiled bathroom with a tub/shower combo. The room is also perfect for those working from home. It comes with a full corner desk as well as solid 100mbs WiFi-connection.
+
+Other things to note
+Only one (1) dog permitted with a one-time $100 fee. Must be less than 50 pounds and be able to provide proof of flea/tick treatment. Fee must be paid before check-in. 
+This is part of a 4 unit condo, the main building entry is shared with the other 3 units and has long-term residents, so please be courteous and cognizant of your noise-levels!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Outdoor
+Patio or balcony
+Parking and facilities
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Not included
+Unavailable: Private entrance
+Private entrance
+Unavailable: Heating
+Heating
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic 1800's Condo, Forsyth | Dog-Friendly!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.88 out of 5 stars.
+4.88
+143 reviews
+143
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with cafes, restaurants, and a free trolley stop nearby
+1880s condo with historic details
+Original hardwood floors, pocket doors, high ceilings, and a private balcony with seating
+Responsive hosts, spotless space
+Brandon and Chase earn consistent praise for clear communication and a spotlessly clean space
+Welcome to Park Place, a beautifully restored 1800s one-bedroom, one-bathroom  pet-friendly condo in the heart of downtown Savannah. This second-floor condo is perfect for four guests ready to explore, featuring beautiful original hardwood floors, a comfortable king mattress, a pull-out sofa, and a private balcony. Just a five-minute walk to Forsyth Park and surrounded by incredible dining, attractions, and adventures.
+
+SVR-02424
+
+The space
+Originally built in 1880, Park Place has been freshly remodeled to include all the modern amenities you desire while preserving the historic colonial feel that attracts many to downtown Savannah.
+Enter the home through the second-floor entrance and enter a spacious open concept connecting the living room, kitchen, and dining spaces. In the living room, find a comfortable pull-out sofa, sitting chairs, and a smart TV ready to stream your favorite shows.
+Directly off the living room, find the fully appointed kitchen with a full appliances package, pots, pans, cooking utensils, small appliances, and dishware. A peninsula island provides two bar-height stools, and a small dining table offers two bar stools.
+Open the back door to your private balcony with comfortable patio furniture—an excellent place to enjoy your morning coffee or watch the sunset on beautiful Savannah.
+Original pocket doors separate the condo’s primary bedroom and includes the single bathroom. The bedroom features a king bed wrapped in crisp linens. The room lives large and comfortable, with multiple large windows filling the room with abundant natural light. A second smart TV lets you enjoy shows from the comfort of your bed, and a dedicated workspace makes working remotely on your trip a breeze.
+The bathroom features a shower/tub combination and a single vanity. The bathroom is outfitted with all essentials, including towels, toilet paper, shampoo, and body wash.
+
+Guest access
+Access to a private deck can be found just off the kitchen area. The front deck looks over Lincoln Street, allowing visitors to take in some fresh air in the morning. The deck also has a small area that seats two and is conveniently situated next to a large tree, which provides plenty of shade on those warmer days. 
+ 
+The King bedroom can be separated from the rest of the apartment with original pocket doors, and hosts a tiled bathroom with a tub/shower combo. The room is also perfect for those working from home. It comes with a full corner desk as well as solid 100mbs WiFi-connection.
+
+Other things to note
+Only one (1) dog permitted with a one-time $100 fee. Must be less than 50 pounds and be able to provide proof of flea/tick treatment. Fee must be paid before check-in. 
+This is part of a 4 unit condo, the main building entry is shared with the other 3 units and has long-term residents, so please be courteous and cognizant of your noise-levels!
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Show all 36 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.88 out of 5 from 143 reviews.
+4.88
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 9% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+55
+Location
+90
+Parking
+23
+Parks
+18
+Cleanliness
+44
+Hospitality
+42
+Comfort
+35
+Amenities
+8
+Nearby
+29
+Layout
+3
+Erin Rae
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed with kids
+My sister and I with her three young children, ages ranged from 1-7, were in town for a quick trip to Savannah! Our main event was the Savannah Bananas ballgame on Friday, but we came down Thursday after work and checked in late. Brandon and Chase accommodated us perfectly! Check in was a breeze and their place was pristinely clean and fully stocked! Located in just the right place to be in walking distance to so many things! We walked to Forsyth Park, Saint John’s Cathedral, and many other must see locations in Savannah!  I highly recommend and would book with them again if back in the area!!
+Show more
+Richard
+Tampa, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Checking in was smooth and had a few spots to park. It’s a great place to stay within walking distance from the park. Everything was clean and has a nice patio. Bed was super soft and clean linen. Very nice location.
+Show more
+Nancy
+Alameda, California
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We enjoyed our stay at Brandon’s and Chase’s place.  The place was as expected and the location was great, a central point for exploring the city.
+Delphino Ulysses
+Kentfield, California
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+My wife and I loved this second floor spot. Be mindful there is a long vertical staircase as you enter. It was full of light, with all up to date appliances. Great water pressure in the shower and a lovely side balcony to sip our coffee and wine at various points of our stay.
+Show more
+Eric
+Miami, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This is our third time staying in one of Brandon and Chase’s properties (different one each time)  as a host and they are the best!  They are always very responsive, their properties are nicely decorated, comfortable and in good locations.   This particularly property is a bit older, so charming but yes the property is older, so not so convenient in layout but still a very nice property with all the modern amenities.  We enjoyed the location, it was safe, quiet and convenient.  No issues with parking, just pay close attention to the street sweeping signs.  Recommended!
+Show more
+Jessica
+Baltimore, Maryland
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+Such a great location, super cute apartment and really wonderful hosts to work with.  Would definitely recommend and will look to book again if/when a trip back happens!
+Show all 143 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Located in the Victorian District East on the corner of East Park Ave and Habersham St, the Park Place puts you in the heart of Savannah. Surrounded by everything the hostess city of the south has to offer, you will enjoy easy access to everything that makes for a memorable stay in Savannah.
+Start your mornings with a walk over to Forsyth Park, just five minutes, and stop through The Sentient Bean for espresso, coffee, and small breakfast bites. Are you craving some excellent diner food for breakfast? Walk down to Fork & Dagger Diner to enjoy that retro diner we love.
+Enjoy a variety of food types throughout the city. Just minutes from your door, stop in the Peking House for incredible Chinese food. Grab a Cubano from the Cuban Window Café, or get classy with seasonal American dishes with a southern touch at Local 11ten Food |Wine.
+Ready to let loose and have a little fun? Savannah is home to some of the best pubs and nightlife around. Stop into the White Whale Craft Ales tasting room to taste some incredible local brews. Stop by The Black Rabbit, an old-school sandwich shop by day and pub by night. Are you heading north out of the neighborhood? Check out Savannah’s staple pubs like Six Pence Pub (British Inspired), O’Connell’s Irish Pub, or McDonough’s Restaurant & Lounge.
+A trip to Savannah is only complete with exploring its rich colonial past. Stop through one of the many unique museums throughout the city, including the Ralph Mark Gilbert Civil Rights Museum, Beach Institute African American Cultural Center, or the fantastic Telfair Museums. Take Savannah’s vibrant art scene by stopping in the SCAD Museum of Art.
+Remember to dedicate some time to exploring Savannah’s River Front! A little bit of a walk from the home but easily accessible by car and public transport, the riverfront provides an incredible Savannah experience full of small shops, cobble street roads, and endless dining options.
+Not enough time to walk all the sights of Savannah? Take it all in at once while riding or biking. We are just minutes from Old Town Trolley Tours and Savannah Bike Tours. Check out the city skyline from the water by jumping on a Savannah Belle’s Ferries, with multiple stops along the Riverfront.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Pet-friendly vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

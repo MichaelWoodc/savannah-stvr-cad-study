@@ -1,0 +1,762 @@
+URL: https://www.airbnb.com/rooms/17070135
+Title: Charming Historic Apartment, Heated Pool Access
+Latitude: 32.0751
+Longitude: -81.0961
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Experience the warm charm of Savannah in a unique way with this gorgeous vacation rental. By staying in Savannah downtown vacation homes, you can feel like you're really living in this wonderful city with all the comforts of home right at your finger tips. Hotels are a sterile experience compared to the fun of staying in Georgia vacation homes, and you won't be foregoing any hotel amenities either as all our houses offer conveniences like wireless Internet and cable TV.
+
+The space
+We have such a wide and varied selection of Savannah vacation rentals, but one of our cozier properties is the romantically named Bird Baldwin Twelve Oaks. This second-floor apartment is approximately 1,100 square feet and can accommodate two guests with one bedroom and one bathroom. Please note that this unit is located on the second floor and requires climbing stairs for access. It is an ideal choice for a couple or solo traveler. The bedroom features a king-size bed, while the bathroom offers a walk-in shower and soft towels. Like all of our Savannah downtown vacation rentals, Bird Baldwin offers a fully equipped kitchen and an in-unit washer and dryer, making extended stays convenient. With its location between Bernard Street and West Liberty Street, you'll be within walking distance of attractions such as Orleans Square, Savannah Coffee Roasters, Adventure Tours, and Pulaski Square.
+
+
+
+Inside the parlor, you'll be transported back to a nostalgic time with the furnishings and decorative touches reminiscent of a bygone age. At the same time, you'll also find modern conveniences like a flat-screen TV and a thick, plush sofa. The bedroom is in a large room just off this living area and features another flat-screen TV along with a chair and writing desk. Go through another door from there and find the modern kitchen. The kitchen is stocked and equipped to help you cook great meals during your stay. It offers a refrigerator, microwave, range, tea kettle, coffee maker, dishwasher, kitchen towels, dishes and glassware. The bathroom and laundry area are adjacent. This house also offers private parking and a back porch where you can enjoy your morning coffee or a drink in the evening.
+
+
+
+The easiest part of your Savannah vacation is finding things to do. Here's a list of 10 things to do in Savannah to get you started.
+
+
+
+1.Visit Forsyth Park. Stroll through the 30 acres of greenery, visit the Forsyth Fountain and take a look at the three century old Candler Oak Tree.
+
+
+
+2.Take a history tour. Savannah is known for its living history and you can explore it through a guided tour like Old Town Trolley tours or Old Savannah Tours. If you're after something spookier, try Blue Orb Savannah Ghost Tours.
+
+
+
+3.Visit the City Market. Walk through four blocks of restaurants, boutiques, galleries and places to catch some nightlife.
+
+
+
+4.Visit the Cathedral of St. John the Baptist. You'll find it overlooking Lafayette Square with its Gothic architecture.
+
+
+
+5.Tour Bonaventure Cemetery. Believe it or not, but old cemeteries are big tourist attractions in Savannah. Stop by the visitor center first to get a list of famous graves and the city's prominent citizens.
+
+
+
+6.Take a waterfront stroll on River Street. By day you can peruse the shops and eateries, by night it's a great place for pub crawls and live street musicians.
+
+
+
+7.Take the short drive to Tybee Island and spend some time on the beach. You can also visit the Tybee Lighthouse and Museum and Tybee Marine Science Center.
+
+
+
+8.Visit the Owens-Thomas House to get a glimpse into the past and how the upper-class lived in 19th century Savannah.
+
+
+
+9.Stop at the Mercer Williams House Museum, which was the featured house in the "Midnight in the Garden of Good and Evil" book.
+
+
+
+10.Browse the Telfair Museum of Art to see 4,500 pieces of art from the 19th and 20th centuries.
+
+
+
+Even though you'll find plenty to do on a regular day in Savannah, the city also hosts a range of special events and celebrations throughout the year. Just ask us for a current schedule. Here's a sample list:
+
+
+
+• Annual Martin Luther King, Jr. Day Celebration in January
+
+• Georgia Heritage Society's Colonial Faire and Muster in February
+
+• Savannah Irish Festival in February
+
+• Saint Patrick’s Day in Savannah in March
+
+• First Saturday on the River festival from March to December
+
+• NOGS Tour of Homes and Gardens in April
+
+• Liberty Mutual Legends of Golf, PGA Champions Tour in April
+
+• Savannah Scottish Games in May
+
+• Savannah Shakespeare Festival in May
+
+• Blues, Jazz & BBQ in June
+
+• Fourth of July Fireworks on the Beach in July
+
+• Fourth of July on the River in July
+
+• Seafood & Music Festival in August
+
+• Savannah Jazz Festival in September
+
+• Oktoberfest in October
+
+• Savannah Film Festival in October
+
+• Savannah Harbor Boat Parade of Lights in November
+
+• Telfair Art Fair in November
+
+• Christmas on the River and Lighted Parade in December
+
+• City Market New Year's Eve Celebration in December
+
+Guest access
+Heated pool access
+
+One bedroom, King sized bed
+
+One bath with soft comfy towels
+
+Flatscreen TVs
+
+Washer/Dryer
+
+Kitchenette with Dishwasher & Mini-Fridge
+
+Wi-fi
+
+Central Heat & Air
+
+Private Parking
+
+Walk everywhere
+
+Standard Drip Coffee Pot
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+Verbiage for pet-friendly homes: 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+SVR-00012
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with Roku
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Mini fridge
+Freezer
+Dishwasher
+Stove
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Pool
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Charming Historic Apartment, Heated Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.81 out of 5 stars.
+4.81
+145 reviews
+145
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In the Historic District near Pulaski Square
+Steps from Pulaski Square and the Harper Fowlkes House, with Chippewa Square about a 5-min walk away
+Free private parking included
+A dedicated parking spot right at the building, a big convenience in downtown Savannah
+Charming decor, walkable location
+Guests highlight the walkable location and the charming, historically themed decor throughout
+Experience the warm charm of Savannah in a unique way with this gorgeous vacation rental. By staying in Savannah downtown vacation homes, you can feel like you're really living in this wonderful city with all the comforts of home right at your finger tips. Hotels are a sterile experience compared to the fun of staying in Georgia vacation homes, and you won't be foregoing any hotel amenities either as all our houses offer conveniences like wireless Internet and cable TV.
+
+The space
+We have such a wide and varied selection of Savannah vacation rentals, but one of our cozier properties is the romantically named Bird Baldwin Twelve Oaks. This second-floor apartment is approximately 1,100 square feet and can accommodate two guests with one bedroom and one bathroom. Please note that this unit is located on the second floor and requires climbing stairs for access. It is an ideal choice for a couple or solo traveler. The bedroom features a king-size bed, while the bathroom offers a walk-in shower and soft towels. Like all of our Savannah downtown vacation rentals, Bird Baldwin offers a fully equipped kitchen and an in-unit washer and dryer, making extended stays convenient. With its location between Bernard Street and West Liberty Street, you'll be within walking distance of attractions such as Orleans Square, Savannah Coffee Roasters, Adventure Tours, and Pulaski Square.
+
+
+
+Inside the parlor, you'll be transported back to a nostalgic time with the furnishings and decorative touches reminiscent of a bygone age. At the same time, you'll also find modern conveniences like a flat-screen TV and a thick, plush sofa. The bedroom is in a large room just off this living area and features another flat-screen TV along with a chair and writing desk. Go through another door from there and find the modern kitchen. The kitchen is stocked and equipped to help you cook great meals during your stay. It offers a refrigerator, microwave, range, tea kettle, coffee maker, dishwasher, kitchen towels, dishes and glassware. The bathroom and laundry area are adjacent. This house also offers private parking and a back porch where you can enjoy your morning coffee or a drink in the evening.
+
+
+
+The easiest part of your Savannah vacation is finding things to do. Here's a list of 10 things to do in Savannah to get you started.
+
+
+
+1.Visit Forsyth Park. Stroll through the 30 acres of greenery, visit the Forsyth Fountain and take a look at the three century old Candler Oak Tree.
+
+
+
+2.Take a history tour. Savannah is known for its living history and you can explore it through a guided tour like Old Town Trolley tours or Old Savannah Tours. If you're after something spookier, try Blue Orb Savannah Ghost Tours.
+
+
+
+3.Visit the City Market. Walk through four blocks of restaurants, boutiques, galleries and places to catch some nightlife.
+
+
+
+4.Visit the Cathedral of St. John the Baptist. You'll find it overlooking Lafayette Square with its Gothic architecture.
+
+
+
+5.Tour Bonaventure Cemetery. Believe it or not, but old cemeteries are big tourist attractions in Savannah. Stop by the visitor center first to get a list of famous graves and the city's prominent citizens.
+
+
+
+6.Take a waterfront stroll on River Street. By day you can peruse the shops and eateries, by night it's a great place for pub crawls and live street musicians.
+
+
+
+7.Take the short drive to Tybee Island and spend some time on the beach. You can also visit the Tybee Lighthouse and Museum and Tybee Marine Science Center.
+
+
+
+8.Visit the Owens-Thomas House to get a glimpse into the past and how the upper-class lived in 19th century Savannah.
+
+
+
+9.Stop at the Mercer Williams House Museum, which was the featured house in the "Midnight in the Garden of Good and Evil" book.
+
+
+
+10.Browse the Telfair Museum of Art to see 4,500 pieces of art from the 19th and 20th centuries.
+
+
+
+Even though you'll find plenty to do on a regular day in Savannah, the city also hosts a range of special events and celebrations throughout the year. Just ask us for a current schedule. Here's a sample list:
+
+
+
+• Annual Martin Luther King, Jr. Day Celebration in January
+
+• Georgia Heritage Society's Colonial Faire and Muster in February
+
+• Savannah Irish Festival in February
+
+• Saint Patrick’s Day in Savannah in March
+
+• First Saturday on the River festival from March to December
+
+• NOGS Tour of Homes and Gardens in April
+
+• Liberty Mutual Legends of Golf, PGA Champions Tour in April
+
+• Savannah Scottish Games in May
+
+• Savannah Shakespeare Festival in May
+
+• Blues, Jazz & BBQ in June
+
+• Fourth of July Fireworks on the Beach in July
+
+• Fourth of July on the River in July
+
+• Seafood & Music Festival in August
+
+• Savannah Jazz Festival in September
+
+• Oktoberfest in October
+
+• Savannah Film Festival in October
+
+• Savannah Harbor Boat Parade of Lights in November
+
+• Telfair Art Fair in November
+
+• Christmas on the River and Lighted Parade in December
+
+• City Market New Year's Eve Celebration in December
+
+Guest access
+Heated pool access
+
+One bedroom, King sized bed
+
+One bath with soft comfy towels
+
+Flatscreen TVs
+
+Washer/Dryer
+
+Kitchenette with Dishwasher & Mini-Fridge
+
+Wi-fi
+
+Central Heat & Air
+
+Private Parking
+
+Walk everywhere
+
+Standard Drip Coffee Pot
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+Verbiage for pet-friendly homes: 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+SVR-00012
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+Pets allowed
+TV with Roku
+Washer
+Dryer
+Air conditioning
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.81 out of 5 from 145 reviews.
+4.81
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 86% of reviews
+5
+4 stars, 12% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+62
+Location
+87
+Parking
+24
+Nearby
+39
+Cleanliness
+28
+Decor
+26
+Hospitality
+33
+Comfort
+31
+Sleep quality
+25
+Indoor spaces
+24
+Laura
+North Augusta, South Carolina
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed with kids
+We loved our stay! Very clean, relaxing, easy to walk to anything. I wish there was a dedicated eating area, but we had a great time here regardless. Would definitely come back!
+Show more
+Ewa
+3 months on Airbnb
+Rating, 4 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Nice clean place. Good walkable neighbourhood.
+Show more
+Bianka
+Pembroke Pines, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+LOVED our stay here! The parking spot was so nice to have. Close to everything fun in the area and close to some great coffee spots. The host was so proactive in sending check in and check out instructions. Everything was so adorably decorated in the Airbnb. I especially loved that all the decor had to do with historic Savannah. Would 100% stay there again or any rental from this host.
+Show more
+Tracie
+Roseville, California
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We loved this place!  Located close to everything, but just far enough away from heavy tourist areas.  We walked everywhere.  We appreciated the parking space.
+Show more
+Lena
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+would absolutely stay here again and recommend to others!
+Show more
+Kyle
+Mount Croghan, South Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Throughly enjoyed our stay. The rental unit had that Savannah Charm! Clean, roomie and close to everything.
+Show all 145 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Jones West
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

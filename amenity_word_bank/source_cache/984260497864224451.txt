@@ -1,0 +1,459 @@
+URL: https://www.airbnb.com/rooms/984260497864224451
+Title: Hall Street Inn, Relaxing | Historic | Fresh
+Latitude: 32.0689
+Longitude: -81.1
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to the Hall St Inn, an excellent second-floor accommodation featuring two bedrooms and 1.5 bathrooms perfect for four guests. The flat-style accommodation features an open design with unique touches that flow towards the veranda on the backside of the home, the ideal spot to enjoy a cocktail—minutes to Forsyth Park and surrounded by everything Savannah has to offer.
+SVR-02730
+
+The space
+True to the colonial past of Savannah, the grand hall incorporates Victorian architecture while providing you with all of the modern amenities you want today.
+Configured as a duplex, renting the upstairs apartment provides ample room for the traveling pair.
+The second floor features a fully equipped second unit with two bedrooms and one bathroom. An internal staircase and a private rear entrance provide access to the second floor. 
+Enjoy a small but comfortable living space featuring an original fireplace, oversized furniture, and a smart TV, providing the perfect place to relax at the end of the day.
+The living room opens directly to the kitchen featuring a unique design and is fully appointed, providing everything needed to cook, including pots, pans, and additional dishware. Large windows and a French door pour natural light into the space and open to the private veranda—a perfect spot for enjoying the Savannah breeze.
+Head up another flight of stairs to find both bedrooms and the unit's bathroom. Directly at the top of the stairs is the primary bedroom featuring a new king mattress, comfortable linens, and large bay windows that fill the room with light.
+To the right of the stairs, find the second bedroom featuring an angled roofline with a skylight and a queen mattress. This cozy room provides a unique and comfortable space for a great night's rest.
+The bathroom has been fully updated, featuring a pedestal sink, a stand-up shower with custom green tile, and outfitted with all essentials, including towels, toilet paper, shampoo, body wash, and a hair dryer.
+
+Guest access
+The entire apartment is for your use. There is a spacious deck off of the kitchen with plenty of seating to hang out in the evening or have a cup of joe with the sunrise! Please know that the unit downstairs has their own deck so there is a possibility that a neighborly waive might come in handy :)
+The hot tub is primarily for the downstairs guests, but if it is vacant, it can be used upon request.
+
+Other things to note
+Absolutely no parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke in the property.  
+Report all damaged property to the property owner immediately.
+Treat the studio with respect, as if it was your property.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free street parking
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Hall Street Inn, Relaxing | Historic | Fresh
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1.5 baths
+Rated 4.79 out of 5 stars.
+4.79
+·
+28 reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, with Chatham Square and Monterey Square also nearby
+Private veranda with outdoor seating
+A private veranda off the kitchen with plenty of seating to enjoy morning coffee or evening drinks
+Brandon and Chase go above and beyond
+Guests highlight how responsive Brandon and Chase are, with many planning return visits
+Welcome to the Hall St Inn, an excellent second-floor accommodation featuring two bedrooms and 1.5 bathrooms perfect for four guests. The flat-style accommodation features an open design with unique touches that flow towards the veranda on the backside of the home, the ideal spot to enjoy a cocktail—minutes to Forsyth Park and surrounded by everything Savannah has to offer.
+SVR-02730
+
+The space
+True to the colonial past of Savannah, the grand hall incorporates Victorian architecture while providing you with all of the modern amenities you want today.
+Configured as a duplex, renting the upstairs apartment provides ample room for the traveling pair.
+The second floor features a fully equipped second unit with two bedrooms and one bathroom. An internal staircase and a private rear entrance provide access to the second floor. 
+Enjoy a small but comfortable living space featuring an original fireplace, oversized furniture, and a smart TV, providing the perfect place to relax at the end of the day.
+The living room opens directly to the kitchen featuring a unique design and is fully appointed, providing everything needed to cook, including pots, pans, and additional dishware. Large windows and a French door pour natural light into the space and open to the private veranda—a perfect spot for enjoying the Savannah breeze.
+Head up another flight of stairs to find both bedrooms and the unit's bathroom. Directly at the top of the stairs is the primary bedroom featuring a new king mattress, comfortable linens, and large bay windows that fill the room with light.
+To the right of the stairs, find the second bedroom featuring an angled roofline with a skylight and a queen mattress. This cozy room provides a unique and comfortable space for a great night's rest.
+The bathroom has been fully updated, featuring a pedestal sink, a stand-up shower with custom green tile, and outfitted with all essentials, including towels, toilet paper, shampoo, body wash, and a hair dryer.
+
+Guest access
+The entire apartment is for your use. There is a spacious deck off of the kitchen with plenty of seating to hang out in the evening or have a cup of joe with the sunrise! Please know that the unit downstairs has their own deck so there is a possibility that a neighborly waive might come in handy :)
+The hot tub is primarily for the downstairs guests, but if it is vacant, it can be used upon request.
+
+Other things to note
+Absolutely no parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke in the property.  
+Report all damaged property to the property owner immediately.
+Treat the studio with respect, as if it was your property.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Hair dryer
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.79 out of 5 stars from 28 reviews
+4.79 · 28 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 86% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 7% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Decor
+9
+Parks
+3
+Walkability
+8
+Location
+13
+Hospitality
+13
+Sleep quality
+8
+Kitchen
+5
+Nearby
+6
+Comfort
+7
+Indoor spaces
+6
+Janice
+Hopatcong, New Jersey
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Stayed one night
+Finding this Airbnb was like finding a hidden gem. Just walking into this beautifully decorated well equipped home was such a delight. A fully equipped kitchen, the bathroom that had everything you need including white, fluffy towels and enough space to make you feel right at home. The beds were so comfortable it insured a wonderful night sleep. 
+Brandon and Chase were wonderful hosts. They made for a very easy check-in and was very responsive throughout our stay. 
+The neighborhood highlights in the listing gave us so many ideas of things to do, places to go and restaurants to try out. 
+We can’t wait to come back to spend time in this beautiful house again!
+Show more
+Joyce
+Chickamauga, Georgia
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+So happy we stayed here. The home was beautiful! Very clean and we only had to bring clothes and food. Easy check in and out. The hosts were very responsive to any questions we had. 
+Thanks for a great stay!!
+Show more
+Deveron
+Pittsburgh, Pennsylvania
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+Place was beautiful, and they were very responsive and quick to help with whatever we needed.
+Rachael
+Hillsborough, North Carolina
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Stayed about a week
+Beautiful old home that we would definitely stay at again! Our one complaint would be that the kitchen could use a little updating - both in terms of equipment available and how well everything is functioning. However, we were there for 9 days and doing a lot of cooking. Otherwise, everything was perfect! Definitely recommend.
+Show more
+Maxie
+Rockville, Maryland
+Rating, 4 stars
+,
+·
+July 2025
+,
+·
+Stayed a few nights
+Nice location. Wonderful thread count on the bedding. Very comfortable stay.
+Courtney
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Stayed with kids
+This place is a wonderful place to stay in and you are not too far from food.  The area is peaceful as well and had all the pots and pans you need to make a meal along with utensils and plates. The host also provided coffee for those early mornings. I wish I could have stayed longer to really enjoy Savannah but that okay because I will be back and I will stay at this location again if available.  I also love how the house was decorated very inspiring for my own place.
+Show more
+Show all 28 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Located on Hall St, you are just minutes from everything in Savannah.
+Grab excellent Cuban food down the road at café Rancho Alegre Cuban just down the road. Swing around the corner to Crystal Beer Parlor for a drink or sit down for a delicious southern dish at Mrs. Wilkes Dining Room, an authentic mom-and-pop restaurant.
+Are you looking for a great outdoor vibe with beautiful old-growth trees? Stop into Collins Quarter at Forsyth for brunch and enjoy the Savannah breeze through the trees.
+Head to the City Market and River Walk and enjoy additional southern dining at The Lady and Sons. Grab a traditional dinner breakfast at Treylor Park. Get a little fancier with a delicious meal at St. Neo’s Brasserie, and don’t forget to check out their basement speakeasy-inspired bar.
+A trip to Savannah is only complete with exploring a little of its historical colonial past. Fill your schedule by checking out the Telfair Academy, a beautiful art museum, or stroll through the Webb Military Museum. Relive the prohibition area by heading to the American Prohibition Museum. Don’t forget to grab a drink at their cocktail bar to celebrate freedom. Or fancy exploring Savannah’s ocean ties? Check out the Ships of the Sea Maritime Museum.
+Not enough time to walk all the sights of Savannah? Take it all in at once while riding or biking. We are just minutes from Old Town Trolley Tours of Savannah and Savannah Bike Tours. Check out the city’s skyline from the water by jumping on one of the Savannah Belle’s ferries, with multiple stops all along Savannah’s riverfront.
+Getting around is easy with walkable streets, bike rentals, and Uber service. Jump on Savannah’s public transit system with the MLK & Gaston NB stop just a 1-minute walk from the loft.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

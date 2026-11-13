@@ -1,0 +1,717 @@
+URL: https://www.airbnb.com/rooms/1082783482499537636
+Title: Amazing Location on Bay Street by Southern Belle
+Latitude: 32.08076
+Longitude: -81.09282
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+In Downtown Savannah, Georgia, you will be immersed into rich history. Indeed, the nearby waterfront is where all the shipping transactions and emigrating began in the early 1700s. At our Savannah vacation homes, you can rest and recharge along this famous roadway at Charm on Bay. Access our Savannah vacation homes by using our private check-in process at the main entrance. Upstairs, you'll find our two-bedroom retreat for up to four guests.
+
+The space
+Vacationing on Famous Bay Street
+
+
+
+In Downtown Savannah, Georgia, you will be immersed into rich history. Indeed, the nearby waterfront is where all the shipping transactions and emigrating began in the early 1700s. At our Savannah vacation homes, you can rest and recharge along this famous roadway at Charm on Bay.
+
+
+
+Your Downtown Escape
+
+
+
+Access our Savannah vacation homes by using our private check-in process at the main entrance. Upstairs, you'll find our two-bedroom retreat for up to four guests. With a deadbolt on the apartment door, your party is always safe at our vacation rentals Savannah GA.
+
+
+
+Upon entering, you'll find a bright foyer with artwork welcoming your party. Indeed, the entire apartment has artwork and sculptures for your enjoyment. First, you'll encounter the full-size kitchen with a breakfast bar and seating for up to four guests. Our kitchens always have every detail fully stocked, such as utensils, pots, pans and dishes. Bring your groceries to make this kitchen your own.
+
+
+
+In addition, Savannah vacation homes incorporate those appliances you need daily, such as a full-size refrigerator, dishwasher, coffee maker, microwave, oven, stove and toaster. With an open concept, this kitchen gives you a view of the informal dining area, which seats up to four guests, too.
+
+
+
+Next, stretch out in the living room with its French doors allowing light to brighten up the interior. Here, two sofas, a ceiling fan, a fireplace and a flat-screen TV create a cozy atmosphere. With a large coffee table as a focal point, the living room provides a conversation area so that you can plan out your time in Downtown Savannah.
+
+
+
+Hidden behind the living room is the master bedroom. With a king-size bed, a ceiling fan and plenty of storage, this room offers a sanctuary away from the world. Remarkably, this room includes an en suite bathroom with two separate vanities. Open the next door to find the individual bath and shower areas, too.
+
+
+
+Near the front door, you'll find the second bedroom with a queen-size bed. With a ceiling fan and flat-screen TV, this bedroom is perfect for a couple or two children. Connecting to the bedroom is a full-size bathroom complete with a single vanity and a shower.
+
+
+
+Because your reservation might span a week or more, Savannah vacation rentals include a washer/dryer combination inside this property. Open the closet doors found in the kitchen hallway to reveal this laundry system for your convenience.
+
+
+
+Delightful Views
+
+
+
+Because you're on one of the topmost floors, step outside onto your private balcony for spectacular views. Facing the courtyard, this outdoor reprieve comes complete with Adirondack chairs and two side tables. Remarkably, most of Downtown Savannah remains lively into the evening hours, which makes these seats perfect for people watching and enjoying the waterfront over the treetops. Simply step out of the French doors connecting this balcony to the living room.
+
+
+
+Although this property is a high-rise apartment, our vacation rentals Savannah GA guests are welcome to use our resort-style pool. Take a short trip to 19 Silver Avenue on Tybee Island, Georgia, to access a private pool. Outfitted with lounge chairs, umbrellas and a barbecue grill, this amenity is exclusive to our guests only. Typically, find ample space to spread out for a day by the water. Because it's only a half-hour drive from Charm on Bay, the pool is a favorite getaway on those warmer days in the summer.
+
+  
+
+Charming Trips Around the South
+
+
+
+
+
+Stroll across the historic walkways between Bay Street and River Street to discover the waterfront. Here, you'll find entertainment, restaurants and bars to delight the senses. With a mixture of history and modern amenities, River Street might become a favorite haunt before heading into the rest of the city.
+
+
+
+Next, you'll find famous tours only a few minutes away from vacation rentals Savannah GA. Whether you're a history buff or a paranormal fan, these tours cater to many interests. Simply book your online reservation for the best times.
+
+
+
+Also, enjoy a stop at one of the many coffee shops, parks or museums found in Downtown Savannah. Although this city isn't as dense as other metropolises, most attractions are within walking distance of our Savannah vacation rentals. From the famous fountain at Forsyth Park to historic stories at the Davenport House Museum, these attractions reflect the truly Southern culture.
+
+
+
+Alternatively, get off your feet for a bit on a trolley tour. Indeed, Savannah is known for its vintage trolleys where you can hop on and off as you please. If you want to cover a lot of ground in Savannah, the trolley offers a reasonable price for a day's worth of exploring.
+
+
+
+If you decide to try our resort-style pool on Tybee Island, consider more exploration on Tybee's beach. Here, you can enjoy the marine center, bird watching or stroll along the coastline. As a small community, Tybee Island has a relaxed atmosphere where you can enjoy a drink, a meal or dance the night away at any of the beachfront establishments.
+
+
+
+Overall, your stay at Charm along Bay Street begins and ends with your safety as our priority. With fire extinguishers, smoke/carbon monoxide alarms, disinfected surfaces and outdoor lighting included, this property keeps your group safe 24 hours a day. Book your stay at our Savannah vacation rentals with our convenient, online system today.
+
+
+
+SVR-00544
+
+Guest access
+Occupancy: 4
+
+Living area with seating and TV
+
+Kitchen table with seating for 4
+
+Full kitchen equipped with cooking essentials and bar with seating for 4
+
+Bedroom 1: King bed, en suite bathroom with Shower and Tub.
+
+Bedroom 2: Queen bed, en suite bathroom 
+
+Balcony with views of Bay street and seating
+
+Washer/dryer
+
+Special amenities: Amazing location near River Street, beautiful views from balcony with additional seating, walk to restaurants, boutiques, museums
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Pool
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Amazing Location on Bay Street by Southern Belle
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.97 out of 5 stars.
+4.97
+37 reviews
+37
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Downtown Savannah near the riverfront
+Steps from Ellis Square and the Riverfront Plaza, with City Market about a 5-min walk away
+Balcony with courtyard views
+A private balcony with Adirondack chairs overlooking the courtyard and Bay Street treetops
+Walkable, clean, and comfortable
+Guests highlight how walkable the location is, with many calling the condo clean and comfortable
+In Downtown Savannah, Georgia, you will be immersed into rich history. Indeed, the nearby waterfront is where all the shipping transactions and emigrating began in the early 1700s. At our Savannah vacation homes, you can rest and recharge along this famous roadway at Charm on Bay. Access our Savannah vacation homes by using our private check-in process at the main entrance. Upstairs, you'll find our two-bedroom retreat for up to four guests.
+
+The space
+Vacationing on Famous Bay Street
+
+
+
+In Downtown Savannah, Georgia, you will be immersed into rich history. Indeed, the nearby waterfront is where all the shipping transactions and emigrating began in the early 1700s. At our Savannah vacation homes, you can rest and recharge along this famous roadway at Charm on Bay.
+
+
+
+Your Downtown Escape
+
+
+
+Access our Savannah vacation homes by using our private check-in process at the main entrance. Upstairs, you'll find our two-bedroom retreat for up to four guests. With a deadbolt on the apartment door, your party is always safe at our vacation rentals Savannah GA.
+
+
+
+Upon entering, you'll find a bright foyer with artwork welcoming your party. Indeed, the entire apartment has artwork and sculptures for your enjoyment. First, you'll encounter the full-size kitchen with a breakfast bar and seating for up to four guests. Our kitchens always have every detail fully stocked, such as utensils, pots, pans and dishes. Bring your groceries to make this kitchen your own.
+
+
+
+In addition, Savannah vacation homes incorporate those appliances you need daily, such as a full-size refrigerator, dishwasher, coffee maker, microwave, oven, stove and toaster. With an open concept, this kitchen gives you a view of the informal dining area, which seats up to four guests, too.
+
+
+
+Next, stretch out in the living room with its French doors allowing light to brighten up the interior. Here, two sofas, a ceiling fan, a fireplace and a flat-screen TV create a cozy atmosphere. With a large coffee table as a focal point, the living room provides a conversation area so that you can plan out your time in Downtown Savannah.
+
+
+
+Hidden behind the living room is the master bedroom. With a king-size bed, a ceiling fan and plenty of storage, this room offers a sanctuary away from the world. Remarkably, this room includes an en suite bathroom with two separate vanities. Open the next door to find the individual bath and shower areas, too.
+
+
+
+Near the front door, you'll find the second bedroom with a queen-size bed. With a ceiling fan and flat-screen TV, this bedroom is perfect for a couple or two children. Connecting to the bedroom is a full-size bathroom complete with a single vanity and a shower.
+
+
+
+Because your reservation might span a week or more, Savannah vacation rentals include a washer/dryer combination inside this property. Open the closet doors found in the kitchen hallway to reveal this laundry system for your convenience.
+
+
+
+Delightful Views
+
+
+
+Because you're on one of the topmost floors, step outside onto your private balcony for spectacular views. Facing the courtyard, this outdoor reprieve comes complete with Adirondack chairs and two side tables. Remarkably, most of Downtown Savannah remains lively into the evening hours, which makes these seats perfect for people watching and enjoying the waterfront over the treetops. Simply step out of the French doors connecting this balcony to the living room.
+
+
+
+Although this property is a high-rise apartment, our vacation rentals Savannah GA guests are welcome to use our resort-style pool. Take a short trip to 19 Silver Avenue on Tybee Island, Georgia, to access a private pool. Outfitted with lounge chairs, umbrellas and a barbecue grill, this amenity is exclusive to our guests only. Typically, find ample space to spread out for a day by the water. Because it's only a half-hour drive from Charm on Bay, the pool is a favorite getaway on those warmer days in the summer.
+
+  
+
+Charming Trips Around the South
+
+
+
+
+
+Stroll across the historic walkways between Bay Street and River Street to discover the waterfront. Here, you'll find entertainment, restaurants and bars to delight the senses. With a mixture of history and modern amenities, River Street might become a favorite haunt before heading into the rest of the city.
+
+
+
+Next, you'll find famous tours only a few minutes away from vacation rentals Savannah GA. Whether you're a history buff or a paranormal fan, these tours cater to many interests. Simply book your online reservation for the best times.
+
+
+
+Also, enjoy a stop at one of the many coffee shops, parks or museums found in Downtown Savannah. Although this city isn't as dense as other metropolises, most attractions are within walking distance of our Savannah vacation rentals. From the famous fountain at Forsyth Park to historic stories at the Davenport House Museum, these attractions reflect the truly Southern culture.
+
+
+
+Alternatively, get off your feet for a bit on a trolley tour. Indeed, Savannah is known for its vintage trolleys where you can hop on and off as you please. If you want to cover a lot of ground in Savannah, the trolley offers a reasonable price for a day's worth of exploring.
+
+
+
+If you decide to try our resort-style pool on Tybee Island, consider more exploration on Tybee's beach. Here, you can enjoy the marine center, bird watching or stroll along the coastline. As a small community, Tybee Island has a relaxed atmosphere where you can enjoy a drink, a meal or dance the night away at any of the beachfront establishments.
+
+
+
+Overall, your stay at Charm along Bay Street begins and ends with your safety as our priority. With fire extinguishers, smoke/carbon monoxide alarms, disinfected surfaces and outdoor lighting included, this property keeps your group safe 24 hours a day. Book your stay at our Savannah vacation rentals with our convenient, online system today.
+
+
+
+SVR-00544
+
+Guest access
+Occupancy: 4
+
+Living area with seating and TV
+
+Kitchen table with seating for 4
+
+Full kitchen equipped with cooking essentials and bar with seating for 4
+
+Bedroom 1: King bed, en suite bathroom with Shower and Tub.
+
+Bedroom 2: Queen bed, en suite bathroom 
+
+Balcony with views of Bay street and seating
+
+Washer/dryer
+
+Special amenities: Amazing location near River Street, beautiful views from balcony with additional seating, walk to restaurants, boutiques, museums
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pool
+TV
+Elevator
+Washer
+Dryer
+Air conditioning
+Bathtub
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.97 out of 5 from 37 reviews.
+4.97
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.7 out of 5 stars for check-in
+Check-in
+4.7
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Location
+27
+Walkability
+10
+Cleanliness
+16
+Comfort
+8
+Nearby
+5
+Hospitality
+9
+Pool
+2
+Decor
+4
+Kitchen
+4
+Check-in
+2
+John
+Manama, Bahrain
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+The Charm at Bay apartment from Southern Belle is a lovely, showcase apartment with a location very close to River St and walking distance to all the action in Savannah.  We enjoyed immensely our stay.  Southern Belle has developed a comprehensive support system for its guests and met all of our needs and requests.  Highly recommend this listing for Savannah visitors who want to be at the heart of the city.
+Show more
+Vincent
+Parkland, Florida
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+We had a great stay at Charm on the Bay.   The condo was clean, well stocked, and super convenient to all downtown Savannah has to offer.  The management team communicated very well well and answered questions promptly.  We would stay here again.
+Show more
+Dustin
+Grafton, Wisconsin
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Great place! Awesome location and walkable to most of the city. Place was very clean and communication was easy. Having 2.5 bathrooms was convenient as well.
+Catherine
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+This location was perfect and the condo beautiful!
+Joanne
+Gambrills, Maryland
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+This place was absolutely beautiful, clean, and so inviting and comfortable. I highly recommend this location. It was perfect for walking everywhere. Very nicely furnished. We appreciate the time taken to care for this location and would rent it again next time we are in Savannah. We didn’t need to rent a car. The host was very responsive to questions. And having a balcony to sit in was a joy. The kitchen was also nicely equipped with most anything you might need although there are so many wonderful restaurants around town we felt compelled to give them a try. I’m sure you will enjoy your stay at this location!
+Show more
+Philip
+Jacksonville, Florida
+Rating, 4 stars
+,
+·
+March 2026
+,
+·
+Stayed with kids
+Great location, nice condo. Pre canned check in message was not updated to reflect the house door code or the unit number. Constant messages about paying extra to check in earlier, or check out later was a bit much.
+Show more
+Show all 37 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Condo vacation rentals in Savannah
+Vacation rentals with a pool in Chatham County
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Vacation rentals with a pool in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,319 @@
+URL: https://www.airbnb.com/rooms/1737117894780686882
+Title: Historic 1BR | Balcony | Washer/Dryer
+Latitude: 32.07184305137291
+Longitude: -81.09642135520669
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jess
+Host ID: 1737055280704963511
+Host profile ID: 1737055552195993224
+Host URL: https://www.airbnb.com/users/profile/1737055552195993224
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Gordon Street Retreat
+
+The space
+Walk everywhere from this historic downtown flat. Showcasing vintage Victorian charm, this gorgeous retreat boasts an unbeatable walking distance to all the sights of Savannah, including Broughton Street, City Market, Forsyth Park, and River Street. This home is ideal for traveling professionals, students, or film industry workers with extended lodging needs.
+
+
+
+Original antique floors, exposed brick walls, and strong natural lighting are on full display inside, along with a suite of modern home essentials furnished for convenience and comfort. The updated kitchen features all-new counters, cabinets, and stainless steel appliances to easily handle home cooking. Comfortable seating and a cable-equipped smart TV set the stage for casual downtime and home entertainment, with free WiFi provided for remote working or streaming. A breezy private balcony in the rear of the flat overlooking the enclosed courtyard, together with a stunning view of Chatham Park from huge front windows, offers a picturesque view for morning coffee or a nightcap. The private washer/dryer adds an extra layer of convenience during your stay.
+
+
+
+Things to Know: 
+
+-Linens are provided and guests receive sheets/linens, towels and/or blankets, as needed.
+
+-Streaming services available with guests’ own account(s). 
+
+
+
+STVR Permit: SVR-03144
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bedroom and laundry
+Washer
+Dryer
+Hangers
+Iron
+Entertainment
+TV with standard cable
+Family
+Board games
+Heating and cooling
+Air conditioning
+Indoor fireplace
+Heating
+Home safety
+Smoke alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishwasher
+Stove
+Oven
+Coffee maker
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Hair dryer
+Hair dryer
+Unavailable: Essentials
+Essentials
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+This place may not have a carbon monoxide detector. Reach out to the host with any questions.
+Unavailable: Shampoo
+Shampoo
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic 1BR | Balcony | Washer/Dryer
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+New listing
+New
+Hosted by Jess
+1 month hosting
+Listing highlights
+In Savannah's historic district
+Steps from Chatham Square and Forsyth Park, with Monterey Square about a 5-min walk away
+Victorian charm with a private balcony
+Original antique floors, exposed brick walls, and a private balcony overlooking the courtyard
+Set up for comfortable longer stays
+A full kitchen with new appliances, in-unit washer/dryer, and free WiFi for working remotely
+Gordon Street Retreat
+
+The space
+Walk everywhere from this historic downtown flat. Showcasing vintage Victorian charm, this gorgeous retreat boasts an unbeatable walking distance to all the sights of Savannah, including Broughton Street, City Market, Forsyth Park, and River Street. This home is ideal for traveling professionals, students, or film industry workers with extended lodging needs.
+
+
+
+Original antique floors, exposed brick walls, and strong natural lighting are on full display inside, along with a suite of modern home essentials furnished for convenience and comfort. The updated kitchen features all-new counters, cabinets, and stainless steel appliances to easily handle home cooking. Comfortable seating and a cable-equipped smart TV set the stage for casual downtime and home entertainment, with free WiFi provided for remote working or streaming. A breezy private balcony in the rear of the flat overlooking the enclosed courtyard, together with a stunning view of Chatham Park from huge front windows, offers a picturesque view for morning coffee or a nightcap. The private washer/dryer adds an extra layer of convenience during your stay.
+
+
+
+Things to Know: 
+
+-Linens are provided and guests receive sheets/linens, towels and/or blankets, as needed.
+
+-Streaming services available with guests’ own account(s). 
+
+
+
+STVR Permit: SVR-03144
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 29 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+New · No reviews (yet)
+This host has 17 reviews for other places to stay. Show other reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Jess
+Host
+17 reviews
+17
+Reviews
+4.59 out of 5 average rating
+4.59
+Rating
+1 month of hosting
+1
+Month hosting
+My work: Hospitality!
+Speaks English
+Our whole family is avid travelers, with us constantly bouncing around to visit family, friends, and places we love.
+Host details
+Response rate: 98%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm not reported
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Condo vacation rentals in Georgia
+Pet-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,666 @@
+URL: https://www.airbnb.com/rooms/1575709795588721156
+Title: Bosch Huis Rosé: Kiwi Suite · Historic · Parking
+Latitude: 32.07725
+Longitude: -81.08873
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jonathan
+Host ID: 417314337
+Host profile ID: 1468361530571624652
+Host URL: https://www.airbnb.com/users/profile/1468361530571624652
+Bedrooms: 2
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Oglethorpe Square, Savannah, 1856. Horse carriages still pass daily.
+
+The Kiwi Suite, top floor — color, light, happiness by design. Guests call it "photogenic." Then "a gem."
+
+Skip the car: River Street one way, Broughton Street shops the other, Michelin-worthy tables between. Out back: a sauna, a cold plunge, and the best part of your morning.
+
+Loved like a home, because it is one.
+
+Bosch Huis began as a dream. Guests like you make it real. Tap the heart, see my Host Profile, or book it.
+
+The space
+THE KIWI SUITE
+The top floor, where the light lives, and one of the largest spaces on the property, set along the quiet back side of the house with windows facing out. A queen bed with a plush mattress and premium linens, and a full bath with fresh towels already waiting. A Nespresso machine, mini-fridge, microwave, a 55-inch smart TV in the bedroom and a 75-inch in the living room, every streaming service included. The suite runs on its own schedule.
+
+THE LIVING ROOM
+Yours with the suite: a queen sleeper sofa imported from Australia (the best sofa bed they've ever slept on, some guests say), multiple places to sink into, and a 75-inch smart TV that turns evenings into cinema. Book the neighboring Sorbet Suite as well, just reach out, and the whole top floor opens up with a second bedroom and bath.
+
+MAIN LEVEL
+Two ways up: the front staircase, or the back one by the parking lot. A long hallway leads to the kitchen, lined with art collected over the years. Local artists, European finds, antique market treasures. Free snacks along the way, and a photo wall of past guests. Add yourselves.
+
+The kitchen is chef-grade: gas range, All-Clad, Vitamix, KitchenAid, a Samsung refrigerator with filtered water and ice. It's shared, but every suite has its own essentials, so barely one in a hundred guests use it. Private slots on request. Guests call it "beautiful" and "private."
+
+OUT FRONT
+All of Savannah, one minute at a time: Broughton Street's shops in one, the squares, galleries, and bars in the same, the Riverfront in five, Forsyth Park in ten.
+
+THE ESSENTIALS
+
+SLEEPS · queen bed · queen sleeper sofa in living room, included · additional configurations on request · premium linens · top-floor suite, reached by stairs · one of two suites on the top floor · full bath
+
+COMFORT · air conditioning throughout · extra fan in every room · HEPA air purifiers · laundry on-site
+
+ARRIVE · private parking behind the property · EV charging, free · street + garage parking walking distance ($1.50/hr, free Sundays and 8pm–8am) · on busy days or with larger cars, we may ask for a quick shuffle. We'll help, no job is too small
+
+WELLNESS · infrared sauna (170°F) · 37°F cold plunge · Peloton Bike+ · free weights
+
+OUTSIDE · complimentary city bikes · Weber charcoal grill
+
+TECH · 55" TV in suite · 75" TV in living room · streaming included · high-speed WiFi
+
+KITCHEN · All-Clad · Vitamix · KitchenAid · gas range · shared but rarely used · private slots on request
+
+SISTER PROPERTY · Bosch Huis Sea, 10 minutes away, directly on the water. Marsh, river, ocean, and Tybee views. "A 5-star sanctuary," guests say. See my Host Profile.
+
+WALK · Broughton Street 1 min · squares, bars, galleries, museums 1 min · Leopold's Ice Cream 2 min (we apologize in advance) · Riverfront 5 min · Forsyth Park 10 min · Whole Foods + Target 10 min by car
+
+CARE · an owner who truly cares. Need a hand with luggage or a private airport ride? Say the word.
+
+Guest access
+Your suite is entirely yours. A fully isolated unit with its own lock, which is why it's listed as an entire home. Private, immaculate, and turned over like we're expecting someone important. We are.
+
+Self-check-in by smart lock. Your code arrives 24 hours before you do.
+
+Need to arrive early or linger late? Just ask — a small fee applies.
+
+#SVR-03137
+
+Other things to note
+WAYS TO BOOK
+This listing is the Kiwi Suite — the top floor, the morning light, the best sleep in the house. The rest of the collection, suite by suite or the whole house at once, lives on my Host Profile. Traveling as a group? Take every key.
+
+PRICING
+One rate covers two. Each additional guest adds $50 per night, covering the extra cleaning and wear, plainly. That's the whole story. Pets stay for one flat fee per booking; a whole pack costs a little more. Weekdays run gentler, longer stays earn a discount. Military and teachers booking ahead: say so, and the rate says thank you.
+
+CELEBRATIONS
+Proposals, anniversaries, birthdays with a zero in them, a bachelorette claiming the whole house. We arrange what the moment needs: flowers waiting, a table no one can get, a photographer who knows the light on the square. Write to us before booking for anything beyond a quiet stay — larger gatherings are approved in advance through Airbnb, with their own guidelines.
+
+THE HOUSE
+This home has stood on Oglethorpe Square since 1856, and it acts its age in the best ways: heart-pine floors that announce your footsteps, stairs that have carried 170 years of guests, walls that hold stories and, occasionally, sound. It's not a hotel built last year, and that's the point.
+
+THE ASSURANCES
+Smoke detectors throughout. First aid stocked. Cameras outside only — never inside. The same small cleaning team, every stay. If maintenance ever touches your dates, you'll hear it from us first.
+
+ALWAYS IMPROVING
+Nearly every dollar this home generates is reinvested — into the property, our team, and the local community. We're passionate about historic houses, love Savannah wholeheartedly, and it shows in what keeps getting better. 
+
+A SAVANNAH NOTE
+This is the South, in a walking city that's been alive since 1733. Church bells ring, carriages clatter, and on weekend nights downtown hums. A professional pest team treats the property regularly, but nature predates the service contract. That's the habitat, not the housekeeping.
+
+OUR STANDARD
+If it's reasonable and we have notice, we'll find a way.
+
+FOLLOW ALONG
+@BoschHuisRose for the story between stays. Not ready to book? Tap the heart and come back when it's time.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage
+Entertainment
+TV
+Sound system
+Exercise equipment
+Books and reading material
+Movie theater
+Theme room
+A room or multiple spaces that are designed to follow the same theme
+Family
+Crib - available upon request
+Pack ’n play/Travel crib
+Children’s books and toys
+Children’s dinnerware
+Board games
+Babysitter recommendations
+Outdoor playground
+An outdoor area equipped with play structures for children
+Heating and cooling
+Air conditioning
+Indoor fireplace
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+Exterior only
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Mini fridge
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Rice maker
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Bread maker
+Location features
+Waterfront
+Right next to a body of water
+Beach access
+Guests can enjoy a nearby beach
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Resort access
+Guests can use nearby resort facilities
+Outdoor
+Patio or balcony
+Outdoor furniture
+Outdoor dining area
+Outdoor kitchen
+BBQ grill
+Beach essentials
+Beach gear such as towels, chairs, and an umbrella
+Bikes
+Kayak
+Sun loungers
+Parking and facilities
+Free parking on premises
+Free street parking
+Pool
+Hot tub
+Sauna
+EV charger - level 2, tesla only
+220 volts, 12-35 miles per hour
+Gym
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Breakfast
+Breakfast is provided
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Cleaning available during stay
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Bosch Huis Rosé: Kiwi Suite · Historic · Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+54 reviews
+54
+Reviews
+Hosted by Jonathan
+Superhost · 3 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+On Oglethorpe Square in historic Savannah
+Right on Oglethorpe Square, with Broughton Street shops and the riverfront about a 5-min walk away
+Private wellness setup with sauna
+An infrared sauna and cold plunge out back, with a Peloton and free weights on-site
+Jonathan goes above and beyond
+Guests highlight Jonathan by name for going above and beyond, from dining tips to flexible check-ins
+Oglethorpe Square, Savannah, 1856. Horse carriages still pass daily.
+
+The Kiwi Suite, top floor — color, light, happiness by design. Guests call it "photogenic." Then "a gem."
+
+Skip the car: River Street one way, Broughton Street shops the other, Michelin-worthy tables between. Out back: a sauna, a cold plunge, and the best part of your morning.
+
+Loved like a home, because it is one.
+
+Bosch Huis began as a dream. Guests like you make it real. Tap the heart, see my Host Profile, or book it.
+
+The space
+THE KIWI SUITE
+The top floor, where the light lives, and one of the largest spaces on the property, set along the quiet back side of the house with windows facing out. A queen bed with a plush mattress and premium linens, and a full bath with fresh towels already waiting. A Nespresso machine, mini-fridge, microwave, a 55-inch smart TV in the bedroom and a 75-inch in the living room, every streaming service included. The suite runs on its own schedule.
+
+THE LIVING ROOM
+Yours with the suite: a queen sleeper sofa imported from Australia (the best sofa bed they've ever slept on, some guests say), multiple places to sink into, and a 75-inch smart TV that turns evenings into cinema. Book the neighboring Sorbet Suite as well, just reach out, and the whole top floor opens up with a second bedroom and bath.
+
+MAIN LEVEL
+Two ways up: the front staircase, or the back one by the parking lot. A long hallway leads to the kitchen, lined with art collected over the years. Local artists, European finds, antique market treasures. Free snacks along the way, and a photo wall of past guests. Add yourselves.
+
+The kitchen is chef-grade: gas range, All-Clad, Vitamix, KitchenAid, a Samsung refrigerator with filtered water and ice. It's shared, but every suite has its own essentials, so barely one in a hundred guests use it. Private slots on request. Guests call it "beautiful" and "private."
+
+OUT FRONT
+All of Savannah, one minute at a time: Broughton Street's shops in one, the squares, galleries, and bars in the same, the Riverfront in five, Forsyth Park in ten.
+
+THE ESSENTIALS
+
+SLEEPS · queen bed · queen sleeper sofa in living room, included · additional configurations on request · premium linens · top-floor suite, reached by stairs · one of two suites on the top floor · full bath
+
+COMFORT · air conditioning throughout · extra fan in every room · HEPA air purifiers · laundry on-site
+
+ARRIVE · private parking behind the property · EV charging, free · street + garage parking walking distance ($1.50/hr, free Sundays and 8pm–8am) · on busy days or with larger cars, we may ask for a quick shuffle. We'll help, no job is too small
+
+WELLNESS · infrared sauna (170°F) · 37°F cold plunge · Peloton Bike+ · free weights
+
+OUTSIDE · complimentary city bikes · Weber charcoal grill
+
+TECH · 55" TV in suite · 75" TV in living room · streaming included · high-speed WiFi
+
+KITCHEN · All-Clad · Vitamix · KitchenAid · gas range · shared but rarely used · private slots on request
+
+SISTER PROPERTY · Bosch Huis Sea, 10 minutes away, directly on the water. Marsh, river, ocean, and Tybee views. "A 5-star sanctuary," guests say. See my Host Profile.
+
+WALK · Broughton Street 1 min · squares, bars, galleries, museums 1 min · Leopold's Ice Cream 2 min (we apologize in advance) · Riverfront 5 min · Forsyth Park 10 min · Whole Foods + Target 10 min by car
+
+CARE · an owner who truly cares. Need a hand with luggage or a private airport ride? Say the word.
+
+Guest access
+Your suite is entirely yours. A fully isolated unit with its own lock, which is why it's listed as an entire home. Private, immaculate, and turned over like we're expecting someone important. We are.
+
+Self-check-in by smart lock. Your code arrives 24 hours before you do.
+
+Need to arrive early or linger late? Just ask — a small fee applies.
+
+#SVR-03137
+
+Other things to note
+WAYS TO BOOK
+This listing is the Kiwi Suite — the top floor, the morning light, the best sleep in the house. The rest of the collection, suite by suite or the whole house at once, lives on my Host Profile. Traveling as a group? Take every key.
+
+PRICING
+One rate covers two. Each additional guest adds $50 per night, covering the extra cleaning and wear, plainly. That's the whole story. Pets stay for one flat fee per booking; a whole pack costs a little more. Weekdays run gentler, longer stays earn a discount. Military and teachers booking ahead: say so, and the rate says thank you.
+
+CELEBRATIONS
+Proposals, anniversaries, birthdays with a zero in them, a bachelorette claiming the whole house. We arrange what the moment needs: flowers waiting, a table no one can get, a photographer who knows the light on the square. Write to us before booking for anything beyond a quiet stay — larger gatherings are approved in advance through Airbnb, with their own guidelines.
+
+THE HOUSE
+This home has stood on Oglethorpe Square since 1856, and it acts its age in the best ways: heart-pine floors that announce your footsteps, stairs that have carried 170 years of guests, walls that hold stories and, occasionally, sound. It's not a hotel built last year, and that's the point.
+
+THE ASSURANCES
+Smoke detectors throughout. First aid stocked. Cameras outside only — never inside. The same small cleaning team, every stay. If maintenance ever touches your dates, you'll hear it from us first.
+
+ALWAYS IMPROVING
+Nearly every dollar this home generates is reinvested — into the property, our team, and the local community. We're passionate about historic houses, love Savannah wholeheartedly, and it shows in what keeps getting better. 
+
+A SAVANNAH NOTE
+This is the South, in a walking city that's been alive since 1733. Church bells ring, carriages clatter, and on weekend nights downtown hums. A professional pest team treats the property regularly, but nature predates the service contract. That's the habitat, not the housekeeping.
+
+OUR STANDARD
+If it's reasonable and we have notice, we'll find a way.
+
+FOLLOW ALONG
+@BoschHuisRose for the story between stays. Not ready to book? Tap the heart and come back when it's time.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 sofa bed
+
+What this place offers
+Beach access
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+Hot tub
+Sauna
+Pets allowed
+Exterior security cameras on property
+Show all 92 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 54 reviews.
+5.0
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+15
+Location
+32
+Hospitality
+41
+Parking
+8
+Comfort
+15
+Cleanliness
+15
+Pets
+5
+Decor
+6
+Sleep quality
+8
+Indoor spaces
+8
+Brian
+Union Grove, Alabama
+Rating, 5 stars
+,
+·
+2 days ago
+,
+·
+Stayed a few nights
+This place was absolutely amazing! Great location and very walkable to all of the areas of Savannah you want to visit. I highly recommend!
+Show more
+Jamie
+New to Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed one night
+Lovely stay and gorgeous home. Jonathan was so helpful and friendly! Would definitely recommend and probably will stay again!
+Show more
+Jesselyn
+Scranton, Pennsylvania
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with a pet
+What can I say?! I have nothing but great things to say! I loved our whole stay, I wish we could have stayed longer. We will definitely come back! We are on our way home from a long roadtrip and we stopped in Savannah for a night with our little Shih Tzu. Everything was perfect, our doggy felt right at home. There’s a shared kitchen, I was skeptical at first but honestly it’s great to have it there! Equipped with everything and more than you’d need if you needed it but restaurants and shops are a short walk away. Lots of parks around and close to the river. Absolutely loved this location!
+Show more
+David
+Johns Island, South Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Jonathan was an amazing host and made a trip memorable. He was very attentive and responsive and friendly. 10/10 would recommend to anyone who wants to visit Savannah for a weekend trip.
+Show more
+James
+Fort Mill, South Carolina
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with a pet
+This was a fantastic stay. So close to everything and Jonathan was extremely responsive to any questions we had.
+Show more
+Dillon
+11 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+Had a great stay in a comfy room. Excellent area with lots to do!
+Show more
+Show all 54 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Sorry, we have no imagery here.
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Jonathan
+Superhost
+796 reviews
+796
+Reviews
+4.97 out of 5 average rating
+4.97
+Rating
+3 years of hosting
+3
+Years hosting
+Born in the 90s
+Where I went to school: Amsterdam & Portland. Yes, that’s far
+Airbnb insists this box is about me. So: Raised in my family's bed & breakfast in the Netherlands. My childhood bedroom had a room number. I carried the luggage. The toilets were mine too. Then a decade at the top of sports & entertainment, learning what world-class looks like. 'Huis' is Dutch for home. Bosch Huis is exactly that — a home is only as good as the people inside it. That part is you. I still carry luggage. Old habits. Good ones. Message me when you land. I already know a place.
+Jonathan is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Vacation rentals with beach access in Savannah
+Waterfront vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a kayak in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

@@ -1,0 +1,479 @@
+URL: https://www.airbnb.com/rooms/1676337074801652178
+Title: Downtown 2BR/2BA, 1st Floor, Walk to Forsyth
+Latitude: 32.06126535124688
+Longitude: -81.10031841301053
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Steven
+Host ID: 330746096
+Host profile ID: 1668419603349883118
+Host URL: https://www.airbnb.com/users/profile/1668419603349883118
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+Living room
+1 couch
+
+=== FULL DESCRIPTION ===
+Beautiful 2B/2B newly constructed dublex in the walkable Thomas Square district - minutes to Starland Yard, local cafes and restaurants, and the popular Forsyth Park.
+This first floor apartment boasts soaring ceilings, artwork by local artists, a bright, modern layout with all utilities and wifi included, outdoor patio with seating, and in-unit W/D. Free street parking. Short walk to Foxy Loxy Cafe, Nom Nom Poke Shop, and Strangebird. Your perfect Savannah Stay!
+
+The space
+Enjoy a comfortable, modern stay minutes from downtown Savannah. 
+
+This spacious 2B / 2B home features a bright and clean apartment with fully equipped kitchen, WiFi,  comfortable beds, dedicated work areas, and a relaxing living room perfect for unwinding after exploring the city. 
+
+Enjoy original art within this home by local artists —watercolors, oil paint, pencil and acrylic! All curated to specifically enhance your stay in Savannah!
+
+We offer a 50” Smart TV in the living room, fresh linens, in-unit washer/dryer, and all utilities included. 
+
+Guests love the convenient location with easy access to Savannah’s historic district, restaurants, shopping, hospitals, SCAD, and nearby attractions.
+Whether you’re visiting for work, vacation, or an extended stay, this home is designed to feel comfortable, clean, and welcoming.
+
+✔ Fully furnished ✔ WiFi ✔ Smart TV ✔ Washer & dryer ✔ Fully stocked kitchen ✔ Free parking ✔ Self check-in ✔ Short or Mid-Term Stays
+
+We look forward to hosting you in Savannah!
+
+SVR-03311
+
+Guest access
+Guests can use the outdoor patio and enjoy shared lawn in the backyard.
+
+Other things to note
+Free Street parking*
+-Street cleaners come on certain nights. Please adhere to street signs to avoid any parking tickets. 
+
+-Quiet Hours 11pm to 7am.
+
+-Upstairs apartment is occupied.
+
+-Please empty out the lint trap after every use.
+
+-Self check-in is available for early arrival.
+
+-No parties, pets, or smoking, are allowed inside the property.
+
+-Home includes SMART TV for guests to sign into their own streaming accounts. 
+
+-Food delivery services such as DoorDash, Uber Eats, and InstaCart are available in the area. 
+
+-Main entrance has 3 steps that lead to the front door.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Children’s books and toys
+Children’s dinnerware
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free parking on premises
+Free street parking
+Recycling
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Downtown 2BR/2BA, 1st Floor, Walk to Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+3 reviews
+Hosted by Steven
+5 months hosting
+Listing highlights
+In the Thomas Square district
+About a 5-min walk to Thomas Park, with Forsyth Park and the Victorian Historic District nearby
+Modern duplex with patio and laundry
+A fully equipped kitchen, in-unit washer and dryer, and an outdoor patio with seating
+Clean, comfortable, and quiet
+Guests highlight the clean, comfortable space and quiet neighborhood
+Beautiful 2B/2B newly constructed dublex in the walkable Thomas Square district - minutes to Starland Yard, local cafes and restaurants, and the popular Forsyth Park.
+This first floor apartment boasts soaring ceilings, artwork by local artists, a bright, modern layout with all utilities and wifi included, outdoor patio with seating, and in-unit W/D. Free street parking. Short walk to Foxy Loxy Cafe, Nom Nom Poke Shop, and Strangebird. Your perfect Savannah Stay!
+
+The space
+Enjoy a comfortable, modern stay minutes from downtown Savannah. 
+
+This spacious 2B / 2B home features a bright and clean apartment with fully equipped kitchen, WiFi,  comfortable beds, dedicated work areas, and a relaxing living room perfect for unwinding after exploring the city. 
+
+Enjoy original art within this home by local artists —watercolors, oil paint, pencil and acrylic! All curated to specifically enhance your stay in Savannah!
+
+We offer a 50” Smart TV in the living room, fresh linens, in-unit washer/dryer, and all utilities included. 
+
+Guests love the convenient location with easy access to Savannah’s historic district, restaurants, shopping, hospitals, SCAD, and nearby attractions.
+Whether you’re visiting for work, vacation, or an extended stay, this home is designed to feel comfortable, clean, and welcoming.
+
+✔ Fully furnished ✔ WiFi ✔ Smart TV ✔ Washer & dryer ✔ Fully stocked kitchen ✔ Free parking ✔ Self check-in ✔ Short or Mid-Term Stays
+
+We look forward to hosting you in Savannah!
+
+SVR-03311
+
+Guest access
+Guests can use the outdoor patio and enjoy shared lawn in the backyard.
+
+Other things to note
+Free Street parking*
+-Street cleaners come on certain nights. Please adhere to street signs to avoid any parking tickets. 
+
+-Quiet Hours 11pm to 7am.
+
+-Upstairs apartment is occupied.
+
+-Please empty out the lint trap after every use.
+
+-Self check-in is available for early arrival.
+
+-No parties, pets, or smoking, are allowed inside the property.
+
+-Home includes SMART TV for guests to sign into their own streaming accounts. 
+
+-Food delivery services such as DoorDash, Uber Eats, and InstaCart are available in the area. 
+
+-Main entrance has 3 steps that lead to the front door.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+Living room
+1 couch
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Show all 58 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+5.0 out of 5 stars from 3 reviews
+5.0 · 3 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Comfort
+2
+Location
+2
+Hospitality
+2
+Adison
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed a few nights
+Great hosts! Clean, lots of food options that were walking distance and easy parking!
+Tosha
+Tallahassee, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Beautiful home, comfortable and quiet neighborhood. Steven was very responsive to questions.   Would definitely stay again.
+Romain
+New York, New York
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with kids
+Perfect Airbnb in Savannah. Not far from the center. Easy to drive around. Nice apartment. Really cozy and well decorated. Furnitures are really nice and comfortable.
+Such a nice place in quiet area.
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Show more
+Meet your host
+Steven
+Host
+4 reviews
+4
+Reviews
+5.0 out of 5 average rating
+5.0
+Rating
+5 months of hosting
+5
+Months hosting
+Lives in Savannah, Georgia
+Living the Savannah dream where we picnic with our kids, paint the local scenes, and enjoy ice cream and coffee.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 2:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

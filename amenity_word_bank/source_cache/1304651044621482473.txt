@@ -1,0 +1,519 @@
+URL: https://www.airbnb.com/rooms/1304651044621482473
+Title: Dog Friendly, Historic Off Jones Street W/Parking
+Latitude: 32.0707
+Longitude: -81.0891
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Karen
+Host ID: 190665876
+Host profile ID: 1468989984516186782
+Host URL: https://www.airbnb.com/users/profile/1468989984516186782
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 king bed
+
+=== FULL DESCRIPTION ===
+Welcome to the Luxe Retreat, the elegant west-side townhouse of Savannah's historic Silas Fulton House. Built in 1860 for Silas Fulton — one of Savannah's early freedmen and entrepreneurs — this beautifully preserved post-and-beam home has been thoughtfully restored to offer guests an experience that's authentically Savannah and unmistakably luxurious.
+
+The space
+With 3 bedrooms, 2 baths, and room for up to 6 guests, the Luxe Retreat is the perfect size for couples traveling together, small family trips, girls' weekends, anniversaries, and romantic Southern getaways. Step inside and you're greeted by original architectural details — exposed beams, soaring ceilings, and timeless Southern character — paired with the kind of refined modern finishes you'd expect from a high-end boutique stay.
+
+Each of the three elegantly appointed bedrooms is designed for restorative rest, with luxury mattresses (frequently called out by guests as some of the most comfortable they've ever slept in), high-end linens, and thoughtfully curated decor. Wake up refreshed, brew coffee in the fully equipped chef's kitchen, and settle in for a day of exploring — or stay in and enjoy the home's beautifully designed living spaces, smart TV, and high-speed Wi-Fi.
+
+When the sun sets, head out to the shared courtyard, where a gas fire pit sets the scene for slow evenings under the Savannah sky. And in a city famously short on parking, you'll appreciate the home's rare and welcome perk: a reserved off-street parking spot for guests of the Luxe Retreat.
+
+Step outside the front door and you're immediately immersed in the magic of Savannah's Historic District. Stroll Jones Street — often called one of the most beautiful streets in America — wander the moss-draped squares, sip cocktails on lantern-lit patios, browse boutiques, and dine at award-winning restaurants. Forsyth Park is just a short walk away, and River Street's waterfront views, shops, and nightlife are an easy stroll from the home.
+
+Planning a larger gathering? The Luxe Retreat shares a building with our Haint Blue Haven townhouse, and the two can be booked together to create a 6-bedroom, 3.5-bath estate that sleeps 12 — ideal for family reunions, bachelorette weekends, weddings, and milestone celebrations.
+
+Whether you're here for the history, the food, the romance, or simply to slow down and enjoy the Lowcountry, the Luxe Retreat at Silas Fulton House offers a stay as memorable as Savannah itself. courtyard, exploring the nearby attractions, or relaxing in the beautiful living areas, Silas Fulton Historic House promises a unique blend of history and luxury.
+
+SVR-03060
+
+Guest access
+Guests have access to the entire townhouse and the shared courtyard. The reserved off-street parking space is exclusively for your use during your stay. Locked owner storage areas are the only restricted spaces.
+
+Other things to note
+Parking: Includes one reserved off-street parking space, a rare convenience in Savannah’s historic district.
+Shared Courtyard: Courtyard access is shared with the adjacent townhouse. Please be mindful of other guests.
+Ample Supplies: We provide plenty of toiletries, and kitchen essentials for a stress-free stay.
+Historic Features: As this is a historic home, please treat original fixtures and furnishings with care.
+Entire property of two townhouses available to book together for a larger group of 12.
+
+If this unit is already booked or you'd like to experience the charm of our neighboring unit, no problem! Simply book our adjacent unit, Haint Blue Haven, which accommodates up to 6 guests. Check availability here: airbnb.com/h/silasfultonhouse1
+
+If you're looking for even more space, you can book the entire townhouse, offering a combined stay for up to 12 guests.  Explore availability and book here: airbnb.com/h/silasfultonhouse
+
+We’d love to host you—whether it’s for a cozy stay in one unit or an unforgettable experience in both!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Drying rack for clothing
+Clothing storage
+Entertainment
+TV
+Marshall Bluetooth sound system
+Books and reading material
+Family
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+For safety and security, there are cameras monitoring and recording video and audio of the front porch, back porch and parking area.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Mini fridge
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Fire pit
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Dog Friendly, Historic Off Jones Street W/Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+48 reviews
+48
+Reviews
+Hosted by Karen
+Superhost · 5 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Whitefield and Troup Squares, with cobblestone streets and restaurants all within walking distance
+Free off-street parking included
+A reserved off-street parking spot, a welcome perk in a city where street parking is scarce
+Beds guests can't stop praising
+Guests consistently highlight the comfortable beds, with many calling them some of the best they've slept in
+Welcome to the Luxe Retreat, the elegant west-side townhouse of Savannah's historic Silas Fulton House. Built in 1860 for Silas Fulton — one of Savannah's early freedmen and entrepreneurs — this beautifully preserved post-and-beam home has been thoughtfully restored to offer guests an experience that's authentically Savannah and unmistakably luxurious.
+
+The space
+With 3 bedrooms, 2 baths, and room for up to 6 guests, the Luxe Retreat is the perfect size for couples traveling together, small family trips, girls' weekends, anniversaries, and romantic Southern getaways. Step inside and you're greeted by original architectural details — exposed beams, soaring ceilings, and timeless Southern character — paired with the kind of refined modern finishes you'd expect from a high-end boutique stay.
+
+Each of the three elegantly appointed bedrooms is designed for restorative rest, with luxury mattresses (frequently called out by guests as some of the most comfortable they've ever slept in), high-end linens, and thoughtfully curated decor. Wake up refreshed, brew coffee in the fully equipped chef's kitchen, and settle in for a day of exploring — or stay in and enjoy the home's beautifully designed living spaces, smart TV, and high-speed Wi-Fi.
+
+When the sun sets, head out to the shared courtyard, where a gas fire pit sets the scene for slow evenings under the Savannah sky. And in a city famously short on parking, you'll appreciate the home's rare and welcome perk: a reserved off-street parking spot for guests of the Luxe Retreat.
+
+Step outside the front door and you're immediately immersed in the magic of Savannah's Historic District. Stroll Jones Street — often called one of the most beautiful streets in America — wander the moss-draped squares, sip cocktails on lantern-lit patios, browse boutiques, and dine at award-winning restaurants. Forsyth Park is just a short walk away, and River Street's waterfront views, shops, and nightlife are an easy stroll from the home.
+
+Planning a larger gathering? The Luxe Retreat shares a building with our Haint Blue Haven townhouse, and the two can be booked together to create a 6-bedroom, 3.5-bath estate that sleeps 12 — ideal for family reunions, bachelorette weekends, weddings, and milestone celebrations.
+
+Whether you're here for the history, the food, the romance, or simply to slow down and enjoy the Lowcountry, the Luxe Retreat at Silas Fulton House offers a stay as memorable as Savannah itself. courtyard, exploring the nearby attractions, or relaxing in the beautiful living areas, Silas Fulton Historic House promises a unique blend of history and luxury.
+
+SVR-03060
+
+Guest access
+Guests have access to the entire townhouse and the shared courtyard. The reserved off-street parking space is exclusively for your use during your stay. Locked owner storage areas are the only restricted spaces.
+
+Other things to note
+Parking: Includes one reserved off-street parking space, a rare convenience in Savannah’s historic district.
+Shared Courtyard: Courtyard access is shared with the adjacent townhouse. Please be mindful of other guests.
+Ample Supplies: We provide plenty of toiletries, and kitchen essentials for a stress-free stay.
+Historic Features: As this is a historic home, please treat original fixtures and furnishings with care.
+Entire property of two townhouses available to book together for a larger group of 12.
+
+If this unit is already booked or you'd like to experience the charm of our neighboring unit, no problem! Simply book our adjacent unit, Haint Blue Haven, which accommodates up to 6 guests. Check availability here: airbnb.com/h/silasfultonhouse1
+
+If you're looking for even more space, you can book the entire townhouse, offering a combined stay for up to 12 guests.  Explore availability and book here: airbnb.com/h/silasfultonhouse
+
+We’d love to host you—whether it’s for a cozy stay in one unit or an unforgettable experience in both!
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Exterior security cameras on property
+Show all 59 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 48 reviews.
+4.92
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+19
+Location
+21
+Hospitality
+23
+Comfort
+15
+Sleep quality
+10
+Cleanliness
+12
+Family
+9
+Amenities
+9
+Parking
+5
+Decor
+7
+Brittany
+6 years on Airbnb
+Rating, 4 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Overall our stay was great. Karen and her co -host were extremely responsive when we needed them. The house was a little further from the Main Street than anticipated but it all worked out. The home was very historic and beds were extremely comfortable!
+Show more
+Melanie
+Murray, Kentucky
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Gorgeous stay. We loved it for a couple of nights for our family to meet in Savannah. We could walk everywhere in the historic district. The updates are amazingly done - it looks just like the photos. We would stay here again.
+Show more
+Umberto
+1 month on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Karen was always very quick to respond to any questions we had , Home was clean, beds were comfortable. Most of all the location was perfect to walk to all locations. We would definitely stay again.
+FYI they have a parking spot in driveway off home   Which is a Huge plus in Savannah. 
+TYVM Karen
+Show more
+Cathy
+Calhoun, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Perfect place. Very clean. Had everything you need for a stay in Savannah. Very responsive hosts. Perfect location. We plan to come back this fall and stay here again. We come to Savannah every year since 2006. This is one of the best places we have ever stayed.
+Show more
+Vincent
+Richmond, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Beautiful place with comfortable beds and all the amenities provided.  Plus free coffee ☕️
+Michelle
+Oshkosh, Wisconsin
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+We visited Savannah for a few days. The house is conveniently situated so that we could easily walk to sights and restaurants.
+The home is comfortable with plenty of space for our group to relax. Hosts were kind enough to allow an early check- in.
+We would happily stay again.
+Show more
+Show all 48 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Silas Fulton Historic House is located in the heart of Savannah’s historic district, just steps from Jones Street—hailed as one of America’s most beautiful streets—and Forsyth Park. Stroll cobblestone streets lined with moss-draped oaks, explore boutique shops, and dine at award-winning restaurants. Savannah’s charm, history, and Southern hospitality are all right outside your door.
+Show more
+Meet your host
+Karen
+Superhost
+425 reviews
+425
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+5 years of hosting
+5
+Years hosting
+My work: Vivian Stays
+I spend too much time: Thinking about travel
+After years of building a life together—raising our family and pursuing careers—we’ve found joy in creating beautiful spaces where others can make lasting memories. Each home is carefully curated with comfort, style, and every detail in mind, ensuring a seamless and relaxing experience. Whether you're visiting for a weekend escape, a family gathering, or an extended stay, we want you to feel at home from the moment you arrive.
+Karen is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kurt
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

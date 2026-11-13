@@ -1,0 +1,481 @@
+URL: https://www.airbnb.com/rooms/49836048
+Title: Enchanting 5 BR Condos in Stately Forsyth Mansion
+Latitude: 32.0665
+Longitude: -81.0946
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah And Michael
+Host ID: 392686204
+Host profile ID: 1469814568914204522
+Host URL: https://www.airbnb.com/users/profile/1469814568914204522
+Bedrooms: 5
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 5
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 double bed
+
+=== FULL DESCRIPTION ===
+This private condo perched on the second (and third!) floors of our historic mansion, steps off Forsyth Park. Enjoy gathering with friends and family in this Victorian estate! Thoughtfully updated with all the modern amenities, while still maintaining SO many charming original details! Have a drink on one of the balconies, enjoy a meal around the dining table, or explore our beautiful city knowing that you have this awesome space to come home to!
+
+SVR-02227
+
+The space
+Our condo might be the perfect spot for you!  With such a large space, we do want to ensure we are the right fit for your group.  We have a strict 8 guest occupancy limit, which is the maximum permitted by our license to short term rent.  Unfortunately, we can't make any exceptions to this rule.  We also rent out another condo right below this one, and we do our best to ensure both groups are able to peacefully enjoy the space.  Though we have plenty of space to stretch out, we do not permit parties or events and must enforce our neighborhood Quiet Hours after 10pm.  Before booking, please send us a message describing your group and your plans for your stay! 
+
+The condo is expansive with a fun, old world layout.  Stretch out in one of the four king bedrooms or cozy up in the fifth bonus bedroom with a twin bed - all equipped with brand new mattresses.  Enjoy your morning coffee on either of the TWO balconies overlooking the backyard and entertain your group in the large kitchen, dining, and living areas.  If you need a break from the fun, sneak upstairs and sink into the LoveSac in the third floor den for a quick recharge!
+
+Guest access
+The entire the second and third floor is yours!  Your private entrance from the exterior leads you right upstairs to your living space.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+Exterior security cameras on exterior of property monitoring the front door and back door.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 54 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Enchanting 5 BR Condos in Stately Forsyth Mansion
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+8 guests · 5 bedrooms · 5 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+240 reviews
+240
+Reviews
+Hosted by Sarah And Michael
+Superhost · 6 years hosting
+Listing highlights
+Steps from Forsyth Park
+Steps from Forsyth Park, with Savannah's historic squares and riverfront all walkable from here
+Two-story Victorian with balconies
+A Victorian mansion condo spread across two floors, with four king bedrooms and two balconies
+Sarah is a standout host
+Guests highlight Sarah's quick responses, comfortable beds, and the charm of the historic home
+This private condo perched on the second (and third!) floors of our historic mansion, steps off Forsyth Park. Enjoy gathering with friends and family in this Victorian estate! Thoughtfully updated with all the modern amenities, while still maintaining SO many charming original details! Have a drink on one of the balconies, enjoy a meal around the dining table, or explore our beautiful city knowing that you have this awesome space to come home to!
+
+SVR-02227
+
+The space
+Our condo might be the perfect spot for you!  With such a large space, we do want to ensure we are the right fit for your group.  We have a strict 8 guest occupancy limit, which is the maximum permitted by our license to short term rent.  Unfortunately, we can't make any exceptions to this rule.  We also rent out another condo right below this one, and we do our best to ensure both groups are able to peacefully enjoy the space.  Though we have plenty of space to stretch out, we do not permit parties or events and must enforce our neighborhood Quiet Hours after 10pm.  Before booking, please send us a message describing your group and your plans for your stay! 
+
+The condo is expansive with a fun, old world layout.  Stretch out in one of the four king bedrooms or cozy up in the fifth bonus bedroom with a twin bed - all equipped with brand new mattresses.  Enjoy your morning coffee on either of the TWO balconies overlooking the backyard and entertain your group in the large kitchen, dining, and living areas.  If you need a break from the fun, sneak upstairs and sink into the LoveSac in the third floor den for a quick recharge!
+
+Guest access
+The entire the second and third floor is yours!  Your private entrance from the exterior leads you right upstairs to your living space.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 5 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 double bed
+
+What this place offers
+Kitchen
+Fast wifi – 54 Mbps
+Dedicated workspace
+Free street parking
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 240 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Parks
+43
+Walkability
+79
+Location
+132
+Hospitality
+98
+Cleanliness
+50
+Comfort
+46
+Indoor spaces
+48
+Nearby
+53
+Sleep quality
+39
+Getting around
+23
+Benton
+Poughkeepsie, New York
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+This is a wonderful, cozy home that easily fit 8 adults. It is a 5 - 25 minute walk of the entire Historic District, and River Front, 1 block from Krogers (groceries) and 1 block from a Drayton Street DOT (free bus) pickup. Everything was as advertised and the house was spotless when we arrived. Sarah and Michael were great hosts and responsive to any questions we had throughout our stay.
+Show more
+Michael
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+I can’t say enough we loved  the charm and comfort of the home . Felt like Savanah should be . Everything was perfect for our stay 
+HIGHLY recommend and Sara is amazing. Great quick reponses
+Show more
+Jessica
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+We enjoyed our stay!! Everything was great and fully stocked with everything we needed for a party of 9! Thank y’all for everything!!
+Christine
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+This house was perfect for our family , everyone had their own room,  the house was clean and had all the amenities we needed to feel comfortable.  Our host was very responsive to our questions and offered a lot of local info on restaurants and such!  The location was great -very walkable to the river and park. 
+Would recommend this place for large families!
+Show more
+Jim
+Flower Mound, Texas
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Our high school Girl Scout troop enjoyed a three-day trip to Savannah in May and this AirBNB offered everything we needed. Plenty of space for 8, walkable to most destinations, quiet! Highly recommend!
+Show more
+Jenna
+Linfield, Pennsylvania
+Rating, 4 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Definitely worth the value and excellent location! I wish the space was a little cleaner and had more mirrors for our group to get ready but other than that I would recommend.
+Show all 240 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Show more
+Meet your host
+Sarah And Michael
+Superhost
+876 reviews
+876
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+6 years of hosting
+6
+Years hosting
+Sarah And Michael is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

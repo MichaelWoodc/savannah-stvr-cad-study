@@ -1,0 +1,335 @@
+URL: https://www.airbnb.com/rooms/1706122097219404044
+Title: Charming Carriage House Near Madison Square
+Latitude: 32.0743
+Longitude: -81.0941
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Elsewhere on Madison Square Carriage House is a private and beautifully restored Savannah retreat overlooking historic Madison Square in the heart of the Historic District.
+
+The space
+Welcome to Elsewhere on Madison Square Carriage House, a private and beautifully restored Savannah retreat overlooking historic Madison Square in the heart of the Historic District. Perfect for couples, small families, wedding guests, business travelers, or extended stays, this charming carriage house offers the ideal blend of historic character, modern comfort, and one of Savannah’s most sought-after locations.
+
+Just steps from Forsyth Park, award-winning restaurants, boutique shopping, museums, and Savannah’s iconic squares, you'll enjoy the convenience of being able to explore much of the city on foot while returning home to your own peaceful retreat.
+
+Inside, a relaxed and welcoming atmosphere unfolds across two thoughtfully designed levels. Warm lighting, comfortable furnishings, and timeless details create a space that feels both inviting and serene. Historic charm pairs beautifully with modern amenities, offering guests the perfect place to unwind after a day spent discovering Savannah.
+
+A vintage-style interior staircase leads to the upper level, where the main living area serves as the heart of the home. Please note that the staircase is steep and narrow and may not be suitable for all guests. Upstairs, modern luxury touches blend seamlessly with classic Savannah character. A comfortable living room, thoughtfully selected furnishings, and abundant natural light create an ideal space for relaxing, reconnecting, or planning the next day's adventures.
+
+The carriage house also features a fully equipped kitchen, making it easy to prepare everything from a quick breakfast before exploring the Historic District to a quiet dinner at home after an evening out in Savannah.
+
+Whether you're visiting for a romantic getaway, wedding weekend, anniversary celebration, remote work stay, or simply to experience Savannah's historic charm, Elsewhere on Madison Square Carriage House offers an unforgettable stay in one of the city's most desirable locations.
+
+From its historic setting overlooking Madison Square to its inviting interiors and walkable location, this private carriage house provides the perfect home base for experiencing the very best of Savannah.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+
+What is parking like for this home? 
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-00874
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Stove
+Oven
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Not included
+Unavailable: Washer
+Washer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Charming Carriage House Near Madison Square
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1.5 baths
+Rated 4.0 out of 5 stars.
+4.0
+·
+1 review
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Right on Madison Square, with Chippewa Square and the Juliette Gordon Low Birthplace nearby
+Historic carriage house with kitchen
+A restored carriage house with a fully equipped kitchen and a private entrance
+Warm, light-filled interiors
+A two-level layout with warm lighting, queen beds, and natural light throughout
+Elsewhere on Madison Square Carriage House is a private and beautifully restored Savannah retreat overlooking historic Madison Square in the heart of the Historic District.
+
+The space
+Welcome to Elsewhere on Madison Square Carriage House, a private and beautifully restored Savannah retreat overlooking historic Madison Square in the heart of the Historic District. Perfect for couples, small families, wedding guests, business travelers, or extended stays, this charming carriage house offers the ideal blend of historic character, modern comfort, and one of Savannah’s most sought-after locations.
+
+Just steps from Forsyth Park, award-winning restaurants, boutique shopping, museums, and Savannah’s iconic squares, you'll enjoy the convenience of being able to explore much of the city on foot while returning home to your own peaceful retreat.
+
+Inside, a relaxed and welcoming atmosphere unfolds across two thoughtfully designed levels. Warm lighting, comfortable furnishings, and timeless details create a space that feels both inviting and serene. Historic charm pairs beautifully with modern amenities, offering guests the perfect place to unwind after a day spent discovering Savannah.
+
+A vintage-style interior staircase leads to the upper level, where the main living area serves as the heart of the home. Please note that the staircase is steep and narrow and may not be suitable for all guests. Upstairs, modern luxury touches blend seamlessly with classic Savannah character. A comfortable living room, thoughtfully selected furnishings, and abundant natural light create an ideal space for relaxing, reconnecting, or planning the next day's adventures.
+
+The carriage house also features a fully equipped kitchen, making it easy to prepare everything from a quick breakfast before exploring the Historic District to a quiet dinner at home after an evening out in Savannah.
+
+Whether you're visiting for a romantic getaway, wedding weekend, anniversary celebration, remote work stay, or simply to experience Savannah's historic charm, Elsewhere on Madison Square Carriage House offers an unforgettable stay in one of the city's most desirable locations.
+
+From its historic setting overlooking Madison Square to its inviting interiors and walkable location, this private carriage house provides the perfect home base for experiencing the very best of Savannah.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+
+What is parking like for this home? 
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+SVR-00874
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+TV
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Long term stays allowed
+Show all 27 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+1 review
+1 review
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Ottis
+Pinetta, Florida
+Rating, 4 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Everything fine except having to walk in an alleyway with garbage dumpsters after dark, and the noise of trash can activity all day and most of the night.
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

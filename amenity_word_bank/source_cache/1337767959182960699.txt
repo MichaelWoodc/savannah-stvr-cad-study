@@ -1,0 +1,495 @@
+URL: https://www.airbnb.com/rooms/1337767959182960699
+Title: 1869 Townhome + Garden Apt, Steps to Forsyth
+Latitude: 32.0688
+Longitude: -81.0988
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah
+Host ID: 77350668
+Host profile ID: 1466946903860901609
+Host URL: https://www.airbnb.com/users/profile/1466946903860901609
+Bedrooms: 4
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 6
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 double bed
+
+Bedroom 4
+1 king bed
+
+Living room 1
+1 sofa bed
+
+Living room 2
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+This absolutely stunning 1869 townhouse will take you back in time with its quintessential Southern charm and grandeur! BOTH the parlor and garden units are tastefully restored, mixing preserved original details with all the modern amenities one might need. Comes with TWO dedicated parking spots! Perfect for a family getaway or a gathering with friends! Steps from magnificent Forsyth Park and within walking distance to all that downtown has to offer! Hard to beat this gem!
+
+SVR-02276 & 02277
+
+The space
+The entire townhouse - two fully equipped condos, are all yours! 
+
+Parlor (upper) Condo - Two of the three bedrooms boast king sized beds and en suite bathrooms. The third bedroom has a cozy double sized bed and can access one of the full bathrooms from the main hallway. Downstairs you will find a spacious living room with a pull-out sofa, large formal dining room with impressive light fixtures, half bathroom, and bright and sunny kitchen with modern appliances including an electric range, farmhouse sink, and all the cookware you might need for a quick breakfast or a 5 course dinner! Off the kitchen, travel down the exterior staircase to the charming courtyard garden...the perfect spot to enjoy a glass of wine or sip some sweet tea! 
+
+Garden (lower) Condo - Spacious one-bedroom (garden-level) condo. King sized bed in bedroom with TV, little library, ample storage, and fun décor! Living room boasts a second television, another pull-out sofa, fantastic bar, picnic basket for those afternoons in the park, games, record player, and plenty of room to relax after a long day of exploring Savannah! Fully equipped and stocked eat-in kitchen is perfect for preparing a quick breakfast or a full dinner for a night in! Enjoy that southern weather and take a cup of coffee (or wine!) out to the shared patio area and enjoy the slowed down, Southern lifestyle! 
+
+Driving into town? You will have TWO parking passes for the small private lot around the corner plus free street parking right out front!
+
+Guest access
+Both condos and the courtyard are all yours!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live just two blocks away.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV with standard cable
+Record player
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Exterior camera monitoring entrances for guest security
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+1869 Townhome + Garden Apt, Steps to Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+10 guests · 4 bedrooms · 6 beds · 3.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+5 reviews
+5
+Reviews
+Hosted by Sarah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Victorian District
+About a 5-min walk to Forsyth Park, with Monterey Square and historic landmarks within a 10-min stroll
+Historic townhouse with courtyard garden
+An 1869 townhouse with a courtyard garden, two fully equipped kitchens, and a bar in the garden unit
+Comfortable beds, spacious layout
+Guests highlight the comfortable beds and how spacious the home felt for their group
+This absolutely stunning 1869 townhouse will take you back in time with its quintessential Southern charm and grandeur! BOTH the parlor and garden units are tastefully restored, mixing preserved original details with all the modern amenities one might need. Comes with TWO dedicated parking spots! Perfect for a family getaway or a gathering with friends! Steps from magnificent Forsyth Park and within walking distance to all that downtown has to offer! Hard to beat this gem!
+
+SVR-02276 & 02277
+
+The space
+The entire townhouse - two fully equipped condos, are all yours! 
+
+Parlor (upper) Condo - Two of the three bedrooms boast king sized beds and en suite bathrooms. The third bedroom has a cozy double sized bed and can access one of the full bathrooms from the main hallway. Downstairs you will find a spacious living room with a pull-out sofa, large formal dining room with impressive light fixtures, half bathroom, and bright and sunny kitchen with modern appliances including an electric range, farmhouse sink, and all the cookware you might need for a quick breakfast or a 5 course dinner! Off the kitchen, travel down the exterior staircase to the charming courtyard garden...the perfect spot to enjoy a glass of wine or sip some sweet tea! 
+
+Garden (lower) Condo - Spacious one-bedroom (garden-level) condo. King sized bed in bedroom with TV, little library, ample storage, and fun décor! Living room boasts a second television, another pull-out sofa, fantastic bar, picnic basket for those afternoons in the park, games, record player, and plenty of room to relax after a long day of exploring Savannah! Fully equipped and stocked eat-in kitchen is perfect for preparing a quick breakfast or a full dinner for a night in! Enjoy that southern weather and take a cup of coffee (or wine!) out to the shared patio area and enjoy the slowed down, Southern lifestyle! 
+
+Driving into town? You will have TWO parking passes for the small private lot around the corner plus free street parking right out front!
+
+Guest access
+Both condos and the courtyard are all yours!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live just two blocks away.
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 6 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 double bed
+
+Bedroom 4
+1 king bed
+
+Living room 1
+1 sofa bed
+
+Living room 2
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 57 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 5 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+4
+Comfort
+4
+Sleep quality
+3
+Cleanliness
+3
+Decor
+2
+Bathroom
+2
+Location
+2
+Hospitality
+2
+Shannon
+New Braunfels, Texas
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+This home was so very comfortable for our family to stay in while we were in town celebrating my daughter’s graduation from SCAD.
+The living room was comfortable, decorated so nice and it was spacious enough for all 10 of us to watch tv in the evenings, we did a little cooking in the kitchen which was so nice and Sarah even brought me a regular coffee pot when I questioned if the Keurig was our only morning option (which was incredibly thoughtful of her and much appreciated.)
+The beds were very comfortable, we used the pull out sofas and they were also very comfy, also the bathrooms were very clean.  The little apartment downstairs was also just what we needed to make this family trip the perfect spot to rent. 
+Parking spot was also a plus.  
+We walked all over downtown, felt safe and enjoyed the beautiful sights.  
+I would definitely stay here again
+Show more
+Sammi
+San Diego, California
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+Absolutely adored this stay! It was even better than the photos and description. It comfortably fit our whole group and the location of this stay was amazing! Walkable to downtown and other stores and coffee shops.
+Show more
+Frances
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Group trip
+Great place! My friends and I stayed for a bachelorette and it had a big comfy couch which was important. Comfortable beds and clean bathrooms. Great location, very walkable, and we were able to check in early!
+Show more
+Jill
+Collegedale, Tennessee
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Stayed a few nights
+Our stay was amazing. The beds were comfortable with plenty of spare blankets and pillows.  We had a gift from our host and a well stocked coffee bar. Check out was the easiest I have ever experienced. We will definitely book here again.
+Show more
+Jennifer
+Apex, North Carolina
+Rating, 5 stars
+,
+·
+June 2025
+,
+·
+Group trip
+This property was absolutely stunning. Beautifully decorated and so clean. We had a group of 9 girls and we were very comfortable. The beds and linens are very comfortable. Not quite walkable to downtown but we were able to easily Lyft for around 7-9 dollars for an XL. I've organized a lot of girls trips and this property very much exceeded my expectations.
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+This is probably our favorite neighborhood in the city! The house is off a quiet street split by a treeway full of Spanish-moss covered oaks. Stroll just a block and a half and enter the middle of gorgeous Forsyth Park, the city's crown jewel! Take in the beautiful architecture and shaded streets surrounding this condo that straddles Savannah's Victorian and Historic Districts. Collin's in Forsyth, Crystal Beer Parlor, Black Rabbit, 700 Drayton, Local 11Ten and other incredible bars and restaurants are right outside your door.
+
+If you choose to stay with us and need lots of recommendations...don't worry! We are happy to provide personalized recommendations based on your interests and preferences...just ask us! We are passionate about our little Southern city and are happy to provide lots of awesome spots to check out! And we live right around the corner, so we are ALWAYS here if you need us!
+Show more
+Meet your host
+Sarah
+Superhost
+5,117 reviews
+5117
+Reviews
+4.95 out of 5 average rating
+4.95
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental on Forsyth Park!
+Sarah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Townhome vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

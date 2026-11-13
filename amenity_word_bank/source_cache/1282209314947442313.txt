@@ -1,0 +1,463 @@
+URL: https://www.airbnb.com/rooms/1282209314947442313
+Title: Live Oak Condo on Oglethorpe Square
+Latitude: 32.0778
+Longitude: -81.0896
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jason
+Host ID: 10735846
+Host profile ID: 1462848397964194768
+Host URL: https://www.airbnb.com/users/profile/1462848397964194768
+Bedrooms: 0
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This completely renovated studio apartment overlooks Oglethorpe Square. Have your morning coffee or afternoon cocktail on the balcony overlooking picturesque Oglethorpe Square. This unit is located right in the heart of Downtown Savannah, walking distance to everything! 
+
+Message for discounted rate options. 
+
+Have 4 guests? Book our sister property right next door, https://www.airbnb.com/rooms/2105926.
+
+The space
+Located beside the infamous Owens-Thomas House and Oglethorpe Square, the historic yet modern one bedroom studio comfortably accommodates two guests. The studio is located in The Graham Building. The studio features a comfortable king bed and 1 full bath. Parking options include on street parking and the State Street Parking Garage located conveniently next door. All parking options will be discussed in detail in the check-in email. 
+
+ City of Savannah Short Term Vacation Rental (STVR) Certificate - SVR - 02969.
+
+Guest access
+Guests will be given an access code for a lock at the front door as well as an access code for a lock on the unit door in the check-in email.
+
+Other things to note
+You can book the neighboring unit for 2 more guests and the 4 of you will be neighbors with adjacent balconies!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Paid dryer – In building
+Hangers
+Bed linens
+Cotton linens
+Room-darkening shades
+Iron
+Clothing storage: wardrobe
+Entertainment
+TV
+Books and reading material
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable heater
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+GE refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Hot water kettle
+Coffee maker: espresso machine, french press
+Wine glasses
+Toaster
+Blender
+Dining table
+Coffee
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Paid parking garage off premises
+Paid parking on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Housekeeping - available at extra cost
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Essentials
+Essentials
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Live Oak Condo on Oglethorpe Square
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Add dates for prices
+Add dates for prices
+5.0 ·
+30 reviews
+Rated 5.0 out of 5 from 30 reviews.
+Check availability
+Entire rental unit in Savannah, Georgia
+2 guests · Studio · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+30 reviews
+30
+Reviews
+Hosted by Jason
+Superhost · 13 years hosting
+Listing highlights
+In downtown Savannah on Oglethorpe Square
+Steps from Oglethorpe Square and the Owens-Thomas House, with River Street about a 5-min walk
+Balcony with a square view
+A private balcony overlooking the square, with an espresso machine and a French press inside
+Consistently praised across the board
+Guests highlight the comfortable bed, the spotless space, and Jason's responsive communication
+This completely renovated studio apartment overlooks Oglethorpe Square. Have your morning coffee or afternoon cocktail on the balcony overlooking picturesque Oglethorpe Square. This unit is located right in the heart of Downtown Savannah, walking distance to everything! 
+
+Message for discounted rate options. 
+
+Have 4 guests? Book our sister property right next door, https://www.airbnb.com/rooms/2105926.
+
+The space
+Located beside the infamous Owens-Thomas House and Oglethorpe Square, the historic yet modern one bedroom studio comfortably accommodates two guests. The studio is located in The Graham Building. The studio features a comfortable king bed and 1 full bath. Parking options include on street parking and the State Street Parking Garage located conveniently next door. All parking options will be discussed in detail in the check-in email. 
+
+ City of Savannah Short Term Vacation Rental (STVR) Certificate - SVR - 02969.
+
+Guest access
+Guests will be given an access code for a lock at the front door as well as an access code for a lock on the unit door in the check-in email.
+
+Other things to note
+You can book the neighboring unit for 2 more guests and the 4 of you will be neighbors with adjacent balconies!
+Show more
+What this place offers
+Kitchen
+Wifi
+Pets allowed
+TV
+Washer
+Paid dryer – In building
+Air conditioning
+Bathtub
+Private patio or balcony
+Luggage dropoff allowed
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 30 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+11
+Location
+17
+Parks
+3
+Hospitality
+14
+Cleanliness
+8
+Parking
+4
+Indoor spaces
+8
+Layout
+2
+Decor
+5
+View
+5
+Taylor
+Holly Springs, North Carolina
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed with a pet
+We had a great time! The apartment is small but thoughtfully designed and fully stocked with everything you need for a long weekend. It’s in a perfect location, within walking distance to everything, which made getting around so easy.
+The space was very clean, the bed was comfortable, and it’s clear Jason put a lot of care and attention into making the place feel top-notch. Despite the size, there are plenty of smart touches like added hooks and storage to help keep things organized.
+We stayed with two medium-sized dogs and were still very comfortable, which speaks to how well the space is laid out.
+We would absolutely stay here again the next time we visit Savannah!
+Show more
+Kristen
+Saraland, Alabama
+Rating, 5 stars
+,
+·
+5 days ago
+,
+·
+Stayed a few nights
+I cannot recommend Jason’s place enough- he had everything my husband and I needed, right down to the recommendations and the place was so easy to walk to everything we wanted to do.
+Show more
+Tara
+Boston, Massachusetts
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+We've stayed at so many airbnbs over the years and they have varied greatly.  This apartment in Savannah is a GEM!  Great location, luxury linens, squeaky clean, decor is SO well done, and we felt right at home.  Comfy bed, nice little balcony with lights at night, and great shower.  The pictures don't do it justice.  The AC kept the unit cool for sleep.  We walked all over the city.  No need for a car.  If you are a party of two and are thinking about this place, book it.  You will not be disappointed.  Thank you, Jason, for a great stay in Savannah.
+Show more
+Neal
+Spring Grove, Virginia
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+The stairs were a little tough but manageable. Jason was very responsive to our needs and we truly enjoyed our stay. Especially the balcony that overlooks Oglethorpe Square. Parking garage is less than a block away. There is no shortage of things to do and see. Leopold's Ice Cream is a must-do as is River Street and Market Square. First time Savannah visitors will have a great time! Thanks, Jason!
+Show more
+Joe
+Shorewood, Wisconsin
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed about a week
+Thanks Jason… a great condo and excellent location
+Paul
+Christiansburg, Virginia
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+A third floor walk-up. Easy space in front to offload luggage. Large parking garage on next block. Very clean and the photos are accurate. View onto Oglethorpe Square. Easy walk to riverfront or Forsythe Park. One block to free bus service reaching most parts of Savannah. This is also my first experience using Airbnb. Jason was proactive in his communications. I had everything I needed before arrival. A very smooth experience. I would recommend highly. Paul
+Show more
+Show all 30 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Jason
+Superhost
+246 reviews
+246
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+13 years of hosting
+13
+Years hosting
+Lives in Savannah, Georgia
+I am originally from Wilmington, NC. I studied Civil Engineering at North Carolina State University and graduated in 2008. Upon graduating, I moved to Savannah, Ga for my current job, fell in love with the city, and have lived here since.
+Jason is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Janice
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+2 guests maximum
+Pets allowed
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Pet-friendly vacation rentals in Georgia
+Pet-friendly vacation rentals in United States
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

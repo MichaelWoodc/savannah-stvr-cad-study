@@ -1,0 +1,438 @@
+URL: https://www.airbnb.com/rooms/1647889398532791619
+Title: Wayne Mansion Estate - 1871 Beauty near Forsyth
+Latitude: 32.0679
+Longitude: -81.0934
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 9
+Occupancy (maximum guests): 16
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 10
+
+Beds enumerated in room tiles: 11
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 king bed
+
+Bedroom 6
+1 queen bed
+
+Bedroom 7
+1 queen bed
+
+Bedroom 8
+1 queen bed
+
+Bedroom 9
+1 queen bed
+
+Living room
+2 sofa beds
+
+=== FULL DESCRIPTION ===
+Wayne Mansion Estate is an extraordinary multi‑residence property just a block away from Forsyth Park, offering four fully private living spaces arranged around a large, beautifully furnished and fully enclosed courtyard. Built in 1871, the estate features a two‑story historic main house with a garden‑level two‑bedroom apartment beneath it and two carriage house units located across the courtyard.
+
+The space
+The property offers a perfect mix of communal spaces and privacy, ideal for large groups who want to gather comfortably while still enjoying their own retreat.
+
+Four Private Residences
+
+All four units are reserved exclusively for your group, offering a total of nine bedrooms, ten beds, seven full bathrooms, three half baths, and four fully-equipped kitchens.
+
+Main House (3 Bedrooms with King Beds, 3 Full Baths + 1 Half Bath)  
+A two‑story residence showcasing original wood floors, a grand historic staircase, ornate ceiling medallions, intricate crown moldings, and marble fireplaces. Includes elegant formal living room, formal dining room with seating for six, cozy TV room, furnished covered porch, and fully equipped kitchen and pantry with six burner range, two beverage chillers, and island seating for four.  
+
+Garden‑Level Apartment (2 Bedrooms with King Beds, 1 Full Bath + 1 Half Bath) — Located directly beneath the Main House, this private ground‑floor apartment has its own entrance and furnished porch, a fully equipped full kitchen, one full size sleeper sofa in a room with doors, and direct courtyard access.  
+
+Ground‑Floor Carriage House (2 Bedrooms with Queen Beds, 1 Full Bath + 1 Half Bath) — Situated across the courtyard from the Main House
+
+Upstairs Carriage House (2 Bedrooms with Queen Beds, 2 Full Baths) — Located above the ground‑floor carriage house and also across the courtyard from the Main House, this two‑bedroom residence offers elevated courtyard views  
+
+Outdoor Features
+- Large furnished and fully enclosed courtyard ideal for gathering, relaxing, or enjoying morning coffee  
+- Side yard offering additional green space and privacy  
+- Two private off‑street parking spaces, a rare amenity in this neighborhood
+
+Bedroom 1 (Main House) - King bed, TV, walk-in closet, attached dressing room with vanity and extra large mirror, en-suite bathroom with double vanity, claw foot tub and oversized shower
+Bedroom 2 (Main House) - King bed, TV, west-facing windows for beautiful afternoon light
+Bedroom 3 (Main House) - King bed, TV, en-suite bathroom
+Bedroom 4 (Garden Level) - King bed, TV, direct courtyard access, en-suite dual-entry bathroom shared with Bedroom 5
+Bedroom 5 (Garden Level) - King bed, TV, en-suite dual-entry bathroom shared with Bedroom 4
+Bedroom 6 (Lower Carriage) - Queen bed
+Bedroom 7 (Lower Carriage) - Queen bed, TV
+Bedroom 8 (Upper Carriage) - Queen bed, TV
+Bedroom 9 (Upper Carriage) - Queen bed
+
+***Please note that there are additional charges and contract terms required to use the property as an event venue.  Guests interested in using the property for an event should inquire with Arise Property Management before booking.  Guests hosting events not authorized by Arise Property Management will be in breach of contract, resulting in immediate cancellation of the events, fines, and eviction from the property.
+
+Please also note that the property has two exterior security cameras: one facing the courtyard and one facing the side yard.  These cameras are in place for safety, security, and property protection and do not face any interior spaces.
+
+SVR-02397, SVR-02398, SVR-02399
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Family
+Pack ’n play/Travel crib - always at the listing
+Children’s dinnerware
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Backyard - Fully fenced
+An open space on the property usually covered in grass
+BBQ grill: gas
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Wayne Mansion Estate - 1871 Beauty near Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+16+ guests · 9 bedrooms · 10 beds · 8.5 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+1 review
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+Steps from Forsyth Park
+Steps from Forsyth Park, with Savannah's historic squares and landmarks within a short walk
+1871 estate with four residences
+Four residences around an enclosed courtyard, each with its own kitchen and living area
+Spacious and beautifully kept
+One guest called it a beautiful, spacious home and praised the hosts' attention to detail
+Wayne Mansion Estate is an extraordinary multi‑residence property just a block away from Forsyth Park, offering four fully private living spaces arranged around a large, beautifully furnished and fully enclosed courtyard. Built in 1871, the estate features a two‑story historic main house with a garden‑level two‑bedroom apartment beneath it and two carriage house units located across the courtyard.
+
+The space
+The property offers a perfect mix of communal spaces and privacy, ideal for large groups who want to gather comfortably while still enjoying their own retreat.
+
+Four Private Residences
+
+All four units are reserved exclusively for your group, offering a total of nine bedrooms, ten beds, seven full bathrooms, three half baths, and four fully-equipped kitchens.
+
+Main House (3 Bedrooms with King Beds, 3 Full Baths + 1 Half Bath)  
+A two‑story residence showcasing original wood floors, a grand historic staircase, ornate ceiling medallions, intricate crown moldings, and marble fireplaces. Includes elegant formal living room, formal dining room with seating for six, cozy TV room, furnished covered porch, and fully equipped kitchen and pantry with six burner range, two beverage chillers, and island seating for four.  
+
+Garden‑Level Apartment (2 Bedrooms with King Beds, 1 Full Bath + 1 Half Bath) — Located directly beneath the Main House, this private ground‑floor apartment has its own entrance and furnished porch, a fully equipped full kitchen, one full size sleeper sofa in a room with doors, and direct courtyard access.  
+
+Ground‑Floor Carriage House (2 Bedrooms with Queen Beds, 1 Full Bath + 1 Half Bath) — Situated across the courtyard from the Main House
+
+Upstairs Carriage House (2 Bedrooms with Queen Beds, 2 Full Baths) — Located above the ground‑floor carriage house and also across the courtyard from the Main House, this two‑bedroom residence offers elevated courtyard views  
+
+Outdoor Features
+- Large furnished and fully enclosed courtyard ideal for gathering, relaxing, or enjoying morning coffee  
+- Side yard offering additional green space and privacy  
+- Two private off‑street parking spaces, a rare amenity in this neighborhood
+
+Bedroom 1 (Main House) - King bed, TV, walk-in closet, attached dressing room with vanity and extra large mirror, en-suite bathroom with double vanity, claw foot tub and oversized shower
+Bedroom 2 (Main House) - King bed, TV, west-facing windows for beautiful afternoon light
+Bedroom 3 (Main House) - King bed, TV, en-suite bathroom
+Bedroom 4 (Garden Level) - King bed, TV, direct courtyard access, en-suite dual-entry bathroom shared with Bedroom 5
+Bedroom 5 (Garden Level) - King bed, TV, en-suite dual-entry bathroom shared with Bedroom 4
+Bedroom 6 (Lower Carriage) - Queen bed
+Bedroom 7 (Lower Carriage) - Queen bed, TV
+Bedroom 8 (Upper Carriage) - Queen bed, TV
+Bedroom 9 (Upper Carriage) - Queen bed
+
+***Please note that there are additional charges and contract terms required to use the property as an event venue.  Guests interested in using the property for an event should inquire with Arise Property Management before booking.  Guests hosting events not authorized by Arise Property Management will be in breach of contract, resulting in immediate cancellation of the events, fines, and eviction from the property.
+
+Please also note that the property has two exterior security cameras: one facing the courtyard and one facing the side yard.  These cameras are in place for safety, security, and property protection and do not face any interior spaces.
+
+SVR-02397, SVR-02398, SVR-02399
+Show more
+All sleeping arrangements
+
+Advertised beds: 10 | Enumerated: 11 | Count unverified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 king bed
+
+Bedroom 6
+1 queen bed
+
+Bedroom 7
+1 queen bed
+
+Bedroom 8
+1 queen bed
+
+Bedroom 9
+1 queen bed
+
+Living room
+2 sofa beds
+
+What this place offers
+Kitchen
+Wifi
+TV
+Free washer – In unit
+Dryer
+Central air conditioning
+Bathtub
+Backyard - Fully fenced
+Pack ’n play/Travel crib - always at the listing
+Hair dryer
+Show all 45 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+1 review
+1 review
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Shaquanda
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+⭐⭐⭐⭐⭐ ABSOLUTELY AMAZING!
+This property is truly one of Savannah’s hidden gems! The home is absolutely beautiful inside and out, extremely spacious, and thoughtfully designed. With nine bedrooms, ten bathrooms, and four separate apartment-style living areas, each with its own kitchen, bathroom, and living room, the layout was perfect for our large family gathering.
+Family and friends traveled from Florida, New York, North Carolina, Charleston, Beaufort, Texas, and other areas to be together. Some of us had not seen each other in years, and this beautiful home gave us the perfect place to reconnect, laugh, celebrate, and create unforgettable memories.
+The hosts did an outstanding job with every detail. Everything was comfortable, beautiful, and well planned. This was more than just an Airbnb stay—it became part of a very special family memory.
+If I could give 10 stars, I would! Thank you for an incredible stay. We would absolutely return!
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Chaz
+Superhost
+3,103 reviews
+3103
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+No pets
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

@@ -1,0 +1,456 @@
+URL: https://www.airbnb.com/rooms/1457608249289665663
+Title: Chic Studio Apartment on Oglethorpe Square
+Latitude: 32.0778
+Longitude: -81.0896
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: None
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to Savannah! We are thrilled to host you in this updated studio apartment nestled inside the iconic 1920s Graham Building, right on picturesque Oglethorpe Square. With original exterior brick details, hardwood floors, a queen-size bed, and well stocked kitchenette, the space blends historic charm with modern comfort. Just steps from shops, cafés, museums, and the iconic riverfront, this studio is perfect for solo travelers or couples looking to stay in the heart of the Historic District.
+
+The space
+Stay in the heart of Savannah’s Historic District in this beautifully updated first-floor studio. Tucked into one of downtown’s most picturesque neighborhoods, this charming retreat blends historic character with thoughtful modern touches.
+
+Unwind on the plush queen memory foam mattress and enjoy fresh bed linens and soft towels provided for your stay. A Pack ’n Play is available upon request for guests traveling with little ones. Best suited for solo travelers or couples, this cozy space offers a peaceful place to recharge.
+
+The recently renovated bathroom features a spacious walk-in tiled shower and is filled with natural light.
+
+The retro-style kitchenette is well-stocked with essentials including a mini fridge, microwave, blender, coffee maker, and dishes—perfect for preparing light meals or your morning brew.
+
+You’ll also enjoy complimentary Wi-Fi and a 40” smart TV for relaxing nights in.
+
+We can’t wait to welcome you!
+
+SVR-03134
+
+Other things to note
+Please note that the studio does not have a full size kitchen, just a kitchenette. There is not a dishwasher, but a second pedestal sink between the kitchenette and bathroom that can be used to hand wash dishes. There is not laundry in the studio, however there is coin laundry available in the building basement if needed. Parking is not included, but there is a city parking garage across the street, as well as city metered street parking.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Mini fridge
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Blender
+Dining table
+Coffee
+Location features
+Laundromat nearby
+Parking and facilities
+Paid parking off premises
+Single level home
+No stairs in home
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Washer
+Washer
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Chic Studio Apartment on Oglethorpe Square
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Add dates for prices
+Add dates for prices
+4.95 ·
+40 reviews
+Rated 4.95 out of 5 from 40 reviews.
+Check availability
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+40 reviews
+40
+Reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+On Oglethorpe Square
+Right on Oglethorpe Square, with the Owens-Thomas House steps away and River Street about a 5-min walk
+Historic studio in the Graham Building
+A 1920s building with hardwood floors, original brick, and a kitchenette stocked for light meals
+Alyssa is a standout host
+Guests highlight Alyssa's responsiveness, helpful local recommendations, and clear check-in instructions
+Welcome to Savannah! We are thrilled to host you in this updated studio apartment nestled inside the iconic 1920s Graham Building, right on picturesque Oglethorpe Square. With original exterior brick details, hardwood floors, a queen-size bed, and well stocked kitchenette, the space blends historic charm with modern comfort. Just steps from shops, cafés, museums, and the iconic riverfront, this studio is perfect for solo travelers or couples looking to stay in the heart of the Historic District.
+
+The space
+Stay in the heart of Savannah’s Historic District in this beautifully updated first-floor studio. Tucked into one of downtown’s most picturesque neighborhoods, this charming retreat blends historic character with thoughtful modern touches.
+
+Unwind on the plush queen memory foam mattress and enjoy fresh bed linens and soft towels provided for your stay. A Pack ’n Play is available upon request for guests traveling with little ones. Best suited for solo travelers or couples, this cozy space offers a peaceful place to recharge.
+
+The recently renovated bathroom features a spacious walk-in tiled shower and is filled with natural light.
+
+The retro-style kitchenette is well-stocked with essentials including a mini fridge, microwave, blender, coffee maker, and dishes—perfect for preparing light meals or your morning brew.
+
+You’ll also enjoy complimentary Wi-Fi and a 40” smart TV for relaxing nights in.
+
+We can’t wait to welcome you!
+
+SVR-03134
+
+Other things to note
+Please note that the studio does not have a full size kitchen, just a kitchenette. There is not a dishwasher, but a second pedestal sink between the kitchenette and bathroom that can be used to hand wash dishes. There is not laundry in the studio, however there is coin laundry available in the building basement if needed. Parking is not included, but there is a city parking garage across the street, as well as city metered street parking.
+Show more
+What this place offers
+Kitchen
+Wifi
+TV
+Air conditioning
+Pack ’n play/Travel crib - available upon request
+Hair dryer
+Microwave
+Paid parking off premises
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 40 reviews.
+4.95
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+22
+Location
+29
+Hospitality
+22
+Cleanliness
+16
+Nearby
+8
+Comfort
+10
+Indoor spaces
+6
+Access
+3
+Sleep quality
+5
+Decor
+2
+Derek
+Indianapolis, Indiana
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Alyssa's "Chic Studio" was a perfect set up for our Savannah getaway.  The location was AMAZING - right on Oglethorpe Square, a block from Leopold's, two blocks from the Olde Pink House and walkable to SO MUCH MORE, both along the river and in the Historic District. The apartment itself is small (as advertised) but was perfect for us, as we mostly wanted a comfortable sleeping room - and this one was clean, nicely decorated, stocked with coffee (and coffee fixings), with plenty of glassware, etc.  Alyssa's instructions were also very clear and our entry was probably the easiest of AirBNB's that we have rented.  Highly recommended, especially if you're planning to see the sights and are looking for comfortable, nearby place to sleep.
+Show more
+Ariel
+Indianapolis, Indiana
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+We loved this place during our stay in Savannah. We opted for an Airbnb instead of a hotel while we were visiting for a wedding. I'm glad we did because we were in the heart of the district and could easily walk to everything. We were also right across from the Owen Thompson Slave quarters, which I highly recommend people visit!
+Show more
+Frankie
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Clean and convenient. We had a great stay!
+Wells
+5 years on Airbnb
+Rating, 3 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+The location of this property is excellent. Walkable to a ton of great spots & hard to beat for access to the area. Host was responsive & communicative throughout our stay.
+That said, we ran into a few frustrations. On arrival, the wifi-connected lock wasn’t working. The listing mentions it can be finicky, so we tried to troubleshoot for a bit before calling hosts. No backup entry method listed, & it took abt 25 min & outside assistance to get into the room. It was a stressful way to start the trip. The hosts did try to help remotely before sending someone out.
+Space is smaller than pics convey. No central AC & even with the window ac unit, it was very hot in the room & hard to sleep. The bathroom is also very compact (toilet very close to the shower) which could be difficult for anyone larger or with mobility issues. 
+We asked about the cleaning fee being waived given the entry trouble & heat. Hosts were polite but nothing was offered proactively to acknowledge the inconveniences
+Show more
+Jasper
+Minneapolis, Minnesota
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Great location in short walking distance from Savannah’s main attractions! The unit was very clean and comfortable. Alyssa was highly responsive and provided clear instructions and food recommendations.
+Show more
+Kiera
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Loved this place! It was a historic building in a great location! Alyssa was an excellent host and we would definitely stay here again.
+Show all 40 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Alyssa
+Superhost
+1,512 reviews
+1512
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+All sleeping arrangements
+
+Advertised beds: null | Enumerated: 0 | Count unverified
+
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

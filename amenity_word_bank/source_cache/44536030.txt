@@ -1,0 +1,444 @@
+URL: https://www.airbnb.com/rooms/44536030
+Title: Fresh Cozy Apartment on Jones Street- FREE PARKING
+Latitude: 32.0732
+Longitude: -81.0967
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Tastefully modern garden-level apartment right on the beautiful, historic Jones Street. The owner of this unit is a famous Emmy winning Director, who just recently had the whole place remodeled. It is clean, modern and plenty bright with windows facing Jones Street and Barnard St. We are right in the heart of the Historic District with some of the most iconic restaurants and shops just a stone's throw away. We offer free WiFi, a Smart TV, washer/dryer and plenty of lounge space for a perfect, relaxing getaway!
+
+SVR-02084
+
+The space
+We offer a very spacious living/dining area with plenty of seating. We have a generously sized kitchen that is fully equipped with brand new stainless steel appliances for those who like to cook. We have a drip coffee maker for your use and we stock coffee and fixings to go with it. The queen bedroom has a dresser and a walk-in closet for those who like to pack a bit on the heavier side! The bathroom has a walk-in glass shower with modern tile. If you need to do laundry while you are here, there is a washer/dryer in the closet for your use :)
+
+Guest access
+You may use anything in the apartment that suits your fancy :) as we stated above, we have a free washer/dryer for your use in the closet by the bathroom. There is an outdoor storage area behind the front iron gate if you want to leave sandy beach chairs, wet umbrellas, etc.
+
+Other things to note
+There are residents that live above, next door, behind, etc. (many of whom live permanently) so we just ask that you are respectful and courteous to your neighbors.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV with Hulu, Netflix, Roku
+Heating and cooling
+Central air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Electric stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Free street parking
+EV charger - level 2, tesla only
+220 volts, 12-35 miles per hour
+Single level home
+No stairs in home
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Fresh Cozy Apartment on Jones Street- FREE PARKING
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.9 out of 5 stars.
+4.9
+277 reviews
+277
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+On Jones Street in the Historic District, with Forsyth Park about a 5-min walk away
+Full kitchen with in-unit laundry
+A fully equipped kitchen with new stainless steel appliances, plus a washer and dryer in-unit
+Consistently clean and comfortable
+Guests highlight the walkable location and consistently describe the apartment as clean and comfortable
+Tastefully modern garden-level apartment right on the beautiful, historic Jones Street. The owner of this unit is a famous Emmy winning Director, who just recently had the whole place remodeled. It is clean, modern and plenty bright with windows facing Jones Street and Barnard St. We are right in the heart of the Historic District with some of the most iconic restaurants and shops just a stone's throw away. We offer free WiFi, a Smart TV, washer/dryer and plenty of lounge space for a perfect, relaxing getaway!
+
+SVR-02084
+
+The space
+We offer a very spacious living/dining area with plenty of seating. We have a generously sized kitchen that is fully equipped with brand new stainless steel appliances for those who like to cook. We have a drip coffee maker for your use and we stock coffee and fixings to go with it. The queen bedroom has a dresser and a walk-in closet for those who like to pack a bit on the heavier side! The bathroom has a walk-in glass shower with modern tile. If you need to do laundry while you are here, there is a washer/dryer in the closet for your use :)
+
+Guest access
+You may use anything in the apartment that suits your fancy :) as we stated above, we have a free washer/dryer for your use in the closet by the bathroom. There is an outdoor storage area behind the front iron gate if you want to leave sandy beach chairs, wet umbrellas, etc.
+
+Other things to note
+There are residents that live above, next door, behind, etc. (many of whom live permanently) so we just ask that you are respectful and courteous to your neighbors.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with Hulu, Netflix, Roku
+EV charger - level 2, tesla only
+Washer
+Free dryer – In unit
+Central air conditioning
+Luggage dropoff allowed
+Show all 41 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.9 out of 5 from 277 reviews.
+4.9
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 9% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+119
+Location
+222
+Parking
+60
+Cleanliness
+98
+Quiet
+40
+Hospitality
+89
+Sleep quality
+22
+Kitchen
+19
+Comfort
+48
+Access
+8
+Julie
+Gainesville, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Brandon and Chase’s place is in a gorgeous  historic setting in beautiful Savannah.  It’s close enough to walk to all the local attractions but far enough away for some peace and quiet.  The off street parking is great:  we stashed our car and explored on foot.  But bonus:  when our son joined us in a second car, we discovered that the street parking is ‘just’ far enough away from the main tourist areas to be free on Saturdays and Sundays.   
+We found the place immaculate and the kitchen was furnished with everything we needed  to prepare a couple meals.  
+The instructions and communications were outstanding.  Should we find ourselves back in Savannah, we would certainly stay at Brandon and Chase’s place again.
+Show more
+Shawn
+Slidell, Louisiana
+Rating, 4 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+I really liked the area and the apartment was perfect for our family of three.
+Show more
+Victoria
+Cuyahoga Falls, Ohio
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Excellent location, great communication. The unit does only have a full size, not a queen size bed. (At least it felt that way, I didn’t measure it, so I could be wrong about this, but… it was”cozy”). Otherwise, very nice little place. One of the first times I actually felt comfortable using the pots and pans. We always like to cook breakfast in before we head out for the day. The pans and utensils looked new, no yucky peeling nonstick surfaces. We had everything we needed for a long weekend stay. Thanks Brandon and Chase!
+Show more
+Leyla
+Austin, Texas
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed about a week
+Brandon & Chase were fantastic hosts. What an amazing place!!! The location was the absolute best. The unit was very clean and perfect for my one week stay. I cooked several meals, worked from the unit (they had a great desk), and slept really well (bedroom has a ceiling fan, thank god!)
+The hosts were extremely helpful and responsive. Big plus was the included dedicated parking spot. The location was beautiful and very safe. I look forward to coming back and staying again!
+Show more
+Seren
+Tampa, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Clean place, quiet and beautiful street, walkable
+Yvette
+Floyds Knobs, Indiana
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Our stay was wonderful from booking to check out. Perfect location to walk everywhere but on beautiful quiet street if want to be out of hustle and bustle. Would definitely recommend. We were in town celebrating our anniversary. It was perfect place for two.
+Show more
+Show all 277 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Our place is on the coveted Jones Street right in the heart of the Historic District in Downtown Savannah. We have a very safe neighborhood where many of the folks live permanently. It is tucked away just enough from the tourist areas so that it is quite at night, but just a quick walk to the action. Truly family-oriented! We are just under a mile away from City Market/River Street/Bay Street.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

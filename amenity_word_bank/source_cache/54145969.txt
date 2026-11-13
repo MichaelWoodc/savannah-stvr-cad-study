@@ -1,0 +1,493 @@
+URL: https://www.airbnb.com/rooms/54145969
+Title: Relaxing Poolside Condo
+Latitude: 32.06638
+Longitude: -81.09051
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: David
+Host ID: 1708042
+Host profile ID: 1462519858286238590
+Host URL: https://www.airbnb.com/users/profile/1462519858286238590
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Escape to the heart of Savannah and experience the charm of local living at our Relaxing Poolside Condo. Nestled in a serene location, this cozy 1 bed, 1 bath condo is your perfect retreat. Dive into relaxation by the pool, your antidote to the Southern heat. With its inviting ambiance and convenient amenities, it's the ideal spot for those seeking a blend of comfort and adventure. Your memorable stay awaits!
+
+
+Savannah License # - SVR-03085
+
+The space
+This cozy, poolside retreat is the perfect spot to slow down and savor Savannah. Enjoy a beautiful back porch overlooking the pool and evening sunsets—the ideal place to start your day with coffee or end it with a glass of wine.
+
+Inside, you’ll find updated TVs, a comfy Queen bed, and a thoughtfully arranged living space designed for comfort and relaxation. The kitchen features full-sized appliances, making it easy to cook meals at home or warm up leftovers from your favorite local restaurants.
+
+You’ll also have one designated off-street parking space, making it simple to come and go during your stay. Whether you’re here to explore historic Savannah, relax by the water, or enjoy a quiet getaway, this space offers a warm and welcoming home base.
+
+Guest access
+Guests have access to entire unit and all amenities including semi-private pool, gas grill, and free off-street parking.
+
+Other things to note
+Search for Savannah Staycation to check out popular restaurants and current events in the neighborhood.  Come and live like a local.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Pool view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+65 inch HDTV with Netflix, Amazon Prime Video, Apple TV, Disney+
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Shared backyard – Not fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Sun loungers
+Parking and facilities
+Free driveway parking on premises – 1 space
+Free street parking
+Private outdoor pool - available all year, open specific hours
+open from 8:00 AM to 9:00 PM
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Relaxing Poolside Condo
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+2 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.83 out of 5 stars.
+4.83
+·
+76 reviews
+Hosted by David
+Superhost · 14 years hosting
+Listing highlights
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, with Whitefield Square and the historic district close by
+Private porch with poolside access
+A back porch steps from the pool, open year-round and a welcome cool-down after sightseeing
+David is a responsive, helpful host
+Guests highlight David's responsiveness and helpful local recommendations
+Escape to the heart of Savannah and experience the charm of local living at our Relaxing Poolside Condo. Nestled in a serene location, this cozy 1 bed, 1 bath condo is your perfect retreat. Dive into relaxation by the pool, your antidote to the Southern heat. With its inviting ambiance and convenient amenities, it's the ideal spot for those seeking a blend of comfort and adventure. Your memorable stay awaits!
+
+
+Savannah License # - SVR-03085
+
+The space
+This cozy, poolside retreat is the perfect spot to slow down and savor Savannah. Enjoy a beautiful back porch overlooking the pool and evening sunsets—the ideal place to start your day with coffee or end it with a glass of wine.
+
+Inside, you’ll find updated TVs, a comfy Queen bed, and a thoughtfully arranged living space designed for comfort and relaxation. The kitchen features full-sized appliances, making it easy to cook meals at home or warm up leftovers from your favorite local restaurants.
+
+You’ll also have one designated off-street parking space, making it simple to come and go during your stay. Whether you’re here to explore historic Savannah, relax by the water, or enjoy a quiet getaway, this space offers a warm and welcoming home base.
+
+Guest access
+Guests have access to entire unit and all amenities including semi-private pool, gas grill, and free off-street parking.
+
+Other things to note
+Search for Savannah Staycation to check out popular restaurants and current events in the neighborhood.  Come and live like a local.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free driveway parking on premises – 1 space
+Private outdoor pool - available all year, open specific hours
+65 inch HDTV with Netflix, Amazon Prime Video, Apple TV, Disney+
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Show all 59 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.83 out of 5 stars from 76 reviews
+4.83 · 76 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 86% of reviews
+5
+4 stars, 12% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.6 out of 5 stars for location
+Location
+4.6
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Pool
+32
+Walkability
+34
+Location
+31
+Cleanliness
+21
+Hospitality
+24
+Nearby
+17
+Comfort
+13
+Sleep quality
+10
+Getting around
+13
+Parking
+5
+Maggie
+Asheville, North Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We absolutely loved our stay at this Airbnb. It is the perfect spot to unwind after a day in Savannah. Amazing location outside of the hustle and bustle of downtown, while still being extremely close to everything. The bed was super comfortable and everything felt very clean and well-kept. The pool was such a valuable addition to our weekend and the perfect way to cool down and relax. David was very responsive and extremely friendly, you can really tell that he cares about his guest’s experiences. We had absolutely no issues whatsoever with this stay and would highly recommend.
+Show more
+Leah
+Duluth, Minnesota
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Great place to stay in Savannah. We were able to walk to the grocery store and the farmers market on Saturday. The pool in the backyard was amazing as it was very hot while we stayed! Off street parking was also convenient and the kitchen was well stocked for cooking! Would definitely stay again!
+Show more
+Steve
+Saint James City, Florida
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Stayed a few nights
+Quaint little place that worked out great for the two of us. Perfect location in the heart of the historic district. We walked to everything that we wanted to see. There is a grocery store a block and a half away, very convenient.
+Show more
+⁨Dennis M.⁩
+Williamstown, Kentucky
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+It was our first time in the area. I was there for work and we will stay again should the need arise!
+Paul
+Norton, Massachusetts
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+few things missing in kitchen no butter knives, no spatulas, no broiler pans or cooking sheets, wanted us to start a laundry before we left but no detergent available had to pick up our own. no coffee pods like most places little things like that but overall was a nice stay
+Show more
+Vanessa
+Daytona Beach, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+This is the second time we stayed here and we love it. its clean, comfy and centrally located.having the pool in the Savannah heat is definitely a plus!
+Show all 76 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+The Vault Kitchen & Market
+Asian restaurant
+Local 11ten Food | Wine
+Restaurant
+East Broughton Street
+Route
+Jepson Center for the Arts
+Museum
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Walking Score of 87/100! This condo is ideally located just 1 block from downtown Savannah’s only grocery store and only 4 blocks from Forsyth Park making it perfect for a weekend getaway or a month-long stay. Tucked away on a quiet residential lane with nearby bus routes and local conveniences, it offers the perfect balance of accessibility and tranquility. Located at the northern edge of the landmark historic District you will be within walking distance of everything. Savannah has to offer and still be able to enjoy a good night sleep away from the tourist hoopla.
+
+It is an absolutely beautiful 20 to 30 minute walk through the historic district to the shopping district showcasing the gorgeous squares of downtown Savannah. From there, it is a quick 10 minute walk to River Street. If you’ve walked enough at that point consider hailing a petty cab to pedal you back to the condo tip them well and they will give you a personal downtown tour.🥳
+
+Feel free to ask us for recommendations for our favorite restaurants and local downtown haunts. We can’t wait to host you!
+Show more
+Meet your host
+David
+Superhost
+1,318 reviews
+1318
+Reviews
+4.81 out of 5 average rating
+4.81
+Rating
+14 years of hosting
+14
+Years hosting
+My work: mehhh, who needs it?
+Fun fact: I ran witht he bulls in Pamplona, twice.
+Hi everyone. I am a Savannah native born and raised. I really enjoy accting as an amdassidor of sorts to my home town. I hope you find my little units to be a fantastic place to stay while you are exploring the lovely town that Savannah is. Plesae feel free to send me questoins abuot your stay. I am fully invloved and want eveyone to have the best stay possible.
+David is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Devin
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Nearby lake, river, other body of water
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Condo vacation rentals in Savannah
+House vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

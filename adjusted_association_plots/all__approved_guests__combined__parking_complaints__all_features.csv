@@ -1,0 +1,14 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr
+all,approved_guests,combined,Parking complaints,mention_bar,Bar mention,amenities,484,50,107,377,7,43,0.5980635055121761,0.1976794955581153,1.8093933091829408,0.3627563472122682,0.6738725609868652
+all,approved_guests,combined,Parking complaints,mention_wine,Wine / wine accessories,amenities,484,50,318,166,22,28,0.4197428087104943,0.1501324651486337,1.1735238297043171,0.0979331349972917,0.3834951734940676
+all,approved_guests,combined,Parking complaints,mention_outdoor,Outdoor space,amenities,484,50,286,198,27,23,0.85331148208542,0.2714932625191782,2.681983628994772,0.786008049250349,0.905330822882539
+all,approved_guests,combined,Parking complaints,mention_yard,Yard / garden / courtyard,amenities,484,50,310,174,36,14,1.6485046873693332,0.4064867027615461,6.685502098386837,0.4840648662476474,0.7477255632473516
+all,approved_guests,combined,Parking complaints,mention_pool,Swimming pool,amenities,484,50,100,384,4,46,0.3365465440009096,0.1000547103499361,1.1320164326379307,0.0784689239123932,0.3516414879068747
+all,approved_guests,combined,Parking complaints,mention_events,Events / gatherings,amenities,484,50,151,333,9,41,0.5327197038215198,0.2344814099497118,1.2102890497824583,0.132544269535746,0.434229169238931
+all,approved_guests,combined,Parking complaints,mention_rooftop,Rooftop / roof deck,amenities,484,50,23,461,3,47,1.3008353672336468,0.4271438574537698,3.961598939366796,0.6434433981406404,0.848012701025734
+all,approved_guests,combined,Parking complaints,mention_patio,Patio / deck / balcony / porch,amenities,484,50,300,184,44,6,4.559519795840211,1.2794449136574764,16.24862512386704,0.0192798796103398,0.1843511237261623
+all,approved_guests,combined,Parking complaints,mention_grill,Grill / BBQ,amenities,484,50,108,376,9,41,0.7625158763959005,0.3692769142838349,1.5745107242444811,0.463610979252432,0.7477255632473516
+all,approved_guests,combined,Parking complaints,mention_cocktails,Cocktails / spirits,amenities,484,50,75,409,7,43,0.9168740245877114,0.3386437616495605,2.482425699705069,0.8643979804368874,0.9371821100759938
+all,approved_guests,combined,Parking complaints,mention_late_night,Nightlife / late night,amenities,484,50,55,429,4,46,0.7024950627720568,0.1847001998923488,2.671893768965861,0.6044004785721477,0.8142887476582955
+all,approved_guests,combined,Parking complaints,mention_outdoor_dining,Outdoor dining,amenities,484,50,121,363,10,40,0.8149338625744007,0.3842871416985434,1.7281796040196509,0.593623319594452,0.8073686740037266
+all,approved_guests,combined,Parking complaints,keyword_swimming_pool,Swimming Pool,keywords,484,50,97,387,4,46,0.344180363262245,0.1022410732115218,1.1586353579275737,0.0850253505039855,0.3704420673966379

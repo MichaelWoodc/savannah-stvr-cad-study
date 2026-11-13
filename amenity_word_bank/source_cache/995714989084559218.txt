@@ -1,0 +1,474 @@
+URL: https://www.airbnb.com/rooms/995714989084559218
+Title: Boldly Designed & Artfully Curated Victorian Condo
+Latitude: 32.0645
+Longitude: -81.09
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah And Michael
+Host ID: 392686204
+Host profile ID: 1469814568914204522
+Host URL: https://www.airbnb.com/users/profile/1469814568914204522
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Step into a world of vibrant charm and old-world details! This 2-bed, 1-bath condo in Savannah's Victorian district is filled with unique touches and thoughtful details. The fully stocked kitchen is perfect for a quick breakfast or a full dinner in!  Sip some sweet tea on the large front porch and enjoy the huge live oaks on this quiet side street after a day of exploring! Only five blocks from Forsyth Park, this sweet first floor condo is the perfect homebase for your Savannah stay!
+
+SVR 02796
+
+The space
+Welcome to our charming 2-bedroom, 1-bathroom condo nestled on the first floor of a meticulously restored turn-of-the-century Victorian home in the heart of Savannah's picturesque Victorian district. Each bedroom offers a haven of comfort, with a king bed in one and a queen bed in the other, both equipped with flat screen, smart TVs.
+
+If you're looking to unplug and unwind, our cozy sitting room provides the perfect setting. Gather with friends, share a meal, and create lasting memories in this inviting space. Check out the original architectural features, from elegant pocket doors to the heartpine floors and fireplace hearths, all seamlessly blended with contemporary, thoughtful, and fun design elements. Need to connect? No worries! Fast WiFi throughout the condo makes it easy!
+
+The fully stocked kitchen makes staying in easy -- whether you're whipping up a quick breakfast before a day of exploring the city or staying in for a homemade dinner for friends and family. And when you're ready for a breath of fresh air, step onto the spacious front porch. Here, amid the graceful boughs of ancient live oak trees, you'll find a tranquil spot to relax, chat, and take in the quiet charm of the street.
+
+Come experience the perfect blend of old-world elegance and modern comfort in this adorable Savannah retreat!
+
+Guest access
+The entire first floor condo is all yours! The front porch is a shared space, though you will likely only see the folks that live in the second floor condo coming and going, as they have their own private outdoor space as well!
+
+Other things to note
+Reach out if you need anything!  We want you to have a 5 star stay!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Clothing storage: closet and dresser
+Entertainment
+42 inch HDTV with Roku
+Family
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+Central air conditioning
+Window AC unit
+Portable fans
+Central heating
+Home safety
+Exterior security cameras on property
+We have one exterior security camera located on the front porch overlooking the front door entry.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Shared patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Boldly Designed & Artfully Curated Victorian Condo
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+141 reviews
+141
+Reviews
+Hosted by Sarah And Michael
+Superhost · 6 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Victorian District
+About a 10-min walk to Forsyth Park, with Whitefield Square and the historic squares beyond
+A restored Victorian with period details
+Original pocket doors, heartpine floors, and fireplace hearths in a restored turn-of-the-century home
+Spotless, comfortable, and charming
+Guests highlight how clean and beautifully decorated the space is, with comfortable beds throughout
+Step into a world of vibrant charm and old-world details! This 2-bed, 1-bath condo in Savannah's Victorian district is filled with unique touches and thoughtful details. The fully stocked kitchen is perfect for a quick breakfast or a full dinner in!  Sip some sweet tea on the large front porch and enjoy the huge live oaks on this quiet side street after a day of exploring! Only five blocks from Forsyth Park, this sweet first floor condo is the perfect homebase for your Savannah stay!
+
+SVR 02796
+
+The space
+Welcome to our charming 2-bedroom, 1-bathroom condo nestled on the first floor of a meticulously restored turn-of-the-century Victorian home in the heart of Savannah's picturesque Victorian district. Each bedroom offers a haven of comfort, with a king bed in one and a queen bed in the other, both equipped with flat screen, smart TVs.
+
+If you're looking to unplug and unwind, our cozy sitting room provides the perfect setting. Gather with friends, share a meal, and create lasting memories in this inviting space. Check out the original architectural features, from elegant pocket doors to the heartpine floors and fireplace hearths, all seamlessly blended with contemporary, thoughtful, and fun design elements. Need to connect? No worries! Fast WiFi throughout the condo makes it easy!
+
+The fully stocked kitchen makes staying in easy -- whether you're whipping up a quick breakfast before a day of exploring the city or staying in for a homemade dinner for friends and family. And when you're ready for a breath of fresh air, step onto the spacious front porch. Here, amid the graceful boughs of ancient live oak trees, you'll find a tranquil spot to relax, chat, and take in the quiet charm of the street.
+
+Come experience the perfect blend of old-world elegance and modern comfort in this adorable Savannah retreat!
+
+Guest access
+The entire first floor condo is all yours! The front porch is a shared space, though you will likely only see the folks that live in the second floor condo coming and going, as they have their own private outdoor space as well!
+
+Other things to note
+Reach out if you need anything!  We want you to have a 5 star stay!
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+42 inch HDTV with Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Window AC unit
+Exterior security cameras on property
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 141 reviews.
+4.96
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Decor
+42
+Walkability
+44
+Location
+59
+Comfort
+35
+Parking
+28
+Cleanliness
+40
+Hospitality
+53
+Indoor spaces
+21
+Sleep quality
+19
+Accuracy
+17
+LaVonne
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+This place is gorgeous. We enjoyed the neighborhood and the neighbors were kind as well. The pictures don't do the apartment justice. It's well maintained and very clean. We walked to several attractions near by. We would definitely stay here again!
+Show more
+Natasha
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed one night
+This is one of the cutest places I’ve ever stayed! It was clean, beautifully decorated, and everything was so comfortable! The beds are super comfortable and the area was quiet and unique. We really enjoyed our stay and would book their space again!
+Show more
+Elise
+Harrisburg, Pennsylvania
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed one night
+Charming, clean, and comfortable! We were only in town for one night, but hope to come back to Savannah and would absolutely stay here again.
+Leslie
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We loved the place! Quite and cozy. Walking distance to the Kroger and to several other things.
+Janine
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This there was quaint, charming, and everything we expected it would be the pictures were accurate. MICHAEL and SARA were amazing house extremely accommodating and kind and very approachable. We would definitely recommend this Airbnb and stay here again.
+Show more
+Pamela
+6 months on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Our accommodations were lovely! Everything was so fresh and clean. We especially enjoyed the thoughtful touches, such as the luxurious towels, Meyer’s soap products, Q-tips, snack basket, & bottle of wine, just to mention a few! We absolutely loved all of it!
+Show more
+Show all 141 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+This Victorian condo is located in Savannah's Victorian District, which is filled with gorgeous architecture, tons of awesome dining options, and is packed with local history, culture, and charm! We are just 5 blocks from oh-so-famous Forsyth Park and only a bit over a mile from the River!
+Show more
+Meet your host
+Sarah And Michael
+Superhost
+875 reviews
+875
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+6 years of hosting
+6
+Years hosting
+Sarah And Michael is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

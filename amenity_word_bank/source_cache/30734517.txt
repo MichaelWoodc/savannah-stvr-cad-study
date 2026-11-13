@@ -1,0 +1,479 @@
+URL: https://www.airbnb.com/rooms/30734517
+Title: Stylish Carriage House in the Historic District
+Latitude: 32.0731
+Longitude: -81.0962
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sabrina
+Host ID: 9542698
+Host profile ID: 1462570035401539185
+Host URL: https://www.airbnb.com/users/profile/1462570035401539185
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Historic carriage house from 1850 renovated by its owner, a local interior designer. Original hardwood floors and decorative fireplaces, new marble bathroom and chic decor items. Beautiful natural light. You cannot beat this location in Savannah's historic downtown district. Walk everywhere, close to everytquiet and peaceful. Enjoy the charming courtyard garden for a glass of wine or your morning coffee. Washer/ dryer available. No private parking. See parking  for options. No pets. SVR-02206
+
+The space
+Cozy and very quiet, stylish space with separate bedroom and living area. 2nd floor of a carriage house in a Historic Home built in 1850. One flight of stairs up. Enjoy a beautiful a peaceful outdoor courtyard. Original wood floors, brand new carpeting in bedroom, all marble bathroom, all new fixtures.
+Kitchen is fully equipped, clean bedding, plushy towels. 
+Entry and exit through the back lane of the historic home.
+
+Guest access
+Guests can access the entire apartment and shared back courtyard.
+
+Other things to note
+Parking info:
+Parking is on street. Usually pretty easy to find a spot around the airbnb on the same block. Meters are in effect Mon-Fri 8am to 5pm. It's free anyday after 5pm, and free to park overnight. You can feed the meter remotely from a mobile phone using the Park Savannah App. You can refill it remotely, you don't have to move the car each time. 
+
+If you don't want to deal with feeding meters, or are staying for a few days you can get a visitor's parking pass at the Bryan Street Parking office (100 E Bryan Street)they cost $15 per day, you put it on your dashboard and you don't need to feed meters anytime. 
+
+Another option is  to  leave your car in an inexpensive City parking garage nearby. There are two: The Liberty Street Parking garage is just a 3 minute walk away and is fairly inexpensive.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Amazon conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+TV with Netflix
+Books and reading material
+Family
+Crib
+Pack ’n play/Travel crib - available upon request
+Sheets provided
+Babysitter recommendations
+Heating and cooling
+Central air conditioning
+Indoor fireplace
+Central heating
+Home safety
+Exterior security cameras on property
+Surveillance cameras are located in the shared courtyard and the doorway out to the lane.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Stove
+Oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Outdoor
+Shared patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free street parking
+Paid parking off premises
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Stylish Carriage House in the Historic District
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+399 reviews
+399
+Reviews
+Hosted by Sabrina
+Superhost · 13 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, with Pulaski Square and Monterey Square just steps away
+Designer-renovated carriage house
+An 1850 carriage house designed by its owner, a local interior designer, with original hardwood floors
+Walkable yet peaceful, per guests
+Guests highlight how walkable, quiet, and peaceful the location feels, with many returning for future visits
+Historic carriage house from 1850 renovated by its owner, a local interior designer. Original hardwood floors and decorative fireplaces, new marble bathroom and chic decor items. Beautiful natural light. You cannot beat this location in Savannah's historic downtown district. Walk everywhere, close to everytquiet and peaceful. Enjoy the charming courtyard garden for a glass of wine or your morning coffee. Washer/ dryer available. No private parking. See parking  for options. No pets. SVR-02206
+
+The space
+Cozy and very quiet, stylish space with separate bedroom and living area. 2nd floor of a carriage house in a Historic Home built in 1850. One flight of stairs up. Enjoy a beautiful a peaceful outdoor courtyard. Original wood floors, brand new carpeting in bedroom, all marble bathroom, all new fixtures.
+Kitchen is fully equipped, clean bedding, plushy towels. 
+Entry and exit through the back lane of the historic home.
+
+Guest access
+Guests can access the entire apartment and shared back courtyard.
+
+Other things to note
+Parking info:
+Parking is on street. Usually pretty easy to find a spot around the airbnb on the same block. Meters are in effect Mon-Fri 8am to 5pm. It's free anyday after 5pm, and free to park overnight. You can feed the meter remotely from a mobile phone using the Park Savannah App. You can refill it remotely, you don't have to move the car each time. 
+
+If you don't want to deal with feeding meters, or are staying for a few days you can get a visitor's parking pass at the Bryan Street Parking office (100 E Bryan Street)they cost $15 per day, you put it on your dashboard and you don't need to feed meters anytime. 
+
+Another option is  to  leave your car in an inexpensive City parking garage nearby. There are two: The Liberty Street Parking garage is just a 3 minute walk away and is fairly inexpensive.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV with Netflix
+Washer
+Dryer
+Central air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 57 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 399 reviews.
+4.95
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+175
+Location
+287
+Decor
+83
+Hospitality
+196
+Cleanliness
+108
+Nearby
+51
+Quiet
+32
+Comfort
+83
+Outdoor spaces
+36
+Parking
+34
+Ginny
+North Salem, New York
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Absolutely charming stay. The flat was beautifully decorated with antiques and comfortable furnishings. We had plenty of space an everything we needed. Awesome location!
+Bailey
+Nashville, Tennessee
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+The location is perfect for a walkable trip. We didn’t use our car all weekend! We appreciated all of the recommendations Sabrina gave us. The place was clean, nicely decorated, and great for two people. Would absolutely stay here again!
+Show more
+Nichole
+Indianapolis, Indiana
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+We really enjoyed our time at Sabrina's place. The location - right off Jones St - is perfect. We were within a 20 minute walk of much of the city with coffee shops, clothing shops and restaurants very close by. Because it's in a residential area, it's quiet and feels very private. 
+The carriage house was very clean and beautifully decorated. Check in and check out was easy. Sabrina provided great instructions and communication was easy. 
+We will stay in the carriage house the next time we visit Savannah.
+Show more
+Justin
+Conway, South Carolina
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+We had an amazing stay in Savannah! The property was incredibly peaceful and quiet, exactly what we were looking for to relax and unwind. The area itself was very clean and not crowded, which made the experience even more enjoyable.
+One of the highlights was how walkable everything was. We loved being able to explore the area on foot, and the overall atmosphere felt serene and welcoming. On top of that, the local restaurants were outstanding, some of the best food we’ve had in a while.
+If you’re looking for a calm, beautiful, and convenient place to stay in Savannah, this is it. We would absolutely come back again.
+Show more
+Rande
+Dallas, Texas
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Sabrina’s carriage house was the perfect spot for our long weekend in Savannah! Walkable to so many good restaurants and sights. And beautifully decorated!
+Nancy
+Rolling Meadows, Illinois
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed over a week
+We come from Chicago for the Savannah Music Festival every spring. We have stayed in one of Sabrina's apartments for the past few years and have always had a great experience. Everything is in walking distance and all the azaleas are in bloom at the end of March. Highly recommend!
+Show more
+Show all 399 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Alex Raskin Antiques
+Home store
+Littles on Liberty, The Beaufort Bonnet Company Signature Store
+Clothing store
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+The home is in the heart of the Historic Downtown District. Walk to all stores and restaurants, stroll to Pulaski Square, spend a sunny afternoon in Forsyth Park, and experience the local charm found in every restaurant, bar, and stores nearby. You cannot beat this location in Downtown Historic Savannah. Free DOT shuttle that loops downtown just around the corner. A block from chic home stores and stylish boutiques. True southern charm, comfortable and stylish.
+Show more
+Meet your host
+Sabrina
+Superhost
+1,411 reviews
+1411
+Reviews
+4.97 out of 5 average rating
+4.97
+Rating
+13 years of hosting
+13
+Years hosting
+Speaks English, French, and Spanish
+Lives in Savannah, Georgia
+I live in Savannah’s Historic Landmark District and truly enjoy welcoming guests to its endless charm. I love traveling, hosting and great restaurants :)
+Sabrina is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Design
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

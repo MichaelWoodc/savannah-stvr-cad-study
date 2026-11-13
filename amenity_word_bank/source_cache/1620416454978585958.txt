@@ -1,0 +1,457 @@
+URL: https://www.airbnb.com/rooms/1620416454978585958
+Title: Oglethorpe Square Historic Apt |Central & Walkable
+Latitude: 32.07670587239948
+Longitude: -81.08983208366132
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to your Savannah retreat inside the historic Graham Building on enchanting Oglethorpe Square in the heart of Savannah’s Historic District. This cozy one-bedroom, one-bath condo blends preserved historic charm with modern updates in an unbeatable walkable location. Steps from parks, restaurants, and shopping. This condo is perfect for romantic getaways, girls’ trips, or a relaxing Savannah escape.
+
+The space
+We are so excited to have you visit this thoughtfully curated apartment and hope you will instantly feel at home. The home features a cozy yet spacious bedroom with a comfortable queen bed and ample closet space, a bright living area with large windows and plush sofa, an updated bathroom with modern fixtures and a shower/tub combo, and a fully updated kitchen equipped for meals at home. Guests can enjoy a smart TV in the living room, and free high-speed WiFi. Every detail has been designed to create a peaceful, elevated retreat after days spent exploring the Historic District. Please note the condo is located on the third floor of a historic building with no elevator, and a Pack ’n Play is available upon request.
+
+SVR-03233
+
+Guest access
+Upon arrival guests will receive a building access code and condo door code to enter via smart locks. The condo is located on the third and top floor of the building. Please note that there is not an elevator available.
+
+Other things to note
+The condo does not have central air or heat. There are two window AC/heat units. They keep the condo very cool during the summer months and the units have a heat setting as well to keep the condo warm in the cooler months. There is ceiling fan in the bedroom and kitchen. A portable floor fan is also provided.
+
+Parking is not provided with this listing. However there is a city parking garage right next door at 100 E State Street, Savannah GA 31041. There is also metered city street parking close by. You can download the Park Savannah app prior to arrival to pay via an app.
+
+There is not a dishwasher, but all other kitchen necessities are provided and available for guest use.
+
+Please note the smart TV offers apps to streaming services. We do not offer cable or local channels. Wifi is provided and included in the stay.
+
+Oglethorpe Square offers a quieter, more serene side of downtown Savannah while still being incredibly central and walkable. As with most historic urban areas, you may occasionally hear city sounds (ie city garbage trucks, construction, sirens, ship horns, etc). We do provide a sound machine to help drown out any noises. We do try to make guests aware that Fridays and Saturdays can be loud due to our close proximity to Savannah's night life.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Shower gel
+Bedroom and laundry
+Hangers
+Bed linens
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Smoke alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Stove
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Laundromat nearby
+Parking and facilities
+Paid parking off premises
+Not included
+Unavailable: Washer
+Washer
+Unavailable: Essentials
+Essentials
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Oglethorpe Square Historic Apt |Central & Walkable
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+16 reviews
+16
+Reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the heart of Savannah's Historic District
+Right on Oglethorpe Square, with the Owens-Thomas House across the street and Telfair Museums about a 5-min walk
+Updated kitchen for meals at home
+A fully updated kitchen with a stove, refrigerator, coffee maker, and blender for cooking in
+Spotless, walkable, and well-hosted
+Guests praise the walkable location, spotless space, and Alyssa's responsive communication
+Welcome to your Savannah retreat inside the historic Graham Building on enchanting Oglethorpe Square in the heart of Savannah’s Historic District. This cozy one-bedroom, one-bath condo blends preserved historic charm with modern updates in an unbeatable walkable location. Steps from parks, restaurants, and shopping. This condo is perfect for romantic getaways, girls’ trips, or a relaxing Savannah escape.
+
+The space
+We are so excited to have you visit this thoughtfully curated apartment and hope you will instantly feel at home. The home features a cozy yet spacious bedroom with a comfortable queen bed and ample closet space, a bright living area with large windows and plush sofa, an updated bathroom with modern fixtures and a shower/tub combo, and a fully updated kitchen equipped for meals at home. Guests can enjoy a smart TV in the living room, and free high-speed WiFi. Every detail has been designed to create a peaceful, elevated retreat after days spent exploring the Historic District. Please note the condo is located on the third floor of a historic building with no elevator, and a Pack ’n Play is available upon request.
+
+SVR-03233
+
+Guest access
+Upon arrival guests will receive a building access code and condo door code to enter via smart locks. The condo is located on the third and top floor of the building. Please note that there is not an elevator available.
+
+Other things to note
+The condo does not have central air or heat. There are two window AC/heat units. They keep the condo very cool during the summer months and the units have a heat setting as well to keep the condo warm in the cooler months. There is ceiling fan in the bedroom and kitchen. A portable floor fan is also provided.
+
+Parking is not provided with this listing. However there is a city parking garage right next door at 100 E State Street, Savannah GA 31041. There is also metered city street parking close by. You can download the Park Savannah app prior to arrival to pay via an app.
+
+There is not a dishwasher, but all other kitchen necessities are provided and available for guest use.
+
+Please note the smart TV offers apps to streaming services. We do not offer cable or local channels. Wifi is provided and included in the stay.
+
+Oglethorpe Square offers a quieter, more serene side of downtown Savannah while still being incredibly central and walkable. As with most historic urban areas, you may occasionally hear city sounds (ie city garbage trucks, construction, sirens, ship horns, etc). We do provide a sound machine to help drown out any noises. We do try to make guests aware that Fridays and Saturdays can be loud due to our close proximity to Savannah's night life.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+TV
+Air conditioning
+Bathtub
+Pack ’n play/Travel crib
+Hair dryer
+Refrigerator
+Microwave
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 38 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 16 reviews.
+5.0
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+6
+Location
+11
+Parking
+4
+Cleanliness
+6
+Hospitality
+7
+Accuracy
+3
+Indoor spaces
+3
+Amenities
+2
+Quiet
+2
+Comfort
+2
+Edward
+Alto, Texas
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Place was great. Host was very helpful and made the process very easy. Will stay again.
+Swathi
+Munich, Germany
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Definitely book Alyssa's place! The apartment is set up so that it feels cozy and spacious at the same time. The place was exceptionally clean and all the amenities were exactly as described. The location is perfect, being walkable to almost anything in the historic district while also being in a more calm area away from the noise. Alyssa was so communicative and proactive about making sure our stay was great. Thank you so much! Couldn't have asked for a better stay.
+Show more
+Bobby
+Frackville, Pennsylvania
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+The only problem I had with the listing is that every few blocks, I would look ahead to the next historic square and say to a friend - I think this is where my place is! Then I was wrong. I'm kidding, there were absolutely zero negatives about the apartment. This was my first trip to Savannah, and by the time I figured out the layout of the beautiful section of town, it was time to go home. The apartment is perfect. Clean, bright, nice and cool despite the summer heat, and I said to myself on more than one occasion - "I could live here."  I honestly can't think of anything I would improve. The communication, instructions, and check-in/out were very simple. Plus the host always made me feel very welcome. I would absolutely stay again my next time I come to Savannah. Thank you for a wonderful stay Alyssa
+Show more
+Sage
+Kansas City, Missouri
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+The location is extremely walkable and street parking was easy to find. The place itself is adorable and perfect for a couple of days in Savannah.
+Charlie
+Columbia, South Carolina
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Great host! Location has plenty of fun things to do around it. Very clean and parking garage is close by.
+Amanda
+Rockford, Minnesota
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+We visit Savannah often and wanted to try a different Airbnb this time - this one did not disappoint. It is conveniently located within the historic district and has easy access to a parking ramp across the street. It had what we needed for our short visit and we would stay here again.
+Show more
+Show all 16 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+You’ll be perfectly located to experience the very best of historic Savannah. Just a short walk across the street brings you to the Owens-Thomas House , while the beautiful Telfair Museums are about a 7-minute stroll away. Scenic River Street and the lively Plant Riverside District are approximately a 10–12 minute walk for shopping, dining, and river views. For Savannah’s most iconic green space, Forsyth Park is about a 15-20-minute walk or short ride away.
+
+For events and performances, the Johnny Mercer Theatre is roughly a 10-minute drive. The Savannah/Hilton Head International Airport is approximately a 20-minute drive, and a beach day at Tybee Island is about a 25-minute drive from the condo.
+Show more
+Meet your host
+Alyssa
+Superhost
+1,512 reviews
+1512
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

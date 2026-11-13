@@ -1,0 +1,474 @@
+URL: https://www.airbnb.com/rooms/40760885
+Title: Downtown Historic Duplex with Two Private Pools
+Latitude: 32.0719
+Longitude: -81.087
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sandra
+Host ID: 314313673
+Host profile ID: 1469592005946537681
+Host URL: https://www.airbnb.com/users/profile/1469592005946537681
+Bedrooms: 4
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 4
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+=== FULL DESCRIPTION ===
+Enjoy all of the charm of old world Savannah in our downtown cottage, while still having all of modern comforts and amenities! PERFECT for two families traveling together or a larger group! This listing is for BOTH sides of the duplex, so you will have TWO 2-bedroom (KING beds), 1-bathroom units, each with their own kitchen and living space! Each side has it's own unheated pool and courtyard! And, best of all, you will be just steps from all the amazing sites our Southern city has to offer!
+
+The space
+Enjoy all of the charm of old world Savannah in our downtown cottage, while still having all of modern comforts and amenities! PERFECT for two families traveling together or a larger group! This listing is for BOTH sides of the duplex, so you will have TWO 2-bedroom, 1-bathroom condos, each with their own kitchen and living space! Each side has it's own unheated pool and courtyard! And, best of all, you will be just steps from all the amazing sites our Southern city has to offer!
+
+Guest access
+Keyless Entry
+
+Other things to note
+You may either park your vehicle right on the street out front or on the nearby side streets if you prefer (E Harris or E Charlton). There are typically plenty of spaces available and it is free on the one side of E. Harris and the one side of E. Charlton.  The metered parking spaces are free after 5 PM until 8 AM and Sunday all day.
+
+Certificate #'s SVR-02425 and 02426
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Individual Travel Size shampoo
+Individual Travel Size conditioner
+Individual Size Bar Soap body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet
+Entertainment
+TV with standard cable
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Private backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Sun loungers
+Parking and facilities
+Free street parking
+Private pool
+Paid parking lot off premises
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Downtown Historic Duplex with Two Private Pools
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire cottage in Savannah, Georgia
+8 guests · 4 bedrooms · 4 beds · 2 baths
+Rated 4.76 out of 5 stars.
+4.76
+·
+70 reviews
+Hosted by Sandra
+7 years hosting
+Listing highlights
+In Historic Savannah near Troup Square
+Troup Square is steps away, with several more historic squares within a 10-min walk
+Downtown cottage with a duplex layout
+Each side of the duplex has its own kitchen, living room, private pool, and fenced courtyard
+Responsive hosts, walkable location
+Guests highlight how responsive the hosts are and how walkable the location is
+Enjoy all of the charm of old world Savannah in our downtown cottage, while still having all of modern comforts and amenities! PERFECT for two families traveling together or a larger group! This listing is for BOTH sides of the duplex, so you will have TWO 2-bedroom (KING beds), 1-bathroom units, each with their own kitchen and living space! Each side has it's own unheated pool and courtyard! And, best of all, you will be just steps from all the amazing sites our Southern city has to offer!
+
+The space
+Enjoy all of the charm of old world Savannah in our downtown cottage, while still having all of modern comforts and amenities! PERFECT for two families traveling together or a larger group! This listing is for BOTH sides of the duplex, so you will have TWO 2-bedroom, 1-bathroom condos, each with their own kitchen and living space! Each side has it's own unheated pool and courtyard! And, best of all, you will be just steps from all the amazing sites our Southern city has to offer!
+
+Guest access
+Keyless Entry
+
+Other things to note
+You may either park your vehicle right on the street out front or on the nearby side streets if you prefer (E Harris or E Charlton). There are typically plenty of spaces available and it is free on the one side of E. Harris and the one side of E. Charlton.  The metered parking spaces are free after 5 PM until 8 AM and Sunday all day.
+
+Certificate #'s SVR-02425 and 02426
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 4 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+Private pool
+TV with standard cable
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Show all 52 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.76 out of 5 stars from 70 reviews
+4.76 · 70 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 83% of reviews
+5
+4 stars, 11% of reviews
+4
+3 stars, 4% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Pool
+20
+Walkability
+24
+Location
+25
+Hospitality
+24
+Cleanliness
+21
+Comfort
+16
+Sleep quality
+13
+Indoor spaces
+14
+Check-in
+10
+Kitchen
+6
+Shane
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Sandra was a great host.  She was very helpful for us and responded very quickly to each question we had.  We cant wait to go back to Savanah GA to stay again at this place or one of her other locations.
+Show more
+Anthony
+Jacksonville Beach, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Sandra and her place were great, would recommend! Enjoyed the pool and location
+Linda
+Charlotte, North Carolina
+Rating, 2 stars
+,
+·
+December 2025
+,
+·
+Stayed with a pet
+No hot water in unit. Cold showers for all of us when the temps outside were 30.   Likely the unit and laundry were cleaned before we arrived also using only cold water which is highly unsanitary and not safe.   Ugh!Disappointed that owner didn’t fix or reach out with remediation or even a partial refund.  One of the worst experiences in my 14 years on Airbnb.
+Show more
+Anna
+Holiday, Florida
+Rating, 5 stars
+,
+·
+August 2025
+,
+·
+Stayed a few nights
+This place was perfect for our girls trip.  From before the trip to checkout, our host was very responsive and kind. The pool was perfect on these hot summer days and beds were surprisingly comfortable!  I've stayed in many airbnbs and this one had the best water pressure for a shower, which was a definite perk! Had a small issue with AC cooling on one side of the house, but he responded within minutes and got someone out there quickly.  I couldn't ask for a better stay.
+Show more
+Dala
+Bowman, North Dakota
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Was awesome as my relatives lived across the street.
+Lucia
+Georgia, United States
+Rating, 4 stars
+,
+·
+March 2026
+,
+·
+Stayed with kids
+The location was very convenient for all our activities. Hosts were very responsive to our messages.
+Show all 70 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Pizzeria Vittoria Napoletana
+Italian restaurant
+Forsyth Park
+Park
+Elizabeth's on 37th
+Restaurant
+Cathedral of Saint John the Baptist
+Church
+Screamin' Mimi's
+Food and drink
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Historic Savannah
+Show more
+Meet your host
+Sandra
+Host
+1,194 reviews
+1194
+Reviews
+4.89 out of 5 average rating
+4.89
+Rating
+7 years of hosting
+7
+Years hosting
+A happy transplant to Savannah! I enjoy traveling myself, so it is so exciting to be able to experience the rich history of this impressive city and to help others learn about it! What better place to be a host than in the “Host City of the South.” Send a message or book if you want a gorgeous rental in the Historic Downtown District!
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Pool/hot tub without a gate or lock
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Mansion vacation rentals in Savannah
+Cottage vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+House vacation rentals in Chatham County
+Cottage vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

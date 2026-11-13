@@ -1,0 +1,5 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr
+non_owner,advertised_guests,direct,Parking complaints,mention_wine,Wine / wine accessories,amenities,411,22,272,139,8,14,0.3005314892672383,0.0442631348885484,2.040505632251346,0.218623817096619,0.5360070806194221
+non_owner,advertised_guests,direct,Parking complaints,mention_outdoor,Outdoor space,amenities,411,22,240,171,8,14,0.3501740512570338,0.0545534225752166,2.247739195550861,0.2686458478303634,0.598737288515544
+non_owner,advertised_guests,direct,Parking complaints,mention_events,Events / gatherings,amenities,411,22,137,274,4,18,0.3276130196811638,0.0583021501640288,1.8409319444076184,0.2051305308218248,0.520163305832469
+non_owner,advertised_guests,direct,Parking complaints,mention_outdoor_dining,Outdoor dining,amenities,411,22,97,314,4,18,0.6821933682688788,0.1266327069575656,3.675099450144334,0.6562353712179678,0.8585432261334485

@@ -1,0 +1,460 @@
+URL: https://www.airbnb.com/rooms/25864023
+Title: Monterey Square Flats A(#1) - Garden Apartment
+Latitude: 32.0714
+Longitude: -81.0948
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 510954618
+Host profile ID: 1531231893134826823
+Host URL: https://www.airbnb.com/users/profile/1531231893134826823
+Bedrooms: 2
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 single bed
+
+=== FULL DESCRIPTION ===
+This newly remodeled apartment in a 1870's building is located on Monterey Square, one of the most beautiful areas of historic Savannah. Serving to be both private and comfortable, our beautiful garden apartment has everything you need to feel at home. Located within walking distance of everything Savannah has to offer, you will find yourself falling in love with the charming culture this Southern city is known for.  (City of Savannah SVR-01649)
+
+The space
+The apartment is located on the first floor of a historically beautiful 5-story building and is lucky enough to have its own private entrance. It also has two spacious bedrooms with a queen-sized bed in one a twin bed in the other, a functional kitchen for all your cooking needs, and a comfortable living room with large windows and plenty of lighting. Wifi, cable TV, central heat and air are among the amenities.
+
+Guest access
+We use coded door locks for access that we will provide upon booking.
+
+Other things to note
+Parking is on-street and spots are easy to find at this location. 
+Parking in enforced Monday through Friday, 8AM - 5PM. There is no charge for parking over the course of the weekend. 
+
+Meters are best handled with a "Visitors Parking Day Pass" available to cover all day/night parking for travelers. Our guests who come with a vehicle may want to purchase a City of Savannah Day Pass which is $24 for 48 hours or $15 for 24 hours. 
+
+
+You can get the pass from the Parking Services office at 100 East Bryan Street. (Monday - Friday, 8AM - 4:30PM) 
+
+
+The nearest non-metered free public street parking starts 2 blocks south from this location. 
+
+
+This is the easiest way to leave your car parked and enjoy the walking lifestyle that makes Savannah famous!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Iron
+Clothing storage: closet
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Paid parking off premises
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Washer
+Washer
+Unavailable: Dryer
+Dryer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Monterey Square Flats A(#1) - Garden Apartment
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+3 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.77 out of 5 stars.
+4.77
+533 reviews
+533
+Reviews
+Hosted by Alyssa
+1 month hosting
+Listing highlights
+On Monterey Square in historic Savannah
+Right on Monterey Square, steps from the Armstrong House and Forsyth Park
+Historic building with private entrance
+A private entrance leads into a ground-floor apartment in an 1870s building
+Walkable, quiet, and worth a return visit
+Guests highlight how walkable and quiet the location is, with many returning for repeat stays
+This newly remodeled apartment in a 1870's building is located on Monterey Square, one of the most beautiful areas of historic Savannah. Serving to be both private and comfortable, our beautiful garden apartment has everything you need to feel at home. Located within walking distance of everything Savannah has to offer, you will find yourself falling in love with the charming culture this Southern city is known for.  (City of Savannah SVR-01649)
+
+The space
+The apartment is located on the first floor of a historically beautiful 5-story building and is lucky enough to have its own private entrance. It also has two spacious bedrooms with a queen-sized bed in one a twin bed in the other, a functional kitchen for all your cooking needs, and a comfortable living room with large windows and plenty of lighting. Wifi, cable TV, central heat and air are among the amenities.
+
+Guest access
+We use coded door locks for access that we will provide upon booking.
+
+Other things to note
+Parking is on-street and spots are easy to find at this location. 
+Parking in enforced Monday through Friday, 8AM - 5PM. There is no charge for parking over the course of the weekend. 
+
+Meters are best handled with a "Visitors Parking Day Pass" available to cover all day/night parking for travelers. Our guests who come with a vehicle may want to purchase a City of Savannah Day Pass which is $24 for 48 hours or $15 for 24 hours. 
+
+
+You can get the pass from the Parking Services office at 100 East Bryan Street. (Monday - Friday, 8AM - 4:30PM) 
+
+
+The nearest non-metered free public street parking starts 2 blocks south from this location. 
+
+
+This is the easiest way to leave your car parked and enjoy the walking lifestyle that makes Savannah famous!
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 single bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Air conditioning
+Bathtub
+Hair dryer
+Refrigerator
+Microwave
+Long term stays allowed
+Show all 37 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.77 out of 5 from 533 reviews.
+4.77
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 83% of reviews
+5
+4 stars, 13% of reviews
+4
+3 stars, 4% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+197
+Location
+424
+Parking
+79
+Comfort
+102
+Hospitality
+111
+Parks
+23
+Sleep quality
+63
+Decor
+55
+Cleanliness
+115
+Nearby
+72
+Cindy
+4 years on Airbnb
+Rating, 4 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Very good communication and the area is beautiful.
+Ashley
+Indianapolis, Indiana
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We absolutely loved our time in this adorable apartment next to Monterey Square! I brought my mom to Savannah for her first time and she was so thrilled we chose this Airbnb over a hotel. It was right next to the park which made for beautiful views and fully immersed us in historic Savannah. The squares and even Riverside District were walkable-although we did get the visitor parking pass that was mentioned in the listing which helped immensely when my mom was feeling tired allowing us to conveniently park right outside the flat during our stay. Super appreciate that info! The area was very calm, quiet, and felt safe at night so we were able to get good sleep and relax. 
+Alyssa was very responsive providing clear instructions for arrival, getting into the flat, and checkout as well. This place was so charming and I will most definitely check to see if it’s available on my next visit to Savannah!
+Show more
+Courtney
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with kids
+We enjoyed staying here and the location was super cute and convenient to walk around. The hosts were super friendly and were easy to get a hold of. Perfect spot for a little weekend getaway
+Show more
+Greg
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great location!
+Miguel
+1 month on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+It was a great hospitality in an amazing area.
+Emily
+Nebo, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We had a lovely stay at Alyssa’s place! Would definitely book for our next Savannah stay
+Show all 533 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Forsyth Park
+Park
+The Olde Pink House
+Restaurant
+Scad Museum of Art
+Museum
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+We are in the heart of historic Savannah, located on Monterey Square. One block away is the Forsyth Park and numerous restaurants and shops surround the area. The location is quiet and peaceful as it is a solid distance away from the bars and partygoers that line the waterfront area. It is ideal for those who want to dig into the fascinating history, sublime architecture, wonderful boutiques and shops, and the delicious restaurants that Savannah has to offer.
+Show more
+Meet your host
+Alyssa
+Started hosting in 2026
+Co-hosts
+Brad
+Sandra
+Jordan
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,502 @@
+URL: https://www.airbnb.com/rooms/1283498846259952372
+Title: Hamilton House - 5 Beds, Courtyard, 2-Car Garage
+Latitude: 32.0767
+Longitude: -81.091
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 4
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 4
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 double bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+=== FULL DESCRIPTION ===
+The historic Hamilton Estate was built 1868 and has been preserved in its beautiful antiquity, but with all the modern amenities.  There are 5 Bedrooms with memory foam mattresses, 3.5 bathrooms, ample living space, a large courtyard with plunge pool and outdoor dining space, garage parking for 2 cars, and all bathrooms have Public Goods products and soft Turkish towels.
+
+The space
+The home features 4 main bedrooms with king beds and a bonus bedroom with two twin beds. The bonus bedroom is through the master bedroom for a total of 6 beds.
+
+This home is part of an estate which includes garden suites below and carriage houses behind. All potential guests must be aware of this and be willing to respect other guests on the property. Adhering to the house rules includes taking off shoes, respecting the city noise ordinance, etc.
+
+The home is styled in era appropriate furniture and antiques, and much of the original character has been preserved while modernizing everything up to today's comforts and efficiency.
+
+The kitchen is stocked with a complete set of Green Pan's highest grade cookware, full bar set, hand mixer, blender, American Standard bakeware, and all the odds and ends. 
+
+Perfect place to have a family vacation. Baby monitor, pack and play, kid dishes, books and some toys ready to go. All TV's are smart TV's
+
+There is off street parking in the garage for 2 cars.
+
+STVR Certificate: SVR-03242
+
+Guest access
+The courtyard and cold plunge are shared for the whole property. There is also an outdoor shower and courtyard bathroom. You have 2 private balconies on the main and second floor of the house.
+
+The garage parking is exclusive to the main house.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib - always at the listing
+Children’s books and toys
+Children’s dinnerware
+Baby monitor
+Board games
+Baby safety gates
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+Exterior cameras at the entrances for security only.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+BBQ grill
+Parking and facilities
+Free residential garage on premises – 2 spaces
+Paid parking off premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Hamilton House - 5 Beds, Courtyard, 2-Car Garage
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 4 bedrooms · 6 beds · 3.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+28 reviews
+28
+Reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Wright Square and Oglethorpe Square, with Telfair Museums about a 5-min walk away
+Free garage parking for two cars
+Two garage parking spots included, a real convenience in downtown Savannah's metered streets
+Spacious, comfortable, and well hosted
+Guests highlight the spacious layout, comfortable beds, and Chaz's responsive communication
+The historic Hamilton Estate was built 1868 and has been preserved in its beautiful antiquity, but with all the modern amenities.  There are 5 Bedrooms with memory foam mattresses, 3.5 bathrooms, ample living space, a large courtyard with plunge pool and outdoor dining space, garage parking for 2 cars, and all bathrooms have Public Goods products and soft Turkish towels.
+
+The space
+The home features 4 main bedrooms with king beds and a bonus bedroom with two twin beds. The bonus bedroom is through the master bedroom for a total of 6 beds.
+
+This home is part of an estate which includes garden suites below and carriage houses behind. All potential guests must be aware of this and be willing to respect other guests on the property. Adhering to the house rules includes taking off shoes, respecting the city noise ordinance, etc.
+
+The home is styled in era appropriate furniture and antiques, and much of the original character has been preserved while modernizing everything up to today's comforts and efficiency.
+
+The kitchen is stocked with a complete set of Green Pan's highest grade cookware, full bar set, hand mixer, blender, American Standard bakeware, and all the odds and ends. 
+
+Perfect place to have a family vacation. Baby monitor, pack and play, kid dishes, books and some toys ready to go. All TV's are smart TV's
+
+There is off street parking in the garage for 2 cars.
+
+STVR Certificate: SVR-03242
+
+Guest access
+The courtyard and cold plunge are shared for the whole property. There is also an outdoor shower and courtyard bathroom. You have 2 private balconies on the main and second floor of the house.
+
+The garage parking is exclusive to the main house.
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 4 | Count unverified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 double bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free residential garage on premises – 2 spaces
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 60 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 28 reviews.
+4.93
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+12
+Location
+16
+Comfort
+9
+Indoor spaces
+8
+Layout
+2
+Sleep quality
+5
+Hospitality
+10
+Family
+5
+Outdoor spaces
+3
+Cleanliness
+5
+Shannon
+Denver, Colorado
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+This renovated yet historic 19th century mansion is in a phenomenal location in Savannah. It is walkable throughout the historic district. The Old Town Trolley Tours of Savannah has a stop a block a way, and is a great way to see the town and get the lay of the land. River Street, City Market, and Broughton are all very easy to get to by walking, as well as Forsyth Park. The property itself has been very recently renovated and is very comfortable. With 20 ft high ceilings in all three floors, it feels very spacious. It has air conditioning, a necessity in the summer in Savannah, helping keep the accommodations cool. The host was extremely responsive when I had questions or needed a clarification. I would definitely return!
+Show more
+Jennifer
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Had a wonderful 2-night stay at this beautiful historic home. The house was incredibly charming and full of character while still having all the modern comforts we needed. Everything was very clean, well stocked, and thoughtfully prepared for guests. We especially loved the spacious layout, comfortable beds, and relaxing courtyard area. The kitchen had everything we needed, and the garage parking was a huge bonus.
+The host provided clear instructions and the property matched the listing perfectly. The location was great, and despite being part of a shared estate, everything still felt private and peaceful. Overall, it was a unique and comfortable stay and we would definitely return!
+Show more
+Amber
+Groveport, Ohio
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed with kids
+The Hamilton House was lovely and in a great location. The courtyard was an unexpected gem and my family enjoyed it immensely. The sheets were super soft and luxurious making sleep peaceful and comfy. Loved it!
+Show more
+April
+Rochester, Illinois
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+We really enjoyed this historic house.  The layout was great for a girls trip with the teenagers on the 3rd floor.  Plenty of bathrooms and we appreciated never running out of hot water.  The house is in a great location and easy to walk to lots of hot spots.   We also really enjoyed the balcony for early morning coffee. Chaz was very professional and responsive.  I’d book this house again.
+Show more
+Patricia
+United States
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+The Hamilton House is the perfect place to stay for a Savannah vacation, especially if you have a large family or group. We had 5 mature women who each enjoyed their own bed and mostly their own bath.  The house was immaculate and the location is perfect for walking to restaurants, shopping and of course, the Riverfront. The little Thai restaurant on the corner is the best!  I would highly recommend the beautiful historic home for your stay in Savannah!
+Show more
+Aron
+New City, New York
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed with kids
+This is a must stay in Savannah. Perfect location, easily walkable to the river and many historical sites.
+The house was perfect for our stay, it’s the perfect blend of 1800s architecture and furniture while being fully modernized.
+Show more
+Show all 28 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+This house is in the very center of Downtown Savannah's Historic District and walking distance to everything.
+Show more
+Meet your host
+Chaz
+Superhost
+3,100 reviews
+3100
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

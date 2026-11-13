@@ -1,0 +1,34 @@
+{
+  "license_rows": 1683,
+  "unmatched_license_apns": 8,
+  "matched_license_parcels": 1102,
+  "single_license_parcels": 772,
+  "cad_rows": 146213,
+  "matched_unique_calls": 868,
+  "matched_citizen_calls": 812,
+  "conflicting_call_numbers": 0,
+  "match_methods": {
+    "not_matched_to_rental": 145134,
+    "address_and_coordinate": 741,
+    "ambiguous_rental_address": 187,
+    "address_only_no_coordinate_parcel": 129,
+    "address_coordinate_conflict": 22
+  },
+  "top_citizen_call_types": [
+    "15B COMMERCIAL BURGLARY",
+    "24-4 UNWANTED person",
+    "71 SUSPICIOUS person",
+    "25 PARKING COMPLAINT",
+    "24-4 TRESPASSING",
+    "42 PAST THEFT"
+  ],
+  "source_sha256": {
+    "raw_data/CAD-log.xlsx": "2fab32a09b654fc49bef54418195c235c875221328d0c233bb793c5b278ce5d1",
+    "raw_data/Licensed Short-Term Rental Properties (1).xlsx": "d0a86d84be4ac6c1a3213610759ed38a5a22cb2bc134fc48966f75422b9e1790",
+    "raw_data/Parcel_Digest_2025.geojson": "5b0d8d45109801bfea0741fbd4b717da8c87a0e83e222c9ec745e881ca9d6883"
+  },
+  "commercial_exclusions_applied": false,
+  "excluded_matched_parcels": 0,
+  "excluded_matched_unique_calls": 0,
+  "excluded_license_rows": 0
+}

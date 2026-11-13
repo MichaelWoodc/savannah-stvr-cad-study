@@ -1,0 +1,686 @@
+URL: https://www.airbnb.com/rooms/1187788470019404644
+Title: Cozy Garden Apartment | Heated Pool Access
+Latitude: 32.06716
+Longitude: -81.09031
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Discover romance and adventure at this historic, Italianate Victorian Mansion in Savannah, Georgia. Affectionately called Maisonette La Belle, this one-bedroom apartment is perfect for up to four visitors. Learn more about our Savannah vacation rentals so that you can unwind, explore and renew yourself on that next trip.
+
+The space
+Stepping Into a Modern Garden Apartment
+
+
+
+Start your vacation off without any hassle at our private entrance. Use the keypad and check-in feature to access the property. Meeting with a manager isn't part of your first day at Savannah vacation homes. Inside, walk into the cheerful living room with two club chairs and a comfy sofa. With a flat-screen TV and storage throughout the living room, you can easily unpack as you enjoy a favorite show.
+
+
+
+At our vacation rentals Savannah GA, preserving the home's architecture but offering modern conveniences is our priority. That's why Maisonette La Belle includes the original staircase as an accent piece in the hallway. Beneath it, enjoy the half-bath as you entertain loved ones in the common space.
+
+
+
+Nearby, slide open the barn door to reveal the master bedroom. It has a queen-size bed, additional linens and extra blankets for your convenience. Naturally, the bedroom accommodates two people. For your other two guests, the living room sofa opens into a bed in the evening.
+
+
+
+Continue onto the en suite bathroom. Inside, there's a single vanity and upgraded tile shower. Towels, a hair dryer, hangers and other accessories are included, too.
+
+
+
+Throughout the property, find safety resources, such as a lockbox and outdoor lighting. Feel safe with the included fire extinguisher, carbon monoxide detector, first aid kit and smoke detector as well. For your comfort, Savannah vacation homes include air conditioning, heating, multiple ceiling fans and Wi-Fi connectivity.
+
+
+
+Dine casually or formally in the spacious dining room. Seating for four guests under a dazzling chandelier creates a romantic mood every evening. Connected to the dining area is the modern kitchen. Indeed, this kitchen includes the essentials, such as plates, silverware, pots and pans. Also, use the major appliances for grand meals or snacks. The property includes a refrigerator, stove, oven, microwave, dishwasher and coffee maker. Bring your own groceries to start cooking.
+
+
+
+For added convenience, the kitchen is also home to a laundry washer and dryer. Fitting snugly beneath the kitchen countertop, these appliances also complement the included iron and ironing board. Simply access these accessories in the nearby storage closet.
+
+
+
+Relaxing With the Outdoor Amenities
+
+
+
+Our vacation rentals Savannah GA include two outdoor areas for your convenience. First, the shared courtyard offers a huge, open-air space for spreading out on warm evenings. Enjoy the table and chairs, wood-burning fireplace and the nearby fountain. Plenty of potted plants decorate the courtyard for a charming time unwinding with loved ones.
+
+
+
+Next, a private patio awaits just outside your dining room's side door. Here, you'll find lounge chairs and a covered patio. With a brick walkway and a small garden nearby, this private retreat is perfect for reading a book or enjoying the breezes across the property.
+
+
+
+Remarkably, our Savannah vacation rentals include pool access. Located at 19 Silver Avenue, Tybee Island, Georgia, a resort-style pool with lounge chairs and an outdoor grill are available to all guests. Because it's exclusively reserved for our guests, there's plenty of space to spread out. Bring your personal items, and enjoy a day by the pool as the oversized umbrellas provide a shady contrast to the sunny deck.
+
+
+
+Venturing Into the City and Beyond
+
+
+
+Located in the Victorian District East, Maisonette La Belle is near some of the top landmarks in Downtown Savannah, such as Forsyth Park. Indeed, simply walking to the area's shops, restaurants and coffee shops is possible. Consider seeing some of the museums in the region, such as the Mercer Williams House Museum or Savannah History Museum. Fascinating walking tours are also available, too. For example, discover Savannah's architecture during a day tour or experience a ghost tour during a twilight walk.
+
+
+
+An old-fashioned experience involves Savannah's famous horse-drawn carriages. Perfect for an early-evening ride, take a carriage around the nearby parks and historic homes. Because of the romance behind these carriages, the experience matches nicely with your Savannah vacation itinerary. If you have a special occasion, make an advanced reservation. These rides are popular and can be booked up rapidly.
+
+
+
+Venture a bit further to the Savannah River. Referred to as River Street, this promenade is home to many shops and restaurants. Pick up a Southern souvenir here as you look out on the boats dotting the river. Depending on the month, different festivals are held along this route. From brew fests to Halloween carnivals, River Street is a hub for both tourists and locals alike.
+
+
+
+Because you have access to our heated pool on Tybee Island, consider a day to explore this region. Referred to as Savannah's beach, Tybee Island has a laid-back style. Typically, visitors enjoy the beach, explore the pier and experience the nightlife. Tybee Island is about 20 to 30 minutes away from your vacation home, so you can drive out in the morning and return in the evening without too much time spent on the road.
+
+
+
+Experiencing Maisonette La Belle with its modern upgrades creates a timeless adventure for your next vacation. Booking Savannah vacation homes is convenient with our online reservation process. Pick your dates, and privately check in on your chosen days. Welcome to your Southern retreat circa 1880.
+
+
+
+SVR - 02926
+
+Guest access
+Perfect accommodations for a romantic couple's getaway!
+
+Occupancy: 4
+
+Living room features plush sofa, two club chairs, and flatscreen TV
+
+Large double french doors leading into relaxing courtyard
+
+Shared courtyard features outdoor table and chairs, soothing fountain, and wood burning fireplace
+
+Side door from dining room leads to private covered patio for garden apartment
+
+Full kitchen equipped with all cooking essentials
+
+Dining table with seating for 4
+
+Queen bed in spacious bedroom
+
+En suite full bathroom with tiled shower
+
+Additional sleeping space on sofa bed in living room
+
+Washer/Dryer in unit
+
+Half bath off living area for convenience
+
+Location: Just a short walk away from Forsyth Park, coffee shops, restaurants, shopping, and museums
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Cozy Garden Apartment | Heated Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 1 bed · 1.5 baths
+Rated 4.56 out of 5 stars.
+4.56
+·
+16 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with Whitefield Square and local cafés even closer
+Two outdoor spaces to unwind
+A private covered patio and a shared courtyard with a fountain and wood-burning fireplace
+Loved for the location and patios
+Guests highlight the walkable location and the outdoor spaces as standout features
+Discover romance and adventure at this historic, Italianate Victorian Mansion in Savannah, Georgia. Affectionately called Maisonette La Belle, this one-bedroom apartment is perfect for up to four visitors. Learn more about our Savannah vacation rentals so that you can unwind, explore and renew yourself on that next trip.
+
+The space
+Stepping Into a Modern Garden Apartment
+
+
+
+Start your vacation off without any hassle at our private entrance. Use the keypad and check-in feature to access the property. Meeting with a manager isn't part of your first day at Savannah vacation homes. Inside, walk into the cheerful living room with two club chairs and a comfy sofa. With a flat-screen TV and storage throughout the living room, you can easily unpack as you enjoy a favorite show.
+
+
+
+At our vacation rentals Savannah GA, preserving the home's architecture but offering modern conveniences is our priority. That's why Maisonette La Belle includes the original staircase as an accent piece in the hallway. Beneath it, enjoy the half-bath as you entertain loved ones in the common space.
+
+
+
+Nearby, slide open the barn door to reveal the master bedroom. It has a queen-size bed, additional linens and extra blankets for your convenience. Naturally, the bedroom accommodates two people. For your other two guests, the living room sofa opens into a bed in the evening.
+
+
+
+Continue onto the en suite bathroom. Inside, there's a single vanity and upgraded tile shower. Towels, a hair dryer, hangers and other accessories are included, too.
+
+
+
+Throughout the property, find safety resources, such as a lockbox and outdoor lighting. Feel safe with the included fire extinguisher, carbon monoxide detector, first aid kit and smoke detector as well. For your comfort, Savannah vacation homes include air conditioning, heating, multiple ceiling fans and Wi-Fi connectivity.
+
+
+
+Dine casually or formally in the spacious dining room. Seating for four guests under a dazzling chandelier creates a romantic mood every evening. Connected to the dining area is the modern kitchen. Indeed, this kitchen includes the essentials, such as plates, silverware, pots and pans. Also, use the major appliances for grand meals or snacks. The property includes a refrigerator, stove, oven, microwave, dishwasher and coffee maker. Bring your own groceries to start cooking.
+
+
+
+For added convenience, the kitchen is also home to a laundry washer and dryer. Fitting snugly beneath the kitchen countertop, these appliances also complement the included iron and ironing board. Simply access these accessories in the nearby storage closet.
+
+
+
+Relaxing With the Outdoor Amenities
+
+
+
+Our vacation rentals Savannah GA include two outdoor areas for your convenience. First, the shared courtyard offers a huge, open-air space for spreading out on warm evenings. Enjoy the table and chairs, wood-burning fireplace and the nearby fountain. Plenty of potted plants decorate the courtyard for a charming time unwinding with loved ones.
+
+
+
+Next, a private patio awaits just outside your dining room's side door. Here, you'll find lounge chairs and a covered patio. With a brick walkway and a small garden nearby, this private retreat is perfect for reading a book or enjoying the breezes across the property.
+
+
+
+Remarkably, our Savannah vacation rentals include pool access. Located at 19 Silver Avenue, Tybee Island, Georgia, a resort-style pool with lounge chairs and an outdoor grill are available to all guests. Because it's exclusively reserved for our guests, there's plenty of space to spread out. Bring your personal items, and enjoy a day by the pool as the oversized umbrellas provide a shady contrast to the sunny deck.
+
+
+
+Venturing Into the City and Beyond
+
+
+
+Located in the Victorian District East, Maisonette La Belle is near some of the top landmarks in Downtown Savannah, such as Forsyth Park. Indeed, simply walking to the area's shops, restaurants and coffee shops is possible. Consider seeing some of the museums in the region, such as the Mercer Williams House Museum or Savannah History Museum. Fascinating walking tours are also available, too. For example, discover Savannah's architecture during a day tour or experience a ghost tour during a twilight walk.
+
+
+
+An old-fashioned experience involves Savannah's famous horse-drawn carriages. Perfect for an early-evening ride, take a carriage around the nearby parks and historic homes. Because of the romance behind these carriages, the experience matches nicely with your Savannah vacation itinerary. If you have a special occasion, make an advanced reservation. These rides are popular and can be booked up rapidly.
+
+
+
+Venture a bit further to the Savannah River. Referred to as River Street, this promenade is home to many shops and restaurants. Pick up a Southern souvenir here as you look out on the boats dotting the river. Depending on the month, different festivals are held along this route. From brew fests to Halloween carnivals, River Street is a hub for both tourists and locals alike.
+
+
+
+Because you have access to our heated pool on Tybee Island, consider a day to explore this region. Referred to as Savannah's beach, Tybee Island has a laid-back style. Typically, visitors enjoy the beach, explore the pier and experience the nightlife. Tybee Island is about 20 to 30 minutes away from your vacation home, so you can drive out in the morning and return in the evening without too much time spent on the road.
+
+
+
+Experiencing Maisonette La Belle with its modern upgrades creates a timeless adventure for your next vacation. Booking Savannah vacation homes is convenient with our online reservation process. Pick your dates, and privately check in on your chosen days. Welcome to your Southern retreat circa 1880.
+
+
+
+SVR - 02926
+
+Guest access
+Perfect accommodations for a romantic couple's getaway!
+
+Occupancy: 4
+
+Living room features plush sofa, two club chairs, and flatscreen TV
+
+Large double french doors leading into relaxing courtyard
+
+Shared courtyard features outdoor table and chairs, soothing fountain, and wood burning fireplace
+
+Side door from dining room leads to private covered patio for garden apartment
+
+Full kitchen equipped with all cooking essentials
+
+Dining table with seating for 4
+
+Queen bed in spacious bedroom
+
+En suite full bathroom with tiled shower
+
+Additional sleeping space on sofa bed in living room
+
+Washer/Dryer in unit
+
+Half bath off living area for convenience
+
+Location: Just a short walk away from Forsyth Park, coffee shops, restaurants, shopping, and museums
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 44 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.56 out of 5 stars from 16 reviews
+4.56 · 16 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 75% of reviews
+5
+4 stars, 19% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 6% of reviews
+1
+Rated 4.6 out of 5 stars for cleanliness
+Cleanliness
+4.6
+Rated 4.6 out of 5 stars for accuracy
+Accuracy
+4.6
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.7 out of 5 stars for communication
+Communication
+4.7
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 4.4 out of 5 stars for value
+Value
+4.4
+Guest reviews mention
+Parks
+2
+Hospitality
+6
+Nearby
+4
+Sleep quality
+4
+Cleanliness
+4
+Walkability
+2
+Location
+3
+Outdoor spaces
+2
+Family
+2
+Checkout
+2
+Whitney
+Knoxville, Tennessee
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We enjoyed our stay. Courtyard could use some tlc. Plenty of room for our family of 4!
+Christian
+Smyrna, Tennessee
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had a wonderful stay! The location was perfect and very walkable. Kroger is in the next block and it’s about 2 blocks to Forsyth park. We highly recommend a little cafe around the corner called Mate’ Factor. They had the best breakfast sandwiches. The owner lives upstairs and was very kind and talked to us every time we passed by. We would gladly stay here again if visiting Savannah in the future.
+Show more
+Kenya
+Covington, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed about a week
+Everything was just like the pictures. I loved the picture instructions because it made it me feel more comfortable checking in. Everyone responded so quickly. I would recommend 10 out of 10.
+Show more
+Angela
+Cincinnati, Ohio
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Our stay in Savannah was great! The condo was amazingly clean and very large! It was cozy and romantic! We would definitely book again!
+Savanna
+Savannah, Georgia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+I loved my stay here! The host was so friendly, the shared patio was a dream, and it felt just like I was home! It’s in a great location - will definitely rebook a stay here next time I’m in town!
+Show more
+HarryandTina
+Manheim, Pennsylvania
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Beautiful property. Very comfortable. Especially enjoyed the patio and courtyard! 💗
+Thank you very much!
+Show all 16 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

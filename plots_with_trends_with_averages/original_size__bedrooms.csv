@@ -1,0 +1,40 @@
+series,size,rate,parcels
+Property,0.0,0.6441798941798942,6
+Property,1.0,0.2745084776334776,132
+Property,2.0,0.1907921342634718,157
+Property,3.0,0.3610238967381824,91
+Property,4.0,0.4616622574955908,45
+Property,5.0,0.4026124338624338,18
+Property,6.0,0.724702380952381,12
+Property,7.0,0.6039186507936508,4
+Property,8.0,1.2078373015873016,2
+Property,9.0,0.9662698412698412,2
+Property,11.0,0.4831349206349206,1
+Property,12.0,1.9325396825396823,1
+Property,16.0,0.0,1
+Touching residential neighbors,0.0,0.8857473544973544,6
+Touching residential neighbors,1.0,0.5453568422318422,132
+Touching residential neighbors,2.0,0.5785309877666566,157
+Touching residential neighbors,3.0,0.727356968428397,91
+Touching residential neighbors,4.0,1.3742504409171077,45
+Touching residential neighbors,5.0,0.4831349206349206,18
+Touching residential neighbors,6.0,0.5233961640211641,12
+Touching residential neighbors,7.0,1.449404761904762,4
+Touching residential neighbors,8.0,0.7247023809523809,2
+Touching residential neighbors,9.0,0.4831349206349206,2
+Touching residential neighbors,11.0,0.9662698412698412,1
+Touching residential neighbors,12.0,3.381944444444444,1
+Touching residential neighbors,16.0,0.4831349206349206,1
+Property + neighbors,0.0,1.5299272486772486,6
+Property + neighbors,1.0,0.8198653198653197,132
+Property + neighbors,2.0,0.7693231220301283,157
+Property + neighbors,3.0,1.0883808651665794,91
+Property + neighbors,4.0,1.8359126984126983,45
+Property + neighbors,5.0,0.8857473544973544,18
+Property + neighbors,6.0,1.248098544973545,12
+Property + neighbors,7.0,2.053323412698413,4
+Property + neighbors,8.0,1.9325396825396823,2
+Property + neighbors,9.0,1.449404761904762,2
+Property + neighbors,11.0,1.449404761904762,1
+Property + neighbors,12.0,5.314484126984127,1
+Property + neighbors,16.0,0.4831349206349206,1

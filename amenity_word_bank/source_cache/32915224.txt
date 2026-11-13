@@ -1,0 +1,447 @@
+URL: https://www.airbnb.com/rooms/32915224
+Title: Renovated Bohemian Retreat by Lucky Savannah
+Latitude: 32.0678
+Longitude: -81.091
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Southern Comfort Too - Experience a true bohemian escape located on the charming, historic side of Huntingdon Street in Savannah. Up to four Lucky guests will call this bright and airy 2-bedroom "home sweet home".
+
+The space
+Southern Comfort Too - Experience a true bohemian escape located on the charming, historic side of Huntingdon Street in Savannah. Up to four Lucky guests will call this bright and airy 2-bedroom "home sweet home".
+
+Enter into the foyer on the first level of this bohemian, chic, humble abode. The actual living space is situated on the second floor of this property, above the ground floor unit. Upstairs you will find the main living space that offers an ample amount of seating, and a large Flatscreen TV. The dining room that is open to the main living space, can sit up to four Lucky guests. The kitchen sits just off of the back of the home and has all the modern conveniences you could wish for, complete with marble countertops, dishwasher, fridge, and stovetop, ideal for extended stays. A designer's dream bathroom is situated conveniently between the main living space and kitchen with hand-laid marble tile, a generous sized walk-in shower and a high-end double vanity.
+
+Off of the kitchen in the back of the home, you will find a large private porch and large daybed. Right off of the courtyard space, you will conveniently find your two private parking spaces. Facing Huntingdon Street, you'll find the two well-situated bedrooms both with spacious closets. The King size bedroom offers a desk, large dresser, two closets and a flatscreen TV - A true primary suite. The Queen size bedroom  has plenty of flare, with a solid wood dresser and generous wall mirror.
+
+Sleeping Configuration:
+Bedroom 1: King bed
+Bedroom 2: Queen bed
+
+What is parking like for this home? 
+Guests can take advantage of the two private parking spaces located behind the home of this property.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-01812
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Renovated Bohemian Retreat by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Rated 4.78 out of 5 stars.
+4.78
+·
+23 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's historic district
+Steps from Whitefield Square, with Forsyth Park about a 10-min walk away
+Private porch and off-street parking
+A private porch with a daybed off the kitchen, plus two dedicated parking spaces behind the home
+Spacious and well-equipped
+Guests highlight the spacious layout, well-stocked kitchen, and proximity to parks and cafes
+Southern Comfort Too - Experience a true bohemian escape located on the charming, historic side of Huntingdon Street in Savannah. Up to four Lucky guests will call this bright and airy 2-bedroom "home sweet home".
+
+The space
+Southern Comfort Too - Experience a true bohemian escape located on the charming, historic side of Huntingdon Street in Savannah. Up to four Lucky guests will call this bright and airy 2-bedroom "home sweet home".
+
+Enter into the foyer on the first level of this bohemian, chic, humble abode. The actual living space is situated on the second floor of this property, above the ground floor unit. Upstairs you will find the main living space that offers an ample amount of seating, and a large Flatscreen TV. The dining room that is open to the main living space, can sit up to four Lucky guests. The kitchen sits just off of the back of the home and has all the modern conveniences you could wish for, complete with marble countertops, dishwasher, fridge, and stovetop, ideal for extended stays. A designer's dream bathroom is situated conveniently between the main living space and kitchen with hand-laid marble tile, a generous sized walk-in shower and a high-end double vanity.
+
+Off of the kitchen in the back of the home, you will find a large private porch and large daybed. Right off of the courtyard space, you will conveniently find your two private parking spaces. Facing Huntingdon Street, you'll find the two well-situated bedrooms both with spacious closets. The King size bedroom offers a desk, large dresser, two closets and a flatscreen TV - A true primary suite. The Queen size bedroom  has plenty of flare, with a solid wood dresser and generous wall mirror.
+
+Sleeping Configuration:
+Bedroom 1: King bed
+Bedroom 2: Queen bed
+
+What is parking like for this home? 
+Guests can take advantage of the two private parking spaces located behind the home of this property.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-01812
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Show all 36 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.78 out of 5 stars from 23 reviews
+4.78 · 23 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 87% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 9% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Parks
+3
+Location
+13
+Walkability
+7
+Parking
+6
+Nearby
+6
+Outdoor spaces
+5
+Decor
+4
+Comfort
+5
+Access
+3
+Cleanliness
+6
+Cindy
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+Lovely stay, my family enjoyed it very much. We especially appreciate being able to have our dogs with us. The place was just as described; very clean, plenty of space to spread out and be comfortable. We loved the location and close proximity to the grocery store, coffee shop, and reasonable distance from downtown. All in all a really great stay, thank you!
+Show more
+Matt
+Kingsport, Tennessee
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Stayed with a pet
+Spacious, airy and bright 2nd floor apartment with short walk to Forsyth Park and all of downtown. Easy to access with off-street parking, very close to coffee shop and grocery store if you want to use the kitchen that has all you need for breakfast and simple meal prep.  Front entrance is private for 2nd floor with separate entrance for 1st floor unit.  Shared back garden is private and quiet, enjoyed the perfect December weather there each day.
+Show more
+Brittney
+Phoenix, Arizona
+Rating, 5 stars
+,
+·
+October 2024
+,
+·
+Stayed with kids
+Beautiful home like pictures. Spacious. Everything we needed. Dedicated parking was great.
+Must climbs stairs to access unit so I don’t recommend booking if you have mobility issues.
+Show more
+Chia
+Coral Gables, Florida
+Rating, 5 stars
+,
+·
+November 2023
+,
+·
+Stayed with a pet
+The home was just as pictured and beautifully appointed. We had everything we needed for our stay over the Thanksgiving holiday and found the kitchen well stocked with kitchenware for our cooking needs. The home is spacious and well kept with a great bohemian vibe throughout, very cozy! We especially enjoyed the neighborhood and proximity to the parks, cafes and river walk. Highly recommend!
+Show more
+Jennifer
+Iqaluit, Canada
+Rating, 5 stars
+,
+·
+September 2023
+,
+·
+Stayed with a pet
+This place was absolutely beautiful. The decor, resting areas, spaciousness, and location of this property is top notch. I really enjoyed relaxing in this beautiful home, hanging out on its many porches and walking to all of the happening spots in Savannah. Location was everything!
+Show more
+Mario
+Nassau, The Bahamas
+Rating, 5 stars
+,
+·
+December 2022
+,
+·
+Stayed about a week
+Wonderful apartment, good location (that is why I rent) with parking space what is good in Savannah.    Personal for me was better than described or in the pictures.    But for short rents like my, they could leave trash bags (one per day), as they live dish wash and soap for the dishwasher.  It is a small value on the rent if you need to include, but make so convenient, why I need to buy a box of 21 bags to use in three days (last of my period)?
+Besides they are very specific to not leave used oil, salt, pepper, coffee filter we found all that, and after we clean to leave at 3 am to the airport, my son locking for a glass found more in one part that we did not inspect and we leaved as we already clean and trough all trash out.   We found the cook pans dirt, we can say bad washed.          Unfortunate the people that gos to clean the apartment, beds and all should review that unfortunate.  But we loved the place and if we need we will rent again.
+Show more
+Show all 23 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

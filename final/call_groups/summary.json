@@ -1,0 +1,14 @@
+{
+  "properties": 472,
+  "years": 2.7926078028747434,
+  "estimated_models": 92,
+  "plots": 12,
+  "counts": {
+    "combined / all_calls": 1475,
+    "combined / nuisance": 159,
+    "combined / violence_sex": 61,
+    "direct / all_calls": 493,
+    "direct / nuisance": 66,
+    "direct / violence_sex": 14
+  }
+}

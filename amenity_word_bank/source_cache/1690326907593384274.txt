@@ -1,0 +1,621 @@
+URL: https://www.airbnb.com/rooms/1690326907593384274
+Title: Historic 1899 Victorian | Spa +Forsyth Park+DT
+Latitude: 32.06434
+Longitude: -81.09234
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lelly
+Host ID: 35216360
+Host profile ID: 1462667963127642819
+Host URL: https://www.airbnb.com/users/profile/1462667963127642819
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 5
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed, 2 single beds
+
+Bedroom 3
+1 bunk bed
+
+Living room
+1 couch
+
+=== FULL DESCRIPTION ===
+Built in 1899 and thoughtfully restored in 2026, this historic Victorian retreat blends timeless Savannah charm with modern comfort.
+
+Located just a 5 mins walk from Forsyth Park in the Historic Victorian District, the home features curated vintage décor, heart pine floors, and rich character throughout. 
+
+Enjoy coffee on the side porch, unwind in the private hot tub under string lights, or gather for dinner in the backyard. This home was designed for memorable group in the heart of Savannah.
+
+The space
+Step inside and immediately be welcomed by dramatic wallpaper details, original architectural charm, and carefully curated interiors inspired by Savannah’s historic elegance.
+
+Located only 2 blocks from Forsyth Park, you’ll be within walking distance of Savannah’s best cafés, restaurants, grocery stores, and historic landmarks while still enjoying a peaceful residential setting.
+
+🏠 Home Features
+🛏️ 3 Bedrooms | 🛁 2.5 Bathrooms
+Perfect for families, friends, and group trips exploring Savannah
+
+*All bedrooms are upstairs.
+
+✨ Highlights
+• Private hot tub under café string lights
+• Fully fenced backyard with outdoor dining & BBQ grill
+• Designer interiors with locally curated vintage décor
+• Original heart pine floors & soaring ceilings
+• Walkable location near Forsyth Park
+• Fast WiFi throughout the home
+• Free street parking 
+
+🍳 Kitchen & Dining
+• Fully stocked kitchen with essential cookware
+• Drip coffee maker with fresh ground coffee provided
+• Dining space perfect for group meals & gatherings
+
+🛋️ Living Spaces
+• Bright and stylish living room with 55” Smart TV
+• Cozy gathering spaces designed for comfort and conversation
+
+🛏️ Sleeping Arrangements
+
+All bedrooms are located upstairs.
+
+Bedroom 1 — Primary Suite
+🛏️ King Bed
+🛁 Private ensuite bathroom with double vanities & walk-in shower
+
+Bedroom 2
+🛏️ Queen Bed + Twin Trundle Bed (2 twin mattresses)
+
+Bedroom 3
+🛏️ Twin-over-Full Bunk Bed
+
+Bathrooms
+🛁 Ensuite bathroom (primary bedroom) with walk-in shower
+🛁 Hallway full bathroom with  shower/tub combo (Shared by bedroom 2 & 3) 
+🚽 Additional half bathroom downstairs
+
+🌴 Outdoor Space
+One of the home’s most loved features is the private brick courtyard backyard — complete with:
+• Hot tub
+• Outdoor dining area
+• BBQ grill
+• String lights
+• Lounge seating
+
+The perfect place to unwind after a day exploring Savannah.
+
+📍Location
+Nestled in Savannah’s Historic Victorian District, the home is just minutes from:
+• Forsyth Park
+• Historic downtown Savannah
+• Popular cafés & brunch spots
+• Local boutiques & cocktail bars
+• River Street
+• SCAD campus
+
+Permit Number: SVR-03257
+
+Guest access
+Guest can access the entire house & backyard. Codes and other check-in details will be provided via message on Airbnb.
+
+Other things to note
+All firepit is for decor only.
+All bedrooms on upstairs. 
+Weekly lawn & hot tub maintenance on every Thursday.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+This host has eliminated disposable plastic toiletries at this stay
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Safe
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Record player
+Books and reading material
+Family
+Pack ’n play/Travel crib - always at the listing
+Baby bath
+Children’s dinnerware
+Fireplace guards
+Board games
+Heating and cooling
+Air conditioning
+Indoor fireplace
+Ceiling fan
+Central heating
+Smart thermostat
+Helps guests adjust temperature to manage energy use.
+Home safety
+Exterior security cameras on property
+Exterior security cameras present near front door and side fence for safety purpose.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Gas stove
+Oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Trash compactor
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Private backyard – Fully fenced
+An open space on the property usually covered in grass
+Fire pit
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free parking on premises
+Free street parking
+Hot tub
+Recycling
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Housekeeping available 2 days a week - available at extra cost
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Historic 1899 Victorian | Spa +Forsyth Park+DT
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 3 bedrooms · 6 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+16 reviews
+16
+Reviews
+Hosted by Lelly
+Superhost · 4 years hosting
+Listing highlights
+In the Victorian Historic District
+About a 5-min walk to Forsyth Park, with cafés, restaurants, and historic squares nearby
+Private backyard with a hot tub
+A private brick courtyard with a hot tub under string lights, outdoor dining, and a grill
+Guests love the beds and the host
+Guests highlight the comfortable beds, beautiful décor, and Lelly's responsive communication
+Built in 1899 and thoughtfully restored in 2026, this historic Victorian retreat blends timeless Savannah charm with modern comfort.
+
+Located just a 5 mins walk from Forsyth Park in the Historic Victorian District, the home features curated vintage décor, heart pine floors, and rich character throughout. 
+
+Enjoy coffee on the side porch, unwind in the private hot tub under string lights, or gather for dinner in the backyard. This home was designed for memorable group in the heart of Savannah.
+
+The space
+Step inside and immediately be welcomed by dramatic wallpaper details, original architectural charm, and carefully curated interiors inspired by Savannah’s historic elegance.
+
+Located only 2 blocks from Forsyth Park, you’ll be within walking distance of Savannah’s best cafés, restaurants, grocery stores, and historic landmarks while still enjoying a peaceful residential setting.
+
+🏠 Home Features
+🛏️ 3 Bedrooms | 🛁 2.5 Bathrooms
+Perfect for families, friends, and group trips exploring Savannah
+
+*All bedrooms are upstairs.
+
+✨ Highlights
+• Private hot tub under café string lights
+• Fully fenced backyard with outdoor dining & BBQ grill
+• Designer interiors with locally curated vintage décor
+• Original heart pine floors & soaring ceilings
+• Walkable location near Forsyth Park
+• Fast WiFi throughout the home
+• Free street parking 
+
+🍳 Kitchen & Dining
+• Fully stocked kitchen with essential cookware
+• Drip coffee maker with fresh ground coffee provided
+• Dining space perfect for group meals & gatherings
+
+🛋️ Living Spaces
+• Bright and stylish living room with 55” Smart TV
+• Cozy gathering spaces designed for comfort and conversation
+
+🛏️ Sleeping Arrangements
+
+All bedrooms are located upstairs.
+
+Bedroom 1 — Primary Suite
+🛏️ King Bed
+🛁 Private ensuite bathroom with double vanities & walk-in shower
+
+Bedroom 2
+🛏️ Queen Bed + Twin Trundle Bed (2 twin mattresses)
+
+Bedroom 3
+🛏️ Twin-over-Full Bunk Bed
+
+Bathrooms
+🛁 Ensuite bathroom (primary bedroom) with walk-in shower
+🛁 Hallway full bathroom with  shower/tub combo (Shared by bedroom 2 & 3) 
+🚽 Additional half bathroom downstairs
+
+🌴 Outdoor Space
+One of the home’s most loved features is the private brick courtyard backyard — complete with:
+• Hot tub
+• Outdoor dining area
+• BBQ grill
+• String lights
+• Lounge seating
+
+The perfect place to unwind after a day exploring Savannah.
+
+📍Location
+Nestled in Savannah’s Historic Victorian District, the home is just minutes from:
+• Forsyth Park
+• Historic downtown Savannah
+• Popular cafés & brunch spots
+• Local boutiques & cocktail bars
+• River Street
+• SCAD campus
+
+Permit Number: SVR-03257
+
+Guest access
+Guest can access the entire house & backyard. Codes and other check-in details will be provided via message on Airbnb.
+
+Other things to note
+All firepit is for decor only.
+All bedrooms on upstairs. 
+Weekly lawn & hot tub maintenance on every Thursday.
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 5 | Count unverified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed, 2 single beds
+
+Bedroom 3
+1 bunk bed
+
+Living room
+1 couch
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Hot tub
+Pets allowed
+TV
+Washer
+Free dryer – In unit
+Exterior security cameras on property
+Show all 75 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 16 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Brinson
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+5 days ago
+,
+·
+Stayed with a pet
+Excellent stay with our family at this historic house! Probably the most well decorated AirBnB we’ve ever stayed in and equipped with everything you might need. Host goes above and beyond. Short walk to Forsyth Park, grocery store, and several good restaurants including pizza, Mexican, and coffee.
+Show more
+Anastasiia
+Dubai, United Arab Emirates
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Very nice house! Though it’s old everything was in very good condition. The only thing - internet in the second floor is not good, but that’s a small detail.
+Laura
+Cincinnati, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+This home was so welcoming!  From the bottle of wine and basket of treats to the quality of the linens and decor.  It’s nice to see that someone really cares about your experience in their home.
+Show more
+Clint
+Savannah, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+This place was fantastic. I can’t say enough about the house. It was perfect. Very well taken care of and you can tell Lelly put a lot of work and thought into how she wants the house presented. Lelly was very responsive. If I had a question she answered it immediately and respectfully. I recommend this place 10/10 and we have already started looking at staying at one of her other properties out of town. Thanks Lelly!
+Show more
+Cyndi
+Doylestown, Pennsylvania
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed one night
+Well appointed, with extremely comfortable beds.  Think Westin Heavenly comfortable.  Nice to walk to Forsyth Park. Excellent host.
+Sidney
+Sarasota, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+We would absolutely stay here again in a heartbeat. Walkable to everything, great neighborhood, easy parking, and so many thoughtful touches in the house. Not your average Airbnb. Highly recommend!
+Show more
+Show all 16 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Welcome to Savannah's Victorian Historic District — one of the city's most beautifully preserved neighborhoods, where ornate 19th-century homes with turrets, wraparound porches, and intricate ironwork line every street.
+Show more
+Meet your host
+Lelly
+Superhost
+1,001 reviews
+1001
+Reviews
+4.91 out of 5 average rating
+4.91
+Rating
+4 years of hosting
+4
+Years hosting
+Where I went to school: University of Melbourne & UW (Seattle)
+My work: RE Professional
+Hi y’all! I’m Lelly. A real estate pro in Austin Tx. I’ve always been obsessed with homes, from design to flips. My love for traveling (and all the amazing Airbnbs I’ve stayed in) inspired me to start hosting myself. Now I get to create the kind of stays I once loved experiencing. Hosting has been such a fun way to meet and connect with incredible people from all over the world — and that’s truly my favorite part of it!
+Lelly is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Chenhao
+Finch
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 3:00 PM - 12:00 AM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

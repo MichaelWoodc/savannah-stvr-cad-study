@@ -1,0 +1,521 @@
+URL: https://www.airbnb.com/rooms/14332720
+Title: The One with a Bicycle on the Wall
+Latitude: 32.0703
+Longitude: -81.0921
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Kristin
+Host ID: 87355019
+Host profile ID: 1467050393392707460
+Host URL: https://www.airbnb.com/users/profile/1467050393392707460
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 double bed
+
+=== FULL DESCRIPTION ===
+This beautiful row house in Historic Downtown Savannah was built in 1872. Meticulously restored and renovated, this home offers the historic beauty of original hardwood floors, high ceilings, pocket doors, and four fireplaces (in-op), as well as the comfort of soft beds, remodeled kitchen, 52' TV,  and Wi-Fi. In a quiet residential area on Taylor Square,  just a short walk away from Forsyth Park, River St, shopping, restaurants, and entertainment. Well-behaved pets welcome. No barkers please.
+
+The space
+Easy meter-free parking on the street just out front.
+
+This listing is for the upper two stories of the townhome, which sleeps 6. All bedrooms are on the top floor. You have access to a private courtyard, shared with the owner, and the garden level guests (#488360).
+
+A walk to:
+
+    * Forsyth Park
+    * City Market
+    * River Street
+    * Broughton Street shopping
+    * Downtown Design District
+    * countless restaurants, coffeshops, and bars
+    * all 22 downtown Squares
+    * The Mercer House
+    * The Pink House
+    * The Owens Thomas House
+    * The Juliet Gordon Lowe birthplace and Girl Scout original Headquarters
+    * The Telfair and Jepson Art Museums
+    * Savannah Civic Center
+    * Savannah College of Art and Design (SCAD)
+
+
+A short drive to:
+
+    * Tybee Island beach
+    * Bonaventure Cemetary
+    * Savannah Hilton Head International Airport
+
+SVR Cert. No. SVR-00092
+
+Guest access
+Travelers will have access to two spacious living rooms, kitchen, three bedrooms and two and a half bathrooms, as well as a private shared courtyard.
+
+Guests will be given a door code prior to arrival.
+
+Other things to note
+I've been short term vacation renting since 2010. Please check out unit #490294 on the other major site for 16 years of five-star reviews.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+TV with standard cable
+Books and reading material
+Family
+Pack ’n play/Travel crib - available upon request
+Board games
+Baby safety gates
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Hammock
+BBQ grill: gas
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The One with a Bicycle on the Wall
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.91 out of 5 stars.
+4.91
+116 reviews
+116
+Reviews
+Hosted by Kristin
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Calhoun Square and about a 5-min walk to Forsyth Park, with downtown squares all around
+A restored 1872 row house
+Built in 1872 with original hardwood floors, high ceilings, pocket doors, and four fireplaces
+Walkable with easy parking
+Guests highlight how walkable the location is and how easy it is to find free street parking
+This beautiful row house in Historic Downtown Savannah was built in 1872. Meticulously restored and renovated, this home offers the historic beauty of original hardwood floors, high ceilings, pocket doors, and four fireplaces (in-op), as well as the comfort of soft beds, remodeled kitchen, 52' TV,  and Wi-Fi. In a quiet residential area on Taylor Square,  just a short walk away from Forsyth Park, River St, shopping, restaurants, and entertainment. Well-behaved pets welcome. No barkers please.
+
+The space
+Easy meter-free parking on the street just out front.
+
+This listing is for the upper two stories of the townhome, which sleeps 6. All bedrooms are on the top floor. You have access to a private courtyard, shared with the owner, and the garden level guests (#488360).
+
+A walk to:
+
+    * Forsyth Park
+    * City Market
+    * River Street
+    * Broughton Street shopping
+    * Downtown Design District
+    * countless restaurants, coffeshops, and bars
+    * all 22 downtown Squares
+    * The Mercer House
+    * The Pink House
+    * The Owens Thomas House
+    * The Juliet Gordon Lowe birthplace and Girl Scout original Headquarters
+    * The Telfair and Jepson Art Museums
+    * Savannah Civic Center
+    * Savannah College of Art and Design (SCAD)
+
+
+A short drive to:
+
+    * Tybee Island beach
+    * Bonaventure Cemetary
+    * Savannah Hilton Head International Airport
+
+SVR Cert. No. SVR-00092
+
+Guest access
+Travelers will have access to two spacious living rooms, kitchen, three bedrooms and two and a half bathrooms, as well as a private shared courtyard.
+
+Guests will be given a door code prior to arrival.
+
+Other things to note
+I've been short term vacation renting since 2010. Please check out unit #490294 on the other major site for 16 years of five-star reviews.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 double bed
+
+What this place offers
+Kitchen
+Wifi
+Free parking on premises
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.91 out of 5 from 116 reviews.
+4.91
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 6% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+45
+Location
+91
+Parking
+11
+Comfort
+30
+Decor
+17
+Nearby
+17
+Cleanliness
+31
+Hospitality
+34
+Indoor spaces
+21
+Parks
+5
+Eric
+New York, New York
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+Absolutely perfect location, comfortable house and peaceful setting.  The house was very tastefully decorated with multiple conversations pieces.  Better than the description!  We will definitely be staying here the next time we visit Savannah.  Thank you for having us.
+Show more
+Amy
+Colorado Springs, Colorado
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Had a lovely stay at Kristin’s place. Perfect location making it close enough to walk into the heart of the city, but also enough out of the main tourist area so it wasn’t crowded or loud. Parking was free and super easy on the street right in front of the house. Photos and description matched exactly what’s there. Kristin and her co-host were very responsive and even accommodated our late check out request. Would highly recommend for an authentic Savannah stay!
+Show more
+Stacey
+Orlando, Florida
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+The house was exactly as listed. Very nice, clean and well-appointed with some interesting historic furnishings. Location is convenient to attractions (there's a trolley stop at the corner of the street) and Forsyth Park, but still neighborhood-y. We enjoyed the outdoor patio/balcony overlooking the courtyard. Jess was super responsive to questions. I will definitely try to stay here again on my next visit to Savannah.
+Show more
+Paige
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with a pet
+My group really enjoyed this house, specifically the location! We walked everywhere all weekend, and when we were at the house the large living room/sitting room was perfect for spending time together. Beautiful historic home with a lot of character.
+Show more
+Helen
+Fayetteville, North Carolina
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Stayed a few nights
+Lovely restored home - walkable to restaurants, shops, and other attractions - quiet, safe area. Enjoyed our stay!!
+Andrew
+Brownsburg, Indiana
+Rating, 5 stars
+,
+·
+July 2025
+,
+·
+Group trip
+Great place! Family of 5 was perfect. Middle of beautiful Savannah. Walking distance to river and wonderful local shops. Would stay here again, no question.
+Show all 116 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Historic Downtown Savannah is like no other place. While staying in this unit, you'll be close enough to walk to countless historic sites, restaurants, coffeeshops, and bars. You'll easily return to our quiet residential area.
+Show more
+Meet your host
+Kristin
+Superhost
+195 reviews
+195
+Reviews
+4.91 out of 5 average rating
+4.91
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+I moved to Savannah in 2006 thinking it would just be for one year. Now 20 years later, I never want to leave this beautiful and charming city.
+Kristin is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Jess
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Townhome vacation rentals in Savannah
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

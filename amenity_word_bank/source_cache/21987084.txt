@@ -1,0 +1,476 @@
+URL: https://www.airbnb.com/rooms/21987084
+Title: Stylish & Updated Bungalow Blocks From Forsyth
+Latitude: 32.0636
+Longitude: -81.0935
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah & Michael
+Host ID: 118016613
+Host profile ID: 1468206481524282224
+Host URL: https://www.airbnb.com/users/profile/1468206481524282224
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+This updated Bungalow is in the heart of the Victorian District! Relax on the front or back porch or take a stroll just 3 blocks to Forsyth Park. Built in 1902, you will find that many original details remain. We have made every effort to modernize and make it comfortable, too! Amenities include fast WiFi, cable, and a large flatscreen TV. Our home is located a scenic 20 minute walk or a quick Uber from the busier downtown area. 
+
+SVR-01174
+
+The space
+Situated in the Victorian District of Savannah, you would never know that this home was built in 1902 as a two unit bungalow. Two stairs lead up to the front door and then the rest of the condo is one level. Both bedrooms have queen sized beds and luxe linens. Appliances in the fully stocked kitchen are stainless steel, and the quartz counter tops are brand new! The heart pine flooring has been refinished and is truly a historic gem. The layout of this home is great for entertaining, and boasts a large and open living/dining room area.
+
+Guest access
+Guests have full access to the unit through a private entrance. Amenities include a washer/dryer, Keurig coffee maker, front AND back porch.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet and wardrobe
+Entertainment
+HDTV with premium cable, standard cable
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi – 33 Mbps
+Verified by speed test. Stream 4K videos and join video calls.
+Dedicated workspace
+Includes a table
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Fire pit
+Outdoor furniture
+Outdoor dining area
+Shared BBQ grill: electric, gas
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Stylish & Updated Bungalow Blocks From Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire bungalow in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.9 out of 5 stars.
+4.9
+657 reviews
+657
+Reviews
+Hosted by Sarah & Michael
+Superhost · 9 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park and its Saturday morning farmers market.
+A restored 1902 bungalow
+Built in 1902 with original heart pine floors, a fully stocked kitchen, and a private back porch.
+Consistently clean and comfortable
+Guests highlight how clean, comfortable, and well-appointed the space is, with many returning.
+This updated Bungalow is in the heart of the Victorian District! Relax on the front or back porch or take a stroll just 3 blocks to Forsyth Park. Built in 1902, you will find that many original details remain. We have made every effort to modernize and make it comfortable, too! Amenities include fast WiFi, cable, and a large flatscreen TV. Our home is located a scenic 20 minute walk or a quick Uber from the busier downtown area. 
+
+SVR-01174
+
+The space
+Situated in the Victorian District of Savannah, you would never know that this home was built in 1902 as a two unit bungalow. Two stairs lead up to the front door and then the rest of the condo is one level. Both bedrooms have queen sized beds and luxe linens. Appliances in the fully stocked kitchen are stainless steel, and the quartz counter tops are brand new! The heart pine flooring has been refinished and is truly a historic gem. The layout of this home is great for entertaining, and boasts a large and open living/dining room area.
+
+Guest access
+Guests have full access to the unit through a private entrance. Amenities include a washer/dryer, Keurig coffee maker, front AND back porch.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi – 33 Mbps
+Dedicated workspace
+Free street parking
+HDTV with premium cable, standard cable
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Patio or balcony
+Show all 56 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.9 out of 5 from 657 reviews.
+4.9
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 91% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+199
+Comfort
+168
+Location
+366
+Hospitality
+268
+Backyard
+9
+Cleanliness
+222
+Checkout
+26
+Sleep quality
+84
+Nearby
+112
+Parks
+64
+Tiffany
+Greenville, South Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We really enjoyed our stay! The hosts were welcoming and responsive, and the house was clean, comfortable, and well stocked. I also really appreciated the simple checkout/housekeeping policy. It was nice to actually enjoy the last morning without a long list of chores. Great location, lots of character, and we’d definitely stay again.
+Show more
+Elisabeth
+Philadelphia, Pennsylvania
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+This little cottage is exactly what we were looking for on our Savannah trip; it was a quick walk to the Starland area, totally comfortable, and the hosting went beyond the beyond with a bottle of wine, snacks, ample coffee etc.
+We sat on the front porch and everyone that walked by said hello. Parking was easy, the neighborhood is great, and the price was well worth it. 
+We booked last minute (an hour before check in) and it was ready.
+Show more
+Abdelrahman
+Nyack, New York
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with kids
+Such a beautiful and quiet place to stay. The backyard made a big difference with the grill. Even the front porch was nice to chill.
+Valeria
+Miami, Florida
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed about a week
+The house was exactly like the pictures. Cute and cozy. Very quiet neighborhood and loved how close everything was.
+Mike
+Tampa, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We initially booked this place for two days, but felt so comfortable that we decided to extend for an additonal day. The place is cozy and Sarah was super responsive to make it as seamless as possible. Checkout was also easy, where typically you get a lot of orders from owners which was not the case. We would certainly recommend this house to anyone looking for a comfortable getaway.
+Show more
+Natalie
+Livonia, Michigan
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+My husband, infant son and I had a great stay while visiting relatives in Savannah! Beds were comfortable and we loved the big couch. We were provided with a Pack ‘n Play which was very helpful.
+Show more
+Show all 657 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Savannah neighborhoods have experienced a renaissance over the last several years. Turn of the century homes are now being restored to their original grandeur, inviting visitors to Savannah to experience a touch of history.
+
+This home is located in the heart of the Victorian District, which is about a 20 minute scenic walk to the downtown/river area. We are two blocks from Forsyth Park, making it a very easy stroll to their Saturday morning farmer's market. The Victorian District is an inclusive neighborhood of SCAD students, vacationers, and permanent residents. Expect to find everyone enjoying the area well into the evening. Access to the downtown restaurants, nightlife, and sightseeing is also easily accessible by Uber. The local surrounding area offers many gems as well. Finish your day off on either the shared front porch or your private back porch.
+Show more
+Meet your host
+Sarah & Michael
+Superhost
+1,558 reviews
+1558
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+9 years of hosting
+9
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! Sarah and Mike are so excited to host you in the adorable and historic bungalow, right in the heart of the bustling Victorian district. We absolutely LOVE our city and are happy to share our favorite restaurants, sightseeing spots, and more...just ask! Mike is a helicopter pilot in the United States Army and Sarah is a forensic psychologist. Sarah was also featured in the Summer 2017 issue of Airbnb Magazine! Send us a message or book with us if you want a gorgeous rental, full of modern amenities!
+Sarah & Michael is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for infants (under 2 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Bungalow vacation rentals in United States
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

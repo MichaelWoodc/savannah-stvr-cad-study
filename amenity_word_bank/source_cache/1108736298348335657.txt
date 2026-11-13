@@ -1,0 +1,446 @@
+URL: https://www.airbnb.com/rooms/1108736298348335657
+Title: Iconic, Historic Condo Steps from Forsyth Park
+Latitude: 32.0713
+Longitude: -81.0964
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Farrell
+Host ID: 505817984
+Host profile ID: 1470273855656106441
+Host URL: https://www.airbnb.com/users/profile/1470273855656106441
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+=== FULL DESCRIPTION ===
+Discover Savannah's charm in this historic condo, nestled in the parlor level of an incredibly restored row home in the heart of the Historic District. One bedroom, one bathroom, and an eat-in kitchen, all adorned with classic, Parisian-inspired details and architecture. A romantic getaway perfect for couples, solo-travelers, and those that want to experience a true Savannah stay! Just steps from Forsyth Park and nearby attractions, experience the city's beauty right at your doorstep!
+
+SVR-02734
+
+The space
+This condo is located on the parlor level (first floor, up the exterior stairs) of a quintessential Savannah rowhouse in the downtown, historic district. Once inside, you will find an open living space with soaring ceilings, architectural details of a bygone era, and plenty of modern upgrades! Off the living space is a thoughtfully partitioned sleeping area, featuring king-sized bed, crisp linens, and incredible views from the floor to ceiling windows! Head beyond the living space and find an eat-in kitchen with everything you would need to whip up a quick meal before heading out to enjoy all the adventures our city has to offer! Fast wifi, spacious design, plenty of storage, laundry facilities on-site, and all the conveniences of home await!
+
+Guest access
+The entire first floor condo (parlor level, as we like to call it here in the South) is all yours! Ascend the front, exterior, wrought iron adorned staircase and enter the home's front door. Your private condo entrance is right there, off the foyer. The entire condo is all yours! If you need to access the laundry facilities, they are located in the courtyard. Just let us know and we are happy to provide details!
+
+Other things to note
+Parking can be tricky in downtown Savannah! The parking options nearby are paid street parking, which can either be paid using the kiosks/meters, the Park Savannah App, or by purchasing a day pass from the city. We will share all the details regarding navigating parking with you upon booking! There are also some free parking options a few blocks away that we will also give you more info about!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In building
+Free dryer – In building
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Clothing storage: dresser
+Entertainment
+50 inch HDTV with Roku, standard cable
+Family
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+AC - split type ductless system
+Heating - split type ductless system
+Home safety
+Exterior security cameras on property
+We have one exterior security camera, located outside of the front door/main entrance to the building to ensure building security and guest safety.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 446 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Stainless steel electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Paid street parking off premises
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Iconic, Historic Condo Steps from Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+188 reviews
+188
+Reviews
+Hosted by Farrell
+Superhost · 4 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Historic District near Forsyth Park
+Forsyth Park is about a 3-min walk away, with Monterey Square and historic landmarks just beyond
+Restored parlor-level rowhouse
+Soaring ceilings, original hardwood floors, and Parisian-inspired details in a restored rowhouse
+Walkable, clean, and full of charm
+Guests highlight how walkable the location is and how clean and charming the space feels
+Discover Savannah's charm in this historic condo, nestled in the parlor level of an incredibly restored row home in the heart of the Historic District. One bedroom, one bathroom, and an eat-in kitchen, all adorned with classic, Parisian-inspired details and architecture. A romantic getaway perfect for couples, solo-travelers, and those that want to experience a true Savannah stay! Just steps from Forsyth Park and nearby attractions, experience the city's beauty right at your doorstep!
+
+SVR-02734
+
+The space
+This condo is located on the parlor level (first floor, up the exterior stairs) of a quintessential Savannah rowhouse in the downtown, historic district. Once inside, you will find an open living space with soaring ceilings, architectural details of a bygone era, and plenty of modern upgrades! Off the living space is a thoughtfully partitioned sleeping area, featuring king-sized bed, crisp linens, and incredible views from the floor to ceiling windows! Head beyond the living space and find an eat-in kitchen with everything you would need to whip up a quick meal before heading out to enjoy all the adventures our city has to offer! Fast wifi, spacious design, plenty of storage, laundry facilities on-site, and all the conveniences of home await!
+
+Guest access
+The entire first floor condo (parlor level, as we like to call it here in the South) is all yours! Ascend the front, exterior, wrought iron adorned staircase and enter the home's front door. Your private condo entrance is right there, off the foyer. The entire condo is all yours! If you need to access the laundry facilities, they are located in the courtyard. Just let us know and we are happy to provide details!
+
+Other things to note
+Parking can be tricky in downtown Savannah! The parking options nearby are paid street parking, which can either be paid using the kiosks/meters, the Park Savannah App, or by purchasing a day pass from the city. We will share all the details regarding navigating parking with you upon booking! There are also some free parking options a few blocks away that we will also give you more info about!
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 king bed
+
+What this place offers
+Kitchen
+Fast wifi – 446 Mbps
+Dedicated workspace
+50 inch HDTV with Roku, standard cable
+Free washer – In building
+Free dryer – In building
+AC - split type ductless system
+Bathtub
+Pack ’n play/Travel crib - always at the listing
+Exterior security cameras on property
+Show all 45 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 188 reviews.
+4.96
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+79
+Location
+118
+Decor
+35
+Comfort
+40
+Parks
+18
+Cleanliness
+42
+Hospitality
+54
+Sleep quality
+26
+Parking
+29
+Checkout
+12
+Lacy
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+The process of check in and check out was a breeze! The space was so beautiful and clean. We had the best time and Sarah is so kind! We will definitely be back and rebooking with her!
+Show more
+Emma
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had such a wonderful stay! The Airbnb was so cozy, cute, and welcoming, and it truly had everything we needed. The location was absolutely perfect and made everything so convenient. Our host was so kind and made the whole experience easy and enjoyable. We felt right at home and would absolutely stay here again. Highly recommend!
+Show more
+Jennifer
+McKinney, Texas
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Thank you for letting us stay!
+Annie
+United States
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We loved our stay in this charming historic Airbnb. The home was spotless, beautifully maintained, and full of character while offering every modern comfort. Its central location made exploring the city incredibly convenient, with restaurants, shops, and attractions just a short walk away. We would happily stay here again!
+Show more
+Haley
+4 years on Airbnb
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+I gave 4 stars because we had a few bumps in the beginning - but overall it was a great experience!! The bed is so comfortable & the decor feels like you’re in luxury.
+Meyer
+2 months on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed one night
+We had such a wonderful stay and truly couldn’t have asked for a better experience. The home was exactly as described. Spotlessly clean, comfortable, beautifully maintained, and stocked with everything we needed. One of our favorite parts was seeing the incredible historic restoration of the home. It was so thoughtfully and beautifully done, preserving the character and charm of the property while still providing all the modern comforts. You can really tell how much care, time, and attention to detail went into this property. The hosts were incredibly kind, responsive, and accommodating throughout our visit. We would absolutely recommend this place to anybody visiting the Savannah area.
+Show more
+Show all 188 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+We are located on one of Savannah's most gorgeous residential streets, just around the corner from the northern end of the incredible Forsyth Park, less than a block from the famous Mercer Williams House, and centrally tucked in the heart of the historic district! All of the awesome restaurants, parks, squares, history, and attractions are steps from your door! It's simply the perfect home base for all your Savannah explorations!
+Show more
+Meet your host
+Farrell
+Superhost
+2,738 reviews
+2738
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+4 years of hosting
+4
+Years hosting
+My work: Savannah Stays
+Speaks English
+Hi Y'all! I'm Farrell, and my husband Hemal and I are Savannah locals who love historic homes and want to share our beautiful city with the world! We take pride in our exceptional hospitality while creating a truly unique historic Savannah experience for our guests. Our good friend and Co-host Sarah are always nearby if you need us. Also, be sure to follow us at @SavannahStays for an insider glimpse!
+Farrell is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

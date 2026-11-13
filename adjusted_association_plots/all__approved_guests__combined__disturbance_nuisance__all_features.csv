@@ -1,0 +1,20 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr
+all,approved_guests,combined,Disturbance / nuisance,mention_bar,Bar mention,amenities,484,58,107,377,10,48,0.789275938098318,0.3246107734379608,1.919087588693474,0.6016533494445087,0.8132024303782229
+all,approved_guests,combined,Disturbance / nuisance,mention_wine,Wine / wine accessories,amenities,484,58,318,166,40,18,1.0786757678859726,0.421276985752303,2.761939179152115,0.8745510816229095,0.9395818030769209
+all,approved_guests,combined,Disturbance / nuisance,mention_outdoor,Outdoor space,amenities,484,58,286,198,40,18,1.2095754104956746,0.5093618683182586,2.872363961021176,0.6663247934513126,0.8630296397406491
+all,approved_guests,combined,Disturbance / nuisance,mention_yard,Yard / garden / courtyard,amenities,484,58,310,174,43,15,1.33571480856502,0.5927882827542695,3.00973231375336,0.4849385176570502,0.7477255632473516
+all,approved_guests,combined,Disturbance / nuisance,mention_pool,Swimming pool,amenities,484,58,100,384,17,41,1.8688384416333463,0.6968805789326257,5.011701038183496,0.214071935864633,0.5307463972028476
+all,approved_guests,combined,Disturbance / nuisance,mention_hot_tub,Hot tub / Jacuzzi,amenities,484,58,35,449,6,52,1.2335170150437065,0.3791325913822571,4.013277309805928,0.7273341304498411,0.8859098856351263
+all,approved_guests,combined,Disturbance / nuisance,mention_sound_system,Sound system / speakers,amenities,484,58,34,450,6,52,1.6033950081878978,0.4199820670675743,6.121393635286383,0.4897287901034036,0.7502609252406806
+all,approved_guests,combined,Disturbance / nuisance,mention_wedding,Wedding / bridal mention,amenities,484,58,38,446,7,51,1.6471589468290757,0.5074799666921709,5.346285122945181,0.4060868859469357,0.7016511555124375
+all,approved_guests,combined,Disturbance / nuisance,mention_events,Events / gatherings,amenities,484,58,151,333,14,44,0.6579705193636,0.2610292969767161,1.6585310896739018,0.3748514665512756,0.682881584717324
+all,approved_guests,combined,Disturbance / nuisance,mention_patio,Patio / deck / balcony / porch,amenities,484,58,300,184,42,16,1.2867518748798252,0.5590181760461412,2.961854298222464,0.5533604942018115,0.783304213076213
+all,approved_guests,combined,Disturbance / nuisance,mention_grill,Grill / BBQ,amenities,484,58,108,376,12,46,0.822382630065,0.2881825999359136,2.346821738658149,0.7147314170520559,0.8822050056143257
+all,approved_guests,combined,Disturbance / nuisance,mention_fire_pit,Fire pit,amenities,484,58,25,459,4,54,1.0762468016982845,0.1489416796166991,7.776917657613944,0.9419470455182172,0.9711089825029652
+all,approved_guests,combined,Disturbance / nuisance,mention_cocktails,Cocktails / spirits,amenities,484,58,75,409,13,45,1.5485886425035411,0.4756054535712056,5.042260902779835,0.4677642731337719,0.7477255632473516
+all,approved_guests,combined,Disturbance / nuisance,mention_music,Music / DJ,amenities,484,58,53,431,5,53,0.8976662193838305,0.2963643621524942,2.718966057761806,0.8485766262239636,0.9344218169588157
+all,approved_guests,combined,Disturbance / nuisance,mention_late_night,Nightlife / late night,amenities,484,58,55,429,4,54,0.6427375383380456,0.193982307388682,2.12963516492821,0.4695645332962824,0.7477255632473516
+all,approved_guests,combined,Disturbance / nuisance,mention_outdoor_dining,Outdoor dining,amenities,484,58,121,363,18,40,1.0284281049310782,0.3486106715038638,3.033941452364306,0.9594961083544596,0.9757982267002878
+all,approved_guests,combined,Disturbance / nuisance,keyword_wedding,Wedding events,keywords,484,58,21,463,4,54,1.5061657130035837,0.2694775229553953,8.418272255690459,0.6408655660680069,0.847074675654558
+all,approved_guests,combined,Disturbance / nuisance,keyword_swimming_pool,Swimming Pool,keywords,484,58,97,387,17,41,1.9202322187302887,0.715911573895591,5.150484931799139,0.1949395853960449,0.5032745917262859
+all,approved_guests,combined,Disturbance / nuisance,keyword_hot_tub,Hot Tub,keywords,484,58,21,463,3,55,1.1882217607919172,0.3138132731033399,4.499079783519893,0.7995895525284842,0.910402235079986

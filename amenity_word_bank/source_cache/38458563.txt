@@ -1,0 +1,465 @@
+URL: https://www.airbnb.com/rooms/38458563
+Title: Private 1BR Garden Suite by Crawford Square
+Latitude: 32.0729
+Longitude: -81.0876
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah Ashley And Mike
+Host ID: 293157033
+Host profile ID: 1469516719685874679
+Host URL: https://www.airbnb.com/users/profile/1469516719685874679
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+This pristine garden level unit of a brand new townhouse will take your breath away as soon as you step inside.  It is over 700 square feet, tastefully decorated with an eye for design, and fully equipped with modern amenities and appliances.  The house is located on beautiful Liberty St in the Landmark Historic District of Savannah.
+
+SVR 02099
+
+The space
+This beautifully furnished and fully equipped garden level condo has everything you need for a quick trip or extended stay in Savannah.  The king bedroom, full bath, and spacious kitchen and living areas will make you feel right at home. Have a group of three or four instead? Our living room sofa pulls out into an ultra luxe, super comfortable sleeper sofa...definitely a step above!!
+
+Guest access
+The entire garden level condo is yours!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Entertainment
+HDTV with premium cable, standard cable
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Recycling
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Private 1BR Garden Suite by Crawford Square
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.94 out of 5 stars.
+4.94
+480 reviews
+480
+Reviews
+Hosted by Sarah Ashley And Mike
+Superhost · 7 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Landmark Historic District
+Troup Square is steps away, with Lafayette Square and Forsyth Park within walking distance
+Spacious garden-level condo with patio
+Over 700 sq ft with a full kitchen, in-unit washer and dryer, and a patio with outdoor seating
+Spotless, with guests who keep coming back
+Guests highlight how spotless the space is, and many mention returning for a second stay
+This pristine garden level unit of a brand new townhouse will take your breath away as soon as you step inside.  It is over 700 square feet, tastefully decorated with an eye for design, and fully equipped with modern amenities and appliances.  The house is located on beautiful Liberty St in the Landmark Historic District of Savannah.
+
+SVR 02099
+
+The space
+This beautifully furnished and fully equipped garden level condo has everything you need for a quick trip or extended stay in Savannah.  The king bedroom, full bath, and spacious kitchen and living areas will make you feel right at home. Have a group of three or four instead? Our living room sofa pulls out into an ultra luxe, super comfortable sleeper sofa...definitely a step above!!
+
+Guest access
+The entire garden level condo is yours!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+HDTV with premium cable, standard cable
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Patio or balcony
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.94 out of 5 from 480 reviews.
+4.94
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 95% of reviews
+5
+4 stars, 5% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+186
+Cleanliness
+218
+Location
+286
+Parking
+74
+Hospitality
+173
+Comfort
+123
+Noise
+53
+Nearby
+58
+Checkout
+13
+Sleep quality
+48
+Wendy
+Hugo, Minnesota
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with kids
+The place was clean, looked just as pictured, Sarah was quick to respond.  Nice location- would highly recommend!
+Cindy
+Springfield, Illinois
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed about a week
+Great location and walkable to many attractions. The condo was clean and pristine and homey. A special touch was the snacks that Sarah and Mike left. In addition they provided tips about parking in order to avoid a ticket. I was able to kick back and enjoy my stay. I will be back again.
+Show more
+Laqunis
+McDonough, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+I felt right at home! The condo is very beautiful and welcoming! I had easy access to parking and the neighborhood was safe. Sarah Ashley was very kind and gave clear instructions about arrival and parking details. I hope to book here again soon! Staying at this condo was a great experience while on vacation!
+Show more
+Michelle
+Maryville, Tennessee
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Had a amazing stay in Savannah. The house was beautiful. Everything you needed walkable to so many places! Will definitely return next time we are in Savannah!
+Michelle
+DeLand, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Mike & Sarah's place had everything we needed to stay for a few days. It was located to many things (walkable depending on where you are going). It was super clean and spacious for the two of us. We would stay here again!
+Show more
+DAsia
+Rock Hill, South Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This was a lovely stay! We felt right at home! Everything you could possible need was available in the home. Iron, extra linens, bathroom supplies, extra snacks, wine, and games! We had a blast! The hosts were super responsive. Also, this was the easiest checkout ever! The only con was hearing the walking upstairs, but other than that I’d stay here 10x over if I could.
+Show more
+Show all 480 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+The BEST part of our home? The location! We are in the heart of the Downtown Historic District, making the best places to dine, drink, and explore super accessible! We are with a 15 minute walk from the Savannah Riverfront, City Market, The Olde Pink House, Clary's, The Fountain at Forsyth Park, Mrs. Wilkes, and the Colonial Park Cemetery! Better yet, all of Savannah's beautiful squares are right outside of your door...perfect for exploring both the beautiful live oaks with their hanging moss as well as the historic architecture that frames each one! Want to check out SCAD? We are within walking distance to almost all of their downtown campus buildings!
+
+If you choose to stay with us and need lots of recommendations...don't worry! We are happy to provide personalized recommendations based on your interests and preferences...just ask us! We are passionate about our little Southern city and are happy to provide lots of awesome spots to check out! We can share a digital list full of our personal favorites, from quiet local spots to must-sees attractions! And we live right around the corner, so we are ALWAYS here if you need us!
+Show more
+Meet your host
+Sarah Ashley And Mike
+Superhost
+1,449 reviews
+1449
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+7 years of hosting
+7
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental on Liberty St in the Historic Downtown District!
+Sarah Ashley And Mike is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for infants (under 2 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

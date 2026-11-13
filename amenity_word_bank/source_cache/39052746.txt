@@ -1,0 +1,492 @@
+URL: https://www.airbnb.com/rooms/39052746
+Title: 120 West Jones #2 - The Salon -Elite Property
+Latitude: 32.0731
+Longitude: -81.096
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Darren
+Host ID: 3954017
+Host profile ID: 1462643495032206293
+Host URL: https://www.airbnb.com/users/profile/1462643495032206293
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+The Salon is a large and gracious residence overlooking famous Jones Street in the heart of the historic district. At an impressive 1,400 square feet, this beautiful offering is the largest of all 4 lodgings at 120 West Jones Street, encompassing the entire 3rd floor of the house. The Salon has retained its historic character, including original heart-pine floors and elegant molding, while being tastefully updated with modern conveniences.
+
+
+SVR-01495
+For concierge service visit 120WestJones.com
+
+The space
+The Space - Please note, this is a 170+ year old home. Please be respectful of guests above and below you. 
+The owners offer the Salon as a 2-bedroom suite to provide 4 guests an exceptional experience in spacious and gracious accommodations. The Master bedrooms’ long Italianate windows overlook “America’s prettiest street” (Food and Wine Magazine and Southern Living) paved with red bricks and lined with ancient live oak trees. Both bedrooms have comfortable beds, furnished with Parachute linens, as well as their own private sitting areas. The living room contains chic bespoke sofas for lounging, lighting by Ralph Lauren, and a 50” SmartTV. The kitchen has been completely renovated and includes state-of-the-art appliances such as Bosch convection wall oven, Bosch built-in microwave, Bosch dishwasher, Bosch built-in refrigerator and Jenn Air cooktop with downdraft. Coffee/tea and condiments for such are provided. There is a charming dining area for those perfect dine-in occasions adorned with antique French copper. The enormous bath has also been completely renovated and boasts a large glassed-in shower with multi-jets. Elegant mirrors, a chandelier and sconces provide old-world charm in a modern atmosphere. The owners have left nothing unconsidered as there is an in-suite washer/dryer set by ASCO to ensure longer-staying guests have all the comforts of home. French doors open off the bath onto a private outside balcony where guests can share an evening’s glass of wine or a bright morning’s coffee or tea.
+
+SAFETY:
+
+Prior to your arrival, all surfaces have been wiped and sanitized. As an extra precaution,
+we fog every suite to eliminate a number of airborne bacteria and viruses. For your review the efficacy rate of 
+this additional fogging step is listed below.  
+
+92.7% formaldehyde removal
+99.9% disinfecting rate
+95.6% odor removal
+
+
+Once your suite has been thoroughly sanitized, it is sealed to assure you that no-one has entered or contaminated the space prior to you checking in.
+
+Your safety and wellness is of the utmost importance to us.
+
+Guest access
+Apart from your PRIVATE residence, guests have access to all common areas of the house as well as their own private deck.
+
+Other things to note
+Every suite is furnished with coffee, English Breakfast and green tea, raw sugar, Stevia, and non-dairy creamer.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Molton Brown shampoo
+Molton Brown conditioner
+Molton Brown body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton Organic Parachute Bedding linens
+Room-darkening shades
+Iron
+Clothing storage: closet
+Entertainment
+50 inch HDTV with premium cable, standard cable
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+All public areas are monitored by CCTV. No recording devices whatsoever are installed in private units.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Parking and facilities
+Paid parking off premises
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+120 West Jones #2 - The Salon -Elite Property
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.99 out of 5 stars.
+4.99
+191 reviews
+191
+Reviews
+Hosted by Darren
+Superhost · 7 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Chatham Square and Forsyth Park are each about a 5-min walk, with shops and dining right outside
+Historic condo with period details
+A 1,400 sq ft residence on the third floor of a 170-year-old home with original heart-pine floors
+A place guests come back to
+Guests call it one of the most beautiful places they've stayed, with many planning return visits
+The Salon is a large and gracious residence overlooking famous Jones Street in the heart of the historic district. At an impressive 1,400 square feet, this beautiful offering is the largest of all 4 lodgings at 120 West Jones Street, encompassing the entire 3rd floor of the house. The Salon has retained its historic character, including original heart-pine floors and elegant molding, while being tastefully updated with modern conveniences.
+
+
+SVR-01495
+For concierge service visit 120WestJones.com
+
+The space
+The Space - Please note, this is a 170+ year old home. Please be respectful of guests above and below you. 
+The owners offer the Salon as a 2-bedroom suite to provide 4 guests an exceptional experience in spacious and gracious accommodations. The Master bedrooms’ long Italianate windows overlook “America’s prettiest street” (Food and Wine Magazine and Southern Living) paved with red bricks and lined with ancient live oak trees. Both bedrooms have comfortable beds, furnished with Parachute linens, as well as their own private sitting areas. The living room contains chic bespoke sofas for lounging, lighting by Ralph Lauren, and a 50” SmartTV. The kitchen has been completely renovated and includes state-of-the-art appliances such as Bosch convection wall oven, Bosch built-in microwave, Bosch dishwasher, Bosch built-in refrigerator and Jenn Air cooktop with downdraft. Coffee/tea and condiments for such are provided. There is a charming dining area for those perfect dine-in occasions adorned with antique French copper. The enormous bath has also been completely renovated and boasts a large glassed-in shower with multi-jets. Elegant mirrors, a chandelier and sconces provide old-world charm in a modern atmosphere. The owners have left nothing unconsidered as there is an in-suite washer/dryer set by ASCO to ensure longer-staying guests have all the comforts of home. French doors open off the bath onto a private outside balcony where guests can share an evening’s glass of wine or a bright morning’s coffee or tea.
+
+SAFETY:
+
+Prior to your arrival, all surfaces have been wiped and sanitized. As an extra precaution,
+we fog every suite to eliminate a number of airborne bacteria and viruses. For your review the efficacy rate of 
+this additional fogging step is listed below.  
+
+92.7% formaldehyde removal
+99.9% disinfecting rate
+95.6% odor removal
+
+
+Once your suite has been thoroughly sanitized, it is sealed to assure you that no-one has entered or contaminated the space prior to you checking in.
+
+Your safety and wellness is of the utmost importance to us.
+
+Guest access
+Apart from your PRIVATE residence, guests have access to all common areas of the house as well as their own private deck.
+
+Other things to note
+Every suite is furnished with coffee, English Breakfast and green tea, raw sugar, Stevia, and non-dairy creamer.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+50 inch HDTV with premium cable, standard cable
+Washer
+Dryer
+Central air conditioning
+Private patio or balcony
+Backyard
+Luggage dropoff allowed
+Exterior security cameras on property
+Show all 47 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.99 out of 5 from 191 reviews.
+4.99
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 99% of reviews
+5
+4 stars, 1% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+57
+Location
+139
+Decor
+59
+Hospitality
+84
+Indoor spaces
+41
+Comfort
+50
+Amenities
+20
+Nearby
+19
+Checkout
+12
+Parks
+6
+Sarah
+Silver Spring, Maryland
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Beautiful place, location, and amenities! I appreciate that there were places to hang clothes and plenty of toiletries. Very walkable and beautiful spot! Hope to stay again!
+Megan
+Springfield, Illinois
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+The location is perfect! We walked everywhere we needed to go and Jones Street is as beautiful as it claims to be. The interior was beautiful - colorful and interesting decor and so unique. We loved everything about it!
+Show more
+Lynx
+San Francisco, California
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with kids
+Great place, get the old rustic vibe and enjoy the central downtown location. Location was truly amazing and the street very cozy / historic.
+Ashley
+Sarasota, Florida
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed with kids
+This stay was amazing, we loved every second of it. This home is true to Savannah and made our experience that much better! Darren and Vance are so kind and made everything easy and smooth. You can walk right out the front door to so many different shops and restaurants. Highly recommend staying here!
+Show more
+Jason
+Roswell, Georgia
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+This was probably the most beautiful apartment I’ve ever stayed in. Very well designed. Loved the balcony out back that overlooked the garden. Everything was truly beautiful. The art, antiques, furniture. It was like a very comfortable museum in a great location. Definitely contributed to the whole Savannah experience. Highly recommend.
+Show more
+Rene
+Boca Raton, Florida
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Great quiet location where we walked everywhere.
+Show all 191 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Show more
+Meet your host
+Darren
+Superhost
+533 reviews
+533
+Reviews
+4.99 out of 5 average rating
+4.99
+Rating
+7 years of hosting
+7
+Years hosting
+Lives in Savannah, Georgia
+TBA
+Darren is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

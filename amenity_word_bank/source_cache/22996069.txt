@@ -1,0 +1,605 @@
+URL: https://www.airbnb.com/rooms/22996069
+Title: Grand Savannah Estate in the Historic District
+Latitude: 32.0764
+Longitude: -81.0896
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 5
+Occupancy (maximum guests): 14
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 8
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Stay together in the heart of Savannah’s Historic District at Oglethorpe Estate, a recently refurnished historic retreat for up to 14 guests. Combining a spacious main house with a separate garden-level unit, the estate offers two kitchens, multiple living areas, in-home laundry, a private courtyard with a grill, and parking for two vehicles. Located beside Colonial Park Cemetery, the home is within walking distance of Savannah’s squares, dining, shopping, museums, and River Street.
+
+The space
+Experience Savannah from the heart of the Historic District at Oglethorpe Estate, a recently refurnished historic home along East Oglethorpe Avenue. Accommodating up to 14 guests, the estate combines a spacious main house with a separate garden-level unit, offering plenty of room for larger groups to gather and unwind. Located beside Colonial Park Cemetery, the property is within easy reach of Savannah’s restaurants, shops, squares, museums, and historic attractions.
+
+
+
+Recently Refurnished Living & Dining Spaces
+
+Oglethorpe Estate has been thoughtfully refreshed with new furniture, décor, and updated design elements selected to complement the character of the historic home. The interiors balance traditional details with a polished, elevated style, creating comfortable spaces for gathering while allowing the home’s original architecture to remain part of the experience. The main house begins on the second level, above the separate garden-level unit. Here, the spacious living room serves as one of the home’s primary gathering areas. New furnishings, including comfortable leather sofas and carefully selected accent pieces, create a refined setting for relaxing after a day in downtown Savannah. Tall windows bring natural light into the space, while hardwood floors and traditional architectural details add warmth and character. With generous seating and an open layout, the room provides plenty of space for larger groups to spend time together without feeling crowded.
+
+
+
+Nearby, the formal dining room provides a dedicated space for shared meals, morning coffee, takeout from a favorite Savannah restaurant, or an evening spent at home. The dining area continues the home’s elevated design with classic furnishings and décor that feel appropriate to the historic setting. The main house also includes a full kitchen equipped with full-size appliances, generous cabinetry, and counter space for preparing meals, storing groceries, and keeping drinks and snacks organized throughout your stay. Whether your group is preparing breakfast before heading out for the day or gathering around for dinner in the evening, having a fully equipped kitchen makes it easy to settle into the home.
+
+
+
+Restful Sleeping Accommodations 
+
+Sleeping accommodations are arranged throughout the main house and garden-level unit, with a total of two king beds and six queen beds. On the second level of the main house, the first bedroom features two queen beds and an airy, inviting design. A sitting area within the room provides an additional place to unwind, read, or enjoy a quiet moment away from the main gathering spaces.
+
+
+
+The second bedroom on this level features a king bed surrounded by serene colors, layered textures, and thoughtfully selected accents. Two armchairs create a separate sitting area within the bedroom, while a desk and chair provide a dedicated workspace for guests who may need to check emails, work remotely, or catch up on a few tasks during their stay. The bedroom also includes an ensuite bathroom with a tub and shower combination for added convenience. Continue to the third level, where two additional bedrooms each offer their own distinct style. One bedroom features two queen beds along with a sitting area, providing plenty of room for guests sharing the space. The second includes a king bed and another comfortable sitting area, creating a relaxing retreat at the end of the day.
+
+
+
+The garden-level unit adds two additional queen beds, giving the property flexible sleeping arrangements for larger families and groups. Because this portion of the estate is set apart from the upper levels of the main house, it can also work especially well for guests who appreciate having their own living space while remaining under the same roof as the rest of the group. With 5.5 bathrooms throughout the estate, larger groups have plenty of space to get ready and settle into their own routines. The main house includes 4.5 bathrooms across its upper levels, while the garden-level unit offers one full bathroom. This convenient arrangement allows guests staying in both portions of the estate to enjoy easy access to their own bathroom facilities.
+
+
+
+Two Kitchens, Multiple Living Areas & Everyday Amenities
+
+One of Oglethorpe Estate’s greatest advantages for larger groups is the amount of functional living space available throughout the property. Rather than relying on one central room, guests can gather together when they want while still having separate areas to spread out throughout the day. In addition to the main house living room and full kitchen, the garden-level unit includes its own separate living area and a second full kitchen equipped with full-size appliances. The additional kitchen provides valuable extra storage and preparation space, particularly when several guests are staying at the property. Groceries, drinks, snacks, and meals can be divided between the two kitchens, making mornings and group gatherings easier to manage. The garden-level living room creates another comfortable space for conversation, watching television, or simply taking a break between Savannah outings. This additional living area can be especially helpful for multigenerational families or groups with different schedules, allowing some guests to relax downstairs while others gather in the main house. In-home laundry is also located on the garden level, making it convenient to refresh clothing and travel essentials during longer stays.
+
+
+
+Private Courtyard & Off-Street Parking
+
+Outside, the courtyard provides another place to enjoy the property and Savannah’s mild weather. Outdoor seating creates a comfortable setting for morning coffee, conversation, or winding down after a day spent exploring the Historic District. A grill is also available for guests who would like to prepare a casual meal outdoors. Oglethorpe Estate also includes private off-street parking for up to two vehicles, a particularly useful convenience when staying in downtown Savannah. Street parking throughout the Historic District may be metered or limited depending on the area, so having designated parking at the property allows guests to leave their vehicles behind and explore much of the surrounding neighborhood on foot.
+
+
+
+Stay in the Heart of Savannah’s Historic District
+
+Oglethorpe Estate places you within easy reach of many of Savannah’s most recognizable historic sites and downtown destinations. Colonial Park Cemetery sits beside the property, while several of the city’s famous squares, historic homes, museums, restaurants, and shops are located within walking distance. From the home, guests can explore nearby Oglethorpe Square and Columbia Square, visit the Owens-Thomas House & Slave Quarters, or continue toward Broughton Street for shopping, coffee, and dining. City Market, Bay Street, and River Street are also within convenient reach, offering additional restaurants, galleries, entertainment, and views along the Savannah River. Savannah is a city best experienced on foot, and staying in the Historic District allows you to enjoy the details along the way. Moss-draped live oaks, brick sidewalks, landscaped squares, historic architecture, and centuries-old streets become part of the experience as you move between destinations.
+
+
+
+Spend the day exploring nearby museums and historic homes, stop for lunch at a downtown restaurant, browse the shops along Broughton Street, or make your way toward River Street for an evening along the waterfront. At the end of the day, return to Oglethorpe Estate with plenty of room for everyone to settle in comfortably. With accommodations for up to 14 guests, two full kitchens, multiple living and sitting areas, a dedicated workspace, a separate garden-level unit, courtyard space, in-home laundry, two private parking spaces, and a highly walkable Historic District location, Oglethorpe Estate provides the flexibility larger groups need while keeping everyone together in one property.
+
+
+
+SVR-00464*
+
+SVR-02281*
+
+Guest access
+2 Kings
+
+6 Queens
+
+Flatscreen TVs
+
+Washer and Dryer in Garden Level
+
+2 Full Kitchen
+
+Back Porch and Courtyard
+
+Free Wi-fi
+
+Central Heat & Air
+
+Private Parking for 2 to 3 Vehicles
+
+Walk everywhere
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+BBQ grill
+Parking and facilities
+Free parking on premises
+Pool
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Grand Savannah Estate in the Historic District
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+14 guests · 5 bedrooms · 8 beds · 5.5 baths
+Rated 4.0 out of 5 stars.
+4.0
+·
+3 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Oglethorpe Square and Columbia Square, with the Owens-Thomas House right around the corner
+Historic estate with two-unit layout
+A main house and separate garden-level unit with two full kitchens and a private courtyard with a grill
+A strong start with guests
+One guest called it fantastic, highlighting the cleanliness, comfort, and walkable location
+Stay together in the heart of Savannah’s Historic District at Oglethorpe Estate, a recently refurnished historic retreat for up to 14 guests. Combining a spacious main house with a separate garden-level unit, the estate offers two kitchens, multiple living areas, in-home laundry, a private courtyard with a grill, and parking for two vehicles. Located beside Colonial Park Cemetery, the home is within walking distance of Savannah’s squares, dining, shopping, museums, and River Street.
+
+The space
+Experience Savannah from the heart of the Historic District at Oglethorpe Estate, a recently refurnished historic home along East Oglethorpe Avenue. Accommodating up to 14 guests, the estate combines a spacious main house with a separate garden-level unit, offering plenty of room for larger groups to gather and unwind. Located beside Colonial Park Cemetery, the property is within easy reach of Savannah’s restaurants, shops, squares, museums, and historic attractions.
+
+
+
+Recently Refurnished Living & Dining Spaces
+
+Oglethorpe Estate has been thoughtfully refreshed with new furniture, décor, and updated design elements selected to complement the character of the historic home. The interiors balance traditional details with a polished, elevated style, creating comfortable spaces for gathering while allowing the home’s original architecture to remain part of the experience. The main house begins on the second level, above the separate garden-level unit. Here, the spacious living room serves as one of the home’s primary gathering areas. New furnishings, including comfortable leather sofas and carefully selected accent pieces, create a refined setting for relaxing after a day in downtown Savannah. Tall windows bring natural light into the space, while hardwood floors and traditional architectural details add warmth and character. With generous seating and an open layout, the room provides plenty of space for larger groups to spend time together without feeling crowded.
+
+
+
+Nearby, the formal dining room provides a dedicated space for shared meals, morning coffee, takeout from a favorite Savannah restaurant, or an evening spent at home. The dining area continues the home’s elevated design with classic furnishings and décor that feel appropriate to the historic setting. The main house also includes a full kitchen equipped with full-size appliances, generous cabinetry, and counter space for preparing meals, storing groceries, and keeping drinks and snacks organized throughout your stay. Whether your group is preparing breakfast before heading out for the day or gathering around for dinner in the evening, having a fully equipped kitchen makes it easy to settle into the home.
+
+
+
+Restful Sleeping Accommodations 
+
+Sleeping accommodations are arranged throughout the main house and garden-level unit, with a total of two king beds and six queen beds. On the second level of the main house, the first bedroom features two queen beds and an airy, inviting design. A sitting area within the room provides an additional place to unwind, read, or enjoy a quiet moment away from the main gathering spaces.
+
+
+
+The second bedroom on this level features a king bed surrounded by serene colors, layered textures, and thoughtfully selected accents. Two armchairs create a separate sitting area within the bedroom, while a desk and chair provide a dedicated workspace for guests who may need to check emails, work remotely, or catch up on a few tasks during their stay. The bedroom also includes an ensuite bathroom with a tub and shower combination for added convenience. Continue to the third level, where two additional bedrooms each offer their own distinct style. One bedroom features two queen beds along with a sitting area, providing plenty of room for guests sharing the space. The second includes a king bed and another comfortable sitting area, creating a relaxing retreat at the end of the day.
+
+
+
+The garden-level unit adds two additional queen beds, giving the property flexible sleeping arrangements for larger families and groups. Because this portion of the estate is set apart from the upper levels of the main house, it can also work especially well for guests who appreciate having their own living space while remaining under the same roof as the rest of the group. With 5.5 bathrooms throughout the estate, larger groups have plenty of space to get ready and settle into their own routines. The main house includes 4.5 bathrooms across its upper levels, while the garden-level unit offers one full bathroom. This convenient arrangement allows guests staying in both portions of the estate to enjoy easy access to their own bathroom facilities.
+
+
+
+Two Kitchens, Multiple Living Areas & Everyday Amenities
+
+One of Oglethorpe Estate’s greatest advantages for larger groups is the amount of functional living space available throughout the property. Rather than relying on one central room, guests can gather together when they want while still having separate areas to spread out throughout the day. In addition to the main house living room and full kitchen, the garden-level unit includes its own separate living area and a second full kitchen equipped with full-size appliances. The additional kitchen provides valuable extra storage and preparation space, particularly when several guests are staying at the property. Groceries, drinks, snacks, and meals can be divided between the two kitchens, making mornings and group gatherings easier to manage. The garden-level living room creates another comfortable space for conversation, watching television, or simply taking a break between Savannah outings. This additional living area can be especially helpful for multigenerational families or groups with different schedules, allowing some guests to relax downstairs while others gather in the main house. In-home laundry is also located on the garden level, making it convenient to refresh clothing and travel essentials during longer stays.
+
+
+
+Private Courtyard & Off-Street Parking
+
+Outside, the courtyard provides another place to enjoy the property and Savannah’s mild weather. Outdoor seating creates a comfortable setting for morning coffee, conversation, or winding down after a day spent exploring the Historic District. A grill is also available for guests who would like to prepare a casual meal outdoors. Oglethorpe Estate also includes private off-street parking for up to two vehicles, a particularly useful convenience when staying in downtown Savannah. Street parking throughout the Historic District may be metered or limited depending on the area, so having designated parking at the property allows guests to leave their vehicles behind and explore much of the surrounding neighborhood on foot.
+
+
+
+Stay in the Heart of Savannah’s Historic District
+
+Oglethorpe Estate places you within easy reach of many of Savannah’s most recognizable historic sites and downtown destinations. Colonial Park Cemetery sits beside the property, while several of the city’s famous squares, historic homes, museums, restaurants, and shops are located within walking distance. From the home, guests can explore nearby Oglethorpe Square and Columbia Square, visit the Owens-Thomas House & Slave Quarters, or continue toward Broughton Street for shopping, coffee, and dining. City Market, Bay Street, and River Street are also within convenient reach, offering additional restaurants, galleries, entertainment, and views along the Savannah River. Savannah is a city best experienced on foot, and staying in the Historic District allows you to enjoy the details along the way. Moss-draped live oaks, brick sidewalks, landscaped squares, historic architecture, and centuries-old streets become part of the experience as you move between destinations.
+
+
+
+Spend the day exploring nearby museums and historic homes, stop for lunch at a downtown restaurant, browse the shops along Broughton Street, or make your way toward River Street for an evening along the waterfront. At the end of the day, return to Oglethorpe Estate with plenty of room for everyone to settle in comfortably. With accommodations for up to 14 guests, two full kitchens, multiple living and sitting areas, a dedicated workspace, a separate garden-level unit, courtyard space, in-home laundry, two private parking spaces, and a highly walkable Historic District location, Oglethorpe Estate provides the flexibility larger groups need while keeping everyone together in one property.
+
+
+
+SVR-00464*
+
+SVR-02281*
+
+Guest access
+2 Kings
+
+6 Queens
+
+Flatscreen TVs
+
+Washer and Dryer in Garden Level
+
+2 Full Kitchen
+
+Back Porch and Courtyard
+
+Free Wi-fi
+
+Central Heat & Air
+
+Private Parking for 2 to 3 Vehicles
+
+Walk everywhere
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+Show more
+All sleeping arrangements
+
+Advertised beds: 8 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+Pets allowed
+TV with standard cable
+Elevator
+Washer
+Dryer
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.0 out of 5 stars from 3 reviews
+4.0 · 3 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 33% of reviews
+5
+4 stars, 33% of reviews
+4
+3 stars, 33% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.3 out of 5 stars for cleanliness
+Cleanliness
+4.3
+Rated 4.0 out of 5 stars for accuracy
+Accuracy
+4.0
+Rated 4.3 out of 5 stars for check-in
+Check-in
+4.3
+Rated 4.3 out of 5 stars for communication
+Communication
+4.3
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 3.3 out of 5 stars for value
+Value
+3.3
+Erik
+Long Beach, California
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+The house was fantastic! It was clean, comfortable, and in a great location within easy walking distance of everywhere we wanted to go in Savannah. Everything was exactly as expected, and we had a great experience from start to finish. Would definitely stay here again!
+Show more
+Sue
+Charlotte, North Carolina
+Rating, 4 stars
+,
+·
+May 2018
+,
+·
+Group trip
+Extremely well located for a big group here on conference. Ample beds and bathrooms. We we able to walk everywhere. Some issues but considering it is a very  old historical home that has survived a lot of history. Spacious, parking and elevator were helpful.
+Show more
+Dhiru
+Washington, District of Columbia
+Rating, 3 stars
+,
+·
+March 2018
+,
+·
+Group trip
+The house was large and spacious, but poorly furnished. 
+The rooms were worn and felt unfurnished.
+There were very few electrical outlets.
+The lighting was poor, making the house feel dreary.
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Jones East
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+14 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

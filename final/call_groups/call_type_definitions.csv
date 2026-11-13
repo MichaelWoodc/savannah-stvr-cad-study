@@ -1,0 +1,364 @@
+category,type,nuisance,violence_sex,calls
+Animal calls (excluding barking),**ANIMAL,False,False,3
+Animal calls (excluding barking),50 ANIMAL ATTACK,False,False,6
+Animal calls (excluding barking),50 ANIMAL ATTACK EMS,False,False,1
+Animal calls (excluding barking),50 ANIMAL CALL OR C,False,False,2
+Animal calls (excluding barking),50 ANIMAL CALL WEAPON OR,False,False,1
+Animal calls (excluding barking),50 ANIMAL CRUELTY,False,False,7
+Animal calls (excluding barking),50 ANIMAL CRUELTY WPN,False,False,1
+Animal calls (excluding barking),50 ANIMAL MINOR BITE,False,False,3
+Animal calls (excluding barking),50 ANIMAL NEGLECT,False,False,10
+Animal calls (excluding barking),50 CONFINED DANGEROUS ANIMAL,False,False,6
+Animal calls (excluding barking),50 DANGEROUS ANIMAL,False,False,7
+Animal calls (excluding barking),50 DEAD ANIMAL REFERRAL,False,False,3
+Animal calls (excluding barking),50 FOUND ANIMAL ONLINE,False,False,4
+Animal calls (excluding barking),50 INJURED ANIMAL,False,False,21
+Animal calls (excluding barking),50 LOST ANIMAL ONLINE,False,False,8
+Animal calls (excluding barking),50 PAST ANIMAL ATTACK,False,False,2
+Animal calls (excluding barking),50 PAST DANGEROUS ANIMAL,False,False,2
+Animal calls (excluding barking),50 STRAY ANIMAL ONLINE,False,False,9
+Animal calls (excluding barking),50V ANIMAL LOCKED IN VEHICLE,False,False,8
+Assaults / stabbings,*3 STABBING,False,True,1
+Assaults / stabbings,*3-J STABBING just occurred,False,True,1
+Assaults / stabbings,1 PAST ASSAULT,False,True,17
+Assaults / stabbings,1 PAST ASSAULT EMS,False,True,2
+Assaults / stabbings,1-4 ASSAULT,False,True,27
+Assaults / stabbings,1-4 ASSAULT EMS,False,True,5
+Assaults / stabbings,1-4 ASSAULT WPN,False,True,11
+Assaults / stabbings,1-J ASSAULT,False,True,16
+Assaults / stabbings,1-J ASSAULT EMS,False,True,5
+Assaults / stabbings,1-J ASSAULT WPN,False,True,3
+Assaults / stabbings,1-J ASSAULT WPN/EMS,False,True,3
+Burglary,*15B RESD BURGLARY SUSPICIOUIS,False,False,1
+Burglary,15B COMMERCIAL BURGLARY,False,False,83
+Burglary,15B RESIDENTIAL BURGLARY,False,False,627
+Burglary,8 PAST COMMERCIAL BURGLARY,False,False,7
+Burglary,8 PAST RESIDENTIAL BURGLARY,False,False,43
+Burglary,8-4 RESD BURGLARY,False,False,48
+Burglary,8-J COMM BURGLARY,False,False,1
+Burglary,8-J RESD BURGLARY,False,False,15
+Burglary,8-J RESD BURGLARY WPN/EMS,False,False,1
+Civil / service / public request,10-15 CIVIL ISSUE,False,False,120
+Civil / service / public request,10-15 CIVIL ISSUE WPN,False,False,3
+Civil / service / public request,10-15 CIVIL STANDBY,False,False,47
+Civil / service / public request,10-15 CIVIL STANDBY (preplan),False,False,5
+Civil / service / public request,1015 CUSTODY ISSUE,False,False,6
+Civil / service / public request,22 FOUND PROPERTY,False,False,63
+Civil / service / public request,22 Found/Surrendered WEAPON,False,False,16
+Civil / service / public request,22 LOST PROPERTY,False,False,40
+Civil / service / public request,31 LOCK-OUT/IN-RESD,False,False,11
+Civil / service / public request,31 LOCK-OUT/LOCK-IN,False,False,1
+Civil / service / public request,31 MESSAGE DELIVERY,False,False,9
+Civil / service / public request,31 URGENT LOCK-OUT/IN- RESD,False,False,2
+Civil / service / public request,31 URGENT MESSAGE DELIVERY,False,False,1
+Civil / service / public request,31URGENT LOCK-OUT/IN-VEHICLE,False,False,2
+Civil / service / public request,PUBLIC SERVICE,False,False,15
+Civil / service / public request,REPOSESSION,False,False,56
+Disturbance / nuisance,**DISTRUBANCE / NUISANCE,True,False,3
+Disturbance / nuisance,27 DISTURB. SUSP in area,True,False,17
+Disturbance / nuisance,27 DISTURB. SUSP in area EMS,True,False,1
+Disturbance / nuisance,27 DISTURB–UNK if physical,True,False,2
+Disturbance / nuisance,27 DISTURB–UNK if physical WPN,True,False,1
+Disturbance / nuisance,27 VERBAL DISTURB.,True,False,189
+Disturbance / nuisance,27 VERBAL DISTURB. WPN,True,False,5
+Disturbance / nuisance,27-J Verbal DISTURB.,True,False,10
+Disturbance / nuisance,29 PAST DISTURB.,True,False,8
+Disturbance / nuisance,44 CURFEW VIOLATION,True,False,1
+Disturbance / nuisance,71 NUISANCE,True,False,53
+Disturbance / nuisance,71 NUISANCE WPN,True,False,2
+Disturbance / nuisance,71 RECKLESS ACTIVITY,True,False,1
+Disturbance / nuisance,71 URINATING/DEFECATING,True,False,1
+Domestic disturbances,**DOMESTIC DISTURBANCE/VIOLENC,False,False,2
+Domestic disturbances,28 DOMESTIC SUSP in area,False,False,3
+Domestic disturbances,28 PAST DOMESTIC  OR,False,False,3
+Domestic disturbances,28 PAST DOMESTIC DISTURB.,False,False,11
+Domestic disturbances,28 PAST DOMESTIC DISTURB. EMS,False,False,1
+Domestic disturbances,28-4 DOMESTIC DISTURB VERBAL,False,False,145
+Domestic disturbances,28-4 DOMESTIC DISTURB VRBL WPN,False,False,4
+Domestic disturbances,28-4 DOMESTIC DISTURB.,False,False,88
+Domestic disturbances,28-4 DOMESTIC DISTURB. CHOKED,False,True,1
+Domestic disturbances,28-4 DOMESTIC DISTURB. EMS,False,False,4
+Domestic disturbances,28-4 DOMESTIC DISTURB. WPN,False,False,5
+Domestic disturbances,28-J DOMESTIC DISTURB,False,False,11
+Domestic disturbances,28-J DOMESTIC DISTURB EMS,False,False,5
+Domestic disturbances,28-J DOMESTIC DISTURB VERBAL,False,False,7
+Domestic disturbances,28-J DOMESTIC DISTURB VRBL WPN,False,False,1
+Domestic disturbances,DOMESTIC-INJURY,False,True,1
+Fights / physical disturbances,1-4 PHYSICAL DISTURB.,False,True,51
+Fights / physical disturbances,1-4 PHYSICAL DISTURB. EMS,False,True,5
+Fights / physical disturbances,1-4 PHYSICAL DISTURB. WPN,False,True,11
+Fights / physical disturbances,1-4 PHYSICAL DISTURB. WPN/EMS,False,True,1
+Fights / physical disturbances,1-J PHYSICAL DISTURB.,False,True,5
+Fights / physical disturbances,1-J PHYSICAL DISTURB. EMS,False,True,1
+Fights / physical disturbances,1-J PHYSICAL DISTURB. WPN,False,True,2
+Fire / hazardous conditions / rescue,BURNS/EXPLOSIONS-A,False,False,1
+Fire / hazardous conditions / rescue,ELECTRICAL HAZARD/INJURY,False,False,16
+Fire / hazardous conditions / rescue,ENTRAPMENT/STRUCTURE COLLAPSE,False,False,1
+Fire / hazardous conditions / rescue,EXPLOSIONS OTHER,False,False,1
+Fire / hazardous conditions / rescue,EXTRICATION/ENTRAPMENT,False,False,1
+Fire / hazardous conditions / rescue,GAS LEAK,False,False,45
+Fire / hazardous conditions / rescue,HAZMAT INCIDENT/SPILL/ODOR,False,False,2
+Fire / hazardous conditions / rescue,HAZMAT INCIDENT/SPILL/ODOR EMS,False,False,3
+Fire / hazardous conditions / rescue,HIGH ANGLE RESCUE,False,False,1
+Fire / hazardous conditions / rescue,OUTSIDE FIRES,False,False,2
+Fire / hazardous conditions / rescue,SMALL BRUSH OR WILDLAND FIRE,False,False,4
+Fire / hazardous conditions / rescue,STRUCTURE FIRE,False,False,68
+Fire / hazardous conditions / rescue,VEHICLE FIRE,False,False,4
+Fire / hazardous conditions / rescue,WX/DISASTER OTHER SITUATION,False,False,2
+Gunfire / shooting reports,*7-J SHOOTING just occ EMS,False,True,2
+Gunfire / shooting reports,53 PAST SHOTS FIRED,False,False,6
+Gunfire / shooting reports,53 PAST SHOTS FIRED ONLINE,False,False,1
+Gunfire / shooting reports,53 SHOTS FIRED SUSP in area,False,False,2
+Gunfire / shooting reports,53 SHOTS FIRED suspect seen,False,False,9
+Gunfire / shooting reports,53 SHOTS FIRED(heard only),False,False,108
+Gunfire / shooting reports,SHOTSPOTTER CALL,False,False,56
+Medical / EMS,CARDIAC/RESP ARREST/DEATH,False,False,41
+Medical / EMS,CHEST PAIN-D,False,False,90
+Medical / EMS,CHOKING-E,False,False,2
+Medical / EMS,CONVULSIONS/SEIZURES-D,False,False,6
+Medical / EMS,EXTREME FALL-D,False,False,48
+Medical / EMS,HEMORRHAGE/LACERATIONS B,False,False,15
+Medical / EMS,OVERDOSE / POISONING,False,False,24
+Medical / EMS,TRAUMATIC INJURIES,False,False,36
+Medical / EMS,UNCONSCIOUS-LIFE STATSUS UNK,False,False,125
+Mental health / suicide,47 ATTEMPTED SUICIDE,False,False,4
+Mental health / suicide,47 ATTEMPTED SUICIDE EMS,False,False,6
+Mental health / suicide,47 ATTEMPTED SUICIDE WPN,False,False,2
+Mental health / suicide,47 ATTEMPTED SUICIDE WPN/EMS,False,False,1
+Mental health / suicide,47 PAST ATTEMPTED SUICIDE EMS,False,False,2
+Mental health / suicide,47 PAST SUICIDE THREAT,False,False,4
+Mental health / suicide,47 THREATENING SUICIDE,False,False,47
+Mental health / suicide,47 THREATENING SUICIDE EMS,False,False,6
+Mental health / suicide,47 THREATENING SUICIDE WPN,False,False,11
+Mental health / suicide,47 THREATENING SUICIDE WPN/EMS,False,False,1
+Mental health / suicide,49 MENTAL PT-HX OF VIOLENT WPN,False,False,2
+Mental health / suicide,49 MENTAL PT-NON VIOLENT,False,False,18
+Mental health / suicide,49 MENTAL PT-NON VIOLENT EMS,False,False,1
+Mental health / suicide,49 MENTAL PT-NON VIOLENT WPN,False,False,1
+Mental health / suicide,49 MENTAL PT-OR,False,False,2
+Mental health / suicide,49 MENTAL PT-UNK VIOLENT,False,False,5
+Mental health / suicide,49 MENTAL PT-UNK VIOLENT EMS,False,False,1
+Mental health / suicide,49 MENTAL PT-VIOLENT,False,False,20
+Mental health / suicide,49 MENTAL PT-VIOLENT EMS,False,False,2
+Mental health / suicide,49 MENTAL PT-VIOLENT WPN,False,False,4
+Mental health / suicide,PSYCH/ABNORMAL/SUICIDAL SUBJ,False,False,5
+Noise / loud parties,29 LOUD PARTY,True,False,183
+Noise / loud parties,29 OTHER NOISE COMPLAINT,True,False,268
+Noise / loud parties,29 PAST NOISE COMPLAINT,True,False,6
+Noise / loud parties,50 BARKING DOG,False,False,21
+Noise / loud parties,50 BARKING DOG SUSPICIOUS,False,False,3
+Other / unclear,***CALLER IN IMMINENT DANGER,False,False,2
+Other / unclear,***Generic Law Call,False,False,203
+Other / unclear,**ASSAULT/SHOOTING/STABBING,False,True,2
+Other / unclear,**ASSIST OTHER AGENCIES,False,False,2
+Other / unclear,**MISCELLANEOUS,False,False,1
+Other / unclear,**PUBLIC SERVICE,False,False,1
+Other / unclear,**UNKNOWN (3RD PARTY),False,False,1
+Other / unclear,*13 OFFICER DOWN/URGENT assist,False,False,1
+Other / unclear,*23-4 Personal ROBBERY,False,False,1
+Other / unclear,00 UNKNOWN (3rd party),False,False,4
+Other / unclear,00 UNKNOWN (3rd party) EMS,False,False,2
+Other / unclear,10-15 VIOLATION OF ORDER,False,False,2
+Other / unclear,10-46 MOTORIST ASSIST,False,False,5
+Other / unclear,14 THREAT ONLINE OR,False,False,1
+Other / unclear,14 THREAT OR,False,False,1
+Other / unclear,15B ALARM OR D,False,False,2
+Other / unclear,15B OTHER,False,False,4
+Other / unclear,15B SUSPICIOUS ACTIVITY OR,False,False,1
+Other / unclear,15B TELEMATICS,False,False,6
+Other / unclear,15B UNK,False,False,5
+Other / unclear,2 INTOXICATED SUBJECT,False,False,18
+Other / unclear,2 INTOXICATED SUBJECT EMS,False,False,2
+Other / unclear,21 ASSIST OTHER AGENCY,False,False,5
+Other / unclear,21 ASSIST OTHER AGENCY OR,False,False,1
+Other / unclear,21 OFFICER ASSIST request,False,False,1
+Other / unclear,22 NON-URGENT req.TELEPHONE,False,False,1
+Other / unclear,22 NON-URGENT request,False,False,107
+Other / unclear,22 OTHER,False,False,107
+Other / unclear,22 OTHER OR  C,False,False,31
+Other / unclear,22 URGENT request,False,False,13
+Other / unclear,23 PAST personal ROBBERY,False,False,2
+Other / unclear,25 PARKING COMPLAINT,False,False,143
+Other / unclear,26 HAZARDOUS ROAD CONDITIONS,False,False,7
+Other / unclear,26 HAZARDOUS VEHICLE,False,False,3
+Other / unclear,26 MINOR TRAFFIC CMPLNT,False,False,4
+Other / unclear,29 OTHER NOISE CMPLNT PHONE,True,False,1
+Other / unclear,31 LOCK-OUT/IN- OTHER,False,False,1
+Other / unclear,31 LOCK-OUT/IN- VEHICLE,False,False,1
+Other / unclear,31 PERSON TRANSPORT,False,False,1
+Other / unclear,4 SUPPLEMENTAL  REFERRAL,False,False,3
+Other / unclear,4 SUPPLEMENTAL Additional Info,False,False,7
+Other / unclear,4 SUPPLEMENTAL Found evidence,False,False,10
+Other / unclear,4 SUPPLEMENTAL General Info,False,False,44
+Other / unclear,4 SUPPLEMENTAL OR,False,False,6
+Other / unclear,41 PAST VEH THEFT SUSP 1060,False,False,2
+Other / unclear,42 PAST THEFT SUSP 1060 WPN,False,False,1
+Other / unclear,42-J THEFT OR,False,False,2
+Other / unclear,43 COMMERCIAL,False,False,2
+Other / unclear,43 RESIDENTIAL,False,False,15
+Other / unclear,46 SUSPICIOUS DEATH,False,False,2
+Other / unclear,49 MENTAL PT-CONSIDERING HARM,False,False,1
+Other / unclear,49 MENTAL PT-HX OF VIOLENT,False,False,1
+Other / unclear,49 MENTAL-CONSIDERING HARM EMS,False,False,1
+Other / unclear,5 MVC,False,False,29
+Other / unclear,5 MVC AIRBAGS DEPLOY,False,False,3
+Other / unclear,5 MVC BLOCKAGE,False,False,2
+Other / unclear,5 VEH IN FLOODWATER,False,False,1
+Other / unclear,5-30 MVC,False,False,7
+Other / unclear,50 ANIMAL OR B,False,False,2
+Other / unclear,52 FRAUD (remote means),False,False,15
+Other / unclear,52 PAST FORGERY SUSP in area,False,False,2
+Other / unclear,52 PAST FRAUD OR,False,False,3
+Other / unclear,52 PAST FRAUD/FORGERY,False,False,70
+Other / unclear,52-4 FRAUD,False,False,4
+Other / unclear,52-J FRAUD,False,False,6
+Other / unclear,57 MISSING (SPECIAL LOCATION),False,False,1
+Other / unclear,57 MISSING PERSON TELEPHONE,False,False,1
+Other / unclear,58 FOUND UNEXPLODED ORDNANCE,False,False,1
+Other / unclear,59 PAST SEXUAL ASSAULT CHOKED,False,False,1
+Other / unclear,67 WANTED person,False,False,9
+Other / unclear,67 WANTED person WPN,False,False,1
+Other / unclear,67 WANTED vehicle,False,False,1
+Other / unclear,67 WARRANT SERVICE,False,False,17
+Other / unclear,68 DRUG CALL,False,False,2
+Other / unclear,68 FOUND DRUGS,False,False,5
+Other / unclear,68 FOUND DRUGS EMS,False,False,1
+Other / unclear,68 PAST DRUG USE/SALE,False,False,1
+Other / unclear,68-4 DRUG SALE,False,False,4
+Other / unclear,68-4 DRUG USE,False,False,15
+Other / unclear,68-4 DRUG USE EMS,False,False,1
+Other / unclear,69 ABANDONED VEHICLE,False,False,40
+Other / unclear,7 PAST SHOOTING UNK INJURY,False,True,1
+Other / unclear,71 PAST WEAPON INCIDENT,False,False,4
+Other / unclear,71 PAST open carry of WEAPON,False,False,1
+Other / unclear,71 WEAPON CALL SUSP in area,False,False,1
+Other / unclear,71 WEAPON INCIDENT,False,False,8
+Other / unclear,71 WEAPON INCIDENT EMS,False,False,1
+Other / unclear,71-4 Open carry of WEAPON,False,False,1
+Other / unclear,71-J WEAPON INCIDENT,False,False,2
+Other / unclear,9 HIT-AND-RUN,False,False,11
+Other / unclear,9 PAST HIT-AND-RUN,False,False,12
+Other / unclear,9-30 HIT-AND-RUN,False,False,1
+Other / unclear,911 Hang Up,False,False,116
+Other / unclear,ASSAULT EMS OR,False,False,1
+Other / unclear,ESCORT,False,False,1
+Other / unclear,FOLLOW-UP REPORT,False,False,31
+Other / unclear,FORENSICS PROCES,False,False,2
+Other / unclear,LARGE WILDLAND OR BRUSH FIRE,False,False,1
+Other / unclear,OFFICER ASSIST,False,False,2
+Other / unclear,PAST VEH CRASH,False,False,2
+Other / unclear,Special Detail,False,False,2
+Other / unclear,WATER/ICE/MUD RESCUE,False,False,1
+Property checks / alarms,15H PERSONAL PANIC ALARM,False,False,4
+Property checks / alarms,69 VEHICLE ALARM,False,False,4
+Property checks / alarms,70 CHECK BUILDING,False,False,13
+Property checks / alarms,70 PROPERTY/VACATION CHECK,False,False,49
+Property checks / alarms,OPEN DOOR,False,False,11
+Property damage / vandalism,22 PAST MISCHIEF,False,False,2
+Property damage / vandalism,45 PAST VANDALISM,False,False,75
+Property damage / vandalism,45 Property DAMAGE,False,False,134
+Property damage / vandalism,45-4 MISCHIEF,False,False,3
+Property damage / vandalism,45-4 MISCHIEF WPN,False,False,1
+Property damage / vandalism,45-4 VANDALISM,False,False,13
+Property damage / vandalism,45-4 VANDALISM WPN,False,False,1
+Property damage / vandalism,45-J VANDALISM,False,False,14
+Property damage / vandalism,45-J VANDALISM WPN,False,False,1
+Property damage / vandalism,71 MISCHIEF just occurred,False,False,2
+Property damage / vandalism,71 MISCHIEF just occurred WPN,False,False,1
+Property damage / vandalism,71 PAST VANDALISM susp in area,False,False,6
+Robbery / holdup / abduction,*23-4 HOME INVASION,False,True,1
+Robbery / holdup / abduction,*23-4 Personal ROBBERY WPN,False,True,1
+Robbery / holdup / abduction,*23-J Personal ROBBERY,False,True,5
+Robbery / holdup / abduction,*23-J Personal ROBBERY WPN,False,True,2
+Robbery / holdup / abduction,*56-4 HOSTAGE/ABDUCTION,False,True,3
+Robbery / holdup / abduction,1015 CUSTODIAL ABDUCT.,False,True,3
+Robbery / holdup / abduction,1015 PAST CUSTODIAL ABDUCTION,False,True,1
+Robbery / holdup / abduction,15H COMMERCIAL HOLDUP,False,True,7
+Robbery / holdup / abduction,15H RESIDENTIAL HOLDUP,False,True,43
+Robbery / holdup / abduction,23 PAST ROBBERY OR,False,True,2
+Sexual offenses,59 PAST SEXUAL ASSAULT,False,True,11
+Sexual offenses,59 PAST SEXUAL ASSAULT EMS,False,True,1
+Sexual offenses,59 PAST SEXUAL VIOLENCE,False,True,1
+Sexual offenses,59 PORNOGRAPHY,False,True,2
+Sexual offenses,59-4 INDECENCY/LEWDNESS,False,True,32
+Sexual offenses,59-J SEXUAL ASSAULT,False,True,7
+Sexual offenses,59-J SEXUAL ASSAULT EMS,False,True,1
+Suspicious activity / person / vehicle,**SUSPICIOUS/WANTED PERSON,False,False,4
+Suspicious activity / person / vehicle,22 PAST SUSPICIOUS ACTIVITY,False,False,54
+Suspicious activity / person / vehicle,65 HIGH OCC suspicious package,False,False,2
+Suspicious activity / person / vehicle,65 LOW OCC suspicious package,False,False,3
+Suspicious activity / person / vehicle,69 PAST SUSPICIOUS vehicle,False,False,8
+Suspicious activity / person / vehicle,69 SUSPICIOUS vehicle,False,False,92
+Suspicious activity / person / vehicle,69 SUSPICIOUS vehicle WPN,False,False,1
+Suspicious activity / person / vehicle,71 PAST SUSPICIOUS person,False,False,39
+Suspicious activity / person / vehicle,71 SUSPICIOUS ACTIVITY,False,False,153
+Suspicious activity / person / vehicle,71 SUSPICIOUS ACTIVITY WPN,False,False,3
+Suspicious activity / person / vehicle,71 SUSPICIOUS person,False,False,452
+Suspicious activity / person / vehicle,71 SUSPICIOUS person WPN,False,False,14
+Theft / vehicle theft,**THEFT,False,False,1
+Theft / vehicle theft,41 NCIC/GCIC vehicle recovery,False,False,13
+Theft / vehicle theft,41 PAST VEHICLE THEFT,False,False,91
+Theft / vehicle theft,41 PAST attempted VEH THEFT,False,False,7
+Theft / vehicle theft,41-4 VEHICLE THEFT,False,False,8
+Theft / vehicle theft,41-4 VEHICLE THEFT WPN,False,False,1
+Theft / vehicle theft,41-J VEHICLE THEFT,False,False,9
+Theft / vehicle theft,42 PAST THEFT,False,False,456
+Theft / vehicle theft,42 PAST THEFT OR,False,False,7
+Theft / vehicle theft,42 PAST THEFT SUSP 1060,False,False,35
+Theft / vehicle theft,42 PAST attempted THEFT,False,False,16
+Theft / vehicle theft,42-4 THEFT,False,False,31
+Theft / vehicle theft,42-4 THEFT FROM VEHICLE,False,False,10
+Theft / vehicle theft,42-4 THEFT FROM VEHICLE WPN,False,False,2
+Theft / vehicle theft,42-J THEFT,False,False,41
+Theft / vehicle theft,42-J THEFT FROM VEHICLE,False,False,26
+Theft / vehicle theft,42-J THEFT FROM VEHICLE WPN,False,False,1
+Theft / vehicle theft,42-J THEFT WPN,False,False,1
+Threats / harassment / stalking,**HARASSMENT/STALKING/THREAT,False,False,1
+Threats / harassment / stalking,14 HARASSMENT SUSP in area,False,False,11
+Threats / harassment / stalking,14 HARASSMENT SUSP in area WPN,False,False,3
+Threats / harassment / stalking,14 PAST HARASSMENT,False,False,16
+Threats / harassment / stalking,14 PAST STALKING,False,False,10
+Threats / harassment / stalking,14 PAST THREAT,False,False,23
+Threats / harassment / stalking,14 PHONE HARASSMENT,False,False,17
+Threats / harassment / stalking,14 PHONE THREAT,False,False,22
+Threats / harassment / stalking,14 SOCIAL MEDIA THREAT,False,False,10
+Threats / harassment / stalking,14 STALKING SUSP in area,False,False,1
+Threats / harassment / stalking,14 STALKING SUSP in area WPN,False,False,1
+Threats / harassment / stalking,14 THREAT SUSP in area,False,False,7
+Threats / harassment / stalking,14 THREAT SUSP in area WPN,False,False,1
+Threats / harassment / stalking,14-4 HARASSMENT,False,False,23
+Threats / harassment / stalking,14-4 HARASSMENT WPN,False,False,1
+Threats / harassment / stalking,14-4 STALKING,False,False,8
+Threats / harassment / stalking,14-4 THREAT,False,False,33
+Threats / harassment / stalking,14-4 THREAT WPN,False,False,6
+Threats / harassment / stalking,14-J HARASSMENT,False,False,10
+Threats / harassment / stalking,14-J STALKING,False,False,2
+Threats / harassment / stalking,14-J THREAT,False,False,16
+Threats / harassment / stalking,14-J THREAT WPN,False,False,2
+Trespass / unwanted person,24 PAST TRESPASS ONLINE OR,False,False,2
+Trespass / unwanted person,24 PAST TRESPASS OR,False,False,7
+Trespass / unwanted person,24 PAST TRESPASSING,False,False,41
+Trespass / unwanted person,24 PAST UNWANTED person,False,False,6
+Trespass / unwanted person,24 UNWANTED SUSP in area,False,False,20
+Trespass / unwanted person,24-4 TRESPASSING,False,False,297
+Trespass / unwanted person,24-4 TRESPASSING WPN,False,False,6
+Trespass / unwanted person,24-4 UNWANTED person,False,False,234
+Trespass / unwanted person,24-4 UNWANTED person WPN,False,False,3
+Trespass / unwanted person,24-J TRESPASSING,False,False,32
+Trespass / unwanted person,24-J UNWANTED person,False,False,10
+Welfare / missing person,**MISSING/RUNAWAY/FOUND PERSON,False,False,3
+Welfare / missing person,31 CHECK-THE-WELFARE,False,False,152
+Welfare / missing person,31 URGENT CHECK-THE-WELFARE,False,False,170
+Welfare / missing person,44-R RUNAWAY,False,False,15
+Welfare / missing person,44-R RUNAWAY (AT RISK),False,False,8
+Welfare / missing person,44-R RUNAWAY (AT RISK) AUTISM,False,False,1
+Welfare / missing person,57 FOUND PERSON,False,False,13
+Welfare / missing person,57 MISSING (AT RISK),False,False,12
+Welfare / missing person,57 MISSING (AT RISK) AUTISM,False,False,1
+Welfare / missing person,57 MISSING (RISK)SPECIAL LOC,False,False,1
+Welfare / missing person,57 MISSING PERSON,False,False,24
+Welfare / missing person,57 NCIC/GCIC person recovery,False,False,3
+Welfare / missing person,64 PAST ABUSE/NEGLECT,False,False,7
+Welfare / missing person,64-4 ABANDONMENT,False,False,6
+Welfare / missing person,64-4 ABUSE,False,False,2
+Welfare / missing person,64-4 NEGLECT,False,False,3

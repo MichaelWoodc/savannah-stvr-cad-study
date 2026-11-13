@@ -1,0 +1,543 @@
+URL: https://www.airbnb.com/rooms/1105795478383155768
+Title: Beautiful Downtown Getaway w/ Outdoor Space
+Latitude: 32.06628
+Longitude: -81.0934
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Kevin
+Host ID: 565496210
+Host profile ID: 1470519382717681752
+Host URL: https://www.airbnb.com/users/profile/1470519382717681752
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+Stay in this charming first-floor apartment in the heart of Savannah, just two blocks from Forsyth Park and steps from top dining, shopping, and historic sights. Set in a 4-unit building, this cozy 2BR/1BA is fully equipped and thoughtfully designed—perfect for couples, families, or remote workers seeking easy downtown living and classic Savannah charm. Please note that this is a FIRST FLOOR UNIT. Sound transfer can be heard from the unit above.
+
+
+SVR-01605
+
+The space
+🏡 Charming Downtown Savannah Apartment | Steps from Forsyth Park
+
+Experience Savannah like a local in this inviting first-floor 2BR/1BA apartment just two blocks from Forsyth Park in the heart of the Savannah Historic District. Ideal for couples, families, remote workers, or small groups, this cozy retreat blends modern convenience with classic Southern charm—all within walking distance of the city’s best dining, cafés, and historic landmarks.
+
+Located in a classic 4-unit building, this ground-floor apartment offers easy access and comfortable living. (Please note: as a first-floor unit, noise from upstairs may be heard.)
+
+⭐️ HOME HIGHLIGHTS — UNIT A
+🛋 Living Room
+Bright and welcoming with an open layout.
+• 50” Smart TV with streaming apps
+• Comfortable seating for relaxing after a day out
+🍳 Kitchen & Dining
+Fully equipped for short or extended stays.
+• Full-size stove, oven, refrigerator & microwave
+• Cookware, utensils & dining essentials
+• Keurig coffee maker
+• Dining table perfect for meals or remote work
+
+🛏 Bedrooms & Bathroom
+• Bedroom 1: Queen memory-foam bed
+• Bedroom 2: King memory-foam bed
+• Tub/shower combo with fresh towels & toiletries
+• In-unit washer & dryer
+
+🌿 Outdoor Space & Parking
+• Shared outdoor seating & tables
+• BBQ grills 
+• One dedicated parking space per unit + free street parking
+
+📍 Prime Location
+🌳 2 blocks to Forsyth Park
+🍽 Walk to restaurants, boutiques & cafés
+🎨 Near historic squares, museums & galleries
+🏖 15–20 minutes to Tybee Island beaches
+600 feet to Kroger for groceries!
+
+
+✨ Stay in the center of it all while enjoying comfort, convenience, and timeless Savannah charm.
+
+Guest access
+The unit is fully equipped with everything you need—feel right at home!
+
+Other things to note
+-No smoking in the condo.  Any violations will result in a $250 smoke abatement fee.
+-No pets or animals permitted.  Unannounced animals will result in a $200 additional cleaning fee and your reservation being cancelled without refund.
+-Four guests maximum at any time.  No parties or events.  Violations will result in cancellation of the stay without refund.
+-Please observe neighborhood quiet hours between 10pm-8am. 
+-This is a first floor unit, there may be noise transfer from the above unit.
+
+
+MODERATE CANCELLATION POLICY: Full refund for cancellations up to 5 days prior to arrival. No refund after that. We do not make exceptions to this, for any reason, including weather, illness, or other circumstance that interrupts your travel (whether it is within your control or not), and do not accept date changes. Therefore, we always advise that guests purchase travel insurance for their trip, just in case! This is particularly important from June-November, as hurricanes in the southeast are considered known travel risks by Airbnb and not eligible for an exception. Again, we do not provide refunds if you cancel and do not accept date changes within 5 days of your check-in date for ANY reason. 
+
+Please insure yourself accordingly.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Hangers
+Bed linens
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Electric stove
+Oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Outdoor
+Patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Sun loungers
+Parking and facilities
+Free parking on premises
+Services
+Self check-in
+Lockbox
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Essentials
+Essentials
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Beautiful Downtown Getaway w/ Outdoor Space
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Rated 4.76 out of 5 stars.
+4.76
+·
+119 reviews
+Hosted by Kevin
+3 years hosting
+Listing highlights
+In downtown Savannah near Forsyth Park
+About a 5-min walk to Forsyth Park, with restaurants, cafés, and historic squares all within reach
+Dedicated off-street parking
+A dedicated parking space behind the building, a real convenience in downtown Savannah
+Comfortable beds, walkable location
+Guests consistently praise the walkable location and comfortable memory-foam beds
+Stay in this charming first-floor apartment in the heart of Savannah, just two blocks from Forsyth Park and steps from top dining, shopping, and historic sights. Set in a 4-unit building, this cozy 2BR/1BA is fully equipped and thoughtfully designed—perfect for couples, families, or remote workers seeking easy downtown living and classic Savannah charm. Please note that this is a FIRST FLOOR UNIT. Sound transfer can be heard from the unit above.
+
+
+SVR-01605
+
+The space
+🏡 Charming Downtown Savannah Apartment | Steps from Forsyth Park
+
+Experience Savannah like a local in this inviting first-floor 2BR/1BA apartment just two blocks from Forsyth Park in the heart of the Savannah Historic District. Ideal for couples, families, remote workers, or small groups, this cozy retreat blends modern convenience with classic Southern charm—all within walking distance of the city’s best dining, cafés, and historic landmarks.
+
+Located in a classic 4-unit building, this ground-floor apartment offers easy access and comfortable living. (Please note: as a first-floor unit, noise from upstairs may be heard.)
+
+⭐️ HOME HIGHLIGHTS — UNIT A
+🛋 Living Room
+Bright and welcoming with an open layout.
+• 50” Smart TV with streaming apps
+• Comfortable seating for relaxing after a day out
+🍳 Kitchen & Dining
+Fully equipped for short or extended stays.
+• Full-size stove, oven, refrigerator & microwave
+• Cookware, utensils & dining essentials
+• Keurig coffee maker
+• Dining table perfect for meals or remote work
+
+🛏 Bedrooms & Bathroom
+• Bedroom 1: Queen memory-foam bed
+• Bedroom 2: King memory-foam bed
+• Tub/shower combo with fresh towels & toiletries
+• In-unit washer & dryer
+
+🌿 Outdoor Space & Parking
+• Shared outdoor seating & tables
+• BBQ grills 
+• One dedicated parking space per unit + free street parking
+
+📍 Prime Location
+🌳 2 blocks to Forsyth Park
+🍽 Walk to restaurants, boutiques & cafés
+🎨 Near historic squares, museums & galleries
+🏖 15–20 minutes to Tybee Island beaches
+600 feet to Kroger for groceries!
+
+
+✨ Stay in the center of it all while enjoying comfort, convenience, and timeless Savannah charm.
+
+Guest access
+The unit is fully equipped with everything you need—feel right at home!
+
+Other things to note
+-No smoking in the condo.  Any violations will result in a $250 smoke abatement fee.
+-No pets or animals permitted.  Unannounced animals will result in a $200 additional cleaning fee and your reservation being cancelled without refund.
+-Four guests maximum at any time.  No parties or events.  Violations will result in cancellation of the stay without refund.
+-Please observe neighborhood quiet hours between 10pm-8am. 
+-This is a first floor unit, there may be noise transfer from the above unit.
+
+
+MODERATE CANCELLATION POLICY: Full refund for cancellations up to 5 days prior to arrival. No refund after that. We do not make exceptions to this, for any reason, including weather, illness, or other circumstance that interrupts your travel (whether it is within your control or not), and do not accept date changes. Therefore, we always advise that guests purchase travel insurance for their trip, just in case! This is particularly important from June-November, as hurricanes in the southeast are considered known travel risks by Airbnb and not eligible for an exception. Again, we do not provide refunds if you cancel and do not accept date changes within 5 days of your check-in date for ANY reason. 
+
+Please insure yourself accordingly.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Free parking on premises
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Patio or balcony
+Shared backyard – Fully fenced
+Show all 45 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.76 out of 5 stars from 119 reviews
+4.76 · 119 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 83% of reviews
+5
+4 stars, 11% of reviews
+4
+3 stars, 5% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+44
+Location
+70
+Parks
+15
+Sleep quality
+23
+Comfort
+30
+Nearby
+39
+Cleanliness
+39
+Indoor spaces
+13
+Family
+12
+Laundry
+7
+Courtney Jo
+Williamsburg, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This place is amazing! First time in Savannah and we stayed here, the apartment is gorgeous and fully stocked with everything you could need. The bed was super comfy and perfect after a day out. The in unit washer and dryer was super useful. Theres a Kroger in the front yard which was such a blessing. The DOT picks up right down the street. Forsyth is a 2min walk. There are TONS of restaurants within walking distance. We will 100% be staying again!
+Show more
+Norah
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Top accommodation for a vacation in Savannah! 
+Kevin offers a very well-maintained place where we felt comfortable. 
+It was also a spontaneous booking on the same day, and it worked smoothly.
+Plus, the beds are super comfortable!
+Thank you for letting us stay in your apartment!
+Show more
+Reese
+2 years on Airbnb
+Rating, 3 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Check out was listed as 11am on the website however after we arrived we were told it was 10 which is absurd! No other establishment has such an early checkout.
+Rosa
+North Port, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+-My family and I were extremely pleased with the place and its location. Would definitely recommend and book again in the future. Thank you for your hospitality!(:
+Kristina
+Boynton Beach, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Thanks for letting my family stay at your wonderful home. The location was super convenient and the home was cozy and beautiful. We had a great time!
+Breanna
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+This place was a gem in Savannah! Its my third time being there from out of town and absolutely would love to be in this location in the future for our trips here! The neighbors weren't loud, it was within walking distance to MANY places and less then a 10 minute drive to river street! the beds were very comfortable, everything worked really well, and everything listed was very accurate! We asked the host for recommendations and they quickly told us about some favorite spots! I would highly recommended this spot to others!
+Show more
+Show all 119 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+We are in the heart of downtown Savannah just 2 blocks from Forsyth Park!
+Show more
+Meet your host
+Kevin
+Host
+483 reviews
+483
+Reviews
+4.78 out of 5 average rating
+4.78
+Rating
+3 years of hosting
+3
+Years hosting
+Co-hosts
+Karli
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Some spaces are shared
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

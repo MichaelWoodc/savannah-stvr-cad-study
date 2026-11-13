@@ -1,0 +1,514 @@
+URL: https://www.airbnb.com/rooms/987888183269005304
+Title: Jewel on Jones - A Southern, Savannah Mansion
+Latitude: 32.0722
+Longitude: -81.0927
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Farrell
+Host ID: 505817984
+Host profile ID: 1470273855656106441
+Host URL: https://www.airbnb.com/users/profile/1470273855656106441
+Bedrooms: 6
+Occupancy (maximum guests): 12
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 7
+
+Beds enumerated in room tiles: 7
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed, 1 sofa bed
+
+Bedroom 5
+1 king bed
+
+Bedroom 6
+1 king bed
+
+=== FULL DESCRIPTION ===
+Welcome to the Eliza Ann Jewett House, where you will find the yourself immersed in true Savannah history! Built in 1853 and located in the heart of downtown Savannah on what is considered one of the most beautiful, landmark streets in the nation, this beautifully preserved residence offers 6 bedrooms, 4.5 bathrooms, spacious living and dining areas, a well-appointed kitchen, private courtyard, and a 2-car garage. Perfectly walkable to all of downtown Savannah's attractions!
+
+SVR-02701
+
+The space
+This spacious, historic property is the perfect homebase for your group's Savannah stay! Ideal for large families, groups, and friends, there is plenty of room for everyone to enjoy private space or to gather together!
+
+The main level features a large parlor, a dining room that seats 12,  a well-equipped kitchen, a bedroom with a king bed, a convenient half bathroom, and laundry facilities for your convenience.
+
+The garden level (ground level) boasts 2 bedrooms and 1 full bathroom, along with a second comfortable living room!
+
+On the second floor, you'll find two more bedrooms, each with a luxurious king bed and their own TVs! Both bedrooms have full spa-like bathrooms, one of which features an original cast iron bathtub, adding a touch of vintage charm.
+
+The top floor features a master suite with private full bathroom. In the bedroom area, there is a king bed and seating area with TV. Have one more person joining you? The sofa in this space pulls our into a full sized bed, providing ample sleeping space. This floor also offers two charming window seats, offering a cozy spot for reading and feeling like you've been transported to a tree-top hideaway. Additionally, there's a convenient desk area at the top of the landing, perfect for any remote work you need to tackle while away from home.
+
+Step outside into the courtyard, where a dining table for 6 with a shady umbrella invites you to enjoy al fresco meals. Fire up the propane grill for a delightful barbecue experience.
+
+Parking is a breeze with a TWO car garage, ensuring you have a worry-free stay. Explore Savannah's historic streets on foot, as this prime location puts you within easy reach of all downtown attractions.
+
+Guest access
+The entire home, courtyard, and garage are all yours!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Courtyard view
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+55 inch HDTV with Roku
+Life size games
+Family
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+Central air conditioning
+Central heating
+Home safety
+Exterior security cameras on property
+We have three outdoor security cameras, one located at the front door entry, one located at the garden level entry, and one overlooking the courtyard.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Beach essentials
+Beach gear such as towels, chairs, and an umbrella
+Parking and facilities
+Free residential garage on premises – 2 spaces
+Paid street parking off premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Jewel on Jones - A Southern, Savannah Mansion
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+12 guests · 6 bedrooms · 7 beds · 4.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+123 reviews
+123
+Reviews
+Hosted by Farrell
+Superhost · 4 years hosting
+Listing highlights
+On Jones Street in the Historic District
+Lafayette Square is right outside, with the Cathedral of St. John the Baptist about a 3-min walk
+1853 home with courtyard and garage
+A dining table that seats 12, a private courtyard with a grill, and a two-car garage
+Loved by groups and families alike
+Guests highlight the comfortable beds, the walkable location, and how well the layout works
+Welcome to the Eliza Ann Jewett House, where you will find the yourself immersed in true Savannah history! Built in 1853 and located in the heart of downtown Savannah on what is considered one of the most beautiful, landmark streets in the nation, this beautifully preserved residence offers 6 bedrooms, 4.5 bathrooms, spacious living and dining areas, a well-appointed kitchen, private courtyard, and a 2-car garage. Perfectly walkable to all of downtown Savannah's attractions!
+
+SVR-02701
+
+The space
+This spacious, historic property is the perfect homebase for your group's Savannah stay! Ideal for large families, groups, and friends, there is plenty of room for everyone to enjoy private space or to gather together!
+
+The main level features a large parlor, a dining room that seats 12,  a well-equipped kitchen, a bedroom with a king bed, a convenient half bathroom, and laundry facilities for your convenience.
+
+The garden level (ground level) boasts 2 bedrooms and 1 full bathroom, along with a second comfortable living room!
+
+On the second floor, you'll find two more bedrooms, each with a luxurious king bed and their own TVs! Both bedrooms have full spa-like bathrooms, one of which features an original cast iron bathtub, adding a touch of vintage charm.
+
+The top floor features a master suite with private full bathroom. In the bedroom area, there is a king bed and seating area with TV. Have one more person joining you? The sofa in this space pulls our into a full sized bed, providing ample sleeping space. This floor also offers two charming window seats, offering a cozy spot for reading and feeling like you've been transported to a tree-top hideaway. Additionally, there's a convenient desk area at the top of the landing, perfect for any remote work you need to tackle while away from home.
+
+Step outside into the courtyard, where a dining table for 6 with a shady umbrella invites you to enjoy al fresco meals. Fire up the propane grill for a delightful barbecue experience.
+
+Parking is a breeze with a TWO car garage, ensuring you have a worry-free stay. Explore Savannah's historic streets on foot, as this prime location puts you within easy reach of all downtown attractions.
+
+Guest access
+The entire home, courtyard, and garage are all yours!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 7 | Enumerated: 7 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed, 1 sofa bed
+
+Bedroom 5
+1 king bed
+
+Bedroom 6
+1 king bed
+
+What this place offers
+Courtyard view
+Kitchen
+Wifi
+Dedicated workspace
+Free residential garage on premises – 2 spaces
+55 inch HDTV with Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Exterior security cameras on property
+Show all 56 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 123 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+58
+Location
+95
+Indoor spaces
+52
+Family
+18
+Comfort
+28
+Layout
+6
+Hospitality
+49
+Sleep quality
+24
+Decor
+19
+Nearby
+17
+Regina
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+We had a wonderful stay at this property.  The location was amazing, an easy walk into town and around the town squares.  The house was exactly as advertised and worked perfectly for our group……beds were comfortable, the kitchen was well stocked with all dining necessities, and the space was ample for large families.  We especially appreciated the huge dining table where we could join for meals.  The garage was a little difficult to get in and out of, but we found on street parking to usually be available as well.  Highly recommend this house!
+Show more
+Austin
+Orlando, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+The house was fantastic, the street is beautiful. You can walk everywhere. And we mistakenly left something behind and the very gracious host mailed it back to us within an hour of us leaving. We will definitely be coming back.
+Show more
+Zachary
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Perfect trip!
+Haley
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Our family loved our stay in Savannah here! The home is in the perfect location on one of the most beautiful streets in the U.S.! We saw horse drawn carriages pass through our street and truly felt like it was a quaint step back in time. This is where we will look to stay if we come back to the area in the future!
+Show more
+Erin
+Palm Shores, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+We had an amazing time in a beautiful setting! We didn't realize one bedroom had to be walked through to get to the other and that one didn't have a door but the space worked fine for the group we had. Beautifully decorated with plenty of bathrooms and room to gather. It was perfect!
+Show more
+Brent
+Louisville, Kentucky
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Beautiful historic home right on Jones Street in Savannah. The layout was perfect for our group with 6 king-sized beds, large comfortable rooms, and a dining table that easily seated 12 for meals and conversation. The location was one of the best parts. We could walk to restaurants, shops, and so much of the historic district without needing a car. If you’re looking for a spacious, walkable Savannah stay with classic charm, this place delivers.  Great hosts, great location!
+Show more
+Show all 123 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Located in the heart of the historic district, on the famous Jones St., which has been aptly labeled "The Most Beautiful Street in the USA!"
+Show more
+Meet your host
+Farrell
+Superhost
+2,741 reviews
+2741
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+4 years of hosting
+4
+Years hosting
+My work: Savannah Stays
+Speaks English
+Hi Y'all! I'm Farrell, and my husband Hemal and I are Savannah locals who love historic homes and want to share our beautiful city with the world! We take pride in our exceptional hospitality while creating a truly unique historic Savannah experience for our guests. Our good friend and Co-host Sarah are always nearby if you need us. Also, be sure to follow us at @SavannahStays for an insider glimpse!
+Farrell is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+12 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

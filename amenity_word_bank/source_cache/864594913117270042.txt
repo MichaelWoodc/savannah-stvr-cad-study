@@ -1,0 +1,589 @@
+URL: https://www.airbnb.com/rooms/864594913117270042
+Title: River Views, Private Balcony, Heated Pool Access
+Latitude: 32.08289
+Longitude: -81.0929
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Riverview Terrace is a spacious loft-style home designed to comfortably accommodate up to four guests. This well appointed riverfront retreat stands out for its open layout, high-end finishes, and incredible location. Situated within a historic brick building overlooking the Savannah River, this sought-after property places guests in the heart of everything the Historic District has to offer. And yes, the private terrace offers beautiful views of River Street and the river beyond.
+
+The space
+Step into a brick-encrusted loft filled with natural light from a row of windows overlooking Savannah's famed River Street. This expansive open-concept living space features an oversized L-shaped couch centered around a stunning antique brick fireplace. Just steps away, the full-sized gourmet kitchen is equipped with stainless steel appliances, including a refrigerator, stove, microwave, and dishwasher. Start your morning with a fresh cup of coffee from the single-cup coffee maker before gathering around the granite-topped island with seating for four. Industrial-inspired details, soaring ceilings with exposed pipes, and elegant crystal chandeliers create a space that feels both sophisticated and inviting. In addition to a dining table for four, the kitchen island provides seating for four more, making it a wonderful place to enjoy meals or simply spend time together.
+
+
+
+The thoughtfully designed interior includes comfortable sleeping accommodations, luxurious king beds, and four beautifully appointed full bathrooms. Tasteful finishes and spa-inspired tiled walk-in showers create a relaxing retreat after a day of exploring Savannah.
+
+
+
+Riverview Terrace has a whimsical charm that makes it feel like a destination all its own. The home includes a full-sized washer and dryer tucked within a convenient laundry nook, as well as private parking for up to two vehicles. Additional amenities include air conditioning, heat, Wi-Fi, and cable. What truly sets this home apart is its private balconies overlooking River Street, where guests can step outside and enjoy views of the Savannah River while taking in the energy and history of one of the city's most iconic destinations. From here, you'll be within walking distance of many of Savannah's best restaurants, boutiques, museums, and attractions. It's also easy to hop aboard the Savannah Belles Ferry for a scenic ride across the river to Hutchinson Island.
+
+
+
+While River Street beckons just outside your door, the surrounding Historic District offers even more to explore. Riverview Terrace places guests within easy reach of Savannah's renowned shopping, sightseeing, dining, and legendary haunted attractions. Wander beneath the city's famous oak canopies while discovering historic squares, beautiful architecture, and charming hidden courtyards. The Historic District is easily explored on foot, by bicycle, trolley, carriage, or guided bus tour.
+
+
+
+Other must-see attractions include Forsyth Park, the Cathedral Basilica of St. John the Baptist, Bonaventure Cemetery, The Olde Pink House, the American Prohibition Museum, and countless other local favorites. For those looking to venture a little farther, Wormsloe Historic Site, Old Fort Jackson, and Skidaway Island State Park are all within easy driving distance. After dark, Savannah's famous ghost tours reveal another side of the city's rich history. Throughout the year, visitors can also enjoy signature events including the Savannah Irish Festival, Seafood Fest on the River, the Historic Savannah Foundation Preservation Festival, the Savannah Music Festival, the North of Gaston Street Tour of Hidden Gardens, and the Blessing of the Fleet. With its premier waterfront location, Riverview Terrace offers exceptional access to many of the city's most celebrated events and festivals.
+
+
+
+Guests staying with Southern Belle Vacation Rentals also enjoy exclusive access to a resort-style pool on Tybee Island. Just a scenic 25-minute drive through Georgia's beautiful marshlands, Tybee offers sandy beaches and a relaxing coastal escape whenever the mood strikes. Of course, with sweeping river views and one of Savannah's most sought-after waterfront locations, you may find it hard to leave Riverview Terrace for long.
+
+Guest access
+Occupancy: 4
+
+
+
+Full kitchen
+
+Breakfast bar
+
+Dining table 
+
+Sleeping accommodations include king beds
+
+Full bathrooms: 4
+
+Washer/dryer
+
+Special amenities: Amazing views of the Savannah River, private balconies overlooking River Street, walking distance to restaurants, boutiques, and museums
+
+Parking: Private parking for up to 2 vehicles (depending on vehicle size)
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+SVR-02821
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Family
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free parking on premises
+Pool
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+River Views, Private Balcony, Heated Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 1 bedroom · 1 bed · 1 bath
+Rated 4.81 out of 5 stars.
+4.81
+·
+27 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+On River Street in the Historic District
+Right on River Street, steps from Ellis Square and about a 5-min walk to Johnson Square
+Riverfront loft with exposed brick
+A loft-style space with exposed brick, soaring ceilings, and a private terrace overlooking the river
+Loved for location and river views
+Guests highlight the walkability, river views, and how spacious the home feels in person
+Riverview Terrace is a spacious loft-style home designed to comfortably accommodate up to four guests. This well appointed riverfront retreat stands out for its open layout, high-end finishes, and incredible location. Situated within a historic brick building overlooking the Savannah River, this sought-after property places guests in the heart of everything the Historic District has to offer. And yes, the private terrace offers beautiful views of River Street and the river beyond.
+
+The space
+Step into a brick-encrusted loft filled with natural light from a row of windows overlooking Savannah's famed River Street. This expansive open-concept living space features an oversized L-shaped couch centered around a stunning antique brick fireplace. Just steps away, the full-sized gourmet kitchen is equipped with stainless steel appliances, including a refrigerator, stove, microwave, and dishwasher. Start your morning with a fresh cup of coffee from the single-cup coffee maker before gathering around the granite-topped island with seating for four. Industrial-inspired details, soaring ceilings with exposed pipes, and elegant crystal chandeliers create a space that feels both sophisticated and inviting. In addition to a dining table for four, the kitchen island provides seating for four more, making it a wonderful place to enjoy meals or simply spend time together.
+
+
+
+The thoughtfully designed interior includes comfortable sleeping accommodations, luxurious king beds, and four beautifully appointed full bathrooms. Tasteful finishes and spa-inspired tiled walk-in showers create a relaxing retreat after a day of exploring Savannah.
+
+
+
+Riverview Terrace has a whimsical charm that makes it feel like a destination all its own. The home includes a full-sized washer and dryer tucked within a convenient laundry nook, as well as private parking for up to two vehicles. Additional amenities include air conditioning, heat, Wi-Fi, and cable. What truly sets this home apart is its private balconies overlooking River Street, where guests can step outside and enjoy views of the Savannah River while taking in the energy and history of one of the city's most iconic destinations. From here, you'll be within walking distance of many of Savannah's best restaurants, boutiques, museums, and attractions. It's also easy to hop aboard the Savannah Belles Ferry for a scenic ride across the river to Hutchinson Island.
+
+
+
+While River Street beckons just outside your door, the surrounding Historic District offers even more to explore. Riverview Terrace places guests within easy reach of Savannah's renowned shopping, sightseeing, dining, and legendary haunted attractions. Wander beneath the city's famous oak canopies while discovering historic squares, beautiful architecture, and charming hidden courtyards. The Historic District is easily explored on foot, by bicycle, trolley, carriage, or guided bus tour.
+
+
+
+Other must-see attractions include Forsyth Park, the Cathedral Basilica of St. John the Baptist, Bonaventure Cemetery, The Olde Pink House, the American Prohibition Museum, and countless other local favorites. For those looking to venture a little farther, Wormsloe Historic Site, Old Fort Jackson, and Skidaway Island State Park are all within easy driving distance. After dark, Savannah's famous ghost tours reveal another side of the city's rich history. Throughout the year, visitors can also enjoy signature events including the Savannah Irish Festival, Seafood Fest on the River, the Historic Savannah Foundation Preservation Festival, the Savannah Music Festival, the North of Gaston Street Tour of Hidden Gardens, and the Blessing of the Fleet. With its premier waterfront location, Riverview Terrace offers exceptional access to many of the city's most celebrated events and festivals.
+
+
+
+Guests staying with Southern Belle Vacation Rentals also enjoy exclusive access to a resort-style pool on Tybee Island. Just a scenic 25-minute drive through Georgia's beautiful marshlands, Tybee offers sandy beaches and a relaxing coastal escape whenever the mood strikes. Of course, with sweeping river views and one of Savannah's most sought-after waterfront locations, you may find it hard to leave Riverview Terrace for long.
+
+Guest access
+Occupancy: 4
+
+
+
+Full kitchen
+
+Breakfast bar
+
+Dining table 
+
+Sleeping accommodations include king beds
+
+Full bathrooms: 4
+
+Washer/dryer
+
+Special amenities: Amazing views of the Savannah River, private balconies overlooking River Street, walking distance to restaurants, boutiques, and museums
+
+Parking: Private parking for up to 2 vehicles (depending on vehicle size)
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+SVR-02821
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Waterfront
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.81 out of 5 stars from 27 reviews
+4.81 · 27 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 85% of reviews
+5
+4 stars, 11% of reviews
+4
+3 stars, 4% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+River
+7
+Location
+22
+View
+10
+Walkability
+7
+Indoor spaces
+9
+Parking
+4
+Hospitality
+6
+Nearby
+5
+Bathroom
+4
+Sleep quality
+4
+Anna
+Palmetto, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Nice place with views! Liked seeing the cargo boats going by. Everything is walking distance. Hoast was friendly and attentive.
+Caron
+Augusta, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Great location and the host could not have been more pleasant or responsive. Highly recommend!
+Ann
+East Berlin, Pennsylvania
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+The location was perfect for our five day girls getaway. Close to everything we wanted to do and certainly very walkable. We loved watching the barges on the Savannah River from our balconies.  
+The four bedrooms with king size beds and four full size bathrooms was just what our group of 5 women needed.  The living room setup was great. We never ran out of hot water for showers and water pressure was excellent.  Trolley stop on Riverwalk was very convenient.  Many nearby restaurants to choose from. Very responsive host.
+Highly recommend.  Would stay here again.
+Show more
+Christi
+Star, Idaho
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Perfect location
+Leah
+Lexington, South Carolina
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Group trip
+Excellent air bnb! We absolutely loved it. The location could not be better.
+Melissa
+Baltimore, Maryland
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Group trip
+This condo was the perfect retreat for a girls/moms weekend. The living quarters were charming, clean and spacious with beautiful views of the river and steps away from restaurants, shopping and entertainment.  We particularly enjoyed multiple bathrooms and relaxing on the huge couch during a rainy day. The host was responsive from the time of booking to departure. We’d love to travel back to Savannah and would definitely stay here again!
+Show more
+Show all 27 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+Waterfront vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Vacation rentals with a pool in Chatham County
+Waterfront vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Vacation rentals with a pool in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,460 @@
+URL: https://www.airbnb.com/rooms/1670460204430401882
+Title: Spacious Modern Apt| 2BD/2BA| Near Forsyth Park
+Latitude: 32.06417045077921
+Longitude: -81.10011895103692
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This is wonderful space for families or small groups traveling to Savannah. Enjoy a spacious 2BR/2BA garden-level apartment located in the Victorian District. Thoughtfully designed with a comfortable layout, fully equipped kitchen, and inviting living space. Walk to Forsyth Park, restaurants, and shops while enjoying a relaxed, local Savannah stay
+
+The space
+Welcome to your Savannah home away from home, this beautifully designed new construction, garden-level apartment offers the perfect blend of space, comfort, and location in the heart of the Historic Districts.
+
+Thoughtfully laid out with two bedrooms and two full bathrooms, this home is ideal for couples, families, or friends traveling together. Each bedroom provides a comfortable, private retreat, while the open living space invites you to relax, gather, and unwind after a day exploring the city.
+
+The fully equipped kitchen and eat-in kitchen area make it easy to enjoy meals at home, while the living room offers a welcoming space to settle in. Designed with a balance of charm and simplicity, the apartment feels both elevated and easy to live in.
+
+Step outside and you’re just a short walk to Forsyth Park, where you can enjoy morning walks beneath the oaks, weekend markets, and one of Savannah’s most iconic landmarks. From there, continue exploring the Historic District’s restaurants, coffee shops, boutiques, and beautiful squares.
+
+Whether you’re here for a weekend getaway or an extended stay, this garden apartment offers a comfortable and convenient home base to experience Savannah like a local.
+
+We can’t wait to host you!
+
+SVR-03090
+
+Guest access
+Guests will have full access to the ground level apartment.There is a small front patio that is also available for guest use.
+
+Other things to note
+Please note this is a ground level apartment situated below the main home. The main home is also used as a vacation rental and you may hear people above walking around from time to time. As with many homes in Savannah’s Historic District, you may occasionally experience normal city sounds (road noise, emergency vehicles, sirens, trains, ship horns, trash trucks, neighbors, etc). Street parking is available nearby but not guaranteed. We recommend reviewing all listing details prior to booking and reaching out with any questions you may have.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Not included
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Spacious Modern Apt| 2BD/2BA| Near Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+13 reviews
+13
+Reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+In Savannah's Victorian District
+About a 5-min walk to Forsyth Park, with restaurants, coffee shops, and squares nearby
+Full kitchen with dishwasher
+A fully equipped kitchen with a dishwasher, making it easy to cook and clean up at home
+Alyssa is a standout host
+Guests praise Alyssa's responsiveness and thoughtful touches like coffee, tea, and a local guide
+This is wonderful space for families or small groups traveling to Savannah. Enjoy a spacious 2BR/2BA garden-level apartment located in the Victorian District. Thoughtfully designed with a comfortable layout, fully equipped kitchen, and inviting living space. Walk to Forsyth Park, restaurants, and shops while enjoying a relaxed, local Savannah stay
+
+The space
+Welcome to your Savannah home away from home, this beautifully designed new construction, garden-level apartment offers the perfect blend of space, comfort, and location in the heart of the Historic Districts.
+
+Thoughtfully laid out with two bedrooms and two full bathrooms, this home is ideal for couples, families, or friends traveling together. Each bedroom provides a comfortable, private retreat, while the open living space invites you to relax, gather, and unwind after a day exploring the city.
+
+The fully equipped kitchen and eat-in kitchen area make it easy to enjoy meals at home, while the living room offers a welcoming space to settle in. Designed with a balance of charm and simplicity, the apartment feels both elevated and easy to live in.
+
+Step outside and you’re just a short walk to Forsyth Park, where you can enjoy morning walks beneath the oaks, weekend markets, and one of Savannah’s most iconic landmarks. From there, continue exploring the Historic District’s restaurants, coffee shops, boutiques, and beautiful squares.
+
+Whether you’re here for a weekend getaway or an extended stay, this garden apartment offers a comfortable and convenient home base to experience Savannah like a local.
+
+We can’t wait to host you!
+
+SVR-03090
+
+Guest access
+Guests will have full access to the ground level apartment.There is a small front patio that is also available for guest use.
+
+Other things to note
+Please note this is a ground level apartment situated below the main home. The main home is also used as a vacation rental and you may hear people above walking around from time to time. As with many homes in Savannah’s Historic District, you may occasionally experience normal city sounds (road noise, emergency vehicles, sirens, trains, ship horns, trash trucks, neighbors, etc). Street parking is available nearby but not guaranteed. We recommend reviewing all listing details prior to booking and reaching out with any questions you may have.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 38 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 13 reviews.
+4.92
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.5 out of 5 stars for location
+Location
+4.5
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+4
+Comfort
+6
+Nearby
+5
+Hospitality
+7
+Cleanliness
+5
+Location
+5
+Sleep quality
+3
+Family
+2
+Condition
+2
+Autumn
+Chattanooga, Tennessee
+Rating, 5 stars
+,
+·
+Today
+,
+·
+Stayed a few nights
+Me and daughter had a great time ! Such a beautiful home to come back to after a long day of walking around and shopping! Super clean and spacious home with plenty of room for us ! Alyssa was super helpful with any recommendations for restaurants and about which ghost tour we should do ! Would highly recommend!!
+Show more
+Krysta
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+This was a great find! Alyssa was super helpful and the apartment was very clean and roomy. Beds were comfortable and stocked with extra linens and blankets. The kitchen was well stocked with pots, pans, utensils, etc., but there were no essentials like basic seasonings, foil, plastic wrap, etc. So my only note would be to be sure you bring that stuff with you. Overall great stay!
+Show more
+Melody
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+This place was great. It had everything you would need. It was clean, up to date, and clutter free making our stay that more relaxing. It was located in a good area to walk to places. I recommend staying here.
+Show more
+Jenn
+Brooklyn, Connecticut
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We loved our time at this location! Alyssa was very responsive from booking! We picked this Airbnb based on our location preferences and it did not disappoint! 
+We have friends who play for the Savannah Bananas so we have been driving down from CT often to see them.
+We prefer to walk when in Savannah so we can soak up the views of the city. We walked every night to the Plant Riverside District, the Waterfront, and the games at Grayson Stadium. 
+Alyssa had a great binder awaiting us for property information as well as suggestions of things to do around Savannah. Even though we have been to the city quite a few times now her suggestions were very helpful and helped us find some fun new places that hadn’t been on our radar yet. 
+Would definitely stay here again if it is available on our next trip!
+Show more
+Cielo
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had a great stay at Alyssa’s air bnb! It was extremely clean and well taken care of. I felt very comfortable in the home. There are some cute walkable restaurants/bars/breweries nearby. Alyssa was also very responsive and helpful, even though it was late, when we couldn’t figure out the WiFi.
+Show more
+Robert
+7 years on Airbnb
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed about a week
+Alyssa is great, the area is in need of more revitalization. But we chose the area based on close proximity to our work project.
+Show all 13 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Located on West Anderson Street, this home is perfectly positioned on the edge of Savannah’s Historic District, offering an ideal blend of local charm and walkability. Just a short stroll from Forsyth Park, one of the city’s most iconic attractions. Enjoy a stroll through the infamous Savannah Farmers Markets on Saturday mornings. You’ll also find yourself within easy reach of coffee shops, restaurants, and boutiques. The neighborhood is more of a residential feel, while still keeping you close to the beauty, history, and energy that embody Savannah.
+Show more
+Meet your host
+Alyssa
+Superhost
+1,511 reviews
+1511
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

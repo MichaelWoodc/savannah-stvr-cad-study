@@ -1,0 +1,554 @@
+URL: https://www.airbnb.com/rooms/1506720574575337549
+Title: Five-Bedroom Five Bath Historic Forsyth Park Home
+Latitude: 32.0651
+Longitude: -81.0955
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Spencer And Xavi
+Host ID: 194663471
+Host profile ID: 1469014375825047787
+Host URL: https://www.airbnb.com/users/profile/1469014375825047787
+Bedrooms: 5
+Occupancy (maximum guests): 12
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 6
+
+Bed-count verification: matched
+
+Bedroom 1
+2 small double beds
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 double bed
+
+Bedroom 4
+1 double bed
+
+Bedroom 5
+1 king bed
+
+Living room
+1 couch
+
+=== FULL DESCRIPTION ===
+Under new management as of fall 2025, this historic Savannah home has been fully renovated in the summer of 2025  and professionally redesigned with all-new furnishings, upgraded HVAC and insulation, refreshed millwork, lighting, paint, and décor. Featuring five bedrooms, four bathrooms, and a balcony overlooking Forsyth Park, it blends modern comfort with timeless charm. Managed by Verdant House, a local Superhost team known for design and hospitality excellence. 
+
+SVR-01722
+
+The space
+This is a large stand-alone home! It's a 5-bedroom, 7 beds plus a queen size sofa bed pull-out, and 5-bathroom beauty with multiple sprawling porches and a balcony with views of Forsyth Park. Also, 3 out of 5 of our bedrooms have ensuite bathrooms. The house is recently fully renovated and features an open living area with a kitchen that is fully stocked. This beautiful place, which is right on the shuttle route, will be your perfect home away from home in historic downtown Savannah.
+
+The house is large and right off of Forsyth Park. The living space has a sectional couch with an open floor plan. The kitchen is fully stocked.
+
+Forsyth Park is right around the corner. There are amazing restaurants, coffee shops, and grocery stores very close by.
+
+The house is right on the route of the free shuttle.
+
+
+SVR01722
+
+Guest access
+Property includes: 
+
+1) We provide 2 parking spots in the back of the home. There is free street parking in front of the house. 
+2) High Chair 
+3) Pack n' Play 
+4) Sheets, towels, and washcloths
+5) Barbecue Grill
+
+*******
+First Floor: 4 bedrooms and 3 bathrooms
+
+Bedroom 1: 1 Twin Trundle with Ensuite Bathroom
+Bedroom 2: King Bed with Ensuite Bathroom
+Bedroom 3: Full Bed
+Bedroom 4: Full Bed
+
+1 Bathroom (shared) with Bedrooms 3 and 4
+
+Second Floor:
+
+Bedroom 5 (Master Bedroom): King Bed with Ensuite Bathroom
+
+Full Kitchen
+Living Room
+Half Bathroom
+
+Other things to note
+All bookings are subject to a 13% Savannah motel and sales tax, which will be included in the price per night.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib
+High chair
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a private space with an ergonomic chair
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Self check-in
+Smart lock
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Five-Bedroom Five Bath Historic Forsyth Park Home
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+12 guests · 5 bedrooms · 6 beds · 4.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.91 out of 5 stars.
+4.91
+32 reviews
+32
+Reviews
+Hosted by Spencer And Xavi
+Superhost · 8 years hosting
+Listing highlights
+In historic Savannah, on Forsyth Park
+Steps from Forsyth Park, with Savannah's Victorian Historic District about a 5-min walk away
+Renovated home with open living space
+An open kitchen, living, and dining area with a fully stocked kitchen and multiple porches
+Beautifully restored and well reviewed
+Guests highlight the beautiful renovation, comfortable rooms, and walkable location
+Under new management as of fall 2025, this historic Savannah home has been fully renovated in the summer of 2025  and professionally redesigned with all-new furnishings, upgraded HVAC and insulation, refreshed millwork, lighting, paint, and décor. Featuring five bedrooms, four bathrooms, and a balcony overlooking Forsyth Park, it blends modern comfort with timeless charm. Managed by Verdant House, a local Superhost team known for design and hospitality excellence. 
+
+SVR-01722
+
+The space
+This is a large stand-alone home! It's a 5-bedroom, 7 beds plus a queen size sofa bed pull-out, and 5-bathroom beauty with multiple sprawling porches and a balcony with views of Forsyth Park. Also, 3 out of 5 of our bedrooms have ensuite bathrooms. The house is recently fully renovated and features an open living area with a kitchen that is fully stocked. This beautiful place, which is right on the shuttle route, will be your perfect home away from home in historic downtown Savannah.
+
+The house is large and right off of Forsyth Park. The living space has a sectional couch with an open floor plan. The kitchen is fully stocked.
+
+Forsyth Park is right around the corner. There are amazing restaurants, coffee shops, and grocery stores very close by.
+
+The house is right on the route of the free shuttle.
+
+
+SVR01722
+
+Guest access
+Property includes: 
+
+1) We provide 2 parking spots in the back of the home. There is free street parking in front of the house. 
+2) High Chair 
+3) Pack n' Play 
+4) Sheets, towels, and washcloths
+5) Barbecue Grill
+
+*******
+First Floor: 4 bedrooms and 3 bathrooms
+
+Bedroom 1: 1 Twin Trundle with Ensuite Bathroom
+Bedroom 2: King Bed with Ensuite Bathroom
+Bedroom 3: Full Bed
+Bedroom 4: Full Bed
+
+1 Bathroom (shared) with Bedrooms 3 and 4
+
+Second Floor:
+
+Bedroom 5 (Master Bedroom): King Bed with Ensuite Bathroom
+
+Full Kitchen
+Living Room
+Half Bathroom
+
+Other things to note
+All bookings are subject to a 13% Savannah motel and sales tax, which will be included in the price per night.
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 6 | Count verified
+
+Bedroom 1
+2 small double beds
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 double bed
+
+Bedroom 4
+1 double bed
+
+Bedroom 5
+1 king bed
+
+Living room
+1 couch
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Show all 56 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.91 out of 5 from 32 reviews.
+4.91
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 94% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Parks
+5
+Location
+16
+Walkability
+10
+Indoor spaces
+8
+Comfort
+8
+Decor
+7
+Nearby
+6
+Hospitality
+5
+Family
+4
+Amenities
+4
+Pam
+Neenah, Wisconsin
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Group trip
+Our group of 6 women enjoyed the property! Great location, comfy furniture and beds/linens and kitchen!
+Marla
+Jackson, Tennessee
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Our group of five women enjoyed staying at this renovated home. It’s spacious with enough space for everyone!!  Only three blocks from a trolley stop, right next to the park, and close to a coffee shop, it is in a nice location. The home was well appointed with everything we needed.
+Show more
+Lindsey
+Clermont, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+After an unexpected issue with a previous AirBNB Xavi and the team quickly responded to a message when I requested to book them extremely last minute. From start to  finish their communication was great. House was perfect for our mother/daughter weekend. Lots of space and very clean. We will definitely consider rebooking when we return.
+Show more
+Chris
+Tampa, Florida
+Rating, 3 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Everything was as described as the unit is beautiful and spacious.   Unfortunately we visited Savannah in July during a heat wave and the unit was 78 degrees upstairs and 74 degrees downstairs upon arrival even though the temp was set to 69 degrees when we got there.  We told the host and they basically said this was how the unit was and there wasn’t much that could be done.   We went out to eat and returned late (after 11pm) and the temp had only dropped 1 degree to 78 degrees.  The hosts obviously did not respond at that hour, so we were forced to sleep in that heat.  When you pay thousands of dollars for an AirBnB, you expect near perfection and this place fell short because of the temperature and how our concerns were dismissed.   There’s clearly something wrong this the HVAC unit, so I can’t recommend staying here.
+Show more
+Nancy
+Orlando, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Because I was traveling so far and meeting seven other (7) friends traveling from other states, Spencer and Xavi were very receptive to our needs getting into their house. Communication was always immediate.
+Show more
+Kelly
+Charleston, South Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Great space! Wonderful location! Highly recommend.
+Show all 32 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Spencer And Xavi
+Superhost
+1,010 reviews
+1010
+Reviews
+4.72 out of 5 average rating
+4.72
+Rating
+8 years of hosting
+8
+Years hosting
+Spencer And Xavi is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+David
+Chaley
+Jacob
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 11:00 AM
+12 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

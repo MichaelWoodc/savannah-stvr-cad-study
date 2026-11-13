@@ -1,0 +1,546 @@
+URL: https://www.airbnb.com/rooms/1376915081585059540
+Title: Historic Darling Home w/ Hot Tub near Forsyth
+Latitude: 32.060370652471185
+Longitude: -81.09204140882741
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Robby With BRB Properties Inc
+Host ID: 492878580
+Host profile ID: 1470219245812714526
+Host URL: https://www.airbnb.com/users/profile/1470219245812714526
+Bedrooms: 7
+Occupancy (maximum guests): 16
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 15
+
+Beds enumerated in room tiles: 12
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed, 1 single bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 queen bed
+
+Bedroom 5
+2 bunk beds
+
+Bedroom 6
+1 queen bed, 2 bunk beds
+
+Bedroom 7
+1 queen bed
+
+Living room
+1 air mattress
+
+=== FULL DESCRIPTION ===
+SVR-03131
+Welcome to The Darling House (est. 1900), a newly remodeled historic Victorian retreat in Savannah’s sought-after Victorian District, perfect for families + groups. Just blocks from dog-friendly, Forsyth Park and surrounded by local diners, cafes, restaurants, and bars, this spacious home puts the city at your doorstep. Relax in the private hot tub to elevate your stay! Hop on the free DOT trolley for a quick ride to River Street and Plant Riverside.  Welcome home to a Savannah Classic
+
+The space
+Welcome to The Darling House (est. 1900) — a beautifully restored Victorian retreat nestled in Savannah’s iconic Victorian District, where historic charm meets modern luxury. Designed with families, groups, and memory-making in mind, this spacious home offers the perfect blend of timeless architecture and elevated comfort just moments from the heart of the city.
+
+Boasting a stunning all-oak bunk room and dramatic ceiling-to-floor historic windows, the home is filled with natural light and architectural beauty. Each spacious bedroom is thoughtfully designed and can easily be treated as a private master retreat, offering comfort, style, and flexibility for every guest. The fully renovated bathrooms introduce a clean, modern flair that perfectly complements the home’s historic character—bridging old Savannah charm with a fresh, elevated aesthetic.
+
+Step outside and you’re within a short stroll of Forsyth Park, Savannah’s most beloved landmark, known for its famous fountain, shaded walking paths, weekend farmers markets, and dog-friendly green space. From morning coffee walks beneath moss-draped oaks to sunset strolls through historic squares, the location simply can’t be beat.
+
+Inside, you’ll find thoughtfully updated interiors that preserve the home’s original character while delivering a true 5-star experience. High ceilings, classic details, and curated design elements create a warm, inviting atmosphere, while modern upgrades ensure comfort for every guest. Whether you're getting ready for a wedding, hosting a girls’ getaway, or traveling with family, this home is designed to accommodate and impress.
+
+After a day exploring Savannah, unwind in your private hot tub, the perfect way to relax and recharge. This added luxury sets The Darling House apart—giving you a true retreat experience right at home.  Here we treat our neighbors like family so if you feel like floating back in time, you are welcome to continue your evening inside as you unwind.
+
+Food lovers will appreciate being surrounded by some of Savannah’s most sought-after dining destinations. Enjoy brunch at Collins Quarter at Forsyth, grab Southern comfort food at Mrs. Wilkes Dining Room, sip craft cocktails at Artillery Bar, or explore the vibrant food scene in the nearby Starland District, home to favorites like Starland Yard, Two Tides Brewing Co., and eclectic local eateries. Coffee shops, bakeries, and late-night spots are all within easy reach, making every craving convenient.
+
+For sightseeing, you’re just minutes from Historic Downtown Savannah, River Street, and Plant Riverside District, all easily accessible via the free DOT trolley, giving you effortless access to shopping, nightlife, rooftop bars, live music, and waterfront views without needing a car.
+
+This location is ideal for guests looking to fully immerse themselves in Savannah’s charm—whether you're here for a wedding, SCAD visit, bachelorette trip, family vacation, or simply a relaxing escape.
+
+At The Darling House, every detail has been considered to create a seamless, elevated stay—from the historic setting to the modern comforts and premium amenities.
+
+Welcome home to a classic Savannah stay—reimagined.
+
+Guest access
+We are self-check-in, you will receive door codes at check-in time to let yourself in as you please.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV
+Game console
+Arcade games
+Books and reading material
+Life size games
+Family
+Crib - available upon request
+Pack ’n play/Travel crib - available upon request
+Children’s books and toys
+High chair - available upon request
+Outlet covers
+Board games
+Babysitter recommendations
+Heating and cooling
+Air conditioning
+Indoor fireplace
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Paid resort access
+Guests can use nearby resort facilities
+Outdoor
+Private patio or balcony
+Private backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Beach essentials
+Beach gear such as towels, chairs, and an umbrella
+Parking and facilities
+Free parking on premises
+Free street parking
+Hot tub
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Housekeeping - available at extra cost
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Darling Home w/ Hot Tub near Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+16+ guests · 7 bedrooms · 15 beds · 3 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+37 reviews
+37
+Reviews
+Hosted by Robby With BRB Properties Inc
+Superhost · 4 years hosting
+Listing highlights
+In Savannah's Victorian District
+About a 10-min walk to Forsyth Park, with cafes and the Starland District nearby
+Private backyard with a hot tub
+A private hot tub and fenced backyard with outdoor seating and a patio for unwinding after a day out
+Robby is a standout host
+Guests consistently praise Robby for quick responses and thoughtful touches like welcome snacks
+SVR-03131
+Welcome to The Darling House (est. 1900), a newly remodeled historic Victorian retreat in Savannah’s sought-after Victorian District, perfect for families + groups. Just blocks from dog-friendly, Forsyth Park and surrounded by local diners, cafes, restaurants, and bars, this spacious home puts the city at your doorstep. Relax in the private hot tub to elevate your stay! Hop on the free DOT trolley for a quick ride to River Street and Plant Riverside.  Welcome home to a Savannah Classic
+
+The space
+Welcome to The Darling House (est. 1900) — a beautifully restored Victorian retreat nestled in Savannah’s iconic Victorian District, where historic charm meets modern luxury. Designed with families, groups, and memory-making in mind, this spacious home offers the perfect blend of timeless architecture and elevated comfort just moments from the heart of the city.
+
+Boasting a stunning all-oak bunk room and dramatic ceiling-to-floor historic windows, the home is filled with natural light and architectural beauty. Each spacious bedroom is thoughtfully designed and can easily be treated as a private master retreat, offering comfort, style, and flexibility for every guest. The fully renovated bathrooms introduce a clean, modern flair that perfectly complements the home’s historic character—bridging old Savannah charm with a fresh, elevated aesthetic.
+
+Step outside and you’re within a short stroll of Forsyth Park, Savannah’s most beloved landmark, known for its famous fountain, shaded walking paths, weekend farmers markets, and dog-friendly green space. From morning coffee walks beneath moss-draped oaks to sunset strolls through historic squares, the location simply can’t be beat.
+
+Inside, you’ll find thoughtfully updated interiors that preserve the home’s original character while delivering a true 5-star experience. High ceilings, classic details, and curated design elements create a warm, inviting atmosphere, while modern upgrades ensure comfort for every guest. Whether you're getting ready for a wedding, hosting a girls’ getaway, or traveling with family, this home is designed to accommodate and impress.
+
+After a day exploring Savannah, unwind in your private hot tub, the perfect way to relax and recharge. This added luxury sets The Darling House apart—giving you a true retreat experience right at home.  Here we treat our neighbors like family so if you feel like floating back in time, you are welcome to continue your evening inside as you unwind.
+
+Food lovers will appreciate being surrounded by some of Savannah’s most sought-after dining destinations. Enjoy brunch at Collins Quarter at Forsyth, grab Southern comfort food at Mrs. Wilkes Dining Room, sip craft cocktails at Artillery Bar, or explore the vibrant food scene in the nearby Starland District, home to favorites like Starland Yard, Two Tides Brewing Co., and eclectic local eateries. Coffee shops, bakeries, and late-night spots are all within easy reach, making every craving convenient.
+
+For sightseeing, you’re just minutes from Historic Downtown Savannah, River Street, and Plant Riverside District, all easily accessible via the free DOT trolley, giving you effortless access to shopping, nightlife, rooftop bars, live music, and waterfront views without needing a car.
+
+This location is ideal for guests looking to fully immerse themselves in Savannah’s charm—whether you're here for a wedding, SCAD visit, bachelorette trip, family vacation, or simply a relaxing escape.
+
+At The Darling House, every detail has been considered to create a seamless, elevated stay—from the historic setting to the modern comforts and premium amenities.
+
+Welcome home to a classic Savannah stay—reimagined.
+
+Guest access
+We are self-check-in, you will receive door codes at check-in time to let yourself in as you please.
+Show more
+All sleeping arrangements
+
+Advertised beds: 15 | Enumerated: 12 | Count unverified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed, 1 single bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 queen bed
+
+Bedroom 5
+2 bunk beds
+
+Bedroom 6
+1 queen bed, 2 bunk beds
+
+Bedroom 7
+1 queen bed
+
+Living room
+1 air mattress
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Hot tub
+Pets allowed
+TV
+Washer
+Free dryer – In unit
+Air conditioning
+Show all 74 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 37 reviews.
+4.92
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Hospitality
+24
+Indoor spaces
+10
+Parking
+5
+Walkability
+4
+Location
+9
+Sleep quality
+6
+Checkout
+2
+Hot tub
+3
+Family
+3
+Cleanliness
+6
+Kate
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Group trip
+Perfect place to stay for bachelorette trip! We had so much fun!
+Tyler
+6 months on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Hosted 16 people for a joint bachelor/bachelorette trip, and this was a great place to stay! Plenty of bedroom space, though the central living room isn't that big--there's more than enough seating, but a very small coffee table. It worked out fine for us, but if you're playing games or need a table for eating, bring a card table or two!
+Show more
+Olivia
+Sidney, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+We had my fiancé and I bachelorette and bachelor party here and we easily fit 14 people in the house! It was walkable to everything we wanted to do! Robby was very responsive and communicated with us on any issues we had. The only minor complaint we would have is there was no beach towels and chairs like stated in the description.
+Show more
+Natalie
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Great place to stay in a great location near everything! Very responsive host and lots of room!
+Nycole
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Group trip
+Amazing stay thank you
+Show more
+Meredith
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Robby was such a great host, very responsive and house is perfect!
+Show all 37 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Robby With BRB Properties Inc
+Superhost
+300 reviews
+300
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+4 years of hosting
+4
+Years hosting
+Robby With BRB Properties Inc is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+Pets allowed
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

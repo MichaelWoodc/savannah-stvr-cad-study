@@ -1,0 +1,455 @@
+URL: https://www.airbnb.com/rooms/22447677
+Title: Historic Row Home Across from Forsyth Park
+Latitude: 32.0665
+Longitude: -81.098
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This beautiful second floor townhome has everything you'll need to feel like a true Savannah local. This home features a remodeled kitchen, historic architectural details, and front door access to our city's most beautiful park.
+
+The space
+This beautiful second floor townhome has everything you'll need to feel like a true Savannah local. This amazing home will meet the needs of 4 Lucky guests. You’ll enjoy front door access to Forsyth Park, Savannah’s largest park and popular location for weddings, music and food festivals. 
+
+Enjoy a little “me time” curled up on the couch with a good book, or catching up on your favorite shows. The living room is complete with a Queen size pull-out sofa bed, a 37" flat screen tv and DVD player - plus a bonus library of DVDs for your enjoyment. The bedroom has an additional seating area to enjoy people watching, reading a book, or just enjoying the 50” television. When it’s time to get some shut-eye, slip between the sheets of the luxurious King sized bed. Come morning, you’ll be ready for a whole new day of exploring Historic Savannah.
+
+Start your day of exploration with a walk across Forsyth Park to nearby Sentient Bean for coffee and a scone. Afterwards, head to Monterey Square for some antique shopping at Alex Raskin Antiques, or a tour at the infamous Mercer-Williams House. Whether you're in town for a quick business trip, a romantic retreat, or a longer stay with family, the Delia Row Townhome is the perfect choice! For larger parties, consider adding one of our other 1 bedroom homes located in the same building!  
+ 
+Why Lucky Savannah Loves this Property:
+The bay window in the bedroom is an ideal spot to people watch or curl up with a book. 
+There is plenty of non-metered parking surrounding the home, so there's no need to park in a garage or pay parking meters! 
+The whole home has a free wi-fi network, so whether you're surfing the internet or watching a movie, we've got you covered.
+
+What is parking like for this home?
+Savannah’s historic buildings, squares, and streets have been beautifully preserved through the dedicated efforts of the Historic Savannah Foundation. Founded before the invention of the automobile, parking can be limited. 
+
+Non-metered Parking
+This unit has free, on-street parking right outside the front door. Availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Living Room: Queen Sleeper Sofa
+
+SVR-00611
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Row Home Across from Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.82 out of 5 stars.
+4.82
+·
+11 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah, right on Forsyth Park
+Steps from Forsyth Park, with Monterey Square and the Victorian Historic District about a 10-min walk
+Remodeled kitchen with full appliances
+A remodeled kitchen with a full-size oven, dishwasher, and coffee maker for cooking on your own terms
+Clean, charming, and well-located
+All five reviews praise the cleanliness and location, with guests noting the charming historic character
+This beautiful second floor townhome has everything you'll need to feel like a true Savannah local. This home features a remodeled kitchen, historic architectural details, and front door access to our city's most beautiful park.
+
+The space
+This beautiful second floor townhome has everything you'll need to feel like a true Savannah local. This amazing home will meet the needs of 4 Lucky guests. You’ll enjoy front door access to Forsyth Park, Savannah’s largest park and popular location for weddings, music and food festivals. 
+
+Enjoy a little “me time” curled up on the couch with a good book, or catching up on your favorite shows. The living room is complete with a Queen size pull-out sofa bed, a 37" flat screen tv and DVD player - plus a bonus library of DVDs for your enjoyment. The bedroom has an additional seating area to enjoy people watching, reading a book, or just enjoying the 50” television. When it’s time to get some shut-eye, slip between the sheets of the luxurious King sized bed. Come morning, you’ll be ready for a whole new day of exploring Historic Savannah.
+
+Start your day of exploration with a walk across Forsyth Park to nearby Sentient Bean for coffee and a scone. Afterwards, head to Monterey Square for some antique shopping at Alex Raskin Antiques, or a tour at the infamous Mercer-Williams House. Whether you're in town for a quick business trip, a romantic retreat, or a longer stay with family, the Delia Row Townhome is the perfect choice! For larger parties, consider adding one of our other 1 bedroom homes located in the same building!  
+ 
+Why Lucky Savannah Loves this Property:
+The bay window in the bedroom is an ideal spot to people watch or curl up with a book. 
+There is plenty of non-metered parking surrounding the home, so there's no need to park in a garage or pay parking meters! 
+The whole home has a free wi-fi network, so whether you're surfing the internet or watching a movie, we've got you covered.
+
+What is parking like for this home?
+Savannah’s historic buildings, squares, and streets have been beautifully preserved through the dedicated efforts of the Historic Savannah Foundation. Founded before the invention of the automobile, parking can be limited. 
+
+Non-metered Parking
+This unit has free, on-street parking right outside the front door. Availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Living Room: Queen Sleeper Sofa
+
+SVR-00611
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.82 out of 5 stars from 11 reviews
+4.82 · 11 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 82% of reviews
+5
+4 stars, 18% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Parks
+3
+Location
+9
+Parking
+3
+Cleanliness
+5
+Walkability
+3
+Condition
+4
+Hospitality
+5
+Comfort
+3
+Access
+2
+Nearby
+2
+Melissa
+Whitehouse, Texas
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+The location of this property is everything!!  Being right on the park with a yummy local coffee shop around the corner was perfection.  
+The house was clean and comfortable. Bed was comfortable and water pressure was good. Parking is on the side street and easy to access. Pack light however if you have the upstairs unit. It’s a short jaunt around the corner and then up a lot of stairs!!!  
+Everything was just as described and after AirBBing I’m not sure I ever want to stay in a hotel again.
+Show more
+Polly
+Waitsfield, Vermont
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+We loved our stay! The place was clean, charming and had everything we needed. Wonderful location, we walked all over Savannah. The service with Lucky Savanah was friendly and professional. We would definitely use their service again.
+Show more
+Steve
+Homewood, Illinois
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+I actually tried to open the wrong row house door. My mistake. Called the company and they had a 24 hour rep. “Janet”. Who could not have been any nicer and patient in guiding me through my error. Once inside it was easy peasy.
+Only issues were the back porch light was out (need to replace), and the shower head was a little loose.  The rest was a beautiful blend of old historic charm and clean newer touches. Very relaxing to come home to at the end of the day. Plenty of street parking on the side streets.
+Show more
+Igor
+Knoxville, Tennessee
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Stayed a few nights
+Great location, very clean, had everything needed, provided extra linens and towels. The unit is old... just like the rest of the city... but well taken care of. We enjoyed our stay.
+Show more
+Aaron
+Florence, Alabama
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Stayed a few nights
+We had such a great stay! Easy access and plenty to do nearby. We were happy to be a bit away from the heart of downtown because we like it a little quieter; this area was perfect! Still very walkable but a little slower paced so we could actually enjoy the beautiful Savannah scenery. The views each morning from the room were amazing as well, and the park across the street was a great place to hang out. Highly recommended!
+Show more
+Audrey
+Lake Wylie, South Carolina
+Rating, 5 stars
+,
+·
+March 2023
+,
+·
+Stayed a few nights
+We loved it!  Movie star location!  Clean and very comfortable. All of the essentials were available. Great great great location. Would stay there again for sure! Well decorated and private.  Highly recommend it.
+Show more
+Show all 11 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

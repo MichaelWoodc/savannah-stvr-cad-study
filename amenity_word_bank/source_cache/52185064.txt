@@ -1,0 +1,474 @@
+URL: https://www.airbnb.com/rooms/52185064
+Title: 3BR Street Level Apartment on Jones St w/Parking
+Latitude: 32.0727
+Longitude: -81.0961
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sandra
+Host ID: 314313673
+Host profile ID: 1469592005946537681
+Host URL: https://www.airbnb.com/users/profile/1469592005946537681
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 5
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+Bedroom 3
+2 single beds
+
+=== FULL DESCRIPTION ===
+The Monterey Suite, one of the Jones Street Suites, is a breathtaking 1500 square foot apartment and the perfect place for your stay in Savannah. Walk everywhere - Forsyth Park, River Street, dining, and entertainment are steps from your door. Relax in the beautiful shared courtyard after a day exploring. This apartment includes a dedicated parking space and overlooks Jones Street, voted the prettiest street in Savannah.
+
+The space
+The Monterey Suite, one of the Jones Street Suites, is a breathtaking 1500 square foot apartment and the perfect place for your stay in Savannah. Walk everywhere - Forsyth Park, River Street, dining, and entertainment are steps from your door. Relax in the beautiful shared courtyard after a day exploring. This apartment includes a dedicated parking space and overlooks Jones Street, voted the prettiest street in Savannah!
+
+Guest access
+There are no steps to climb to access this suite.
+
+Other things to note
+Certificate # SVR-02427
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Individual Travel Size shampoo
+Individual Travel Size conditioner
+Individual Bar Soap body soap
+Hot water
+Bedroom and laundry
+Free washer – In building
+Free dryer – In unit
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Clothing storage: wardrobe and dresser
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Includes a table
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Parking and facilities
+Free parking garage on premises
+Single level home
+No stairs in home
+Services
+Self check-in
+Lockbox
+Not included
+Unavailable: Essentials
+Essentials
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+3BR Street Level Apartment on Jones St w/Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+6 guests · 3 bedrooms · 5 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+165 reviews
+165
+Reviews
+Hosted by Sandra
+7 years hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+In Historic Savannah, on Jones Street
+Forsyth Park is about a 5-min walk, with Monterey Square and several historic squares even closer.
+Spacious apartment with garage parking
+A 1,500 sq ft ground-floor apartment with a full kitchen, dedicated garage parking, and a private entrance.
+A responsive, returning-guest host
+Guests highlight how responsive and helpful the host is, with many returning for repeat stays.
+The Monterey Suite, one of the Jones Street Suites, is a breathtaking 1500 square foot apartment and the perfect place for your stay in Savannah. Walk everywhere - Forsyth Park, River Street, dining, and entertainment are steps from your door. Relax in the beautiful shared courtyard after a day exploring. This apartment includes a dedicated parking space and overlooks Jones Street, voted the prettiest street in Savannah.
+
+The space
+The Monterey Suite, one of the Jones Street Suites, is a breathtaking 1500 square foot apartment and the perfect place for your stay in Savannah. Walk everywhere - Forsyth Park, River Street, dining, and entertainment are steps from your door. Relax in the beautiful shared courtyard after a day exploring. This apartment includes a dedicated parking space and overlooks Jones Street, voted the prettiest street in Savannah!
+
+Guest access
+There are no steps to climb to access this suite.
+
+Other things to note
+Certificate # SVR-02427
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 5 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+Bedroom 3
+2 single beds
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking garage on premises
+TV
+Free washer – In building
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Shared patio or balcony
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 165 reviews.
+4.96
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+61
+Location
+129
+Hospitality
+71
+Parking
+23
+Cleanliness
+49
+Nearby
+23
+Comfort
+31
+Family
+17
+Indoor spaces
+28
+Outdoor spaces
+12
+Hannah
+Powdersville, South Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+This was our first trip to Savannah and we had a fabulous time. Sandra gave us fabulous recommendations and was very helpful throughout our stay. Her place was so clean, cozy and at the perfect location. We were within walking distance to so many places! Plus, staying on Jones St. with its beautiful scenery and charm created the perfect atmosphere for our trip.
+Show more
+Tracy
+2 months on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+We loved our stay in Savannah and part of the reason was the place we stayed in as well as our host.  Sandra was exceptionally friendly and responsive during communications -- and provided some nice options for our visit.  The bottom floor unit was perfect for us and our elderly dad who would not be able to navigate stairs. And bottom-floor spaces are not at all easy to find. It was on such a beautiful street, as well as walking distance to just about anywhere.  It was just lovely all the way around.
+Show more
+Doreen
+Piedmont, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+We had a girls vacation and we loved the place- great location, very nice courtyard and everything was clean and well taken care of - would highly recommend- will definitely stay there again
+Show more
+Jessica
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Excellent location, very walkable to restaurants and shopping, and picturesque street. Despite the great location, very pleasantly surprised to find there wasn’t any outside noise. Loved the first floor accommodations and walk in shower for a family member with mobility issues. Minor parking question upon arrival due to issue unrelated to host or rental, and host was super responsive and helpful. Travel to Savannah pretty frequently and would definitely stay again!
+Show more
+Denise
+Riverview, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Our host, Sandra communicated well and always answered questions!  This place was great for our family to meet up.  Plenty of parking, easy access, quite and close enough for walking to most places.  An Uber is only $10 to get to the river - Loved this location!!
+Show more
+Tricia
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Great weekend get away, beautiful house. Sandra was great. We would definitely stay here again!
+Show all 165 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Forsyth Park
+Park
+Savannah Bike Tours
+Sports shop
+Mrs. Wilkes Dining Room
+American restaurant
+Old Town Trolley Tours of Savannah
+Tour agency
+The Olde Pink House
+Restaurant
+Fiddler's Crab House & Oyster Bar
+Seafood restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Historic Savannah
+Show more
+Meet your host
+Sandra
+Host
+1,194 reviews
+1194
+Reviews
+4.89 out of 5 average rating
+4.89
+Rating
+7 years of hosting
+7
+Years hosting
+A happy transplant to Savannah! I enjoy traveling myself, so it is so exciting to be able to experience the rich history of this impressive city and to help others learn about it! What better place to be a host than in the “Host City of the South.” Send a message or book if you want a gorgeous rental in the Historic Downtown District!
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

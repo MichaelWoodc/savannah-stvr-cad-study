@@ -1,0 +1,454 @@
+URL: https://www.airbnb.com/rooms/22447569
+Title: Cozy Garden w/ Patio on Jones by Lucky Savannah
+Latitude: 32.0734
+Longitude: -81.097
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+A charming ground level apartment in Downtown Savannah's Historic District on famous Jones Street.
+
+The space
+This charming, one-bedroom, one bath ground level apartment is tucked away on Historic Jones Street. You’ll wake up each morning to walk the cobblestones of what Southern Living Magazine dubbed America’s prettiest street. 
+
+You’ll find plenty of comfortable seating in the den, including a small dining table and chairs. Enjoy a little “me time” curled up on the couch with a one of the provided books. The adjoining living room has more seating and a large flat screen TV. A large island countertop that doubles as a breakfast bar, opens and connects the living room into the galley style kitchen. When it’s time to get some shut-eye, get cozy in the comfortable Queen sized bed. The bedroom has plenty of storage space for longer stays, so unpack and relax on your private, enclosed porch.  A second living room includes a Queen sleeper sofa, and can be closed to allow for 2 private sleeping rooms each separate from the Living Room.
+ 
+Start your day of exploration at Clary’s Cafe, the setting for several breakfast scenes in Midnight in the Garden of Good and Evil. You’ll be a short walk from the Cathedral of St. John the Baptist, which underwent a major restoration to preserve their beautiful stained glass windows and architectural integrity. A few blocks away at the corner of Bull Street and Liberty, you’ll find local shops featuring everything from handmade handbags and leather goods at Satchel, to Celtic crosses at Saints & Shamrocks.
+ 
+Why Lucky Savannah Loves this Property:
+- This apartment can be rented with the main house to sleep up to 12 Lucky guests. 
+- The exposed beams and brick fireplace in the bedroom add true Savannah style
+- The bathroom has a convenient pocket door to separate the shower. 
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Living Room: Queen Sleeper Sofa
+
+SVR-00942
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Cozy Garden w/ Patio on Jones by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.63 out of 5 stars.
+4.63
+·
+16 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Right on Jones Street, steps from Chatham Square and about a 5-min walk to Forsyth Park
+Full kitchen with in-unit laundry
+A galley kitchen with a breakfast bar island, plus an in-unit washer and dryer for easy laundry
+A walkable location guests love
+Guests highlight the walkable location, with one calling it a comfortable stay worth returning to
+A charming ground level apartment in Downtown Savannah's Historic District on famous Jones Street.
+
+The space
+This charming, one-bedroom, one bath ground level apartment is tucked away on Historic Jones Street. You’ll wake up each morning to walk the cobblestones of what Southern Living Magazine dubbed America’s prettiest street. 
+
+You’ll find plenty of comfortable seating in the den, including a small dining table and chairs. Enjoy a little “me time” curled up on the couch with a one of the provided books. The adjoining living room has more seating and a large flat screen TV. A large island countertop that doubles as a breakfast bar, opens and connects the living room into the galley style kitchen. When it’s time to get some shut-eye, get cozy in the comfortable Queen sized bed. The bedroom has plenty of storage space for longer stays, so unpack and relax on your private, enclosed porch.  A second living room includes a Queen sleeper sofa, and can be closed to allow for 2 private sleeping rooms each separate from the Living Room.
+ 
+Start your day of exploration at Clary’s Cafe, the setting for several breakfast scenes in Midnight in the Garden of Good and Evil. You’ll be a short walk from the Cathedral of St. John the Baptist, which underwent a major restoration to preserve their beautiful stained glass windows and architectural integrity. A few blocks away at the corner of Bull Street and Liberty, you’ll find local shops featuring everything from handmade handbags and leather goods at Satchel, to Celtic crosses at Saints & Shamrocks.
+ 
+Why Lucky Savannah Loves this Property:
+- This apartment can be rented with the main house to sleep up to 12 Lucky guests. 
+- The exposed beams and brick fireplace in the bedroom add true Savannah style
+- The bathroom has a convenient pocket door to separate the shower. 
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Living Room: Queen Sleeper Sofa
+
+SVR-00942
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.63 out of 5 stars from 16 reviews
+4.63 · 16 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 63% of reviews
+5
+4 stars, 38% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Walkability
+9
+Location
+15
+Parks
+2
+Indoor spaces
+4
+Cleanliness
+4
+Nearby
+3
+Sleep quality
+2
+Kitchen
+2
+Amenities
+2
+Comfort
+2
+Allie
+Steger, Illinois
+Rating, 4 stars
+,
+·
+March 2025
+,
+·
+Stayed a few nights
+It was in a great walkable, safe area with many restaurants and things to do nearby!  I only had a problem with getting into the lockbox, we had to stay in a hotel the first night because it was late but the next morning we were helped getting inside and had no further issues!  Very nice garden apartment although we could hear upstairs neighbors after hours at night, otherwise enjoyed our stay!!
+Show more
+Daniel
+Huntsville, Alabama
+Rating, 4 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+Lovely garden apartment, a few things to be aware of. 
+1: the courtyard is shared—this isn’t abundantly clear in the description. 
+2: there is no HVAC vent in the bedroom or bath. 
+3: the bed is a full size, and honestly not very comfy. 
+4: its a garden level so its a bit musty. I washed my clothes there and they still smelled like the place even after I drove them home 5 hours. 
+Overall the location can’t be beat, truly a cute place, with a few quirks. 
+4: it’s a garden level, so it’s a bit musty. Even after wash
+Show more
+Kathleen
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+September 2024
+,
+·
+Stayed over a week
+Love this location on Jones Street. It is centrally located, walkable to many shops, restaurants, bars, and morning coffee spots. The garden flat was very comfortable, and has a wonderful backyard patio. The neighbors are so friendly, and the location is very quiet in the evenings. 
+Thank you for a wonderful stay. We will be back!
+Show more
+Nicholas
+4 years on Airbnb
+Rating, 4 stars
+,
+·
+June 2023
+,
+·
+Stayed a few nights
+The stay was enjoyable, however, it definitely gives the vibe that it is managed by a company - not a caring airbnb owner. Most airbnbs we travel to supply you with much more to make you feel at home. There are coffee machines, but no coffee.. no complimentary water or water filter (the water from the old pipes is terrible), which should be expected in a historic house. The bed is ABSOLUTELY so uncomfortable so be prepared for that. It is small for two people, especially if you are tall, and very concave. Our backs are hurting and we’re only 30 so beware of that. Other than that, the location is really why you should stay here. Beautiful and convenient. If there are other options at a similar price in a nearby neighborhood I would urge to go there instead. Overall we gave this a neutral rating, heading toward four stars but not quite there yet. My advice to management is to care a bit more about the details and buy a bigger/better bed.
+Show more
+Curtis
+Princeton, North Carolina
+Rating, 4 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+nice stay conveniently located
+Show more
+Caulin
+Castle Hayne, North Carolina
+Rating, 5 stars
+,
+·
+February 2025
+,
+·
+Stayed a few nights
+Incredible place in a great location!
+Show more
+Show all 16 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

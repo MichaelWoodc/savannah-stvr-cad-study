@@ -1,0 +1,447 @@
+URL: https://www.airbnb.com/rooms/1704433462585328143
+Title: Epic Broughton St Townhouse|Private Patio+Parking
+Latitude: 32.07783546341299
+Longitude: -81.08570123007652
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Stay in the heart of Savannah's Historic District on iconic Broughton Street, home to some of the city's best shopping, dining, and attractions. This spacious townhouse features two private bedroom suites, comfortable living spaces, and a stunning private courtyard and private parking, perfect for morning coffee or evening dinners & cocktails. Walk to River Street, historic squares, Forsyth Park, restaurants, and boutiques while enjoying the comfort and privacy of your own Savannah retreat.
+
+The space
+Tucked along the residential eastern end of Broughton Street, this spacious two-bedroom, two and a half bath townhouse places you in the heart of Savannah's Historic District while offering a peaceful retreat to return to after a day of exploring.
+
+Step outside your front door for a short stroll to River Street, City Market, Savannah's iconic squares, local coffee shops, boutiques, and some of the city's best restaurants. The location truly puts Savannah at your fingertips.
+
+Inside, you'll find generous living spaces designed for gathering and relaxing. The open-concept layout offers plenty of room to spread out, whether you're visiting with family, friends, or enjoying an extended stay. The living room offers lots of seating for lounging or movie nights, as we ll as a fold out sofa bed. Large windows fill the home with natural light, creating a warm and welcoming atmosphere throughout. Enjoy a spacious dining room to eat in or play games at. A fully equipped kitchen is stocked with basic essentials for dining in. A convenient main floor half bathroom adds ease for guests while spending time in the living spaces.
+
+The true highlight of this property is the stunning private courtyard.  A rare find in downtown Savannah, surrounded by lush landscaping, this outdoor oasis is perfect for morning coffee, afternoon cocktails, or unwinding under the glow of string lights after a day spent exploring the city. Enjoy an extra fun tiki outdoor tiki bar.
+
+On the second  level of the home you will find two bedroom suites with to full size bathrooms. The master suite offers a king bed and double sink on suite bathroom with walk in shower. The second bedroom has a queen size bed and sleeper sofa with a a full size hall bathroom with shower tub/combo. 
+
+Whether you're planning a girls' getaway, family vacation, anniversary trip, or a long weekend with friends, this beautifully located townhouse offers the perfect blend of historic charm, modern comfort, and unforgettable outdoor living.
+
+SVR-02294
+
+Guest access
+Guests have full private access to the entire house and relaxing courtyard as well as parking in the garage (accessed from the lane). Please note there is a separate carriage house apartment above the garage. You can also book that for additional space at this link: https://www.airbnb.com/rooms/1704746604662906243
+
+Other things to note
+The rental is located in the heart of downtown, yet on a more residential street. There are some city noises such as trash trucks, ship horns, sirens, trains and vehicle traffic that you may not be accustomed to.
+
+Guests should also know that there is a garage apartment in the rear that is also a vacation rental.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Garden view
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Paid parking off premises
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Epic Broughton St Townhouse|Private Patio+Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 2 bedrooms · 4 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+5 reviews
+5
+Reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+In Savannah's Historic District
+About a 5-min walk to River Street and the Owens-Thomas House, with historic squares steps away
+Private courtyard with a tiki bar
+A lush private courtyard with a tiki bar and string lights, tucked behind the townhouse
+Walkable location, attentive host
+Guests highlight how walkable the location is and praise host Alyssa's helpful recommendations
+Stay in the heart of Savannah's Historic District on iconic Broughton Street, home to some of the city's best shopping, dining, and attractions. This spacious townhouse features two private bedroom suites, comfortable living spaces, and a stunning private courtyard and private parking, perfect for morning coffee or evening dinners & cocktails. Walk to River Street, historic squares, Forsyth Park, restaurants, and boutiques while enjoying the comfort and privacy of your own Savannah retreat.
+
+The space
+Tucked along the residential eastern end of Broughton Street, this spacious two-bedroom, two and a half bath townhouse places you in the heart of Savannah's Historic District while offering a peaceful retreat to return to after a day of exploring.
+
+Step outside your front door for a short stroll to River Street, City Market, Savannah's iconic squares, local coffee shops, boutiques, and some of the city's best restaurants. The location truly puts Savannah at your fingertips.
+
+Inside, you'll find generous living spaces designed for gathering and relaxing. The open-concept layout offers plenty of room to spread out, whether you're visiting with family, friends, or enjoying an extended stay. The living room offers lots of seating for lounging or movie nights, as we ll as a fold out sofa bed. Large windows fill the home with natural light, creating a warm and welcoming atmosphere throughout. Enjoy a spacious dining room to eat in or play games at. A fully equipped kitchen is stocked with basic essentials for dining in. A convenient main floor half bathroom adds ease for guests while spending time in the living spaces.
+
+The true highlight of this property is the stunning private courtyard.  A rare find in downtown Savannah, surrounded by lush landscaping, this outdoor oasis is perfect for morning coffee, afternoon cocktails, or unwinding under the glow of string lights after a day spent exploring the city. Enjoy an extra fun tiki outdoor tiki bar.
+
+On the second  level of the home you will find two bedroom suites with to full size bathrooms. The master suite offers a king bed and double sink on suite bathroom with walk in shower. The second bedroom has a queen size bed and sleeper sofa with a a full size hall bathroom with shower tub/combo. 
+
+Whether you're planning a girls' getaway, family vacation, anniversary trip, or a long weekend with friends, this beautifully located townhouse offers the perfect blend of historic charm, modern comfort, and unforgettable outdoor living.
+
+SVR-02294
+
+Guest access
+Guests have full private access to the entire house and relaxing courtyard as well as parking in the garage (accessed from the lane). Please note there is a separate carriage house apartment above the garage. You can also book that for additional space at this link: https://www.airbnb.com/rooms/1704746604662906243
+
+Other things to note
+The rental is located in the heart of downtown, yet on a more residential street. There are some city noises such as trash trucks, ship horns, sirens, trains and vehicle traffic that you may not be accustomed to.
+
+Guests should also know that there is a garage apartment in the rear that is also a vacation rental.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Garden view
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Backyard
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 5 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+2
+Hospitality
+3
+Nearby
+2
+Location
+2
+Laura
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We enjoyed the stay!! The house was just like the pictures. The atmosphere was great and so was the food!!
+Emily
+Decatur, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We loved every minute of our trip and staying at this cool, comfortable, easily accessible to everything downtown spot was a huge part of that. Thank you Alyssa for your above and beyond hospitality- your welcome guide was chocked full of amazing recommendations and made us feel right at home. 
+Our trip was mainly focused on Savannah Bananas camp for our son so we wanted to have easy access to our car through the day for picking up and dropping off - this place has one garage spot connected and tons of street spaces just outside the front door. We also wanted to be downtown with easy access to restaurants, coffee shops, parks, museums and boutiques and our shopping for teenager daughter. This location was perfect for everything and everyone’s interests! We walked downtown for a couple of fun tours and really enjoyed exploring the neighborhood! 
+We loved the art on the walls and the cozy beds and places to sit and relax in between busy activities. 
+We highly recommend this spot!
+Show more
+Jennifer
+Apopka, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Great alternative to the hotels in the area! Felt at home with the extra space and access to a full kitchen and laundry.
+Walker
+Lawrenceville, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This was a great experience, especially for me, because this was the first time I ever booked with Airbnb. Alyssa was proactive, very friendly, and responsive with communication. The trip was excellent, and I would recommend it to family and friends who plan on staying in Savannah!
+Show more
+Stephen
+Ellijay, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Alyssa was the perfect host! Everything was ready and waiting when we arrived and we felt right at home.  The location was perfect…easy walking distance to all our favorite restaurants, yet just far enough from the noise! Looking forward to visiting again.
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Located on the eastern end of Broughton Street in Savannah's North Historic District, this neighborhood offers the perfect blend of energy and charm. You'll be surrounded by historic architecture, locally owned boutiques, cafés, and some of Savannah's best restaurants, while enjoying a slightly quieter setting than the busiest tourist areas. From here, you're just a 5-minute walk to River Street, a 10-minute walk to City Market, and about a 20-minute walk to Forsyth Park. With Savannah's iconic squares, museums, dining, and shopping all nearby, it's easy to explore the city entirely on foot.
+Show more
+Meet your host
+Alyssa
+Superhost
+1,512 reviews
+1512
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

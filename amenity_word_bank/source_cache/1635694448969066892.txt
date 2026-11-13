@@ -1,0 +1,397 @@
+URL: https://www.airbnb.com/rooms/1635694448969066892
+Title: Washington Square Estate for 12 steps to River St!
+Latitude: 32.07689403809925
+Longitude: -81.08478631882849
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Luxury Living Savannah
+Host ID: 51616592
+Host profile ID: 1465808498594972878
+Host URL: https://www.airbnb.com/users/profile/1465808498594972878
+Bedrooms: 6
+Occupancy (maximum guests): 12
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 7
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This Deluxe Washington Square getaway for 12 is steps to the River & Broughton Street!
+Dating circa 1790 - 1810 the Historic Washington Square Estate has 6 bedrooms, 6 baths and is located on Savannah’s picturesque Washington Square. Less than 2 blocks to River Street and one block to Broughton Street and walkable to all of Savannah's Historic District.
+
+The space
+Located next to Savannah’s picturesque Washington Square, (named for George Washington) The Washington Square Collection is one of Savannah's oldest homes built between 1790 and 1810. The award-wining, historically preserved home is a luxury refuge for families and friends looking to relax, unwind and explore Savannah.  
+
+This home sat vacant and decaying for YEARS until we bought it in 2004.  Miraculously, we were able to retain the vast majority of its original details!  The stair case, heart pine floors, windows, fireplaces and mantles are all part of the original home.
+
+No expense was spared on this painstakingly restored, but modernized historic mansion. It is fully outfitted with a gourmet kitchen and island seating for 3. Doors from the kitchen lead to the lush, private courtyard.
+
+The front porch and entrance of the home has 3 steps approaching the porch. So it is not wheel chair accessible but it may be suitable for some folks with mobility issues, as there is a full bedroom and bathroom on the first floor. 
+
+The full size, gourmet kitchen features top of the line electric appliances and island seating for three. The connecting dining room and sun room feature the original fireplaces and wood millwork. Guests can lounge in the sun room and appreciate the courtyard views. The formal living room has comfortable seating and a large smart TV for family gatherings with historically preserved details like the original fireplace - no, we don't allow fires any longer!
+
+The private courtyard features historic terracotta statuettes and lush foliage. Ample seating allows for alfresco meals or evening cocktails. 
+
+On the first floor of the Main House we have the first of four bedrooms with a queen bed tucked into the front window nook. There is a full bathroom beside this bedroom with a large walk-in shower and this bathroom has a entrance from the hallway for all guests to access. 
+
+On the second floor you will find the other 3 bedrooms and spacious en-suite bathrooms. The primary suite faces Congress Street and with a queen size bed, chaise lounge and a LARGE luxury bathroom! This bathroom has a decorative fireplace, 2 separate vanities, a lovely soaking tub and a walk-in shower. On the other side of this bathroom is a large walk-in closet for the primary guests. 
+
+The second bedroom has a King size bed, en-suite bathroom and closet. The airy and sunny bathroom has a soaking tub and separate walk-in shower. 
+
+The last, 4th bedroom has two TWIN antique maple poster beds and a full en-suite bathroom. This room is bright and  sunny and bathroom has a large walk-in shower.  
+
+The Carriage House has additional sleeping for 4 people and is a free standing apartment built over our garage, with a private entrance on the lane/alley. It is located behind the main house. The carriage house has an open living room and fully equipped kitchen with island seating for four.
+Each of the 2 bedrooms have en suite bathrooms & queen size beds. Both bathrooms have tub/shower combos. Guests will walk through the garage and courtyard to connect with guests in the Main House.
+
+During the horse-and-buggy days, Savannah’s carriage houses were the sleeping quarters of the family's carriage drivers. The drivers were responsible for the care of the horses & the carriages housed in what we now use as auto-garages.  
+
+NOTES:
+This property is NOT PARTY friendly. We do not allow loud noise, music or parties of any sort. Violators may be evicted and/or fined. 
+
+NO BACHELOR/BACHELORETTE GROUPS!!
+
+Maximum occupancy is 12 people (at ALL times), including infants & children.
+
+Minimum age to reserve is 25 years old.
+
+No pets. No smoking. 
+
+PARKING: 
+This reservation includes 2 private, garage parking space located behind the home in the Carriage House. 
+
+Parking for additional vehicles:
+All of Downtown Savannah has metered, on-street parking with Pay Stations on each block. You can download the APP "Park Savannah" for easy payments from your phone 
+OR
+Visitor Parking Passes are available for 24hours/$15.00 and 48hours/$24.00. Passes can be purchased at the City of Savannah Parking Services Office at 100 East Bryan Street. Please call them with any questions about parking in the city.
+
+SVR-00178 & 00179
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+City skyline view
+Garden view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free parking garage on premises
+Paid parking off premises
+Not included
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Washington Square Estate for 12 steps to River St!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+12 guests · 6 bedrooms · 7 beds · 6 baths
+No reviews yet
+No reviews yet
+Hosted by Luxury Living Savannah
+Superhost · 11 years hosting
+Listing highlights
+On Washington Square, Historic District
+About a 5-min walk to River Street, with Emmet Park and several quiet squares steps away
+Private courtyard and full kitchen
+A gourmet kitchen opens to a private courtyard with seating for outdoor meals
+A preserved 200-year-old estate
+Built between 1790 and 1810, with original heart pine floors, fireplaces, and staircase intact
+This Deluxe Washington Square getaway for 12 is steps to the River & Broughton Street!
+Dating circa 1790 - 1810 the Historic Washington Square Estate has 6 bedrooms, 6 baths and is located on Savannah’s picturesque Washington Square. Less than 2 blocks to River Street and one block to Broughton Street and walkable to all of Savannah's Historic District.
+
+The space
+Located next to Savannah’s picturesque Washington Square, (named for George Washington) The Washington Square Collection is one of Savannah's oldest homes built between 1790 and 1810. The award-wining, historically preserved home is a luxury refuge for families and friends looking to relax, unwind and explore Savannah.  
+
+This home sat vacant and decaying for YEARS until we bought it in 2004.  Miraculously, we were able to retain the vast majority of its original details!  The stair case, heart pine floors, windows, fireplaces and mantles are all part of the original home.
+
+No expense was spared on this painstakingly restored, but modernized historic mansion. It is fully outfitted with a gourmet kitchen and island seating for 3. Doors from the kitchen lead to the lush, private courtyard.
+
+The front porch and entrance of the home has 3 steps approaching the porch. So it is not wheel chair accessible but it may be suitable for some folks with mobility issues, as there is a full bedroom and bathroom on the first floor. 
+
+The full size, gourmet kitchen features top of the line electric appliances and island seating for three. The connecting dining room and sun room feature the original fireplaces and wood millwork. Guests can lounge in the sun room and appreciate the courtyard views. The formal living room has comfortable seating and a large smart TV for family gatherings with historically preserved details like the original fireplace - no, we don't allow fires any longer!
+
+The private courtyard features historic terracotta statuettes and lush foliage. Ample seating allows for alfresco meals or evening cocktails. 
+
+On the first floor of the Main House we have the first of four bedrooms with a queen bed tucked into the front window nook. There is a full bathroom beside this bedroom with a large walk-in shower and this bathroom has a entrance from the hallway for all guests to access. 
+
+On the second floor you will find the other 3 bedrooms and spacious en-suite bathrooms. The primary suite faces Congress Street and with a queen size bed, chaise lounge and a LARGE luxury bathroom! This bathroom has a decorative fireplace, 2 separate vanities, a lovely soaking tub and a walk-in shower. On the other side of this bathroom is a large walk-in closet for the primary guests. 
+
+The second bedroom has a King size bed, en-suite bathroom and closet. The airy and sunny bathroom has a soaking tub and separate walk-in shower. 
+
+The last, 4th bedroom has two TWIN antique maple poster beds and a full en-suite bathroom. This room is bright and  sunny and bathroom has a large walk-in shower.  
+
+The Carriage House has additional sleeping for 4 people and is a free standing apartment built over our garage, with a private entrance on the lane/alley. It is located behind the main house. The carriage house has an open living room and fully equipped kitchen with island seating for four.
+Each of the 2 bedrooms have en suite bathrooms & queen size beds. Both bathrooms have tub/shower combos. Guests will walk through the garage and courtyard to connect with guests in the Main House.
+
+During the horse-and-buggy days, Savannah’s carriage houses were the sleeping quarters of the family's carriage drivers. The drivers were responsible for the care of the horses & the carriages housed in what we now use as auto-garages.  
+
+NOTES:
+This property is NOT PARTY friendly. We do not allow loud noise, music or parties of any sort. Violators may be evicted and/or fined. 
+
+NO BACHELOR/BACHELORETTE GROUPS!!
+
+Maximum occupancy is 12 people (at ALL times), including infants & children.
+
+Minimum age to reserve is 25 years old.
+
+No pets. No smoking. 
+
+PARKING: 
+This reservation includes 2 private, garage parking space located behind the home in the Carriage House. 
+
+Parking for additional vehicles:
+All of Downtown Savannah has metered, on-street parking with Pay Stations on each block. You can download the APP "Park Savannah" for easy payments from your phone 
+OR
+Visitor Parking Passes are available for 24hours/$15.00 and 48hours/$24.00. Passes can be purchased at the City of Savannah Parking Services Office at 100 East Bryan Street. Please call them with any questions about parking in the city.
+
+SVR-00178 & 00179
+Show more
+All sleeping arrangements
+
+Advertised beds: 7 | Enumerated: 0 | Count unverified
+
+What this place offers
+City skyline view
+Garden view
+Kitchen
+Wifi
+Dedicated workspace
+Free parking garage on premises
+TV
+Washer
+Dryer
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+No reviews (yet)
+This host has 2,238 reviews for other places to stay. Show other reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+The house is located near Washington Square, a primarily residential part of Savannah's Historic District. This quiet neighborhood offers residents and visiting guests a relaxing spot while within walking distance of the vibrant downtown attractions. It is a short 2-block walk to Historic River Street and the Savannah River.
+
+The property has a private 2-car garage for guests. Other vehicles must use metered, on-street parking.
+Show more
+Meet your host
+Luxury Living Savannah
+Superhost
+2,238 reviews
+2238
+Reviews
+4.84 out of 5 average rating
+4.84
+Rating
+11 years of hosting
+11
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Luxury Living Properties is not just a premier luxury vacation rental company. We are passionate about saving Savannah's resplendent historic homes from ruin. We meticulously restore them back to the shining jewels they were in the 19th century. We have curated special homes for the enjoyment of vacation and business travelers of all generations. Our goal is simple - to create a unique, historic atmosphere for our guests to experience the "True Savannah" and "Live like a local". On nearby Tybee Island we are focused on providing ocean views & fun amenities with a variety of beach houses, town homes and condos, all with amazing views of the Atlantic Ocean. Our stylish and comfortable properties provide a perfect home away from home for families, romantic getaways or solo travelers.
+Luxury Living Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+12 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Mansion vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

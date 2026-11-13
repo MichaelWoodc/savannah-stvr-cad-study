@@ -1,0 +1,508 @@
+URL: https://www.airbnb.com/rooms/1632705874279937760
+Title: 1872 Historic King Suite | Live Oak Views!
+Latitude: 32.07819
+Longitude: -81.09224
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Step into timeless Savannah charm in this beautifully restored 1872 historic building in the heart of the Landmark Historic District. This elegant top-floor 1-bedroom retreat blends original character with curated interiors for a romantic, relaxing stay. Wake up to natural light, tall historic windows, and views of Oglethorpe Avenue lined with iconic live oak trees, an unmistakably Southern experience.
+SVR-03260
+
+The space
+Designed to feel both refined and welcoming, this private top-floor unit combines historic beauty with modern comfort. Wake up to natural light streaming through tall historic windows and enjoy the steeple view of the famous Presbyterian church from the opening scene of Forrest Gump! a setting that feels unmistakably Southern.
+
+King Bedroom:
+The spacious bedroom is one of the highlights of the home:
+Plush king bed with upscale linens
+Original hardwood floors
+Decorative historic fireplace mantel (non-working)
+Cozy reading chair for slow Savannah mornings
+Writing desk by the windows - ideal for remote work or planning your day
+Classic artwork and warm textures that create a calm, romantic atmosphere
+Natural light fills the room throughout the day, giving the space a bright and airy feel while still maintaining historic charm.
+
+Bathroom:
+Fresh, elegant, and thoughtfully renovated:
+Glass walk-in shower with designer tile accents
+Brass fixtures for a refined, boutique feel
+Modern vanity with clean lines and classic finishes
+Bright natural light from the shower window
+It feels more like a boutique hotel bathroom than a typical rental.
+
+Living Area + Kitchen:
+The open living space is designed for relaxing after exploring Savannah:
+Comfortable sofa for movie nights
+Decorative historic fireplace (non-working)
+Smart TV
+Fully equipped kitchen with stainless appliances
+Charming dining nook for coffee or evening wine
+The combination of historic details and soft modern furnishings creates an elevated but comfortable atmosphere.
+
+Guest access
+The entire unit is set up for your use. Please be respectful of your neighbors and keep noises down at night, etc.
+
+Other things to note
+Top-floor unit (2 sets of stairs required)
+Decorative fireplaces are non-working
+Located in a lively historic downtown area
+Historic building — expect character and charm
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Parking and facilities
+Paid parking off premises
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Not included
+Unavailable: Washer
+Washer
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+1872 Historic King Suite | Live Oak Views!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.87 out of 5 stars.
+4.87
+31 reviews
+31
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In the Landmark Historic District
+Wright Square is steps away, with Chippewa Square and the Jepson Center about a 5-min walk
+Fully equipped kitchen with dishwasher
+A full kitchen with a dishwasher, stainless appliances, and a dining nook for morning coffee
+Comfortable, clean, and walkable
+Guests highlight the comfortable king bed, the spotless space, and the walkable location
+Step into timeless Savannah charm in this beautifully restored 1872 historic building in the heart of the Landmark Historic District. This elegant top-floor 1-bedroom retreat blends original character with curated interiors for a romantic, relaxing stay. Wake up to natural light, tall historic windows, and views of Oglethorpe Avenue lined with iconic live oak trees, an unmistakably Southern experience.
+SVR-03260
+
+The space
+Designed to feel both refined and welcoming, this private top-floor unit combines historic beauty with modern comfort. Wake up to natural light streaming through tall historic windows and enjoy the steeple view of the famous Presbyterian church from the opening scene of Forrest Gump! a setting that feels unmistakably Southern.
+
+King Bedroom:
+The spacious bedroom is one of the highlights of the home:
+Plush king bed with upscale linens
+Original hardwood floors
+Decorative historic fireplace mantel (non-working)
+Cozy reading chair for slow Savannah mornings
+Writing desk by the windows - ideal for remote work or planning your day
+Classic artwork and warm textures that create a calm, romantic atmosphere
+Natural light fills the room throughout the day, giving the space a bright and airy feel while still maintaining historic charm.
+
+Bathroom:
+Fresh, elegant, and thoughtfully renovated:
+Glass walk-in shower with designer tile accents
+Brass fixtures for a refined, boutique feel
+Modern vanity with clean lines and classic finishes
+Bright natural light from the shower window
+It feels more like a boutique hotel bathroom than a typical rental.
+
+Living Area + Kitchen:
+The open living space is designed for relaxing after exploring Savannah:
+Comfortable sofa for movie nights
+Decorative historic fireplace (non-working)
+Smart TV
+Fully equipped kitchen with stainless appliances
+Charming dining nook for coffee or evening wine
+The combination of historic details and soft modern furnishings creates an elevated but comfortable atmosphere.
+
+Guest access
+The entire unit is set up for your use. Please be respectful of your neighbors and keep noises down at night, etc.
+
+Other things to note
+Top-floor unit (2 sets of stairs required)
+Decorative fireplaces are non-working
+Located in a lively historic downtown area
+Historic building — expect character and charm
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+TV
+Air conditioning
+Luggage dropoff allowed
+Hair dryer
+Refrigerator
+Microwave
+Long term stays allowed
+Paid parking off premises
+Show all 41 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.87 out of 5 from 31 reviews.
+4.87
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 6% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+14
+Location
+22
+Parking
+6
+Comfort
+11
+Cleanliness
+13
+Sleep quality
+8
+Nearby
+7
+Decor
+7
+Hospitality
+12
+Noise
+4
+Kellie
+Lancaster, Ohio
+Rating, 4 stars
+,
+·
+6 days ago
+,
+·
+Stayed a few nights
+Excellent communication, excellent location, beautiful apartment. Centrally located to everything. Door lock took some getting used to but once we figured it out we mastered it. Make sure you can climb stairs as it has 2 flights. We appreciated the extra steps. Will stay here again!
+Show more
+Tonia
+Rock Springs, Wyoming
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Beautiful property in excellent location to all historic Savannah has to offer!  The property is beautiful and the bed is extremely comfortable!  Thanks for the parking hints!  While it is, as advertised, up several flights of steps, once parked and settled in the room it is the perfect place for a get away for two!
+Show more
+Caroline
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Very enjoyable stay, so close to a variety of things and a quiet, peaceful location to come back to at any time of day. Felt very safe and parking wasn't difficult for us to find very close by.  We appreciated all that Brandon and Chase offered; they were incredible hosts and very responsive to all our questions. We would very much stay here again on our next trip to Savannah!
+Show more
+Camryn
+Marietta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had an awesome stay. Great location and very walkable. We had no issues finding parking right outside the Airbnb. Very clean and comfortable. The street was not super noisy, but we enjoyed using the sound machine. Would recommend!
+Show more
+Andrew
+Statesville, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Brandon & Chase’s apartment was the perfect choice for our weekend in Savannah. The unit was beautifully decorated and had everything we needed, including a coffee maker fully stocked with pods and a sound machine in the bedroom, which eliminated any outside noise at night. The location was a short walk to Broughton Street and just a few steps from several restaurants. I would absolutely recommend Brandon & Chase’s apartment and will consider them on our next visit!
+Show more
+Melissa
+5 years on Airbnb
+Rating, 3 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Beautiful unit. Older home with a very serene atmosphere. Be prepared to walk up 3 flights of stairs, to include outside steps. Have a few minor issues that’s resolvable in the near future.
+Show more
+Show all 31 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Situated directly on W Oglethorpe Ave, you’re surrounded by Savannah’s most iconic scenery and attractions. Amazing restaurants and coffee shops just steps away from your door!
+Walk to:
+Forsyth Park & fountain
+Collins Quarter at Forsyth
+Husk Savannah
+The Grey
+Historic Squares & SCAD buildings
+Broughton Street shopping
+River Street waterfront
+No car required - the entire Historic District is outside your door.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,350 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

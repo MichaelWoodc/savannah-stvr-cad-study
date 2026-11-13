@@ -1,0 +1,459 @@
+URL: https://www.airbnb.com/rooms/32334537
+Title: Grand Manor on Broughton by Lucky Savannah
+Latitude: 32.0774
+Longitude: -81.0856
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 9
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located on Savannah's most famed street, enjoy all the modern amenities this home has to offer while staying true to the build date of 1860.
+
+The space
+Enjoy a grand visit at Broughton Estate with all the modern amenities you learn to love while on vacation. This three-bedroom home on Broughton Street - Savannah's "Main Street" - is within short walking distance to most of downtown's best shopping, dining, and attractions. 
+
+An architectural gem, this home offers the original historic details dating back to 1860, including intricate iron work and meticulously maintained interiors. The home's large parlors are perfect for your guests, for short or extended stays. With ample room for up to six Lucky guests, you truly feel like a local. Share a home-cooked (or catered) meal with friends and family at the formal dining room. Or, sip a few glasses of wine in the string light-lit courtyard before heading out for a night on the town.
+
+Enter this home on the ground level, where you will locate the fully stocked kitchen, a cozy breakfast nook, and a large inviting bedroom with King bed. On the second floor, you will be amazed by the impeccable crown-moldings throughout the bright and grand parlors. A formal dining room with seating for 6 open to the tastefully decorated living room gives ease while entertaining your guests. Located on the third floor are two large bedrooms, one with Queen bed and Twin sleeper chair, and then a primary suite with King bed. Guests will enjoy the luxurious beds with hotel-grade linens and plenty of closet space to feel at home. An en suite bath with double vanity, standing shower and large soaking tub can be found just off the primary bedroom.
+
+Whats parking like for this home?
+The garage that accommodates two full size sedans, or two mid-size SUV's, is conveniently located across the courtyard to ease guests peace of mind and eliminate the stress of finding parking on-street.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: King Bed
+Bedroom 3: Queen Bed and Twin Sleeper Chair
+2nd Floor Living Room: Queen Sleeper Sofa
+
+SVR-01018
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Grand Manor on Broughton by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+9 guests · 3 bedrooms · 5 beds · 2.5 baths
+Rated 4.55 out of 5 stars.
+4.55
+·
+20 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+On Broughton Street in historic Savannah
+Right on Broughton Street, with Washington Square steps away and River Street within walking distance
+Private two-car garage
+A private garage across the courtyard fits two cars, a real convenience on busy Broughton Street
+A walkable home base, per guests
+Guests describe it as a beautiful historic home that's convenient for exploring Savannah on foot
+Located on Savannah's most famed street, enjoy all the modern amenities this home has to offer while staying true to the build date of 1860.
+
+The space
+Enjoy a grand visit at Broughton Estate with all the modern amenities you learn to love while on vacation. This three-bedroom home on Broughton Street - Savannah's "Main Street" - is within short walking distance to most of downtown's best shopping, dining, and attractions. 
+
+An architectural gem, this home offers the original historic details dating back to 1860, including intricate iron work and meticulously maintained interiors. The home's large parlors are perfect for your guests, for short or extended stays. With ample room for up to six Lucky guests, you truly feel like a local. Share a home-cooked (or catered) meal with friends and family at the formal dining room. Or, sip a few glasses of wine in the string light-lit courtyard before heading out for a night on the town.
+
+Enter this home on the ground level, where you will locate the fully stocked kitchen, a cozy breakfast nook, and a large inviting bedroom with King bed. On the second floor, you will be amazed by the impeccable crown-moldings throughout the bright and grand parlors. A formal dining room with seating for 6 open to the tastefully decorated living room gives ease while entertaining your guests. Located on the third floor are two large bedrooms, one with Queen bed and Twin sleeper chair, and then a primary suite with King bed. Guests will enjoy the luxurious beds with hotel-grade linens and plenty of closet space to feel at home. An en suite bath with double vanity, standing shower and large soaking tub can be found just off the primary bedroom.
+
+Whats parking like for this home?
+The garage that accommodates two full size sedans, or two mid-size SUV's, is conveniently located across the courtyard to ease guests peace of mind and eliminate the stress of finding parking on-street.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: King Bed
+Bedroom 3: Queen Bed and Twin Sleeper Chair
+2nd Floor Living Room: Queen Sleeper Sofa
+
+SVR-01018
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.55 out of 5 stars from 20 reviews
+4.55 · 20 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 70% of reviews
+5
+4 stars, 20% of reviews
+4
+3 stars, 5% of reviews
+3
+2 stars, 5% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.6 out of 5 stars for cleanliness
+Cleanliness
+4.6
+Rated 4.4 out of 5 stars for accuracy
+Accuracy
+4.4
+Rated 4.4 out of 5 stars for check-in
+Check-in
+4.4
+Rated 4.4 out of 5 stars for communication
+Communication
+4.4
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.3 out of 5 stars for value
+Value
+4.3
+Guest reviews mention
+Walkability
+5
+Parking
+4
+Location
+9
+Bathroom
+6
+Indoor spaces
+6
+Access
+3
+Sleep quality
+5
+Family
+4
+Outdoor spaces
+3
+Check-in
+3
+Jenny
+Anchorage, Alaska
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Stayed a few nights
+Beautiful Historic Home
+Loved the location, I highly recommend Java Burrito Company for coffee or happy hour. It’s just down the street from the property. 
+The house is convenient to see all that historic Savannah has to offer. It was perfect for our family of four.
+Show more
+Clayton
+Neptune Beach, Florida
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Group trip
+Enjoyed our stay and thought it was a beautiful home.
+Show more
+Brad
+High Springs, Florida
+Rating, 3 stars
+,
+·
+September 2023
+,
+·
+Stayed with kids
+Absolutely beautiful home, but bring your earplugs and a facemask because it is a noisy location and most of the blinds in the home do not function. 
+We arrived to find 4 dead cockroaches in the dirty toilet, dead roaches on the 2nd floor entryway and fallen plaster. 
+Master bath tub out of order and shower door hits (glass on glass!) 
+No shower or tub on first 2 floors (only one functioning bath)
+The home was obviously sitting before we checked in, and yet not granted early check-in
+Didn’t receive a response for our late check out request (which I sent 3x) until we had checked out and left the house.
+There was only one garage door opener, so we were only able to park in one of the garage spaces
+We did not love the threatening notes that were posted notifying you of extra charges for unusual things like putting tape on the wall (yet we found tape already stuck to the banister and wall & removed it so we wouldn’t be blamed), missing garage opener (when one was already missing), etc
+Show more
+Candace
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+February 2025
+,
+·
+Stayed a few nights
+Easy to find with plenty of street parking.  I recommend parking on the side street to unload, as you will access the house through the courtyard.  
+We had trouble with the lock box on the gate, and which one to use; there are 3.  Lucky Savannah was responsive in helping us.  There is a lovely courtyard with a fountain where you enter the back door.  After we were settled, we moved our car into the garage and left it there for most of the stay.  
+You need to have a little skill to get into the garage.  I recommend backing in.  Our car was a Toyota 4 Runner with roof racks and it was a snug fit. 
+The lower level has a large bedroom, powder bath, and kitchen. 
+The second floor has a lovely sitting room, a large dining room and powder room, with access to an elevated porch with stairs to the courtyard.  
+The upper level has 2 spacious bedrooms and 2 private baths.  The bathing facilities are on this level, up several flights of stairs.  
+The neighborhood is very friendly and walkable.
+Show more
+Andrew C
+Port Orange, Florida
+Rating, 4 stars
+,
+·
+March 2024
+,
+·
+Group trip
+Everything was very nice.
+No shower bath on 1st floor.
+Have to climb 2 flights of stairs to get to the shower. Difficult task for elderly.
+Show more
+Jason
+Peachtree City, Georgia
+Rating, 5 stars
+,
+·
+March 2024
+,
+·
+Stayed with kids
+Nice place. Big bedrooms. Noisy being on the Main Street but that’s to be expected. Overall nice place and nice being able to walk everywhere.
+Show all 20 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+9 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

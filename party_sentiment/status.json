@@ -1,0 +1,10 @@
+{
+  "updated_utc": "2026-10-28T06:49:06.545821+00:00",
+  "pid": 23588,
+  "state": "complete",
+  "completed": 758,
+  "total": 758,
+  "device": "NVIDIA T1000 8GB",
+  "model": "MoritzLaurer/deberta-v3-base-zeroshot-v1.1-all-33",
+  "elapsed_seconds": 60
+}

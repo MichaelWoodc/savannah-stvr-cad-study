@@ -1,0 +1,439 @@
+URL: https://www.airbnb.com/rooms/1630261254304591886
+Title: Park Place, Unit C - Sleeps 4, 3 Min. Walk to Park
+Latitude: 32.071244118026364
+Longitude: -81.09701802819782
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Welcome to Unit C at Park Place, a bright and inviting second‑floor retreat tucked into the quiet back corner of the property’s walled courtyard. Just a three‑minute walk to both Forsyth Park and Chatham Square in Savannah’s South Historic District, this thoughtfully designed home sits in an area with free street parking and short walks to both the nearest north–south and east–west fare‑free shuttle stops, making it easy to explore the city like a local.
+
+The space
+The Space
+
+This charming upstairs unit offers a peaceful home base with everything you need for a comfortable stay.
+
+Inside you’ll find:  
+
+- A comfortable living and dining area with plentiful seating and a smart TV  
+- A fully equipped kitchen with everything you need for cooking at home  
+- 2 spacious bedrooms, each with a queen bed and ample storage  
+- 1 full bathroom, stocked with Public Goods bath products  
+- A quiet corner location in the back of the courtyard—ideal for guests who value calm and privacy  
+
+Step outside to enjoy the shared, walled courtyard, a lovely spot for morning coffee or an evening wind‑down after exploring the city.
+
+Walkable Location
+You’ll be staying in one of Savannah’s most desirable neighborhoods, surrounded by leafy squares, beautiful architecture, and local favorites.
+
+Next door, the Savannah Yoga Center offers convenient drop‑in classes, and Savannah on Wheels—just a 6‑minute walk away—rents both standard and electric bikes for easy city cruising.
+
+Perfect for…
+- Couples traveling together  
+- Small groups or families seeking a quiet, private home base  
+- Business travelers who want comfort and walkability  
+- Guests who want to live like locals in a primarily residential pocket of the Historic District  
+- Visitors attending events at Enmarket Arena — enjoy an easy 11‑minute walk through two peaceful squares to reach the arena shuttle pick‑up, or opt for a quick 6‑minute drive  
+
+SVR-02511
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet
+Entertainment
+Ethernet connection
+TV
+Family
+Pack ’n play/Travel crib - always at the listing
+Children’s dinnerware
+Heating and cooling
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Baking sheet
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Outdoor
+BBQ grill
+Parking and facilities
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Not included
+Unavailable: Air conditioning
+Air conditioning
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+This place may not have a carbon monoxide detector. Reach out to the host with any questions.
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Park Place, Unit C - Sleeps 4, 3 Min. Walk to Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Rated 5.0 out of 5 stars.
+5.0
+·
+4 reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+In Savannah's South Historic District
+Chatham Square is right outside, with Forsyth Park and Monterey Square within a 5-min walk
+Full kitchen with in-unit laundry
+A full kitchen with oven, dishwasher, and coffee maker, plus an in-unit washer and dryer
+Walkable and quiet, per guests
+Guests highlight the walkable location and quiet setting, with the host praised for quick responses
+Some info has been automatically translated. Show original
+Welcome to Unit C at Park Place, a bright and inviting second‑floor retreat tucked into the quiet back corner of the property’s walled courtyard. Just a three‑minute walk to both Forsyth Park and Chatham Square in Savannah’s South Historic District, this thoughtfully designed home sits in an area with free street parking and short walks to both the nearest north–south and east–west fare‑free shuttle stops, making it easy to explore the city like a local.
+
+The space
+The Space
+
+This charming upstairs unit offers a peaceful home base with everything you need for a comfortable stay.
+
+Inside you’ll find:  
+
+- A comfortable living and dining area with plentiful seating and a smart TV  
+- A fully equipped kitchen with everything you need for cooking at home  
+- 2 spacious bedrooms, each with a queen bed and ample storage  
+- 1 full bathroom, stocked with Public Goods bath products  
+- A quiet corner location in the back of the courtyard—ideal for guests who value calm and privacy  
+
+Step outside to enjoy the shared, walled courtyard, a lovely spot for morning coffee or an evening wind‑down after exploring the city.
+
+Walkable Location
+You’ll be staying in one of Savannah’s most desirable neighborhoods, surrounded by leafy squares, beautiful architecture, and local favorites.
+
+Next door, the Savannah Yoga Center offers convenient drop‑in classes, and Savannah on Wheels—just a 6‑minute walk away—rents both standard and electric bikes for easy city cruising.
+
+Perfect for…
+- Couples traveling together  
+- Small groups or families seeking a quiet, private home base  
+- Business travelers who want comfort and walkability  
+- Guests who want to live like locals in a primarily residential pocket of the Historic District  
+- Visitors attending events at Enmarket Arena — enjoy an easy 11‑minute walk through two peaceful squares to reach the arena shuttle pick‑up, or opt for a quick 6‑minute drive  
+
+SVR-02511
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Free washer – In unit
+Dryer
+Bathtub
+Luggage dropoff allowed
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 42 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+5.0 out of 5 stars from 4 reviews
+5.0 · 4 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Daniel
+Fayetteville, Arkansas
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Great location!
+AnnMarie
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Convenient location and quiet at night.  
+Chaz was always quick to respond with any questions and was always friendly.
+Angie
+Fort Lee, New Jersey
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Great place! A little overpriced for 3 nights but in general everything was great!
+Brittany
+Denver, Colorado
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+We loved our stay! Such a quaint apartment nestled in the quiet streets of historic Savannah. Walkable to all downtown areas! We will stay again when we return!
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Chaz
+Superhost
+3,099 reviews
+3099
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm not reported
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

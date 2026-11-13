@@ -1,0 +1,472 @@
+URL: https://www.airbnb.com/rooms/1365504745817753228
+Title: Downtown Savannah, 3 bedroom, Walk to Forsyth Park
+Latitude: 32.0649
+Longitude: -81.0913
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/Southern Grace Stays
+Host ID: 561893930
+Host profile ID: 1463880952280947353
+Host URL: https://www.airbnb.com/users/profile/1463880952280947353
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+The Loft at Bolton Heritage blends modern comfort with historic charm in a beautifully renovated Savannah retreat. This inviting second-floor unit, in a shared home, features three uniquely themed bedrooms, a cozy living area with a built-in bar, and a fully equipped kitchen. Guests can relax in the shared fenced backyard or unwind on the private upper porch with rocking chairs. With smart TVs, laundry facilities, and free street parking, The Loft offers style and convenience for any stay.
+
+The space
+Nestled in the heart of the Savannahs' Victorian District, this Victorian duplex offers a delightful blend of historic charm and modern amenities. Built in 1912 and meticulously renovated in 2024, The interior of The Loft at Bolton Heritage exudes a perfect balance of modern comfort and historic charm. The second floor unit boasts three distinct bedrooms, each with its own unique theme—ranging from coastal elegance, to french country in the second, and glam elements in the third. Elegant hardwood floors and stylish furnishings throughout create a warm and inviting atmosphere, while four smart TVs ensure entertainment at every turn. The fully equipped kitchen offers all the conveniences needed to prepare meals, while the built-in bar area adds a touch of sophistication. Cozy, thoughtful design elements provide a welcoming ambiance, making each corner of the space feel like a true home away from home.
+
+
+
+The duplex's outdoor spaces are equally charming. The front porch, with its rocking chairs, invites you to relax and enjoy a glass of wine as you watch the world go by. At the back, the rear shared patio features a propane grill and a dining table for six, perfect for alfresco meals. Beyond the deck, a small fenced-in area provides a safe and convenient space to hang out. Located less than three blocks from Forsyth Park, this duplex places you within easy reach of Savannah's most iconic attractions, making it an ideal home base for exploring the city's rich history and vibrant culture.
+
+
+
+SVR-02923
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+The duplexes prime location is a significant draw for guests. Being less than three blocks from Forsyth Park, visitors have easy access to one of Savannah's most iconic and picturesque spots. The surrounding Victorian District is a treasure trove of cultural and historical attractions, charming boutiques, art galleries, and over 100 restaurants. After a day of exploring the city's vibrant scene, guests can unwind on the inviting front porch, enjoy alfresco dining on the rear deck, or let their pets play in the fenced-in area. With its ideal mix of historic charm, modern amenities, and convenient location, The Loft at Bolton Heritage offers a truly unique and memorable Savannah experience.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Children’s dinnerware
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+Exterior security cameras are present at all entrances
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Downtown Savannah, 3 bedroom, Walk to Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+46 reviews
+46
+Reviews
+Hosted by Laura W/Southern Grace Stays
+Superhost · 3 years hosting
+Listing highlights
+In Savannah's Victorian District
+About a 5-min walk to Forsyth Park, with Whitefield Square and historic churches nearby
+1912 duplex renovated in 2024
+A built-in bar, themed bedrooms, and a rear patio with a grill and dining table for six
+Charming, comfortable, and well hosted
+Guests highlight the charming decor, comfortable beds, and Laura's responsive communication
+Some info has been automatically translated. Show original
+The Loft at Bolton Heritage blends modern comfort with historic charm in a beautifully renovated Savannah retreat. This inviting second-floor unit, in a shared home, features three uniquely themed bedrooms, a cozy living area with a built-in bar, and a fully equipped kitchen. Guests can relax in the shared fenced backyard or unwind on the private upper porch with rocking chairs. With smart TVs, laundry facilities, and free street parking, The Loft offers style and convenience for any stay.
+
+The space
+Nestled in the heart of the Savannahs' Victorian District, this Victorian duplex offers a delightful blend of historic charm and modern amenities. Built in 1912 and meticulously renovated in 2024, The interior of The Loft at Bolton Heritage exudes a perfect balance of modern comfort and historic charm. The second floor unit boasts three distinct bedrooms, each with its own unique theme—ranging from coastal elegance, to french country in the second, and glam elements in the third. Elegant hardwood floors and stylish furnishings throughout create a warm and inviting atmosphere, while four smart TVs ensure entertainment at every turn. The fully equipped kitchen offers all the conveniences needed to prepare meals, while the built-in bar area adds a touch of sophistication. Cozy, thoughtful design elements provide a welcoming ambiance, making each corner of the space feel like a true home away from home.
+
+
+
+The duplex's outdoor spaces are equally charming. The front porch, with its rocking chairs, invites you to relax and enjoy a glass of wine as you watch the world go by. At the back, the rear shared patio features a propane grill and a dining table for six, perfect for alfresco meals. Beyond the deck, a small fenced-in area provides a safe and convenient space to hang out. Located less than three blocks from Forsyth Park, this duplex places you within easy reach of Savannah's most iconic attractions, making it an ideal home base for exploring the city's rich history and vibrant culture.
+
+
+
+SVR-02923
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+The duplexes prime location is a significant draw for guests. Being less than three blocks from Forsyth Park, visitors have easy access to one of Savannah's most iconic and picturesque spots. The surrounding Victorian District is a treasure trove of cultural and historical attractions, charming boutiques, art galleries, and over 100 restaurants. After a day of exploring the city's vibrant scene, guests can unwind on the inviting front porch, enjoy alfresco dining on the rear deck, or let their pets play in the fenced-in area. With its ideal mix of historic charm, modern amenities, and convenient location, The Loft at Bolton Heritage offers a truly unique and memorable Savannah experience.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Exterior security cameras on property
+Show all 57 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 46 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+11
+Parking
+9
+Location
+20
+Comfort
+14
+Decor
+11
+Hospitality
+19
+Bathroom
+8
+Cleanliness
+12
+Check-in
+5
+Sleep quality
+7
+Mariah
+Alpharetta, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Laura was a great host; very communicative and lovely to work with. The unit was spacious and clean; it was also very easy to check in because we had our own code and no physical key to have to keep track of. We truly had everything we needed for our stay. The kitchen was well-stocked and the bathrooms had plenty of towels and mini toiletries. There was even a washer/dryer with detergent pods to use! We brought our own since every Airbnb I've stayed at required guests to bring their own laundry supplies, so that was a thoughtful touch. The decor was super cute and I really appreciated the tasteful upgrades made throughout - upgrades that respected the integrity of a 100+ year old home. I really appreciated the free street parking, too (not always easy to find in Savannah!) and the unit is close to everything. Very walkable, plus Tybee is just a half-hour drive. We really enjoyed our stay and would definitely stay here again!
+Show more
+Denise
+1 month on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Quaint loft that felt like home. Spacious bedrooms and baths. A very welcoming comfortable property.
+Show more
+Gina & Erin
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+House is in a great location - quiet, walkable, and close to everything in Downtown Savannah. Beds were comfortable, shower had good water pressure. Great spot.
+Show more
+Shalee
+Glendale, Oregon
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Group trip
+Your home was very comfortable, great location
+Show more
+Melissa
+Port St. Lucie, Florida
+Rating, 3 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+“The Loft at Bolton” was a decent stay and got the job done. We 1st requested a slightly earlier for 3pm. The response seemed positive that Laura, the host, would accommodate and let us know if there were no last minute bookings. Day before, we were sent a link to pay an additional $45 for a 3 pm check in. (Around $200 for earlier.) She made it clear that no exceptions would be made. Although the house sat empty, we sat outside at 3:30 and waited.. 
+1 day into the trip the main shower stopped working..The AC unit is very old and struggles to stay below 74 degrees. We followed all instructions to not go below 68 and it was still hot. The bathroom drains are clogged. Tv in back room didn’t work for days.I requested an 11 am check out and she declined after knowing we had multiple issues. Had we been accommodated on any basic request, I would have been more forgiving about the inconveniences we experienced. But her lack of flexibility was off-putting and a little greedy to say the least
+Show more
+Zehra
+Land O' Lakes, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Loved staying at Southern Grace.  Host was very responsive when we reported an issue with the bathroom sink and it was fixed within a few hours.  Great location and we were able to walk to restaurants, Kroger and Forsyth Park.  no problem finding street parking right outside.
+Show more
+Show all 46 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Laura W/Southern Grace Stays
+Superhost
+1,386 reviews
+1386
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+3 years of hosting
+3
+Years hosting
+My work: Southern Grace Stays
+Favorite song in high school: Livin on a Prayer
+Savannah is home, hospitality is my passion, and making guests feel welcome is what I do best! I love beautiful spaces, great food, Southern charm, and sharing the best of Savannah with visitors. When I’m not hosting, you’ll usually find me working on a new property project, hunting for the perfect décor piece, or planning my next getaway. Come for the stay, leave with a little Southern Grace!
+Laura W/Southern Grace Stays is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Townhome vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

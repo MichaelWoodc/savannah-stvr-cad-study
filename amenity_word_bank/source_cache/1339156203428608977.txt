@@ -1,0 +1,445 @@
+URL: https://www.airbnb.com/rooms/1339156203428608977
+Title: Big Groups! Walk to River Street| Bars| Shopping
+Latitude: 32.07771641535433
+Longitude: -81.09094404420671
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sid
+Host ID: 136433479
+Host profile ID: 1468358408345466394
+Host URL: https://www.airbnb.com/users/profile/1468358408345466394
+Bedrooms: 10
+Occupancy (maximum guests): 16
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 10
+
+Beds enumerated in room tiles: 10
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 queen bed
+
+Bedroom 5
+1 king bed
+
+Bedroom 6
+1 queen bed
+
+Bedroom 7
+1 queen bed
+
+Bedroom 8
+1 king bed
+
+Bedroom 9
+1 king bed
+
+Bedroom 10
+1 king bed
+
+=== FULL DESCRIPTION ===
+Incredible location and views from this unique property, located on the St. Patty's Day Parade route and a short 2 minute walk from Broughton St and all shopping/dining. Six ensuite king beds and 4 queen beds plus one pullout couch await your group in this large, historic home. Soak in Savannah's rich history and enjoy this unbelievably well preserved historic mansion.
+
+The space
+Welcome to The Southern Sailor, a historic retreat built in 1853 by Captain Henry James Dickerson, a key figure in Savannah’s maritime history.
+
+This unique property seamlessly combines four charming apartments into one expansive home, offering 10 bedrooms and 10 bathrooms. Perfect for large groups, family reunions, or small retreats, The Southern Sailor comfortably accommodates up to 24 guests, providing plenty of space to gather, relax, and enjoy Savannah’s timeless beauty.
+
+Located in the heart of Savannah’s Historic District, this home offers an incredibly walkable location where no car is needed. Simply Uber from the airport and explore the city on foot, from historic squares and landmarks to world-class dining and shopping. Positioned on the St. Patrick’s Day parade route, The Southern Sailor puts you at the center of one of Savannah’s most celebrated traditions.
+
+Inside, you’ll find a stunning blend of historic charm and modern amenities, with exposed brick interiors and panoramic views of Savannah’s skyline. Whether you’re planning a special celebration, a peaceful retreat, or a memorable group getaway, The Southern Sailor provides a truly unique and inviting space to create unforgettable memories.
+
+All king bedrooms (total of 6) are ensuite for incredible privacy and comfort. Enjoy luxury linens on each bed. All four apartments of the main home are combined to form this unique listing, perfect for groups of any size. Guests will enjoy the extremely walkable location as well as 4 kitchens, 3 outdoor balconies (one rooftop) and even a movie room. Let the Souther Sailor create an amazing backdrop to your unforgettable vacation in Savannah.
+
+Short-Term Vacation Rental Certificate: SVR-03092
+Short-Term Vacation Rental Certificate: SVR-03093
+Short-Term Vacation Rental Certificate: SVR-03094
+Short-Term Vacation Rental Certificate: SVR-03095
+
+Other things to note
+Parking is available at the State Street Parking Garage for a daily rate of $12. The garage is conveniently located just a two-minute walk across the square. Additionally, electric vehicle charging stations are available within the facility.
+
+Short-Term Vacation Rental Certificate: SVR-03092
+Short-Term Vacation Rental Certificate: SVR-03093
+Short-Term Vacation Rental Certificate: SVR-03094
+Short-Term Vacation Rental Certificate: SVR-03095
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Egyptian cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+Ethernet connection
+43 inch HDTV with Amazon Prime Video, Apple TV, Chromecast, Disney+, Fire TV, HBO Max, Hulu, Netflix, Roku
+Movie theater
+Family
+Pack ’n play/Travel crib - always at the listing
+Standalone high chair - always at the listing
+With padding, straps/harness, and food tray
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Portable fans
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Coffee maker: drip coffee maker, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Hammock
+Outdoor dining area
+Parking and facilities
+Free street parking
+EV charger
+Guests can charge their electric vehicles on the property
+Paid parking garage off premises
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Housekeeping available from 9:00 AM to 5:00 PM, every day - available at extra cost
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Big Groups! Walk to River Street| Bars| Shopping
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+16+ guests · 10 bedrooms · 10 beds · 8.5 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+2 reviews
+Hosted by Sid
+Superhost · 9 years hosting
+Listing highlights
+In Savannah's Historic District
+Oglethorpe Square is right outside, with Broughton Street shopping and dining about a 5-min walk
+1853 mansion with four kitchens
+Four kitchens, a home theater, and a rooftop balcony across a mansion built in 1853
+Spotless and well managed by Sid
+Both reviewers highlight the spotless condition and walkable location, with the host praised by name
+Some info has been automatically translated. Show original
+Incredible location and views from this unique property, located on the St. Patty's Day Parade route and a short 2 minute walk from Broughton St and all shopping/dining. Six ensuite king beds and 4 queen beds plus one pullout couch await your group in this large, historic home. Soak in Savannah's rich history and enjoy this unbelievably well preserved historic mansion.
+
+The space
+Welcome to The Southern Sailor, a historic retreat built in 1853 by Captain Henry James Dickerson, a key figure in Savannah’s maritime history.
+
+This unique property seamlessly combines four charming apartments into one expansive home, offering 10 bedrooms and 10 bathrooms. Perfect for large groups, family reunions, or small retreats, The Southern Sailor comfortably accommodates up to 24 guests, providing plenty of space to gather, relax, and enjoy Savannah’s timeless beauty.
+
+Located in the heart of Savannah’s Historic District, this home offers an incredibly walkable location where no car is needed. Simply Uber from the airport and explore the city on foot, from historic squares and landmarks to world-class dining and shopping. Positioned on the St. Patrick’s Day parade route, The Southern Sailor puts you at the center of one of Savannah’s most celebrated traditions.
+
+Inside, you’ll find a stunning blend of historic charm and modern amenities, with exposed brick interiors and panoramic views of Savannah’s skyline. Whether you’re planning a special celebration, a peaceful retreat, or a memorable group getaway, The Southern Sailor provides a truly unique and inviting space to create unforgettable memories.
+
+All king bedrooms (total of 6) are ensuite for incredible privacy and comfort. Enjoy luxury linens on each bed. All four apartments of the main home are combined to form this unique listing, perfect for groups of any size. Guests will enjoy the extremely walkable location as well as 4 kitchens, 3 outdoor balconies (one rooftop) and even a movie room. Let the Souther Sailor create an amazing backdrop to your unforgettable vacation in Savannah.
+
+Short-Term Vacation Rental Certificate: SVR-03092
+Short-Term Vacation Rental Certificate: SVR-03093
+Short-Term Vacation Rental Certificate: SVR-03094
+Short-Term Vacation Rental Certificate: SVR-03095
+
+Other things to note
+Parking is available at the State Street Parking Garage for a daily rate of $12. The garage is conveniently located just a two-minute walk across the square. Additionally, electric vehicle charging stations are available within the facility.
+
+Short-Term Vacation Rental Certificate: SVR-03092
+Short-Term Vacation Rental Certificate: SVR-03093
+Short-Term Vacation Rental Certificate: SVR-03094
+Short-Term Vacation Rental Certificate: SVR-03095
+Show more
+All sleeping arrangements
+
+Advertised beds: 10 | Enumerated: 10 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 queen bed
+
+Bedroom 5
+1 king bed
+
+Bedroom 6
+1 queen bed
+
+Bedroom 7
+1 queen bed
+
+Bedroom 8
+1 king bed
+
+Bedroom 9
+1 king bed
+
+Bedroom 10
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+43 inch HDTV with Amazon Prime Video, Apple TV, Chromecast, Disney+, Fire TV, HBO Max, Hulu, Netflix, Roku
+EV charger
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Private patio or balcony
+Show all 61 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+2 reviews
+2 reviews
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Jay
+Baltimore, Maryland
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+They say you get what you pay for and this location doesn't disappoint.  The space was large but also contained areas were one could have some alone time to read a book or take in a movie.  The entire unit was spotless and each individual unit could function on its own.  We had game night in one of the open spaces for 15 people.  It's tough to keep a space that big clean but Sid definitely accomplished it. After the trip I polled everyone and came back with zero complaints.  From the 5 year old to the 80 year old we had a blast. Each unit even had a coffee maker with coffee provided.  We truly enjoyed our stay from sun up to sun down. Everything is within walking distance.  From the parking pass to the suggested restaurants/ attractions Sid covered every angle.  Job well done.
+Show more
+Alfredo
+South Bend, Indiana
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Group trip
+Great place.  Plenty of space.   Great location.  Easy to walk to downtown.   Would definitely come back to this Airbnb.
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Sid
+Superhost
+2,494 reviews
+2494
+Reviews
+4.74 out of 5 average rating
+4.74
+Rating
+9 years of hosting
+9
+Years hosting
+My work: Sid Was Here Short Term Rentals
+Speaks Spanish
+I absolutely love being an AirBNB host. I have met wonderful people from all over the world. My husband and I have rehabbed, decorated and furnished each property ourselves and I love a good theme. I also manage homes for other homeowners and I enjoy that tremendously. My husband is Don and we live nearby. We love to travel, but rarely get to. We both work full time and host in our spare time. Don was raised in a missionary family. He was born in Bolivia and raised in Peru. He speaks Spanish fluently. Julie is the face you'll see most often. She is a busy mom and spends a lot of time sewing (crochet and knitting) while watching her boys play baseball. Josh is the family squirrel expert. He found Sid, an infant squirrel in need of rescue. Sid Was Here was named in her memory.
+Sid is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Bella
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+No pets
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

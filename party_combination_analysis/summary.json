@@ -1,0 +1,13 @@
+{
+  "validated_properties": 484,
+  "properties_with_advertised_capacity": 472,
+  "direct_target_calls": 66,
+  "candidate_descriptions": 2359,
+  "distinct_property_groups": 840,
+  "fitted_tests": 547,
+  "fdr05_increases": 0,
+  "top_direct_candidates": 10,
+  "uncertainty_clusters": 282,
+  "source_sha256": "bdcd9bd6b66ad6386c2a69071c3205fcbfd5f5515713c0b57a3e55706b621503",
+  "policy": "Citizen initiation only; patrol excluded. Noise/loud-party/disturbance outcomes. Same-listing features and capacity. Clustered uncertainty; FDR across fitted direct and neighborhood tests."
+}

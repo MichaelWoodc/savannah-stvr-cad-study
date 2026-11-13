@@ -1,0 +1,15 @@
+{
+  "model": "MoritzLaurer/deberta-v3-base-zeroshot-v1.1-all-33",
+  "revision": "613e8c52c33e2bc0677ada4ad760f693e5e0f581",
+  "signature": "c41e7bfe66511426b9668fb76bb28d71a4050df7940ce3d54627429b2874e490",
+  "hypotheses": {
+    "party_welcome": "The host explicitly welcomes parties, celebrations or events at this rental property.",
+    "social_amenities": "The rental itself offers leisure or entertainment amenities for socializing, such as a hot tub, pool, games, bar, barbecue or outdoor gathering space.",
+    "party_restriction": "The host prohibits parties, events, loud noise or disruptive gatherings at this property.",
+    "nearby_nightlife": "The text describes bars, nightlife, entertainment venues or party activities nearby rather than at the rental itself."
+  },
+  "device": "NVIDIA T1000 8GB",
+  "torch": "2.11.0+cu128",
+  "threshold": 0.8,
+  "notes": "Call-blind zero-shot screening scores, not calibrated probabilities or confirmed behavior. Party signal additionally requires affirmative event-marketing language in one sentence; travel-group homonyms cannot supply the event. Review source excerpts."
+}

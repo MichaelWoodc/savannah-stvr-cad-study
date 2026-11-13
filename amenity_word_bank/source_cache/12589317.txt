@@ -1,0 +1,618 @@
+URL: https://www.airbnb.com/rooms/12589317
+Title: Private Parking, Walk Everywhere, Pool Access
+Latitude: 32.0751
+Longitude: -81.0961
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Tucked inside the historic Bird Baldwin House in the heart of Savannah's Historic District, Bird Baldwin Magnolia offers the rare combination of authentic historic character, modern comfort, dedicated parking, and an exceptionally walkable location. Leave your car parked and spend your days wandering beneath the city's iconic oak trees, discovering hidden squares, lingering over cocktails, and returning home to a spacious, welcoming retreat designed for relaxation and connection.
+
+The space
+Whether you're planning a romantic Savannah getaway, a long weekend with a friend, or a history-filled escape, Bird Baldwin Magnolia places you in the center of everything that makes Savannah unforgettable, all while providing the comfort and convenience that transform a good trip into a truly memorable one.
+
+
+
+Located on the ground floor of the historic Bird Baldwin House, this spacious one-bedroom condominium offers step-free access, keyless self check-in, gated entry, and a dedicated parking space directly behind the building. For travelers who appreciate both convenience and character, it is difficult to find a more desirable combination in Savannah's Historic District. From the moment you arrive, you'll feel the unique rhythm of Savannah. Step through the gated entrance, settle into your private retreat, and begin exploring one of America's most beautiful and walkable cities. Savannah Coffee Roasters sits directly next door, making it easy to start each morning with freshly roasted coffee before heading out to discover the city's museums, architecture, gardens, shops, and celebrated dining scene.
+
+
+
+Inside, Bird Baldwin Magnolia embraces the warmth and charm that make historic Savannah accommodations so special. The spacious living area features charming architectural details, comfortable furnishings, and plenty of room to unwind after a day spent exploring. Sink into the oversized leather sectional with ottoman and enjoy a quiet evening with your favorite movie, stream a show, or simply relax and plan tomorrow's adventures. For guests who enjoy slower moments, a cozy game table invites friendly rounds of chess or checkers over a glass of wine. Whether you're returning from a ghost tour, an afternoon of shopping, or dinner at one of Savannah's renowned restaurants, the living space creates the perfect setting to reconnect, relax, and enjoy each other's company.
+
+
+
+The fully equipped galley kitchen provides everything needed to prepare breakfast before a day of sightseeing or enjoy a relaxed dinner at home. Amenities include a full-size refrigerator, microwave, dishwasher, and two-burner cooktop. While there is no traditional full-size oven, the kitchen is thoughtfully equipped for preparing many of your favorite meals during your stay. The adjacent dining area comfortably seats four guests, creating a welcoming space to enjoy morning coffee, share meals, play cards, or map out the next day's itinerary. Many guests find that some of their favorite vacation memories happen during these simple, unhurried moments spent together.
+
+
+
+At the end of the day, retreat to the comfortable primary bedroom, designed to provide a restful and peaceful escape. The cozy queen bed invites you to sink in after long walks through Savannah's historic streets, while the in-room television offers streaming and cable options for a quiet evening indoors. The atmosphere feels warm, comfortable, and intentionally relaxed, making it easy to settle into vacation mode. The en suite bathroom features updated finishes, a single vanity, and a beautifully tiled tub and shower combination with a glass enclosure. A stacked washer and dryer tucked conveniently into the closet allows guests to pack lighter and enjoy the practical comforts of home throughout their stay.
+
+
+
+Just outside the rear entrance, guests will find a pair of rocking chairs and a side table near the gated parking area. While this space is not fully private, it offers a pleasant spot to enjoy a quiet cup of coffee in the morning, pause after an afternoon of sightseeing, or unwind with a drink as the evening settles over the city.
+
+
+
+One of Bird Baldwin Magnolia's greatest advantages is undoubtedly its location. Situated on Liberty Street in the center of Savannah's Historic District, many of the city's most beloved attractions are accessible on foot, allowing you to experience Savannah the way it was meant to be experienced: slowly, intentionally, and one beautiful square at a time. Take a leisurely ten-minute walk to Forsyth Park, where you can enjoy the famous fountain, weekend farmers market, and shaded walking paths. Head ten minutes in the opposite direction to reach Broughton Street, Savannah's premier shopping district, filled with boutiques, galleries, restaurants, and local businesses. Continue toward River Street, approximately fifteen minutes away, where cobblestone streets, riverfront dining, and historic warehouses create one of Savannah's most iconic experiences.
+
+
+
+History enthusiasts will especially appreciate the property's location. The Telfair Museum is just a five-minute walk away, while the historic Olde Pink House area, the Sorrel-Weed House Museum, and the Green-Meldrim House are all within easy walking distance. Scenic strolls through nearby Pulaski Square offer the perfect opportunity to admire Savannah's famous architecture, lush landscaping, and timeless beauty.
+
+
+
+When it's time to dine, you'll find some of Savannah's most beloved restaurants just steps from your door. Enjoy elevated Southern cuisine at The Public Kitchen, experience a true Savannah institution at Mrs. Wilkes' Dining Room, or grab a casual meal and local beer at Crystal Beer Parlor. For evening cocktails, nearby favorites include Artillery Bar, Peregrin Rooftop, and McDonough's, each offering its own distinct Savannah atmosphere.
+
+
+
+No matter the season, Savannah offers something special for visitors. Spring brings blooming azaleas, the world-famous St. Patrick's Day celebration, and the Savannah Music Festival. Summer invites guests to enjoy evening walks beneath moss-covered oaks, waterfront dining, and Fourth of July festivities. Fall brings cooler temperatures and beloved annual events such as the Savannah Jazz Festival, SCAD Film Festival, and Savannah Book Festival. During the winter months, visitors can experience the charm of Savannah Holly Days, the Lighted Boat Parade, and the festive River Street Christmas Market.
+
+
+
+Whether your ideal Savannah getaway includes historic tours, ghost walks, museum visits, shopping excursions, architecture tours, fine dining, or simply slowing down and enjoying the beauty of the city, Bird Baldwin Magnolia provides the perfect home base. Comfortable, spacious, and exceptionally well located, this historic Savannah vacation rental offers something increasingly rare: the ability to experience the city's rich history and vibrant culture while enjoying the practical conveniences that make travel effortless. Park your car, settle into the rhythm of Savannah, and discover why guests return to this remarkable city again and again.
+
+
+
+We invite you to make Bird Baldwin Magnolia part of your own Savannah story.
+
+
+
+SVR-00308
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs. Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Pool
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Private Parking, Walk Everywhere, Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.8 out of 5 stars.
+4.8
+135 reviews
+135
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Pulaski Square, with Chippewa Square and Madison Square about a 5-min walk away
+Free dedicated parking included
+A dedicated parking space behind the building, a real convenience in the Historic District
+Walkability guests love
+Guests consistently highlight the walkable location and how easy it is to explore on foot
+Tucked inside the historic Bird Baldwin House in the heart of Savannah's Historic District, Bird Baldwin Magnolia offers the rare combination of authentic historic character, modern comfort, dedicated parking, and an exceptionally walkable location. Leave your car parked and spend your days wandering beneath the city's iconic oak trees, discovering hidden squares, lingering over cocktails, and returning home to a spacious, welcoming retreat designed for relaxation and connection.
+
+The space
+Whether you're planning a romantic Savannah getaway, a long weekend with a friend, or a history-filled escape, Bird Baldwin Magnolia places you in the center of everything that makes Savannah unforgettable, all while providing the comfort and convenience that transform a good trip into a truly memorable one.
+
+
+
+Located on the ground floor of the historic Bird Baldwin House, this spacious one-bedroom condominium offers step-free access, keyless self check-in, gated entry, and a dedicated parking space directly behind the building. For travelers who appreciate both convenience and character, it is difficult to find a more desirable combination in Savannah's Historic District. From the moment you arrive, you'll feel the unique rhythm of Savannah. Step through the gated entrance, settle into your private retreat, and begin exploring one of America's most beautiful and walkable cities. Savannah Coffee Roasters sits directly next door, making it easy to start each morning with freshly roasted coffee before heading out to discover the city's museums, architecture, gardens, shops, and celebrated dining scene.
+
+
+
+Inside, Bird Baldwin Magnolia embraces the warmth and charm that make historic Savannah accommodations so special. The spacious living area features charming architectural details, comfortable furnishings, and plenty of room to unwind after a day spent exploring. Sink into the oversized leather sectional with ottoman and enjoy a quiet evening with your favorite movie, stream a show, or simply relax and plan tomorrow's adventures. For guests who enjoy slower moments, a cozy game table invites friendly rounds of chess or checkers over a glass of wine. Whether you're returning from a ghost tour, an afternoon of shopping, or dinner at one of Savannah's renowned restaurants, the living space creates the perfect setting to reconnect, relax, and enjoy each other's company.
+
+
+
+The fully equipped galley kitchen provides everything needed to prepare breakfast before a day of sightseeing or enjoy a relaxed dinner at home. Amenities include a full-size refrigerator, microwave, dishwasher, and two-burner cooktop. While there is no traditional full-size oven, the kitchen is thoughtfully equipped for preparing many of your favorite meals during your stay. The adjacent dining area comfortably seats four guests, creating a welcoming space to enjoy morning coffee, share meals, play cards, or map out the next day's itinerary. Many guests find that some of their favorite vacation memories happen during these simple, unhurried moments spent together.
+
+
+
+At the end of the day, retreat to the comfortable primary bedroom, designed to provide a restful and peaceful escape. The cozy queen bed invites you to sink in after long walks through Savannah's historic streets, while the in-room television offers streaming and cable options for a quiet evening indoors. The atmosphere feels warm, comfortable, and intentionally relaxed, making it easy to settle into vacation mode. The en suite bathroom features updated finishes, a single vanity, and a beautifully tiled tub and shower combination with a glass enclosure. A stacked washer and dryer tucked conveniently into the closet allows guests to pack lighter and enjoy the practical comforts of home throughout their stay.
+
+
+
+Just outside the rear entrance, guests will find a pair of rocking chairs and a side table near the gated parking area. While this space is not fully private, it offers a pleasant spot to enjoy a quiet cup of coffee in the morning, pause after an afternoon of sightseeing, or unwind with a drink as the evening settles over the city.
+
+
+
+One of Bird Baldwin Magnolia's greatest advantages is undoubtedly its location. Situated on Liberty Street in the center of Savannah's Historic District, many of the city's most beloved attractions are accessible on foot, allowing you to experience Savannah the way it was meant to be experienced: slowly, intentionally, and one beautiful square at a time. Take a leisurely ten-minute walk to Forsyth Park, where you can enjoy the famous fountain, weekend farmers market, and shaded walking paths. Head ten minutes in the opposite direction to reach Broughton Street, Savannah's premier shopping district, filled with boutiques, galleries, restaurants, and local businesses. Continue toward River Street, approximately fifteen minutes away, where cobblestone streets, riverfront dining, and historic warehouses create one of Savannah's most iconic experiences.
+
+
+
+History enthusiasts will especially appreciate the property's location. The Telfair Museum is just a five-minute walk away, while the historic Olde Pink House area, the Sorrel-Weed House Museum, and the Green-Meldrim House are all within easy walking distance. Scenic strolls through nearby Pulaski Square offer the perfect opportunity to admire Savannah's famous architecture, lush landscaping, and timeless beauty.
+
+
+
+When it's time to dine, you'll find some of Savannah's most beloved restaurants just steps from your door. Enjoy elevated Southern cuisine at The Public Kitchen, experience a true Savannah institution at Mrs. Wilkes' Dining Room, or grab a casual meal and local beer at Crystal Beer Parlor. For evening cocktails, nearby favorites include Artillery Bar, Peregrin Rooftop, and McDonough's, each offering its own distinct Savannah atmosphere.
+
+
+
+No matter the season, Savannah offers something special for visitors. Spring brings blooming azaleas, the world-famous St. Patrick's Day celebration, and the Savannah Music Festival. Summer invites guests to enjoy evening walks beneath moss-covered oaks, waterfront dining, and Fourth of July festivities. Fall brings cooler temperatures and beloved annual events such as the Savannah Jazz Festival, SCAD Film Festival, and Savannah Book Festival. During the winter months, visitors can experience the charm of Savannah Holly Days, the Lighted Boat Parade, and the festive River Street Christmas Market.
+
+
+
+Whether your ideal Savannah getaway includes historic tours, ghost walks, museum visits, shopping excursions, architecture tours, fine dining, or simply slowing down and enjoying the beauty of the city, Bird Baldwin Magnolia provides the perfect home base. Comfortable, spacious, and exceptionally well located, this historic Savannah vacation rental offers something increasingly rare: the ability to experience the city's rich history and vibrant culture while enjoying the practical conveniences that make travel effortless. Park your car, settle into the rhythm of Savannah, and discover why guests return to this remarkable city again and again.
+
+
+
+We invite you to make Bird Baldwin Magnolia part of your own Savannah story.
+
+
+
+SVR-00308
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs. Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.8 out of 5 from 135 reviews.
+4.8
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 85% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 4% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+65
+Parking
+33
+Location
+101
+Cleanliness
+46
+Nearby
+32
+Hospitality
+23
+Noise
+11
+Access
+6
+Condition
+10
+Pool
+6
+Ashleigh
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+This was a great place to stay! Extremely clean, walkable to everything we wanted, and quiet despite being along a main road. The host provided very clear instructions, even videos of how to operate the locks and where to park. Spacious and had everything we needed!
+Show more
+Brandi
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+My husband and I thoroughly enjoyed our stay!  Everything we wanted to see and do was within walking distance. From the moment we walked in the door it felt like home. We loved that we had private parking!  If you want a home where you can park and walk to see all that Savannah has to offer you won’t be disappointed!
+Show more
+Yuliet
+Miami, Florida
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had a wonderful stay and truly appreciated this beautiful historic home. It has so much character and charm, and we especially fell in love with the unique door locks, they were such a fun and memorable detail. The house was very clean, well-maintained, and stocked with all the essentials we needed for a comfortable stay.
+The location was another highlight. It was incredibly convenient and within walking distance of most of Savannah's popular attractions, which made exploring the city easy and enjoyable. Having dedicated parking was also a huge bonus.
+The only areas for improvement would be the mattress, which we found to be quite uncomfortable, and the noise from the upstairs unit. Because it's an older home, sound travels easily, and we could hear footsteps and doors closing throughout our stay.
+Overall, we are grateful for the opportunity to stay in such a lovely historic property. Despite the few minor drawbacks, we had a great experience and would certainly recommend it.
+Show more
+Jamie
+4 months on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Amazing experience with Southern Belle. The unit was in a great location within walking distance to everything we wanted to do. I was nervous at first because we were arriving well after dark, but they provided videos on where to park and how to access the gate and front door locks in advance of our arrival date. I felt much more at ease. We will book with Southern Belle again!
+Show more
+Ross
+Greenville, South Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+This was a great weekend away destination. The place was walking distance from so many beautiful squares, museums and restaurants. The place was clean and well taken care of. We would definitely come here again.
+Show more
+Tori
+Sunman, Indiana
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Great place!
+Show all 135 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Jones West
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Vacation rentals with a pool in Chatham County
+House vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

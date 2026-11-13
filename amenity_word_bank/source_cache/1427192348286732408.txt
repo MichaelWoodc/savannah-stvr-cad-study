@@ -1,0 +1,571 @@
+URL: https://www.airbnb.com/rooms/1427192348286732408
+Title: Historic District Hideaway | Renovated Garden Apt
+Latitude: 32.077
+Longitude: -81.087
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to your home away from home in the heart of Savannah. This one-bedroom, one-bath apartment is tucked on a quiet street in the Historic District. Just steps from squares, cafés, and shops. You will be in a super walkable location, yet peaceful enough area to truly unwind and relax. Recently updated, the space offers modern comforts, lots of natural light, a fully stocked kitchen, and a stunning bathroom all wrapped into a cozy retreat that honors its historic roots.
+
+The space
+If you’re looking for a Savannah getaway where you can walk out the door and immediately feel like you’re in the middle of everything you came here to experience, this is it!
+
+Tucked away on a quieter street in the heart of Savannah’s Historic District, this beautifully renovated one-bedroom apartment is just a short walk from River Street, Broughton Street, Savannah’s historic squares, coffee shops, restaurants, shopping + so much more.
+
+It really gives you the best of both worlds. You can spend your days exploring Savannah on foot, then come home to a quiet, comfortable space to slow down and relax at the end of the day.
+
+This cozy garden-level apartment has been thoughtfully renovated to feel comfortable and elevated while keeping the historic details that make Savannah homes so special.
+
+The brick floors are one of our favorite details and add so much character to the space.
+
+Inside, you’ll find a comfortable living room with a Smart TV, fully stocked kitchen + coffee bar, dedicated workspace, beautifully updated bathroom and private queen bedroom.
+
+It’s the perfect home base for a couple’s Savannah getaway, girls’ weekend, solo trip or even a longer stay when you want to settle in and experience the city a little more like a local.
+
+The bright, updated kitchen is fully stocked with stainless steel appliances, cookware, dishes, glassware + the everyday essentials you’ll need during your stay. We also stock na small coffee bar with a Keurig and coffee essentials for your mornings.
+
+Whether you’re actually planning to cook or just need somewhere to keep the leftovers from all the Savannah restaurants you’re going to try, you’ll have everything you need.
+
+Enjoy a comfortable queen bed with fresh linens, extra pillows and plenty of space to unpack.
+
+You’ll also find hangers, an iron, steamer and extra bedding tucked away in the closet.
+
+Traveling with a little one? We also provide a Pack ’n Play.
+
+
+The newly renovated bathroom is bright, fresh and thoughtfully updated with a spacious vanity, beautiful lighting and a stunning tiled walk-in shower.
+
+We also provide fluffy towels and basic toiletries so you can pack a little lighter.
+
+You’re right in the heart of Savannah’s Historic District, surrounded by the beautiful architecture, moss-draped live oaks, historic squares + cobblestone streets that probably made you want to visit Savannah in the first place.
+
+River Street is about a five-minute walk away, and you can easily walk to Broughton Street, restaurants, coffee shops, boutiques, museums, bars and so many of Savannah’s most-loved spots.
+
+And when you are ready to call it a night, you get to leave some of the busier tourist areas behind and come home to a quieter little corner of the Historic District.
+
+A FEW OF OUR FAVORITE DETAILS
+
+• Walkable Historic District location
+• Approximately 5 minutes to River Street
+• Quiet residential street
+• Private ground-level entrance
+• Keyless self check-in
+• Comfortable queen bedroom
+• Fully stocked kitchen
+• Keurig + stocked coffee bar
+• Fluffy towels + fresh linens
+• High-speed WiFi
+• Dedicated workspace
+• Smart TV
+• Beautifully renovated bathroom
+• Historic brick floors
+
+PARKING
+
+Parking is not included with the apartment, but paid street parking + city parking garages are available nearby.
+
+We’ll send our parking recommendations before check-in so you know exactly where to park and can make arrival as easy as possible.
+
+One of our favorite things about this stay is how easy it makes experiencing Savannah. You can walk almost everywhere you want to go, explore at your own pace and then come home to a cozy little space right in the middle of it all.
+
+Come and stay awhile—we can’t wait to host you in Savannah! 🤍
+
+SVR-02823
+
+Guest access
+Guests will have a private entrance on the ground level with keyless entry. Codes provided the day of arrival. Parking is not included, however there is ample paid street parking available adjacent to the apartment as well as city parking garages. More detailed parking info provided in booking confirmation.
+
+Other things to note
+Please note that the apartment does have brick floors throughout. There is not a washer or dryer. There are full time residents that live upstairs, which should not impact your stay, but there is a possibility you may hear walking or noises above at times.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib
+Outlet covers
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Parking and facilities
+Paid parking lot off premises
+Single level home
+No stairs in home
+Not included
+Unavailable: Washer
+Washer
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic District Hideaway | Renovated Garden Apt
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+45 reviews
+45
+Reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Washington Square is right outside, with Owens-Thomas House and River Street about a 10-min walk away
+Renovated apartment with brick floors
+Original brick floors, a stocked coffee bar, and a fully equipped kitchen in a renovated historic space
+Spotless space, attentive host
+Guests highlight how clean and well-stocked the space is, and many praise Alyssa's responsiveness
+Welcome to your home away from home in the heart of Savannah. This one-bedroom, one-bath apartment is tucked on a quiet street in the Historic District. Just steps from squares, cafés, and shops. You will be in a super walkable location, yet peaceful enough area to truly unwind and relax. Recently updated, the space offers modern comforts, lots of natural light, a fully stocked kitchen, and a stunning bathroom all wrapped into a cozy retreat that honors its historic roots.
+
+The space
+If you’re looking for a Savannah getaway where you can walk out the door and immediately feel like you’re in the middle of everything you came here to experience, this is it!
+
+Tucked away on a quieter street in the heart of Savannah’s Historic District, this beautifully renovated one-bedroom apartment is just a short walk from River Street, Broughton Street, Savannah’s historic squares, coffee shops, restaurants, shopping + so much more.
+
+It really gives you the best of both worlds. You can spend your days exploring Savannah on foot, then come home to a quiet, comfortable space to slow down and relax at the end of the day.
+
+This cozy garden-level apartment has been thoughtfully renovated to feel comfortable and elevated while keeping the historic details that make Savannah homes so special.
+
+The brick floors are one of our favorite details and add so much character to the space.
+
+Inside, you’ll find a comfortable living room with a Smart TV, fully stocked kitchen + coffee bar, dedicated workspace, beautifully updated bathroom and private queen bedroom.
+
+It’s the perfect home base for a couple’s Savannah getaway, girls’ weekend, solo trip or even a longer stay when you want to settle in and experience the city a little more like a local.
+
+The bright, updated kitchen is fully stocked with stainless steel appliances, cookware, dishes, glassware + the everyday essentials you’ll need during your stay. We also stock na small coffee bar with a Keurig and coffee essentials for your mornings.
+
+Whether you’re actually planning to cook or just need somewhere to keep the leftovers from all the Savannah restaurants you’re going to try, you’ll have everything you need.
+
+Enjoy a comfortable queen bed with fresh linens, extra pillows and plenty of space to unpack.
+
+You’ll also find hangers, an iron, steamer and extra bedding tucked away in the closet.
+
+Traveling with a little one? We also provide a Pack ’n Play.
+
+
+The newly renovated bathroom is bright, fresh and thoughtfully updated with a spacious vanity, beautiful lighting and a stunning tiled walk-in shower.
+
+We also provide fluffy towels and basic toiletries so you can pack a little lighter.
+
+You’re right in the heart of Savannah’s Historic District, surrounded by the beautiful architecture, moss-draped live oaks, historic squares + cobblestone streets that probably made you want to visit Savannah in the first place.
+
+River Street is about a five-minute walk away, and you can easily walk to Broughton Street, restaurants, coffee shops, boutiques, museums, bars and so many of Savannah’s most-loved spots.
+
+And when you are ready to call it a night, you get to leave some of the busier tourist areas behind and come home to a quieter little corner of the Historic District.
+
+A FEW OF OUR FAVORITE DETAILS
+
+• Walkable Historic District location
+• Approximately 5 minutes to River Street
+• Quiet residential street
+• Private ground-level entrance
+• Keyless self check-in
+• Comfortable queen bedroom
+• Fully stocked kitchen
+• Keurig + stocked coffee bar
+• Fluffy towels + fresh linens
+• High-speed WiFi
+• Dedicated workspace
+• Smart TV
+• Beautifully renovated bathroom
+• Historic brick floors
+
+PARKING
+
+Parking is not included with the apartment, but paid street parking + city parking garages are available nearby.
+
+We’ll send our parking recommendations before check-in so you know exactly where to park and can make arrival as easy as possible.
+
+One of our favorite things about this stay is how easy it makes experiencing Savannah. You can walk almost everywhere you want to go, explore at your own pace and then come home to a cozy little space right in the middle of it all.
+
+Come and stay awhile—we can’t wait to host you in Savannah! 🤍
+
+SVR-02823
+
+Guest access
+Guests will have a private entrance on the ground level with keyless entry. Codes provided the day of arrival. Parking is not included, however there is ample paid street parking available adjacent to the apartment as well as city parking garages. More detailed parking info provided in booking confirmation.
+
+Other things to note
+Please note that the apartment does have brick floors throughout. There is not a washer or dryer. There are full time residents that live upstairs, which should not impact your stay, but there is a possibility you may hear walking or noises above at times.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Air conditioning
+Pack ’n play/Travel crib
+Hair dryer
+Refrigerator
+Microwave
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 43 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 45 reviews.
+5.0
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+22
+Location
+30
+Parking
+11
+Hospitality
+20
+Cleanliness
+15
+Kitchen
+9
+Comfort
+10
+Bathroom
+7
+Accuracy
+7
+Access
+3
+Betsey
+Centennial, Colorado
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed a few nights
+Great host. Plenty of great recommendations. Very responsive to any questions we had. The place was very clean and walkable to the river, shopping and restaurants. We will definitely stay again and highly recommend.
+Show more
+Donald
+New York, New York
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+It is difficult to say how much we loved this place. Everything was perfect. Location ease of entry, beautiful apartment lots of room wonderful kitchen. We like to cook and it was so easy to do so. The location was also perfect right in between the downtown of Savannah and all the historic districts. A lot of the reviews talk about difficulties with parking in Savannah. We had absolutely no problem in finding a parking space. You do have to pay for eight hours a day, but the payment app that Savannah uses made that absolutely frictionless. When we arrived, we had a problem with the hot water. Their response was immediate and they had the problem fixed in a couple of hours. Very professional very helpful. This would be one of the best Airbnb rentals we have ever had.
+Show more
+Danielle
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had an amazing stay at this Airbnb! The home was spotless - truly one of the cleanest places we’ve stayed. The location couldn’t have been better; we were in close proximity to everything Savannah has to offer, making it easy to explore the city. Our host, Alyssa was fantastic and kept us informed every step of the way, had wonderful suggestions on places to visit and eat, which made the whole experience smooth and stress‑free. Highly recommend this place to anyone visiting Savannah!
+Show more
+Tamiya
+Spencer, North Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+My Husband and I had a blast! We love how close we were to everything! beautiful decorum. Parking was no issue although we were initially worried. Love how responsive Alyssa was! Super greatful we found this home, hope to return!
+Show more
+Emily
+Clemson, South Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+I’ve stayed at Alyssa’s places in Savannah a couple times now and each time has been excellent! She is prompt, responsive and extremely helpful with any needs you might have. She ensured my week long stay for work felt just like home. This was a great, peaceful place to come home to after long hours working. There is plenty of free and paid parking on the surrounding streets which made access to the apartment super easy.
+Show more
+Nicholas
+Tampa, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Such a perfect location. Walkable to everything you’d want and removed from the noise. We came for a slower vacation and this house allowed that
+Used the kitchen quite a lot for cooking and has all we needed. Will definitely be staying here again any time we want to come back to Savannah
+Show more
+Show all 45 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+You’re perfectly situated in Savannah’s Historic District — just far enough from the crowds to enjoy a quiet night’s sleep, yet close enough to walk to everything. Tree-lined streets, moss-draped oaks, and beautiful 19th-century architecture surround you.
+
+A short walk to Forsyth Park, River Street, and the city’s iconic squares
+
+Close to coffee shops, boutiques, art galleries, and local restaurants
+
+Quiet street with easy access to everything downtown offers
+Show more
+Meet your host
+Alyssa
+Superhost
+1,512 reviews
+1512
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

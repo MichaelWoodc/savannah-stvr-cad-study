@@ -1,0 +1,332 @@
+URL: https://www.airbnb.com/rooms/884707312671251380
+Title: Manior De Luxe Near Forsyth Park
+Latitude: 32.0714
+Longitude: -81.0989
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Allan
+Host ID: 376644934
+Host profile ID: 1463561123306813590
+Host URL: https://www.airbnb.com/users/profile/1463561123306813590
+Bedrooms: 4
+Occupancy (maximum guests): 12
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located in the heart of downtown Savannah and just steps away from Forsyth Park, this is the perfect home base for your next vacation. SVR-02739; SVR-02740
+
+The space
+The owner spared no expense in creating the most pleasurable experience one could ask for when visiting Savannah.   This home was recently purchased and made available to visitors.   Listed in the Savannah Morning News as the most expensive residential purchase at the time.  Inside you'll find that no detail has been overlooked.  This home is dripping in upscale amenities, from the gourmet chef's kitchen with wine fridge, 4 bedrooms 4 and a half baths with 3 private ensuites, to the beautiful private courtyard with two hot tubs.  This home is decorated beautifully and will leave you torn as to whether to explore Savannah or relax here in your own private Oasis. 
+
+The main house is equipped with a beautiful, fully equipped, custom kitchen  with a wine fridge and large island countertop.  The kitchen and dining area open to a spacious living area equiped with a 75 inch smart tv.  Upstairs there are three bedrooms,  each equipped with a 55 inch smart tv.  Two of the bedrooms have private ensuites and the third bedroom has access to a full bathroom for their private use.  Each bed is equipped with high end mattresses and bedding for the utmost sleeping comfort.  Outside, there is a private courtyard with an abundance of seating along with a hot tub for your outdoor relaxation.
+
+This home also has a charming carriage house, located on the opposite end of the courtyard.  The carriage house is equipped with a fully stocked private kitchen that opens to its own living area.   It also has a private bedroom with ensuite.  The living room is equipped with a queen sized sleeper sofa for your convenience.  The carriage house also has two 55 inch smart tv's.   the carriage house has its own private courtyard with private seating
+
+Finally, this home is equipped with a two car garage for your personal use.
+
+So if you're looking to stay in Savannah, here's an opportunity to stay in one of the most beautiful homes in one of the best locations Savannah has to offer....ENJOY!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Shampoo
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Outdoor furniture
+Parking and facilities
+Free parking garage on premises
+Hot tub
+Services
+Self check-in
+Smart lock
+Not included
+Unavailable: Hair dryer
+Hair dryer
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Manior De Luxe Near Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+12 guests · 4 bedrooms · 6 beds · 4.5 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+2 reviews
+Hosted by Allan
+Superhost · 6 years hosting
+Listing highlights
+In downtown Savannah near Forsyth Park
+Steps from Forsyth Park, with Monterey Square and Chatham Square also within a short walk
+Private courtyard with hot tub
+A private courtyard with a hot tub and plenty of seating between the main house and carriage house
+Spacious, clean, and comfortable
+A recent guest highlighted how clean, spacious, and comfortable the home was for a group stay
+Located in the heart of downtown Savannah and just steps away from Forsyth Park, this is the perfect home base for your next vacation. SVR-02739; SVR-02740
+
+The space
+The owner spared no expense in creating the most pleasurable experience one could ask for when visiting Savannah.   This home was recently purchased and made available to visitors.   Listed in the Savannah Morning News as the most expensive residential purchase at the time.  Inside you'll find that no detail has been overlooked.  This home is dripping in upscale amenities, from the gourmet chef's kitchen with wine fridge, 4 bedrooms 4 and a half baths with 3 private ensuites, to the beautiful private courtyard with two hot tubs.  This home is decorated beautifully and will leave you torn as to whether to explore Savannah or relax here in your own private Oasis. 
+
+The main house is equipped with a beautiful, fully equipped, custom kitchen  with a wine fridge and large island countertop.  The kitchen and dining area open to a spacious living area equiped with a 75 inch smart tv.  Upstairs there are three bedrooms,  each equipped with a 55 inch smart tv.  Two of the bedrooms have private ensuites and the third bedroom has access to a full bathroom for their private use.  Each bed is equipped with high end mattresses and bedding for the utmost sleeping comfort.  Outside, there is a private courtyard with an abundance of seating along with a hot tub for your outdoor relaxation.
+
+This home also has a charming carriage house, located on the opposite end of the courtyard.  The carriage house is equipped with a fully stocked private kitchen that opens to its own living area.   It also has a private bedroom with ensuite.  The living room is equipped with a queen sized sleeper sofa for your convenience.  The carriage house also has two 55 inch smart tv's.   the carriage house has its own private courtyard with private seating
+
+Finally, this home is equipped with a two car garage for your personal use.
+
+So if you're looking to stay in Savannah, here's an opportunity to stay in one of the most beautiful homes in one of the best locations Savannah has to offer....ENJOY!
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking garage on premises
+Hot tub
+TV
+Washer
+Dryer
+Air conditioning
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+2 reviews
+2 reviews
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Hiroki
+Hermosa Beach, California
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Had a birthday get together here  with friends flying in and we were all delighted to have such a clean, spacious and comfortable place to stay. The neighborhood is quiet and close and walkable to really enjoy the Savannah charm. Would definitely stay here again.
+Show more
+Priska
+Chicago, Illinois
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Allan’s place was great for a girl’s trip!
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Allan
+Superhost
+3,175 reviews
+3175
+Reviews
+4.86 out of 5 average rating
+4.86
+Rating
+6 years of hosting
+6
+Years hosting
+Speaks English and Spanish
+Lives in Savannah, Georgia
+My wife and I moved to Savannah over 14 years ago and fell in love with everything about the area. We have 2 kids that fill our lives with joy and excitement. I have an engineering and aerospace background and my wife has a background in Culinary Arts and makes custom decorated cakes and other treats.
+Allan is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Rebeca
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 9:00 PM
+Checkout before 11:00 AM
+12 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

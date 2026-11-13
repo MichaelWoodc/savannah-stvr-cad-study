@@ -1,0 +1,447 @@
+URL: https://www.airbnb.com/rooms/1147212330322085686
+Title: Liberty Garden - Ground Level, Huge Kitchen
+Latitude: 32.073
+Longitude: -81.0879
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+The natural light that fills the space gives it a bright and airy feel. Take a walk outside and explore the thriving city, or enjoy the tree-lined street and soak in the southern charm. End your day in the cozy bedroom, complete with a comfortable bed and luxurious linens. Perfect for couples, solo travelers, or a small family, this charming home is the ideal choice for your Savannah stay. Book now and experience the perfect mix of history and modern comfort on Liberty street.
+
+The space
+Enjoy a luxurious getaway in our professionally decorated and fully equipped home. With premium bedding and towels, every guest will feel pampered during their stay. The chef's kitchen is perfect for those who love to cook and entertain, featuring top of the line appliances and spacious countertops. Situated in a beautiful location, our home offers the perfect blend of comfort and style for a truly unforgettable vacation. Book now and experience the ultimate in luxury accommodations.
+
+STVR Certificate: SVR-01907
+
+Guest access
+Welcome to your home away from home! Our cozy and inviting space has everything you need for a comfortable stay. With access to the entire home and a spacious back patio, you'll have plenty of room to relax and unwind.
+
+Make yourself at home and enjoy all the amenities we have to offer. Whether you want to cozy up on the sofa and watch a movie, cook a delicious meal in the fully equipped kitchen, or enjoy a drink on the patio, our space is yours to enjoy.
+
+Treat this home like your own and you'll feel right at home. Book now and experience the comfort and convenience of our home. We can't wait to welcome you!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+Ethernet connection
+TV
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Baking sheet
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Cleaning available during stay
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Liberty Garden - Ground Level, Huge Kitchen
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+126 reviews
+126
+Reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Troup Square is steps away, and the Cathedral of St. John the Baptist is about a 5-min walk
+Full kitchen with a private patio
+A fully equipped kitchen with spacious countertops, a dishwasher, and a private back patio
+Spotless and welcoming
+Guests highlight how clean and comfortable the space is, with many returning for repeat stays
+The natural light that fills the space gives it a bright and airy feel. Take a walk outside and explore the thriving city, or enjoy the tree-lined street and soak in the southern charm. End your day in the cozy bedroom, complete with a comfortable bed and luxurious linens. Perfect for couples, solo travelers, or a small family, this charming home is the ideal choice for your Savannah stay. Book now and experience the perfect mix of history and modern comfort on Liberty street.
+
+The space
+Enjoy a luxurious getaway in our professionally decorated and fully equipped home. With premium bedding and towels, every guest will feel pampered during their stay. The chef's kitchen is perfect for those who love to cook and entertain, featuring top of the line appliances and spacious countertops. Situated in a beautiful location, our home offers the perfect blend of comfort and style for a truly unforgettable vacation. Book now and experience the ultimate in luxury accommodations.
+
+STVR Certificate: SVR-01907
+
+Guest access
+Welcome to your home away from home! Our cozy and inviting space has everything you need for a comfortable stay. With access to the entire home and a spacious back patio, you'll have plenty of room to relax and unwind.
+
+Make yourself at home and enjoy all the amenities we have to offer. Whether you want to cozy up on the sofa and watch a movie, cook a delicious meal in the fully equipped kitchen, or enjoy a drink on the patio, our space is yours to enjoy.
+
+Treat this home like your own and you'll feel right at home. Book now and experience the comfort and convenience of our home. We can't wait to welcome you!
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Backyard
+Pack ’n play/Travel crib
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 126 reviews.
+4.98
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+53
+Location
+82
+Cleanliness
+55
+Hospitality
+42
+Nearby
+23
+Comfort
+28
+Parking
+25
+Indoor spaces
+11
+Accuracy
+15
+Kitchen
+3
+Nancy
+Towson, Maryland
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Savannah is a great city to visit and this apartment is well located for walking and near restaurants and things to do. We felt safe in this neighborhood. Inside, the apartment is modern, kitchen is well appointed, and there was plenty of space for 1 or 2 people. Chaz and his team were very responsive and answered any questions we had.
+Show more
+Cara
+Tampa, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great place, more spacious than the pictures. Upstairs neighbors were a tad loud at night, but dwindled down eventually. The shower drain does not work and needs fixing. Bed feels great, love having a full kitchen and living space. Felt right at home during our stay in Savannah. Thanks Chaz.
+Show more
+Leyla
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We loved Chaz's apartment! It's cozy and centrally located.
+We had some questions, and the super friendly host responded promptly.
+It's close to several places of interest. We're invited to come back!
+Show more
+Nirmal Kumar
+Concord, North Carolina
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with kids
+Well placed and private apartment right in the heart of the city with plenty of places close by! Responsive host and was very accommodating!
+Joseph
+Fort Pierce, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This place was absolutely beautiful and such a lovely place to stay I enjoyed the surrounding restaurants in walking distance as well as the comfortable living space! Everything was just as described and the host was very helpful and communicative!
+Show more
+Kristen
+Frederick, Maryland
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+We loved our stay here! Clean, comfortable, and a great location. Chaz was very responsive and helpful. This was our second stay with them and we will return again! :)
+Show all 126 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Walk and bike to downtown in this safe, friendly neighborhood, and jog in nearby parks. Try some of the bars on River Street, with numerous restaurants and coffee shops also within easy reach. Tybee and the beach are a 25-minute drive from here.
+Show more
+Meet your host
+Chaz
+Superhost
+3,098 reviews
+3098
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,446 @@
+URL: https://www.airbnb.com/rooms/22447712
+Title: Coastal Cool off Forsyth Park by Lucky Savannah
+Latitude: 32.0669
+Longitude: -81.0981
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Stay beneath the towering oak trees along Forsyth Park in this brand new two-bedroom town home with private parking.
+
+The space
+A welcome addition to the Victorian District, Howard Grande is a multilevel, two-bedroom town home just a stone's throw away from the famous Fountain at Forsyth Park. 
+
+Park your car in the private garage and step up into the contemporary living quarters of your dreams. The first floor boasts high ceilings and an open floor plan, ideal for family gatherings and weekend getaways with close friends. Take advantage of the granite countertops and stainless steel appliances and cook a full meal for you and your guests, or, step onto the cobblestone pavement and walk a short distance to some of Savannah's most renowned restaurants and cafes.
+
+The upstairs hosts two bedrooms, each with en suite baths. The primary bedroom boasts a King size bed, and the guest room has a Queen size bed. A laundry room with stacking washer and dryer makes extended stays ideal. Expecting additional guests? Add on the downstairs garden apartment by renting the full home, Howard Grand Main + Garden, for an extra Queen bedroom and full bathroom!
+
+Head South a few blocks and find yourself immersed in Savannah's hipster culture - with a wine bar, vegan cafe, and whole foods market adjacent to the Forsyth Park Farmer's Market. A few minutes' walk in the other direction gets you closer to the bustling city center. Take the scenic route through downtown's beautiful squares and end at the well-known River Walk - a great place to grab a beer and people watch.
+
+Whether you're a family looking for a quiet respite close to the city center, or a pair of couples wanting to tap into the local scene, Howard Grande is the perfect home for you!
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Queen Size Bed
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-00409
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Coastal Cool off Forsyth Park by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Rated 4.9 out of 5 stars.
+4.9
+·
+20 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+Steps from Forsyth Park
+About a 2-min walk to Forsyth Park, with Savannah's historic squares and River Walk beyond
+Private garage parking
+A private garage so you can skip the hunt for street parking in this busy part of Savannah
+Clean and walkable, per guests
+Guests highlight the clean, spacious layout and how walkable the neighborhood is
+Stay beneath the towering oak trees along Forsyth Park in this brand new two-bedroom town home with private parking.
+
+The space
+A welcome addition to the Victorian District, Howard Grande is a multilevel, two-bedroom town home just a stone's throw away from the famous Fountain at Forsyth Park. 
+
+Park your car in the private garage and step up into the contemporary living quarters of your dreams. The first floor boasts high ceilings and an open floor plan, ideal for family gatherings and weekend getaways with close friends. Take advantage of the granite countertops and stainless steel appliances and cook a full meal for you and your guests, or, step onto the cobblestone pavement and walk a short distance to some of Savannah's most renowned restaurants and cafes.
+
+The upstairs hosts two bedrooms, each with en suite baths. The primary bedroom boasts a King size bed, and the guest room has a Queen size bed. A laundry room with stacking washer and dryer makes extended stays ideal. Expecting additional guests? Add on the downstairs garden apartment by renting the full home, Howard Grand Main + Garden, for an extra Queen bedroom and full bathroom!
+
+Head South a few blocks and find yourself immersed in Savannah's hipster culture - with a wine bar, vegan cafe, and whole foods market adjacent to the Forsyth Park Farmer's Market. A few minutes' walk in the other direction gets you closer to the bustling city center. Take the scenic route through downtown's beautiful squares and end at the well-known River Walk - a great place to grab a beer and people watch.
+
+Whether you're a family looking for a quiet respite close to the city center, or a pair of couples wanting to tap into the local scene, Howard Grande is the perfect home for you!
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Queen Size Bed
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-00409
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Show all 36 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.9 out of 5 stars from 20 reviews
+4.9 · 20 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 95% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 5% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.7 out of 5 stars for check-in
+Check-in
+4.7
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+8
+Parking
+7
+Location
+13
+Cleanliness
+10
+Indoor spaces
+6
+Comfort
+6
+Hospitality
+6
+Nearby
+4
+Biking
+2
+Bathroom
+3
+Tricia
+6 years on Airbnb
+Rating, 3 stars
+,
+·
+May 2026
+,
+·
+Stayed with kids
+Wonderful location and walkable to many restaurants. The listing said it was “brand new”, which was inaccurate. The bathroom grout and tile were grimy and chipped, stains on carpet, and lots of signs of wear and tear. 
+When I contacted the Host regarding the inaccurate listing description, they responded that the Host has no control over the content on Airbnb. They told me I should check the management company’s own website for the most updated listing information. I don’t think it’s the Guest’s responsibility to check multiple websites to confirm the accuracy of the listing. The Host should make sure the information on Airbnb is correct.
+Show more
+Katherine
+Durham, North Carolina
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Stayed a few nights
+This space was so wonderful. The 2 bedrooms were spacious, the beds are comfortable and it was nice having private bathrooms for each room. Everything was very clean. The living space was a nice gathering place, and the kitchen was well equipped. Being located right off Forsyth Park made most of historic Savannah accessible by foot, and it was nice to cruise the farmer's market and craft booths on Saturday morning. We would definitely rent this apartment again. It was truly lovely, and our hosts were very proactive.
+Show more
+Janet
+Oak Island, North Carolina
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Fantastic location!  Quiet neighborhood but within walking distance to heart of downtown.
+Show more
+Cameron
+Austin, Texas
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Stayed a few nights
+This was the perfect spot for my girlfriends and I to enjoy Savannah for the first time together! Extremely walkable, lots to do, clean home with everything you need. Responsive host with clear instructions. Loved it!
+Show more
+Julia
+Coralville, Iowa
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+Wonderful place and a great Lucky team. Thank you so much!
+Show more
+Aisa
+New Jersey, United States
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+Beautiful space perfect for my sister’s wedding week. The couch and beds all comfortable. Kitchen was great. Loved the garage access. Washer and dryer and steamer great plus. Clean. Prime location right in front of Forsyth Park. Felt like home away from home! Thank you :)
+Show more
+Show all 20 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Townhome vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

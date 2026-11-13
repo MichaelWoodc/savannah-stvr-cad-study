@@ -1,0 +1,368 @@
+URL: https://www.airbnb.com/rooms/1339935280821589057
+Title: Steps from Broughton| Walk to Shops and Bars|
+Latitude: 32.076287035142244
+Longitude: -81.09106537187566
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sid
+Host ID: 136433479
+Host profile ID: 1468358408345466394
+Host URL: https://www.airbnb.com/users/profile/1468358408345466394
+Bedrooms: 7
+Occupancy (maximum guests): 14
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 7
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+7 bedrooms, 5 bathrooms in a completely walkable location in Savannah's Historic District. 3 king beds, all ensuite and 4 queen beds await you here! Spacious living and dining areas and luxury linens. This unit is made up of the combination of two lower apartments in this ginormous, historic home. Book today!
+
+The space
+A Historic Retreat in Savannah's Historic District
+
+Step back in time and experience the charm of Savannah’s Historic District in this spacious 7-bedroom, 5-bathroom home, once owned by a 19th-century sea captain. With a prime, walkable location near Oglethorpe Square, this historic gem offers the perfect blend of modern luxury and vintage character. 
+
+Inside, you'll find 3 king beds with ensuite bathrooms and 4 queen beds, all outfitted with premium linens for a comfortable stay. The home features expansive living and dining spaces, perfect for gatherings, and is made up of two beautifully combined lower-level apartments in this stately residence. 
+
+Leave your car behind! Stroll to Broughton Street for Savannah’s best shopping or venture a bit further north to explore the bustling Bay and River streets. This home is also in a prime spot for the city’s iconic events, sitting directly on the St. Patrick’s Day parade route and other festival paths. 
+
+Parking is available at the State Street Parking Garage for a daily rate of $12. The garage is conveniently located just a two-minute walk across the square. Additionally, electric vehicle charging stations are available within the facility.
+
+Short-Term Vacation Rental Certificate: SVR-03092
+Short-Term Vacation Rental Certificate: SVR-03093
+
+Other things to note
+Parking is available at the State Street Parking Garage for a daily rate of $12. The garage is conveniently located just a two-minute walk across the square. Additionally, electric vehicle charging stations are available within the facility.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+HDTV with Amazon Prime Video, Apple TV, Chromecast, Disney+, Fire TV, HBO Max, Hulu, Netflix, premium cable, Roku
+Family
+Pack ’n play/Travel crib
+Standalone high chair - always at the listing
+With padding, straps/harness, and food tray
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Stainless steel single oven
+Coffee maker: drip coffee maker, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Patio or balcony
+Outdoor furniture
+Hammock
+Outdoor dining area
+Parking and facilities
+Free street parking
+EV charger
+Guests can charge their electric vehicles on the property
+Paid parking off premises
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Housekeeping available 8 hours a day, every day - available at extra cost
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Steps from Broughton| Walk to Shops and Bars|
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+14 guests · 7 bedrooms · 7 beds · 4.5 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+2 reviews
+Hosted by Sid
+Superhost · 9 years hosting
+Listing highlights
+In Savannah's Historic District
+Right outside Oglethorpe Square, with the Owens-Thomas House and Telfair Museums within a short walk
+A historic home with a story
+Two combined apartments in a 19th-century sea captain's home with expansive living and dining areas
+Guests praise the location and layout
+Both reviews highlight the walkable location and how well the layout worked for a group
+Some info has been automatically translated. Show original
+7 bedrooms, 5 bathrooms in a completely walkable location in Savannah's Historic District. 3 king beds, all ensuite and 4 queen beds await you here! Spacious living and dining areas and luxury linens. This unit is made up of the combination of two lower apartments in this ginormous, historic home. Book today!
+
+The space
+A Historic Retreat in Savannah's Historic District
+
+Step back in time and experience the charm of Savannah’s Historic District in this spacious 7-bedroom, 5-bathroom home, once owned by a 19th-century sea captain. With a prime, walkable location near Oglethorpe Square, this historic gem offers the perfect blend of modern luxury and vintage character. 
+
+Inside, you'll find 3 king beds with ensuite bathrooms and 4 queen beds, all outfitted with premium linens for a comfortable stay. The home features expansive living and dining spaces, perfect for gatherings, and is made up of two beautifully combined lower-level apartments in this stately residence. 
+
+Leave your car behind! Stroll to Broughton Street for Savannah’s best shopping or venture a bit further north to explore the bustling Bay and River streets. This home is also in a prime spot for the city’s iconic events, sitting directly on the St. Patrick’s Day parade route and other festival paths. 
+
+Parking is available at the State Street Parking Garage for a daily rate of $12. The garage is conveniently located just a two-minute walk across the square. Additionally, electric vehicle charging stations are available within the facility.
+
+Short-Term Vacation Rental Certificate: SVR-03092
+Short-Term Vacation Rental Certificate: SVR-03093
+
+Other things to note
+Parking is available at the State Street Parking Garage for a daily rate of $12. The garage is conveniently located just a two-minute walk across the square. Additionally, electric vehicle charging stations are available within the facility.
+Show more
+All sleeping arrangements
+
+Advertised beds: 7 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+HDTV with Amazon Prime Video, Apple TV, Chromecast, Disney+, Fire TV, HBO Max, Hulu, Netflix, premium cable, Roku
+EV charger
+Washer
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Patio or balcony
+Show all 58 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+2 reviews
+2 reviews
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Kathy
+Saint Paul, Minnesota
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Group trip
+The Peach was in a great location to walk up everything. It was a great spot to stay for a long weekend.
+Vita
+Orlando, Florida
+Rating, 5 stars
+,
+·
+April 2025
+,
+·
+Group trip
+Great location! Walking distance to everything and it was the perfect setup for our group of 8.
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Sid
+Superhost
+2,494 reviews
+2494
+Reviews
+4.74 out of 5 average rating
+4.74
+Rating
+9 years of hosting
+9
+Years hosting
+My work: Sid Was Here Short Term Rentals
+Speaks Spanish
+I absolutely love being an AirBNB host. I have met wonderful people from all over the world. My husband and I have rehabbed, decorated and furnished each property ourselves and I love a good theme. I also manage homes for other homeowners and I enjoy that tremendously. My husband is Don and we live nearby. We love to travel, but rarely get to. We both work full time and host in our spare time. Don was raised in a missionary family. He was born in Bolivia and raised in Peru. He speaks Spanish fluently. Julie is the face you'll see most often. She is a busy mom and spends a lot of time sewing (crochet and knitting) while watching her boys play baseball. Josh is the family squirrel expert. He found Sid, an infant squirrel in need of rescue. Sid Was Here was named in her memory.
+Sid is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Bella
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+14 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

@@ -1,0 +1,568 @@
+URL: https://www.airbnb.com/rooms/42812611
+Title: Heated Pool Access | 5*Clean | Flex Cancelation
+Latitude: 32.07299
+Longitude: -81.08827
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+One amazing downtown Savannah vacation rental property located in the heart of historic downtown Savannah is called the Liberty Street Retreat. One of our most picturesque Savannah rentals, the Liberty Street Retreat has spectacular views of moss-entangled oak trees and all the charm of the Old South. One of our many Savannah homes that is within walking distance to everything, this is the perfect spot start exploring the local area.
+
+The space
+The Liberty Street Retreat sleeps four in two bedrooms with two bathrooms. It has flatscreen TVs throughout, a washer and dryer, full kitchen, Wi-Fi and central heat and AC. Enter this downtown Savannah vacation rental and enjoy the privacy of the sheltered patio with an ornate patio set lending charm to the scene. Inside, you can relax in the living room with a plush white throw over the hardwood floors and plenty of seating around the TV. Pastel walls and lamps lend ambiance. Over to the full kitchen, a white theme awaits, as well as plenty of cabinetry and a unique eating bar out of the way of the cook. All appliances such as coffee maker, microwave, tea kettle and toaster are available. Cooking equipment and utensils are also provided so you can bring home the local tastes and cook up a great meal.
+
+
+
+Not all Savannah homes include a foyer with antique writing desk, but this one does. Sit down and make your notes or itinerary for your day in historic downtown Savannah as sunlight streams through the full-length glass door leading outside. In both bedrooms you will find a queen sized bed including a headboard, as well as sitting areas and a TV. Both bathrooms are full bathrooms and are tastefully decorated in neutral colors. This gem among Savannah rentals provides you with the comfort and relaxation you need while in, but gives you the ease of being within reach of all that Savannah has to offer.
+
+
+
+If you want a great outdoor day excursion, take a trip to Tybee Island and explore all the beaches and walking trails. A 10 minute drive from the downtown area will get you to the Savannah National Wildlife Refuge where you can observe alligators sunning themselves as well as birds and other wildlife. Golf, kayaking, boating and fishing are just some of the outdoor activities you can enjoy.
+
+
+
+• Savannah Irish Festival in February
+
+• Savannah Music Festival in March
+
+• N.O.G.S. Tour of Hidden Gardens in April
+
+• Scottish Games Festival in May
+
+• Savannah Asian Festival in June
+
+• Various Fourth of July celebrations in Savannah and Tybee
+
+• Savannah Jazz Festival in September
+
+• First Saturday on the River every month on the first Saturday
+
+
+
+SVR-00512
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Pool
+Paid parking off premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Heated Pool Access | 5*Clean | Flex Cancelation
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Rated 4.48 out of 5 stars.
+4.48
+·
+29 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In the heart of historic Savannah
+Steps from Troup Square and Lafayette Square, with Chippewa Square about a 5-min walk away
+Private patio and full kitchen
+A sheltered patio with outdoor seating leads into a full kitchen with a dishwasher and eating bar
+Loved for its location and character
+Many guests highlight the walkable location and the charm of the historic building
+One amazing downtown Savannah vacation rental property located in the heart of historic downtown Savannah is called the Liberty Street Retreat. One of our most picturesque Savannah rentals, the Liberty Street Retreat has spectacular views of moss-entangled oak trees and all the charm of the Old South. One of our many Savannah homes that is within walking distance to everything, this is the perfect spot start exploring the local area.
+
+The space
+The Liberty Street Retreat sleeps four in two bedrooms with two bathrooms. It has flatscreen TVs throughout, a washer and dryer, full kitchen, Wi-Fi and central heat and AC. Enter this downtown Savannah vacation rental and enjoy the privacy of the sheltered patio with an ornate patio set lending charm to the scene. Inside, you can relax in the living room with a plush white throw over the hardwood floors and plenty of seating around the TV. Pastel walls and lamps lend ambiance. Over to the full kitchen, a white theme awaits, as well as plenty of cabinetry and a unique eating bar out of the way of the cook. All appliances such as coffee maker, microwave, tea kettle and toaster are available. Cooking equipment and utensils are also provided so you can bring home the local tastes and cook up a great meal.
+
+
+
+Not all Savannah homes include a foyer with antique writing desk, but this one does. Sit down and make your notes or itinerary for your day in historic downtown Savannah as sunlight streams through the full-length glass door leading outside. In both bedrooms you will find a queen sized bed including a headboard, as well as sitting areas and a TV. Both bathrooms are full bathrooms and are tastefully decorated in neutral colors. This gem among Savannah rentals provides you with the comfort and relaxation you need while in, but gives you the ease of being within reach of all that Savannah has to offer.
+
+
+
+If you want a great outdoor day excursion, take a trip to Tybee Island and explore all the beaches and walking trails. A 10 minute drive from the downtown area will get you to the Savannah National Wildlife Refuge where you can observe alligators sunning themselves as well as birds and other wildlife. Golf, kayaking, boating and fishing are just some of the outdoor activities you can enjoy.
+
+
+
+• Savannah Irish Festival in February
+
+• Savannah Music Festival in March
+
+• N.O.G.S. Tour of Hidden Gardens in April
+
+• Scottish Games Festival in May
+
+• Savannah Asian Festival in June
+
+• Various Fourth of July celebrations in Savannah and Tybee
+
+• Savannah Jazz Festival in September
+
+• First Saturday on the River every month on the first Saturday
+
+
+
+SVR-00512
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pool
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Backyard
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.48 out of 5 stars from 29 reviews
+4.48 · 29 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 66% of reviews
+5
+4 stars, 28% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 3% of reviews
+2
+1 stars, 3% of reviews
+1
+Rated 4.5 out of 5 stars for cleanliness
+Cleanliness
+4.5
+Rated 4.4 out of 5 stars for accuracy
+Accuracy
+4.4
+Rated 4.4 out of 5 stars for check-in
+Check-in
+4.4
+Rated 4.6 out of 5 stars for communication
+Communication
+4.6
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.4 out of 5 stars for value
+Value
+4.4
+Guest reviews mention
+Walkability
+12
+Location
+18
+Parking
+7
+Pool
+3
+Check-in
+4
+Sleep quality
+5
+Hospitality
+7
+Getting around
+5
+Cleanliness
+6
+Noise
+3
+Katia
+St. Louis, Missouri
+Rating, 2 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We stayed here with our family and left feeling disappointed by several aspects of our stay.
+The biggest concern was arriving to find the old Georgia state flag displayed on the building. Because that version of the flag prominently featured the Confederate battle emblem, it immediately made us feel uncomfortable and unwelcome. While others may see it differently, it’s something many travelers would likely want to know before booking so they can decide whether the property is a good fit for them.
+Communication was also excessive. Before we even arrived, we received 19 messages, many of which focused on upselling additional services instead of providing essential check-in information.
+Before our stay, I asked about having a crib for our baby, but no one mentioned that our infant (under 1 year old) would count toward the four-person occupancy limit. After booking, we were contacted about exceeding the occupancy limit and had to call twice before they agreed to allow our baby to stay.
+Show more
+Shea
+Southport, North Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We enjoyed our stay greatly. The house is perfect and in a very good location to walk to everything that we wanted to do. They were very communicative in the check-in and checkout process and checked in on us as soon as we were at the home to make sure everything was too liking. I would stay here again. Great place and Price.
+Show more
+Andrea
+Oak Glen, California
+Rating, 4 stars
+,
+·
+July 2025
+,
+·
+Stayed with kids
+Walking distance to everything. You pay for parking but it’s cheap and wasn’t too crowded. The pool was broken and no one told us until we tried to use it. Was a main point in booking this property. Also, one bed had a lot of pet hair in it despite being a pet free property and one night it sounded like someone paced back and forth for 2 hours above us. Other than that, super cute, clean aside from pet hair in one bed. Host was responsive.
+Show more
+Melissa
+New York, New York
+Rating, 4 stars
+,
+·
+July 2025
+,
+·
+Stayed a few nights
+It was a cozy charming unit. Be aware that the verbiage is a little misleading. There was not a tv in both rooms like stated. The one bedroom tv would not stay connected. After a while you just give up.
+If you have kids, the pool isn’t for you. LOTS of silly rules & a bit of a drive away. The door in the kitchen that leads to the back alley. That door has no cover. The homeless people sleeping on the park benches behind the unit would walk by at night and see right in. The sink in the peach room and kitchen were very very slow to drain. 
+If you’re looking to cook while there, it has just the basic necessities. Old thin flimsy frying pans, no cooking utensils besides a wooden small spatula. (Not the end of the world) 
+You will need to pay for parking daily & by the hour if you have a car. The spots are not always available in the front of the unit. Not very convenient in the pouring rain looking for a parking spot and having to walk. 
+Not a bad stay just kept running into inconviences
+Show more
+Victoria
+San Antonio, Texas
+Rating, 5 stars
+,
+·
+August 2025
+,
+·
+Stayed a few nights
+Awesome place to stay!
+Tiffani
+Norfolk, Virginia
+Rating, 5 stars
+,
+·
+June 2025
+,
+·
+Stayed a few nights
+The place is very nice! Right in the heart of downtown Savannah, so plenty to do that’s in walking distance. Somethings we did have to deal with that we weren’t too pleased about, BUT we did enjoy our stay & definitely gave this place a high rating as it does deserve.
+Show more
+Show all 29 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+Jones East
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,182 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Beach house vacation rentals in Savannah
+House vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

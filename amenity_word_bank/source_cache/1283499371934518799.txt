@@ -1,0 +1,456 @@
+URL: https://www.airbnb.com/rooms/1283499371934518799
+Title: Hamilton Carriage A - Amazing Location, Courtyard
+Latitude: 32.0767
+Longitude: -81.091
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+*Please note that there are currently main house and courtyard renovations taking place that affect use of the courtyard space.  These renovations are scheduled to be completed by September 4, 2026.*
+
+A large carriage house located in the perfect center of Downtown Savannah. Walking distance to everything, but quiet enough for a solid night of sleep on the king size bed. With access to a courtyard oasis.
+
+The space
+The carriage house opens into a common courtyard lounge chairs on a bricked patio. There is a 10 person dining table to accommodate any family meal. The courtyard features a propane grill and a plunge pool. The 10 foot brick walls with gated entrance secure your privacy.
+
+The carriage house has a full suite of shampoo, conditioner, body wash, etc. provided by Public Goods which is a vegan, fair trade, harsh chemical free company.
+
+The carriage house has a TV and the gigabit speed internet keeps everything running nice and smooth.
+
+STVR Certificate: SVR-03243
+
+Guest access
+The courtyard and plunge pool is shared between all the guests. 
+
+Should you need it, there is a courtyard bathroom on the back of the property as well with a shower in case you need to rinse before going back to your room.
+
+The courtyard should be cleared by 9PM  out of respect for your neighbors. There is a hefty fine for noise violations from the city.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Coffee maker
+Wine glasses
+Toaster
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+BBQ grill
+Parking and facilities
+Paid parking off premises
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Hamilton Carriage A - Amazing Location, Courtyard
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.94 out of 5 stars.
+4.94
+108 reviews
+108
+Reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In downtown Savannah's historic district
+Steps from Wright Square and Oglethorpe Square, with Telfair Museums about a 5-min walk away
+Carriage house with a king bed
+A king bed that guests call one of the comfiest they've slept on, with room-darkening shades
+Chaz is a standout host
+Guests highlight how responsive and attentive Chaz is, with many returning for repeat stays
+*Please note that there are currently main house and courtyard renovations taking place that affect use of the courtyard space.  These renovations are scheduled to be completed by September 4, 2026.*
+
+A large carriage house located in the perfect center of Downtown Savannah. Walking distance to everything, but quiet enough for a solid night of sleep on the king size bed. With access to a courtyard oasis.
+
+The space
+The carriage house opens into a common courtyard lounge chairs on a bricked patio. There is a 10 person dining table to accommodate any family meal. The courtyard features a propane grill and a plunge pool. The 10 foot brick walls with gated entrance secure your privacy.
+
+The carriage house has a full suite of shampoo, conditioner, body wash, etc. provided by Public Goods which is a vegan, fair trade, harsh chemical free company.
+
+The carriage house has a TV and the gigabit speed internet keeps everything running nice and smooth.
+
+STVR Certificate: SVR-03243
+
+Guest access
+The courtyard and plunge pool is shared between all the guests. 
+
+Should you need it, there is a courtyard bathroom on the back of the property as well with a shower in case you need to rinse before going back to your room.
+
+The courtyard should be cleared by 9PM  out of respect for your neighbors. There is a hefty fine for noise violations from the city.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Backyard
+Pack ’n play/Travel crib - always at the listing
+Show all 44 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.94 out of 5 from 108 reviews.
+4.94
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 94% of reviews
+5
+4 stars, 5% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+42
+Location
+80
+Cleanliness
+40
+Pets
+21
+Parking
+17
+Sleep quality
+24
+Outdoor spaces
+16
+Comfort
+27
+Hospitality
+34
+Nearby
+18
+Nidia
+Laurel Park, North Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with a pet
+Perfect location for walking to most of the local sites. The studio was super clean comfortable and nicely decorated. Our host Chaz was very attentive checking to see if we had everything we needed. The courtyard was peaceful and quaint. The historic neighborhood is gorgeous. This is a definite 5 star.
+Show more
+Logan
+St. Marys, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with a pet
+We enjoyed our stay. Great location. Walkable to everything in the Historic District. Hope to stay here again in the future!
+Rachel
+Bloomington, Indiana
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed one night
+This is our second time staying here and for good reason! This is a perfect place to rest after a long hot day of walking down around beautiful Savannah. Air conditioning- cold and refreshing when you walk in the door. Location- 100000% perfect! You’re in walking distance to everything but far enough out of the way that it is quiet and peaceful. Communication is fast and friendly. You have everything you need in the kitchen and bathroom with the extra plus of great local items for use like local coffee in the cabinet (this cafe is also very close to walk to) and local shampoo, conditioner and body wash. Extremely clean and super comfy bed. And if that doesn’t have you interested, take a look at the court yard!! I mean come on! It’s gorgeous!! And yes, it is that pretty in person! Do not hesitate to stay here you won’t regret it!!!
+Show more
+Cathy
+St Petersburg, Florida
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with a pet
+Perfect location that’s a short walk to the Riverwalk and near many restaurants. Comfortable king size bed and washer & dryer made this spot ideal.
+I’d definitely stay again at this spacious studio that’s on the 2nd floor above garages.
+Show more
+Kerrie
+Boca Raton, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+This carriage house was a pleasure to stay at! The AC worked well, the bed was comfortable, bathroom well-stocked, and the location on was great. The plunge pool was a nice bonus as well! We were able to find street parking right in front of the property so it was convenient for loading and unloading our things. Would stay here again!
+Show more
+Lisa
+Iowa City, Iowa
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Last minute booking for a carriage house accommodation that was immediately acknowledged by the Host. Thank you Chaz! The directions to the unit, and access to courtyard and unit were very clearly articulated in the initial email. Check-in was the easiest I have ever experienced. On-street parking in front of the unit was easily accessed, ran about $25 per day if you remained  parked (which I did because everything was so easily walkable for me).  The unit itself is very spacious and welcoming, will easily accommodate singles or couples and the bed, oh my goodness...its literally the most comfortable bed I've slept on away from my own home! It is a DREAM! That combined with the high end linens, duvet cover, and amazing pillows made sleeping something to write home about, lol. Don't pass on these carriage house units, oh yeah cool historical Firehouse right across these street too!
+Show more
+Show all 108 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Central location allows you to walk easily to all of the historic district.
+Show more
+Meet your host
+Chaz
+Superhost
+3,099 reviews
+3099
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Pool/hot tub without a gate or lock
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

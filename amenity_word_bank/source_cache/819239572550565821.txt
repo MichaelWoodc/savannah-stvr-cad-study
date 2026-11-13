@@ -1,0 +1,652 @@
+URL: https://www.airbnb.com/rooms/819239572550565821
+Title: Victorian charm • Dog friendly • Near Forsyth Park
+Latitude: 32.065
+Longitude: -81.0945
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/ Southern Grace Stays
+Host ID: 499456132
+Host profile ID: 1470246415251737254
+Host URL: https://www.airbnb.com/users/profile/1470246415251737254
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+Welcome to our 2 bedroom, 1 bath Victorian apartment with historic Savannah charm and modern comforts.
+
+• Private covered porch with outdoor dining
+• Smart TVs, WiFi, board games, and books
+• Full kitchen with stainless steel appliances and coffee bar
+• Three blocks from Forsyth Park and an easy walk to Historic Savannah
+
+Settle in and enjoy the porch, the comfy living space, and an easy Savannah stay.
+
+The space
+☆☆ HIGHLIGHTS ☆☆
+✔ 1910 Victorian home with classic Savannah character
+✔ 2 bedrooms and 1 bathroom, sleeps 4
+✔ Private covered porch with outdoor dining and seating
+✔ Full kitchen with stainless steel appliances, coffee maker, and Keurig-style coffee setup
+✔ WiFi, Roku entertainment systems, board games, and books
+✔ Free street parking
+✔ Dog friendly
+✔ In-unit washer and dryer
+
+Welcome to your Savannah stay, where historic charm and everyday comfort come together in a private second-floor apartment. This home is a great fit for couples, friends, small families, and guests traveling with a dog.
+
+Hear what our guests loved most about their stay:
+"Had a wonderful stay. The apartment is clean, spacious, and well decorated. The main bedroom is huge, and the porch is even bigger in real life." - Jesse
+
+"We had a wonderful stay. The hosts were communicative and accommodating. The location is fantastic and the property is comfortable." - Justin
+
+"We enjoyed how quiet it was and how easy it was to walk to the park and dog park from the apartment. The little back porch was lovely." - Sarah
+
+☆☆ NEARBY ☆☆
+✔ About 3 blocks from Forsyth Park
+✔ Walkable to Historic Savannah attractions
+✔ Easy access to cafes, bars, and restaurants
+✔ Free DOT trolley and Uber access make getting around simple
+
+★★ LIVING ROOM ★★
+Settle in for easy downtime in the main living space.
+✔ Seating for four
+✔ Smart TV with Roku
+✔ Original fireplace, books, and board games
+✔ Bright windows and a comfortable layout for relaxing after exploring
+
+★★ KITCHEN & DINING ★★
+The kitchen is bright, practical, and ready for simple meals.
+✔ Stainless steel stove, oven, refrigerator, microwave, and dishwasher
+✔ Coffee maker, Keurig-style coffee setup, and coffee
+✔ Cooking basics, dishes and silverware, baking sheet, toaster, blender, and wine glasses
+✔ Open connection to the living area for easy gathering
+
+★★ BEDROOMS ★★
+Both bedrooms are designed for a restful stay.
+✔ Primary bedroom: king bed, extra pillows and blankets, bedside lamps, smart TV, WiFi, and a cozy seating area
+✔ Second bedroom: queen bed, extra pillows and blankets, bedside lamps, smart TV, and WiFi
+
+★★ BATHROOMS ★★
+A clean, modern bath keeps things simple and comfortable.
+✔ Walk-in shower with modern fixtures
+✔ Shampoo, conditioner, body soap, and shower gel provided
+✔ Hair dryer, hot water, and essentials on hand
+
+★★ OUTDOOR SPACE ★★
+Enjoy your own private covered porch just off the home.
+✔ Table with four chairs for coffee, meals, or evening drinks
+✔ Outdoor furniture with a relaxed, tucked-away feel
+✔ Great spot for morning or evening use
+
+We’d love to host you in Savannah and hope this home feels like an easy place to land.
+
+Parking is conveniently available on-street at no cost. Please pay close attention to the posted sweep zones and times as you may have to move your car at that specified date and time to avoid fines. Sweeping times and days are specific to the street you're parking on and can be found on red and white signs along the sidewalk.
+
+We provide a starter pack of K-cups, trash bags, paper towels and toilet paper for your convenience.
+
+Primary renter must be 25 years old to rent and signer of agreement must stay on premises for entire booking
+
+SVR-02679
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+Peachy Keen boasts a range of features designed to ensure a luxurious and comfortable stay. This 2-bedroom, 1-bathroom apartment has been recently renovated to blend historic charm with modern amenities. Each bedroom is luxuriously appointed with high-end bedding, extra pillows, cozy throws, and coordinating accent pillows, providing guests with a restful and indulgent experience.
+
+
+
+The apartment's vibrant decor and large windows allow natural light to flood the space, highlighting the tall ceilings and historic details that add to its charm. Modern conveniences include TVs in every room, fast Wi-Fi, and a well-equipped coffee bar. The private porch, adorned with mood lighting, offers a serene spot for morning coffee or evening tea. An in-apartment laundry room adds to the convenience, making it easy for guests to keep their clothes fresh during their stay.
+
+
+
+Located just three blocks from Forsyth Park, Peachy Keen provides easy access to Savannah's top attractions, cafes, bars, and restaurants. The apartment is situated in a safe environment with security cameras for peace of mind. Street parking is available, and the space is dog-friendly, accommodating furry friends for a small fee. These thoughtful features make Peachy Keen an ideal choice for families, couples, and solo travelers seeking a memorable stay in Savannah.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Ginger Lily Farms body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage: closet, wardrobe, and dresser
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Children’s dinnerware
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Portable fans
+Central heating
+Home safety
+Exterior security cameras on property
+Exterior security cameras are present at all entrances
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Housekeeping available from 9:00 AM to 3:00 PM, every day - available at extra cost
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Victorian charm • Dog friendly • Near Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+239 reviews
+239
+Reviews
+Hosted by Laura W/ Southern Grace Stays
+Superhost · 4 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah, steps from Forsyth Park
+About a 5-min walk to Forsyth Park and the Victorian Historic District beyond it.
+Private porch with outdoor dining
+A private covered porch with a dining table for four, tucked away for morning coffee or evening drinks.
+Laura is a responsive, helpful host
+Guests highlight how responsive and helpful Laura is, from local tips to quick fixes during a stay.
+Some info has been automatically translated. Show original
+Welcome to our 2 bedroom, 1 bath Victorian apartment with historic Savannah charm and modern comforts.
+
+• Private covered porch with outdoor dining
+• Smart TVs, WiFi, board games, and books
+• Full kitchen with stainless steel appliances and coffee bar
+• Three blocks from Forsyth Park and an easy walk to Historic Savannah
+
+Settle in and enjoy the porch, the comfy living space, and an easy Savannah stay.
+
+The space
+☆☆ HIGHLIGHTS ☆☆
+✔ 1910 Victorian home with classic Savannah character
+✔ 2 bedrooms and 1 bathroom, sleeps 4
+✔ Private covered porch with outdoor dining and seating
+✔ Full kitchen with stainless steel appliances, coffee maker, and Keurig-style coffee setup
+✔ WiFi, Roku entertainment systems, board games, and books
+✔ Free street parking
+✔ Dog friendly
+✔ In-unit washer and dryer
+
+Welcome to your Savannah stay, where historic charm and everyday comfort come together in a private second-floor apartment. This home is a great fit for couples, friends, small families, and guests traveling with a dog.
+
+Hear what our guests loved most about their stay:
+"Had a wonderful stay. The apartment is clean, spacious, and well decorated. The main bedroom is huge, and the porch is even bigger in real life." - Jesse
+
+"We had a wonderful stay. The hosts were communicative and accommodating. The location is fantastic and the property is comfortable." - Justin
+
+"We enjoyed how quiet it was and how easy it was to walk to the park and dog park from the apartment. The little back porch was lovely." - Sarah
+
+☆☆ NEARBY ☆☆
+✔ About 3 blocks from Forsyth Park
+✔ Walkable to Historic Savannah attractions
+✔ Easy access to cafes, bars, and restaurants
+✔ Free DOT trolley and Uber access make getting around simple
+
+★★ LIVING ROOM ★★
+Settle in for easy downtime in the main living space.
+✔ Seating for four
+✔ Smart TV with Roku
+✔ Original fireplace, books, and board games
+✔ Bright windows and a comfortable layout for relaxing after exploring
+
+★★ KITCHEN & DINING ★★
+The kitchen is bright, practical, and ready for simple meals.
+✔ Stainless steel stove, oven, refrigerator, microwave, and dishwasher
+✔ Coffee maker, Keurig-style coffee setup, and coffee
+✔ Cooking basics, dishes and silverware, baking sheet, toaster, blender, and wine glasses
+✔ Open connection to the living area for easy gathering
+
+★★ BEDROOMS ★★
+Both bedrooms are designed for a restful stay.
+✔ Primary bedroom: king bed, extra pillows and blankets, bedside lamps, smart TV, WiFi, and a cozy seating area
+✔ Second bedroom: queen bed, extra pillows and blankets, bedside lamps, smart TV, and WiFi
+
+★★ BATHROOMS ★★
+A clean, modern bath keeps things simple and comfortable.
+✔ Walk-in shower with modern fixtures
+✔ Shampoo, conditioner, body soap, and shower gel provided
+✔ Hair dryer, hot water, and essentials on hand
+
+★★ OUTDOOR SPACE ★★
+Enjoy your own private covered porch just off the home.
+✔ Table with four chairs for coffee, meals, or evening drinks
+✔ Outdoor furniture with a relaxed, tucked-away feel
+✔ Great spot for morning or evening use
+
+We’d love to host you in Savannah and hope this home feels like an easy place to land.
+
+Parking is conveniently available on-street at no cost. Please pay close attention to the posted sweep zones and times as you may have to move your car at that specified date and time to avoid fines. Sweeping times and days are specific to the street you're parking on and can be found on red and white signs along the sidewalk.
+
+We provide a starter pack of K-cups, trash bags, paper towels and toilet paper for your convenience.
+
+Primary renter must be 25 years old to rent and signer of agreement must stay on premises for entire booking
+
+SVR-02679
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+Peachy Keen boasts a range of features designed to ensure a luxurious and comfortable stay. This 2-bedroom, 1-bathroom apartment has been recently renovated to blend historic charm with modern amenities. Each bedroom is luxuriously appointed with high-end bedding, extra pillows, cozy throws, and coordinating accent pillows, providing guests with a restful and indulgent experience.
+
+
+
+The apartment's vibrant decor and large windows allow natural light to flood the space, highlighting the tall ceilings and historic details that add to its charm. Modern conveniences include TVs in every room, fast Wi-Fi, and a well-equipped coffee bar. The private porch, adorned with mood lighting, offers a serene spot for morning coffee or evening tea. An in-apartment laundry room adds to the convenience, making it easy for guests to keep their clothes fresh during their stay.
+
+
+
+Located just three blocks from Forsyth Park, Peachy Keen provides easy access to Savannah's top attractions, cafes, bars, and restaurants. The apartment is situated in a safe environment with security cameras for peace of mind. Street parking is available, and the space is dog-friendly, accommodating furry friends for a small fee. These thoughtful features make Peachy Keen an ideal choice for families, couples, and solo travelers seeking a memorable stay in Savannah.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+Pets allowed
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Private patio or balcony
+Exterior security cameras on property
+Show all 60 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 239 reviews.
+4.93
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 95% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+79
+Location
+140
+Parks
+22
+Parking
+38
+Decor
+58
+Nearby
+55
+Cleanliness
+85
+Hospitality
+79
+Comfort
+63
+Family
+27
+Lindsay
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Southern Grace Stays’s home was perfect for our needs while we moved our daughter into college.  The home was easy to find and close to everything we needed.  Finding street parking was incredibly easy.  The home was cute and decorated in a fun and homey way.  Everything was clean, especially the kitchen and bathroom and there were plenty of towels and linens!  We will definitely book again!  Thank you!
+Show more
+Kandace
+Orlando, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed with kids
+So cute and homey, very accommodating for a small family. Had everything we needed! Would definitely recommend and stay again :)
+Show more
+Keeley
+Ormond Beach, Florida
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Stayed with a pet
+We absolutely loved our stay in this charming Victorian home in Savannah! The house was beautiful, full of character, and in a fantastic location — perfect for exploring the city and within easy walking distance of so much that Savannah has to offer.
+Our host was wonderful, welcoming and very informative, with lots of helpful information that made our stay even more enjoyable. We felt right at home and thoroughly enjoyed our time here.
+Thank you for the warm Southern hospitality! We had such a wonderful Savannah experience and are already looking forward to coming back. Highly recommend!
+Show more
+Jessica
+Cleveland, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Cute place in a decent location. Walkable to Forsyth Park and Kroger which was convenient, as well as the free public transportation (DOT) bus stop a few minutes walk away. I probably wouldn’t walk around the neighborhood at night alone but during the day felt perfectly safe. A little loud at night in the streets/alley outside of the house but not much you can do about that. 
+The beds were comfy after long days of walking and exploring plus there was in-unit laundry!
+If you didn’t read the description, this is on the second floor with a slightly steep staircase. Fine for us but just a warning for others who may not see that/be able to climb steps. 
+Overall a great stay!
+Show more
+Jerius
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with a pet
+My stay in Savannah was great. This place had a lot of charm and was great to wake up to in the mornings.
+Show more
+Kevin
+Albany, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This is a beautiful space! We would definitely stay again. Laura and team were responsive and incredibly helpful.
+Show more
+Show all 239 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Elizabeth's on 37th
+Restaurant
+Bull Street Taco
+Mexican restaurant
+Local 11ten Food | Wine
+Restaurant
+Maté Factor
+Bakery
+Savannah On Wheels
+Sports shop
+Mrs. Wilkes Dining Room
+American restaurant
+Old Town Trolley Tours of Savannah
+Tour agency
+Owens-Thomas House
+Tourist attraction
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Laura W/ Southern Grace Stays
+Superhost
+848 reviews
+848
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+4 years of hosting
+4
+Years hosting
+Where I went to school: Winthrop University
+My work: Vacation Rental Host
+Hi, I’m Laura! I’m a Savannah local and owner of Southern Grace Stays. I love sharing our beautiful city and a little Southern hospitality with every guest. When I’m not hosting, I’m usually working on a property, hunting for the perfect décor, or spending time with family. I’m always happy to share my favorite local spots—because in Savannah, we believe good times and great stays are always worth toasting to. Y’all come stay awhile!
+Laura W/ Southern Grace Stays is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Laura W/Southern Grace Stays
+Andy
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 2:00 AM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

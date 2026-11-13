@@ -1,0 +1,9 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr,status
+non_owner,approved_guests,combined,Parking complaints,keyword_swimming_pool,Swimming Pool,keywords,423,38,88,335,3,35,0.3188775687758209,0.0718840253360193,1.4145410387504764,0.1326523476433966,0.434229169238931,
+non_owner,approved_guests,combined,Parking complaints,keyword_bachelor,Bachelor events,keywords,423,38,4,419,1,37,,,,,,insufficient support
+non_owner,approved_guests,combined,Parking complaints,keyword_bachelorette,Bachelorette events,keywords,423,38,10,413,1,37,,,,,,insufficient support
+non_owner,approved_guests,combined,Parking complaints,keyword_engagement,Engagement events,keywords,423,38,0,423,0,38,,,,,,insufficient support
+non_owner,approved_guests,combined,Parking complaints,keyword_hot_tub,Hot Tub,keywords,423,38,20,403,0,38,,,,,,insufficient support
+non_owner,approved_guests,combined,Parking complaints,keyword_jacuzzi,Jacuzzi,keywords,423,38,9,414,0,38,,,,,,insufficient support
+non_owner,approved_guests,combined,Parking complaints,keyword_pool_table,Pool Table,keywords,423,38,0,423,0,38,,,,,,insufficient support
+non_owner,approved_guests,combined,Parking complaints,keyword_wedding,Wedding events,keywords,423,38,20,403,0,38,,,,,,insufficient support

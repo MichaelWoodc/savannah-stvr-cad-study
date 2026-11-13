@@ -1,0 +1,646 @@
+URL: https://www.airbnb.com/rooms/1389457489196061517
+Title: Condo on Bay Street, Downtown Historic Savannah
+Latitude: 32.0812
+Longitude: -81.0932
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/Southern Grace Stays
+Host ID: 561893930
+Host profile ID: 1463880952280947353
+Host URL: https://www.airbnb.com/users/profile/1463880952280947353
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Welcome to Bay Street Bliss! This elegant 2-bedroom, 2.5-bath condo is perfect for couples, small families, or friends seeking a luxurious Savannah getaway. Located in the heart of the Landmark Historic District, our sixth-floor condo offers unmatched views of the Savannah River and the iconic gold-domed City Hall. With stylish interiors, a private balcony, and room for up to 4 guests, this is the perfect home base for your Lowcountry escape. No pets or smoking on premises per HOA.
+
+The space
+KEY FEATURES:
+
+☀ Prime Location + Views: Stunning sixth-floor river and City Hall views from your private double balcony
+
+☀ Comfortable Living: Open-concept layout with a cozy seating area and elegant decor
+
+☀ Well-Equipped Kitchen: Full kitchen with an extra-long breakfast bar and dining table for four
+
+☀ Two En Suite Bedrooms:
+
+• Primary bedroom with a plush king bed and ensuite full bath
+
+• Second bedroom with a queen bed and ensuite bathroom
+
+☀ Modern and well-equipped kitchen with coffee bar w/ Keurig 
+
+☀ WiFi throughout the home
+
+☀ Board games and books for enjoyment
+
+☀ Convenient location that is walkable to attractions in Historic Savannah
+
+☀ Convenient Amenities: Central AC, full-size washer & dryer, and elevator access
+
+
+
+Expect a Five Star stay with us. 
+
+
+
+☆☆ BEDROOMS ☆☆
+
+This gorgeous apartment accommodates 4 guests in 2 bedrooms
+
+Primary Bedroom – The primary bedroom at Bay Street Bliss exudes elegance and comfort, featuring a luxurious king-size bed adorned with extra sleeping pillows, accent pillows and a cozy blanket. The room also features a Roku smart TV, fast Wi-Fi, bedside tables with reading lamps and a cozy seating area, perfect for relaxation
+
+Second Bedroom – The second bedroom features a queen bed with extra pillows.
+
+☆☆BATHROOMS☆☆
+
+Bay Street Bliss offers two private en-suite bathrooms—one with a walk-in shower in the primary suite and another with a tub/shower combo in the second bedroom—providing comfort and privacy for every guest. A convenient half bath off the kitchen adds extra ease for entertaining and day-to-day living.  The bathrooms are stocked with shampoo, conditioner and body wash.
+
+
+
+☆☆ KITCHEN☆☆
+
+The bright and airy kitchen is fully equipped with all the appliances, utensils and cookware you need to feel at home.
+
+
+
+☆☆ OUTSIDE SPACE ☆☆
+
+The exterior space is all about the view. Step out onto the private double balcony and take in breathtaking vistas of the Savannah River and the iconic gold-domed City Hall. Perched on the sixth floor, this covered terrace is the perfect place to sip your morning coffee, enjoy a sunset cocktail, or snap stunning photos of the city below. 
+
+
+
+Located just one block from River Street, Bay Street Bliss places you in the heart of Savannah's vibrant downtown. You'll be within walking distance of the city's best cafes, bars, and restaurants, making it easy to explore the local culinary scene. Whether you're here for a quick getaway or an extended stay, Bay Street Bliss provides a perfect blend of comfort, style, and prime location, making it an ideal choice for families, couples, and solo travelers alike.
+
+
+
+We provide a starter pack of K-cups, trash bags, paper towels and toilet paper for your convenience.  
+
+
+
+Max guest count is 4 per HOA regulations.  No pets permitted per HOA.  Guest count includes infants and children. No more than 4 of any age allowed.  
+
+
+
+Primary renter must be 25 years old to rent and signer of agreement must stay on premises for entire booking.
+
+
+
+No smoking or vaping on premises.  This includes the outdoor balcony.  
+
+
+
+SVR-02530
+
+Guest access
+The home is fitted with a smart door lock.  Guests will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+Bay Street Bliss boasts a range of features designed to ensure a luxurious and comfortable stay. This 2-bedroom, 2.5-bathroom condo has been recently renovated to blend historic charm with modern amenities. Each bedroom is luxuriously appointed with high-end bedding, extra pillows, cozy throws, and coordinating accent pillows, providing guests with a restful and indulgent experience.
+
+
+
+The condo's large windows allow natural light to flood the space, highlighting the tall ceilings and historic details that add to its charm. Modern conveniences include TV, fast Wi-Fi, and a well-equipped coffee bar. The private porch offers a serene spot for morning coffee or evening tea. An in-condo laundry room adds to the convenience, making it easy for guests to keep their clothes fresh during their stay.
+
+
+
+Located just one block from River Street, Bay Street Bliss provides easy access to Savannah's top attractions, cafes, bars, and restaurants. The condo is situated in a safe environment with security cameras for peace of mind. These thoughtful features make Bay Street Bliss an ideal choice for families, couples, and solo travelers seeking a memorable stay in Savannah.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+City skyline view
+River view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Family
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Exterior cameras are located at all entrances.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Paid parking off premises
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Condo on Bay Street, Downtown Historic Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.97 out of 5 stars.
+4.97
+64 reviews
+64
+Reviews
+Hosted by Laura W/Southern Grace Stays
+Superhost · 3 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Landmark Historic District
+Ellis Square is right outside, with City Market and the riverfront about a 5-min walk away
+Sixth-floor balcony with river views
+A covered double balcony on the sixth floor with views of the Savannah River and City Hall
+Spotless, with a responsive host
+Guests highlight how clean and comfortable the space is, with many praising Laura's responsiveness
+Welcome to Bay Street Bliss! This elegant 2-bedroom, 2.5-bath condo is perfect for couples, small families, or friends seeking a luxurious Savannah getaway. Located in the heart of the Landmark Historic District, our sixth-floor condo offers unmatched views of the Savannah River and the iconic gold-domed City Hall. With stylish interiors, a private balcony, and room for up to 4 guests, this is the perfect home base for your Lowcountry escape. No pets or smoking on premises per HOA.
+
+The space
+KEY FEATURES:
+
+☀ Prime Location + Views: Stunning sixth-floor river and City Hall views from your private double balcony
+
+☀ Comfortable Living: Open-concept layout with a cozy seating area and elegant decor
+
+☀ Well-Equipped Kitchen: Full kitchen with an extra-long breakfast bar and dining table for four
+
+☀ Two En Suite Bedrooms:
+
+• Primary bedroom with a plush king bed and ensuite full bath
+
+• Second bedroom with a queen bed and ensuite bathroom
+
+☀ Modern and well-equipped kitchen with coffee bar w/ Keurig 
+
+☀ WiFi throughout the home
+
+☀ Board games and books for enjoyment
+
+☀ Convenient location that is walkable to attractions in Historic Savannah
+
+☀ Convenient Amenities: Central AC, full-size washer & dryer, and elevator access
+
+
+
+Expect a Five Star stay with us. 
+
+
+
+☆☆ BEDROOMS ☆☆
+
+This gorgeous apartment accommodates 4 guests in 2 bedrooms
+
+Primary Bedroom – The primary bedroom at Bay Street Bliss exudes elegance and comfort, featuring a luxurious king-size bed adorned with extra sleeping pillows, accent pillows and a cozy blanket. The room also features a Roku smart TV, fast Wi-Fi, bedside tables with reading lamps and a cozy seating area, perfect for relaxation
+
+Second Bedroom – The second bedroom features a queen bed with extra pillows.
+
+☆☆BATHROOMS☆☆
+
+Bay Street Bliss offers two private en-suite bathrooms—one with a walk-in shower in the primary suite and another with a tub/shower combo in the second bedroom—providing comfort and privacy for every guest. A convenient half bath off the kitchen adds extra ease for entertaining and day-to-day living.  The bathrooms are stocked with shampoo, conditioner and body wash.
+
+
+
+☆☆ KITCHEN☆☆
+
+The bright and airy kitchen is fully equipped with all the appliances, utensils and cookware you need to feel at home.
+
+
+
+☆☆ OUTSIDE SPACE ☆☆
+
+The exterior space is all about the view. Step out onto the private double balcony and take in breathtaking vistas of the Savannah River and the iconic gold-domed City Hall. Perched on the sixth floor, this covered terrace is the perfect place to sip your morning coffee, enjoy a sunset cocktail, or snap stunning photos of the city below. 
+
+
+
+Located just one block from River Street, Bay Street Bliss places you in the heart of Savannah's vibrant downtown. You'll be within walking distance of the city's best cafes, bars, and restaurants, making it easy to explore the local culinary scene. Whether you're here for a quick getaway or an extended stay, Bay Street Bliss provides a perfect blend of comfort, style, and prime location, making it an ideal choice for families, couples, and solo travelers alike.
+
+
+
+We provide a starter pack of K-cups, trash bags, paper towels and toilet paper for your convenience.  
+
+
+
+Max guest count is 4 per HOA regulations.  No pets permitted per HOA.  Guest count includes infants and children. No more than 4 of any age allowed.  
+
+
+
+Primary renter must be 25 years old to rent and signer of agreement must stay on premises for entire booking.
+
+
+
+No smoking or vaping on premises.  This includes the outdoor balcony.  
+
+
+
+SVR-02530
+
+Guest access
+The home is fitted with a smart door lock.  Guests will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+Bay Street Bliss boasts a range of features designed to ensure a luxurious and comfortable stay. This 2-bedroom, 2.5-bathroom condo has been recently renovated to blend historic charm with modern amenities. Each bedroom is luxuriously appointed with high-end bedding, extra pillows, cozy throws, and coordinating accent pillows, providing guests with a restful and indulgent experience.
+
+
+
+The condo's large windows allow natural light to flood the space, highlighting the tall ceilings and historic details that add to its charm. Modern conveniences include TV, fast Wi-Fi, and a well-equipped coffee bar. The private porch offers a serene spot for morning coffee or evening tea. An in-condo laundry room adds to the convenience, making it easy for guests to keep their clothes fresh during their stay.
+
+
+
+Located just one block from River Street, Bay Street Bliss provides easy access to Savannah's top attractions, cafes, bars, and restaurants. The condo is situated in a safe environment with security cameras for peace of mind. These thoughtful features make Bay Street Bliss an ideal choice for families, couples, and solo travelers seeking a memorable stay in Savannah.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+City skyline view
+River view
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Elevator
+Washer
+Exterior security cameras on property
+Show all 61 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.97 out of 5 from 64 reviews.
+4.97
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+24
+Location
+46
+Nearby
+19
+Comfort
+19
+Cleanliness
+24
+Parking
+10
+Sleep quality
+12
+Hospitality
+22
+River
+4
+View
+11
+Shari
+Statham, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We are in Savannah quite often and have stayed in a lot of different places.  This place was hands down the best!  The location is amazing.  Just down the steep stairs to River Street.  Just down the elevator for a late night snack at Treylor Park or a milk shake at Five Guys.  
+It ended up only being two of us, but it would be a great place for 2 couples.  Having the extra half bath would be a huge plus!
+The balcony is amazing, and the place is surprisingly quiet.  It's right on the corner of Ellis Square with easy access to the parking garage.
+When we had a small issue with the air conditioner, there was someone there within 10 minutes to fix it.  The host was always extremely responsive.
+We will definitely be back and will stay here again if possible!
+Show more
+Tabitha
+Dyer, Indiana
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+This was in a perfect area.  We rented a car so that we could go to Tybee Island so it was only a 25 minute drive.  Absolutely loved the condo.
+Show more
+Randy
+Waldorf, Maryland
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+This was a great location! Walking distance to a bunch of restaurants, pharmacy, shopping and more!
+Pablo
+Vigo, Spain
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed about a week
+We really enjoyed our stay in this apartment.
+The location is perfect, just a few minutes walk from downtown Savannah, which allowed us to enjoy the city comfortably, without having to use the car.
+The apartment was impeccably clean, it is very spacious, and we loved the decor. It is very cozy and pleasant, even nicer than in the photos, making you feel at home from the moment you arrive.
+We also really enjoyed the balcony, a perfect space to relax.
+Finally, we want to highlight the host's recommendations, which were great and helped us discover wonderful places during our stay. Communication was very good, and our experience overall was fantastic.
+We liked it very much and we would definitely come back. Totally recommended for enjoying Savannah!
+Show more
+Tracy
+Gallatin, Tennessee
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+My kids and I had an absolute blast staying here! We loved relaxing on the deck in the evenings—it was so peaceful and the perfect way to end the day. The host was incredibly responsive, kind, and helpful throughout our stay, which made the experience even better. We truly enjoyed our time here and will definitely be back. Highly recommend!
+Show more
+Megan
+Raleigh, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Wonderful location and gorgeous view! We were within walking distance of everything! Hosts were amazing and incredibly responsive! They also gave us amazing recommendations!! Would definitely stay here again!
+Show more
+Show all 64 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Laura W/Southern Grace Stays
+Superhost
+1,384 reviews
+1384
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+3 years of hosting
+3
+Years hosting
+My work: Southern Grace Stays
+Favorite song in high school: Livin on a Prayer
+Savannah is home, hospitality is my passion, and making guests feel welcome is what I do best! I love beautiful spaces, great food, Southern charm, and sharing the best of Savannah with visitors. When I’m not hosting, you’ll usually find me working on a new property project, hunting for the perfect décor piece, or planning my next getaway. Come for the stay, leave with a little Southern Grace!
+Laura W/Southern Grace Stays is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,478 @@
+URL: https://www.airbnb.com/rooms/21550881
+Title: Adorable Home Two Blocks From Forsyth Park
+Latitude: 32.0639
+Longitude: -81.0934
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah & Michael
+Host ID: 118016613
+Host profile ID: 1468206481524282224
+Host URL: https://www.airbnb.com/users/profile/1468206481524282224
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+=== FULL DESCRIPTION ===
+This adorable fully-updated apartment is in the heart of the Victorian District.  Relax on the front porch or take a stroll just a few steps away in Forsyth Park.  Built in 1902, you'll find original hardwood floors accenting the fully equipped kitchen with stainless appliances. Amenities include free wi-fi, cable,  and an HD TV.   Great food and drink are within walking distance with downtown Savannah a scenic twenty minute walk or quick Uber ride away.  
+
+SVR-01175
+
+The space
+Situated in the Victorian District of Savannah, this house was built in 1902 as a two unit bungalow.   Freshly renovated, this apartment features new cabinets, quartz counter tops and stainless appliances in the kitchen.  The bathroom boasts an over sized shower along with a private toilet for extra convenience.  The heart pine flooring has been refinished with the original planks dated from saplings planted in the 1500's!  High speed internet and cable is provided along with a flat screen HD TV for viewing in the tastefully decorated living area.
+
+Guest access
+Guests have full access to the unit through a private entrance.  Amenities include in house washer/dryer, Keurig coffee maker with pods, and front porch with rockers.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+HDTV with premium cable, standard cable
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 314 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Shared backyard – Not fully fenced
+An open space on the property usually covered in grass
+Fire pit
+Outdoor furniture
+Outdoor dining area
+Shared BBQ grill: gas
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Adorable Home Two Blocks From Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire bungalow in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+666 reviews
+666
+Reviews
+Hosted by Sarah & Michael
+Superhost · 9 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park and its Saturday farmers market, with downtown Savannah walkable too.
+Historic bungalow with period charm
+Built in 1902 with original heart pine floors, a renovated kitchen, and an oversized front porch with rockers.
+Thoughtful hosts, comfortable stay
+Guests call out the comfortable king bed, welcome snacks and wine, and how responsive the hosts are.
+This adorable fully-updated apartment is in the heart of the Victorian District.  Relax on the front porch or take a stroll just a few steps away in Forsyth Park.  Built in 1902, you'll find original hardwood floors accenting the fully equipped kitchen with stainless appliances. Amenities include free wi-fi, cable,  and an HD TV.   Great food and drink are within walking distance with downtown Savannah a scenic twenty minute walk or quick Uber ride away.  
+
+SVR-01175
+
+The space
+Situated in the Victorian District of Savannah, this house was built in 1902 as a two unit bungalow.   Freshly renovated, this apartment features new cabinets, quartz counter tops and stainless appliances in the kitchen.  The bathroom boasts an over sized shower along with a private toilet for extra convenience.  The heart pine flooring has been refinished with the original planks dated from saplings planted in the 1500's!  High speed internet and cable is provided along with a flat screen HD TV for viewing in the tastefully decorated living area.
+
+Guest access
+Guests have full access to the unit through a private entrance.  Amenities include in house washer/dryer, Keurig coffee maker with pods, and front porch with rockers.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 king bed
+
+What this place offers
+Kitchen
+Fast wifi – 314 Mbps
+Dedicated workspace
+Free street parking
+HDTV with premium cable, standard cable
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Patio or balcony
+Shared backyard – Not fully fenced
+Show all 53 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 666 reviews.
+4.92
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+229
+Parks
+69
+Location
+365
+Comfort
+159
+Hospitality
+260
+Cleanliness
+240
+Sleep quality
+92
+Nearby
+120
+Parking
+90
+Quiet
+52
+Jessica
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We loved the house it was perfect for my daughter and I to spend a quiet weekend away before she heads off to college. We mostly drove downtown but it was definitely in reasonable walking distance. We loved that it was mostly quiet but you could still get to everything quickly. Thanks for hosting us. We would gladly book with you again.
+Show more
+Bethany
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+The place was just perfect for a weekend getaway! Great location and the hosts were great.
+Samantha
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Charming little home centrally located.
+Kristin
+Ossining, New York
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed one night
+My husband and I were only in Savannah for one night to break up a long drive, but wish we could have stayed longer!  Sarah and Michael's apartment was comfortable, beautiful and very welcoming.  We really appreciated the snacks and bottle of wine!  The bed was comfortable and large, the kitchen was well-stocked with all the essentials, and the whole apartment looks modern while also retaining the charm of an older building.  We were only blocks from Forsyth Park, and not far from the waterfront.  No shortage of restaurants, bars and shops in the area!  We stayed on the 4th of July so the neighborhood was a bit noisier than usual, but seemed like a generally pretty quiet residential street.
+We hope to visit Savannah again soon for a longer visit, and would definitely stay here again!
+Show more
+Carla
+Cape Town, South Africa
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+We loved our stay! The house is a perfect landing place for getting out and about to see the city. Great location. We had a heat wave while visiting and the AC was a godsend to come home to. Sarah provided many recommendations, and we already are looking forward to coming back.
+Show more
+Holly
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Sarah & Michael were perfect hosts. The condo was thoughtfully appointed with coffee and snacks. Perfect location and very easy check in/out process. They really went the extra mile for me as well! Would absolutely stay there again! ❤️
+Show more
+Show all 666 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Green Truck Neighborhood Pub
+American restaurant
+Telfair Square
+Park
+Crystal Beer Parlor
+Restaurant
+The Vault Kitchen & Market
+Asian restaurant
+Betty Bombers All American Eatery & Museum
+American restaurant
+Forsyth Park
+Park
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Savannah neighborhoods have experienced a renaissance over the last few years. Turn of the century homes are being restored to their original grandeur inviting visitors to Savannah to experience a touch of the past.
+
+The home is close to all things in the Historic District. We are two blocks from Forsyth Park, with any easy stroll to their Saturday farmers market as well as other historic parks, and restored turn of the century homes. The Victorian District is an inclusive neighborhood of SCAD students, vacationers and permanent residence. Expect to find everyone enjoying the area well into the evening. Access to downtown restaurants, nightlife, and sightseeing is a short 20 minute walk or Uber/Lyft ride away. The local surrounding area offers many gems as well. Finish your day and relax on one of our rocking chairs on the over sized front porch
+
+We are one of many rentals in a vibrant neighborhood. The year round residents go about their daily routine as vacationers enjoy the surroundings. Please be mindful that your neighbors keep normal schedules between 9 PM and 8 AM.
+Show more
+Meet your host
+Sarah & Michael
+Superhost
+1,557 reviews
+1557
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+9 years of hosting
+9
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! Sarah and Mike are so excited to host you in the adorable and historic bungalow, right in the heart of the bustling Victorian district. We absolutely LOVE our city and are happy to share our favorite restaurants, sightseeing spots, and more...just ask! Mike is a helicopter pilot in the United States Army and Sarah is a forensic psychologist. Sarah was also featured in the Summer 2017 issue of Airbnb Magazine! Send us a message or book with us if you want a gorgeous rental, full of modern amenities!
+Sarah & Michael is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for infants (under 2 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Bungalow vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,9 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr,status
+all,advertised_guests,direct,Loud party,keyword_swimming_pool,Swimming Pool,keywords,472,22,97,375,5,17,1.2074808441979772,0.4038191159740319,3.610552179007837,0.7358370221402546,0.8910371874784523,
+all,advertised_guests,direct,Loud party,keyword_hot_tub,Hot Tub,keywords,472,22,21,451,4,18,4.261126104485912,1.20257196029402,15.09863548946542,0.0247173603133975,0.1869184611534975,
+all,advertised_guests,direct,Loud party,keyword_bachelor,Bachelor events,keywords,472,22,4,468,0,22,,,,,,insufficient support
+all,advertised_guests,direct,Loud party,keyword_bachelorette,Bachelorette events,keywords,472,22,11,461,0,22,,,,,,insufficient support
+all,advertised_guests,direct,Loud party,keyword_engagement,Engagement events,keywords,472,22,0,472,0,22,,,,,,insufficient support
+all,advertised_guests,direct,Loud party,keyword_jacuzzi,Jacuzzi,keywords,472,22,9,463,0,22,,,,,,insufficient support
+all,advertised_guests,direct,Loud party,keyword_pool_table,Pool Table,keywords,472,22,0,472,0,22,,,,,,insufficient support
+all,advertised_guests,direct,Loud party,keyword_wedding,Wedding events,keywords,472,22,21,451,0,22,,,,,,insufficient support

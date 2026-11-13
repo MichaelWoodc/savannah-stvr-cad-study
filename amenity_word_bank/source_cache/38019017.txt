@@ -1,0 +1,661 @@
+URL: https://www.airbnb.com/rooms/38019017
+Title: Heated Pool Access | 5*Clean | Flex Cancelation
+Latitude: 32.073239803406025
+Longitude: -81.08693170388176
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+If you're looking for one of our cozy Savannah Georgia Vacation Rentals, then you may want to linger on the Crawford Carriage House property. This charming and cheerful carriage house includes one bedroom and one bathroom with sleeping room for two guests. This is one of our Vacation Rentals Savannah GA that would be perfect for a couple. The bedroom features one queen bed, and the bathroom offers a walk-in shower. There is also a full kitchen in the unit with a dishwasher for your convenience.
+
+The space
+You won't find boring houses with our Savannah vacation homes. We always employ creative and beautiful design techniques to make you feel right at home. This carriage house is light and bright with lots of windows, hardwood floors and a largely white decor scheme. The living room features a beautiful loveseat, which is perfect for two people. The bed and dresser are immediately adjacent in a studio arrangement. Nearby, you'll also find the kitchen, which makes the most of the cozy space with a three-seat breakfast bar and full-size appliances. Like all of our Savannah Georgia Vacation Rentals, we provide a number of extra niceties to make your stay easier, including all linens, towels, utensils, dishes, paper towels and more.
+
+
+
+Start exploring Savannah from your Vacation Rentals Savannah GA just by walking out the door. This property's location between East Liberty and East Oglethorpe puts it right near many interesting places. Probably the top one is Colonial Park Cemetery, which is just a short walk to the west down East Perry Lane. This historic cemetery opened in 1750 and became the final home to many of the city's earliest residents. In 1820, many victims of yellow fever ended up in this cemetery. The cemetery was closed to new burials before the beginning of the Civil War. It now has the appearance of a stately park with Spanish moss dripping from the old oaks. Not surprisingly, it's also a hot spot on many of the ghost tours in Savannah. If you're really brave, at least one tour will take you through at night!
+
+
+
+If you head to the north of this property, you'll find more historic squares in the form of Oglethorpe Square, Columbia Square and Greene Square. The Owens-Thomas House and the Gutstein Gallery by the Savannah College of Art and Design are also in this area. To the south of this property, you'll find the amazing gothic architecture of the Cathedral of Saint John the Baptist, as well as the Andrew Low House Museum and a few more historic squares. Although you can definitely walk to places further away, you may wish to enlist the Old Town Trolley Tour or Chatham Area Transit to get to River Street on the north end of the Historic District and Forsyth Park at the south end.
+
+
+
+If you have some extra time staying in our Savannah vacation homes, then you might want to take the 30-minute trip out to Tybee Island for some fun in the sand and surf. Tybee Island is an amazing and idyllic spot that is small on land but big on adventure. Relax on the Atlantic beaches, then take in some cute beach shops and then explore a few of the waterfront restaurants. Tybee is an easy day trip if you just want to soak in rays and saltwater. However, you can also make it just as adventurous as your Savannah excursions. Tybee offers a bevy of things to do, from ecology marsh walks, watercraft rentals, fishing and much more. Whatever you do, you won't want to miss the two main attractions in the Marine Science Center and Tybee Lighthouse. You can find the latter on the north end of the island and the former on the southeast side. Tybee is easy to walk around, or you can rent a bike and see the island that way. The options are endless.
+
+
+
+Do a little something extra when you stay in Vacation Rentals Savannah GA by attending one of the many festivals and events that happen regularly in Savannah and Tybee. Check out this short list for some examples: 
+
+
+
+• Georgia Heritage Society's Colonial Faire and Muster in February
+
+• Mardi Gras Tybee in February
+
+• Saint Patrick's Day in Savannah in March
+
+• Savannah Tour of Homes and Gardens in March
+
+• First Saturday on the River festival from March to December
+
+• Tybee Island Beach Bum Parade in May
+
+• Savannah Seafood Festival in May
+
+• Fourth of July Fireworks on the Beach in July
+
+• Savannah Jazz Festival in September
+
+• Oktoberfest on the River in October
+
+• Telfair Art Fair in November
+
+• Tybee Island Christmas Parade in December
+
+Guest access
+Full kitchen with Dishwasher
+
+    Breakfast bar with seating
+
+    French press coffee maker
+
+    Flatscreen TV and DVD player
+
+    Bluetooth Speaker
+
+    Queen size bed
+
+    Desk/workspace
+
+    Full length mirror
+
+    Iron/Ironing Board
+
+    Beautiful bathroom with walk in shower
+
+    Walk in closet and dresser
+
+    Free wifi
+
+    Central heat/air
+
+    Washer/dryer
+
+    Next to Crawford Square
+
+    Walk everywhere!
+
+    Shared courtyard
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+SVR-00805
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Pool
+Paid parking off premises
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Heated Pool Access | 5*Clean | Flex Cancelation
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Rated 4.83 out of 5 stars.
+4.83
+·
+70 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In the Historic District near the squares
+Steps from Lafayette Square, with Chippewa Square and Madison Square also within a few minutes
+Full kitchen with breakfast bar
+A full kitchen with dishwasher, breakfast bar, and full-size appliances in a bright, open layout
+Clean, comfortable, and well hosted
+Guests highlight how clean and comfortable the carriage house is, with a responsive host throughout
+If you're looking for one of our cozy Savannah Georgia Vacation Rentals, then you may want to linger on the Crawford Carriage House property. This charming and cheerful carriage house includes one bedroom and one bathroom with sleeping room for two guests. This is one of our Vacation Rentals Savannah GA that would be perfect for a couple. The bedroom features one queen bed, and the bathroom offers a walk-in shower. There is also a full kitchen in the unit with a dishwasher for your convenience.
+
+The space
+You won't find boring houses with our Savannah vacation homes. We always employ creative and beautiful design techniques to make you feel right at home. This carriage house is light and bright with lots of windows, hardwood floors and a largely white decor scheme. The living room features a beautiful loveseat, which is perfect for two people. The bed and dresser are immediately adjacent in a studio arrangement. Nearby, you'll also find the kitchen, which makes the most of the cozy space with a three-seat breakfast bar and full-size appliances. Like all of our Savannah Georgia Vacation Rentals, we provide a number of extra niceties to make your stay easier, including all linens, towels, utensils, dishes, paper towels and more.
+
+
+
+Start exploring Savannah from your Vacation Rentals Savannah GA just by walking out the door. This property's location between East Liberty and East Oglethorpe puts it right near many interesting places. Probably the top one is Colonial Park Cemetery, which is just a short walk to the west down East Perry Lane. This historic cemetery opened in 1750 and became the final home to many of the city's earliest residents. In 1820, many victims of yellow fever ended up in this cemetery. The cemetery was closed to new burials before the beginning of the Civil War. It now has the appearance of a stately park with Spanish moss dripping from the old oaks. Not surprisingly, it's also a hot spot on many of the ghost tours in Savannah. If you're really brave, at least one tour will take you through at night!
+
+
+
+If you head to the north of this property, you'll find more historic squares in the form of Oglethorpe Square, Columbia Square and Greene Square. The Owens-Thomas House and the Gutstein Gallery by the Savannah College of Art and Design are also in this area. To the south of this property, you'll find the amazing gothic architecture of the Cathedral of Saint John the Baptist, as well as the Andrew Low House Museum and a few more historic squares. Although you can definitely walk to places further away, you may wish to enlist the Old Town Trolley Tour or Chatham Area Transit to get to River Street on the north end of the Historic District and Forsyth Park at the south end.
+
+
+
+If you have some extra time staying in our Savannah vacation homes, then you might want to take the 30-minute trip out to Tybee Island for some fun in the sand and surf. Tybee Island is an amazing and idyllic spot that is small on land but big on adventure. Relax on the Atlantic beaches, then take in some cute beach shops and then explore a few of the waterfront restaurants. Tybee is an easy day trip if you just want to soak in rays and saltwater. However, you can also make it just as adventurous as your Savannah excursions. Tybee offers a bevy of things to do, from ecology marsh walks, watercraft rentals, fishing and much more. Whatever you do, you won't want to miss the two main attractions in the Marine Science Center and Tybee Lighthouse. You can find the latter on the north end of the island and the former on the southeast side. Tybee is easy to walk around, or you can rent a bike and see the island that way. The options are endless.
+
+
+
+Do a little something extra when you stay in Vacation Rentals Savannah GA by attending one of the many festivals and events that happen regularly in Savannah and Tybee. Check out this short list for some examples: 
+
+
+
+• Georgia Heritage Society's Colonial Faire and Muster in February
+
+• Mardi Gras Tybee in February
+
+• Saint Patrick's Day in Savannah in March
+
+• Savannah Tour of Homes and Gardens in March
+
+• First Saturday on the River festival from March to December
+
+• Tybee Island Beach Bum Parade in May
+
+• Savannah Seafood Festival in May
+
+• Fourth of July Fireworks on the Beach in July
+
+• Savannah Jazz Festival in September
+
+• Oktoberfest on the River in October
+
+• Telfair Art Fair in November
+
+• Tybee Island Christmas Parade in December
+
+Guest access
+Full kitchen with Dishwasher
+
+    Breakfast bar with seating
+
+    French press coffee maker
+
+    Flatscreen TV and DVD player
+
+    Bluetooth Speaker
+
+    Queen size bed
+
+    Desk/workspace
+
+    Full length mirror
+
+    Iron/Ironing Board
+
+    Beautiful bathroom with walk in shower
+
+    Walk in closet and dresser
+
+    Free wifi
+
+    Central heat/air
+
+    Washer/dryer
+
+    Next to Crawford Square
+
+    Walk everywhere!
+
+    Shared courtyard
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+SVR-00805
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pool
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Backyard
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.83 out of 5 stars from 70 reviews
+4.83 · 70 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 83% of reviews
+5
+4 stars, 17% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.7 out of 5 stars for check-in
+Check-in
+4.7
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+27
+Location
+43
+Cleanliness
+25
+Hospitality
+19
+Pool
+6
+Parking
+10
+Accuracy
+9
+Indoor spaces
+9
+Quiet
+8
+Parks
+2
+Cristina
+Waterbury, Connecticut
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This place was adorable, super clean, and perfect for a long weekend. It came with all the amenities needed. The host was extremely responsive by message to any and all questions we had at all times. I appreciated that. The only concernI had was that the pool listed on the site was almost 30 minutes off site. We needed to uber to Tybee Island to get to the pool so I would appreciated transparency around that prior to booking. Being over 100 degrees each day there, it would have been nice to have a pool on site as the images portrayed. Other than that, this place was more than suitable for a long weekend.
+Show more
+Lily
+5 years on Airbnb
+Rating, 4 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Great place! We loved it there, super convenient location and hosts were responsive. Only complaint is the pool was 25 min drive away and there was no washer/dryer as advertised - better transparency for this would have been nice.
+Show more
+Erin
+San Francisco, California
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+We had a great time at our stay! The home is in the perfect walkable location to many squares, parks and the historic downtown area. Adorable neighborhood. The place itself was lovely and just what we needed for a 3 night stay in town.
+Show more
+Sherilyn
+Montreal, Canada
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Stayed a few nights
+Our stay was perfect ! The location is very quiet and peaceful, while also being in walking distance to shops, restaurants and parks. The whole place was clean and the bed was comfortable. We accidentally locked ourselves outside once, and the host was very helpful and easy to reach through their phone number. Would recommend !
+Show more
+Joseph
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Great stay, great location, inside was very clean and put together. Very communicative and quick to respond when I had questions, would definitely recommend
+Julie
+Lewes, Delaware
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Stayed a few nights
+We had a wonderful stay.  Highly recommend!
+Show all 70 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Jones East
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Vacation rentals with a pool in Chatham County
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

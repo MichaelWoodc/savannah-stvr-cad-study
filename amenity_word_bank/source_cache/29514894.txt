@@ -1,0 +1,445 @@
+URL: https://www.airbnb.com/rooms/29514894
+Title: Large Family Home w/ Parking by Lucky Savannah
+Latitude: 32.0702
+Longitude: -81.0988
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Leave the bustle for the birds and experience the quiet, charming side of downtown Savannah. This spacious getaway hosts up to eight Lucky guests.
+
+The space
+Situated just West of the famous Fountain at Forsyth Park, Huntingdon Getaway is the ideal vacation home for a large family looking for a local experience. 
+
+Park off-street in the designated parking areas and walk into the Savannah home of your dreams. The first level boasts high ceilings and ample natural light. Guests will enjoy kicking back and relaxing in the living room while their favorite show plays on the flat screen TV. An adjoining dining room comfortably seats eight and connects to an open kitchen with stainless steel appliances.
+
+Upstairs, three bedrooms with two full baths accommodate an additional six guests. The first bedroom has a Queen size bed with en suite bath, and the second and third bedrooms have King and Queen size beds, respectively.
+
+Head East towards Savannah's largest green space, Forsyth Park, and grab a bite at a few local favorites. On Saturdays, the Forsyth Farmer's Market gives guests a taste of the local agriculture. Head North along Bull Street for a promenade through the squares. Most of Savannah's main attractions such as Broughton Street, City Market, and the riverfront are just a short 15 minute walk away.
+
+What is parking like for this home?
+Huntingdon Getaway includes two private parking spaces off-street: one in the driveway and another in the attached garage, which can accommodate a full-size sedan, or mid-size SUV. Trucks and large SUV's should have no trouble finding a non-metered spot near the home.
+
+Sleeping Configuration
+Bed 1: Queen Size Bed
+Bed 2: King Size Bed
+Bed 3: Queen Size Bed
+Living Room: Queen Sleeper Sofa
+
+SVR-00298
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Large Family Home w/ Parking by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+8 guests · 3 bedrooms · 4 beds · 2.5 baths
+Rated 4.9 out of 5 stars.
+4.9
+·
+20 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+Near Forsyth Park in downtown Savannah
+About a 5-min walk to Forsyth Park, with Savannah's historic squares and landmarks nearby
+Private garage and off-street parking
+Two private parking spaces, including an attached garage that fits a full-size sedan or mid-size SUV
+Clean, comfortable, and well-stocked
+Guests highlight the cleanliness, comfortable beds, and how well-equipped the townhouse is
+Leave the bustle for the birds and experience the quiet, charming side of downtown Savannah. This spacious getaway hosts up to eight Lucky guests.
+
+The space
+Situated just West of the famous Fountain at Forsyth Park, Huntingdon Getaway is the ideal vacation home for a large family looking for a local experience. 
+
+Park off-street in the designated parking areas and walk into the Savannah home of your dreams. The first level boasts high ceilings and ample natural light. Guests will enjoy kicking back and relaxing in the living room while their favorite show plays on the flat screen TV. An adjoining dining room comfortably seats eight and connects to an open kitchen with stainless steel appliances.
+
+Upstairs, three bedrooms with two full baths accommodate an additional six guests. The first bedroom has a Queen size bed with en suite bath, and the second and third bedrooms have King and Queen size beds, respectively.
+
+Head East towards Savannah's largest green space, Forsyth Park, and grab a bite at a few local favorites. On Saturdays, the Forsyth Farmer's Market gives guests a taste of the local agriculture. Head North along Bull Street for a promenade through the squares. Most of Savannah's main attractions such as Broughton Street, City Market, and the riverfront are just a short 15 minute walk away.
+
+What is parking like for this home?
+Huntingdon Getaway includes two private parking spaces off-street: one in the driveway and another in the attached garage, which can accommodate a full-size sedan, or mid-size SUV. Trucks and large SUV's should have no trouble finding a non-metered spot near the home.
+
+Sleeping Configuration
+Bed 1: Queen Size Bed
+Bed 2: King Size Bed
+Bed 3: Queen Size Bed
+Living Room: Queen Sleeper Sofa
+
+SVR-00298
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.9 out of 5 stars from 20 reviews
+4.9 · 20 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.7 out of 5 stars for cleanliness
+Cleanliness
+4.7
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Location
+12
+Comfort
+7
+Family
+5
+Cleanliness
+7
+Walkability
+3
+Sleep quality
+4
+Access
+2
+Amenities
+3
+Check-in
+2
+Hospitality
+6
+Kay
+United States
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Group trip
+This will forever remain one of our favorite Airbnb rentals. The management team provided concise information for checking in and WiFi passwords. Our family was immediately impressed with the cleanliness and furnishings of the lovely townhouse. The comfortable beds and linens were among the best. Although we did no cooking, the kitchen is equipped with everything required -- even small appliances and baking needs.  Amy and her staff were extremely helpful and quick to respond when we reached out to them. Their assistance and kindness contributed to another memorable Savannah visit for our family.
+Show more
+Corky
+O'Fallon, Illinois
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Stayed a few nights
+Great location and very clean and well equipped.
+Show more
+Jeannine
+Longwood, Florida
+Rating, 4 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+We had a good stay. The place was nice and convenient. The back door and upstairs deck door didn’t lock properly and we had to request assistance on how to lock it. The primary bath toilet was also dirty. I left a review promptly after our stay however we never received a return review even after requesting one. I reached out to them asking if they leave reviews for their guest and didn’t get a response for a few days. They then responded saying they don’t leave review for their guests and they’ll see if they can make an exception. It’s expected that guests also receive a return review, It’s just good customer service. There are plenty of places to stay in Savannah. We’ll stay somewhere else next time.
+Show more
+Lisa
+Kenosha, Wisconsin
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Stayed a few nights
+What a perfect location near Forsyth park. The house is beautiful and comfortable and was perfect for our stay. Back patio door unable to get lock to work which was previously mentioned in a review so is an ongoing issue. Messaged on day 1and they came and fixed it on day 4. Would absolutely stay here again the next time I come back to beautiful Savannah!!
+Show more
+Kim
+Joplin, Missouri
+Rating, 5 stars
+,
+·
+June 2025
+,
+·
+Stayed a few nights
+Savanna did not disappoint and neither did our Airbnb. We felt right at home. Close to everything beautiful setting and surroundings. If you’re looking for a place, this is the one.
+Show more
+Emily
+Atlantic Beach, Florida
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Stayed with kids
+Such a wonderful stay. Great location, walkable to so much. Also probably the most well-appointed Airbnb I’ve ever stayed in!
+Show more
+Show all 20 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

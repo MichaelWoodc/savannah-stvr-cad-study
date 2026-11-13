@@ -1,0 +1,458 @@
+URL: https://www.airbnb.com/rooms/848518139170291347
+Title: Bright + Chic w/ Parking by Lucky Savannah
+Latitude: 32.0697
+Longitude: -81.0937
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Up to six Lucky travelers will feel at home in this two story apartment, just a stone's throw away from Forsyth Park. The Lynwood Collection on Forsyth is located on Historic Gaston Street and has been renovated top-to-bottom.
+
+The space
+*This unit is apart of a collection, therefore some furnishings may vary but all units are identical*
+
+Up to six Lucky travelers will feel at home in this two story apartment, just a stone's throw away from Forsyth Park. The Lynwood Collection on Forsyth is located on Historic Gaston Street and has been renovated top-to-bottom. Chic decor ties the space together and creates an inviting space for guests to relax. Enjoy morning or evening strolls beneath the Spanish moss trees, and start your adventure discovering all Savannah has to offer.
+
+Entering on the second floor, you will be provided a secure key code unique to your stay, that ensures safe entry as you check in to your home away from home. Nestle into your coastal digs by gathering together in the living space fitted with a flat screen TV. Guests are welcome to access their streaming favorites like Netflix, Hulu, or Amazon Prime. A half-bath has been tucked between the kitchen, and living room, ideal for guests who will be using the queen-size sleeper sofa.
+
+The bright and airy kitchen features an ample amount of counter space, including a large island that can seat your entire group. Guests will enjoy having modern conveniences, such as stainless appliances, and a full-size washer/dryer. Enjoy a glass of wine or a morning cup of joe on the balcony that sits off of the kitchen.
+
+Head upstairs to find two bedrooms, that are furnished with a king and queen size bed. The master bedroom floods with natural light, a flat screen TV, en suite bath with standing shower and a spacious walk-in closet. Next door, the second bedroom is home to a queen size bed and a second en suite bath with tub/shower combo!
+
+What is parking like for Lynwood Collection on Forsyth?
+Guests are assigned a private space to park their vehicle in the lot behind the home.
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Queen Size Bed
+Living Room: Queen Size Sleeper Sofa
+
+SVR-01042
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Bright + Chic w/ Parking by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+6 guests · 2 bedrooms · 3 beds · 2.5 baths
+Rated 4.29 out of 5 stars.
+4.29
+·
+14 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+On Gaston Street near Forsyth Park
+Steps from Forsyth Park, with Monterey Square and the Flannery O'Connor Home about a 5-min walk away
+Full kitchen with island and balcony
+A kitchen island that seats the whole group, a balcony off the kitchen, and in-unit washer and dryer
+Walkable location, responsive host
+Guests highlight the walkable location and praise the host for being responsive and helpful
+Up to six Lucky travelers will feel at home in this two story apartment, just a stone's throw away from Forsyth Park. The Lynwood Collection on Forsyth is located on Historic Gaston Street and has been renovated top-to-bottom.
+
+The space
+*This unit is apart of a collection, therefore some furnishings may vary but all units are identical*
+
+Up to six Lucky travelers will feel at home in this two story apartment, just a stone's throw away from Forsyth Park. The Lynwood Collection on Forsyth is located on Historic Gaston Street and has been renovated top-to-bottom. Chic decor ties the space together and creates an inviting space for guests to relax. Enjoy morning or evening strolls beneath the Spanish moss trees, and start your adventure discovering all Savannah has to offer.
+
+Entering on the second floor, you will be provided a secure key code unique to your stay, that ensures safe entry as you check in to your home away from home. Nestle into your coastal digs by gathering together in the living space fitted with a flat screen TV. Guests are welcome to access their streaming favorites like Netflix, Hulu, or Amazon Prime. A half-bath has been tucked between the kitchen, and living room, ideal for guests who will be using the queen-size sleeper sofa.
+
+The bright and airy kitchen features an ample amount of counter space, including a large island that can seat your entire group. Guests will enjoy having modern conveniences, such as stainless appliances, and a full-size washer/dryer. Enjoy a glass of wine or a morning cup of joe on the balcony that sits off of the kitchen.
+
+Head upstairs to find two bedrooms, that are furnished with a king and queen size bed. The master bedroom floods with natural light, a flat screen TV, en suite bath with standing shower and a spacious walk-in closet. Next door, the second bedroom is home to a queen size bed and a second en suite bath with tub/shower combo!
+
+What is parking like for Lynwood Collection on Forsyth?
+Guests are assigned a private space to park their vehicle in the lot behind the home.
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Queen Size Bed
+Living Room: Queen Size Sleeper Sofa
+
+SVR-01042
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.29 out of 5 stars from 14 reviews
+4.29 · 14 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 57% of reviews
+5
+4 stars, 14% of reviews
+4
+3 stars, 29% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.6 out of 5 stars for cleanliness
+Cleanliness
+4.6
+Rated 4.5 out of 5 stars for accuracy
+Accuracy
+4.5
+Rated 4.6 out of 5 stars for check-in
+Check-in
+4.6
+Rated 4.6 out of 5 stars for communication
+Communication
+4.6
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.1 out of 5 stars for value
+Value
+4.1
+Guest reviews mention
+Location
+10
+Parks
+2
+Walkability
+5
+Cleanliness
+7
+TV
+4
+Hospitality
+7
+Wifi
+5
+Check-in
+3
+Nearby
+3
+Value
+3
+Kevin
+Washington, District of Columbia
+Rating, 3 stars
+,
+·
+September 2025
+,
+·
+Stayed a few nights
+The place + our experience staying there was generally fine with the exception of a few things:
+-4pm check-in time which is a bit late but fairly standard, no issues with that, but the host wanted us to pay an extra $60 to guarantee the early check-in so we didn’t do it. I’ve stayed at dozens of Airbnbs and never encountered this before. Felt kinda slimy as check-in was on the later side @ 4pm, so they probably set it up this way to fleece guests who want to get in a bit early knowing many will just pay it even though that’s something that should just be complimentary when they’re able to accommodate it.
+-WiFi in the unit did not work, reached out to customer support and they gave us the password to an adjacent unit. Shouldn’t have to deal with that immediately upon checking in.
+-2 of the bathrooms are extremely narrow/small, king bedroom shower was so small we couldn’t avoid elbowing the wall or shower curtain when showering.
+-some towels had a few random stains, nbd but still gross.
+Show more
+Toni
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Great place and great location. Host was super responsive and helpful. Would highly recommend.
+Show more
+Taylor
+Santa Clarita, California
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Stayed a few nights
+Had a great stay. Perfect walkable location and proactive hosts.
+Show more
+Victor
+New York, New York
+Rating, 3 stars
+,
+·
+January 2025
+,
+·
+Stayed with kids
+very responsive host, although wifi didn't work upstairs and tv didn't work in bedroom I didn't notice until late 2nd night( final night) so host didn't get a fair chance to rectify the issue.
+Show more
+Rhianna
+Horizon City, Texas
+Rating, 5 stars
+,
+·
+July 2025
+,
+·
+Stayed with kids
+We stayed in this charming Savannah apartment for the National Junior Olympics Track and Field Event, and it was a gold-medal experience from start to finish.  Just steps from Forsyth Park and nestled in the historic district, it was clean, stylish, and perfectly located - walking distance to restaurants, shops, and all the sweet Southern vibes.  The beds were so comfy.  Definitely recommend for anyone wanting to take in the rich history and sites Savannah has to offer.
+Show more
+Alexander
+Jersey City, New Jersey
+Rating, 3 stars
+,
+·
+January 2025
+,
+·
+Stayed with kids
+The good: 
+Pretty clean and cozy. Location is the best thing! Walkable to everything!
+The bad:
+Curtain rods are a safety hazard. They are not properly mounted and felt on my kid. Gladly hitting the shoulder and not the head. 
+Wifi didn’t work. Master bedroom tv didn’t work. 
+The host is really slow on response. 
+Overall the place felt cheap. Extremely dirty windows. 
+Not clear insulations on how to find the apartments themselves. 
+Only one parking spot. 
+It’s really overpriced
+Show more
+Show all 14 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

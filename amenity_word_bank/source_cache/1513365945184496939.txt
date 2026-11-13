@@ -1,0 +1,404 @@
+URL: https://www.airbnb.com/rooms/1513365945184496939
+Title: Full Building Rental | Ideal for Groups up to 24
+Latitude: 32.0723
+Longitude: -81.0918
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/ Southern Grace Getaways
+Host ID: 673964632
+Host profile ID: 1470687891344471003
+Host URL: https://www.airbnb.com/users/profile/1470687891344471003
+Bedrooms: 9
+Occupancy (maximum guests): 16
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 12
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+The Lafayette Trio offers the rare opportunity to rent an entire historic townhouse building in the heart of Savannah’s Landmark District. Just one block from the iconic Cathedral Basilica of St. John the Baptist, this elegant property includes three full townhomes, each with 3 bedrooms, 2 bathrooms, a full kitchen, and dining space. Perfect for large groups, the home sleeps up to 24 guests and places you steps from Lafayette Square, Forsyth Park, and Savannah’s most beloved sights.
+
+The space
+Step inside The Lafayette Trio, a rare full-building rental featuring three private townhomes stacked across three floors. Each unit offers its own kitchen, living area, 3 bedrooms, and 2 bathrooms, creating the perfect balance of shared space and personal privacy. With room for up to 24 guests, this beautifully designed historic property offers stylish comfort, flexibility, and unmatched access to Savannah’s most iconic sites—all just a block from Lafayette Square and the Cathedral.
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+★ Key Features:
+
+• Prime location near Lafayette Square
+
+• 9 bedrooms (3 king, 6 queens, 3 sleeper sofas)
+
+• 6 full bathrooms
+
+• Sunlit bay windows & grand fireplaces
+
+• 3 Full kitchen w/ stainless steel appliances
+
+• Ceiling fans in bedrooms & living room
+
+• 3 In-unit washer & dryer
+
+• High-speed WiFi & smart TVs
+
+• Elegant historic details throughout
+
+• Walk to Forsyth Park, shops & dining
+
+
+
+SVR-00751, SVR-00752, SVR-00753
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Park view
+City skyline view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Children’s dinnerware
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Exterior cameras and cameras in the shared stairwell
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Full Building Rental | Ideal for Groups up to 24
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+16+ guests · 9 bedrooms · 12 beds · 6 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+2 reviews
+Hosted by Laura W/ Southern Grace Getaways
+Superhost · 2 years hosting
+Listing highlights
+Steps from Lafayette Square
+Right outside Lafayette Square, with the Cathedral of St. John the Baptist about a 2-min walk away
+Three townhomes in one building
+Three separate townhomes, each with its own full kitchen, living area, and in-unit washer and dryer
+Guests praise the location and setup
+Both reviews praise the location and ease of the stay, with one guest noting seamless coordination
+Some info has been automatically translated. Show original
+The Lafayette Trio offers the rare opportunity to rent an entire historic townhouse building in the heart of Savannah’s Landmark District. Just one block from the iconic Cathedral Basilica of St. John the Baptist, this elegant property includes three full townhomes, each with 3 bedrooms, 2 bathrooms, a full kitchen, and dining space. Perfect for large groups, the home sleeps up to 24 guests and places you steps from Lafayette Square, Forsyth Park, and Savannah’s most beloved sights.
+
+The space
+Step inside The Lafayette Trio, a rare full-building rental featuring three private townhomes stacked across three floors. Each unit offers its own kitchen, living area, 3 bedrooms, and 2 bathrooms, creating the perfect balance of shared space and personal privacy. With room for up to 24 guests, this beautifully designed historic property offers stylish comfort, flexibility, and unmatched access to Savannah’s most iconic sites—all just a block from Lafayette Square and the Cathedral.
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+★ Key Features:
+
+• Prime location near Lafayette Square
+
+• 9 bedrooms (3 king, 6 queens, 3 sleeper sofas)
+
+• 6 full bathrooms
+
+• Sunlit bay windows & grand fireplaces
+
+• 3 Full kitchen w/ stainless steel appliances
+
+• Ceiling fans in bedrooms & living room
+
+• 3 In-unit washer & dryer
+
+• High-speed WiFi & smart TVs
+
+• Elegant historic details throughout
+
+• Walk to Forsyth Park, shops & dining
+
+
+
+SVR-00751, SVR-00752, SVR-00753
+Show more
+All sleeping arrangements
+
+Advertised beds: 12 | Enumerated: 0 | Count unverified
+
+What this place offers
+Park view
+City skyline view
+Waterfront
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Washer
+Exterior security cameras on property
+Show all 59 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+2 reviews
+2 reviews
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Robert
+Philadelphia, Pennsylvania
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Group trip
+We had a nice stay for our guys trip, rented all 3 apts and was still pretty seamless and cohesive for our big group. Location pretty good, street parking wasn’t bad either.
+Show more
+Drew
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+Amazing place, great location, incredibly easy to communicate with the host. Could not recommend this place to a friend fast enough. Thank you for the hospitality
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Laura W/ Southern Grace Getaways
+Superhost
+537 reviews
+537
+Reviews
+4.83 out of 5 average rating
+4.83
+Rating
+2 years of hosting
+2
+Years hosting
+Born in the 70s
+Where I went to school: Winthrop University
+Laura W/ Southern Grace Getaways is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 10:00 AM
+No pets
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Waterfront vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Waterfront vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

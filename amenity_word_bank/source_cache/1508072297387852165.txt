@@ -1,0 +1,396 @@
+URL: https://www.airbnb.com/rooms/1508072297387852165
+Title: Pet-friendly Renovated Apt Steps to Forsyth Park
+Latitude: 32.0677
+Longitude: -81.0923
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Perfect for a romantic escape or peaceful solo retreat, this pet-friendly one-bedroom, one-bathroom home accommodates up to two guests in comfort and style!
+
+The space
+Welcome to Secret Savannah Sanctuary C – a charming hideaway nestled in Savannah’s South Historic District. Perfect for a romantic escape or peaceful solo retreat, this carriage house is a pet-friendly one-bedroom, one-bathroom second story walk-up, that accommodates up to two guests in comfort and style.
+
+What makes this home special?
+
+Open and bright floor plan: This second story walk-up has an open living and dining area that greets you with hardwood floors and abundant natural light. Relax on the plush sofa with a Smart TV for entertainment, or enjoy meals in the fully equipped kitchen, featuring sleek black stainless-steel appliances, quartz countertops, and a cozy dining table.
+
+Peaceful Sleeping Accommodations: The tranquil bedroom offers a queen-size bed, Smart TV, while the modern bathroom (that connects) boasts a vanity, a walk-in shower designed for relaxation, and a full-size stackable washer + dryer.
+
+Step outside and discover the beauty of Savannah’s South Historic District—cobblestone streets, moss-draped oaks, and landmarks like Forsyth Park and the Cathedral of St. John the Baptist. When you’re ready for a change of pace, Tybee Island’s sandy beaches and coastal charm are just a short drive away.
+
+Whether you’re strolling through historic squares or savoring the sea breeze, Secret Savannah Sanctuary C is your perfect retreat in Savannah!
+
+Sleeping Configuration: 
+Bedroom 1: Queen Size Bed
+
+Parking: Non-metered Parking
+This unit has free, on-street parking right outside the front door. Availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation.
+
+SVR-03035
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Pet-friendly Renovated Apt Steps to Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Rated 4.67 out of 5 stars.
+4.67
+·
+3 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's South Historic District
+Whitefield Square is steps away, and Forsyth Park is about a 5-min walk
+Modern kitchen with in-unit laundry
+A fully equipped kitchen with quartz countertops, a dishwasher, and in-unit washer and dryer
+Clean and quiet, per guests
+Guests highlight the cleanliness and the quiet neighborhood for a good night's sleep
+Perfect for a romantic escape or peaceful solo retreat, this pet-friendly one-bedroom, one-bathroom home accommodates up to two guests in comfort and style!
+
+The space
+Welcome to Secret Savannah Sanctuary C – a charming hideaway nestled in Savannah’s South Historic District. Perfect for a romantic escape or peaceful solo retreat, this carriage house is a pet-friendly one-bedroom, one-bathroom second story walk-up, that accommodates up to two guests in comfort and style.
+
+What makes this home special?
+
+Open and bright floor plan: This second story walk-up has an open living and dining area that greets you with hardwood floors and abundant natural light. Relax on the plush sofa with a Smart TV for entertainment, or enjoy meals in the fully equipped kitchen, featuring sleek black stainless-steel appliances, quartz countertops, and a cozy dining table.
+
+Peaceful Sleeping Accommodations: The tranquil bedroom offers a queen-size bed, Smart TV, while the modern bathroom (that connects) boasts a vanity, a walk-in shower designed for relaxation, and a full-size stackable washer + dryer.
+
+Step outside and discover the beauty of Savannah’s South Historic District—cobblestone streets, moss-draped oaks, and landmarks like Forsyth Park and the Cathedral of St. John the Baptist. When you’re ready for a change of pace, Tybee Island’s sandy beaches and coastal charm are just a short drive away.
+
+Whether you’re strolling through historic squares or savoring the sea breeze, Secret Savannah Sanctuary C is your perfect retreat in Savannah!
+
+Sleeping Configuration: 
+Bedroom 1: Queen Size Bed
+
+Parking: Non-metered Parking
+This unit has free, on-street parking right outside the front door. Availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends.
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation.
+
+SVR-03035
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 29 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.67 out of 5 stars from 3 reviews
+4.67 · 3 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 67% of reviews
+5
+4 stars, 33% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.3 out of 5 stars for communication
+Communication
+4.3
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Parking
+2
+Walkability
+2
+Bathroom
+2
+Location
+2
+Brittany
+Orlando, Florida
+Rating, 4 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Place was renovated and nice. Little bit of a walk but we didn’t mind. Parking was easy to find on the street. The shower could have been designed better. We didn’t bring body wash and there was also no body wash, just a small bar of soap for the shower. Other than that it was a great stay!
+Show more
+Avis
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Great stay! Great area!
+Show more
+Victoria
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+We had a great stay at Lucky Savannah airbnb! The location is unbeatable—right by Forsyth Park and within easy walking distance to everything we wanted to see and do. The place was very clean, easy to find, and in a surprisingly quiet neighborhood, which made it perfect for getting a good night’s sleep. Would definitely stay here again! Free street parking is all around. Just make sure to read the signs. They sweep each road on a certain day so it will say when not to park. Also make sure you walk a block over to the Maté Factor Cafe! It was a great find. Close by yummy breakfast!! The hosts were great at communicating and very friendly. Also great water heater, ha! Always had hot water even after multiple showers, which is always nice. 
+Thanks for a wonderful stay!
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Pet-friendly vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

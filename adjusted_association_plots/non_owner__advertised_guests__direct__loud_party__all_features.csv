@@ -1,0 +1,16 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr
+non_owner,advertised_guests,direct,Loud party,mention_bar,Bar mention,amenities,411,20,90,321,6,14,1.471336333710627,0.4930545590202725,4.390651231779849,0.4887494192531942,0.7502609252406806
+non_owner,advertised_guests,direct,Loud party,mention_wine,Wine / wine accessories,amenities,411,20,272,139,12,8,0.6835286849966171,0.2143984582699984,2.179173614321569,0.5200904523089191,0.7713907947519899
+non_owner,advertised_guests,direct,Loud party,mention_outdoor,Outdoor space,amenities,411,20,240,171,15,5,1.7107595146141568,0.3918666262479217,7.468607737447983,0.475174837755825,0.7477255632473516
+non_owner,advertised_guests,direct,Loud party,mention_yard,Yard / garden / courtyard,amenities,411,20,268,143,15,5,1.3118274313929623,0.2947288632901209,5.838896097736688,0.721622637218741,0.8822050056143257
+non_owner,advertised_guests,direct,Loud party,mention_pool,Swimming pool,amenities,411,20,91,320,5,15,1.2462145795531867,0.4135860047029146,3.755085425113712,0.6957009699628656,0.8771742208738488
+non_owner,advertised_guests,direct,Loud party,mention_hot_tub,Hot tub / Jacuzzi,amenities,411,20,32,379,4,16,2.541514394614452,0.6890657271596247,9.373990264554465,0.161293264180703,0.4716948376504131
+non_owner,advertised_guests,direct,Loud party,mention_sound_system,Sound system / speakers,amenities,411,20,33,378,3,17,1.9552872577293312,0.4262472207754524,8.969321262161914,0.3882572215641428,0.6900325177602168
+non_owner,advertised_guests,direct,Loud party,mention_events,Events / gatherings,amenities,411,20,137,274,5,15,0.5054250619687215,0.1624679788403908,1.572337485142506,0.2386272073447221,0.5560494881920072
+non_owner,advertised_guests,direct,Loud party,mention_patio,Patio / deck / balcony / porch,amenities,411,20,257,154,17,3,3.045183333309428,0.7342873004899655,12.628764690983845,0.1249270196699182,0.4230108127025637
+non_owner,advertised_guests,direct,Loud party,mention_grill,Grill / BBQ,amenities,411,20,89,322,9,11,2.904159035040779,1.1978659604648836,7.040971176387513,0.0182960474932509,0.1803775035216976
+non_owner,advertised_guests,direct,Loud party,mention_fire_pit,Fire pit,amenities,411,20,21,390,4,16,4.599489251776362,1.3727511620954838,15.410878505404453,0.0133773999711951,0.1401282646982687
+non_owner,advertised_guests,direct,Loud party,mention_cocktails,Cocktails / spirits,amenities,411,20,67,344,4,16,1.1605075584709672,0.310731595191746,4.334215812322454,0.8247658944766396,0.9222200396551662
+non_owner,advertised_guests,direct,Loud party,mention_outdoor_dining,Outdoor dining,amenities,411,20,97,314,7,13,1.4135516891625302,0.4522573307073697,4.418122697555828,0.5516680384816885,0.783304213076213
+non_owner,advertised_guests,direct,Loud party,keyword_swimming_pool,Swimming Pool,keywords,411,20,88,323,5,15,1.302882675832623,0.4317819536780026,3.931390028057249,0.6386779573898511,0.8455167903518093
+non_owner,advertised_guests,direct,Loud party,keyword_hot_tub,Hot Tub,keywords,411,20,20,391,4,16,4.283228301285574,1.2029233679429765,15.251216469679044,0.024758889245869,0.1869184611534975

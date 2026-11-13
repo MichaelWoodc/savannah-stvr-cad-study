@@ -1,0 +1,9 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr,status
+all,advertised_guests,combined,Disturbance / nuisance,keyword_wedding,Wedding events,keywords,472,57,21,451,4,53,1.2300956424713376,0.2157633217992055,7.012940276453159,0.8156163372784281,0.9173195268290364,
+all,advertised_guests,combined,Disturbance / nuisance,keyword_swimming_pool,Swimming Pool,keywords,472,57,97,375,17,40,1.840501437157674,0.7139898008942528,4.744389255892424,0.2066997384751935,0.520163305832469,
+all,advertised_guests,combined,Disturbance / nuisance,keyword_hot_tub,Hot Tub,keywords,472,57,21,451,3,54,1.0890991658683562,0.2764847828584077,4.290062479505751,0.9028806376584568,0.95614077405061,
+all,advertised_guests,combined,Disturbance / nuisance,keyword_bachelor,Bachelor events,keywords,472,57,4,468,0,57,,,,,,insufficient support
+all,advertised_guests,combined,Disturbance / nuisance,keyword_bachelorette,Bachelorette events,keywords,472,57,11,461,1,56,,,,,,insufficient support
+all,advertised_guests,combined,Disturbance / nuisance,keyword_engagement,Engagement events,keywords,472,57,0,472,0,57,,,,,,insufficient support
+all,advertised_guests,combined,Disturbance / nuisance,keyword_jacuzzi,Jacuzzi,keywords,472,57,9,463,1,56,,,,,,insufficient support
+all,advertised_guests,combined,Disturbance / nuisance,keyword_pool_table,Pool Table,keywords,472,57,0,472,0,57,,,,,,insufficient support

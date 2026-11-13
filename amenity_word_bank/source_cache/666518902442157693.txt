@@ -1,0 +1,445 @@
+URL: https://www.airbnb.com/rooms/666518902442157693
+Title: Near Beautiful Columbia Square by Lucky Savannah
+Latitude: 32.0762
+Longitude: -81.0884
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located between beautiful Columbia Square and majestic tree-lined Oglethorpe Avenue, Cozy Cottage is just a short stroll away from everything Historic Savannah has to offer!
+
+The space
+Hidden behind the tree-lined street, this charming home is located between beautiful Columbia Square and Oglethorpe Avenue. While off the beaten path, you'll still be just a short stroll away from everything Historic Savannah has to offer - Bustling Broughton Street, Savannah's famous river front, City Market, and so much more.
+
+Cozy Cottage cheerfully welcomes you to this unique property upon the moment you step inside. The main gathering room gleams with natural light, and features warm and tasteful furnishings. The living space comfortably seats your entire party, also fitted with A flat-screen TV, and original fire place that is now decorative. Stepping into to the spacious kitchen, you'll find all of the modern conveniences one could ask for! You'll also find that the kitchen is stocked with everything to prepare home-cooked meals. 
+
+Just off the kitchen, the first suite is fitted with a king size bed, and ensuite bathroom. Down the hall, you'll find the second suite which is also fitted with a king size bed, ensuite bathroom with tub-shower combination, and plenty of storage space for all of your belongings. Heading upstairs, you'll find the final bedroom that is a lofted space, and offers a queen size bed, ensuite bathroom with a tub-shower combination, and plenty of natural light!
+
+If you're looking to be just minutes from the excitement of River Street and Broughton Street, Savannah’s best shopping, dining and historic attractions, Cozy Cottage is the home for you!
+
+Parking: Metered Parking
+Parking for this home is on-street and metered, with enforcement by the City of Savannah Monday through Saturday, 8am to 8pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or utilize a nearby public parking garage. Pre-paid visitor parking passes are available for purchase at the Parking and Mobility Services office. Please take note of posted Sweep Zone signs when parking on the street.
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: King Size Bed
+Bedroom 3 (Loft): Queen Size Bed
+Living Room: Queen Sleeper Sofa
+
+SVR-00174
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Near Beautiful Columbia Square by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 3 bedrooms · 4 beds · 3 baths
+Rated 3.67 out of 5 stars.
+3.67
+·
+6 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Columbia Square, with the Owens-Thomas House and several historic squares nearby
+Well-equipped kitchen
+A spacious kitchen stocked for home-cooked meals, with a dishwasher and coffee maker
+Location guests keep coming back to
+Guests highlight the central location and how easy it is to walk to dining and attractions
+Located between beautiful Columbia Square and majestic tree-lined Oglethorpe Avenue, Cozy Cottage is just a short stroll away from everything Historic Savannah has to offer!
+
+The space
+Hidden behind the tree-lined street, this charming home is located between beautiful Columbia Square and Oglethorpe Avenue. While off the beaten path, you'll still be just a short stroll away from everything Historic Savannah has to offer - Bustling Broughton Street, Savannah's famous river front, City Market, and so much more.
+
+Cozy Cottage cheerfully welcomes you to this unique property upon the moment you step inside. The main gathering room gleams with natural light, and features warm and tasteful furnishings. The living space comfortably seats your entire party, also fitted with A flat-screen TV, and original fire place that is now decorative. Stepping into to the spacious kitchen, you'll find all of the modern conveniences one could ask for! You'll also find that the kitchen is stocked with everything to prepare home-cooked meals. 
+
+Just off the kitchen, the first suite is fitted with a king size bed, and ensuite bathroom. Down the hall, you'll find the second suite which is also fitted with a king size bed, ensuite bathroom with tub-shower combination, and plenty of storage space for all of your belongings. Heading upstairs, you'll find the final bedroom that is a lofted space, and offers a queen size bed, ensuite bathroom with a tub-shower combination, and plenty of natural light!
+
+If you're looking to be just minutes from the excitement of River Street and Broughton Street, Savannah’s best shopping, dining and historic attractions, Cozy Cottage is the home for you!
+
+Parking: Metered Parking
+Parking for this home is on-street and metered, with enforcement by the City of Savannah Monday through Saturday, 8am to 8pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or utilize a nearby public parking garage. Pre-paid visitor parking passes are available for purchase at the Parking and Mobility Services office. Please take note of posted Sweep Zone signs when parking on the street.
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: King Size Bed
+Bedroom 3 (Loft): Queen Size Bed
+Living Room: Queen Sleeper Sofa
+
+SVR-00174
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+3.67 out of 5 stars from 6 reviews
+3.67 · 6 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 50% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 17% of reviews
+3
+2 stars, 33% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.2 out of 5 stars for cleanliness
+Cleanliness
+4.2
+Rated 4.0 out of 5 stars for accuracy
+Accuracy
+4.0
+Rated 4.7 out of 5 stars for check-in
+Check-in
+4.7
+Rated 4.5 out of 5 stars for communication
+Communication
+4.5
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 3.3 out of 5 stars for value
+Value
+3.3
+Guest reviews mention
+Location
+6
+Condition
+3
+Checkout
+2
+Bathroom
+3
+Check-in
+2
+Value
+3
+Cleanliness
+3
+Sleep quality
+2
+Kitchen
+2
+Hospitality
+2
+Lauren
+Surf City, North Carolina
+Rating, 3 stars
+,
+·
+July 2025
+,
+·
+Stayed with kids
+Location itself is good to see the sites and get food.  Parking sucks- having to pay meter or use a far away garage was not that great- wish that was made more clear before booking.  
+The main issues we had were the obvious water damage including the large leak stains in the ceiling throughout the house, and what appeared to be black mold in the bathroom walls.  We have allergies to mold, and with our throats being itchy and sinuses acting up, it probably was mold. The beds were also very uncomfortable to where we felt like our backs were going to break in half.  It also was kinda gross where it looked like there were old bodily fluids on the mattress of the room with the washer/dryer. It was also unnerving having the huge cracks in the exterior doors- didn’t feel safe. 
+I do feel like I overpaid for the Airbnb and hope they make repairs soon. It’s not right making someone pay 400ish a night wish the condition it was in.
+Show more
+Brent
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Group trip
+Fantastic experience at this extremely well-located location.   Everything was as described, and Lucky Savannah was timely/clear in their communications - they even graciously let us check in early!  Definitely would stay here again
+Show more
+Iana
+Honolulu, Hawaii
+Rating, 5 stars
+,
+·
+June 2025
+,
+·
+Group trip
+We had a great time at the cozy cottage! The location and cottage size and amenities was perfect for our group. The instructions were clear and check in and out were a breeze! Highly recommend
+Show more
+Rich
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+October 2024
+,
+·
+Group trip
+host was very responsive.  very clean.  close to everything.  would recommend and stay again for sure.
+Show more
+Jillian
+Jacksonville, Florida
+Rating, 2 stars
+,
+·
+November 2022
+,
+·
+Stayed a few nights
+The location of this stay is great- it was a 5-15 minute walk anywhere we wanted to go. The building itself was charming and has a lot of potential. Another positive was that each room has a large bed (king or queen) and their own bathroom. On the downside, everything seemed very haphazardly and cheaply put together, which was a disappointment with how much we spent on this stay. In the kitchen, the counter moves, the oven has a burner that just releases gas without ticking or  igniting (so dangerous!!). In one of the bathrooms, there was exposed piping- the sink cabinet was messily hacked into, and it looks very unprofessional. The tub did not drain when the shower was running, so you get a nice ankle bath while you shower. All around, there was peeling paint and wallpaper. I wish there would have been more than one key for the four people staying. It would have also been nice to have tvs in each room for the price. The final straw for us was that the cleaning fee (for a very small home) was $400 or $500 dollars and they made us take out our trash and wash our dishes!! Overall, it did not feel worth the price and we would love to see some quality work put into this home.
+Show more
+Bill
+4 years on Airbnb
+Rating, 2 stars
+,
+·
+October 2022
+,
+·
+Group trip
+Location is amazing everything else, not so much.  It's a 3 bedroom 3 bath house.   This house had dead bugs in the artwork hanging on the walls, hair in the bed when I turn down the sheets, and somebody else's dirty sock was left in the closet.  Water pressure is horrible. If someone downstairs is taking a shower or doing laundry the person upstairs loses water pressure entirely.   We were only supplied with one kitchen garbage bag for 3 nights for 6 adults nowhere near enough.  Very terrible workmanship. There are holes in the cabinets holes in the wall holes in the ceiling.  Definitely not worth $600 a night Which is what you pay after fees and everything.
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

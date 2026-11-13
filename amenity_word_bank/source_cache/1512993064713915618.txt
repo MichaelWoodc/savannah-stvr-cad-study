@@ -1,0 +1,597 @@
+URL: https://www.airbnb.com/rooms/1512993064713915618
+Title: Private Parking • Broughton St • Two Private Baths
+Latitude: 32.0776
+Longitude: -81.0864
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/ Southern Grace Stays
+Host ID: 499456132
+Host profile ID: 1470246415251737254
+Host URL: https://www.airbnb.com/users/profile/1470246415251737254
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to this 2 bedroom, 2 bathroom first-floor Victorian home in Savannah’s Historic District, with restored charm and a private front porch to enjoy.
+
+• Private parking and self check-in
+• King and queen bedrooms, each with its own ensuite bath
+• Living room, formal dining, and in-unit washer/dryer
+• Steps from Broughton Street; short stroll to City Market and River Street
+• Dog Friendly
+
+Settle in and enjoy an easy Savannah stay with porch time, parking, and room to spread out.
+
+The space
+☆☆ HIGHLIGHTS ☆☆
+✔ First-floor private residence in a restored Victorian townhome
+✔ Two bedrooms and two ensuite bathrooms for comfortable group stays
+✔ Private front porch
+✔ Private parking at the back of the house for one car and self check-in with smart lock
+✔ Living room, formal dining area, and a fully equipped kitchen with gas stove
+✔ Located on lively Broughton Street in Savannah’s Historic District
+✔ In-unit washer and dryer for added convenience
+✔ Dog-friendly 
+
+
+Welcome to your Savannah stay. This first-floor home offers a classic historic setting with easy access to the city, making it a strong fit for guests who want both character and convenience.
+
+A few guests have shared kind feedback about their stay:
+"Amazing location and beautiful home. The mornings are peaceful on the front porch rocking chairs, and you can walk to so many places to grab a bite in 5 minutes." - Dawn
+
+"Fun place to stay for easy shopping and dining!" - Tiffani
+
+"The two bedrooms with their own bathrooms were perfect for our group. Our dog felt right at home and loved watching the happenings." - Chelsea
+
+☆☆ NEARBY ☆☆
+✔ Broughton Street puts shopping, dining, and nightlife right outside your door
+✔ City Market is just a short stroll away for local eats and an easy wander
+✔ River Street is also a short stroll away for cobblestones, shops, and the riverfront
+✔ The Savannah Historic District surrounds you with landmark architecture and walkable sights
+✔ The American Prohibition Museum and Mercer Williams House Museum are both nearby for an easy outing
+
+★★ LIVING ROOM ★★
+✔ A comfortable seating area with a decorative fireplace and TV
+✔ Direct access to the dining room through wide openings
+
+★★ KITCHEN & DINING ★★
+✔ Formal dining table with seating for six
+✔ Fully equipped kitchen with gas stove, oven, refrigerator, dishwasher, microwave, and freezer
+✔ Coffee maker, kettle, toaster, blender, baking sheet, cooking basics, dishes, silverware, and wine glasses
+✔ Children’s dinnerware and a pack n play provided
+
+★★ BEDROOMS ★★
+✔ Bedroom 1 features a king bed, ensuite bathroom, and generous closet space
+✔ Bedroom 2 features a queen bed, ensuite bathroom, and generous closet space
+✔ Both bedrooms include clothing storage, hangers, and room-darkening shades
+
+★★ BATHROOMS ★★
+✔ Two ensuite bathrooms with bathtub, shower, hot water, hair dryer, and toiletries
+✔ Shampoo, conditioner, body soap, and shower gel are provided
+✔ Cleaning products, essentials, and extra pillows and blankets are also available
+
+★★ OUTDOOR SPACE ★★
+✔ Spacious front porch with seating for morning coffee or an evening drink
+
+
+We’d love to host you for a relaxed Savannah stay in a home that feels both historic and easy to enjoy.
+
+SVR-03271
+1 Parking Space Included
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+The home’s prime location is a major highlight for guests. Situated directly on lively Broughton Street, you’ll be steps from Savannah’s best shopping, dining, and nightlife, with City Market and River Street just a short stroll away. The surrounding Historic District is rich with cultural landmarks, art galleries, and iconic attractions, making it the perfect spot to immerse yourself in the city’s charm. After a day of exploring, guests can relax on the wide front porch and watch the world go by, enjoy a meal in the formal dining room or fully equipped kitchen, or simply unwind in the cozy living space. With its inviting porch, modern amenities, and unbeatable location, this Victorian gem offers a truly memorable Savannah experience.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+City skyline view
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Children’s dinnerware
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+Cameras are located at all exterior entrances
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Patio or balcony
+Outdoor furniture
+Beach essentials
+Beach gear such as towels, chairs, and an umbrella
+Parking and facilities
+Free parking on premises
+Free street parking
+Single level home
+No stairs in home
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Housekeeping available from 9:00 AM to 3:00 PM, every day - available at extra cost
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Private Parking • Broughton St • Two Private Baths
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.9 out of 5 stars.
+4.9
+30 reviews
+30
+Reviews
+Hosted by Laura W/ Southern Grace Stays
+Superhost · 4 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Right on Broughton Street, with River Street about a 5-min walk and historic squares all around
+Private off-street parking included
+A private parking spot behind the house, a real convenience in the Historic District
+Highly rated across 30 stays
+Guests consistently highlight the walkable location, clean space, and a responsive, helpful host
+Some info has been automatically translated. Show original
+Welcome to this 2 bedroom, 2 bathroom first-floor Victorian home in Savannah’s Historic District, with restored charm and a private front porch to enjoy.
+
+• Private parking and self check-in
+• King and queen bedrooms, each with its own ensuite bath
+• Living room, formal dining, and in-unit washer/dryer
+• Steps from Broughton Street; short stroll to City Market and River Street
+• Dog Friendly
+
+Settle in and enjoy an easy Savannah stay with porch time, parking, and room to spread out.
+
+The space
+☆☆ HIGHLIGHTS ☆☆
+✔ First-floor private residence in a restored Victorian townhome
+✔ Two bedrooms and two ensuite bathrooms for comfortable group stays
+✔ Private front porch
+✔ Private parking at the back of the house for one car and self check-in with smart lock
+✔ Living room, formal dining area, and a fully equipped kitchen with gas stove
+✔ Located on lively Broughton Street in Savannah’s Historic District
+✔ In-unit washer and dryer for added convenience
+✔ Dog-friendly 
+
+
+Welcome to your Savannah stay. This first-floor home offers a classic historic setting with easy access to the city, making it a strong fit for guests who want both character and convenience.
+
+A few guests have shared kind feedback about their stay:
+"Amazing location and beautiful home. The mornings are peaceful on the front porch rocking chairs, and you can walk to so many places to grab a bite in 5 minutes." - Dawn
+
+"Fun place to stay for easy shopping and dining!" - Tiffani
+
+"The two bedrooms with their own bathrooms were perfect for our group. Our dog felt right at home and loved watching the happenings." - Chelsea
+
+☆☆ NEARBY ☆☆
+✔ Broughton Street puts shopping, dining, and nightlife right outside your door
+✔ City Market is just a short stroll away for local eats and an easy wander
+✔ River Street is also a short stroll away for cobblestones, shops, and the riverfront
+✔ The Savannah Historic District surrounds you with landmark architecture and walkable sights
+✔ The American Prohibition Museum and Mercer Williams House Museum are both nearby for an easy outing
+
+★★ LIVING ROOM ★★
+✔ A comfortable seating area with a decorative fireplace and TV
+✔ Direct access to the dining room through wide openings
+
+★★ KITCHEN & DINING ★★
+✔ Formal dining table with seating for six
+✔ Fully equipped kitchen with gas stove, oven, refrigerator, dishwasher, microwave, and freezer
+✔ Coffee maker, kettle, toaster, blender, baking sheet, cooking basics, dishes, silverware, and wine glasses
+✔ Children’s dinnerware and a pack n play provided
+
+★★ BEDROOMS ★★
+✔ Bedroom 1 features a king bed, ensuite bathroom, and generous closet space
+✔ Bedroom 2 features a queen bed, ensuite bathroom, and generous closet space
+✔ Both bedrooms include clothing storage, hangers, and room-darkening shades
+
+★★ BATHROOMS ★★
+✔ Two ensuite bathrooms with bathtub, shower, hot water, hair dryer, and toiletries
+✔ Shampoo, conditioner, body soap, and shower gel are provided
+✔ Cleaning products, essentials, and extra pillows and blankets are also available
+
+★★ OUTDOOR SPACE ★★
+✔ Spacious front porch with seating for morning coffee or an evening drink
+
+
+We’d love to host you for a relaxed Savannah stay in a home that feels both historic and easy to enjoy.
+
+SVR-03271
+1 Parking Space Included
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+The home’s prime location is a major highlight for guests. Situated directly on lively Broughton Street, you’ll be steps from Savannah’s best shopping, dining, and nightlife, with City Market and River Street just a short stroll away. The surrounding Historic District is rich with cultural landmarks, art galleries, and iconic attractions, making it the perfect spot to immerse yourself in the city’s charm. After a day of exploring, guests can relax on the wide front porch and watch the world go by, enjoy a meal in the formal dining room or fully equipped kitchen, or simply unwind in the cozy living space. With its inviting porch, modern amenities, and unbeatable location, this Victorian gem offers a truly memorable Savannah experience.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+City skyline view
+Waterfront
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV
+Washer
+Exterior security cameras on property
+Show all 67 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.9 out of 5 from 30 reviews.
+4.9
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+21
+Location
+18
+Nearby
+11
+Hospitality
+11
+Cleanliness
+9
+Parking
+6
+Comfort
+6
+Decor
+4
+Indoor spaces
+6
+Outdoor spaces
+4
+Jennifer
+Newark, Ohio
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed a few nights
+We came to Savannah for our annual Sister's Weekend and I'm so glad we chose this city.  The townhouse was in a great location with lots to do and see within walking distance, to include the riverfront.  The house was spotless and beautifully decorated and had all the amenities we could need.  Our host was very responsive when we had questions.
+Show more
+James
+Largo, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with a pet
+Very comfortable home in a great location. Everything was walkable. She gave some great recommendations and was very responsive when we called with questions.
+Show more
+Kathy
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Stayed with a pet
+Had an amazing stay. Would definitely recommend this air b and b. Walking distance to everything we needed. Great coffee place across the street. Place was beautiful and clean.
+Show more
+Lindsay
+New York, New York
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This is a beautiful location and perfect for our family trip. It was fun watching the tours go by from the front porch, and getting espresso milkshakes from the Java burrito place practically next door. It’s a great vacation spot!
+Show more
+Robin
+Georgetown, Texas
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had a great time in Savannah.  Everything was perfect from check-in to check-out.  House was in a great location and walkable to anywhere in the Historic District.  Would definitely recommend.
+Show more
+Greg
+Waycross, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Had family come in that had never been to Savannah.  The flat was perfect as it was within walking distance to all attractions.  
+The house was as shown in the photos and communication was spot on for or stay.  It was clean and very well appointed to create a perfect stay!
+Show more
+Show all 30 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Laura W/ Southern Grace Stays
+Superhost
+848 reviews
+848
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+4 years of hosting
+4
+Years hosting
+Where I went to school: Winthrop University
+My work: Vacation Rental Host
+Hi, I’m Laura! I’m a Savannah local and owner of Southern Grace Stays. I love sharing our beautiful city and a little Southern hospitality with every guest. When I’m not hosting, I’m usually working on a property, hunting for the perfect décor, or spending time with family. I’m always happy to share my favorite local spots—because in Savannah, we believe good times and great stays are always worth toasting to. Y’all come stay awhile!
+Laura W/ Southern Grace Stays is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Laura W/ Southern Grace Getaways
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 2:00 AM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Waterfront vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

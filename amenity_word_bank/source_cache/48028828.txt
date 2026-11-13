@@ -1,0 +1,698 @@
+URL: https://www.airbnb.com/rooms/48028828
+Title: Experience Savannah from the Heart of Downtown
+Latitude: 32.07697
+Longitude: -81.08995
+Privacy radius (meters): 152
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Stay in the heart of Savannah’s Historic District at Oglethorpe Estate Garden Level, a recently refurnished private retreat for up to four guests. The residence features two queen beds, a separate living area, a full kitchen, in-home laundry, and access to a shared courtyard with outdoor seating and a grill. Located beside Colonial Park Cemetery, it offers a comfortable home base within walking distance of Savannah’s famous squares, restaurants, shops, museums, River Street, and more.
+
+The space
+Oglethorpe Estate Garden Level: A Savannah Historic District Retreat
+
+Experience Savannah from the heart of the Historic District at Oglethorpe Estate Garden Level, a private lower-level residence located along East Oglethorpe Avenue. Recently refurnished with thoughtfully selected décor and updated furnishings, the unit offers an inviting home base for up to four guests. Two queen beds, a full kitchen, a separate living area, in-home laundry, and access to a shared courtyard provide the comforts and conveniences needed for an easy Savannah stay. Located beside Colonial Park Cemetery and surrounded by historic architecture, landscaped squares, and tree-lined streets, Oglethorpe Estate Garden Level places guests within easy reach of many of downtown Savannah’s most recognizable destinations. Its central location allows you to explore much of the Historic District on foot while still having a private space where you can relax between outings. Whether you are planning a weekend getaway, wedding trip, family visit, or a few days spent sightseeing, this centrally located retreat gives you a convenient place to begin and end each day. Start the morning with breakfast at home, spend the afternoon exploring Savannah’s squares and museums, and return to the garden level to recharge before heading out for dinner.
+
+
+
+Recently Refurnished Garden-Level Living
+
+The garden level offers a fresh and comfortable atmosphere within the historic property. Thoughtfully selected décor and updated furnishings give the residence an inviting feel while complementing its location in one of Savannah’s most historic neighborhoods. Comfortable seating creates an easy place to settle in after a day of exploring downtown, enjoy a quiet morning before heading out, or take a break between activities. The living room also offers a convenient gathering place for planning the day or enjoying a casual evening at home. The layout provides dedicated areas for relaxing, preparing meals, and spending time together. Rather than returning to a single hotel room, guests can enjoy the convenience of a private residence with separate spaces for everyday activities. Because the garden level is independent from the main house above, guests have their own living area, kitchen, bedroom, and laundry. This setup works well for couples, friends, or a small family looking for a convenient place to stay in the Historic District without giving up the comforts of having their own space. 
+
+
+
+Full Kitchen and Everyday Conveniences
+
+The garden level includes a full kitchen with full-size appliances, cabinetry, and counter space for groceries, drinks, and meal preparation. Having a complete kitchen gives guests the flexibility to start the morning with breakfast at home, keep snacks and drinks nearby, or prepare a casual meal after exploring Savannah.
+
+
+
+For guests planning a longer visit, the kitchen makes it easier to balance dining out with meals at home. Savannah offers no shortage of restaurants, cafés, bakeries, and coffee shops, but having the option to prepare something on your own can make each day feel more relaxed. It is especially convenient for early mornings, late arrivals, or evenings when your group would rather stay in.
+
+
+
+The kitchen also provides useful storage for groceries and restaurant leftovers. Pick up something from a local market, bring back dessert from a nearby restaurant, or prepare coffee before beginning another day downtown. In-home laundry is available on the garden level, adding another layer of convenience for longer stays, family trips, or guests who prefer to pack light. After an afternoon of walking through the Historic District, having laundry available inside the unit makes it easy to refresh clothing without interrupting your plans. Together, the full kitchen, separate living room, and in-home laundry make the garden level a practical and comfortable home base near the heart of downtown Savannah.
+
+
+
+Sleeping Accommodations for Up to Four Guests
+
+Oglethorpe Estate Garden Level accommodates up to four guests with two queen beds located within the garden-level space. The sleeping setup is well suited for couples traveling together, friends visiting Savannah, or a small family looking for a centrally located place to stay. The two queen beds offer flexible sleeping arrangements while keeping everyone together within the same private unit. The recently refreshed surroundings create a welcoming setting where guests can settle in and relax at the end of the day.
+
+
+
+After an afternoon of sightseeing, shopping, dining, or exploring Savannah’s historic streets, the garden level provides a convenient place to recharge. Guests can return to the unit for a break between activities or settle in for a quiet evening before another day downtown. For those traveling as part of a larger gathering, the garden level offers a separate place to stay while keeping everyone close to the rest of the Oglethorpe Estate property. This arrangement can be especially helpful for family trips, wedding weekends, reunions, or groups that appreciate having multiple living spaces.
+
+
+
+Shared Courtyard and Outdoor Space
+
+Guests staying on the garden level also have access to the property’s courtyard, which is shared with the main house. Outdoor seating provides a pleasant place to enjoy morning coffee, spend time in the fresh air, or relax between outings. A grill is also available for guests who would like to prepare a casual meal outdoors during their stay. The courtyard adds another useful gathering area to the property while the garden level remains separate from the Main House. Guests should keep in mind that this outdoor space may also be enjoyed by those staying in the residence above.
+
+
+
+Explore Savannah from the Historic District
+
+One of the biggest advantages of staying at Oglethorpe Estate Garden Level is its location. Situated along East Oglethorpe Avenue beside Colonial Park Cemetery, the property places you in the middle of Savannah’s Historic District and within easy reach of many of the city’s best-known attractions. From the property, guests can set out on foot to explore nearby squares, historic homes, museums, restaurants, shops, and landmarks. Oglethorpe Square and Columbia Square are both nearby, while the Owens-Thomas House & Slave Quarters offers an opportunity to learn more about Savannah’s history and architecture. Continue toward Broughton Street for shopping, coffee, dining, and local boutiques, or make your way toward City Market for galleries, restaurants, and entertainment. Bay Street and River Street are also within convenient reach, offering additional dining, sightseeing, and views along the Savannah River.
+
+
+
+Part of what makes staying in the Historic District so enjoyable is being able to explore it on foot. Moss-draped live oaks, brick sidewalks, preserved architecture, landscaped squares, historic churches, and centuries-old streets are all part of the surroundings. Walking between destinations also allows you to notice the small details that give Savannah its distinctive character. The central location makes it easy to experience the city at your own pace. Spend the morning visiting historic sites, stop for lunch at a nearby restaurant, return to the garden level for a break, and head back out later for dinner or an evening walk. Guests can also join a history or ghost tour, visit a museum, browse local shops, or relax in one of Savannah’s shaded squares.
+
+
+
+Your Garden-Level Home Base in Savannah
+
+With accommodations for up to four guests, two queen beds, a full kitchen, a separate living area, in-home laundry, shared courtyard access, and a walkable Historic District location, Oglethorpe Estate Garden Level offers a well-located and inviting place to stay in downtown Savannah. The private layout provides more flexibility than a traditional hotel room, giving guests space to relax, prepare meals, and settle into their own routine. At the same time, the location keeps Savannah’s history, architecture, dining, shopping, and entertainment within convenient reach. Whether your plans include sightseeing, a wedding weekend, visiting friends or family, or simply spending a few days exploring the city, the garden level provides a welcoming home base to return to between outings. Its combination of practical amenities, comfortable living spaces, and central location makes it easy to enjoy Savannah while having a private place to settle into at the end of each day.
+
+
+
+Occupancy: 4
+
+Private garden-level residence
+
+Living area with comfortable seating
+
+Full kitchen equipped with full-size appliances, cabinetry, and counter space
+
+Sleeping accommodations: 2 queen beds
+
+In-home washer and dryer
+
+Shared courtyard with outdoor seating and grill
+
+Walkable to historic squares, museums, restaurants, shops, Broughton Street, City Market, Bay Street, and River Street
+
+
+
+SVR-02281*
+
+Guest access
+Occupancy: 4
+
+Private garden-level residence
+
+Living area with comfortable seating
+
+Full kitchen equipped with full-size appliances, cabinetry, and counter space
+
+Sleeping accommodations: 2 queen beds
+
+In-home washer and dryer
+
+Shared courtyard with outdoor seating and grill
+
+Walkable to historic squares, museums, restaurants, shops, Broughton Street, City Market, Bay Street, and River Street
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Pool
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Experience Savannah from the Heart of Downtown
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 1 bed · 1 bath
+Rated 4.37 out of 5 stars.
+4.37
+·
+73 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Oglethorpe Square, the Owens-Thomas House, and several of Savannah's famous squares
+Full kitchen with in-home laundry
+A full kitchen with full-size appliances, plus an in-home washer and dryer for easy packing
+Walkable location, attentive hosts
+Guests consistently highlight the walkable location and the responsive, helpful hosts
+Stay in the heart of Savannah’s Historic District at Oglethorpe Estate Garden Level, a recently refurnished private retreat for up to four guests. The residence features two queen beds, a separate living area, a full kitchen, in-home laundry, and access to a shared courtyard with outdoor seating and a grill. Located beside Colonial Park Cemetery, it offers a comfortable home base within walking distance of Savannah’s famous squares, restaurants, shops, museums, River Street, and more.
+
+The space
+Oglethorpe Estate Garden Level: A Savannah Historic District Retreat
+
+Experience Savannah from the heart of the Historic District at Oglethorpe Estate Garden Level, a private lower-level residence located along East Oglethorpe Avenue. Recently refurnished with thoughtfully selected décor and updated furnishings, the unit offers an inviting home base for up to four guests. Two queen beds, a full kitchen, a separate living area, in-home laundry, and access to a shared courtyard provide the comforts and conveniences needed for an easy Savannah stay. Located beside Colonial Park Cemetery and surrounded by historic architecture, landscaped squares, and tree-lined streets, Oglethorpe Estate Garden Level places guests within easy reach of many of downtown Savannah’s most recognizable destinations. Its central location allows you to explore much of the Historic District on foot while still having a private space where you can relax between outings. Whether you are planning a weekend getaway, wedding trip, family visit, or a few days spent sightseeing, this centrally located retreat gives you a convenient place to begin and end each day. Start the morning with breakfast at home, spend the afternoon exploring Savannah’s squares and museums, and return to the garden level to recharge before heading out for dinner.
+
+
+
+Recently Refurnished Garden-Level Living
+
+The garden level offers a fresh and comfortable atmosphere within the historic property. Thoughtfully selected décor and updated furnishings give the residence an inviting feel while complementing its location in one of Savannah’s most historic neighborhoods. Comfortable seating creates an easy place to settle in after a day of exploring downtown, enjoy a quiet morning before heading out, or take a break between activities. The living room also offers a convenient gathering place for planning the day or enjoying a casual evening at home. The layout provides dedicated areas for relaxing, preparing meals, and spending time together. Rather than returning to a single hotel room, guests can enjoy the convenience of a private residence with separate spaces for everyday activities. Because the garden level is independent from the main house above, guests have their own living area, kitchen, bedroom, and laundry. This setup works well for couples, friends, or a small family looking for a convenient place to stay in the Historic District without giving up the comforts of having their own space. 
+
+
+
+Full Kitchen and Everyday Conveniences
+
+The garden level includes a full kitchen with full-size appliances, cabinetry, and counter space for groceries, drinks, and meal preparation. Having a complete kitchen gives guests the flexibility to start the morning with breakfast at home, keep snacks and drinks nearby, or prepare a casual meal after exploring Savannah.
+
+
+
+For guests planning a longer visit, the kitchen makes it easier to balance dining out with meals at home. Savannah offers no shortage of restaurants, cafés, bakeries, and coffee shops, but having the option to prepare something on your own can make each day feel more relaxed. It is especially convenient for early mornings, late arrivals, or evenings when your group would rather stay in.
+
+
+
+The kitchen also provides useful storage for groceries and restaurant leftovers. Pick up something from a local market, bring back dessert from a nearby restaurant, or prepare coffee before beginning another day downtown. In-home laundry is available on the garden level, adding another layer of convenience for longer stays, family trips, or guests who prefer to pack light. After an afternoon of walking through the Historic District, having laundry available inside the unit makes it easy to refresh clothing without interrupting your plans. Together, the full kitchen, separate living room, and in-home laundry make the garden level a practical and comfortable home base near the heart of downtown Savannah.
+
+
+
+Sleeping Accommodations for Up to Four Guests
+
+Oglethorpe Estate Garden Level accommodates up to four guests with two queen beds located within the garden-level space. The sleeping setup is well suited for couples traveling together, friends visiting Savannah, or a small family looking for a centrally located place to stay. The two queen beds offer flexible sleeping arrangements while keeping everyone together within the same private unit. The recently refreshed surroundings create a welcoming setting where guests can settle in and relax at the end of the day.
+
+
+
+After an afternoon of sightseeing, shopping, dining, or exploring Savannah’s historic streets, the garden level provides a convenient place to recharge. Guests can return to the unit for a break between activities or settle in for a quiet evening before another day downtown. For those traveling as part of a larger gathering, the garden level offers a separate place to stay while keeping everyone close to the rest of the Oglethorpe Estate property. This arrangement can be especially helpful for family trips, wedding weekends, reunions, or groups that appreciate having multiple living spaces.
+
+
+
+Shared Courtyard and Outdoor Space
+
+Guests staying on the garden level also have access to the property’s courtyard, which is shared with the main house. Outdoor seating provides a pleasant place to enjoy morning coffee, spend time in the fresh air, or relax between outings. A grill is also available for guests who would like to prepare a casual meal outdoors during their stay. The courtyard adds another useful gathering area to the property while the garden level remains separate from the Main House. Guests should keep in mind that this outdoor space may also be enjoyed by those staying in the residence above.
+
+
+
+Explore Savannah from the Historic District
+
+One of the biggest advantages of staying at Oglethorpe Estate Garden Level is its location. Situated along East Oglethorpe Avenue beside Colonial Park Cemetery, the property places you in the middle of Savannah’s Historic District and within easy reach of many of the city’s best-known attractions. From the property, guests can set out on foot to explore nearby squares, historic homes, museums, restaurants, shops, and landmarks. Oglethorpe Square and Columbia Square are both nearby, while the Owens-Thomas House & Slave Quarters offers an opportunity to learn more about Savannah’s history and architecture. Continue toward Broughton Street for shopping, coffee, dining, and local boutiques, or make your way toward City Market for galleries, restaurants, and entertainment. Bay Street and River Street are also within convenient reach, offering additional dining, sightseeing, and views along the Savannah River.
+
+
+
+Part of what makes staying in the Historic District so enjoyable is being able to explore it on foot. Moss-draped live oaks, brick sidewalks, preserved architecture, landscaped squares, historic churches, and centuries-old streets are all part of the surroundings. Walking between destinations also allows you to notice the small details that give Savannah its distinctive character. The central location makes it easy to experience the city at your own pace. Spend the morning visiting historic sites, stop for lunch at a nearby restaurant, return to the garden level for a break, and head back out later for dinner or an evening walk. Guests can also join a history or ghost tour, visit a museum, browse local shops, or relax in one of Savannah’s shaded squares.
+
+
+
+Your Garden-Level Home Base in Savannah
+
+With accommodations for up to four guests, two queen beds, a full kitchen, a separate living area, in-home laundry, shared courtyard access, and a walkable Historic District location, Oglethorpe Estate Garden Level offers a well-located and inviting place to stay in downtown Savannah. The private layout provides more flexibility than a traditional hotel room, giving guests space to relax, prepare meals, and settle into their own routine. At the same time, the location keeps Savannah’s history, architecture, dining, shopping, and entertainment within convenient reach. Whether your plans include sightseeing, a wedding weekend, visiting friends or family, or simply spending a few days exploring the city, the garden level provides a welcoming home base to return to between outings. Its combination of practical amenities, comfortable living spaces, and central location makes it easy to enjoy Savannah while having a private place to settle into at the end of each day.
+
+
+
+Occupancy: 4
+
+Private garden-level residence
+
+Living area with comfortable seating
+
+Full kitchen equipped with full-size appliances, cabinetry, and counter space
+
+Sleeping accommodations: 2 queen beds
+
+In-home washer and dryer
+
+Shared courtyard with outdoor seating and grill
+
+Walkable to historic squares, museums, restaurants, shops, Broughton Street, City Market, Bay Street, and River Street
+
+
+
+SVR-02281*
+
+Guest access
+Occupancy: 4
+
+Private garden-level residence
+
+Living area with comfortable seating
+
+Full kitchen equipped with full-size appliances, cabinetry, and counter space
+
+Sleeping accommodations: 2 queen beds
+
+In-home washer and dryer
+
+Shared courtyard with outdoor seating and grill
+
+Walkable to historic squares, museums, restaurants, shops, Broughton Street, City Market, Bay Street, and River Street
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+Pool
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.37 out of 5 stars from 73 reviews
+4.37 · 73 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 60% of reviews
+5
+4 stars, 19% of reviews
+4
+3 stars, 18% of reviews
+3
+2 stars, 3% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.6 out of 5 stars for cleanliness
+Cleanliness
+4.6
+Rated 4.5 out of 5 stars for accuracy
+Accuracy
+4.5
+Rated 4.6 out of 5 stars for check-in
+Check-in
+4.6
+Rated 4.6 out of 5 stars for communication
+Communication
+4.6
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.4 out of 5 stars for value
+Value
+4.4
+Guest reviews mention
+Walkability
+28
+Location
+52
+Noise
+26
+Cleanliness
+25
+Parking
+13
+Hospitality
+24
+Comfort
+15
+Beach
+2
+Access
+11
+Sleep quality
+13
+Amanda
+Fort Bragg, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+Great spot, walkable to everything, easy in/out. Very clean, comfortable, had everything we needed. Will stay here again!
+Show more
+Lynn
+Arlington, Virginia
+Rating, 3 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+We had a nice stay overall! The location was great, the beds were clean and comfortable, and the hosts were very responsive whenever we needed anything. We also enjoyed using the pool near the beach about 30 minutes away, which was a nice perk.
+One thing future guests should be aware of is that the building seems to have very little sound insulation between floors. We could hear footsteps and conversations from the Airbnb above quite clearly, especially at night, which unfortunately disrupted our sleep during the stay. I understand this is part of the charm of staying in a historic building, but it’s something light sleepers may want to keep in mind.
+Aside from the noise between units, everything else about the stay was smooth and enjoyable.
+Show more
+Mikayla
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+The location of this Airbnb is perfect! We walked everywhere without issue. Like the other reviews say, you can hear the unit above you. Like their alarms going off and conversations being had. Seems like all of these older homes have thin walls! So bring earplugs. Also very little mirror space - we were there for a wedding so maybe this only affected us! Super responsive hosts, clean space, lots of space in the unit, great location, great price.
+Show more
+Arturo
+Gainesville, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Good place nice a quiet
+Trenton
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+It was beautiful. It was easy to walk around different places
+Zelika
+Fort Lauderdale, Florida
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+The location was great, the place was very clean. The only thing to beware was the upstairs Airbnb can be very noisy and the ceiling is not sound proof.
+Show all 73 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+Jones East
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Pet-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Apartment vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

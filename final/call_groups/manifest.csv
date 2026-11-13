@@ -1,0 +1,13 @@
+plot,svg,csv,scope,group,scale
+combined__all_calls__linear.png,combined__all_calls__linear.svg,combined__all_calls.csv,combined,all_calls,linear
+combined__all_calls__log.png,combined__all_calls__log.svg,combined__all_calls.csv,combined,all_calls,log
+combined__nuisance__linear.png,combined__nuisance__linear.svg,combined__nuisance.csv,combined,nuisance,linear
+combined__nuisance__log.png,combined__nuisance__log.svg,combined__nuisance.csv,combined,nuisance,log
+combined__violence_sex__linear.png,combined__violence_sex__linear.svg,combined__violence_sex.csv,combined,violence_sex,linear
+combined__violence_sex__log.png,combined__violence_sex__log.svg,combined__violence_sex.csv,combined,violence_sex,log
+direct__all_calls__linear.png,direct__all_calls__linear.svg,direct__all_calls.csv,direct,all_calls,linear
+direct__all_calls__log.png,direct__all_calls__log.svg,direct__all_calls.csv,direct,all_calls,log
+direct__nuisance__linear.png,direct__nuisance__linear.svg,direct__nuisance.csv,direct,nuisance,linear
+direct__nuisance__log.png,direct__nuisance__log.svg,direct__nuisance.csv,direct,nuisance,log
+direct__violence_sex__linear.png,direct__violence_sex__linear.svg,direct__violence_sex.csv,direct,violence_sex,linear
+direct__violence_sex__log.png,direct__violence_sex__log.svg,direct__violence_sex.csv,direct,violence_sex,log

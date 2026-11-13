@@ -36,7 +36,7 @@
   document.addEventListener('click',event=>{const summary=event.target.closest('summary');if(!summary)return;if(summary.closest('.leaflet-popup-content'))return;const container=summary.closest('#panel');if(!container)return;const top=summary.getBoundingClientRect().top;requestAnimationFrame(()=>{container.scrollTop+=summary.getBoundingClientRect().top-top;});},true);
   document.addEventListener('toggle',changed,true);
   document.addEventListener('scroll',changed,true);
-  function getPreferences(){return {averagesVisible:!panel.hidden,sidebarVisible:!document.body.classList.contains('panel-hidden'),property:popupState(),sidebarDetails:[...$('panel').querySelectorAll('details')].map(e=>e.open),sidebarScroll:$('panel').scrollTop,featureScroll:$('feature-filters').scrollTop,rankingScroll:($('listing-ranking').querySelector('.listing-rows')||$('listing-ranking')).scrollTop,panelScroll:panel.scrollTop};}
+  function getPreferences(){return {averagesVisible:!panel.hidden,sidebarVisible:!document.body.classList.contains('panel-hidden'),property:popupState(),sidebarDetails:[...$('panel').querySelectorAll('details:not(#permit-occupancy):not(#building-size):not(#call-threshold-filters):not(#amenity-filters)')].map(e=>e.open),sidebarScroll:$('panel').scrollTop,featureScroll:$('feature-filters').scrollTop,rankingScroll:($('listing-ranking').querySelector('.listing-rows')||$('listing-ranking')).scrollTop,panelScroll:panel.scrollTop};}
   function restorePopup(saved){
     if(!saved?.property)return;
     const {id,kind,listingId}=saved.property;
@@ -54,7 +54,7 @@
     restoring=true;
     try{
       setSidebar(saved.sidebarVisible!==false);
-      $('panel').querySelectorAll('details').forEach((e,i)=>{if(typeof saved.sidebarDetails?.[i]==='boolean')e.open=saved.sidebarDetails[i];});
+      $('panel').querySelectorAll('details:not(#permit-occupancy):not(#building-size):not(#call-threshold-filters):not(#amenity-filters)').forEach((e,i)=>{if(typeof saved.sidebarDetails?.[i]==='boolean')e.open=saved.sidebarDetails[i];});
       $('listing-filters').open=true;
       for(const id of ['map-layers','address-search','parcel-colors','occupancy-assumption'])$(id).open=false;
       $('parcel-colors').querySelectorAll('.instructions-notes').forEach(e=>{e.open=false;});

@@ -1,0 +1,517 @@
+URL: https://www.airbnb.com/rooms/957337553333199967
+Title: Broughton Blue Belle Luxury 2BD|1BA Historic Condo
+Latitude: 32.0802
+Longitude: -81.0956
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Welcome to The Blue Belle on Broughton, a charming historic condo nestled on the second floor, overlooking the picturesque Broughton Street. You will be just steps away from City Market and a two block walk to River Street and the Plant Riverside District. You will be surrounded by iconic Savannah restaurants, bars, and shopping. Stunning Southern charm awaits you in this luxury TWO bedroom one bathroom Broughton Street Condo!
+
+The space
+Experience Savannah from one of the city's most sought-after locations! Nestled above iconic Broughton Street in the heart of the Historic District, The Blue Belle places you just steps from Savannah's best boutiques, award-winning restaurants, rooftop bars, coffee shops, and local favorites. City Market is just around the corner, while River Street and the vibrant Plant Riverside District are only a short two-block stroll away.
+
+Inside, this beautifully restored historic condo blends timeless Savannah character with the comforts of modern living. Exposed brick walls, soaring ceilings, abundant natural light, and thoughtfully curated furnishings create a space that feels both elegant and inviting. It is the perfect place to unwind after a day of exploring.
+
+The spacious, fully equipped kitchen offers everything you need to prepare breakfast before heading out or enjoy a relaxing evening at home. The open living area is warm and welcoming, with comfortable seating that's perfect for planning your next adventure or simply relaxing after a day on your feet.
+
+The condo comfortably accommodates up to four guests with two thoughtfully appointed bedrooms designed for a restful night's sleep. The full bathroom features updated finishes and a convenient tub/shower combination, while the second bedroom includes a dedicated workspace with a comfortable desk and chair, making it easy for remote workers or business travelers to stay connected.
+
+One of the best parts of staying here is simply stepping outside your front door. Spend your days wandering Savannah's historic squares, shopping along Broughton Street, enjoying rooftop cocktails, discovering local art galleries, or strolling along the waterfront at River Street—all without needing a car.
+
+Whether you're planning a romantic getaway, a weekend with friends, a family vacation, or an extended stay, The Blue Belle offers the perfect combination of historic charm, modern comfort, and an unbeatable downtown location.
+
+We love helping our guests experience the city like a local. From our curated guidebook filled with favorite restaurants, coffee shops, boutiques, and hidden gems to personalized recommendations throughout your stay, we're here to help make your Savannah getaway one you'll never forget.
+
+We can't wait to welcome you to Savannah!
+
+SVR-02837
+
+Guest access
+You'll have exclusive access to the entire private condo throughout your stay.
+
+Upon arrival, you'll enter through the secure entrance of the condominium building and take the elevator to your floor. From there, it's just a short interior walk to your private front door.
+
+Once inside, you'll have the entire condo to yourself, including the fully equipped kitchen, comfortable living and dining spaces, two private bedrooms, a full bathroom, and an in-unit washer and dryer. There are no shared living spaces, allowing you to relax and enjoy the condo as your own home away from home. We do have one locked closet for owner storage.
+
+Other things to note
+***Please note that there may be more city noises that you may not be accustomed to.  Fridays and Saturdays can get noisy at night due to our close proximity to Savannah's lively night life.  We do provide a sound machine to help drown out noises you may not be used to stying in a city.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+City skyline view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib - always at the listing
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Portable fans
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a private space with an ergonomic chair
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker: drip coffee maker, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Coffee
+Location features
+Laundromat nearby
+Parking and facilities
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Paid parking lot off premises
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Cleaning available during stay
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Broughton Blue Belle Luxury 2BD|1BA Historic Condo
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+156 reviews
+156
+Reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+On Broughton Street in the Historic District
+City Market is steps away, with the Telfair Academy and River Street about a 5-min walk
+Restored condo with historic character
+Exposed brick, soaring ceilings, and a fully equipped kitchen in a restored historic building
+Alyssa is a standout host
+Guests praise Alyssa by name for responsive communication and a curated local guidebook
+Welcome to The Blue Belle on Broughton, a charming historic condo nestled on the second floor, overlooking the picturesque Broughton Street. You will be just steps away from City Market and a two block walk to River Street and the Plant Riverside District. You will be surrounded by iconic Savannah restaurants, bars, and shopping. Stunning Southern charm awaits you in this luxury TWO bedroom one bathroom Broughton Street Condo!
+
+The space
+Experience Savannah from one of the city's most sought-after locations! Nestled above iconic Broughton Street in the heart of the Historic District, The Blue Belle places you just steps from Savannah's best boutiques, award-winning restaurants, rooftop bars, coffee shops, and local favorites. City Market is just around the corner, while River Street and the vibrant Plant Riverside District are only a short two-block stroll away.
+
+Inside, this beautifully restored historic condo blends timeless Savannah character with the comforts of modern living. Exposed brick walls, soaring ceilings, abundant natural light, and thoughtfully curated furnishings create a space that feels both elegant and inviting. It is the perfect place to unwind after a day of exploring.
+
+The spacious, fully equipped kitchen offers everything you need to prepare breakfast before heading out or enjoy a relaxing evening at home. The open living area is warm and welcoming, with comfortable seating that's perfect for planning your next adventure or simply relaxing after a day on your feet.
+
+The condo comfortably accommodates up to four guests with two thoughtfully appointed bedrooms designed for a restful night's sleep. The full bathroom features updated finishes and a convenient tub/shower combination, while the second bedroom includes a dedicated workspace with a comfortable desk and chair, making it easy for remote workers or business travelers to stay connected.
+
+One of the best parts of staying here is simply stepping outside your front door. Spend your days wandering Savannah's historic squares, shopping along Broughton Street, enjoying rooftop cocktails, discovering local art galleries, or strolling along the waterfront at River Street—all without needing a car.
+
+Whether you're planning a romantic getaway, a weekend with friends, a family vacation, or an extended stay, The Blue Belle offers the perfect combination of historic charm, modern comfort, and an unbeatable downtown location.
+
+We love helping our guests experience the city like a local. From our curated guidebook filled with favorite restaurants, coffee shops, boutiques, and hidden gems to personalized recommendations throughout your stay, we're here to help make your Savannah getaway one you'll never forget.
+
+We can't wait to welcome you to Savannah!
+
+SVR-02837
+
+Guest access
+You'll have exclusive access to the entire private condo throughout your stay.
+
+Upon arrival, you'll enter through the secure entrance of the condominium building and take the elevator to your floor. From there, it's just a short interior walk to your private front door.
+
+Once inside, you'll have the entire condo to yourself, including the fully equipped kitchen, comfortable living and dining spaces, two private bedrooms, a full bathroom, and an in-unit washer and dryer. There are no shared living spaces, allowing you to relax and enjoy the condo as your own home away from home. We do have one locked closet for owner storage.
+
+Other things to note
+***Please note that there may be more city noises that you may not be accustomed to.  Fridays and Saturdays can get noisy at night due to our close proximity to Savannah's lively night life.  We do provide a sound machine to help drown out noises you may not be used to stying in a city.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+City skyline view
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Elevator
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Show all 54 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 156 reviews.
+5.0
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Location
+114
+Walkability
+52
+Cleanliness
+43
+Hospitality
+69
+Comfort
+30
+Sleep quality
+15
+Nearby
+31
+Decor
+15
+Noise
+9
+Accuracy
+21
+Justina
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Great stay in a convenient location! The home was comfortable, clean, and within easy walking distance of downtown Savannah. I’ve stayed here before and would happily return again.
+Show more
+Michael
+Santa Clarita, California
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had a great stay! This place was perfect for a couple and had everything we needed. Being in the heart of the historic downtown area, there was some city noise, but that’s completely expected and the sound machines provided made a huge difference for a great night’s sleep.
+The washer and dryer were a HUGE bonus after spending long, hot, humid days exploring Savannah. You can tell the space was thoughtfully put together with guests in mind. The host was incredibly communicative, quick to respond, and even offered great local recommendations that made our trip even better.
+We’d absolutely stay here again and would highly recommend it to anyone looking to experience Savannah from a fantastic location.
+Show more
+Amanda
+Orange Park, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+If you are in Savannah this is a great place to stay. It was so cute, clean, and convenient walk to everything.  Alyssa was very responsive and has put together a wonderful local guide book. I would definitely recommend staying here.
+Show more
+Amanda
+Columbia, Maryland
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed a few nights
+Can’t say enough good things about this condo. The location was amazing, the condo was beautifully decorated and included coffee, water, etc that are great to have in an Airbnb. Alyssa was responsive to all my requests and questions and provided a lot of local recommendations. I would love to stay here again on my next trip to Savannah
+Show more
+Tara
+Somers, Connecticut
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed about a week
+Very clean, easy access, good location (for those looking to be around some nightlife), responsive and helpful host! Excellent place to stay!!!
+Milan
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed about a week
+Alyssa, has been a great host. Beautiful place, everything clean and organized.  She has a guide for guests with her local favorites, parking recommendations and more.
+Show all 156 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Forsyth Farmers' Market
+Farmers market
+J. Christopher's
+Brunch restaurant
+Forsyth Park
+Park
+Leopold's Ice Cream - Broughton Street
+Ice cream shop
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Experience Savannah from the center of it all. This condo is perfectly located on historic Broughton Street, where beautifully preserved architecture meets some of the city's favorite restaurants, local shops, galleries, and cafés. Wander through nearby historic squares, enjoy the waterfront along River Street, or spend an evening at the lively Plant Riverside District—all within an easy walk from your front door.
+Show more
+Meet your host
+Alyssa
+Superhost
+1,512 reviews
+1512
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Alyssa
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Some spaces are shared
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

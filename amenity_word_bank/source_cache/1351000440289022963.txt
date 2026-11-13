@@ -1,0 +1,451 @@
+URL: https://www.airbnb.com/rooms/1351000440289022963
+Title: The Timekeeper’s Nook, Historic | Quiet
+Latitude: 32.0724
+Longitude: -81.0952
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Nestled on Savannah’s famed Jones Street, this charming 1-bed, 1-bath retreat blends history with modern comfort. Featuring a cozy galley kitchen, elegant historic touches, and a peaceful sitting room, it’s perfect for relaxation. An inviting entertainment room offers space to unwind. Steps from downtown’s top attractions, dining, and the city's signature charm, this quiet escape is ideal for a romantic getaway or solo retreat. Experience Savannah’s beauty from the heart of it all! 
+SVR-02637
+
+The space
+Welcome to your charming Savannah retreat on historic Jones Street! This cozy second-floor apartment blends timeless character with modern convenience, creating an inviting escape for travelers seeking comfort and style.
+Step inside to find original hardwood floors and whitewashed brick walls that set the tone for a warm and welcoming stay. Thoughtfully decorated with elegant furnishings, soft lighting, and tasteful accents, the space exudes both sophistication and comfort—perfect for relaxing after a day of exploring Savannah’s cobblestone streets.
+The galley kitchen is fully stocked with everything you need to prepare meals, including pots, pans, utensils, and small appliances like a coffee maker, toaster, and microwave. Whether you're cooking a romantic dinner or enjoying a morning cup of coffee, the cozy dining table for two offers the perfect setting.
+This thoughtfully designed apartment features two distinct spaces for unwinding. The formal sitting room provides a peaceful nook for morning coffee or a quiet read, while the cozy entertainment area invites you to curl up on the plush sofa and stream your favorite shows on the smart TV. Whether you're seeking solitude or a laid-back movie night, this space adapts to your mood.
+Retreat to the bedroom, where a brand-new queen mattress with fresh linens ensures a restful night’s sleep. The modernized bathroom is stocked with all the essentials—soft towels, toilet paper, shampoo, and body wash—so you can refresh with ease after a day of sightseeing.
+Located on the second floor, the apartment is accessed through a charming common parlor lined with classic red bricks and lush greenery, offering a beautiful introduction to your stay. Just steps from Savannah’s top attractions, restaurants, and historic squares, this cozy yet elegant retreat is the perfect home base for your Southern getaway.
+
+Other things to note
+Please be courteous to your neighbors there are other guests that are staying in the building as well in different units. 
+No parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home.
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it were your property.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Coffee
+Outdoor
+Patio or balcony
+Not included
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Timekeeper’s Nook, Historic | Quiet
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.89 out of 5 stars.
+4.89
+71 reviews
+71
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+On Jones Street, about a 5-min walk to Forsyth Park and surrounded by historic squares
+A charming historic apartment
+Original hardwood floors, whitewashed brick walls, and a galley kitchen in a historic building
+A bed guests keep praising
+Guests highlight the comfortable bed, with several calling it one of the best they've slept on
+Nestled on Savannah’s famed Jones Street, this charming 1-bed, 1-bath retreat blends history with modern comfort. Featuring a cozy galley kitchen, elegant historic touches, and a peaceful sitting room, it’s perfect for relaxation. An inviting entertainment room offers space to unwind. Steps from downtown’s top attractions, dining, and the city's signature charm, this quiet escape is ideal for a romantic getaway or solo retreat. Experience Savannah’s beauty from the heart of it all! 
+SVR-02637
+
+The space
+Welcome to your charming Savannah retreat on historic Jones Street! This cozy second-floor apartment blends timeless character with modern convenience, creating an inviting escape for travelers seeking comfort and style.
+Step inside to find original hardwood floors and whitewashed brick walls that set the tone for a warm and welcoming stay. Thoughtfully decorated with elegant furnishings, soft lighting, and tasteful accents, the space exudes both sophistication and comfort—perfect for relaxing after a day of exploring Savannah’s cobblestone streets.
+The galley kitchen is fully stocked with everything you need to prepare meals, including pots, pans, utensils, and small appliances like a coffee maker, toaster, and microwave. Whether you're cooking a romantic dinner or enjoying a morning cup of coffee, the cozy dining table for two offers the perfect setting.
+This thoughtfully designed apartment features two distinct spaces for unwinding. The formal sitting room provides a peaceful nook for morning coffee or a quiet read, while the cozy entertainment area invites you to curl up on the plush sofa and stream your favorite shows on the smart TV. Whether you're seeking solitude or a laid-back movie night, this space adapts to your mood.
+Retreat to the bedroom, where a brand-new queen mattress with fresh linens ensures a restful night’s sleep. The modernized bathroom is stocked with all the essentials—soft towels, toilet paper, shampoo, and body wash—so you can refresh with ease after a day of sightseeing.
+Located on the second floor, the apartment is accessed through a charming common parlor lined with classic red bricks and lush greenery, offering a beautiful introduction to your stay. Just steps from Savannah’s top attractions, restaurants, and historic squares, this cozy yet elegant retreat is the perfect home base for your Southern getaway.
+
+Other things to note
+Please be courteous to your neighbors there are other guests that are staying in the building as well in different units. 
+No parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home.
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it were your property.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Washer
+Air conditioning
+Bathtub
+Patio or balcony
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.89 out of 5 from 71 reviews.
+4.89
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+33
+Location
+55
+Parking
+8
+Decor
+12
+Cleanliness
+16
+Comfort
+12
+Bathroom
+6
+Hospitality
+22
+Sleep quality
+7
+Accuracy
+7
+Michelle
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+From the moment we walked in, I knew we made a great choice! From the tree lined street, the charm you encounter when you first walk in the door, the decor, cleanliness of the apartment, and the location-  it was a 5 star stay! The bed was super comfortable, there was plenty of room for two to be together (or have a little space apart) the bathroom and shower pressure were perfect. Overall it was an amazing stay! We loved the area, we walked everywhere, parking was no problem and it was just a super cute place! And Brandon and Chase have superb communication and follow up. I highly recommend!
+Show more
+Destiny
+Cocoa, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+What. A. GEM.
+As a Savannah local, this is exactly the kind of place I hope people get to experience when they visit. My husband and I booked it for our anniversary trip back to the city where we fell in love, and it couldn’t have been more perfect.
+It’s only a few blocks from Forsyth, so we walked just about everywhere. The location was incredible.
+The house was beautiful. The decor was so thoughtfully done, it was spotless, the AC was BLASTING (which deserves its own shoutout in a Savannah summer 😂), and the water pressure was amazing. Every little detail made it feel cozy without trying too hard.
+I genuinely have zero complaints, other than having to leave.
+The whole stay felt like an early 2000s rom-com in the best way. Charming, romantic, cozy, and exactly the kind of place that makes you fall in love with Savannah. We’d stay here again in a heartbeat.
+Show more
+Sarah
+Asheville, North Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Beautiful little apartment on the prettiest street in Savannah!
+Hollie
+Blountville, Tennessee
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Great little place to stay while I was away for work!
+Hallie
+Nashville, Tennessee
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Beautiful and looked just like the pictures, we would stay here again!
+Xavion
+Fayetteville, Georgia
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Very beautiful, historic, and charming location. The place is very nice. However, the shower drain clogged which causes it to drain extremely slow and needs to be fixed. Unfortunately, when we reached out to the owners about the matter, we were ignored.
+Show more
+Show all 71 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+The Timekeeper’s Nook is located just north of Forsyth Park on the west side of the Historic District. Surrounded by some of the best dining options in town, you are just a minute's walk from many of the local and out-of-town favorites.
+Grab a delicious southern bite and Mrs. Wilke's Dining Room. Pour a perfect pint at the Crystal Beer Parlor, or start your day with a short walk to Savannah Coffee Roasters.
+Short strolls towards the river walk will only increase your options with places like Noble Fare, fine dining, The Olde Pink House, The Lady & Sons, Chart House, and many more.
+Start your bar/pub tour by stopping into some staples of Savannah, including Six Pence Pub, O’Connell’s Irish Pub, or Dub’s Public House. Enjoy riverfront views at Myrtle & Rose Rooftop Bar down on the river walk.
+Are you looking to shop while you are in town? You are just a 14-minute walk from the famed City Market, where you can enjoy endless boutique shops and many brand-name stores.
+Explore the rich history of Savannah by stopping into one of the many museums and historical sites. Just minutes from Blue on Broad are the Web Military Museum, Telfair Museums, Owens-Thomas House & Slave Quarters, and the American Prohibition Museum.
+A stop in Savannah wouldn’t be complete without a walk-through of Forsyth Park, just a 20-minute walk away. Or enjoy Washington Square, another beautiful green space just minutes away.
+Want to take it all in at once while riding or biking? We are just minutes from Old Town Trolley Tours of Savannah and Savannah Bike Tours. Ready for a little on-the-water adventure? Try out the Savannah Belles Ferries to see the beautiful skyline of Savannah from the riverfront.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,351 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

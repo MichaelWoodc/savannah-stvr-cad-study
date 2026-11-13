@@ -1,0 +1,485 @@
+URL: https://www.airbnb.com/rooms/32638474
+Title: Gallery Stays - Parkside Estate
+Latitude: 32.06754
+Longitude: -81.08817
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Gallery Stays
+Host ID: 5041554
+Host profile ID: 1462671417361062689
+Host URL: https://www.airbnb.com/users/profile/1462671417361062689
+Bedrooms: 7
+Occupancy (maximum guests): 16
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 15
+
+Beds enumerated in room tiles: 15
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed, 2 single beds
+
+Bedroom 2
+1 king bed, 2 single beds
+
+Bedroom 3
+1 king bed, 2 single beds
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 king bed, 2 single beds
+
+Bedroom 6
+1 queen bed
+
+Bedroom 7
+1 king bed
+
+=== FULL DESCRIPTION ===
+Official Savannah STVR: SVR-00992,SVR-00993, SVR-01541
+ Parkside Estate is a three-unit, seven bathroom, five bathroom historic Victorian able to accommodate up to 22 adults in one location.  Each unit has its own living room and kitchen.
+Located at 517 & 519 East Broad St: 3,000 sf of luxury, sleeps 22.
+-	Book Now the Parkside Estate, which includes Parkside Manor, Parkside Suite& Parkside Loftto accommodate up to 22 adults in one location.
+-	No Pets, please
+
+The space
+Walkability. You can walk to anything in the Historic District.  Full sized kitchen with all utensils to cook your favorite meal.  The open concept living room and dining room can comfortable entertain all guests in one space.  The dining table seats eights.
+
+Rent Spartina along with Gallery Stays - Low Country and Gallery Stays - Amiri Pop to accommodate up to 18 adults.
+
+Guest access
+Guests have access to the entire townhouse.  Gallery Stays provides guests with keyless entry door code.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+TV with Roku
+Books and reading material
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Gallery Stays - Parkside Estate
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+16+ guests · 7 bedrooms · 15 beds · 5 baths
+Rated 4.66 out of 5 stars.
+4.66
+·
+32 reviews
+Hosted by Gallery Stays
+10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Mother Mathilda Beasley Park, with Whitefield Square and Forsyth Park within a 10-min walk
+Historic Victorian with three units
+Three separate units with their own kitchens and living rooms across 3,000 sq ft of space
+Attentive, responsive hosts
+Guests highlight how responsive and accommodating the hosts are throughout each stay
+Official Savannah STVR: SVR-00992,SVR-00993, SVR-01541
+ Parkside Estate is a three-unit, seven bathroom, five bathroom historic Victorian able to accommodate up to 22 adults in one location.  Each unit has its own living room and kitchen.
+Located at 517 & 519 East Broad St: 3,000 sf of luxury, sleeps 22.
+-	Book Now the Parkside Estate, which includes Parkside Manor, Parkside Suite& Parkside Loftto accommodate up to 22 adults in one location.
+-	No Pets, please
+
+The space
+Walkability. You can walk to anything in the Historic District.  Full sized kitchen with all utensils to cook your favorite meal.  The open concept living room and dining room can comfortable entertain all guests in one space.  The dining table seats eights.
+
+Rent Spartina along with Gallery Stays - Low Country and Gallery Stays - Amiri Pop to accommodate up to 18 adults.
+
+Guest access
+Guests have access to the entire townhouse.  Gallery Stays provides guests with keyless entry door code.
+Show more
+All sleeping arrangements
+
+Advertised beds: 15 | Enumerated: 15 | Count verified
+
+Bedroom 1
+1 king bed, 2 single beds
+
+Bedroom 2
+1 king bed, 2 single beds
+
+Bedroom 3
+1 king bed, 2 single beds
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 king bed, 2 single beds
+
+Bedroom 6
+1 queen bed
+
+Bedroom 7
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV with Roku
+Washer
+Free dryer – In unit
+Air conditioning
+Bathtub
+Hair dryer
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 43 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.66 out of 5 stars from 32 reviews
+4.66 · 32 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 78% of reviews
+5
+4 stars, 9% of reviews
+4
+3 stars, 13% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.6 out of 5 stars for cleanliness
+Cleanliness
+4.6
+Rated 4.6 out of 5 stars for accuracy
+Accuracy
+4.6
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 4.5 out of 5 stars for value
+Value
+4.5
+Guest reviews mention
+Layout
+4
+Parks
+3
+Hospitality
+19
+Indoor spaces
+12
+Location
+11
+Family
+6
+Check-in
+5
+Cleanliness
+9
+Walkability
+4
+Sleep quality
+7
+Rhondolyn
+Austell, Georgia
+Rating, 4 stars
+,
+·
+4 weeks ago
+,
+·
+Group trip
+We enjoyed our time at Gallery Stays. The hosts made everything easy as they provided useful information about check-in and restaurants around the area.  Their response times were great when we had questions or needed assistance.
+The units are located in a quiet neighborhood about 10 minutes to River Street, which was great.  The main house allowed for the entire family to gather and the smaller units gave space for the older family members to separate from the younger members. 
+I would recommend Gallery Stays.
+Show more
+Darius
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Awesome place the perfect location and it was also  enough space for my whole family I will definitely book again  great host everything was 10 out of 10 the host was very responsive too thanks again !!!!!!!
+Show more
+Sean
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+We had a great stay here! The property is perfect for a large group coming to visit. The hosts were very communicative and helpful.
+Julia
+Austin, Texas
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+We had a great experience here! Amazing location, walking distance to a lot of key downtown areas. Beautiful historic home. Check in was a breeze. Hosts were exceptionally responsive and accommodating for questions we had over our stay. Highly recommend!
+Show more
+Gabe
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Would definitely book this again.
+Kyle
+Plantation, Florida
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Group trip
+Stayed with 15 people. Plenty of beds and room. A lot of single beds, but we made the most of it. Place was clean, responsive host. Had small problem with key pad, but he had people out there within a half hour to get it fixed and change the battery. You can definitely tell this house is very old! Like much of Savannah, but that’s the fun of it all. Will book again 10/10
+Show more
+Show all 32 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Sorry, we have no imagery here.
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+Squares, coffee shops, history.
+Show more
+Meet your host
+Gallery Stays
+Host
+1,649 reviews
+1649
+Reviews
+4.76 out of 5 average rating
+4.76
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Gallery Stays
+Lives in Savannah, Georgia
+Love to travel, boat, sail, golf, meet new people.
+Co-hosts
+Adam
+Ludmilla
+Ludmilla
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+No pets
+Learn more
+Safety & property
+No carbon monoxide alarm
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

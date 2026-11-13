@@ -1,0 +1,458 @@
+URL: https://www.airbnb.com/rooms/693687611365638512
+Title: Historic Jones Street Gem
+Latitude: 32.0729
+Longitude: -81.0958
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sabrina
+Host ID: 9542698
+Host profile ID: 1462570035401539185
+Host URL: https://www.airbnb.com/users/profile/1462570035401539185
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+The most perfect location on iconic Jones Street. A historic home built in 1851. Close to restaurants, stylish shops, free downtown shuttle at the corner,  across the street from the famous Mrs. Wilkes and a quick stroll to Forsyth Park. Stylishly designed by its owner a local interior designer. Great "work from home" location. Host is always reachable directly. No crazy check out requirements, no added fees (just cleaning and taxes). NO PETS. For parking pls see "parking info" SVR-02191
+
+The space
+Entry is at ground level. No stairs just a small step up at entry. Spacious bedroom with a queen bed. Bathroom has a walk in shower. Ample living room with a dedicated work space (desk). Large screen smart TV. Kitchen is fully equipped, electric stove,  refrigerator, freezer, microwave, blender, etc. Central heat and AC with Nest Thermostat. Laundry room with a washer/ Dryer, ironing board and iron.
+
+Other things to note
+There is a pullout sofa. If there are only 2 guests on the reservation and the pullout is used a one time $25 linen fee will be charged upon check out. If there is a third guest staying in the apartment (even if partially) it must be disclosed  in the reservation request.  There is a 3 guests maximum, $25fee applies per guest (after 2) per night.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Dove shampoo
+Dove conditioner
+Dove body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Entertainment
+65 inch HDTV with Amazon Prime Video, Apple TV, Chromecast, Disney+, Fire TV, Hulu, Netflix, Roku
+Books and reading material
+Family
+Crib
+Standard (52 inches long x 28 inches wide)
+Children’s books and toys
+Heating and cooling
+Central air conditioning
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Electric stove
+Hot water kettle
+Coffee maker: drip coffee maker
+Baking sheet
+Blender
+Dining table
+Coffee
+Parking and facilities
+Single level home
+No stairs in home
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Jones Street Gem
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+3 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.94 out of 5 stars.
+4.94
+145 reviews
+145
+Reviews
+Hosted by Sabrina
+Superhost · 13 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+On Jones Street in the Historic District
+Steps from Forsyth Park and Monterey Square, with shops and cafes right around the corner
+Designer apartment with home comforts
+Designed by a local interior designer with a fully equipped kitchen and in-unit washer and dryer
+Sabrina is a standout host
+Guests highlight Sabrina as a responsive, friendly host who offers helpful local recommendations
+The most perfect location on iconic Jones Street. A historic home built in 1851. Close to restaurants, stylish shops, free downtown shuttle at the corner,  across the street from the famous Mrs. Wilkes and a quick stroll to Forsyth Park. Stylishly designed by its owner a local interior designer. Great "work from home" location. Host is always reachable directly. No crazy check out requirements, no added fees (just cleaning and taxes). NO PETS. For parking pls see "parking info" SVR-02191
+
+The space
+Entry is at ground level. No stairs just a small step up at entry. Spacious bedroom with a queen bed. Bathroom has a walk in shower. Ample living room with a dedicated work space (desk). Large screen smart TV. Kitchen is fully equipped, electric stove,  refrigerator, freezer, microwave, blender, etc. Central heat and AC with Nest Thermostat. Laundry room with a washer/ Dryer, ironing board and iron.
+
+Other things to note
+There is a pullout sofa. If there are only 2 guests on the reservation and the pullout is used a one time $25 linen fee will be charged upon check out. If there is a third guest staying in the apartment (even if partially) it must be disclosed  in the reservation request.  There is a 3 guests maximum, $25fee applies per guest (after 2) per night.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+65 inch HDTV with Amazon Prime Video, Apple TV, Chromecast, Disney+, Fire TV, Hulu, Netflix, Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Luggage dropoff allowed
+Crib
+Children’s books and toys
+Show all 45 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.94 out of 5 from 145 reviews.
+4.94
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 95% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+62
+Location
+124
+Hospitality
+89
+Cleanliness
+49
+Indoor spaces
+23
+Nearby
+27
+Parks
+5
+Comfort
+31
+Parking
+18
+Decor
+15
+Alex
+Alabaster, Alabama
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed about a week
+Our stay was wonderful from start to finish! The location alone is worth it—it’s on a beautiful street and within easy walking distance of parks, shopping, and plenty of great places to eat. It really couldn’t have been in a better area.
+The space was perfect for just my wife and me. We loved that the bedroom was separate from the living area, which made it feel much more like a home than a typical rental. The kitchen was spotless, well-equipped, and just the right size. I was even able to set up my computer and comfortably work for an extra day.
+Sabrina was an outstanding host. We had originally booked seven nights, but when we needed to extend our stay by one more night, she made the entire process incredibly easy and stress-free.
+Overall, we had a fantastic experience and wouldn’t hesitate to book again!
+Show more
+Wendy
+Driftwood, Texas
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+I absolutely loved staying here. The location on Jones Street is amazing, right across the street from Mrs. Wilk’s and a few doors down from a darling coffee shop. The boutique shopping in the area is great, too. Jones Street is probably one of the prettiest residential streets in Savannah. This property was great. It is on the first level which is nice to be able to walk out easily but because of that, there are only a few windows. It didn’t bother me, but worth noting. It is an old historic building, so I didn’t expect perfection. It was very clean and comfortable. And I felt safe staying there alone. The neighbors were all so nice - I would sit in the little chair on the sidewalk in the evenings and they would stop and talk to me. It was very welcoming. The bed was comfortable. Sabrina was very responsive. I also appreciate her letting me check in early and the easy check out. I would definitely recommend!
+Show more
+Carmine
+Pine Village, Indiana
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+This Airbnb was an adorable space with everything we needed for our getaway! It was located on the most beautiful, quiet street, and we loved being able to walk to restaurants, sit outside, and simply relax. We were looking for a peaceful, relaxing getaway, and this rental was the perfect place for us. We absolutely loved our stay and are already planning to return in the future!
+Show more
+Kimberly
+Louisville, Kentucky
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+The Airbnb was in a convenient location and street parking was easy. Sabrina was responsive throughout our stay.
+That said, a few things affected our experience. The toilet did not flush on our first day without opening the lid and was fixed the next afternoon, minor inconvenience but nothing we couldn’t work around. The space also felt smaller and darker than expected, especially the kitchen and living room area because there was no natural sunlight through the back windows. 
+The biggest issue was the mosquitoes in the entryway. Every time we opened the door, they got inside, and we ended up with a LOT of bites. Even though Sabrina left a raid spray outside, it was still a battle every time we left/entered. 
+Overall, the location was great, but between the mosquitoes, dark interior, and other issues, we didn’t feel the stay was worth the price and likely would not stay again.
+Show more
+Kenya
+New York, New York
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Wow, words can’t describe how amazing this space is. Nestled on the best most beautiful street in Savannah right across from the famous Mrs. Wilkes Dining Room. Sabrina’s place is a gem. Not only is it beautifully decorated, it’s walkable. Imagine beautiful interior, cozy linen, with the charm of historic architecture, that’s what this Airbnb is. Very clean, very cozy, well stocked with whatever you’ll need for your stay and the shower water pressure is top notch! I already told Sabrina I’ll be back asap! If you’re looking for accommodations in Savannah this is the ONLY street to be on, trust me.
+Show more
+Kaitlyn
+6 months on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Thank you for a great weekend!
+Show all 145 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Alex Raskin Antiques
+Home store
+Littles on Liberty, The Beaufort Bonnet Company Signature Store
+Clothing store
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Jones Street is one of the most coveted locations in all of the historic district. With its lush canopy of oak trees draped in Spanish moss, it's everything you imagine when you envision the magic of Savannah. Close to all shopping and restaurants, within walking distance of everything yet quiet and peaceful. Across the street from the famous Mrs. Wilkes and just a short stroll from the beautiful Forsyth Park. Really unbeatable location if you want to enjoy Historic Downtown Savannah and feel like a local.
+Show more
+Meet your host
+Sabrina
+Superhost
+1,411 reviews
+1411
+Reviews
+4.97 out of 5 average rating
+4.97
+Rating
+13 years of hosting
+13
+Years hosting
+Speaks English, French, and Spanish
+Lives in Savannah, Georgia
+I live in Savannah’s Historic Landmark District and truly enjoy welcoming guests to its endless charm. I love traveling, hosting and great restaurants :)
+Sabrina is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+No parking on property
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

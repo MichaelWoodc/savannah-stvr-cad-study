@@ -1,0 +1,420 @@
+URL: https://www.airbnb.com/rooms/1629054926490803508
+Title: Bright 2BR Historic Apartment Overlooking Forsyth
+Latitude: 32.0649
+Longitude: -81.0958
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Beautifully updated historic apartment perched on the top floor of a classic Savannah home, this two-bedroom, one-bath residence sits directly across from Forsyth Park, placing guests steps away from one of Savannah’s most beloved landmarks.
+
+The space
+Welcome to Park View B, a beautifully updated historic apartment originally built in 1875 and thoughtfully modernized to offer both charm and comfort. Perched on the top floor of a classic Savannah home, this two-bedroom, one-bath residence sits directly across from the south end of Forsyth Park, placing guests steps away from one of Savannah’s most beloved landmarks. With abundant natural light, high ceilings, and preserved historic details, Park View B offers the ideal blend of character and convenience for your stay in the Historic District.
+
+The spacious living area is warm and inviting, featuring ample seating, a decorative fireplace, a large flat-screen TV, and a sleeper sofa for added flexibility. The newly renovated kitchen is fully equipped with stainless steel appliances and includes a dining area with seating for four, making it perfect for enjoying a relaxed meal at home. Throughout the apartment, guests will appreciate the refinished hardwood floors, stylish furnishings, curated décor, and modern amenities that elevate this historic space.
+
+The primary bedroom includes a plush king-sized bed, a generous walk-in closet, and a flat-screen TV. The guest bedroom—accessible through the primary bedroom—offers two double beds and a TV, making it a cozy space for families or close friends. The full bathroom features a spacious walk-in shower, and the in-unit washer and dryer ensure added convenience for longer stays. The apartment also offers central heating and air, along with wireless internet to keep you connected throughout your visit.
+
+Guests enter through a shared entryway and can enjoy the charming shared front porch with beautiful views of Forsyth Park—a peaceful spot for your morning coffee or evening wind-down. Please note that the fireplaces are sealed and decorative only. 
+
+From Park View B, you’re perfectly positioned to explore Savannah by foot or bike. Forsyth Park hosts year-round events, tennis courts, the iconic Forsyth Fountain, and the popular Saturday Farmers’ Market. In every direction, you’ll find charming squares, boutique shops, local cafés, and Savannah’s best restaurants—all just a short stroll away.
+
+If you’re looking for a light-filled, centrally located getaway with true historic character and the trusted hospitality of Lucky Savannah, Park View B is a wonderful home base for your time in the Hostess City.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: Two Double Beds
+Living Room: Queen Sleeper Sofa
+
+Non-metered Parking
+This home has free, on-street parking in the area, and availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends. 
+
+SVR-00529
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Bright 2BR Historic Apartment Overlooking Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+6 guests · 2 bedrooms · 4 beds · 1 bath
+Rated 4.33 out of 5 stars.
+4.33
+·
+6 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In the Historic District at Forsyth Park
+Steps from Forsyth Park and its iconic fountain, with historic squares and cafés within a short stroll
+Renovated kitchen with in-unit laundry
+A fully equipped kitchen with stainless steel appliances, plus an in-unit washer and dryer
+Guests love the location
+Guests highlight the location, calling it convenient to everything and comfortable for their stay
+Beautifully updated historic apartment perched on the top floor of a classic Savannah home, this two-bedroom, one-bath residence sits directly across from Forsyth Park, placing guests steps away from one of Savannah’s most beloved landmarks.
+
+The space
+Welcome to Park View B, a beautifully updated historic apartment originally built in 1875 and thoughtfully modernized to offer both charm and comfort. Perched on the top floor of a classic Savannah home, this two-bedroom, one-bath residence sits directly across from the south end of Forsyth Park, placing guests steps away from one of Savannah’s most beloved landmarks. With abundant natural light, high ceilings, and preserved historic details, Park View B offers the ideal blend of character and convenience for your stay in the Historic District.
+
+The spacious living area is warm and inviting, featuring ample seating, a decorative fireplace, a large flat-screen TV, and a sleeper sofa for added flexibility. The newly renovated kitchen is fully equipped with stainless steel appliances and includes a dining area with seating for four, making it perfect for enjoying a relaxed meal at home. Throughout the apartment, guests will appreciate the refinished hardwood floors, stylish furnishings, curated décor, and modern amenities that elevate this historic space.
+
+The primary bedroom includes a plush king-sized bed, a generous walk-in closet, and a flat-screen TV. The guest bedroom—accessible through the primary bedroom—offers two double beds and a TV, making it a cozy space for families or close friends. The full bathroom features a spacious walk-in shower, and the in-unit washer and dryer ensure added convenience for longer stays. The apartment also offers central heating and air, along with wireless internet to keep you connected throughout your visit.
+
+Guests enter through a shared entryway and can enjoy the charming shared front porch with beautiful views of Forsyth Park—a peaceful spot for your morning coffee or evening wind-down. Please note that the fireplaces are sealed and decorative only. 
+
+From Park View B, you’re perfectly positioned to explore Savannah by foot or bike. Forsyth Park hosts year-round events, tennis courts, the iconic Forsyth Fountain, and the popular Saturday Farmers’ Market. In every direction, you’ll find charming squares, boutique shops, local cafés, and Savannah’s best restaurants—all just a short stroll away.
+
+If you’re looking for a light-filled, centrally located getaway with true historic character and the trusted hospitality of Lucky Savannah, Park View B is a wonderful home base for your time in the Hostess City.
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: Two Double Beds
+Living Room: Queen Sleeper Sofa
+
+Non-metered Parking
+This home has free, on-street parking in the area, and availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends. 
+
+SVR-00529
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+TV
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Long term stays allowed
+Show all 30 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.33 out of 5 stars from 6 reviews
+4.33 · 6 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 83% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 17% of reviews
+1
+Rated 4.3 out of 5 stars for cleanliness
+Cleanliness
+4.3
+Rated 4.3 out of 5 stars for accuracy
+Accuracy
+4.3
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.7 out of 5 stars for communication
+Communication
+4.7
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.3 out of 5 stars for value
+Value
+4.3
+Jennifer
+2 months on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We enjoyed our stay right across from beautiful Forsyth Park. It was convenient to everything, and completely comfortable for our 4 guests.
+Show more
+Nathaniel
+Kalamazoo, Michigan
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had a great time at this home and enjoyed our stay!
+Show more
+April
+Louisville, Kentucky
+Rating, 1 star
+,
+·
+June 2026
+,
+·
+Stayed with kids
+This was the absolute worst rental experience our family has ever had. We have stayed in many vacation rentals before, but this place was completely unready for guests. Here is why you should avoid this property. The sheets were dirty, covered in crumbs, and full of stray hairs and holes. It was so gross that my kids had to sleep on top of the sheets. The hair dryer did not work at all. Even worse, the kitchen sink handle was broken and sprayed water directly into my face. There was a wasp nest right outside the living room window. To make matters worse, a hole in the bottom of the master bedroom wall let the wasps inside. I actually had to drive to the local Kroger just to buy bug spray to protect my family.The property manager never even called me to discuss these major issues. After I texted them, they gave us a refund for just one night.A single night's refund did not fix a completely miserable family vacation.
+Show more
+Kari
+Denver, Colorado
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Loved this apartment! It was a perfect location with easy access.  Highly recommend.
+Show more
+Kimberly
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Absolutely beautiful. We really enjoyed our stay.
+Show more
+Donna
+Bryant, Arkansas
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Fantastic location. It's was a perfect place for us. Nice accommodations.
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

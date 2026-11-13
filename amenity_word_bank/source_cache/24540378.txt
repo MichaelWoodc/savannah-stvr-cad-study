@@ -1,0 +1,463 @@
+URL: https://www.airbnb.com/rooms/24540378
+Title: Manor w/ Courtyard + Parking by Lucky Savannah
+Latitude: 32.069
+Longitude: -81.0896
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This distinguished retreat is designed for the sophisticated traveler, offering a bright, vibrant atmosphere that radiates warmth and natural light throughout, with private parking, and a large courtyard!
+
+The space
+Welcome to Lazy Bones (previously known as "Grand Luther) – Your Perfect Home Away from Home! This distinguished retreat is designed for the sophisticated traveler, offering a bright, vibrant atmosphere that radiates warmth and natural light throughout. Every corner of Lazy Bones invites you to relax, unwind, and enjoy the charm of Savannah.
+
+What Makes Lazy Bones Unique?
+
+- Bright and Inviting Space: This open and airy home is ideal for both entertaining and cozy nights in with loved ones. The spacious layout, filled with natural light, is perfect for families, friends, and even young children. Every room has been thoughtfully designed to create a welcoming environment that feels just like home.
+
+- Meaningful Touches: From a gallery wall celebrating world-renowned musicians to a record player and carefully curated local artwork from SCAD galleries, Lazy Bones is filled with hand-selected pieces that make your stay truly memorable.
+
+- Prime Location: Located just a block from a fully enclosed dog park, two blocks from the market, and three blocks from Forsyth Park, this home is perfectly positioned off Price and East Gaston Street. Enjoy leisurely strolls around the historic district, ensuring you never miss a beat of what Savannah has to offer!
+
+- Private Courtyard Oasis: The private courtyard at the back of the home is your downtown sanctuary. Meticulously crafted by the owner, this space invites you to relax, sip a drink, and reflect on the day’s adventures.
+
+All three bedrooms and two full baths are located on the second floor, providing a serene escape for a restful night. The first bedroom features a Queen bed, antique writing desk, and full-sized closet. The middle bedroom is perfect for kids or friends, with a Full-size bed and a Twin bed with trundle. The primary suite, facing Price Street, offers a King-size bed and large Smart TV. The upstairs bathrooms bookend the hall, one with a tub/shower combo and the other with a standing shower.
+
+What is parking like for this home? This home includes 2 compact parking spaces located directly behind the courtyard. For additional parking, we recommend finding free parking on Gaston Street, which can be easily found directly next to your home. 
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Full Bed + Twin with Trundle
+Bedroom 3: King Bed
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-03019
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Manor w/ Courtyard + Parking by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 3 bedrooms · 4 beds · 2.5 baths
+Rated 4.8 out of 5 stars.
+4.8
+·
+50 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's historic district
+Whitefield Square is right outside, with Forsyth Park about a 10-min walk away
+Private courtyard oasis
+A private courtyard at the back of the home, crafted by the owner as a quiet downtown retreat
+Walkable to almost everything
+Guests highlight the walkability, with several calling it an easy stroll to restaurants and parks
+This distinguished retreat is designed for the sophisticated traveler, offering a bright, vibrant atmosphere that radiates warmth and natural light throughout, with private parking, and a large courtyard!
+
+The space
+Welcome to Lazy Bones (previously known as "Grand Luther) – Your Perfect Home Away from Home! This distinguished retreat is designed for the sophisticated traveler, offering a bright, vibrant atmosphere that radiates warmth and natural light throughout. Every corner of Lazy Bones invites you to relax, unwind, and enjoy the charm of Savannah.
+
+What Makes Lazy Bones Unique?
+
+- Bright and Inviting Space: This open and airy home is ideal for both entertaining and cozy nights in with loved ones. The spacious layout, filled with natural light, is perfect for families, friends, and even young children. Every room has been thoughtfully designed to create a welcoming environment that feels just like home.
+
+- Meaningful Touches: From a gallery wall celebrating world-renowned musicians to a record player and carefully curated local artwork from SCAD galleries, Lazy Bones is filled with hand-selected pieces that make your stay truly memorable.
+
+- Prime Location: Located just a block from a fully enclosed dog park, two blocks from the market, and three blocks from Forsyth Park, this home is perfectly positioned off Price and East Gaston Street. Enjoy leisurely strolls around the historic district, ensuring you never miss a beat of what Savannah has to offer!
+
+- Private Courtyard Oasis: The private courtyard at the back of the home is your downtown sanctuary. Meticulously crafted by the owner, this space invites you to relax, sip a drink, and reflect on the day’s adventures.
+
+All three bedrooms and two full baths are located on the second floor, providing a serene escape for a restful night. The first bedroom features a Queen bed, antique writing desk, and full-sized closet. The middle bedroom is perfect for kids or friends, with a Full-size bed and a Twin bed with trundle. The primary suite, facing Price Street, offers a King-size bed and large Smart TV. The upstairs bathrooms bookend the hall, one with a tub/shower combo and the other with a standing shower.
+
+What is parking like for this home? This home includes 2 compact parking spaces located directly behind the courtyard. For additional parking, we recommend finding free parking on Gaston Street, which can be easily found directly next to your home. 
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Full Bed + Twin with Trundle
+Bedroom 3: King Bed
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-03019
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Show all 36 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.8 out of 5 stars from 50 reviews
+4.8 · 50 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 80% of reviews
+5
+4 stars, 20% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+21
+Location
+24
+Cleanliness
+18
+Parking
+7
+Comfort
+13
+Indoor spaces
+14
+Nearby
+9
+Hospitality
+13
+Checkout
+6
+Check-in
+6
+Mia
+Durham, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+It accommodated me and my 4 guests very well. Very clean and exactly like the pictures! Grill should probably be repaired/replaced soon for guests to use without issue.
+Show more
+Connor
+Arlington, Virginia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+This house was ideal - very walkable to the park, restaurants, the river, etc. Perfect space for our group, and the back patio space was a real highlight for us. Check in/out instructions were clear as well. I’d stay here again
+Show more
+Daniel
+Sacramento, California
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+The house was gorgeous and had great character! All of us had a really good time and the house was clean and beautiful.
+Show more
+Katrina
+Winona, Minnesota
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with kids
+We loved staying in the south historic district with plenty of restaurants and attractions within walking distance!  We enjoyed the historic feel of the house with multiple bedrooms for family members to sleep separately. It was a nice bonus that there were children toys along with nugget couch at this rental but one downfall was no pack and play so bring your own if staying here. 
+There is a neighbor nearby that is very particular about how you park your car so be aware if you are bringing a rental vehicle to this property, as he will likely come and ring the doorbell multiple times to speak with you like he did with us.
+Show more
+Nicole
+Etna, Ohio
+Rating, 4 stars
+,
+·
+April 2026
+,
+·
+Stayed with a pet
+The house matches the description. The beds and the furniture were all comfortable. Plenty of dishes in the kitchen. We enjoyed the location. Walkable to most everything! Neighborhood was quiet. With that being said we were a little disappointed in a few things. We had planned to grill but the propane was empty. We didn’t have enough dishwasher tablets or paper towel for a family of five for five days. We did reach out and never heard anything back but it was a holiday weekend.  We would recommend staying here and would come back!
+Show more
+Wolf
+Washington, District of Columbia
+Rating, 4 stars
+,
+·
+January 2026
+,
+·
+Stayed with a pet
+House is beautiful and in a great location!
+Cons: house needs a deep clean. Also have to deal with a property management company - they wanted to charge $75 for an early check in despite us having a long stay, so you lose the flexibility and reasonableness of a non corporate host.
+Show more
+Show all 50 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

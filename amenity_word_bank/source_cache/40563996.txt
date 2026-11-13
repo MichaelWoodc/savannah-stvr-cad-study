@@ -1,0 +1,472 @@
+URL: https://www.airbnb.com/rooms/40563996
+Title: A Splash Pool Cottage Downtown with 2 King Beds
+Latitude: 32.0719
+Longitude: -81.087
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sandra
+Host ID: 314313673
+Host profile ID: 1469592005946537681
+Host URL: https://www.airbnb.com/users/profile/1469592005946537681
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+Century old cottage located steps from the historic district, River Street is .9 miles! Half of a Two-Unit Townhouse; both sides are completely fenced with separate backyards and private dipping pools.  Inside you’ll find Two Stacked Bedrooms, enjoy two Comfy King-sized Beds. Follow the Hallway to a Modest Living Room, and Antique Folding Table for meals. The Petite Kitchen includes all appliances and Washer/Dryer. Almost all the space is in the bedrooms. The backyard shines here!
+
+The space
+The duplex is a winner when you want outdoor space with a pool, walking distance to the historic district and large comfy beds. It has a Great Backyard with an Unheated Private Pool, to cool down from the Savannah heat!  Enjoy sipping a beverage in the backyard or a dip in the pool. Each side has a completely private, separate entrance and backyard. 
+The apartment is a historic cottage originally built in 1871! There are 2 bedrooms, each with a King Size Bed, 1-bath and it is 1/2 of a duplex. 
+ A small living room is suitable for planning your next day's adventures. Grab a bite to eat in the functional kitchen that's great for ready-to-eat or on-the-go meals, not for creating complex signature dishes although it is well stocked with kitchenware. An antique folding table serves as your sit-down dining space.
+There is a full-size Washer and Dryer for your convenience. 
+Our place is a Clean, Down-To-Earth Cottage and is especially practical for business travelers, or traveling companions desiring multiple rooms or small families.
+
+If you need more than two bedrooms, both sides of the duplex are available, see link below.
+ airbnb.com/h/downtownhistoricduplex
+
+Guest access
+We use a keyless lock system for a no contact entry for guests.  Just enter your password number provided to you in the Welcome Message through the Platform.
+
+Other things to note
+You may either park your vehicle right on the street out front or on the nearby side streets if you prefer (E Harris or E Charlton). There are typically plenty of spaces available and it is free on the one side of E. Harris and the one side of E. Charlton.  The metered parking spaces are free after 5 PM until 8 AM and Sunday all day.
+
+Certificate # SVR-02425
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Individual Travel Size shampoo
+Conditioner
+Individual Size Bar Soap body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet
+Entertainment
+TV with standard cable
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Blender
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Private backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Sun loungers
+Parking and facilities
+Free street parking
+Private pool
+Paid parking lot off premises
+Single level home
+No stairs in home
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+A Splash Pool Cottage Downtown with 2 King Beds
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire cottage in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Rated 4.84 out of 5 stars.
+4.84
+·
+195 reviews
+Hosted by Sandra
+7 years hosting
+Listing highlights
+In Historic Savannah near Troup Square
+Troup Square is about a 3-min walk, with Lafayette Square and the Flannery O'Connor Home nearby
+Private dipping pool in a fenced yard
+A private fenced backyard with a dipping pool, perfect for cooling off after a day of exploring
+Loved for the pool and comfy beds
+Guests highlight the pool, comfortable beds, and a location that's walkable yet quiet at night
+Century old cottage located steps from the historic district, River Street is .9 miles! Half of a Two-Unit Townhouse; both sides are completely fenced with separate backyards and private dipping pools.  Inside you’ll find Two Stacked Bedrooms, enjoy two Comfy King-sized Beds. Follow the Hallway to a Modest Living Room, and Antique Folding Table for meals. The Petite Kitchen includes all appliances and Washer/Dryer. Almost all the space is in the bedrooms. The backyard shines here!
+
+The space
+The duplex is a winner when you want outdoor space with a pool, walking distance to the historic district and large comfy beds. It has a Great Backyard with an Unheated Private Pool, to cool down from the Savannah heat!  Enjoy sipping a beverage in the backyard or a dip in the pool. Each side has a completely private, separate entrance and backyard. 
+The apartment is a historic cottage originally built in 1871! There are 2 bedrooms, each with a King Size Bed, 1-bath and it is 1/2 of a duplex. 
+ A small living room is suitable for planning your next day's adventures. Grab a bite to eat in the functional kitchen that's great for ready-to-eat or on-the-go meals, not for creating complex signature dishes although it is well stocked with kitchenware. An antique folding table serves as your sit-down dining space.
+There is a full-size Washer and Dryer for your convenience. 
+Our place is a Clean, Down-To-Earth Cottage and is especially practical for business travelers, or traveling companions desiring multiple rooms or small families.
+
+If you need more than two bedrooms, both sides of the duplex are available, see link below.
+ airbnb.com/h/downtownhistoricduplex
+
+Guest access
+We use a keyless lock system for a no contact entry for guests.  Just enter your password number provided to you in the Welcome Message through the Platform.
+
+Other things to note
+You may either park your vehicle right on the street out front or on the nearby side streets if you prefer (E Harris or E Charlton). There are typically plenty of spaces available and it is free on the one side of E. Harris and the one side of E. Charlton.  The metered parking spaces are free after 5 PM until 8 AM and Sunday all day.
+
+Certificate # SVR-02425
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+Private pool
+TV with standard cable
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Private patio or balcony
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.84 out of 5 stars from 195 reviews
+4.84 · 195 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 87% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Pool
+82
+Location
+111
+Walkability
+57
+Backyard
+17
+Cleanliness
+63
+Sleep quality
+38
+Comfort
+51
+Family
+25
+Hospitality
+65
+Condition
+12
+Taylor
+Yulee, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We loved staying at Sandra’s place. The pictures don’t do the pool justice. It is the absolute perfect size and depth for 4 people to swim in. There were plenty of linens and the most comfortable beds. The location is in within walking distance of a few places but within a SHORT driving distance to many unique restaurants and shopping. We definitely will stay again if in the area.
+Show more
+Stephanie
+Charleston, South Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+We loved this spot! The splash pad in the backyard was a perfect t way to spend our afternoon! The location was perfect. Lots of other airbnbs close by for friends and close the Enmark arena. We are already planning to stay here again next time we are in town!
+Show more
+Jolee
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Sandra was a great host for my friends and I!!
+Lisa
+8 months on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with a pet
+We enjoyed our stay here. Travelled with our dogs and it was the perfect respite for all of us. The backyard was what we hoped for, nice and relaxing.
+Joseph
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Great place to stay while visitng Savannah. Walkable to lots of places near downtown.
+Laura
+St. Augustine, Florida
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Lovely place...exactly what we needed for a weekend trip to Savannah. Everything was clean and we had everything there we needed. Loved it and would definitely book it again. Thank you!
+Show more
+Show all 195 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Pizzeria Vittoria Napoletana
+Italian restaurant
+Forsyth Park
+Park
+Elizabeth's on 37th
+Restaurant
+Cathedral of Saint John the Baptist
+Church
+Screamin' Mimi's
+Food and drink
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Historic Savannah
+Show more
+Meet your host
+Sandra
+Host
+1,194 reviews
+1194
+Reviews
+4.89 out of 5 average rating
+4.89
+Rating
+7 years of hosting
+7
+Years hosting
+A happy transplant to Savannah! I enjoy traveling myself, so it is so exciting to be able to experience the rich history of this impressive city and to help others learn about it! What better place to be a host than in the “Host City of the South.” Send a message or book if you want a gorgeous rental in the Historic Downtown District!
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Pool/hot tub without a gate or lock
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Cottage vacation rentals in Savannah
+Cottage vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Family-friendly vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

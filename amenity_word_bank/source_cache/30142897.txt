@@ -1,0 +1,440 @@
+URL: https://www.airbnb.com/rooms/30142897
+Title: Near Forsyth Park w/ Parking by Lucky Savannah
+Latitude: 32.0696
+Longitude: -81.0937
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+A renovated ground level apartment in Downtown Savannah's Historic District on famous Gaston Street, off of Forsyth Park!
+
+The space
+This charming, one-bedroom, one-bath ground level apartment is just a stones-throw from Forsyth Park! Comfortable furnishings with a modern flair will have you “living like a local” on the Historic District’s famous Gaston Street. Located just a block away from beautiful Forsyth Park, this updated apartment is the perfect retreat for two or four Lucky guests. 
+
+Upon entering, you'll be greeted by a open space that offers a beautifully renovated galley kitchen, modern furnishings and a decorative fireplace. The kitchen is fully equipped, so you can enjoy breakfast from the comfort of your home-away-from-home. The dining area is open to the living area, which offers a comfortable couch, and a large flat-screen TV. The bedroom has a Queen bed, and lots of closet space so you can settle in during your stay. The bathroom has a large tiled walk-in shower,  and a lovely vanity where you can get ready for a night out on the town.
+
+Savannah’s top eateries, including 700 Drayton and Clary’s, are all within a five-minute walk from..... Spend some time browsing the antiques at Alex Raskin’s, or tour the famous Mercer-Williams House on nearby Monterey Square. Get a taste of eating local by picking up fresh ingredients at the Farmer’s Market on Saturdays in Forsyth Park.
+
+What is parking like for this home?
+You have one assigned private parking space directly behind your apartment. Any other parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday to Friday, 8am to 5pm. Guests are encouraged to either purchase a pre-paid parking pass from the Savannah Visitor Center, or park on a nearby non-metered street. Guests should be wary of the posted Sweep Zone signs.
+
+Sleeping Configuration:
+1 Queen Bed
+1 Queen Sleeper Sofa
+
+SVR-01739
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Near Forsyth Park w/ Parking by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.33 out of 5 stars.
+4.33
+·
+30 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+On Gaston Street near Forsyth Park
+Steps from Forsyth Park, with Monterey Square and the Mercer-Williams House about a 5-min walk away
+Dedicated parking spot included
+One assigned parking space right behind the apartment, a real convenience in the Historic District
+A location guests keep coming back for
+Several guests highlight the walkable location as the standout, with dining and landmarks all nearby
+A renovated ground level apartment in Downtown Savannah's Historic District on famous Gaston Street, off of Forsyth Park!
+
+The space
+This charming, one-bedroom, one-bath ground level apartment is just a stones-throw from Forsyth Park! Comfortable furnishings with a modern flair will have you “living like a local” on the Historic District’s famous Gaston Street. Located just a block away from beautiful Forsyth Park, this updated apartment is the perfect retreat for two or four Lucky guests. 
+
+Upon entering, you'll be greeted by a open space that offers a beautifully renovated galley kitchen, modern furnishings and a decorative fireplace. The kitchen is fully equipped, so you can enjoy breakfast from the comfort of your home-away-from-home. The dining area is open to the living area, which offers a comfortable couch, and a large flat-screen TV. The bedroom has a Queen bed, and lots of closet space so you can settle in during your stay. The bathroom has a large tiled walk-in shower,  and a lovely vanity where you can get ready for a night out on the town.
+
+Savannah’s top eateries, including 700 Drayton and Clary’s, are all within a five-minute walk from..... Spend some time browsing the antiques at Alex Raskin’s, or tour the famous Mercer-Williams House on nearby Monterey Square. Get a taste of eating local by picking up fresh ingredients at the Farmer’s Market on Saturdays in Forsyth Park.
+
+What is parking like for this home?
+You have one assigned private parking space directly behind your apartment. Any other parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday to Friday, 8am to 5pm. Guests are encouraged to either purchase a pre-paid parking pass from the Savannah Visitor Center, or park on a nearby non-metered street. Guests should be wary of the posted Sweep Zone signs.
+
+Sleeping Configuration:
+1 Queen Bed
+1 Queen Sleeper Sofa
+
+SVR-01739
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.33 out of 5 stars from 30 reviews
+4.33 · 30 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 53% of reviews
+5
+4 stars, 37% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 3% of reviews
+2
+1 stars, 3% of reviews
+1
+Rated 4.3 out of 5 stars for cleanliness
+Cleanliness
+4.3
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.6 out of 5 stars for communication
+Communication
+4.6
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.1 out of 5 stars for value
+Value
+4.1
+Guest reviews mention
+Location
+20
+Parking
+9
+Parks
+3
+Cleanliness
+12
+Walkability
+7
+Air conditioning
+3
+Check-in
+5
+Hospitality
+8
+Checkout
+3
+Sleep quality
+4
+Shannon
+Morristown, Tennessee
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We booked a last minute trip . It was clean and described just like the ad. Air conditioning a must in Savannah in July. Price was right. I have no complaints.
+Show more
+Dannon
+McCalla, Alabama
+Rating, 4 stars
+,
+·
+June 2025
+,
+·
+Stayed a few nights
+The location of this AirBnb made it worth it! So many things to see and all walkable! The place is an older place like most places in town.The place had a stale odor when we arrived ( frebreeze fixed that or at least masked it ).Flooring didn’t fit well together and the planks had some gaps and would move . The main issue was the A/C with it set to 70 it wouldn’t get below 73. First night it started blowing hot air and we woke up with it 78 degrees. Called them and they sent someone right out. Worked on it changed the thermostat that helped some. Still the A/C never could keep up. Think it was just an older system that needs to be completely replaced. With a few updates this place would easily be a 5 star place. We would stay here again but just would bring a fan or our portable a/c unit with us. You really can’t beat the Location !
+Show more
+Lou
+Jacksonville, Florida
+Rating, 4 stars
+,
+·
+June 2025
+,
+·
+Stayed about a week
+The place is exactly as described. Unfortunately for us, the AC was not working properly. We contacted Lucky, and they responded beyond great. They are incredible in customer services... all of them. They responded in time and very helpfully. Unfortunately, the AC was having deeper problems, and we decided to cut short our time there.  They were so authentic when apologizing for our inconvenience, and they reimburse part of our money almost immediately. We had bad luck with the AC timing, but we'll stay there again in a bit.
+Show more
+Natascha
+Lake Wylie, South Carolina
+Rating, 4 stars
+,
+·
+February 2025
+,
+·
+Stayed a few nights
+Great location right next to the park. It’s quite dark and the sliding glass door opens to the parking area that is quite busy in the evenings. 
+The place is perfectly located if you’re wanting to hit river street and explore the historic district.
+Show more
+Crystal
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+January 2024
+,
+·
+Stayed a few nights
+My husband and I visited Savannah to celebrate our wedding anniversary. I specifically wanted to be close to Forsyth Park, and man, we could not have been any closer! Although the unit is in a small apartment building, it felt very private & extremely safe. Check in and check out was very smooth. We would definitely stay there again. Thank you for such a fantastic getaway!!
+Show more
+Carol
+4 years on Airbnb
+Rating, 4 stars
+,
+·
+April 2023
+,
+·
+Stayed a few nights
+The free self-parking, location,  and amenities (laundry, well-equipped kitchen)  are the highlights of this ground-level apartment on the border of beautiful Forsyth Park. However, if you need natural light, keep looking. The main room has no windows, and you'll want to keep the draperies closed over the sliding glass door in the bedroom, which opens to the parking lot. The sofa is uncomfortable (flattened cushions with no life left in them and too many decorative pillows trying to compensate), but workable for a night or two.
+Show more
+Show all 30 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

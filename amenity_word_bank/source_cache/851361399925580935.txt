@@ -1,0 +1,480 @@
+URL: https://www.airbnb.com/rooms/851361399925580935
+Title: Carriage House 2 Working Fireplaces, Pet Friendly!
+Latitude: 32.07
+Longitude: -81.0876
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Cora E
+Host ID: 186597927
+Host profile ID: 1463088735480385834
+Host URL: https://www.airbnb.com/users/profile/1463088735480385834
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Beautifully decorated, 800 sq. foot French Country style carriage house located in the North Historic Downtown Savannah! Everything you need for a Romantic Savannah Getaway! Conveniently located within walking distance to Forsyth Park, local restaurants, shops, the dog park, and more! Private Courtyard & Pet Friendly!
+Indulge yourself by the fireplaces in the chilly mornings. 
+*Basic WiFi 
+*Free street parking available on Broad and Taylor Street.*
+*SVR-02728*
+
+The space
+Beautifully decorated, French Country style carriage house located in Historic Downtown Savannah! Everything you need for a Romantic Savannah Getaway! Conveniently located within walking distance to Forsyth Park, local restaurants, shops, the dog park, and more! Private Courtyard & Pet Friendly! 
+
+Indulge yourself by the fireplaces in the chilly mornings and evenings of the Holiday Season. Free firewood is stacked outside. Wax logs are available at the grocery store nearby.
+
+This Property is perfect for Corporate & Monthly rentals.  Ask about special monthly rates and discounts!  
+
+Our housekeeping Team is working hard to provide excellent service you and your family.  We are following all CDC Guidelines for cleaning, and doing regular deep cleans for every one of our properties.  You will be able to see a specific cleaning checklist that we have followed upon arrival or upon request.
+
+This property features a queen sized bed.
+
+*Non-Smoking*
+
+*There is a $150 pet fee associated with bringing a pet*
+
+*Basic WiFi - FireStick in both the downstairs and bedroom TVs*
+
+*This apartment does not have dedicated parking, there is free street parking available on Broad and E Taylor Street.*
+
+*Cora Bett Thomas Vacation Rentals does require all guests to e-sign a rental agreement to complete a reservation*
+
+*SVR-02728*
+
+Guest access
+Private Entrance on Broad Street
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Indoor fireplace
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Oven
+Coffee maker
+Location features
+Beach access
+Guests can enjoy a nearby beach
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Resort access
+Guests can use nearby resort facilities
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Parking and facilities
+Gym
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Shampoo
+Shampoo
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Carriage House 2 Working Fireplaces, Pet Friendly!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire guesthouse in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 0 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.94 out of 5 stars.
+4.94
+105 reviews
+105
+Reviews
+Hosted by Cora E
+Superhost · 8 years hosting
+Listing highlights
+In Historic Downtown Savannah
+Steps from Troup Square and Whitefield Square, with Forsyth Park within walking distance
+French Country carriage house
+An 800 sq ft carriage house with French Country decor, working fireplaces, and a private courtyard
+A comfortable bed and a warm host
+Guests highlight the comfortable bed, and many praise host Monique's warm welcome
+Some info has been automatically translated. Show original
+Beautifully decorated, 800 sq. foot French Country style carriage house located in the North Historic Downtown Savannah! Everything you need for a Romantic Savannah Getaway! Conveniently located within walking distance to Forsyth Park, local restaurants, shops, the dog park, and more! Private Courtyard & Pet Friendly!
+Indulge yourself by the fireplaces in the chilly mornings. 
+*Basic WiFi 
+*Free street parking available on Broad and Taylor Street.*
+*SVR-02728*
+
+The space
+Beautifully decorated, French Country style carriage house located in Historic Downtown Savannah! Everything you need for a Romantic Savannah Getaway! Conveniently located within walking distance to Forsyth Park, local restaurants, shops, the dog park, and more! Private Courtyard & Pet Friendly! 
+
+Indulge yourself by the fireplaces in the chilly mornings and evenings of the Holiday Season. Free firewood is stacked outside. Wax logs are available at the grocery store nearby.
+
+This Property is perfect for Corporate & Monthly rentals.  Ask about special monthly rates and discounts!  
+
+Our housekeeping Team is working hard to provide excellent service you and your family.  We are following all CDC Guidelines for cleaning, and doing regular deep cleans for every one of our properties.  You will be able to see a specific cleaning checklist that we have followed upon arrival or upon request.
+
+This property features a queen sized bed.
+
+*Non-Smoking*
+
+*There is a $150 pet fee associated with bringing a pet*
+
+*Basic WiFi - FireStick in both the downstairs and bedroom TVs*
+
+*This apartment does not have dedicated parking, there is free street parking available on Broad and E Taylor Street.*
+
+*Cora Bett Thomas Vacation Rentals does require all guests to e-sign a rental agreement to complete a reservation*
+
+*SVR-02728*
+
+Guest access
+Private Entrance on Broad Street
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Beach access
+Kitchen
+Wifi
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Show all 33 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.94 out of 5 from 105 reviews.
+4.94
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+50
+Location
+58
+Parks
+10
+Pets
+17
+Decor
+18
+Parking
+9
+Sleep quality
+19
+Comfort
+19
+Hospitality
+41
+Indoor spaces
+19
+Caitlin
+West Frankfort, Illinois
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with a pet
+Loved this place. Plenty of room for 2 people & 2 dogs. Close enough to everything! Cute dog park across the street. Public Parking right out front.
+Destini
+Orlando, Florida
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+This beautiful historic home was nothing short of FANTASTIC! My husband and I did not want to leave, we felt right at home. Parking was easy, it was squeaky clean, the garden was so peaceful, we loved all the antiques, there was plenty of storage and space in the bathroom. We will most definitely be back so we can use the fireplaces during the wintertime :)
+Show more
+Mary
+Winston-Salem, North Carolina
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+My husband and I visit for our 20th wedding anniversary. It was our first time  visiting Savannah and we fell completely in love. We were able to park our car and walk just about everywhere we wanted to go. The carriage house is literally perfect. It is quiet, the bed is so comfortable, and we felt immediately at home. The artwork displayed in the home is stunning.
+Show more
+Cassie
+Copper Hill, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This is such a sweet place!  We had a great time.  Thanks so much
+Kathryn
+Keller, Texas
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with a pet
+What a wonderful stay! My husband and I had a weekend getaway in Savannah and this was the perfect place to stay. Cute cottage close to so many things to do but tucked away to where we didn’t hear any noise. Monique was so friendly and kind- we will definitely be back!
+Show more
+Rachel
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Such a cute and cozy stay in a perfect area! We were able to walk to everything we wanted to do.
+Show all 105 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+South Historic Downtown Savannah
+Show more
+Meet your host
+Cora E
+Superhost
+879 reviews
+879
+Reviews
+4.76 out of 5 average rating
+4.76
+Rating
+8 years of hosting
+8
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+We are Cora Bett Thomas Vacation Rentals. We are dedicated to providing the highest quality experiences and properties in the Savannah area. Let us know how we can make your Savannah vacation an memorable experience!
+Cora E is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Monique
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 6:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Vacation rentals with beach access in Savannah
+Guesthouse vacation rentals in Savannah
+Guesthouse vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Vacation rentals with beach access in Chatham County
+Guesthouse vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

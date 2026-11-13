@@ -1,0 +1,472 @@
+URL: https://www.airbnb.com/rooms/564505838340992109
+Title: Luxury Bay Street Condo featuring Dual King Suites
+Latitude: 32.0812
+Longitude: -81.0932
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Experience luxury living in this Historic Downtown Bay Street condo featuring two primary king suites – where comfort meets elegance, and space meets sophistication. Enjoy style and comfort as you unwind in the living space as wall-to-wall windows pour in light. Have coffee on your balcony as you listen to Savannah come alive. The building is located on Bay Street, which is just across the street from the historic steps leading to River Street. 
+SVR-02467
+
+The space
+Located on the third floor of a Federal-inspired, fully modern condominium complex, The Loft on Bay Street boasts an incredibly spacious design that is accentuated with personal touches to provide you a quiet and comfortable stay, while being perfectly located to all Savannah has to offer.
+After entering the loft, follow the long hallway past the sleeping accommodations to the open concept living space overlooking the courtyard. This expansive living space features an oversize sofa, reading chair, a gas fireplace, smart TV with cable, and a Bluetooth speaker for your enjoyment. Flowing directly into the well-appointed kitchen, find a large island with room for four, a gas range, and an island sink that looks out onto the balcony. Enjoy all the essential kitchen items you need to cook a delicious meal including utensils, pots, pans, coffee maker, and blender. Ready for that Georgia breeze? Step out onto the loft’s balcony overlooking the small courtyard below. Tucked on the side of the building, you are shielded from the noise of Bay Street yet inspired by watching the hustle and bustle of people come and go from the Starbucks below. Just off the living space, find a half bathroom for convenience. 
+Perfect for the short overnight or for a longer stay, the Loft features two immaculate ensuite bedrooms boasting their own private bathrooms, walk-in closets, smart TVs with cable, and comfortable king mattresses with plush pillows and crisp linens. The master suite provides a luxurious bathroom with a stand-up shower, separate soaking tub, and double vanity, while the second suite provides a single vanity and stand-up shower, both featuring beautiful tile work and fresh updates.
+Working remotely during your stay? With plenty of countertop and table space to set up your home office, the Loft provides you with reliable 150 Mbps WIFI, ready for all your video conference and multi-tasking needs. The loft is also perfect for your longer stay, with an in-unit washer and dryer, iron, and ironing board, along with providing dressers and closet space for all your needs.
+Bringing your own vehicle? We provide one parking space in the Whitaker Garage near the loft.
+
+Guest access
+You may access the entire condo unit and our garage parking space 24/7. We ask that you please be courteous to your neighbors and keep noise levels to a minimum from the hours of 10pm - 8am. We live in a very residential condo building so we just ask that you help us maintain the relationships we have with our friendly neighbors. Directly below the condo on the ground floor is a Starbucks and one of our favorite local restaurants, Treylor Park's Double Wide Diner!
+
+Other things to note
+Absolutely no parties. 
+Only the number of guests listed on the reservation is permitted at the property. 
+No illicit activities, peddling, or soliciting are allowed on the property. 
+Do not smoke on the property or near the home. 
+Must be 21 years of age to drink alcohol. 
+Report all damaged property to the property owner immediately. 
+Treat the condominium with respect, as if it was your own property. 
+"Quiet Hours" are 10pm - 8am. 
+If you use our nice linens to wipe off makeup or excessive dirt, you will be subject to a fee of $25 per occurrence.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Central air conditioning
+Indoor fireplace: gas
+Heating
+Home safety
+Exterior security cameras on property
+There are cameras on the outside of the building and inside the hallways managed by the condo association.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Kenmore gas stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Parking and facilities
+Free parking on premises
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Luxury Bay Street Condo featuring Dual King Suites
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+171 reviews
+171
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Historic Downtown, steps from the river
+Ellis Square is steps away, and River Street is just across Bay Street.
+Two private king suites
+Two king suites with private bathrooms, walk-in closets, and a gas fireplace in the living room.
+Spotless and beautifully kept
+Guests call it spotless and beautifully decorated, with many saying they'd book again.
+Experience luxury living in this Historic Downtown Bay Street condo featuring two primary king suites – where comfort meets elegance, and space meets sophistication. Enjoy style and comfort as you unwind in the living space as wall-to-wall windows pour in light. Have coffee on your balcony as you listen to Savannah come alive. The building is located on Bay Street, which is just across the street from the historic steps leading to River Street. 
+SVR-02467
+
+The space
+Located on the third floor of a Federal-inspired, fully modern condominium complex, The Loft on Bay Street boasts an incredibly spacious design that is accentuated with personal touches to provide you a quiet and comfortable stay, while being perfectly located to all Savannah has to offer.
+After entering the loft, follow the long hallway past the sleeping accommodations to the open concept living space overlooking the courtyard. This expansive living space features an oversize sofa, reading chair, a gas fireplace, smart TV with cable, and a Bluetooth speaker for your enjoyment. Flowing directly into the well-appointed kitchen, find a large island with room for four, a gas range, and an island sink that looks out onto the balcony. Enjoy all the essential kitchen items you need to cook a delicious meal including utensils, pots, pans, coffee maker, and blender. Ready for that Georgia breeze? Step out onto the loft’s balcony overlooking the small courtyard below. Tucked on the side of the building, you are shielded from the noise of Bay Street yet inspired by watching the hustle and bustle of people come and go from the Starbucks below. Just off the living space, find a half bathroom for convenience. 
+Perfect for the short overnight or for a longer stay, the Loft features two immaculate ensuite bedrooms boasting their own private bathrooms, walk-in closets, smart TVs with cable, and comfortable king mattresses with plush pillows and crisp linens. The master suite provides a luxurious bathroom with a stand-up shower, separate soaking tub, and double vanity, while the second suite provides a single vanity and stand-up shower, both featuring beautiful tile work and fresh updates.
+Working remotely during your stay? With plenty of countertop and table space to set up your home office, the Loft provides you with reliable 150 Mbps WIFI, ready for all your video conference and multi-tasking needs. The loft is also perfect for your longer stay, with an in-unit washer and dryer, iron, and ironing board, along with providing dressers and closet space for all your needs.
+Bringing your own vehicle? We provide one parking space in the Whitaker Garage near the loft.
+
+Guest access
+You may access the entire condo unit and our garage parking space 24/7. We ask that you please be courteous to your neighbors and keep noise levels to a minimum from the hours of 10pm - 8am. We live in a very residential condo building so we just ask that you help us maintain the relationships we have with our friendly neighbors. Directly below the condo on the ground floor is a Starbucks and one of our favorite local restaurants, Treylor Park's Double Wide Diner!
+
+Other things to note
+Absolutely no parties. 
+Only the number of guests listed on the reservation is permitted at the property. 
+No illicit activities, peddling, or soliciting are allowed on the property. 
+Do not smoke on the property or near the home. 
+Must be 21 years of age to drink alcohol. 
+Report all damaged property to the property owner immediately. 
+Treat the condominium with respect, as if it was your own property. 
+"Quiet Hours" are 10pm - 8am. 
+If you use our nice linens to wipe off makeup or excessive dirt, you will be subject to a fee of $25 per occurrence.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Elevator
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Exterior security cameras on property
+Show all 40 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 171 reviews.
+4.98
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+64
+Location
+128
+Comfort
+45
+Cleanliness
+55
+Nearby
+42
+Parking
+32
+Hospitality
+59
+Indoor spaces
+43
+Decor
+31
+Sleep quality
+24
+Hind
+Kuwait City, Kuwait
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed over a week
+I had a wonderful time at Brandon and Chase’s place. It was beautiful, clean, very comfortable and the location could not have been better.   I stayed there for almost 2 weeks. It was the perfect home base to explore Savannah from. We could walk out to the riverside or to tons of shops and restaurants in the Historic District.  It was also really great to have a secure parking space in the garage next door.  
+The apartment was very spacious and had everything we needed and it was great to have a/c and fans during a heat wave!  Brandon and Chase were always quick to respond whenever I texted and very helpful with any issues. 
+I would 100% stay here again and again!
+Show more
+Ryan
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This is our favorite Airbnb in Savannah - we hope to come back again soon!
+William
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed about a week
+Amazing location.   Right between River St and the market
+Lorraine
+Edgewater, Maryland
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Brandon and Chase were excellent hosts. I cannot say enough about how beautiful this condo was. The location was walkable to everything and in a safe private area. We fell in love with Savannah and when we return we would definitely love to stay here again. Lorraine and Cindy
+Show more
+April
+Palm Beach Gardens, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This place is gorgeous and the pictures don’t even do it justice. It was the perfect place for a girl’s trip and one of my favorite parts of Savannah!
+Cheryl
+Martinez, California
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Perfect place for our 4 night stay in Savannah. Comfortable and spacious - we took advantage of the washer/dryer and enjoyed sitting on the balcony. No need for a car - we walked everywhere. We will be back!
+Show more
+Show all 171 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Although the loft will be hard to leave, the Loft on Bay is perfectly situated for you to find your Savannah adventure. Known for its colonial-inspired architecture and history and providing the southern hospitality you are looking for; Savannah will not disappoint.
+Just below the loft find Starbucks along with one of our favorite restaurants, Treylor Park Double Wide Diner featuring incredible plates, biscuits, skillets, tacos, sandwiches, and more.
+Ready to start exploring? You are just minutes from River Street featuring amazing eats like Bernie’s Oyster House, The Cotton Exchange Tavern, and Vic’s on the River. Grab some delicious seafood at the Chart House or enjoy some modern flare at Myrtle & Rose. With the City Hall Ferry landing located on River Street, you can easily jump on one of Savannah’s famous ferries and explore the city from the water. There are plenty of rooftop bars just a stone's throw away, like Rocks on the Roof and Top Deck.
+Looking to grab the perfect pint? Try out Moon River Brewing Company, The Warehouse Bar & Grille, or New Realm Brewing & distilling Co. All short walks from the Loft.
+Spend some time breathing in the fresh Georgia air by relaxing in one of Savannah’s many squares. Ellis Square is just steps from your door and the famous Forsyth Park is just 1.1 miles away. Your trip to Savannah wouldn’t be complete without taking one of the many biking or trolly tours. Just a 12-minute walk to Savannah Bike Tours or head the other way on a 12-minute walk to Old Town Trolley Tours of Savannah. Either way, you will enjoy exploring the historic city of Savannah from your Trolley seat or bicycle seat.
+Looking to simply get around with ease? The Dot bus line is a free service that will get you all around downtown Savannah. Even better, the Bryan & Bull Bus stop is just minutes from your door.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Condo vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

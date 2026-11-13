@@ -1,0 +1,443 @@
+URL: https://www.airbnb.com/rooms/1732100463519474439
+Title: Charming 1870s Carriage House in Historic Downtown
+Latitude: 32.0703
+Longitude: -81.088
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Evolve
+Host ID: 456477857
+Host profile ID: 1468139073718329889
+Host URL: https://www.airbnb.com/users/profile/1468139073718329889
+Bedrooms: 2
+Occupancy (maximum guests): 5
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Historic District | 2 Dogs Welcome w/ Fee | Walk to Forsyth Park & River St
+
+Pocket your car keys. Simply walk to the sights and sounds of Savannah's coveted historic downtown when you stay in this unique gem. Showcasing 1870 craftsman-style carpentry, a pseudoloft design and an open floorplan that seamlessly blends Southern Charm with 21st century comfort, you'll reconnect and relax in style. Enjoy the rarity of a driveway and privacy of no shared walls. Add in truly comfy beds! Score A+.
+
+The space
+SVR-01935
+
+
+
+CARRIAGE HOUSE HIGHLIGHTS
+
+- High ceilings and multiple 5-foot windows
+
+- Craftsman-style carpentry throughout
+
+- Blackout curtains/blinds in bedrooms
+
+- Private courtyard
+
+- 2 flat-screen TVs, board games
+
+- Washer & dryer
+
+- Oversized chair w/ twin pullout in upstairs bedroom
+
+- Gated courtyard with chairs
+
+
+
+KITCHEN
+
+- Dishwasher, refrigerator/freezer, stove/oven
+
+- Drip coffee pot (starter coffee provided)
+
+- Microwave, toaster, blender
+
+- Cooking basics, dishware & flatware
+
+- Dining table, bench seating/storage
+
+
+
+ACCESSIBILITY
+
+- 2-story carriage house
+
+- Single step entry from rear courtyard, portable ramp for wheelchairs available upon request
+
+- Bedroom & full bathroom on 1st floor
+
+- Portable ramp available for step-free access (must notify Guest Contact 5-7 days prior to arrival)
+
+
+
+PARKING
+
+- Shared driveway (2 vehicles)
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking or vaping
+
+- Dog friendly w/ $100 fee (+ fees & taxes, 2 dogs max)
+
+- No events, parties, or large gatherings
+
+- Additional fees and taxes may apply
+
+- Photo ID may be required upon check-in
+
+- Portable ramp available for step-free access (must notify Guest Contact 5-7 days prior to arrival)
+
+
+
+ADDITIONAL INFORMATION
+
+- Portable ramp avail for step-free access — notify Guest Contact if needed prior to arrival
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Oven
+Coffee maker
+Toaster
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Hair dryer
+Hair dryer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Charming 1870s Carriage House in Historic Downtown
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+5 guests · 2 bedrooms · 3 beds · 2 baths
+No reviews yet
+No reviews yet
+Hosted by Evolve
+4 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Whitefield Square and Troup Square, with Lafayette Square about a 5-min walk away
+Historic carriage house with courtyard
+An 1870 carriage house with craftsman carpentry, high ceilings, and a gated private courtyard
+Free driveway parking
+Free driveway parking for two vehicles, a convenience in the Historic District
+Historic District | 2 Dogs Welcome w/ Fee | Walk to Forsyth Park & River St
+
+Pocket your car keys. Simply walk to the sights and sounds of Savannah's coveted historic downtown when you stay in this unique gem. Showcasing 1870 craftsman-style carpentry, a pseudoloft design and an open floorplan that seamlessly blends Southern Charm with 21st century comfort, you'll reconnect and relax in style. Enjoy the rarity of a driveway and privacy of no shared walls. Add in truly comfy beds! Score A+.
+
+The space
+SVR-01935
+
+
+
+CARRIAGE HOUSE HIGHLIGHTS
+
+- High ceilings and multiple 5-foot windows
+
+- Craftsman-style carpentry throughout
+
+- Blackout curtains/blinds in bedrooms
+
+- Private courtyard
+
+- 2 flat-screen TVs, board games
+
+- Washer & dryer
+
+- Oversized chair w/ twin pullout in upstairs bedroom
+
+- Gated courtyard with chairs
+
+
+
+KITCHEN
+
+- Dishwasher, refrigerator/freezer, stove/oven
+
+- Drip coffee pot (starter coffee provided)
+
+- Microwave, toaster, blender
+
+- Cooking basics, dishware & flatware
+
+- Dining table, bench seating/storage
+
+
+
+ACCESSIBILITY
+
+- 2-story carriage house
+
+- Single step entry from rear courtyard, portable ramp for wheelchairs available upon request
+
+- Bedroom & full bathroom on 1st floor
+
+- Portable ramp available for step-free access (must notify Guest Contact 5-7 days prior to arrival)
+
+
+
+PARKING
+
+- Shared driveway (2 vehicles)
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking or vaping
+
+- Dog friendly w/ $100 fee (+ fees & taxes, 2 dogs max)
+
+- No events, parties, or large gatherings
+
+- Additional fees and taxes may apply
+
+- Photo ID may be required upon check-in
+
+- Portable ramp available for step-free access (must notify Guest Contact 5-7 days prior to arrival)
+
+
+
+ADDITIONAL INFORMATION
+
+- Portable ramp avail for step-free access — notify Guest Contact if needed prior to arrival
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV
+Washer
+Dryer
+Central air conditioning
+Bathtub
+Show all 37 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+No reviews (yet)
+This host has 34,819 reviews for other places to stay. Show other reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+- Dog park available in nearby Beasely Park
+- Walkable to all squares, shops, restaurants, museums, river, tours & sightseeing spots
+- Short drive to Tybee Beach (18 miles)
+- Quiet, residential section of nation's 13th colony
+Show more
+Meet your host
+Evolve
+Host
+34,819 reviews
+10,000
++
+Reviews
+4.72 out of 5 average rating
+4.72
+Rating
+4 years of hosting
+4
+Years hosting
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 10:00 AM
+5 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

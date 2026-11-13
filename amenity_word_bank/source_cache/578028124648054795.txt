@@ -1,0 +1,454 @@
+URL: https://www.airbnb.com/rooms/578028124648054795
+Title: Huntingdon Pink House from Savannah Luxury Rentals
+Latitude: 32.0681
+Longitude: -81.0905
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Mary
+Host ID: 10371587
+Host profile ID: 1462838847845697919
+Host URL: https://www.airbnb.com/users/profile/1462838847845697919
+Bedrooms: 4
+Occupancy (maximum guests): 7
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 4
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 double bed
+
+=== FULL DESCRIPTION ===
+Brand New Listing! SVR-02506
+
+Welcome to historic downtown Savannah, and to the Huntingdon Pink House! 
+
+Highlights include a gourmet kitchen with a massive island, 4 finely furnished bedrooms, 3 full baths, beautiful custom art, and 2 desk areas for remote working.
+
+The space
+KITCHEN & DINING
+Prepare dishes in the gourmet kitchen, equipped with granite countertops, a deep sink, and a full suite of stainless-steel appliances. Gather for meals around the dining table for eight. Enjoy cocktails in the evenings around the huge kitchen island. 
+
+BEDS & BATHS
+This two-story home sleeps 8 guests between four bedrooms. 
+Downstairs you’ll find a sun-drenched bedroom furnished with an upholstered full-sized daybed with an antique wardrobe, modern-chic armchairs, plantation shutters, 10-foot pocket doors and access to the full bath downstairs. 
+Upstairs, you’ll find an additional three bedrooms and two full baths. Find supreme comfort in the primary bedroom, complete with a king bed, sitting chair, a 55-inch smart TV, and an en-suite bathroom with a custom antique vanity.
+The third bedroom has a queen bed with tasteful art and furnishings.
+Finally, a second primary bedroom features huge bay windows, a 55-inch smart TV, desk area and direct access to the guest bathroom. 
+The guest bathroom comes with a tub/shower combination and floor to ceiling window.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bedroom and laundry
+Washer
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Parking and facilities
+Free parking on premises
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Hair dryer
+Hair dryer
+Unavailable: Essentials
+Essentials
+Unavailable: Shampoo
+Shampoo
+Unavailable: Private entrance
+Private entrance
+Unavailable: Heating
+Heating
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Huntingdon Pink House from Savannah Luxury Rentals
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+7 guests · 4 bedrooms · 4 beds · 3 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+23 reviews
+23
+Reviews
+Hosted by Mary
+Superhost · 13 years hosting
+Listing highlights
+In Savannah's historic district
+Steps from Whitefield Square, with Forsyth Park about a 10-min walk away
+Kitchen built around a big island
+A gourmet kitchen with granite countertops, a big island, and a dining table for eight
+Historic charm with modern comforts
+Guests highlight the charm and character, calling it a beautiful piece of Savannah
+Brand New Listing! SVR-02506
+
+Welcome to historic downtown Savannah, and to the Huntingdon Pink House! 
+
+Highlights include a gourmet kitchen with a massive island, 4 finely furnished bedrooms, 3 full baths, beautiful custom art, and 2 desk areas for remote working.
+
+The space
+KITCHEN & DINING
+Prepare dishes in the gourmet kitchen, equipped with granite countertops, a deep sink, and a full suite of stainless-steel appliances. Gather for meals around the dining table for eight. Enjoy cocktails in the evenings around the huge kitchen island. 
+
+BEDS & BATHS
+This two-story home sleeps 8 guests between four bedrooms. 
+Downstairs you’ll find a sun-drenched bedroom furnished with an upholstered full-sized daybed with an antique wardrobe, modern-chic armchairs, plantation shutters, 10-foot pocket doors and access to the full bath downstairs. 
+Upstairs, you’ll find an additional three bedrooms and two full baths. Find supreme comfort in the primary bedroom, complete with a king bed, sitting chair, a 55-inch smart TV, and an en-suite bathroom with a custom antique vanity.
+The third bedroom has a queen bed with tasteful art and furnishings.
+Finally, a second primary bedroom features huge bay windows, a 55-inch smart TV, desk area and direct access to the guest bathroom. 
+The guest bathroom comes with a tub/shower combination and floor to ceiling window.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 4 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 double bed
+
+What this place offers
+Kitchen
+Wifi
+Free parking on premises
+TV
+Washer
+Air conditioning
+Show all 11 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 23 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+8
+Location
+11
+Comfort
+8
+Parking
+4
+Sleep quality
+5
+Parks
+2
+Hospitality
+6
+Cleanliness
+5
+Kitchen
+3
+Amenities
+3
+Wendy
+Lake Worth Beach, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with kids
+We absolutely loved our stay! The house was so charming, comfortable, and full of character. It truly felt like we were staying in a beautiful piece of Savannah rather than just a rental. Every detail made the home feel special and welcoming.
+Mary was a great host—so kind, helpful, and thoughtful. She gave us some great local recommendations that made our time in Savannah even more enjoyable.
+We would absolutely stay here again and highly recommend this beautiful home to anyone looking for a cozy, charming Savannah experience!
+Show more
+Erika And Eamon
+Havertown, Pennsylvania
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Great location. It was incredibly hot during our visit but we were able to walk most places we wanted to go! House is on a very pretty street. Very nice kitchen. Thankful for the driveway also.
+Show more
+Chris
+Bend, Oregon
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Group trip
+The location was great. It was super walkable, <1 mile walk to downtown. The home was lovely. Having a washer/dryer was super convenient. The kitchen was well-stocked with everything you might need. The beds were all comfortable and everyone slept great! Would definitely stay again!
+Show more
+Mira
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Large house, great location, everything was available!
+Hillary
+Warren, New Jersey
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Group trip
+We had a great time!   Beautiful and extremely clean home.  Mary quickly responded to any questions we had and would definitely stay again.  The size of the home made it great as everyone could come together or have space to themselves   The parking was a little confusing to us, but from no fault of Mary.  Once we understood where to turn to get to the back of the house it was great.  We are from an area with no alleys. Otherwise it would have been a solid 5 stars accross the board.   Thank you Mary for a wonderful stay
+Show more
+Karen
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Stayed a few nights
+Lovely, spacious home walking distance to North Historic district.  Super comfortable beds.
+Show all 23 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Bounce Luggage Storage - Victorian District
+Storage
+Screamin' Mimi's
+Food and drink
+Kroger
+Grocery store
+Jones Street - Prettiest Street in Savannah
+Tourist attraction
+CVS
+Pharmacy
+B. Matthew's Eatery
+Restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Show more
+Meet your host
+Mary
+Superhost
+12,060 reviews
+10,000
++
+Reviews
+4.83 out of 5 average rating
+4.83
+Rating
+13 years of hosting
+13
+Years hosting
+My work: Anderson VIP Concierge LLC
+Lives in Savannah, Georgia
+SavannahLuxuryRentals is a one stop shop for vacation rentals, tennis lessons for hire whenever possible and trolley tour tickets ;) We have budget friendly basic rentals as well as some of the most gorgeous luxury homes available. Please ask if you need us to help you select the best fit for you! Your contacts at the company will be Mary or Jennifer
+Mary is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Skylynn
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 10:00 PM
+Checkout before 10:00 AM
+7 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Mansion vacation rentals in United States
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

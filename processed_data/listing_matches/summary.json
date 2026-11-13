@@ -1,0 +1,17 @@
+{
+  "checked_utc": "2026-10-28T04:37:17.223735+00:00",
+  "folders": 4561,
+  "status_counts": {
+    "no_source_text_permit": 3443,
+    "source_supported_in_study": 758,
+    "missing_details": 189,
+    "source_supported_outside_fixed_study": 90,
+    "unknown_source_permit_requires_review": 68,
+    "source_permit_location_conflict": 8,
+    "multiple_source_parcels_requires_review": 5
+  },
+  "renamed": 848,
+  "old_eligible_without_source_support": 169,
+  "source_supported_in_study": 758,
+  "policy": "Source-text SVR permits required. Folder names are never evidence. Location distances beyond max(privacy radius,500m)+250m quarantine the join. Display coordinates never assign an address."
+}

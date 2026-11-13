@@ -1,0 +1,479 @@
+URL: https://www.airbnb.com/rooms/1498749082025797825
+Title: 1854 Townhome on Taylor Square
+Latitude: 32.0711
+Longitude: -81.0919
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah
+Host ID: 242163765
+Host profile ID: 1469286021794373021
+Host URL: https://www.airbnb.com/users/profile/1469286021794373021
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Circa 1854, this stunning Savannah row home blends historic charm with modern luxury. Spacious and serene, it features 3 bedrooms and 3.5 baths on three levels. A private ground floor suite offers its own living room, kitchenette, and bath. The parlor level boasts elegant living, dining, and a chef’s kitchen opening to a balcony and courtyard. Upstairs, 2 BRs with gorgeous views, 2 full bathrooms, ample storage, and laundry room. Historic beauty truly meets refined comfort.
+
+SVR-03156 and 01793
+
+The space
+Experience Savannah at its finest in this extraordinary 1854 row home, where historic architecture meets modern luxury. Thoughtfully renovated with soaring windows, airy design, and high-end finishes throughout, this 3-bedroom, 3.5-bath residence is as spacious as it is stunning.
+
+The garden level suite offers a private retreat with its own living room, kitchenette, king bedroom, full bathroom, and laundry, plus direct courtyard access. On the parlor level, you’ll find gracious entertaining spaces: a sunlit living room, dining room, and a chef’s kitchen with a gas range and premium appliances. French doors open to a balcony overlooking the home’s unreal courtyard — a true urban sanctuary.
+
+The top floor features two bedrooms and two full bathrooms. The primary suite boasts a king bed, en-suite spa bathroom, and private balcony with breathtaking views of the cathedral. The second bedroom offers a versatile queen Murphy bed, doubling as a quiet home office if needed. A second laundry room is also conveniently located upstairs.
+
+Guests enjoy fast WiFi, flat screen TVs with cable and streaming services, and tranquil views throughout the home.
+
+Nestled on Taylor Square in the heart of Savannah, this residence is steps from the iconic Clary’s Café and directly across from the historic Massie Schoolhouse. Whether sipping coffee in the courtyard, entertaining in the parlor, or wandering Savannah’s charming streets, this quintessential row home is the perfect blend of past and present.
+
+Guest access
+Guests have full access to the entire home, including both laundry areas, the chef’s kitchen, balconies, and the courtyard. Please note -- the courtyard can also be accessed by guests staying in the carriage house, across the courtyard, so it may be shared with up to two people at times. The garden-level suite is fully integrated into the property, making it ideal for multi-family or group stays.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV with standard cable
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Central air conditioning
+Central heating
+Home safety
+Exterior security cameras on property
+There are outdoor security cameras at the front door and back door of the home.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Mini fridge
+Freezer
+Stove
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free street parking
+Paid parking off premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+1854 Townhome on Taylor Square
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 3.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+18 reviews
+18
+Reviews
+Hosted by Sarah
+Superhost · 8 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In historic downtown on Taylor Square
+Steps from Lafayette Square and Calhoun Square, with Forsyth Park about a 5-min walk away
+Historic row home with courtyard
+An 1854 row home on three levels with a chef's kitchen, courtyard, and balcony overlooking it
+Spacious, comfortable, and well-located
+Guests highlight how spacious and comfortable the home is, with many calling the location unbeatable
+Circa 1854, this stunning Savannah row home blends historic charm with modern luxury. Spacious and serene, it features 3 bedrooms and 3.5 baths on three levels. A private ground floor suite offers its own living room, kitchenette, and bath. The parlor level boasts elegant living, dining, and a chef’s kitchen opening to a balcony and courtyard. Upstairs, 2 BRs with gorgeous views, 2 full bathrooms, ample storage, and laundry room. Historic beauty truly meets refined comfort.
+
+SVR-03156 and 01793
+
+The space
+Experience Savannah at its finest in this extraordinary 1854 row home, where historic architecture meets modern luxury. Thoughtfully renovated with soaring windows, airy design, and high-end finishes throughout, this 3-bedroom, 3.5-bath residence is as spacious as it is stunning.
+
+The garden level suite offers a private retreat with its own living room, kitchenette, king bedroom, full bathroom, and laundry, plus direct courtyard access. On the parlor level, you’ll find gracious entertaining spaces: a sunlit living room, dining room, and a chef’s kitchen with a gas range and premium appliances. French doors open to a balcony overlooking the home’s unreal courtyard — a true urban sanctuary.
+
+The top floor features two bedrooms and two full bathrooms. The primary suite boasts a king bed, en-suite spa bathroom, and private balcony with breathtaking views of the cathedral. The second bedroom offers a versatile queen Murphy bed, doubling as a quiet home office if needed. A second laundry room is also conveniently located upstairs.
+
+Guests enjoy fast WiFi, flat screen TVs with cable and streaming services, and tranquil views throughout the home.
+
+Nestled on Taylor Square in the heart of Savannah, this residence is steps from the iconic Clary’s Café and directly across from the historic Massie Schoolhouse. Whether sipping coffee in the courtyard, entertaining in the parlor, or wandering Savannah’s charming streets, this quintessential row home is the perfect blend of past and present.
+
+Guest access
+Guests have full access to the entire home, including both laundry areas, the chef’s kitchen, balconies, and the courtyard. Please note -- the courtyard can also be accessed by guests staying in the carriage house, across the courtyard, so it may be shared with up to two people at times. The garden-level suite is fully integrated into the property, making it ideal for multi-family or group stays.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV with standard cable
+Washer
+Dryer
+Central air conditioning
+Patio or balcony
+Exterior security cameras on property
+Show all 47 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 18 reviews.
+5.0
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Location
+14
+Layout
+3
+Walkability
+4
+Comfort
+6
+Cleanliness
+6
+Sleep quality
+4
+Parking
+2
+Quiet
+3
+Indoor spaces
+4
+Decor
+2
+Katelyn
+Saint Leon, Indiana
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Perfect place to stay! Very clean and perfect location!
+Everaldo
+Seattle, Washington
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Sarah's place was great and she was super friendly and responsive. The location couldn't have been better and the home itself is super comfortable and spacious. This was an excellent hub for our group while visiting Savannah.
+Show more
+Casey
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Sarah was a wonderful host. The home was beautiful. Sarah was very responsive to any and all questions and sent clear instructions. Would highly recommend her place to stay!
+Maria
+Purcellville, Virginia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Great location and a seamless stay! The home was completely accurate to the listing description: clean, comfortable, and in a fantastic, quiet neighborhood. Being able to walk to all the main sights, shops, and restaurants made exploring Savannah effortless. Highly recommend staying here!
+Show more
+Stacey
+Pendleton, Oregon
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+The location of this home is unbeatable!  It is a few steps to a trolley stop and within walking distance to so many restaurants, museums, shops and the amazingly beautiful Jones Street. The layout of the home was so comfortable, allowing everyone to have their own space. We would definitely stay here again!
+Show more
+Andrea
+Fishers, Indiana
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+The layout was perfect for two couples and offered lots of privacy. Enjoyed being central to all Savannah has to offer.  Parking was easy and the location on a historic square made it a special place. Loved the modern vibe!
+Show more
+Show all 18 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Situated in the heart of historic, downtown Savannah on Taylor Square, nestled amongst gorgeous residential architecture and live oaks dripping with Spanish moss...we feel this is the perfect home base for your Savannah adventures!
+Show more
+Meet your host
+Sarah
+Superhost
+929 reviews
+929
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+8 years of hosting
+8
+Years hosting
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental in the Historic Downtown District!
+Sarah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

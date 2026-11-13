@@ -1,0 +1,470 @@
+URL: https://www.airbnb.com/rooms/48540229
+Title: Serene & Cozy Carriage House w Parking by Forsyth
+Latitude: 32.0685
+Longitude: -81.0991
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah
+Host ID: 77350668
+Host profile ID: 1466946903860901609
+Host URL: https://www.airbnb.com/users/profile/1466946903860901609
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+This two bedroom condo is nestled on a quiet street just two blocks from Forsyth Park!  You will feel like you are at home in this ground floor unit with plush rugs on polished cement floors, new furniture, cable package and high speed wifi.  It is great for two couples, a family with children, or even solo travelers who like to stretch out.  Private off-street parking, beautiful neighborhood, comfy beds, laundry, and so much more - the perfect home base for your Savannah explorations!
+
+SVR-2279
+
+The space
+This newly furnished and fully equipped carriage house has everything you need for a quick trip or extended stay in Savannah. Two comfy king beds, the full bath, and cozy kitchen and living area will make you feel right at home. Whether you want to hit the town or relax and enjoy the full cable line up and streaming apps, it's the perfect spot to start and end your Savannah days!
+
+Guest access
+The entire first floor carriage house with kitchen, bedrooms, bath, laundry, and living room is all yours!
+
+Other things to note
+Don't be afraid to reach out with any questions or issues! We always try to help our guests with anything that comes up, big or small.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+55 inch HDTV with Roku, premium cable, standard cable
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 394 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises – 1 space
+Free street parking
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Serene & Cozy Carriage House w Parking by Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+397 reviews
+397
+Reviews
+Hosted by Sarah
+Superhost · 10 years hosting
+Listing highlights
+Steps from Forsyth Park
+About a 5-min walk to Forsyth Park, with restaurants and historic squares within easy reach
+Free off-street parking included
+A dedicated off-street parking spot right at the entrance, so you can park and walk everywhere
+Beds guests love sleeping in
+Guests highlight the comfortable beds, with many saying they had some of the best sleep of their trip
+This two bedroom condo is nestled on a quiet street just two blocks from Forsyth Park!  You will feel like you are at home in this ground floor unit with plush rugs on polished cement floors, new furniture, cable package and high speed wifi.  It is great for two couples, a family with children, or even solo travelers who like to stretch out.  Private off-street parking, beautiful neighborhood, comfy beds, laundry, and so much more - the perfect home base for your Savannah explorations!
+
+SVR-2279
+
+The space
+This newly furnished and fully equipped carriage house has everything you need for a quick trip or extended stay in Savannah. Two comfy king beds, the full bath, and cozy kitchen and living area will make you feel right at home. Whether you want to hit the town or relax and enjoy the full cable line up and streaming apps, it's the perfect spot to start and end your Savannah days!
+
+Guest access
+The entire first floor carriage house with kitchen, bedrooms, bath, laundry, and living room is all yours!
+
+Other things to note
+Don't be afraid to reach out with any questions or issues! We always try to help our guests with anything that comes up, big or small.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Kitchen
+Fast wifi – 394 Mbps
+Dedicated workspace
+Free parking on premises – 1 space
+55 inch HDTV with Roku, premium cable, standard cable
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Pack ’n play/Travel crib - available upon request
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 397 reviews.
+4.93
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+139
+Parking
+84
+Location
+240
+Comfort
+129
+Cleanliness
+147
+Parks
+50
+Sleep quality
+92
+Nearby
+55
+Hospitality
+149
+River
+7
+Amy
+Austin, Texas
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Lovely place and exactly as described. Location cannot be beat! Love the whole little set of row houses, the area around it is beautiful, and Forsyth Park is practically viewable from the front door. Gorgeous! The parking spot right by the door and the ground floor entrance really made our stay enjoyable. Kitchen was very well appointed and super clean and just the right size. The bathroom could use an upgrade but it was workable for four ladies. Beds were comfy and curtains made the room nice and dark. An added bonus was the huge closet in one bedroom that served as a luggage storage place for us. We would definitely stay here again.
+Show more
+Gretchen
+Lisbon, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This is a gem in the historic district. It’s close to SCAD which was the reason for our visit. Easily walkable to great restaurants. The home was super clean with very comfortable beds.
+Show more
+Allison
+Frisco, Texas
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This place was perfect for my daughter and me as we moved her back into college. It was very close to Forsyth Park, which is my favorite place to go in Savannah. It’s in a great location because you can also hit several restaurants and many of the squares within walking distance. 
+It was well appointed with thoughtful snacks and even a bottle of wine. 
+The beds were comfortable, and the place was clean. 
+I appreciated the on-site free parking and her communication. 
+I would definitely stay here again!
+Show more
+Stephany
+Seabrook Island, South Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed one night
+Lovely condo.  Great location We parked the car and walked everywhere. 
+Very comfortable.  Would stay there again!
+Jessica
+Gray, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Great location, very responsive host, and very well stocked (ie laundry detergent, coffee, tea, water pitcher, toiletries, etc)
+Coleshia
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Sarah was very helpful with the food areas that didn’t disappoint. She communicated very well. Love the space. Can walk around and sight see if you’ll like. Area is quiet and peaceful love the stay I’ll be booking again.
+Show more
+Show all 397 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+This is probably our favorite neighborhood in the city! The house is off a quiet street split by a treeway full of Spanish-moss covered oaks. Stroll just two blocks and enter the middle of gorgeous Forsyth Park, the city's crown jewel! Take in the beautiful architecture and shaded streets surrounding this condo that straddles Savannah's Victorian and Historic Districts. Collin's in Forsyth, Crystal Beer Parlor, Black Rabbit, 700 Drayton, Local 11Ten and other incredible bars and restaurants are right outside your door.
+
+If you choose to stay with us and need lots of recommendations...don't worry! We are happy to provide personalized recommendations based on your interests and preferences...just ask us! We are passionate about our little Southern city and are happy to provide lots of awesome spots to check out! We also provide our guests a full welcome packet, full of our personal favorites, from quiet local spots to must-sees attractions! And we live right around the corner, so we are ALWAYS here if you need us!
+Show more
+Meet your host
+Sarah
+Superhost
+5,110 reviews
+5110
+Reviews
+4.95 out of 5 average rating
+4.95
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental on Forsyth Park!
+Sarah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for infants (under 2 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

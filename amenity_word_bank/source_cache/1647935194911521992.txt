@@ -1,0 +1,426 @@
+URL: https://www.airbnb.com/rooms/1647935194911521992
+Title: Lower Carriage House at Wayne Mansion Estate
+Latitude: 32.0681
+Longitude: -81.0934
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+The Lower Carriage House is a beautifully restored brick carriage house built in 1871, located just one block from Forsyth Park within the historic Wayne Mansion Estate. This private ground‑floor residence blends classic charm with modern comfort.
+
+The space
+About the Space  
+Enter directly into your private ground‑floor residence. Inside, warm natural light and original hardwood floors create a welcoming, peaceful atmosphere. The layout is ideal for couples, friends, or small families who appreciate privacy and thoughtful design.
+
+Bedrooms & Bathrooms  
+- Bedroom 1 – Queen bed  
+- Bedroom 2 – Queen bed 
+- One full bathroom (shower only, no tub), conveniently located between the bedrooms  
+- One additional half bath for extra convenience
+
+Kitchen, Living & Laundry  
+- Fully equipped full kitchen with range, refrigerator, dishwasher, microwave, and essentials  
+- Comfortable living area with large smart TV  
+- Dining area suitable for meals or remote work  
+- In‑unit washer and dryer for convenient laundry access
+
+Location  
+Located one block from Forsyth Park, the Lower Carriage House offers effortless walkability to Savannah’s best cafés, restaurants, boutiques, and historic sites. Guests enjoy a short walk to the largest grocery store in downtown Savannah, making it easy to stock up during longer stays. The home is also near a stop for the north–south fare‑free DOT shuttle, providing quick, car‑free access to the rest of the Historic District. In addition, you’re within easy walking distance of several of Savannah’s beautiful historic squares, perfect for morning strolls or exploring the city’s charm at your own pace.
+
+Please note that there is no on-site parking included with this listing.  Free street parking is available in the immediate area.
+
+SVR-02398
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Family
+Pack ’n play/Travel crib
+Children’s dinnerware
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free street parking
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Lower Carriage House at Wayne Mansion Estate
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1.5 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+4 reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+In the Historic District near Forsyth Park
+Steps from Forsyth Park, with Savannah's historic squares and cafés within easy walking distance
+Restored carriage house with period detail
+An 1871 brick carriage house with original hardwood floors, a full kitchen, and in-unit laundry
+Spotless space, attentive host
+Guests highlight how clean and comfortable the space is, with Chaz praised for quick, friendly responses
+The Lower Carriage House is a beautifully restored brick carriage house built in 1871, located just one block from Forsyth Park within the historic Wayne Mansion Estate. This private ground‑floor residence blends classic charm with modern comfort.
+
+The space
+About the Space  
+Enter directly into your private ground‑floor residence. Inside, warm natural light and original hardwood floors create a welcoming, peaceful atmosphere. The layout is ideal for couples, friends, or small families who appreciate privacy and thoughtful design.
+
+Bedrooms & Bathrooms  
+- Bedroom 1 – Queen bed  
+- Bedroom 2 – Queen bed 
+- One full bathroom (shower only, no tub), conveniently located between the bedrooms  
+- One additional half bath for extra convenience
+
+Kitchen, Living & Laundry  
+- Fully equipped full kitchen with range, refrigerator, dishwasher, microwave, and essentials  
+- Comfortable living area with large smart TV  
+- Dining area suitable for meals or remote work  
+- In‑unit washer and dryer for convenient laundry access
+
+Location  
+Located one block from Forsyth Park, the Lower Carriage House offers effortless walkability to Savannah’s best cafés, restaurants, boutiques, and historic sites. Guests enjoy a short walk to the largest grocery store in downtown Savannah, making it easy to stock up during longer stays. The home is also near a stop for the north–south fare‑free DOT shuttle, providing quick, car‑free access to the rest of the Historic District. In addition, you’re within easy walking distance of several of Savannah’s beautiful historic squares, perfect for morning strolls or exploring the city’s charm at your own pace.
+
+Please note that there is no on-site parking included with this listing.  Free street parking is available in the immediate area.
+
+SVR-02398
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Pack ’n play/Travel crib
+Hair dryer
+Refrigerator
+Show all 43 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+5.0 out of 5 stars from 4 reviews
+5.0 · 4 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Comfort
+3
+Cleanliness
+2
+Location
+2
+Hospitality
+2
+Deborah
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Amazing! Wonderful! Homeway from home! Already booking my future reservations!
+Sagarika
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+Extremely convenient location, very clean and comfortable is how I'd describe this place. We were provided with an excess of linens - something I've never experienced at all the air bnbs I've stayed at. Everything about it is very good, i would stay here again and would not hesitate to recommend it anyone who is looking for a place which is close to everything in Savannah. 
+The only request I have for the host is to provide more bowls - there are more than enough plates, cutlery, pots, pans and glasses.but just some more bowls for cereal (for example) and other stuff would be nice.
+Show more
+Sale
+New Albany, Mississippi
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Our stay in Savannah was very, very relaxing and pleasant. Chaz has done an exceptional job in having his place comfortable, peaceful and pleasant. Visiting Savannah was absolutely wonderful. The cream on top was staying at Chaz's location. We felt very much at home. The location is excellent and we could pretty much walk to every location that we wanted to go to while in Savannah. Chaz was extremely responsive and was available every time we contacted him. Great place to stay.
+Show more
+Deborah
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+What an amazing experience! 1st time with AirBnB and couldn’t be happier! 
+Chaz was very attentive and helpful! Any time I had a question the response was friendly and timely!! What an amazing host! Clean, beautifully put together, and the beds were so comfortable! Best nights sleep!! And the couch! So comfortable. 
+I cannot wait to book again!!
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Chaz
+Superhost
+3,100 reviews
+3100
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

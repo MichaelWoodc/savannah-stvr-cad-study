@@ -1,0 +1,520 @@
+URL: https://www.airbnb.com/rooms/16453922
+Title: The Historic Rose Town Home
+Latitude: 32.0657
+Longitude: -81.0946
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Joyce
+Host ID: 32193036
+Host profile ID: 1465472906759756063
+Host URL: https://www.airbnb.com/users/profile/1465472906759756063
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+The Miss Rose Historic Town Home is a warm, private home perfect for couples, solo adventurers, small families, and the family pup. 
+
+The Townhome includes a living & dining area downstairs, a master bedroom suite with a queen-sized bed, and a bathroom upstairs: TV,  cable & free WiFi. A full kitchen with a coffee station and microwave.
+
+This listing is awarded ‘Super Host’ status in the Historic District of Savannah.
+
+GA SVR -01477
+
+The space
+The historic Chelsea is in the beautiful Victorian neighborhood of Savannah’s historic district. Perfect for a family of two adults and up to two children who are old enough to be comfortable in a house with stairs. 
+
+Forsyth Park is located just three blocks from your Town Home. It is a beautiful 30-acre park that is home to many of Savannah’s outdoor festivals and offers something for the whole family. The city’s most famous fountain crowns the Park's northern edge and serves as an inspiring backdrop for contemplation, selfies, marriage proposals, and weddings. Sometimes the stroll to the fountain is crowded with our seasonal farmer’s market or dotted with local artisans working to the sounds of a lively trumpet. On quieter days, you may see locals out with their dogs, groups playing frisbee or having a picnic, avid readers in hammocks, and art students sketching the surrounding beauty. There are tennis and basketball courts and paved paths for walking, jogging, or biking. 
+
+Forsyth Park also has an all-accessible playground with slides, swings, and climbers that can accommodate up to 300 children. The ground is covered with rubber matting and mulch, there are even interactive educational stations. Between the playground and the gated fragrant garden for the blind, there is a second playground with swings, climbers, and a slide. A building near the center of the park houses a café, restrooms, and a canopied bandshell where kids can dance to their heart's content. There is a spray pool in front of the bandshell for kids to enjoy on warmer days. There are several restaurants near the south end of the park too. Being so close to your Town Home we highly recommend checking out Forsyth Park!
+
+Here in Savannah, you will discover amazing American history around every corner. Within walking distance of your Town Home, you can explore any of the 22 squares amid thriving businesses and historic buildings while reading about Savannah’s history on beautiful plaques. You may choose to stroll back in time, shop along our famous River Street, or listen to live music in Market Square. Savannah offers a diverse selection of museums, many of which provide special areas for children. 
+
+Feel like having a beach day? Head to one of the East Coast’s most pristine beaches found on Tybee Island, just a short drive away. Go on a sunset dolphin cruise or have some fun in the sun paddle-boarding, kayaking, fishing, swimming, or just lazing around. The Savannah area is such a wonderful place, and we welcome you to come to enjoy a good dose of our southern hospitality!
+
+Guest access
+The Town Home is completely private. Your key will be waiting,  and I’m available except from 10pm till 7am.  All other times text or call me with your questions and needs.
+
+Other things to note
+The Historic Rose Town Home is circa 1880’s. The Historic Rose Town Home is one of the original homes built in the Victorian District to give America’s first immigrants the opportunity to own their own homes.
+
+Pet Policy:  My house is your house. Enjoy it.
+
+Your furry friend / pet / four-legged family member is welcome in my home as I like pets more than people (shhh). The pet fee is a simple per pet fee
+
+Savannah is a pick up after your pet town, so please do so.
+
+While I love all animals. extremely large pets (elephants, giraffes, and bison) cannot be accommodated - my apologies. We ask that you limit guests to no more than two small or one large pet.
+
+What do you know about Savannah?? 
+
+I always recommend everyone watch the movie 'Midnight in the Garden of Good and Evil' - and or read the book. You will get a real feel for Savannah and its beauty doing either - but the book is so complete - you'll feel like you already know everyone in town. It caused quite a stir when the book was first published. 
+
+What are you interested in seeing here?
+
+I can make some recommendations so you can hit the ground running once I know if it is Museums, points of historical importance, music [and what kind], and or food.  I have a favorite tour company, 'Olde Savannah Tours’; they have a 10 am 'on and off' tour  ($ 30pp).  I suggest you book that before you come. Taking that tour will let you know where YOU want to spend a longer time.
+
+Restaurants = what’s your pleasure? really good (maybe $40pp)? Medium priced good ($25pp)? Fun suggestions not expensive ($10/15pp)?
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Family
+Crib
+Pack ’n play/Travel crib
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Kitchenette
+Space where guests can heat up and refrigerate food
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Parking and facilities
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Building staff
+Someone is available 24 hours a day to let guests in
+Not included
+Unavailable: Kitchen
+Kitchen
+Unavailable: Washer
+Washer
+Unavailable: Dryer
+Dryer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Historic Rose Town Home
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+3 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.87 out of 5 stars.
+4.87
+·
+478 reviews
+Hosted by Joyce
+Superhost · 11 years hosting
+Listing highlights
+In Savannah's Victorian Historic District
+Forsyth Park is about a 5-min walk, with Savannah's historic squares and landmarks nearby.
+A historic townhome with character
+An 1880s townhome with period furnishings and a kitchenette with coffee station.
+Guests keep coming back
+Guests praise the walkable location and comfortable bed, and many say they'd book again.
+The Miss Rose Historic Town Home is a warm, private home perfect for couples, solo adventurers, small families, and the family pup. 
+
+The Townhome includes a living & dining area downstairs, a master bedroom suite with a queen-sized bed, and a bathroom upstairs: TV,  cable & free WiFi. A full kitchen with a coffee station and microwave.
+
+This listing is awarded ‘Super Host’ status in the Historic District of Savannah.
+
+GA SVR -01477
+
+The space
+The historic Chelsea is in the beautiful Victorian neighborhood of Savannah’s historic district. Perfect for a family of two adults and up to two children who are old enough to be comfortable in a house with stairs. 
+
+Forsyth Park is located just three blocks from your Town Home. It is a beautiful 30-acre park that is home to many of Savannah’s outdoor festivals and offers something for the whole family. The city’s most famous fountain crowns the Park's northern edge and serves as an inspiring backdrop for contemplation, selfies, marriage proposals, and weddings. Sometimes the stroll to the fountain is crowded with our seasonal farmer’s market or dotted with local artisans working to the sounds of a lively trumpet. On quieter days, you may see locals out with their dogs, groups playing frisbee or having a picnic, avid readers in hammocks, and art students sketching the surrounding beauty. There are tennis and basketball courts and paved paths for walking, jogging, or biking. 
+
+Forsyth Park also has an all-accessible playground with slides, swings, and climbers that can accommodate up to 300 children. The ground is covered with rubber matting and mulch, there are even interactive educational stations. Between the playground and the gated fragrant garden for the blind, there is a second playground with swings, climbers, and a slide. A building near the center of the park houses a café, restrooms, and a canopied bandshell where kids can dance to their heart's content. There is a spray pool in front of the bandshell for kids to enjoy on warmer days. There are several restaurants near the south end of the park too. Being so close to your Town Home we highly recommend checking out Forsyth Park!
+
+Here in Savannah, you will discover amazing American history around every corner. Within walking distance of your Town Home, you can explore any of the 22 squares amid thriving businesses and historic buildings while reading about Savannah’s history on beautiful plaques. You may choose to stroll back in time, shop along our famous River Street, or listen to live music in Market Square. Savannah offers a diverse selection of museums, many of which provide special areas for children. 
+
+Feel like having a beach day? Head to one of the East Coast’s most pristine beaches found on Tybee Island, just a short drive away. Go on a sunset dolphin cruise or have some fun in the sun paddle-boarding, kayaking, fishing, swimming, or just lazing around. The Savannah area is such a wonderful place, and we welcome you to come to enjoy a good dose of our southern hospitality!
+
+Guest access
+The Town Home is completely private. Your key will be waiting,  and I’m available except from 10pm till 7am.  All other times text or call me with your questions and needs.
+
+Other things to note
+The Historic Rose Town Home is circa 1880’s. The Historic Rose Town Home is one of the original homes built in the Victorian District to give America’s first immigrants the opportunity to own their own homes.
+
+Pet Policy:  My house is your house. Enjoy it.
+
+Your furry friend / pet / four-legged family member is welcome in my home as I like pets more than people (shhh). The pet fee is a simple per pet fee
+
+Savannah is a pick up after your pet town, so please do so.
+
+While I love all animals. extremely large pets (elephants, giraffes, and bison) cannot be accommodated - my apologies. We ask that you limit guests to no more than two small or one large pet.
+
+What do you know about Savannah?? 
+
+I always recommend everyone watch the movie 'Midnight in the Garden of Good and Evil' - and or read the book. You will get a real feel for Savannah and its beauty doing either - but the book is so complete - you'll feel like you already know everyone in town. It caused quite a stir when the book was first published. 
+
+What are you interested in seeing here?
+
+I can make some recommendations so you can hit the ground running once I know if it is Museums, points of historical importance, music [and what kind], and or food.  I have a favorite tour company, 'Olde Savannah Tours’; they have a 10 am 'on and off' tour  ($ 30pp).  I suggest you book that before you come. Taking that tour will let you know where YOU want to spend a longer time.
+
+Restaurants = what’s your pleasure? really good (maybe $40pp)? Medium priced good ($25pp)? Fun suggestions not expensive ($10/15pp)?
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Wifi
+Dedicated workspace
+Free street parking
+Pets allowed
+TV
+Air conditioning
+Bathtub
+Luggage dropoff allowed
+Crib
+Pack ’n play/Travel crib
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.87 out of 5 stars from 478 reviews
+4.87 · 478 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 89% of reviews
+5
+4 stars, 9% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+172
+Parking
+61
+Location
+264
+Parks
+51
+Hospitality
+247
+Nearby
+67
+Comfort
+84
+Check-in
+38
+Noise
+11
+Getting around
+64
+Isabel
+Nashville, Tennessee
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Joyce is a great host, and the space is really lovely. Perfectly cozy, close to the park and so many things nearby. We had everything we needed, and Joyce took great care of us!
+Christine
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Joyce’s place was just perfect for our 3 night stay for 2 people. It was very comfortable , clean and the bed was great. We were able to walk everywhere, it could be considered far to some places but there is a free shuttle stop just a couple blocks away.  There is a nice coffee shop and bakery across from Forsyth Park that was very good for our daily breakfast.  We would stay here again.
+Show more
+Olivia
+Raleigh, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This place was adorable! Plenty of things to do around the house in the historic district but it also wasn’t a big deal to walk 30 minutes to downtown. Joyce was so kind and helpful!
+Jennifer
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+Great little spot. Walkable to Forsynth Park, pizza spots and various stores. A lot of available spots to park on Lincoln. This Airbnb opens to an alley way. But Joyce provided very specific instructions which was useful for check in. There was a whining dog next door during the day and various other outdoor noises including what sounded like an organ at 3am lol but outside of this - it was a very pleasant stay. Thank you!
+Show more
+Silvana Maria
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+Joyce’s place is a delightful piece of Savannah! It’s in a quiet neighborhood, next to a wonderful pizza place, and has everything you need. We had no issues parking around the house and it is next to good bus lines as well. Highly recommend this place to see Savannah!
+Show more
+Alexis
+Los Angeles, California
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We loved our stay here. This is the second time we have stayed at Joyce’s place and it’s wonderful! It’s a beautiful  townhome, great accommodations and the location is so great! We highly recommend staying here!
+Show more
+Show all 478 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+This is an 1869 editorial piece in the Savannah Morning News, “This part of the city offers a fine opportunity to give Savannah an appearance of beauty which it has never known to date. By building cottage and townhomes which will not be too large for a small family nor too small for a moderate sized one: houses that will suit the pecuniary resources of a class of people who are not by any means wealthy , but who are in point of respectability , intelligence , etc ranked with the best. At present such people have to either adopt the tenement system, or live two or three families in one house, or else take refuge in a boarding house”.
+
+The Historic Victorian neighborhood has always been and is still today delightfully overgrown with an abundant of Wisteria, Jasmine, Azaleas, Mulberry Trees, Magnolia Trees, Fig Trees, Walnut Trees, and Great Oaks, with their gentle swaying Spanish moss. Misteltoe is everywhere, not just in the trees of the streets and beautiful gardens, but in Forsyth Park which is the centerpieces of the community and host summer concerts, book fairs, art festival and a host of community activities. The Victorian neighborhood is designated by the Secretary of the Interior as a United States National Historic Landmark, which means it is classified as a nationally significant historic places because it possess exceptional value or quality in illustrating or interpreting the heritage of the United States. The Victorian neighborhood boast of 969 original Victorian structures, many are now Inns, Bed and Breakfasts, and Executive Rentals that allow people from all over the world to actually step into and live our history, and still enjoy great restaurants and world class cultural event as illustrated by The London Times publishing that The Savannah Music Festival is the best in the world.
+Show more
+Meet your host
+Joyce
+Superhost
+1,674 reviews
+1674
+Reviews
+4.83 out of 5 average rating
+4.83
+Rating
+11 years of hosting
+11
+Years hosting
+Lives in Savannah, Georgia
+Joyce is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Rich
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for children (2-12 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

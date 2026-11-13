@@ -1,0 +1,607 @@
+URL: https://www.airbnb.com/rooms/13097971
+Title: Gorgeous Home on Jones Street w/ Private Pool
+Latitude: 32.0734
+Longitude: -81.0972
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 4
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+If you're looking for comfortable and nostalgic accommodations on your Georgia vacations, then you've found the right place at Southern Belle. We offer a variety of Savannah vacation rentals from historic to modern and everything in between. Not only that, but our vacation homes Savannah are right in the downtown area and close to the most popular tourist destinations.
+
+The space
+The Mint Julep Estate is one of our nicely located, grand old Savannah vacation rentals. Located right in the heart of the historic district and with a whimsical name sure to evoke the spirit of the south. This house is great for Georgia vacations with larger parties as it sleeps 10. Surrounded by lush landscaping and with a view of a historic neighborhood, the Mint Julep Estate is sure to be one of your top picks for vacation homes Savannah when you come to Georgia. The house comes with all the niceties you would expect from Southern Belle, including a fully equipped kitchen, Internet, washer and dryer. The property is located on Jones Street, putting it not far away from points of interest and eateries like Pulaski Square, Mrs. Wilkes Dining Room, Chatham Square, Noble Fare and Crystal Beer Parlor.
+
+
+
+Things To Do Near Mint Julep Estate
+
+
+
+After you get settled into this grand old house, you can prepare to start exploring the surrounding area. One of the first places many guests head is Forsyth Park. This is a large 30 acre park that is also home to a vintage iron fountain. Forsyth Park is a local and visitor hub in Savannah. You can stroll the grounds, stop for a picnic or relax on one of the many benches and people watch. A few other popular old parks are Crawford Square and Chippewa Square, the latter of which was in the movie Forrest Gump. If you love taking in some history, then the Colonial Park Cemetery, the Owens-Thomas House and the Davenport House Museum are must-sees. There are numerous restaurants in Savannah, but two of the more unique offerings are the Olde Pink House and the Pirates' House.
+
+
+
+Savannah is also home to a variety of different events throughout the year. If you arrive around any major holidays, you'll be sure to find some type of event going on. A few popular ones include:
+
+
+
+• Savannah Harbor Boat Parade of Lights in November
+
+• Fourth of July Fireworks on the Beach in July
+
+• Oktoberfest in October
+
+• Holiday Tour of Homes in December
+
+
+
+Make planning for all your Georgia vacations easy by calling Southern Belle and booking one of our charming Savannah vacation rentals for your stay. Our variety of vacation homes Savannah means you can easily find that perfect house close to everything you want to see.
+
+Guest access
+Private Pool
+
+Free wifi
+
+Private parking for 2 cars
+
+Washer & Dryer
+
+Iron
+
+Hair Dryer
+
+Flat screen TVs throughout the home
+
+Standard drip coffee maker
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on Tybee Island. For our Savannah properties it is a scenic 25-minute drive through Wilmington and Whitmarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+         
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday. 
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+
+
+SVR-00499
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Pool
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Gorgeous Home on Jones Street w/ Private Pool
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+10 guests · 4 bedrooms · 4 beds · 4 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.91 out of 5 stars.
+4.91
+81 reviews
+81
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In the heart of Savannah's historic district
+Chatham Square is steps away, with Forsyth Park about a 5-min walk through the historic district
+Private pool with a garden courtyard
+A private pool tucked behind the house, surrounded by lush landscaping
+Consistently praised across the board
+Guests highlight how walkable, spacious, and clean the home is, with a responsive host
+If you're looking for comfortable and nostalgic accommodations on your Georgia vacations, then you've found the right place at Southern Belle. We offer a variety of Savannah vacation rentals from historic to modern and everything in between. Not only that, but our vacation homes Savannah are right in the downtown area and close to the most popular tourist destinations.
+
+The space
+The Mint Julep Estate is one of our nicely located, grand old Savannah vacation rentals. Located right in the heart of the historic district and with a whimsical name sure to evoke the spirit of the south. This house is great for Georgia vacations with larger parties as it sleeps 10. Surrounded by lush landscaping and with a view of a historic neighborhood, the Mint Julep Estate is sure to be one of your top picks for vacation homes Savannah when you come to Georgia. The house comes with all the niceties you would expect from Southern Belle, including a fully equipped kitchen, Internet, washer and dryer. The property is located on Jones Street, putting it not far away from points of interest and eateries like Pulaski Square, Mrs. Wilkes Dining Room, Chatham Square, Noble Fare and Crystal Beer Parlor.
+
+
+
+Things To Do Near Mint Julep Estate
+
+
+
+After you get settled into this grand old house, you can prepare to start exploring the surrounding area. One of the first places many guests head is Forsyth Park. This is a large 30 acre park that is also home to a vintage iron fountain. Forsyth Park is a local and visitor hub in Savannah. You can stroll the grounds, stop for a picnic or relax on one of the many benches and people watch. A few other popular old parks are Crawford Square and Chippewa Square, the latter of which was in the movie Forrest Gump. If you love taking in some history, then the Colonial Park Cemetery, the Owens-Thomas House and the Davenport House Museum are must-sees. There are numerous restaurants in Savannah, but two of the more unique offerings are the Olde Pink House and the Pirates' House.
+
+
+
+Savannah is also home to a variety of different events throughout the year. If you arrive around any major holidays, you'll be sure to find some type of event going on. A few popular ones include:
+
+
+
+• Savannah Harbor Boat Parade of Lights in November
+
+• Fourth of July Fireworks on the Beach in July
+
+• Oktoberfest in October
+
+• Holiday Tour of Homes in December
+
+
+
+Make planning for all your Georgia vacations easy by calling Southern Belle and booking one of our charming Savannah vacation rentals for your stay. Our variety of vacation homes Savannah means you can easily find that perfect house close to everything you want to see.
+
+Guest access
+Private Pool
+
+Free wifi
+
+Private parking for 2 cars
+
+Washer & Dryer
+
+Iron
+
+Hair Dryer
+
+Flat screen TVs throughout the home
+
+Standard drip coffee maker
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on Tybee Island. For our Savannah properties it is a scenic 25-minute drive through Wilmington and Whitmarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+         
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday. 
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+
+
+SVR-00499
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Show all 52 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.91 out of 5 from 81 reviews.
+4.91
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 91% of reviews
+5
+4 stars, 9% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Pool
+29
+Walkability
+30
+Location
+45
+Indoor spaces
+27
+Hospitality
+18
+Family
+10
+Comfort
+17
+Nearby
+10
+Cleanliness
+12
+Sleep quality
+10
+Alessandra
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Group trip
+This was a lovely place to stay for our group! Great communication with the management company, very clean, and extremely comfortable beds. We loved how secluded the pool was and the landscaping and greenery makes it very cozy and relaxing. I would definitely stay here again!
+Show more
+Akram
+Weston, Massachusetts
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Group trip
+Mint Julep was a perfect house for our group! Plenty of space, fully stocked, the pool was amazing, and it was a quick walk to Forsyth Park and only a bit further the other way to the historic district— couldn’t have been better! One AC zone stopped working very briefly and the hosts were incredibly responsive and had it fixed instantly. We would absolutely stay here again and would highly recommend!
+Show more
+Amanda
+Denver, Colorado
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+I would absolutely stay here again. The house was beautiful and we loved the pool. The host was very responsive and sent clear instructions with photos regarding check in.
+Scott
+Rockledge, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Beautiful home in a good area. pool worked great for the little kids.
+Chris
+San Francisco, California
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Had a group of 10 stay here very comfortably. Very walkable to restaurants, coffee shops, and downtown. The rooms were spacious, and the pool was great. The host was very responsive when we had a minor issue. Great spot, highly recommend.
+Show more
+Andreina
+Miami, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+It is a spectacular, old property. It makes you feel like you are in a movie or in another era. It is beautiful and comfortable. The only thing that is a bit inconvenient is that the rooms do not have bathrooms, only 2, and you had to share bathrooms, but it was not that inconvenient either. The other thing is that it has a lot of stairs and for older people it's not so comfortable, but we sent the grandparents to the annex downstairs and they had a great time. 
+It really couldn't be better. The location is the best in downtown. Everything is close by, and everything around feels luxurious.
+Show more
+Show all 81 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Jones West
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Mansion vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

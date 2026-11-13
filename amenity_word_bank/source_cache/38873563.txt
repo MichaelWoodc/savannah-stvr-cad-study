@@ -1,0 +1,785 @@
+URL: https://www.airbnb.com/rooms/38873563
+Title: Heated Pool Access | 5*Clean | Flex Cancelation
+Latitude: 32.07277
+Longitude: -81.08746
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 4
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Make our Savannah vacation homes an integral part of your plans to experience the South's most hospitable city. We provide you with everything you need to feel right at home so that you can focus on immersing yourself in the sights, flavors and sounds of this vibrant city. Crawford Estate is one of our premium properties, ideally situated in the midst of Savannah's most historic neighborhoods.
+
+The space
+The Accommodations
+
+
+
+The neat front porch and brick exterior of the Crawford Estate belies the deluxe accommodations you will find within. A four-bedroom, 4.5-bathroom property with a private courtyard, dedicated parking and a whopping 3,108 square feet of living space, you won't find any other Savannah vacation homes that can compare.
+
+
+
+An open floor plan on the main level, built-in bookcases and a decorative fireplace in the living room, formal dining plus a light-washed breakfast nook are some of the sumptuous features that greet you as you first walk in the door. Professionally decorated to make the most of light and color, the Crawford accommodations seem to be straight from the glossy pages of House Beautiful.
+
+
+
+The main floor also contains a fully outfitted kitchen, which includes lovely glass-doored cupboards, a gas range, microwave, roomy refrigerator and a countertop coffee maker. The drawers and cabinets are filled with all of the dishes, glassware, cookware and utensils you might need to prepare gourmet meals for your entire crew.
+
+
+
+Just off the breakfast room, a generous, covered back porch offers a place to wind down with your favorite beverage as the air begins to cool. Just beyond, your private, brick-lined courtyard awaits with verdant landscaping and privacy.
+
+
+
+On the second floor, two bedrooms, each with its own private bathroom, offer accommodations for four. The master suite features a fabulous king-sized sleigh bed, bedside tables with lamps, a dresser with a flat-screen TV and a desk for your computer. The attached full-sized bath boasts a romantic jetted tub for two. The second bedroom has a bath with a glass-doored shower.
+
+
+
+Large windows keep the atmosphere light and airy. A wealth of closet space makes it easy to stow your clothing, luggage and other gear out of view yet within convenient reach.
+
+
+
+The third floor is an adorable loft with two queen beds. This aerie includes its own spacious rooftop balcony with cushy seating plus an ensuite bath with a shower. Don't be surprised if the members in your group vie for this prized space.
+
+
+
+Central air and heating plus ceiling fans throughout enable you to customize your home away from home to suit your comfort level. In addition, there is a laundry area for your use.
+
+
+
+The Crawford Carriage House is also included in the rental, which is another reason this accommodation is such a rarity among vacation rentals Savannah GA. This well-organized studio apartment has eye-catching bleached wood floors, a cozy living room with a television and DVD player, and a place for you to use your laptop.
+
+
+
+The full kitchen includes a handy breakfast bar, a range, refrigerator, French press coffee maker and a microwave. Of course, like all Savannah vacation rentals, the Carriage House kitchen is fully stocked with a full complement of culinary tools.
+
+
+
+The boudoir area provides you with a queen bed, a nightstand and lamp, and a rocking chair. The bathroom opens off this space and features a contemporary glass-doored shower.
+
+
+
+Sights and Activities near Vacation Rentals Savannah GA
+
+
+
+When you stay at the Crawford Estate, you are only a few steps from one of the Savannah Historic District's town squares. Crawford Square is a great place to stroll, people watch, and take a peaceful break from your busy itinerary.
+
+
+
+One feature that distinguishes Crawford Square from the other 21 squares in the city is the fact that it is fenced. Although all of the squares originally had fences, Crawford has the only one remaining. This east-side square was established in 1841, with the surrounding neighborhood taking shape around the mid-century. Nearby, you can tour the Colonial Cemetery and historic police barracks dating to the 1870s.
+
+
+
+Catch the free Historic District shuttle bus at Crawford Square, and venture farther afield around the city. If your visit includes a Saturday, be sure to head to Forsyth Park's weekly farmer's market. You can find fresh produce, artisan baked goods, music and plenty of other visitors from vacation rentals Savannah GA.
+
+
+
+While there, stroll over to the fabulous Forsyth fountain, the park's centerpiece. You'll likely happen upon a wedding ceremony taking place in front of the spectacular backdrop. If you have children in your group, they'll love the two playgrounds designed specifically for the very young and the school-aged sets.
+
+
+
+Jump back on the shuttle bus and ride down to the Savannah River waterfront, a great place to watch the big cargo ships come and go. You will also find plenty of unique gift shops, mouth-watering restaurants and open-air seating areas. At the eastern end of River Street, stop by the famous Waving Girl Statue and Olympic Monument.
+
+
+
+Check with our staff when reserving Savannah vacation rentals to find out about local festivals and events that coincide with your stay. As a city that celebrates the entire year round, Savannah is always hosting great events, from the SCAD Sidewalk Arts Festival in April to the Savannah Craft Brew Fest in September. You'll likely find one that appeals to you.
+
+
+
+SVR-00805 & SVR-00806*
+
+Guest access
+This property consists of a 3 Bedroom Main House plus 1 Bedroom Carriage House connected by a private courtyard
+
+     
+
+    Main House Amenities:
+
+    Dining Room
+
+    Full Kitchen with Dishwasher
+
+    Breakfast Area
+
+    Bedroom 1: King Bed (Master)
+
+    Bedroom 2: King Bed (Guest)
+
+    Bedroom 3: 2 Queen Beds (Third Floor)
+
+    3.5 Baths
+
+    Jacuzzi Tub
+
+    Outdoor Seating
+
+    Large TV in Living Room
+
+    TV in Master
+
+    Washer And Dryer
+
+    Drip Coffee Maker
+
+     
+
+    Carriage House Amenities:
+
+    Full kitchen with Dishwasher
+
+    Breakfast bar with seating
+
+    French press coffee maker
+
+    Flatscreen TV and DVD player
+
+    Bluetooth Speaker
+
+    Queen size bed
+
+    Desk/workspace
+
+    Full length mirror
+
+    Iron/Ironing Board
+
+    Full bathroom with walk in shower
+
+    Walk in closet and dresser
+
+    Central heat/air
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Pool
+Paid parking off premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Heated Pool Access | 5*Clean | Flex Cancelation
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+10 guests · 4 bedrooms · 5 beds · 4.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+34 reviews
+34
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In the Historic District, Savannah
+Steps from Crawford Square, with Troup Square and Lafayette Square about a 5-min walk away
+Estate home with a carriage house
+A 3,108 sq ft estate with a main house, private courtyard, and a separate carriage house
+Attentive, communicative hosts
+Guests highlight the responsive hosts, with many praising quick communication throughout their stay
+Make our Savannah vacation homes an integral part of your plans to experience the South's most hospitable city. We provide you with everything you need to feel right at home so that you can focus on immersing yourself in the sights, flavors and sounds of this vibrant city. Crawford Estate is one of our premium properties, ideally situated in the midst of Savannah's most historic neighborhoods.
+
+The space
+The Accommodations
+
+
+
+The neat front porch and brick exterior of the Crawford Estate belies the deluxe accommodations you will find within. A four-bedroom, 4.5-bathroom property with a private courtyard, dedicated parking and a whopping 3,108 square feet of living space, you won't find any other Savannah vacation homes that can compare.
+
+
+
+An open floor plan on the main level, built-in bookcases and a decorative fireplace in the living room, formal dining plus a light-washed breakfast nook are some of the sumptuous features that greet you as you first walk in the door. Professionally decorated to make the most of light and color, the Crawford accommodations seem to be straight from the glossy pages of House Beautiful.
+
+
+
+The main floor also contains a fully outfitted kitchen, which includes lovely glass-doored cupboards, a gas range, microwave, roomy refrigerator and a countertop coffee maker. The drawers and cabinets are filled with all of the dishes, glassware, cookware and utensils you might need to prepare gourmet meals for your entire crew.
+
+
+
+Just off the breakfast room, a generous, covered back porch offers a place to wind down with your favorite beverage as the air begins to cool. Just beyond, your private, brick-lined courtyard awaits with verdant landscaping and privacy.
+
+
+
+On the second floor, two bedrooms, each with its own private bathroom, offer accommodations for four. The master suite features a fabulous king-sized sleigh bed, bedside tables with lamps, a dresser with a flat-screen TV and a desk for your computer. The attached full-sized bath boasts a romantic jetted tub for two. The second bedroom has a bath with a glass-doored shower.
+
+
+
+Large windows keep the atmosphere light and airy. A wealth of closet space makes it easy to stow your clothing, luggage and other gear out of view yet within convenient reach.
+
+
+
+The third floor is an adorable loft with two queen beds. This aerie includes its own spacious rooftop balcony with cushy seating plus an ensuite bath with a shower. Don't be surprised if the members in your group vie for this prized space.
+
+
+
+Central air and heating plus ceiling fans throughout enable you to customize your home away from home to suit your comfort level. In addition, there is a laundry area for your use.
+
+
+
+The Crawford Carriage House is also included in the rental, which is another reason this accommodation is such a rarity among vacation rentals Savannah GA. This well-organized studio apartment has eye-catching bleached wood floors, a cozy living room with a television and DVD player, and a place for you to use your laptop.
+
+
+
+The full kitchen includes a handy breakfast bar, a range, refrigerator, French press coffee maker and a microwave. Of course, like all Savannah vacation rentals, the Carriage House kitchen is fully stocked with a full complement of culinary tools.
+
+
+
+The boudoir area provides you with a queen bed, a nightstand and lamp, and a rocking chair. The bathroom opens off this space and features a contemporary glass-doored shower.
+
+
+
+Sights and Activities near Vacation Rentals Savannah GA
+
+
+
+When you stay at the Crawford Estate, you are only a few steps from one of the Savannah Historic District's town squares. Crawford Square is a great place to stroll, people watch, and take a peaceful break from your busy itinerary.
+
+
+
+One feature that distinguishes Crawford Square from the other 21 squares in the city is the fact that it is fenced. Although all of the squares originally had fences, Crawford has the only one remaining. This east-side square was established in 1841, with the surrounding neighborhood taking shape around the mid-century. Nearby, you can tour the Colonial Cemetery and historic police barracks dating to the 1870s.
+
+
+
+Catch the free Historic District shuttle bus at Crawford Square, and venture farther afield around the city. If your visit includes a Saturday, be sure to head to Forsyth Park's weekly farmer's market. You can find fresh produce, artisan baked goods, music and plenty of other visitors from vacation rentals Savannah GA.
+
+
+
+While there, stroll over to the fabulous Forsyth fountain, the park's centerpiece. You'll likely happen upon a wedding ceremony taking place in front of the spectacular backdrop. If you have children in your group, they'll love the two playgrounds designed specifically for the very young and the school-aged sets.
+
+
+
+Jump back on the shuttle bus and ride down to the Savannah River waterfront, a great place to watch the big cargo ships come and go. You will also find plenty of unique gift shops, mouth-watering restaurants and open-air seating areas. At the eastern end of River Street, stop by the famous Waving Girl Statue and Olympic Monument.
+
+
+
+Check with our staff when reserving Savannah vacation rentals to find out about local festivals and events that coincide with your stay. As a city that celebrates the entire year round, Savannah is always hosting great events, from the SCAD Sidewalk Arts Festival in April to the Savannah Craft Brew Fest in September. You'll likely find one that appeals to you.
+
+
+
+SVR-00805 & SVR-00806*
+
+Guest access
+This property consists of a 3 Bedroom Main House plus 1 Bedroom Carriage House connected by a private courtyard
+
+     
+
+    Main House Amenities:
+
+    Dining Room
+
+    Full Kitchen with Dishwasher
+
+    Breakfast Area
+
+    Bedroom 1: King Bed (Master)
+
+    Bedroom 2: King Bed (Guest)
+
+    Bedroom 3: 2 Queen Beds (Third Floor)
+
+    3.5 Baths
+
+    Jacuzzi Tub
+
+    Outdoor Seating
+
+    Large TV in Living Room
+
+    TV in Master
+
+    Washer And Dryer
+
+    Drip Coffee Maker
+
+     
+
+    Carriage House Amenities:
+
+    Full kitchen with Dishwasher
+
+    Breakfast bar with seating
+
+    French press coffee maker
+
+    Flatscreen TV and DVD player
+
+    Bluetooth Speaker
+
+    Queen size bed
+
+    Desk/workspace
+
+    Full length mirror
+
+    Iron/Ironing Board
+
+    Full bathroom with walk in shower
+
+    Walk in closet and dresser
+
+    Central heat/air
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pool
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 34 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+13
+Location
+20
+Decor
+8
+Hospitality
+13
+Indoor spaces
+10
+Bathroom
+9
+Cleanliness
+10
+Family
+6
+Comfort
+6
+Outdoor spaces
+4
+Lora
+Plano, Texas
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Group trip
+Great location and extremely clean the Host was quick at getting back with us.
+Rumma
+Pittsburgh, Pennsylvania
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+I booked this lovely home for a group of 10 celebrating a bachelorette weekend. The home was not only spacious enough for all of us, it was also designed beautifully.
+One of the biggest perks was that each bedroom had a full bathroom attached. Amazing for a group of 10 ladies.
+Aside from cleanliness, spaciousness, and design, the location was peaceful but still within walking distance to everything we ventured to.
+The hosts themselves were proactive in communication, kind, and accommodating.
+Highly recommend!!
+Show more
+Paul
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Just as described! Beautiful home with spacious bedrooms. Tons of communication & crystal clear, helpful instructions.
+Buck
+Irvington, New York
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Stayed with kids
+We had a great stay at the Crawford Estate home.  Plenty of space for 2 families.  We especially loved the courtyard area.  Location was great - short walk to downtown.  Hosts were very responsive.  Would definitely stay again!
+Show more
+Angela
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Beautiful place to stay! A great amount of space for our group! We all enjoyed this place a lot! The carriage house was also amazing! We would definitely stay here again and recommend to others!
+Show more
+Lauren
+Reading, Pennsylvania
+Rating, 5 stars
+,
+·
+August 2025
+,
+·
+Group trip
+Our group of seven came in for a bachelorette trip and this rental did NOT disappoint! From the moment we stepped into the foyer, we were pleasantly surprised with the spacious and clean rooms. The kitchen was stocked with all listed amenities, and the entire place was beautifully furnished (very "southern beach-y vibes"). The bride was incredibly happy with the decor and total number of bedrooms and bathrooms, and the party enjoyed lots of space to spread out. The neighborhood was peaceful and within walking distance of the River District and the Historic District. While we did Uber a few times, it was only because it was raining and we didn't want to get wet! The host was very communicative, and while we had a boil water advisory during our stay they let us know immediately and kept us informed as it was lifted. I would love to stay here again, and I recommend it to anyone looking for a peaceful and cute place to stay!
+Show more
+Show all 34 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+Jones East
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+Mansion vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,459 @@
+URL: https://www.airbnb.com/rooms/22447706
+Title: Historic by Forsyth + Courtyard by Lucky Savannah
+Latitude: 32.0709
+Longitude: -81.0985
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located right off of beautiful Tattnall Street, this home is sure to please!
+
+The space
+Why Lucky Savannah Loves this Property:
+- The beautiful private courtyard is the perfect spot to enjoy breakfast. 
+- This pet friendly home is just two blocks from Forsyth Park, Savannah’s largest green space. 
+
+Tucked away on Tattnall Street, Whippet house is a two-bedroom Savannah gem. Guests will enjoy the short walk to downtown's center, while having a private retreat in one of the city's oldest residential neighborhoods.
+
+You’ll find the living room appointed with an eclectic yet warm collection of furnishings and decor from the owners' international travels. A formal dining room connects the front of house with the cheery kitchen, equipped with modern appliances and cookware for all your dine-in needs. Off the back of the home, you’ll find a private courtyard that comfortably seats four.
+
+Both bedrooms are upstairs, each with their own full baths. The first bedroom has a Queen size bed and antique writing desk, while the second bedroom mirrors the first but with a King size bed and excellent views of historic Tattnall Street. With windows on either side of the home, Whippet House receives ample natural light during the day. Shutters and window treatments ensure privacy when wanted.
+
+One block north lands you in Chatham Square, one of Savannah's gorgeous green spaces. Head east two blocks to historic Forsyth Park, known for its famous fountain and a popular location for weddings. Enjoy a liege waffle and latte at Mirabelle Cafe, before touring the Cathedral of St. John the Baptist, located right across the street. Broughton Street, a hub of Savannah’s shopping, and River Street are only 10-15 minutes north from there, respectively.
+
+Sleeping Configuration:
+Bedroom One: Queen
+Bedroom Two: King
+Living Room: Sleeper Sofa
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+What is parking like for this home?
+There's one private parking spot in back of home. 
+
+SVR-00506
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic by Forsyth + Courtyard by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 2 bedrooms · 3 beds · 2.5 baths
+Rated 4.62 out of 5 stars.
+4.62
+·
+45 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In a historic neighborhood near Forsyth Park
+Steps from Chatham Square, with Forsyth Park and its famous fountain about a 5-min walk away
+Private courtyard for morning coffee
+A private courtyard off the back of the house that comfortably seats four
+Walkable and comfortable
+Guests highlight how walkable the location is and how comfortable the home feels
+Located right off of beautiful Tattnall Street, this home is sure to please!
+
+The space
+Why Lucky Savannah Loves this Property:
+- The beautiful private courtyard is the perfect spot to enjoy breakfast. 
+- This pet friendly home is just two blocks from Forsyth Park, Savannah’s largest green space. 
+
+Tucked away on Tattnall Street, Whippet house is a two-bedroom Savannah gem. Guests will enjoy the short walk to downtown's center, while having a private retreat in one of the city's oldest residential neighborhoods.
+
+You’ll find the living room appointed with an eclectic yet warm collection of furnishings and decor from the owners' international travels. A formal dining room connects the front of house with the cheery kitchen, equipped with modern appliances and cookware for all your dine-in needs. Off the back of the home, you’ll find a private courtyard that comfortably seats four.
+
+Both bedrooms are upstairs, each with their own full baths. The first bedroom has a Queen size bed and antique writing desk, while the second bedroom mirrors the first but with a King size bed and excellent views of historic Tattnall Street. With windows on either side of the home, Whippet House receives ample natural light during the day. Shutters and window treatments ensure privacy when wanted.
+
+One block north lands you in Chatham Square, one of Savannah's gorgeous green spaces. Head east two blocks to historic Forsyth Park, known for its famous fountain and a popular location for weddings. Enjoy a liege waffle and latte at Mirabelle Cafe, before touring the Cathedral of St. John the Baptist, located right across the street. Broughton Street, a hub of Savannah’s shopping, and River Street are only 10-15 minutes north from there, respectively.
+
+Sleeping Configuration:
+Bedroom One: Queen
+Bedroom Two: King
+Living Room: Sleeper Sofa
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+What is parking like for this home?
+There's one private parking spot in back of home. 
+
+SVR-00506
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Show all 36 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.62 out of 5 stars from 45 reviews
+4.62 · 45 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 69% of reviews
+5
+4 stars, 24% of reviews
+4
+3 stars, 7% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.6 out of 5 stars for cleanliness
+Cleanliness
+4.6
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+20
+Parks
+8
+Location
+30
+Parking
+10
+Comfort
+12
+Nearby
+7
+Cleanliness
+7
+Quiet
+6
+Hospitality
+9
+Outdoor spaces
+5
+Selene
+San Jose, California
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed over a week
+Our family stayed for two weeks and we all enjoyed our stay very much. The place looked like what it was described in the photos. It was very clean and we felt very comfortable relaxing in the house with good temperature control. Places we wanted to visit were all conveniently located. Forsyth park was only 2 1/2 minutes walk away. We will highly recommend this place.
+Show more
+Michaela
+Gilmanton, New Hampshire
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Great place to stay! Walking distance from the park and shops. It also has a dedicated parking space, which was great. Located on a side street, so not very busy with people walking by or too many cars driving by late at night, even on the weekends. Would definitely stay again.
+Show more
+John
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+Wonderful home, great location, historic
+Show more
+Kristin
+Ocean Springs, Mississippi
+Rating, 5 stars
+,
+·
+July 2025
+,
+·
+Group trip
+This home was beautiful and exactly what we were looking for.  Walkable to the historic district and the restaurants and things to do!  Hosts were fabulous!  Thank you!
+Show more
+Kaitlin
+Huntsville, Alabama
+Rating, 5 stars
+,
+·
+July 2025
+,
+·
+Stayed with kids
+I loved this home away from home! It was perfect for our little family to have as a base while I worked for a few days. It was quiet and centrally located so you could walk everywhere. Would love to stay again!
+Show more
+Susan
+Warner Robins, Georgia
+Rating, 5 stars
+,
+·
+March 2025
+,
+·
+Stayed a few nights
+Great location and a has a real feel of old Savannah.  Beds were super comfortable, had a great little patio out back to relax.  Very well located and walkable to many areas of interest.   Forsyth park is very close to the house. It’s the perfect place for walks and enjoying the beauty of Savannah.
+The only complaint we had, which was no fault of our host was the parking for our vehicle. They do have parking directly behind the home, but the area was not big enough to accommodate my husband’s full size Toyota tundra. They did offer some streetside parking, but you did have to move your car to different side of the street depending on street cleaning. But this was mostly a problem because our vehicle was so large. I would think most cars would have no trouble utilizing the  very convenient private parking available behind the unit. It seemed that many of our neighbors were permanent residence, which just added to the feeling that we were really just citizens of Savannah for a few days.
+Show more
+Show all 45 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

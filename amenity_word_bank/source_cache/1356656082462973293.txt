@@ -1,0 +1,504 @@
+URL: https://www.airbnb.com/rooms/1356656082462973293
+Title: Charming Historic Garden Apartment- Near Jones St.
+Latitude: 32.0737
+Longitude: -81.0974
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Welcome to the Lavinia Garden Escape, an antebellum apartment in the heart of Savannah, Georgia. Built in 1844, this cozy ground-level apartment is overflowing with historical details and has a charming courtyard. Conveniently located in one of the most desired areas in the Landmark Historic District, this one-bedroom, one-bathroom apartment is the perfect home base for your Savannah stay. You will be within walking distance of the city’s famous squares, historic mansions, and boutiques.
+
+The space
+Beautiful 1844 garden apartment on a quiet street in the Landmark Historic District.
+
+The Lavinia Low House (1844) garden apartment has all the modern conveniences but retains its antebellum charm. Central heating and air-conditioning throughout.
+
+Entire unit: 4 guests; 1 bedroom; 2 beds, one of which is a new queen sofa bed; the other, a queen-sized bed. Kitchen and bathroom and use of garden courtyard.
+
+There are two non-functioning fireplaces. 
+
+Living and dining room and fully-equipped kitchen and bathroom. The kitchen has a large refrigerator, blender, mixer, toaster, coffee maker, and other kitchen basics, plus a clothes washer and dryer. 
+
+The living room has a flat-screen TV with cable and Apple TV. The property has fast WiFi throughout.
+
+SVR-00968
+
+Guest access
+Guests will have full access to the garden apartment located on the ground floor of the house. There is a shared gate entrance to the lower apartments, but a separate door entrance to this specific apartment. 
+
+There is rear access to the courtyard that is a shared space with the upstairs neighbors.
+
+There is metered street parking available surrounding the apartment and also a city garage just a short walk (a couple blocks) away. Street parking can be paid through the ParkSavannah app and is free 5pm - 8am and free on Saturdays and Sundays.
+
+Street sweepers do come through at night and you will want to check the street signs to see when to avoid any tickets.
+
+Other things to note
+The rental is located in the heart of downtown, yet on a more residential street. There are some city noises such as trash trucks, ship horns, sirens, trains and vehicle traffic that you may not be accustomed to. 
+
+Guests should also know that rental is just the lower level of the house. The upstairs house is also a rental. The courtyard is shared with the guests in the main house upstairs.  As this is an old house, you might hear the neighbors from time to time.
+
+
+If you would like to book the main house, you can view availability here: airbnb.com/h/lavinialowhouse
+
+Owners also have a beach rental in Tybee Island, GA. Check availability here:  
+
+https://www.airbnb.com/rooms/6052126?guests=1&adults=1&s=67&unique_share_id=41719e79-3382-4786-a385-4b413562642d
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Entertainment
+Ethernet connection
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Air conditioning
+Central heating
+Home safety
+Exterior security cameras on property
+There is an exterior camera on the front porch.
+Smoke alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Electric stove
+Oven
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Outdoor
+Shared patio or balcony
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Paid parking on premises
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Not included
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Charming Historic Garden Apartment- Near Jones St.
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.88 out of 5 stars.
+4.88
+40 reviews
+40
+Reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+In Savannah's Landmark Historic District
+Steps from Chatham and Pulaski Squares, with Forsyth Park about a 5-min walk away
+Antebellum apartment with modern comforts
+An 1844 garden apartment with original details, a full kitchen, and in-unit washer and dryer
+Alyssa is a standout host
+Guests praise host Alyssa's responsiveness and her curated guidebook of local favorites
+Welcome to the Lavinia Garden Escape, an antebellum apartment in the heart of Savannah, Georgia. Built in 1844, this cozy ground-level apartment is overflowing with historical details and has a charming courtyard. Conveniently located in one of the most desired areas in the Landmark Historic District, this one-bedroom, one-bathroom apartment is the perfect home base for your Savannah stay. You will be within walking distance of the city’s famous squares, historic mansions, and boutiques.
+
+The space
+Beautiful 1844 garden apartment on a quiet street in the Landmark Historic District.
+
+The Lavinia Low House (1844) garden apartment has all the modern conveniences but retains its antebellum charm. Central heating and air-conditioning throughout.
+
+Entire unit: 4 guests; 1 bedroom; 2 beds, one of which is a new queen sofa bed; the other, a queen-sized bed. Kitchen and bathroom and use of garden courtyard.
+
+There are two non-functioning fireplaces. 
+
+Living and dining room and fully-equipped kitchen and bathroom. The kitchen has a large refrigerator, blender, mixer, toaster, coffee maker, and other kitchen basics, plus a clothes washer and dryer. 
+
+The living room has a flat-screen TV with cable and Apple TV. The property has fast WiFi throughout.
+
+SVR-00968
+
+Guest access
+Guests will have full access to the garden apartment located on the ground floor of the house. There is a shared gate entrance to the lower apartments, but a separate door entrance to this specific apartment. 
+
+There is rear access to the courtyard that is a shared space with the upstairs neighbors.
+
+There is metered street parking available surrounding the apartment and also a city garage just a short walk (a couple blocks) away. Street parking can be paid through the ParkSavannah app and is free 5pm - 8am and free on Saturdays and Sundays.
+
+Street sweepers do come through at night and you will want to check the street signs to see when to avoid any tickets.
+
+Other things to note
+The rental is located in the heart of downtown, yet on a more residential street. There are some city noises such as trash trucks, ship horns, sirens, trains and vehicle traffic that you may not be accustomed to. 
+
+Guests should also know that rental is just the lower level of the house. The upstairs house is also a rental. The courtyard is shared with the guests in the main house upstairs.  As this is an old house, you might hear the neighbors from time to time.
+
+
+If you would like to book the main house, you can view availability here: airbnb.com/h/lavinialowhouse
+
+Owners also have a beach rental in Tybee Island, GA. Check availability here:  
+
+https://www.airbnb.com/rooms/6052126?guests=1&adults=1&s=67&unique_share_id=41719e79-3382-4786-a385-4b413562642d
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+TV
+Washer
+Free dryer – In unit
+Air conditioning
+Shared patio or balcony
+Pack ’n play/Travel crib - available upon request
+Exterior security cameras on property
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 47 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.88 out of 5 from 40 reviews.
+4.88
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 88% of reviews
+5
+4 stars, 13% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+18
+Location
+20
+Hospitality
+21
+Parking
+8
+Nearby
+7
+Quiet
+5
+Comfort
+6
+Accuracy
+5
+Sleep quality
+4
+Decor
+2
+Charles
+Dawsonville, Georgia
+Rating, 4 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We like to be in walking distance of shops, restaurants, etc. without being in the heart of the city.  This location was just perfect in that regard.  VERY quiet at night (and, really, during the day as well) - only a few blocks to the visitors center and railway museum and only about 1/2 mile to Broughton St. The apt. was very comfortable and the back patio was very nice (just too hot out to enjoy it). We were worried about street parking but found the streets almost empty when we arrived on Thursday evening. That all changed, however, when the free weekend parking kicked in on Friday afternoon and it was somewhat of a free-for-all. So we were afraid to drive anywhere and lose our spot. Parking app works well during the week but only up to 5 hours. Visitor parking passes are only available at the East Bryan St garage during business hours (no longer at the visitor ctr). You'll want to check out the Crystal Beer Palace just around the corner!
+Show more
+Oliver
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Great place with a lovely design. Perfect for two people, would stay again.
+Jack
+Virginia Beach, Virginia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Such an amazing get away for two days. Allyssa was absolutely amazing for always responding and giving great responses. Will definitely be back!
+Michelle
+Savannah, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Great place, welcoming host. Definitely a wonderful stay while in Savannah.
+James
+Charleston, South Carolina
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed one night
+Great spot!  Quiet and secluded, exactly as described.  Thank you!
+Paul
+Emmaus, Pennsylvania
+Rating, 4 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+We ended up needing to cancel our reservation at the very last minute, due to personal reasons. Alyssa was very responsive and supportive of our need to cancel. 
+Alyssa was great with communication and helpful throughout the entire process from the beginning. Her place is very nice,  exactly as pictured and in a great location. I would recommend Alyssa’s place when visiting Savannah.
+Show more
+Show all 40 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Alyssa
+Superhost
+1,512 reviews
+1512
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Exterior security cameras on property
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

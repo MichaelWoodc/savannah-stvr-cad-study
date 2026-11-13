@@ -1,0 +1,452 @@
+URL: https://www.airbnb.com/rooms/564556726842265439
+Title: Lovely Private Condo + Balcony by Forsyth
+Latitude: 32.0682
+Longitude: -81.0924
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah
+Host ID: 444016203
+Host profile ID: 1470002116414843624
+Host URL: https://www.airbnb.com/users/profile/1470002116414843624
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Enjoy our peaceful and spacious condo, perched on the second floor of our historic Savannah estate, just steps away from Forsyth Park! This 1-bedroom, 1-bathroom condo (with a convenient pull-out sofa, great for your extra guest!) is the perfect home base for your Savannah stay! Fully-equipped kitchen with all the amenities, cozy and comfortable living space with flat screen SmartTV, fast WiFi, and the cherry on top...a HUGE private balcony! 
+
+SVR 02704
+
+The space
+This second floor condo has one large bedroom with king sized bed, wall-mounted TV, closet, and cozy reading nook. Step down the hall and enter the open kitchen and living space. The kitchen is perfect for a quick breakfast in or a full 5-course dinner...it is truly chef inspired! The bathroom has a spa-like feeling with walk-in shower. And best of all...the expansive balcony, perched amongst these Savannah live oaks! The perfect spot for a hot cup of coffee, a happy hour glass of wine, or just a relaxing nap while taking in our amazing Southern weather!
+
+Guest access
+The entire condo is all yours!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+HDTV
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+Security camera on exterior of building monitoring entrance for guest safety.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel gas stove
+Stainless steel oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Coffee
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Lovely Private Condo + Balcony by Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+3 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.9 out of 5 stars.
+4.9
+·
+336 reviews
+Hosted by Sarah
+Superhost · 5 years hosting
+Listing highlights
+Near Forsyth Park in the Victorian District
+About a 5-min walk to Forsyth Park, with historic squares and local restaurants just blocks away
+Private balcony under the oaks
+A spacious private balcony shaded by live oaks, a favorite spot for morning coffee or evening wind-down
+Loved for comfort and location
+Guests highlight the comfortable king bed, the walkable location, and Sarah's helpful communication
+Enjoy our peaceful and spacious condo, perched on the second floor of our historic Savannah estate, just steps away from Forsyth Park! This 1-bedroom, 1-bathroom condo (with a convenient pull-out sofa, great for your extra guest!) is the perfect home base for your Savannah stay! Fully-equipped kitchen with all the amenities, cozy and comfortable living space with flat screen SmartTV, fast WiFi, and the cherry on top...a HUGE private balcony! 
+
+SVR 02704
+
+The space
+This second floor condo has one large bedroom with king sized bed, wall-mounted TV, closet, and cozy reading nook. Step down the hall and enter the open kitchen and living space. The kitchen is perfect for a quick breakfast in or a full 5-course dinner...it is truly chef inspired! The bathroom has a spa-like feeling with walk-in shower. And best of all...the expansive balcony, perched amongst these Savannah live oaks! The perfect spot for a hot cup of coffee, a happy hour glass of wine, or just a relaxing nap while taking in our amazing Southern weather!
+
+Guest access
+The entire condo is all yours!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+HDTV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Private patio or balcony
+Exterior security cameras on property
+Show all 46 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.9 out of 5 stars from 336 reviews
+4.9 · 336 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 9% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+151
+Location
+203
+Parks
+38
+Nearby
+67
+Parking
+56
+Cleanliness
+92
+Sleep quality
+64
+Comfort
+80
+Hospitality
+111
+Accuracy
+46
+Bobbie Jo
+Savannah, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Sarah’s condo was a clean, comfortable, classic Savannah style place to stay. It’s just a quick walk to Forsyth park and an easy walk to anything in the historic district. And the spacious street parking right outside the door was a plus!
+Show more
+Nancy
+Columbus, Ohio
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We had a lovely time in Savannah.  Our accommodations were so close to many things, we were able to walk.  We loved everything about our stay.  The bed was exceptionally comfy!!  Loved having a tv in the bedroom as I have to watch some tv before I go to sleep.  We sat on the patio and had coffee in the morning.  Kroger was just a few blocks away which made it nice for a few items we needed.  We highly recommend this little gem.
+Show more
+Lauren
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+The space was great, exactly what we were looking for and fully matched the description! One of the cleanest Air B and B’s we’ve ever stayed in!
+Gabrielle
+Florida, United States
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Exactly as advertised. Very comfy bed, lovely balcony. Nice big bathroom. Walkable to Kroger (altho not the nicest grocery store I've ever been in). Great communication with Sarah, although very little needed. Walkable to the river which we did a lot. Great restaurants and park nearby. Loved it!
+Show more
+John
+St. Louis, Missouri
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We were delighted with this apartment and its location. We walked nearly everywhere and fell in love with Savannah over a few days. The bed and pillows were first class, the kitchen worked well and the furniture clean and comfy. The real star is the walkable neighborhood, with the park two blocks west, historic squares a few blocks north, and Kroger two blocks south. Parking was free and easy across the street within the block. Be aware, there is a full flight of stairs to your apartment door. We can’t wait to come back.
+Show more
+Teri
+Greendale, Indiana
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Sarah’s place was adorable. Loved the high ceilings so much character. Had coffee every morning on the porch where there was a great breeze and the fans! So easy to walk to the grocery and so many sights!! Location was perfect!
+Show more
+Show all 336 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+The house is off a quiet street full of Spanish-moss covered oaks. Stroll just a block and a half and enter the middle of gorgeous Forsyth Park, the city's crown jewel! Take in the beautiful architecture and shaded streets surrounding this condo that straddles Savannah's Victorian and Historic Districts. Collin's in Forsyth, Crystal Beer Parlor, 700 Drayton, Local 11Ten and other incredible bars and restaurants are right outside your door. If you want to take advantage of our fully-equipped kitchen, a Kroger grocery store is just 2 blocks away as well!
+Show more
+Meet your host
+Sarah
+Superhost
+1,172 reviews
+1172
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+5 years of hosting
+5
+Years hosting
+My work: Helicopter Pilot & Forensic Psychologist
+Speaks English
+We are available to answer any and all of your questions and provide you with our favorite Savannah recommendations! We also appreciate that some guests enjoy exploring on their own too! We live just a couple blocks away, so don't hesitate to call or message if you need anything at all!
+Sarah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Condo vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

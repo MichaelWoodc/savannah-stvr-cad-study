@@ -1,0 +1,471 @@
+URL: https://www.airbnb.com/rooms/25978159
+Title: Elegant Savannah Patio Apt! Arty Flair on Jones
+Latitude: 32.07066
+Longitude: -81.09148
+Privacy radius (meters): 152
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Mary
+Host ID: 10371587
+Host profile ID: 1462838847845697919
+Host URL: https://www.airbnb.com/users/profile/1462838847845697919
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This garden level apartment is in the most sought after area of the residential Historic District. Spacious ground level unit with two bedrooms and one bathroom. Equipped kitchen. Courtyard shared with owner who lives above. Parking is on the street (meters on the immediate block require payment weekdays and are free weekends). Free public street parking begins one block away. This unit is licensed for short term rental but multi-month executive rentals are preferred. 
+SVR-01130
+
+The space
+All ground level. This unit has two bedrooms (one California King and one Queen) and one Full bathroom which is accessible to both bedrooms. The kitchen is retro-modern and equipped for cooking.
+
+Guest access
+The interior apartment is a private rental and there is no shared interior space. The rear courtyard is shared with the owner who lives in the main house above.
+
+Other things to note
+I wanted to mention that Savannah has certain bugs which we can control to some extent with poison (which every hotel and vacation rental will use on perimeters) but guests still can see them, even if they’re slower and dying from walking across poison barriers. Specifically palmetto bugs are prolific here. If guests see one we do not issue any refunds due to seeing these.
+
+Events, holidays and stays during March & April may require 3 night minimums and/or have higher rates than the standard ones published.
+
+This is a traditional vacation rental home, not a “bed and breakfast”. We do not provide food or drinks but we do provide basic cooking and serving utensils, a coffee maker, and dish soap. Downtown Savannah has a major supermarket (Kroger) and a 24 hour market (Parkers on Drayton) so there is no need to pack everything from home if shopping when you get here makes more sense. 
+
+What to bring with you:
+
+A typical grocery run prior to arriving at your vacation home would include coffee, beer/wine, milk, eggs, butter, bread and any other basic groceries you would need for the meals you eat in the home. 
+
+When it comes to coffee, bring your own coffee. We do not typically provide coffee but if you find coffee in the apartment please feel free to use it.
+
+You should bring or buy your own napkins, laundry detergent, your own beach towels and beach gear, and your own cooler if you need one.  
+
+What we provide:
+
+We provide toilet paper (2 extras per bathroom), liquid hand washing dish soap, bathroom soap, sheets on each bed, and at least one bath towel for each guest. We do not permit our towels to be taken out of the house which is why you must bring your own towels if you visit the beach. 
+
+If you find we have left seasonings, oil, dishwasher pellets, or any unopened food or drinks then of course feel free to use what is there. We occasionally leave items but just cannot promise them all the time. 
+
+Please also note that in Savannah, sugar ants can smell cookies, spilled sugar or syrup, or an open sugar container from a mile away and will find a way in through a windowsill or door frame. It can be somewhat like a cartoon picnic where they march in a line to find the food. To avoid this try to keep your snacks contained in air tight baggies, the refrigerator, or buy single serve packets and put the trash in the outdoor trash cans as soon as possible. 
+
+The following is standard Savannah Luxury Rentals information: We provide sheets, toilet paper and soap. If you prefer thick cushioned toilet paper bring it along but use it sparingly in our older plumbing and never flush "flushable" wipes or other products that are likely to cause a clog.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Not included
+Unavailable: Hair dryer
+Hair dryer
+Unavailable: Shampoo
+Shampoo
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Elegant Savannah Patio Apt! Arty Flair on Jones
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Rated 4.79 out of 5 stars.
+4.79
+·
+70 reviews
+Hosted by Mary
+Superhost · 13 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Lafayette Square, with Forsyth Park and Monterey Square about a 5-min walk away
+Equipped kitchen with character
+A retro-modern kitchen with a full range, oven, dishwasher, and cooking basics for meals in
+Charming and walkable to everything
+Guests describe a charming, spacious apartment that feels like home on a beautiful oak-lined street
+This garden level apartment is in the most sought after area of the residential Historic District. Spacious ground level unit with two bedrooms and one bathroom. Equipped kitchen. Courtyard shared with owner who lives above. Parking is on the street (meters on the immediate block require payment weekdays and are free weekends). Free public street parking begins one block away. This unit is licensed for short term rental but multi-month executive rentals are preferred. 
+SVR-01130
+
+The space
+All ground level. This unit has two bedrooms (one California King and one Queen) and one Full bathroom which is accessible to both bedrooms. The kitchen is retro-modern and equipped for cooking.
+
+Guest access
+The interior apartment is a private rental and there is no shared interior space. The rear courtyard is shared with the owner who lives in the main house above.
+
+Other things to note
+I wanted to mention that Savannah has certain bugs which we can control to some extent with poison (which every hotel and vacation rental will use on perimeters) but guests still can see them, even if they’re slower and dying from walking across poison barriers. Specifically palmetto bugs are prolific here. If guests see one we do not issue any refunds due to seeing these.
+
+Events, holidays and stays during March & April may require 3 night minimums and/or have higher rates than the standard ones published.
+
+This is a traditional vacation rental home, not a “bed and breakfast”. We do not provide food or drinks but we do provide basic cooking and serving utensils, a coffee maker, and dish soap. Downtown Savannah has a major supermarket (Kroger) and a 24 hour market (Parkers on Drayton) so there is no need to pack everything from home if shopping when you get here makes more sense. 
+
+What to bring with you:
+
+A typical grocery run prior to arriving at your vacation home would include coffee, beer/wine, milk, eggs, butter, bread and any other basic groceries you would need for the meals you eat in the home. 
+
+When it comes to coffee, bring your own coffee. We do not typically provide coffee but if you find coffee in the apartment please feel free to use it.
+
+You should bring or buy your own napkins, laundry detergent, your own beach towels and beach gear, and your own cooler if you need one.  
+
+What we provide:
+
+We provide toilet paper (2 extras per bathroom), liquid hand washing dish soap, bathroom soap, sheets on each bed, and at least one bath towel for each guest. We do not permit our towels to be taken out of the house which is why you must bring your own towels if you visit the beach. 
+
+If you find we have left seasonings, oil, dishwasher pellets, or any unopened food or drinks then of course feel free to use what is there. We occasionally leave items but just cannot promise them all the time. 
+
+Please also note that in Savannah, sugar ants can smell cookies, spilled sugar or syrup, or an open sugar container from a mile away and will find a way in through a windowsill or door frame. It can be somewhat like a cartoon picnic where they march in a line to find the food. To avoid this try to keep your snacks contained in air tight baggies, the refrigerator, or buy single serve packets and put the trash in the outdoor trash cans as soon as possible. 
+
+The following is standard Savannah Luxury Rentals information: We provide sheets, toilet paper and soap. If you prefer thick cushioned toilet paper bring it along but use it sparingly in our older plumbing and never flush "flushable" wipes or other products that are likely to cause a clog.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+TV
+Washer
+Dryer
+Air conditioning
+Refrigerator
+Microwave
+Long term stays allowed
+Show all 24 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.79 out of 5 stars from 70 reviews
+4.79 · 70 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 87% of reviews
+5
+4 stars, 9% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+27
+Location
+58
+Cleanliness
+19
+Decor
+13
+Indoor spaces
+13
+Comfort
+16
+Hospitality
+14
+Sleep quality
+11
+Bathroom
+10
+Quiet
+9
+Ruby
+Savannah, Georgia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+This was our second stay at Mary’s because we love the property, location, and host so much! Such a beautiful area that is conveniently located in Savannah. Mary has lots of wonderful local recommendations as well.
+Show more
+Nicholas
+Oviedo, Florida
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Cute property.  Much larger in person.  Really  felt at home.  Perfect walking distance to everything.  Would love to book again.
+Jacob
+Tampa, Florida
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Stayed a few nights
+Great host! Very responsive and proactively helped us find this listing after we had booked another listing and it was under construction. The place was fantastic, clean, spacious and in a great location.
+Show more
+Clive
+Vero Beach, Florida
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Stayed a few nights
+A gem of an AirBnB in the heart of Savannah's historic district. The home is charming and tastefully decorated with good amenities for living there for longer periods if desired - the kitchen has a good range of items to cover cooking needs. The whole space is  has character and is a neat space to escape to. Above all it is clean and convenient. The host is responsive. I will definitely look to see availability for my next visit to Savannah! Thank you for being great hosts!
+Show more
+Karah
+North Carolina, United States
+Rating, 4 stars
+,
+·
+December 2025
+,
+·
+Stayed a few nights
+lovely quaint little spot in walking distance to great spots. it's on one of the loveliest oak lined streets in Savannah. host was responsive and check in straightforward. unit is quiet and safe and filled with artistic touches.
+Show more
+Bobby
+Savannah, Georgia
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Stayed about a week
+Great spot very central, very comfortable and great natural light from the courtyard
+Show all 70 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+The Sentient Bean
+Coffee shop
+Screamin' Mimi's
+Food and drink
+Kroger
+Grocery store
+Crystal Beer Parlor
+Restaurant
+CVS
+Pharmacy
+B. Matthew's Eatery
+Restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Show more
+Meet your host
+Mary
+Superhost
+12,062 reviews
+10,000
++
+Reviews
+4.83 out of 5 average rating
+4.83
+Rating
+13 years of hosting
+13
+Years hosting
+My work: Anderson VIP Concierge LLC
+Lives in Savannah, Georgia
+SavannahLuxuryRentals is a one stop shop for vacation rentals, tennis lessons for hire whenever possible and trolley tour tickets ;) We have budget friendly basic rentals as well as some of the most gorgeous luxury homes available. Please ask if you need us to help you select the best fit for you! Your contacts at the company will be Mary or Jennifer
+Mary is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Skylynn
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 3:00 PM - 11:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+No parking on property
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

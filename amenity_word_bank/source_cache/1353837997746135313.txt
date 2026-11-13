@@ -1,0 +1,559 @@
+URL: https://www.airbnb.com/rooms/1353837997746135313
+Title: Blue Moon
+Latitude: 32.0779
+Longitude: -81.0848
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Justin
+Host ID: 113997173
+Host profile ID: 1468175980200445708
+Host URL: https://www.airbnb.com/users/profile/1468175980200445708
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+=== FULL DESCRIPTION ===
+✨ Savannah - Walk Everywhere + Free Parking!
+
+Welcome to your perfect Savannah getaway, ideally located on East Congress Street in the vibrant Historic District. Whether you're here for a romantic weekend, a girls’ trip, or exploring the city’s rich history, this charming townhome puts you just steps from everything that makes Savannah unforgettable.
+
+🚶‍♂️ Walk to it all: Stroll to River Street, Broughton Street shopping, Forsyth Park, top restaurants, and nightlife—all just minutes away.
+
+The space
+🏡The Space
+
+This thoughtfully designed 2-bedroom townhouse offers comfort, convenience, and a touch of Southern charm:
+
+🛏️ Bedroom 1: King bed for a restful night’s sleep, with ensuite bath
+🛏️ Bedroom 2: Two twin beds – perfect for friends or kids
+🛁 2 full bathrooms upstairs + 🚻 half bath downstairs (tucked conveniently under the stairs)
+
+The layout is ideal for groups or families, with all bedrooms upstairs for privacy and a comfortable living area below for relaxing after a day of exploring.
+
+🍳 Fully Equipped Kitchen
+
+Enjoy the flexibility of dining in with a kitchen stocked with essentials:
+- Full-size appliances
+- Coffee maker + Keurig (bring your favorite pods!)
+- Cookware, dishes, and utensils
+
+🌿 Outdoor Patio + Rare Perk 🚗
+- Private outdoor patio – perfect for morning coffee or evening wind-downs
+- Complimentary off-street parking (a true luxury in downtown Savannah!) with room to fit a full sized crew cab pickup truck.
+
+📍 Why Guests Love This Location
+
+You’re right in the action while still having a peaceful place to recharge. Skip the Ubers—Savannah is best experienced on foot, and this home makes it effortless.
+
+🎯 Perfect For:
+- Weekend getaways
+- Wedding guests
+- Food & history lovers
+- Families or small groups
+
+📜 Additional Info
+Short Term Vacation Rental Certificate: SVR-03091
+
+Other things to note
+Welcome to Savannah! We committed to providing you with the very best experience. In addition, we work closely with our neighbors to ensure the quality of life that residents and visitors both expect. Enclosed is information regarding neighborhood policies and local laws and regulations. Please keep in mind that violations of any of these rules can lead to fines or even eviction without refund. We know that you'll do your part to be a great neighbor in Savannah! 
+
+Please be mindful of the City of Savannah Noise Ordinance. As you are staying in a residential area, we would like to remind you to observe neighborhood quiet times between the hours of 9pm - 8am. Please remember that sound carries very well throughout Savannah, most especially in courtyards, porches, patios, and verandas. 
+
+Guests must not exceed the listed occupancy of our property - 4. Guests must not exceed the maximum parking allotted to each property.  Guests must park only in designated parking places. Please be mindful of street sweeping z.ones and parking meters throughout the city. 
+
+Savannah does have leash laws and leashes are required for any pet taken off property. Pet waste must be cleaned up immediately. 
+
+While "to-go" cups are legal in parts of the city, public intoxication is unlawful and may result in heavy fines and/or incarceration. 
+
+Savannah has very strict litter laws. Please be sure that all litter, trash, and cigarette butts are placed in waste receptacles. Help keep Savannah beautiful! 
+
+Household trash and recycling must be placed in City of Savannah collection carts specific to the property. Trash bags and recycling may not be left outside of the collection carts, left on porches, or left in lanes. 
+
+Laundry and towels must not be hung to dry on any exterior portion of the property, including, porch rails, fences, gates, or banisters. 
+
+Helpful Hints for your Stay in Savannah:
+ 
+9-1-1 is the phone number for emergency services in the city.
+
+Savannah is a walking city and our architecture and squares are best enjoyed on foot Please remember to only cross streets in designated crosswalks. And, as in most cities, jaywalking is punishable by a fine. Obey all pedestrian signals and signage. 
+
+Bicycles are a great mode of transportation in Savannah; however, bicycles are prohibited in squares, parks, and sidewalks throughout Savannah. 
+
+If you happen to be locked out of your property, please contact your rental agent Neighbors and surrounding businesses do not have spare keys to the property. 
+
+48-hour parking passes are available for $12 from Savannah's Parking Services Office at 100 East Bryan Street, the Savannah Visitor's Center at 301 MLK Blvd. The pass provides parking at any meter, with a time limit of one hour or more. It also includes complimentary parking at any of the City owned Parking Garages.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: walk-in closet, closet, wardrobe, and dresser
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+Doorbell
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Stainless steel single oven
+Coffee maker
+Wine glasses
+Toaster
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Coffee
+Outdoor
+Patio or balcony
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free parking on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Smart lock
+Not included
+Unavailable: Essentials
+Essentials
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Blue Moon
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.88 out of 5 stars.
+4.88
+78 reviews
+78
+Reviews
+Hosted by Justin
+10 years hosting
+Listing highlights
+In the Historic District near River Street
+Steps from Washington Square, with River Street about a 5-min walk away
+Private patio with off-street parking
+A private fenced patio for morning coffee, with off-street parking right outside
+Justin is a responsive, thoughtful host
+Guests consistently praise Justin as responsive and helpful, with many returning for repeat stays
+✨ Savannah - Walk Everywhere + Free Parking!
+
+Welcome to your perfect Savannah getaway, ideally located on East Congress Street in the vibrant Historic District. Whether you're here for a romantic weekend, a girls’ trip, or exploring the city’s rich history, this charming townhome puts you just steps from everything that makes Savannah unforgettable.
+
+🚶‍♂️ Walk to it all: Stroll to River Street, Broughton Street shopping, Forsyth Park, top restaurants, and nightlife—all just minutes away.
+
+The space
+🏡The Space
+
+This thoughtfully designed 2-bedroom townhouse offers comfort, convenience, and a touch of Southern charm:
+
+🛏️ Bedroom 1: King bed for a restful night’s sleep, with ensuite bath
+🛏️ Bedroom 2: Two twin beds – perfect for friends or kids
+🛁 2 full bathrooms upstairs + 🚻 half bath downstairs (tucked conveniently under the stairs)
+
+The layout is ideal for groups or families, with all bedrooms upstairs for privacy and a comfortable living area below for relaxing after a day of exploring.
+
+🍳 Fully Equipped Kitchen
+
+Enjoy the flexibility of dining in with a kitchen stocked with essentials:
+- Full-size appliances
+- Coffee maker + Keurig (bring your favorite pods!)
+- Cookware, dishes, and utensils
+
+🌿 Outdoor Patio + Rare Perk 🚗
+- Private outdoor patio – perfect for morning coffee or evening wind-downs
+- Complimentary off-street parking (a true luxury in downtown Savannah!) with room to fit a full sized crew cab pickup truck.
+
+📍 Why Guests Love This Location
+
+You’re right in the action while still having a peaceful place to recharge. Skip the Ubers—Savannah is best experienced on foot, and this home makes it effortless.
+
+🎯 Perfect For:
+- Weekend getaways
+- Wedding guests
+- Food & history lovers
+- Families or small groups
+
+📜 Additional Info
+Short Term Vacation Rental Certificate: SVR-03091
+
+Other things to note
+Welcome to Savannah! We committed to providing you with the very best experience. In addition, we work closely with our neighbors to ensure the quality of life that residents and visitors both expect. Enclosed is information regarding neighborhood policies and local laws and regulations. Please keep in mind that violations of any of these rules can lead to fines or even eviction without refund. We know that you'll do your part to be a great neighbor in Savannah! 
+
+Please be mindful of the City of Savannah Noise Ordinance. As you are staying in a residential area, we would like to remind you to observe neighborhood quiet times between the hours of 9pm - 8am. Please remember that sound carries very well throughout Savannah, most especially in courtyards, porches, patios, and verandas. 
+
+Guests must not exceed the listed occupancy of our property - 4. Guests must not exceed the maximum parking allotted to each property.  Guests must park only in designated parking places. Please be mindful of street sweeping z.ones and parking meters throughout the city. 
+
+Savannah does have leash laws and leashes are required for any pet taken off property. Pet waste must be cleaned up immediately. 
+
+While "to-go" cups are legal in parts of the city, public intoxication is unlawful and may result in heavy fines and/or incarceration. 
+
+Savannah has very strict litter laws. Please be sure that all litter, trash, and cigarette butts are placed in waste receptacles. Help keep Savannah beautiful! 
+
+Household trash and recycling must be placed in City of Savannah collection carts specific to the property. Trash bags and recycling may not be left outside of the collection carts, left on porches, or left in lanes. 
+
+Laundry and towels must not be hung to dry on any exterior portion of the property, including, porch rails, fences, gates, or banisters. 
+
+Helpful Hints for your Stay in Savannah:
+ 
+9-1-1 is the phone number for emergency services in the city.
+
+Savannah is a walking city and our architecture and squares are best enjoyed on foot Please remember to only cross streets in designated crosswalks. And, as in most cities, jaywalking is punishable by a fine. Obey all pedestrian signals and signage. 
+
+Bicycles are a great mode of transportation in Savannah; however, bicycles are prohibited in squares, parks, and sidewalks throughout Savannah. 
+
+If you happen to be locked out of your property, please contact your rental agent Neighbors and surrounding businesses do not have spare keys to the property. 
+
+48-hour parking passes are available for $12 from Savannah's Parking Services Office at 100 East Bryan Street, the Savannah Visitor's Center at 301 MLK Blvd. The pass provides parking at any meter, with a time limit of one hour or more. It also includes complimentary parking at any of the City owned Parking Garages.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+What this place offers
+Kitchen
+Wifi
+Free parking on premises
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 42 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.88 out of 5 from 78 reviews.
+4.88
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 94% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+43
+Location
+57
+Comfort
+29
+Nearby
+24
+Hospitality
+33
+Cleanliness
+22
+Parking
+13
+Sleep quality
+15
+Parks
+5
+Accuracy
+12
+Tisa
+Lumberton, North Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+I absolutely loved the neighborhood this house was located in, quiet and peaceful just what I wanted! A perk for me was the coffee shop right around the corner. Everything was nice, clean and cozy. Justin was a great host. Would visit his place again.
+Show more
+Debbie
+Parma, Idaho
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+If visiting Old town Savannah, Blue Moon is a fantastic option with plenty of room for 4. Home larger than expected with a nice patio to enjoy. Justin was great to work with.
+Jenna
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed a few nights
+We loved the location and the size was perfect for 4 people!
+Emily
+Lake Junaluska, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+This is the second time we’ve stayed here and it is always amazing! Beautiful house in a beautiful location. I would definitely recommend staying here. It’s perfect for our family and walkable to all the best places! Thanks to the host for sharing this fantastic home :)
+Show more
+Adrian
+Orlando, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+The listing was as described and very clean. Great location.  Amenities were as described and useful. The home is a comfortable and lovely space.  Justin was responsive and helpful. We would stay there again!
+Show more
+Kathryn
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Blue Moon is an great place to stay.  Located in a quiet neighborhood within easy walking distance to restaurants, shops, parks and the riverfront.  The house is nicely decorated and very clean.  The beds are very comfortable! The off-street parking is a bonus! We fully enjoyed our stay in this home!  Justin is a very helpful and responsive host!
+Show more
+Show all 78 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+In the Washington Square neighborhood. Very quiet end of downtown.
+Show more
+Meet your host
+Justin
+Host
+131 reviews
+131
+Reviews
+4.82 out of 5 average rating
+4.82
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,505 @@
+URL: https://www.airbnb.com/rooms/1334784726480619157
+Title: Classic Quarters at the 101
+Latitude: 32.070666886795024
+Longitude: -81.09553194186
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Eric
+Host ID: 511772973
+Host profile ID: 1470301392911240426
+Host URL: https://www.airbnb.com/users/profile/1470301392911240426
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Living room
+1 couch
+
+=== FULL DESCRIPTION ===
+Experience historic Savannah in our elegant 2-bedroom, 2-bath condo for 4. Located in the heart of the historic district, this charming retreat blends Victorian architecture with modern comforts. Just one block from Forsyth Park and steps from the Mercer-Williams House Museum, our walkable location is unbeatable. Enjoy a fully equipped kitchen, Wi-Fi, and a unique stay in a beautifully restored 1870s building. Perfect for couples or small families seeking a stylish and central Savannah getaway.
+
+The space
+Welcome to Classic Quarters at the 101, your charming retreat in the heart of Savannah's historic district. This elegant two-bedroom condo beautifully blends timeless Victorian architecture with modern comforts, creating a stylish and welcoming ambiance for your stay.
+
+Originally designed by the Meinhardt brothers in the 1870s, the space exudes historic charm with its soaring ceilings, warm hardwood floors, and intricate crown molding. The inviting living room features plush couches, cozy armchairs, and large windows overlooking downtown Savannah. Please note the fireplaces are decorative, adding to the home's historic character.
+
+The condo comfortably accommodates up to four guests in two bedrooms:
+*   Master Bedroom: King-size four-poster bed
+*   Second Bedroom: Queen-size four-poster bed
+
+Both bedrooms are outfitted with soft mattresses and fresh linens. Two full bathrooms add convenience, one with a walk-in shower and the other with a shower-and-bathtub combination.
+
+The fully equipped kitchen boasts stainless steel appliances and all the essentials you need:
+*   Full-size oven and stove
+*   Refrigerator and dishwasher
+*   Microwave, toaster, and coffee maker
+
+Modern amenities for a comfortable stay include:
+*   Whole-house Wi-Fi
+*   Flatscreen television
+*   Central air conditioning (AC)
+*   In-unit washer and dryer
+*   Hairdryer and ironing board
+
+Guest access
+Guests will have private and exclusive access to the entire two-bedroom condo. Entry is seamless with a keyless lock on the main exterior doors of the building. Classic Quarters at the 101 is Unit 3, located up one flight of stairs from the building's entrance.
+
+Other things to note
+*   This condo is professionally cleaned and thoughtfully stocked with essentials like soap, shampoo, and fresh towels for your arrival.
+*   Please be aware that the unit is on the second floor and requires guests to walk up one flight of stairs to access it.
+*   The fireplaces within the home are historic and for decorative purposes only; they are not functional.
+*   City of Savannah Short-Term Vacation Rental Permit #: SVR-02744
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Cameras are located in the public areas.
+Smoke alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor dining area
+Parking and facilities
+Free street parking
+Paid street parking off premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+This place may not have a carbon monoxide detector. Reach out to the host with any questions.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Classic Quarters at the 101
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.9 out of 5 stars.
+4.9
+41 reviews
+41
+Reviews
+Hosted by Eric
+Superhost · 3 years hosting
+Listing highlights
+In Savannah's historic district
+Steps from Monterey Square and about a 2-min walk to Forsyth Park and its iconic fountain
+Restored Victorian with original detail
+An 1870s building with soaring ceilings, hardwood floors, and crown molding throughout
+Walkable to everything in town
+Guests highlight how walkable the location is, with many returning or planning to
+Experience historic Savannah in our elegant 2-bedroom, 2-bath condo for 4. Located in the heart of the historic district, this charming retreat blends Victorian architecture with modern comforts. Just one block from Forsyth Park and steps from the Mercer-Williams House Museum, our walkable location is unbeatable. Enjoy a fully equipped kitchen, Wi-Fi, and a unique stay in a beautifully restored 1870s building. Perfect for couples or small families seeking a stylish and central Savannah getaway.
+
+The space
+Welcome to Classic Quarters at the 101, your charming retreat in the heart of Savannah's historic district. This elegant two-bedroom condo beautifully blends timeless Victorian architecture with modern comforts, creating a stylish and welcoming ambiance for your stay.
+
+Originally designed by the Meinhardt brothers in the 1870s, the space exudes historic charm with its soaring ceilings, warm hardwood floors, and intricate crown molding. The inviting living room features plush couches, cozy armchairs, and large windows overlooking downtown Savannah. Please note the fireplaces are decorative, adding to the home's historic character.
+
+The condo comfortably accommodates up to four guests in two bedrooms:
+*   Master Bedroom: King-size four-poster bed
+*   Second Bedroom: Queen-size four-poster bed
+
+Both bedrooms are outfitted with soft mattresses and fresh linens. Two full bathrooms add convenience, one with a walk-in shower and the other with a shower-and-bathtub combination.
+
+The fully equipped kitchen boasts stainless steel appliances and all the essentials you need:
+*   Full-size oven and stove
+*   Refrigerator and dishwasher
+*   Microwave, toaster, and coffee maker
+
+Modern amenities for a comfortable stay include:
+*   Whole-house Wi-Fi
+*   Flatscreen television
+*   Central air conditioning (AC)
+*   In-unit washer and dryer
+*   Hairdryer and ironing board
+
+Guest access
+Guests will have private and exclusive access to the entire two-bedroom condo. Entry is seamless with a keyless lock on the main exterior doors of the building. Classic Quarters at the 101 is Unit 3, located up one flight of stairs from the building's entrance.
+
+Other things to note
+*   This condo is professionally cleaned and thoughtfully stocked with essentials like soap, shampoo, and fresh towels for your arrival.
+*   Please be aware that the unit is on the second floor and requires guests to walk up one flight of stairs to access it.
+*   The fireplaces within the home are historic and for decorative purposes only; they are not functional.
+*   City of Savannah Short-Term Vacation Rental Permit #: SVR-02744
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Living room
+1 couch
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Washer
+Free dryer – In unit
+Air conditioning
+Exterior security cameras on property
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.9 out of 5 from 41 reviews.
+4.9
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 5% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+17
+Location
+31
+Parks
+3
+Cleanliness
+14
+Nearby
+6
+Hospitality
+12
+Comfort
+8
+Sleep quality
+5
+Decor
+4
+Accuracy
+5
+David
+Pound Ridge, New York
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had a lovely stay at this elegant home.  Tasteful decor, every imaginable amenity, and a  beautiful, peaceful neighborhood.  We would definitely stay again.
+Tyler
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Was a great place at a great location that was within walking distance to most things in town. Good amount of room and the place was very clean. Eric was very proactive in reaching out and making sure he was available if we needed anything. Would recommend this place!
+Show more
+Kit
+Montgomery, Alabama
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Had a great stay! Good location. Walkable to many establishments and parks. Would stay again if ever in the area.
+Austyn
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Had an amazing time. Awesome location, very clean, 10/10 experience!
+Lam
+Norfolk, Nebraska
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with kids
+Very nice place that was close to a lot of shops and restaurants!
+Debbie
+Spartanburg, South Carolina
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+We thoroughly enjoyed the space and our stay
+Show all 41 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Eric
+Superhost
+241 reviews
+241
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+3 years of hosting
+3
+Years hosting
+Born in the 70s
+Where I went to school: Florida State University
+My family has been visiting Savannah for over 15 years and fell in love with its charm and character. That eventually led to owning and managing multiple properties there. We’ve also expanded to New Smyrna Beach, offering a more relaxed coastal experience. With a background in hospitality, we focus on making every stay smooth, comfortable, and memorable. We take pride in clean, well maintained spaces and being responsive hosts so guests can truly enjoy their time.
+Eric is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm not reported
+Exterior security cameras on property
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,458 @@
+URL: https://www.airbnb.com/rooms/45258698
+Title: Liberty Street Redbrick Carriage House
+Latitude: 32.0734
+Longitude: -81.0869
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Christie
+Host ID: 49832551
+Host profile ID: 1462714232700236111
+Host URL: https://www.airbnb.com/users/profile/1462714232700236111
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+This gorgeous Carriage House and courtyard in historic Savannah is located in the beautiful Crawford Square area. You will be surrounded by locals and fellow visitors. It is within walking distance of all that this quaint town has to offer. It is a ½ mile to busy Broughton Street, home to numerous shops and restaurants. In addition, there are plenty of charming restaurants and unique shops throughout the square mile of historic Savannah.
+
+The space
+As you walk up the stairs to your home away from home you will be greeted by pure joy. The quaint space is home to a fully equipped kitchen and living space with a Smart TV that has YouTube TV for live programming and also has Roku channels. The bedroom has a King size bed and full bathroom with washer and dryer. There is also a pull-out Queen sofa bed in the living space.
+
+Guest access
+Guests have access to 1 private parking spot located in the garage. Additional free parking is available in front of the Main house and nearby parking is on-street and metered. Guests will need to be aware of the posted sweep zone signs.
+
+Other things to note
+If you have questions you need answered before securing your booking, or you simply want to talk with us first, please click my profile picture at the top of this listing and then click the "contact host" button to send an email directly to us without submitting a reservation request.
+
+Our home is in compliance with all Short-Term Vacation Rental laws in Savannah, Georgia. Our STVR permit number is
+SVR-02255
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Courtyard view
+Bathroom
+Bathtub
+Hair dryer
+ECO Amenities shampoo
+ECO amenities body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Clothing storage: walk-in closet, closet, and dresser
+Entertainment
+55 inch HDTV with Roku
+Sound system
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+There is two exterior cameras. One is overlooking the courtyard and the second one looks at the garage door.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 93 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+GE stainless steel electric stove
+Oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Fire pit
+Outdoor furniture
+Parking and facilities
+Free residential garage on premises – 1 space
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Liberty Street Redbrick Carriage House
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire guesthouse in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.88 out of 5 stars.
+4.88
+51 reviews
+51
+Reviews
+Hosted by Christie
+Superhost · 11 years hosting
+Listing highlights
+In Savannah's Historic District
+Right outside Crawford Square, with Troup Square and Lafayette Square about a 5-min walk away
+Free garage parking included
+A private garage spot is included, a real convenience in a city where street parking is metered
+Christie is a responsive host
+Guests praise Christie's responsiveness and the spotless, well-equipped space
+This gorgeous Carriage House and courtyard in historic Savannah is located in the beautiful Crawford Square area. You will be surrounded by locals and fellow visitors. It is within walking distance of all that this quaint town has to offer. It is a ½ mile to busy Broughton Street, home to numerous shops and restaurants. In addition, there are plenty of charming restaurants and unique shops throughout the square mile of historic Savannah.
+
+The space
+As you walk up the stairs to your home away from home you will be greeted by pure joy. The quaint space is home to a fully equipped kitchen and living space with a Smart TV that has YouTube TV for live programming and also has Roku channels. The bedroom has a King size bed and full bathroom with washer and dryer. There is also a pull-out Queen sofa bed in the living space.
+
+Guest access
+Guests have access to 1 private parking spot located in the garage. Additional free parking is available in front of the Main house and nearby parking is on-street and metered. Guests will need to be aware of the posted sweep zone signs.
+
+Other things to note
+If you have questions you need answered before securing your booking, or you simply want to talk with us first, please click my profile picture at the top of this listing and then click the "contact host" button to send an email directly to us without submitting a reservation request.
+
+Our home is in compliance with all Short-Term Vacation Rental laws in Savannah, Georgia. Our STVR permit number is
+SVR-02255
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Courtyard view
+Kitchen
+Fast wifi – 93 Mbps
+Dedicated workspace
+Free residential garage on premises – 1 space
+55 inch HDTV with Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Exterior security cameras on property
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.88 out of 5 from 51 reviews.
+4.88
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Parking
+25
+Walkability
+22
+Location
+34
+Hospitality
+17
+Cleanliness
+16
+Accuracy
+9
+Comfort
+10
+Quiet
+10
+Indoor spaces
+7
+Air conditioning
+3
+Elif Zeynep
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+I had a great stay! The place was very clean, comfortable, and had everything I needed. Christie was very helpful and accommodating, and she sent me some great local recommendations that I ended up checking out and really enjoyed. All the instructions were clear and easy to follow. Having a dedicated parking spot was also a huge plus, especially in Savannah. I would definitely recommend staying here.
+Show more
+Ben
+Matthews, North Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+This was my second trip to Savannah, I booked this location last minute and was not disappointed. Kind of difficult to find at first but if you take the time to read the provided instructions ahead of time, you shouldn’t have an issue. Space was immaculate, extremely clean and polished. Modern amenities and living space in a historic part of town. Location is PERFECT; just about everywhere you’d want to go is a ten to fifteen minute scenic walk away. 
+Overall I’d definitely recommend this location to my fellow travelers.
+Show more
+Keri
+Columbus, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+I had a great stay! The only downside was it took the A/C a while to cool the place down and the box fan was super squeaky. Other than that, a great experience!
+Daniel
+5 years on Airbnb
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Christie was great to work with, very responsive.  The place was as it was described.  The garage parking was great but will only fit a car or midsize suv.  It’s walkable to the river and all that it has to offer.  I’d stay again!
+Show more
+Joel
+Orlando, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Great location , private with a garage if needed and extra parking out front of townhome. Would stay again if in the area.
+Chamberley
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+We thoroughly enjoyed our stay here. The location is prime, with a short 10-20 min walk to shops and restaurants but never felt far away. The carriage house itself had everything we needed for the two of us. We especially enjoyed the pullout couch, stereo system, and garage parking. Would definitely stay here again!
+Show more
+Show all 51 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Show more
+Meet your host
+Christie
+Superhost
+1,099 reviews
+1099
+Reviews
+4.87 out of 5 average rating
+4.87
+Rating
+11 years of hosting
+11
+Years hosting
+My work: Salt Marsh Realty / Mint Julep Vacation Rentals
+Speaks English
+We've lived in Savannah for over 20 years each. We still live downtown but decided to rent our homes as vacation rentals because we want you to enjoy Downtown Savannah as much as we do. All of our homes are located in the Historic / Victorian district and in walking distance to Forsyth Park where we love to go on Saturday mornings for the Farmers Market or have a picnic on Sunday afternoon. Our kids love the playground and the grand yard. Our properties were decorated to be comfortable for you and your family/friends. We have a large sectional sofa in the living rooms. We want you to relax when you're at our homes and if that means lying on the couch and watching a movie then this is the right place for you! We are both Realtors for Salt Marsh Realty. So if you decide that you want to buy a home while visiting Savannah, please let us know.
+Christie is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 3:00 PM - 2:00 AM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Guesthouse vacation rentals in Savannah
+Guesthouse vacation rentals in Chatham County
+Guesthouse vacation rentals in Georgia
+Guesthouse vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

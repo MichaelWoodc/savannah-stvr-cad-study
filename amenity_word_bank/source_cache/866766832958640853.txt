@@ -1,0 +1,376 @@
+URL: https://www.airbnb.com/rooms/866766832958640853
+Title: 2 King Beds • 2 Hot Tubs • 2 Parking • Sleeps 8
+Latitude: 32.07108
+Longitude: -81.09963
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sid
+Host ID: 136433479
+Host profile ID: 1468358408345466394
+Host URL: https://www.airbnb.com/users/profile/1468358408345466394
+Bedrooms: 4
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 5
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed
+
+=== FULL DESCRIPTION ===
+2 King Beds • 2 Hot Tubs • 2 Parking Spaces • Sleeps 8
+
+Stay steps from Forsyth Park in Savannah’s Historic District. This listing includes both apartments in the same home, giving your group extra privacy and space to spread out. Enjoy a gorgeous private courtyard with two hot tubs, perfect for couples, friends, or groups. Walk to the Forsyth Fountain in 1 minute and River Street in under 15 minutes. Free off-street parking included.
+
+The space
+Enjoy the privacy and flexibility of two separate apartments with one shared entrance, making this a perfect setup for families, friends, bridal parties, or groups traveling together.
+
+The lower apartment features two bedrooms and one bathroom. The primary bedroom has a king-size bed, while the second bedroom includes two twin beds. The bathroom has a walk-in shower, toilet, and sink. This unit also includes a washer and dryer, conveniently located near the entry door.
+
+The upper apartment offers two additional bedrooms and one bathroom. The primary bedroom has a king-size bed, and the second bedroom has a queen-size bed. There is also a pullout sofa in the upstairs living room for extra sleeping space.
+
+Step outside to the private back courtyard, a peaceful retreat to enjoy year-round. The courtyard features two hot tubs, comfortable patio furniture, and plenty of privacy for you and your guests to relax after a day of exploring Savannah.
+
+Guest access
+The guest will have access to the entire home.
+
+Other things to note
+Hot Tub – Please note that the patio area is shared between both units. Each unit has its own private hot tub for guest use; however, the patio itself is a shared outdoor space.
+
+Parking is on side of house (Huntingdon St.) There is enough space for 2 cars.
+
+There is an outdoor security camera in the parking area.
+
+There is a laundry room at the bottom of the entry stairs.
+
+Short-Term Vacation Rental Certificate: SVR-03267
+Short-Term Vacation Rental Certificate: SVR-03268
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+No audio - camera located on the front porch
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free driveway parking on premises – 2 spaces
+Free street parking
+Hot tub
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+2 King Beds • 2 Hot Tubs • 2 Parking • Sleeps 8
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 4 bedrooms · 5 beds · 2 baths
+No reviews yet
+No reviews yet
+Hosted by Sid
+Superhost · 9 years hosting
+Listing highlights
+In Savannah's Victorian District
+Forsyth Park is about a 5-min walk away, with Monterey Square and River Street also walkable
+Private courtyard with two hot tubs
+A private courtyard with two hot tubs, tucked behind the house for unwinding after a day out
+A two-unit layout with extra privacy
+Two separate apartments in one home, each with its own bedroom layout and living space
+2 King Beds • 2 Hot Tubs • 2 Parking Spaces • Sleeps 8
+
+Stay steps from Forsyth Park in Savannah’s Historic District. This listing includes both apartments in the same home, giving your group extra privacy and space to spread out. Enjoy a gorgeous private courtyard with two hot tubs, perfect for couples, friends, or groups. Walk to the Forsyth Fountain in 1 minute and River Street in under 15 minutes. Free off-street parking included.
+
+The space
+Enjoy the privacy and flexibility of two separate apartments with one shared entrance, making this a perfect setup for families, friends, bridal parties, or groups traveling together.
+
+The lower apartment features two bedrooms and one bathroom. The primary bedroom has a king-size bed, while the second bedroom includes two twin beds. The bathroom has a walk-in shower, toilet, and sink. This unit also includes a washer and dryer, conveniently located near the entry door.
+
+The upper apartment offers two additional bedrooms and one bathroom. The primary bedroom has a king-size bed, and the second bedroom has a queen-size bed. There is also a pullout sofa in the upstairs living room for extra sleeping space.
+
+Step outside to the private back courtyard, a peaceful retreat to enjoy year-round. The courtyard features two hot tubs, comfortable patio furniture, and plenty of privacy for you and your guests to relax after a day of exploring Savannah.
+
+Guest access
+The guest will have access to the entire home.
+
+Other things to note
+Hot Tub – Please note that the patio area is shared between both units. Each unit has its own private hot tub for guest use; however, the patio itself is a shared outdoor space.
+
+Parking is on side of house (Huntingdon St.) There is enough space for 2 cars.
+
+There is an outdoor security camera in the parking area.
+
+There is a laundry room at the bottom of the entry stairs.
+
+Short-Term Vacation Rental Certificate: SVR-03267
+Short-Term Vacation Rental Certificate: SVR-03268
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 5 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free driveway parking on premises – 2 spaces
+Hot tub
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Exterior security cameras on property
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+No reviews (yet)
+This host has 2,492 reviews for other places to stay. Show other reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+This home is located in the Victorian District of Savannah. Step into the street off of the front porch and you'll see the gorgeous fountain at Forsyth Park, home to a farmer's market every Saturday and hundreds of events each year. The streets are quiet and walkable. Park your car and spend your weekend strolling through Savannah and enjoying the gorgeous trees, houses and views of historic home.
+Show more
+Meet your host
+Sid
+Superhost
+2,492 reviews
+2492
+Reviews
+4.74 out of 5 average rating
+4.74
+Rating
+9 years of hosting
+9
+Years hosting
+My work: Sid Was Here Short Term Rentals
+Speaks Spanish
+I absolutely love being an AirBNB host. I have met wonderful people from all over the world. My husband and I have rehabbed, decorated and furnished each property ourselves and I love a good theme. I also manage homes for other homeowners and I enjoy that tremendously. My husband is Don and we live nearby. We love to travel, but rarely get to. We both work full time and host in our spare time. Don was raised in a missionary family. He was born in Bolivia and raised in Peru. He speaks Spanish fluently. Julie is the face you'll see most often. She is a busy mom and spends a lot of time sewing (crochet and knitting) while watching her boys play baseball. Josh is the family squirrel expert. He found Sid, an infant squirrel in need of rescue. Sid Was Here was named in her memory.
+Sid is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Bella
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

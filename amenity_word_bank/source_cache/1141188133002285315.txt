@@ -1,0 +1,482 @@
+URL: https://www.airbnb.com/rooms/1141188133002285315
+Title: Magnolia House - 3BR, Downtown, Easy Parking
+Latitude: 32.0729
+Longitude: -81.0875
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 5
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 double bed, 1 single bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Welcome to your Savannah sanctuary—an elegant home with high-end finishes, plush furnishings, and all the modern comforts. Cook with ease in the fully equipped kitchen featuring stainless steel appliances and granite countertops.
+
+The space
+Enjoy meals in the beautiful dining area or grab a quick bite at the kitchen bar.
+
+Relax in the cozy living area with a flat-screen TV, or unwind with coffee or wine among friends. 
+
+Choose from three beautifully appointed bedrooms, including a master suite with a private ensuite bath.
+
+Nestled in Savannah’s historic district, this home is walkable to River Street, museums, restaurants, and more. 
+
+Your reservation includes one garage space suitable for a mid-size or smaller vehicle, and there’s ample free street parking available in the area around the house. 
+
+Please note: the garage and courtyard are shared spaces with guests staying in the other units on the property.
+
+Experience Southern charm and hospitality at its finest.
+
+STVR Certificate: SVR-01419
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Public Goods Shampoo shampoo
+Public Goods Conditioner conditioner
+Public Goods Body Wash body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+TV with Roku
+Family
+Pack ’n play/Travel crib
+Board games
+Baby safety gates
+Heating and cooling
+Air conditioning
+Indoor fireplace: gas
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Magnolia House - 3BR, Downtown, Easy Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 3 bedrooms · 5 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+81 reviews
+81
+Reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+In Savannah's historic district
+Steps from Troup Square, with the Cathedral of St. John the Baptist about a 5-min walk away
+Kitchen built for cooking in
+A fully equipped kitchen with granite countertops, stainless steel appliances, and a dishwasher
+Comfy beds and a great host
+Guests highlight the comfortable beds, and many praise Chaz as a responsive and attentive host
+Welcome to your Savannah sanctuary—an elegant home with high-end finishes, plush furnishings, and all the modern comforts. Cook with ease in the fully equipped kitchen featuring stainless steel appliances and granite countertops.
+
+The space
+Enjoy meals in the beautiful dining area or grab a quick bite at the kitchen bar.
+
+Relax in the cozy living area with a flat-screen TV, or unwind with coffee or wine among friends. 
+
+Choose from three beautifully appointed bedrooms, including a master suite with a private ensuite bath.
+
+Nestled in Savannah’s historic district, this home is walkable to River Street, museums, restaurants, and more. 
+
+Your reservation includes one garage space suitable for a mid-size or smaller vehicle, and there’s ample free street parking available in the area around the house. 
+
+Please note: the garage and courtyard are shared spaces with guests staying in the other units on the property.
+
+Experience Southern charm and hospitality at its finest.
+
+STVR Certificate: SVR-01419
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 5 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 double bed, 1 single bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with Roku
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Show all 53 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 81 reviews.
+4.95
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 1% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+34
+Location
+45
+Comfort
+27
+Cleanliness
+25
+Parking
+18
+Hospitality
+28
+Decor
+13
+Nearby
+16
+Indoor spaces
+12
+Sleep quality
+12
+John
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Beautiful renovated townhome.  Live like a local when you stay here.  Very relaxed, peaceful atmosphere in the home.  Walkable to shops and restaurants.  Very nice!
+Kayla
+North Providence, Rhode Island
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed with a pet
+Great place, very beautiful and comfortable!
+Jose
+Tucker, Georgia
+Rating, 2 stars
+,
+·
+August 2026
+,
+·
+Group trip
+The property was beautiful and well located, but unfortunately, the check-in and checkout processes were frustrating. The house entrance is at 525A East Liberty Street, while the garage entrance is at 524 East Liberty Lane. This important distinction was buried among the other instructions and made the property difficult to locate.
+The keypad at the back of the house did not work, and the host had to come to the property and spend about an hour fixing it. We also found a dirty, unpleasant-smelling towel in a bedroom closet and left it where we found it.
+Finally, we could not find checkout instructions in any of the emails or inside the house, so we simply did what is customary. Clearer, simpler instructions and closer attention to cleanliness would significantly improve the experience for future guests.
+Show more
+Karin
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Big, comfortable house! Felt directly at home. Special mention of the beds and the showers, they were great!
+Avni
+Troy, Michigan
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Great stay! The place was very clean, in a great location, and exactly as described. The host was incredibly responsive, replying to any questions within about 10 minutes.
+Diane
+New Jersey, United States
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+House was in pristine condition when we arrived! 10-15 minute walk to town for shopping and food. I’d definitely stay there again!
+Show all 81 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+This location is downtown just a few blocks from all the action on a safe and quiet street. Every street in Savannah has something to explore.
+Show more
+Meet your host
+Chaz
+Superhost
+3,098 reviews
+3098
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

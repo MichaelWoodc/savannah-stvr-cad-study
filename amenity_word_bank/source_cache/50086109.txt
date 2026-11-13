@@ -1,0 +1,696 @@
+URL: https://www.airbnb.com/rooms/50086109
+Title: Roof Top Deck With Views of the Savannah River!
+Latitude: 32.08198
+Longitude: -81.09432
+Privacy radius (meters): 152
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Of all the most breathtaking views in the world, the perspective from Riverview Penthouse is one of the most striking. Located in a historic brick building on the lovely Savannah River waterfront, this crown jewel of vacation rentals Savannah GA has ample space for up to six, with two bedrooms, three baths plus pool access. As one of our most-asked-for Savannah vacation rentals, iits location and its many amenities add up to more than the sum of its parts, making for a getaway like no other.
+
+The space
+A Tour of Riverview Penthouse
+
+
+
+When you first drive into the quaint brick courtyard of Riverview Penthouse, the stately building with distinctive art deco touches won’t fail to impress. With two dedicated parking spots, you’ll have plenty of room for unloading your luggage. Once you go up a flight of stairs, there is an elevator inside for convenient loft access. 
+
+
+
+Gracious French doors open at the top to gleaming hardwood floors, exquisite brickwork and large, light-filled windows. The generously sized living area features a pair of plush sofas, a wall-mounted television, and tasteful art. In an alcove adjacent to the living room, a rich wood cupboard conceals a Murphy bed for two. The grilled windows and glass balcony door frame priceless views of the Savannah River and the brick-paved River Walk below.
+
+
+
+Just outside, your own private balcony provides a bird’s-eye view of the bustling harbor, the wide, languid river and the kaleidoscope of passersby. You’ll love stepping out into the open air each morning to relax over coffee or enjoy refreshing cocktails as the evening begins.
+
+
+
+At mealtimes, enjoy the spacious breakfast bar with stools for six, which delineates the gourmet kitchen. A French door refrigerator, gas range-oven, dishwasher and microwave provide the means to create sumptuous meals, and the cupboards hold dishes, glasses, silverware and cookware for your use throughout your Savannah vacation homes stay.
+
+
+
+Take the graceful spiral staircase to the next level, which hosts its own sitting room. A wall of windows provides more spectacular views. A rooftop sundeck offers luxurious cushioned seating plus a bistro table for intimate conversations over tall ice teas.
+
+
+
+Inside, the majestic master suite features a fabulous king-sized bed piled high with pillows. Large, shuttered windows let in morning light while beyond a half wall, the sitting room awaits with a cushy loveseat and a desk space for your laptop. The master bath boasts a spacious glassed-in shower, ample counterspace and all the towels you will need during your Savannah vacation rentals stay.
+
+
+
+The second bedroom has a queen-sized bed, night stands with reading lamps plus a chest of drawers. Two additional bathrooms feature showers and lovely décor. Behind the curtains, you'll find a washer and dryer for your use.
+
+
+
+Don’t forget your unlimited access to our guests-only heated pool on Tybee Island. Other amenities you’ll enjoy at Riverview Penthouse include ceiling fans throughout, central heating and air conditioning, and those little essentials, such as an ironing board, that cater to your every need.
+
+
+
+A Tour of the Savannah Riverfront
+
+
+
+Riverview Penthouse is ideally located for exploring the city’s history, arts and eclectic cuisine. With several monuments and greenspaces to visit, you’ll be well supplied with photo ops as you stroll along the River Walk. The area also offers more than 75 galleries, shops, studios, restaurants and friendly pubs, so you can divide your days between shopping, dining and sunning poolside with other guests of ours.
+
+
+
+As you navigate the cobblestoned walks, take a look at the individual stones beneath your feet. They hail from far-flung ports of call where cargo ships took them aboard for ballast. Upon arriving in the Port of Savannah, these ships left the stones behind. Thrifty settlers used this granite, quartz and basalt in building the streets and walkways that serve the city’s historic district still.
+
+
+
+Be sure to visit one or more of the monuments along the river. From the Waving Girl Statue and the Olympic Caldron at the eastern section of River Street to the African-American Monument and the World War II monument further west, these artful statues are well worth the short walk.
+
+
+
+If shopping is on your agenda, you’re sure to find what you’re looking for and more in the many unique shops along the river. Located in stately brick cotton warehouses from yesteryear, they offer treasure troves of souvenirs, clothing, home décor and sweet treats. You’ll even find an outdoor market with a little bit of everything.
+
+
+
+Some of Savannah’s most popular restaurants are nearby your Riverview Penthouse accommodation too. These include the Olympia Café, The Shrimp Factory and Vic’s on the River. They all serve local fare, including fresh seafood. Stop for a nightcap and a view of the city lights at the Topdeck or Rocks on the Roof.
+
+
+
+Rousakis Plaza, a riverfront venue, features frequent festivals and events, including:
+
+
+
+    Film Festival in March
+
+    Spring Fling in April
+
+    Celebrate Women in May
+
+    Juneteenth on the River
+
+    Cool-down Summer Music Fest in August
+
+    Gullah Geechee Weekend in October
+
+
+
+If your visit coincides with a fun event, be sure to join in to get a true taste of what makes Savannah wonderful. Reserve the Riverview Penthouse today, and you'll be at the center of the River Street action.
+
+
+
+SVR-01355
+
+Guest access
+Occupancy: 6
+
+Full kitchen
+
+Breakfast bar with seating for 6
+
+Bedroom 1: King bed
+
+Bedroom 2: Queen Bed
+
+Full bathrooms: 3
+
+Extra sleeping space: Queen size murphy bed in living room
+
+Washer/dryer
+
+Special amenities: Private roof top deck with massive views of the Savannah River, elevator in unit
+
+Parking: private parking for 2 vehicles depending on size
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on Tybee Island. For our Savannah properties it is a scenic 25-minute drive through Wilmington and Whitmarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+         
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday. 
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Pool
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Washer
+Washer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Roof Top Deck With Views of the Savannah River!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+6 guests · 2 bedrooms · 2 beds · 3 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+26 reviews
+26
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+On Savannah's River Street
+Steps from Rousakis Plaza, with Ellis Square and City Market about a 5-min walk away
+Private rooftop deck with river views
+A private rooftop sundeck with cushioned seating and views of the Savannah River
+Loved for the views and walkability
+Guests highlight the spacious layout, the views, and how easy it is to walk everywhere
+Of all the most breathtaking views in the world, the perspective from Riverview Penthouse is one of the most striking. Located in a historic brick building on the lovely Savannah River waterfront, this crown jewel of vacation rentals Savannah GA has ample space for up to six, with two bedrooms, three baths plus pool access. As one of our most-asked-for Savannah vacation rentals, iits location and its many amenities add up to more than the sum of its parts, making for a getaway like no other.
+
+The space
+A Tour of Riverview Penthouse
+
+
+
+When you first drive into the quaint brick courtyard of Riverview Penthouse, the stately building with distinctive art deco touches won’t fail to impress. With two dedicated parking spots, you’ll have plenty of room for unloading your luggage. Once you go up a flight of stairs, there is an elevator inside for convenient loft access. 
+
+
+
+Gracious French doors open at the top to gleaming hardwood floors, exquisite brickwork and large, light-filled windows. The generously sized living area features a pair of plush sofas, a wall-mounted television, and tasteful art. In an alcove adjacent to the living room, a rich wood cupboard conceals a Murphy bed for two. The grilled windows and glass balcony door frame priceless views of the Savannah River and the brick-paved River Walk below.
+
+
+
+Just outside, your own private balcony provides a bird’s-eye view of the bustling harbor, the wide, languid river and the kaleidoscope of passersby. You’ll love stepping out into the open air each morning to relax over coffee or enjoy refreshing cocktails as the evening begins.
+
+
+
+At mealtimes, enjoy the spacious breakfast bar with stools for six, which delineates the gourmet kitchen. A French door refrigerator, gas range-oven, dishwasher and microwave provide the means to create sumptuous meals, and the cupboards hold dishes, glasses, silverware and cookware for your use throughout your Savannah vacation homes stay.
+
+
+
+Take the graceful spiral staircase to the next level, which hosts its own sitting room. A wall of windows provides more spectacular views. A rooftop sundeck offers luxurious cushioned seating plus a bistro table for intimate conversations over tall ice teas.
+
+
+
+Inside, the majestic master suite features a fabulous king-sized bed piled high with pillows. Large, shuttered windows let in morning light while beyond a half wall, the sitting room awaits with a cushy loveseat and a desk space for your laptop. The master bath boasts a spacious glassed-in shower, ample counterspace and all the towels you will need during your Savannah vacation rentals stay.
+
+
+
+The second bedroom has a queen-sized bed, night stands with reading lamps plus a chest of drawers. Two additional bathrooms feature showers and lovely décor. Behind the curtains, you'll find a washer and dryer for your use.
+
+
+
+Don’t forget your unlimited access to our guests-only heated pool on Tybee Island. Other amenities you’ll enjoy at Riverview Penthouse include ceiling fans throughout, central heating and air conditioning, and those little essentials, such as an ironing board, that cater to your every need.
+
+
+
+A Tour of the Savannah Riverfront
+
+
+
+Riverview Penthouse is ideally located for exploring the city’s history, arts and eclectic cuisine. With several monuments and greenspaces to visit, you’ll be well supplied with photo ops as you stroll along the River Walk. The area also offers more than 75 galleries, shops, studios, restaurants and friendly pubs, so you can divide your days between shopping, dining and sunning poolside with other guests of ours.
+
+
+
+As you navigate the cobblestoned walks, take a look at the individual stones beneath your feet. They hail from far-flung ports of call where cargo ships took them aboard for ballast. Upon arriving in the Port of Savannah, these ships left the stones behind. Thrifty settlers used this granite, quartz and basalt in building the streets and walkways that serve the city’s historic district still.
+
+
+
+Be sure to visit one or more of the monuments along the river. From the Waving Girl Statue and the Olympic Caldron at the eastern section of River Street to the African-American Monument and the World War II monument further west, these artful statues are well worth the short walk.
+
+
+
+If shopping is on your agenda, you’re sure to find what you’re looking for and more in the many unique shops along the river. Located in stately brick cotton warehouses from yesteryear, they offer treasure troves of souvenirs, clothing, home décor and sweet treats. You’ll even find an outdoor market with a little bit of everything.
+
+
+
+Some of Savannah’s most popular restaurants are nearby your Riverview Penthouse accommodation too. These include the Olympia Café, The Shrimp Factory and Vic’s on the River. They all serve local fare, including fresh seafood. Stop for a nightcap and a view of the city lights at the Topdeck or Rocks on the Roof.
+
+
+
+Rousakis Plaza, a riverfront venue, features frequent festivals and events, including:
+
+
+
+    Film Festival in March
+
+    Spring Fling in April
+
+    Celebrate Women in May
+
+    Juneteenth on the River
+
+    Cool-down Summer Music Fest in August
+
+    Gullah Geechee Weekend in October
+
+
+
+If your visit coincides with a fun event, be sure to join in to get a true taste of what makes Savannah wonderful. Reserve the Riverview Penthouse today, and you'll be at the center of the River Street action.
+
+
+
+SVR-01355
+
+Guest access
+Occupancy: 6
+
+Full kitchen
+
+Breakfast bar with seating for 6
+
+Bedroom 1: King bed
+
+Bedroom 2: Queen Bed
+
+Full bathrooms: 3
+
+Extra sleeping space: Queen size murphy bed in living room
+
+Washer/dryer
+
+Special amenities: Private roof top deck with massive views of the Savannah River, elevator in unit
+
+Parking: private parking for 2 vehicles depending on size
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on Tybee Island. For our Savannah properties it is a scenic 25-minute drive through Wilmington and Whitmarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+         
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday. 
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Waterfront
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV
+Air conditioning
+Patio or balcony
+Hair dryer
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 26 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Location
+19
+View
+16
+Parking
+4
+River
+3
+Walkability
+5
+Nearby
+6
+Quiet
+2
+Hospitality
+3
+Cleanliness
+3
+Comfort
+2
+Matthew
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This place is worth every cent.  Beautiful views, amazing property, spacious, quiet at night. You cannot go wrong. The host was super responsive and helped when needed. We will be back.
+Show more
+Millie
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+Fantastic place, much more spacious than the photos suggest. The location is incredibly convenient, with beautiful views that made the stay even more enjoyable. Truly a stunning home!
+We did have a minor issue with an unknown person parking in our allocated spot, but it was handled quickly and professionally by the property managers. I really appreciated how efficiently they resolved it.
+Overall, a lovely experience, with consistent and quick communication with the host. Would absolutely stay again.
+Show more
+Scott
+Chapel Hill, North Carolina
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Great location, easy to do all the things in Savannah. Space was wonderful and fun to hang out in. Parking worked out well. Would stay again.
+Tim
+Oviedo, Florida
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Unit in a great location, easy walk to restaurants, bars, shops and historical sites. Unit matched the description and photos. Well equipped with everything you need for your stay. Would rent again. Communication from the host excellent.
+Show more
+Christopher
+Marietta, Georgia
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Stayed a few nights
+An excellent central location, very comfortable, soft beds, the view point of the river was amazing… the two parking spaces was really a great bonus, which made going to all the local places a lot easier…Definitely will book again when coming back to Savannah. Definitely one of the top five of my Airbnb experiences. Overall a  fantastic property…
+Show more
+Tracy
+New Philadelphia, Ohio
+Rating, 4 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+Great location, very clean, nice roof top space, a few minor maintenance issues but we are sure they will address them soon. We enjoyed the space and would book again.
+Show all 26 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+Waterfront vacation rentals in Savannah
+Beach condo vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

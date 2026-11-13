@@ -1,0 +1,400 @@
+URL: https://www.airbnb.com/rooms/1711061116824505996
+Title: Forsyth Park Grand Getaway | A Historic Mansion
+Latitude: 32.0665
+Longitude: -81.0946
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah And Michael
+Host ID: 392686204
+Host profile ID: 1469814568914204522
+Host URL: https://www.airbnb.com/users/profile/1469814568914204522
+Bedrooms: 8
+Occupancy (maximum guests): 12
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 8
+
+Beds enumerated in room tiles: 8
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 single bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 king bed
+
+Bedroom 6
+1 single bed
+
+Bedroom 7
+1 king bed
+
+Bedroom 8
+1 king bed
+
+=== FULL DESCRIPTION ===
+Make memories in this spacious historic mansion, built in 1888 - just one block from Forsyth Park! Perfect for large groups, this unique property sleeps 12 with 8 bedrooms and 4.5 baths. Guests will enjoy exclusive access to both the upper and lower condos, featuring 2 full kitchens, 2 living rooms, and plenty of room to relax and gather! Outdoor escapes await with two inviting balconies, large back porch, and backyard! Experience true Southern charm in this timeless estate!
+
+SVR 02226 and 02227
+
+The space
+Step into the timeless beauty of historic Savannah and make yourself at home in this expansive retreat just one block from Forsyth Park. Blending preserved architectural character with modern comfort, this one-of-a-kind property offers abundant space for large groups to gather, unwind, and experience the best of Savannah together.
+
+The first floor space features a comfortable and private living space with a large primary bedroom with a king bed, TV, and an en suite bathroom complete with a beautiful clawfoot tub. There is also a cozy queen bedroom with TV, a smaller twin bedroom, an additional full bathroom, and a laundry room. The eat-in kitchen is fully equipped for gathering and meals, while the living room provides a welcoming space to relax. A small office off the kitchen opens directly onto the back deck, where you’ll find outdoor dining furniture overlooking the lush backyard.
+
+The upper levels (second and third floors) offer even more space to gather and unwind. On the second floor, guests will find a second full kitchen, an additional laundry space, a large entertaining area with a spacious dining table, and a living space, perfect for relaxing or socializing. This level also includes three bedrooms: two king bedrooms, each with private walk-out balconies, and one twin bedroom with a desk workspace.
+
+The third floor features two additional king bedrooms, connected by a cozy lofted lounge space with a TV—perfect for movie nights or a quiet retreat—along with a convenient half bathroom.
+
+With two fully stocked kitchens, multiple living areas, outdoor spaces including a deck, backyard, and balconies, and room to comfortably sleep up to 12 guests, this thoughtfully appointed home is ideal for family gatherings, celebrations, and group getaways. Free street parking is available all around the home, and the location makes it easy to walk to Savannah’s best parks, restaurants, shops, and historic landmarks.
+
+Guest access
+The entire space is yours! You have full, private access to both condos in this home, along with the back yard and deck.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet, wardrobe, and dresser
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+There is an exterior security camera located at the front door of the building for guest safety and the security of the premises.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Patio or balcony
+Private backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Forsyth Park Grand Getaway | A Historic Mansion
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+12 guests · 8 bedrooms · 8 beds · 4.5 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+1 review
+Hosted by Sarah And Michael
+Superhost · 6 years hosting
+Listing highlights
+In Savannah, steps from Forsyth Park
+Forsyth Park is steps away, with Savannah's historic squares and landmarks within a 10-min walk.
+1888 mansion with two full kitchens
+Two full kitchens, two living rooms, and outdoor dining on the back deck overlooking a private backyard.
+Clean and well-equipped throughout
+One guest described it as a beautiful house in a pristine location, noting it was clean and well-equipped.
+Make memories in this spacious historic mansion, built in 1888 - just one block from Forsyth Park! Perfect for large groups, this unique property sleeps 12 with 8 bedrooms and 4.5 baths. Guests will enjoy exclusive access to both the upper and lower condos, featuring 2 full kitchens, 2 living rooms, and plenty of room to relax and gather! Outdoor escapes await with two inviting balconies, large back porch, and backyard! Experience true Southern charm in this timeless estate!
+
+SVR 02226 and 02227
+
+The space
+Step into the timeless beauty of historic Savannah and make yourself at home in this expansive retreat just one block from Forsyth Park. Blending preserved architectural character with modern comfort, this one-of-a-kind property offers abundant space for large groups to gather, unwind, and experience the best of Savannah together.
+
+The first floor space features a comfortable and private living space with a large primary bedroom with a king bed, TV, and an en suite bathroom complete with a beautiful clawfoot tub. There is also a cozy queen bedroom with TV, a smaller twin bedroom, an additional full bathroom, and a laundry room. The eat-in kitchen is fully equipped for gathering and meals, while the living room provides a welcoming space to relax. A small office off the kitchen opens directly onto the back deck, where you’ll find outdoor dining furniture overlooking the lush backyard.
+
+The upper levels (second and third floors) offer even more space to gather and unwind. On the second floor, guests will find a second full kitchen, an additional laundry space, a large entertaining area with a spacious dining table, and a living space, perfect for relaxing or socializing. This level also includes three bedrooms: two king bedrooms, each with private walk-out balconies, and one twin bedroom with a desk workspace.
+
+The third floor features two additional king bedrooms, connected by a cozy lofted lounge space with a TV—perfect for movie nights or a quiet retreat—along with a convenient half bathroom.
+
+With two fully stocked kitchens, multiple living areas, outdoor spaces including a deck, backyard, and balconies, and room to comfortably sleep up to 12 guests, this thoughtfully appointed home is ideal for family gatherings, celebrations, and group getaways. Free street parking is available all around the home, and the location makes it easy to walk to Savannah’s best parks, restaurants, shops, and historic landmarks.
+
+Guest access
+The entire space is yours! You have full, private access to both condos in this home, along with the back yard and deck.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 8 | Enumerated: 8 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 single bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 king bed
+
+Bedroom 6
+1 single bed
+
+Bedroom 7
+1 king bed
+
+Bedroom 8
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 53 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+1 review
+1 review
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Carter
+Savannah, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+This was a very beautiful house in a pristine location in Savannah. The spaces were clean and everything needed was provided.
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Sarah And Michael
+Superhost
+876 reviews
+876
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+6 years of hosting
+6
+Years hosting
+Sarah And Michael is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+12 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

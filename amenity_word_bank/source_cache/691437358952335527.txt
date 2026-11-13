@@ -1,0 +1,467 @@
+URL: https://www.airbnb.com/rooms/691437358952335527
+Title: Victorian Retreat with Private Balcony by Forsyth!
+Latitude: 32.06403
+Longitude: -81.09804
+Privacy radius (meters): 152
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon
+Host ID: 305555765
+Host profile ID: 1469564204110765525
+Host URL: https://www.airbnb.com/users/profile/1469564204110765525
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 4
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 single bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Your Savannah vacation awaits!  Step back in time and enjoy your stay in our lovely, second floor Victorian condo retreat! Spacious living room, well-equipped kitchen, and light drenched balcony perched amongst Savannah's live oak trees! Just steps from Forsyth Park! Old world charm meets all the modern comforts and updates you could ask for!  Have a large family or meeting friends in town???  Rent the downstairs also - airbnb.com/h/brightandpristinecondo
+
+SVR 01661
+
+Guest access
+The entire second floor, fully equipped apartment is yours! Enjoy the seating on the private balcony as an added bonus!
+
+Other things to note
+To ensure all of our guest have a pleasant stay and to respect our neighbors all parties or large gatherings are prohibited.  Thank you for understanding   :o)
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: wardrobe and dresser
+Entertainment
+50 inch HDTV with Roku
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Portable fans
+Central heating
+Home safety
+Noise decibel monitors on property
+Exterior security cameras on property
+Security cameras on exterior of building monitoring entrances for guest safety.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel oven
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Parking and facilities
+Free driveway parking on premises – 1 space
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Victorian Retreat with Private Balcony by Forsyth!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+6 guests · 3 bedrooms · 4 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+278 reviews
+278
+Reviews
+Hosted by Brandon
+Superhost · 7 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Victorian District by Forsyth Park
+Steps from Forsyth Park, with restaurants, cafes, and the free DOT trolley within a block or two
+Private balcony under the oaks
+A private balcony tucked among live oak trees, where guests love to start and end the day
+Brandon is a standout host
+Guests highlight Brandon's responsiveness, local tips, and how comfortable the beds are
+Your Savannah vacation awaits!  Step back in time and enjoy your stay in our lovely, second floor Victorian condo retreat! Spacious living room, well-equipped kitchen, and light drenched balcony perched amongst Savannah's live oak trees! Just steps from Forsyth Park! Old world charm meets all the modern comforts and updates you could ask for!  Have a large family or meeting friends in town???  Rent the downstairs also - airbnb.com/h/brightandpristinecondo
+
+SVR 01661
+
+Guest access
+The entire second floor, fully equipped apartment is yours! Enjoy the seating on the private balcony as an added bonus!
+
+Other things to note
+To ensure all of our guest have a pleasant stay and to respect our neighbors all parties or large gatherings are prohibited.  Thank you for understanding   :o)
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 4 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 single bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free driveway parking on premises – 1 space
+50 inch HDTV with Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Private patio or balcony
+Exterior security cameras on property
+Show all 52 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 278 reviews.
+4.92
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+91
+Location
+134
+Parks
+31
+Hospitality
+91
+Comfort
+75
+Family
+36
+Nearby
+57
+Indoor spaces
+39
+Parking
+27
+Cleanliness
+72
+Kristen
+1 month on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Beautiful parks and great place to stay. The floors were so clean and rooms were beautiful. The kitchen was well stocked with appliances and food wares. Refrigerator with ice/water was an added benefit. The balcony was a nice place to begin and end the day. I would definitely stay again-probably an entire week to see more of the area.
+Show more
+Bethany
+Chicago, Illinois
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with kids
+This was a perfect stay for us on our family road trip. It is in a very walkable area. Parking was easy. Space is beautiful and spacious. My in laws could not stop talking about enjoying their coffee on the porch. The space is very well taken care of and reflected just as in the pictures. Was already told to save as a favorite for future trips!
+Show more
+Jennifer
+San Diego, California
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed about a week
+You can’t beat this charming location.  After exploring Savannah, I felt like a genius for booking this spot. My family was comfortable, we could walk out for groceries, lovely meals, code in the morning etc. Every detail was taken care of. I’ll be back!!!
+Show more
+Sally
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed one night
+We had a great trip!  We walked down to Local 1110 for dinner and had a fabulous meal and walk around the park.  It was a great location to Forsythe Park.
+Lindsay
+Pelham, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Brandon was a very kind host. He took care of an air conditioner issue when we arrived in a very timely manner. The place was as described and matched the photos. He also gave some great suggestions for local things to do and restaurants.
+Show more
+Luke
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Brandon’s spot was perfect for so many things that are around that area! The place was clean, comfortable beds, and enough space for the 5 of us! Highly recommend!
+Show all 278 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+The apartment is located in the vibrant Victorian District of Savannah. We are located on the south side of Forsyth park, walkable to many excellent restaurants and bars. The Historic District downtown is also easily within reach on foot or a quick Uber away.
+Show more
+Meet your host
+Brandon
+Superhost
+810 reviews
+810
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+7 years of hosting
+7
+Years hosting
+Brandon is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

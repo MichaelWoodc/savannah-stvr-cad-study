@@ -1,0 +1,456 @@
+URL: https://www.airbnb.com/rooms/1103555706426970821
+Title: Beauty on Barnard, Luxury | History | Near Forsyth
+Latitude: 32.0671
+Longitude: -81.0987
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to Beauty on Barnard, a lavish corner-lot townhome mere steps from Forsyth Park in Savannah's vibrant heart. Enjoy a stunning fusion of classical elegance and modern comfort with three bedrooms, two and a half bathrooms, and luxurious amenities for up to six guests. Beautiful décor and fresh finishes elevate your stay while downtown's culinary delights, libations, and attractions await beyond your doorstep. Unwind in style at The Barnard, where luxury meets convenience.
+SVR-02825
+
+The space
+Nestled within a historical gem dating back to 1880, that was once owned by one of the area's most renowned distillers this two-story townhome epitomizes timeless elegance, seamlessly blending modern luxuries with its rich heritage. As you enter the gracious foyer, the inviting living room welcomes you with brand-new sofas and reading chairs bathed in natural light pouring through oversized bay windows. Every detail exudes sophistication, from the elegant crown molding to the original hardwood flooring, creating a warm and inviting atmosphere.
+Flowing effortlessly through the large, cased opening, you'll discover the gourmet chef's kitchen, adorned with a granite waterfall island, gold accents, and a commercial-grade gas stove. Fully equipped with all the essentials for culinary adventures, this kitchen becomes a hub for socializing and meal preparation, with ample prep space and barstools for four.
+Continuing through another cased opening, the formal dining room awaits, exuding an air of grandeur with its moody green walls, gallery art, and a stunning chandelier. Step outside from the dining room onto the spacious screened-in patio or the private secluded patio with a grill, offering serene spaces for relaxation and alfresco dining.
+Ascending the long staircase to the second floor, three luxurious suites await, each designed for ultimate comfort and tranquility. The first suite boasts a sumptuous king bed adorned with crisp linens, while antique dressers provide ample storage. Natural light floods the room, highlighting the peaceful natural tones throughout.
+Discover the first full bathroom and second bedroom, where a classic cast iron standalone tub and a queen-sized bed await, accompanied by modern amenities such as a smart TV and a dedicated workspace.
+Finally, the primary suite awaits, offering a truly indulgent retreat with its incredible king bed, original brick fireplace, and large bay windows overlooking the picturesque surroundings. The ensuite bathroom, adorned with impeccable gold accents and an exposed brick fireplace, promises a spa-like experience.
+Every detail has been thoughtfully curated to ensure a luxurious stay, with fully equipped bathrooms with essentials for your convenience. Indulge in the epitome of luxury and charm at this historic townhome, where every moment is infused with elegance and grace.
+
+Guest access
+Everything is set up for your use :) Please be courteous of the full-time resident neighborhood and keep outside noises down from 10PM - 8AM but of course feel free to enjoy the upper balcony as well as the screened-in porch (perfect for summer nights, mosquito-free!
+
+Other things to note
+Absolutely no parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home.
+Report all damaged property to the property owner immediately.
+Treat the home with respect, as if it was your property.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free street parking
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Beauty on Barnard, Luxury | History | Near Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+112 reviews
+112
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+In the historic district near Forsyth Park
+About a 5-min walk to Forsyth Park, with cafés, restaurants, and historic squares all within reach
+Historic Victorian with a chef's kitchen
+An 1880 townhome with original hardwood floors, crown molding, and a gourmet kitchen with gas stove
+Beautifully kept and comfortable
+Guests call it one of the most beautiful Airbnbs they've stayed in, with comfortable beds and a spotless space
+Welcome to Beauty on Barnard, a lavish corner-lot townhome mere steps from Forsyth Park in Savannah's vibrant heart. Enjoy a stunning fusion of classical elegance and modern comfort with three bedrooms, two and a half bathrooms, and luxurious amenities for up to six guests. Beautiful décor and fresh finishes elevate your stay while downtown's culinary delights, libations, and attractions await beyond your doorstep. Unwind in style at The Barnard, where luxury meets convenience.
+SVR-02825
+
+The space
+Nestled within a historical gem dating back to 1880, that was once owned by one of the area's most renowned distillers this two-story townhome epitomizes timeless elegance, seamlessly blending modern luxuries with its rich heritage. As you enter the gracious foyer, the inviting living room welcomes you with brand-new sofas and reading chairs bathed in natural light pouring through oversized bay windows. Every detail exudes sophistication, from the elegant crown molding to the original hardwood flooring, creating a warm and inviting atmosphere.
+Flowing effortlessly through the large, cased opening, you'll discover the gourmet chef's kitchen, adorned with a granite waterfall island, gold accents, and a commercial-grade gas stove. Fully equipped with all the essentials for culinary adventures, this kitchen becomes a hub for socializing and meal preparation, with ample prep space and barstools for four.
+Continuing through another cased opening, the formal dining room awaits, exuding an air of grandeur with its moody green walls, gallery art, and a stunning chandelier. Step outside from the dining room onto the spacious screened-in patio or the private secluded patio with a grill, offering serene spaces for relaxation and alfresco dining.
+Ascending the long staircase to the second floor, three luxurious suites await, each designed for ultimate comfort and tranquility. The first suite boasts a sumptuous king bed adorned with crisp linens, while antique dressers provide ample storage. Natural light floods the room, highlighting the peaceful natural tones throughout.
+Discover the first full bathroom and second bedroom, where a classic cast iron standalone tub and a queen-sized bed await, accompanied by modern amenities such as a smart TV and a dedicated workspace.
+Finally, the primary suite awaits, offering a truly indulgent retreat with its incredible king bed, original brick fireplace, and large bay windows overlooking the picturesque surroundings. The ensuite bathroom, adorned with impeccable gold accents and an exposed brick fireplace, promises a spa-like experience.
+Every detail has been thoughtfully curated to ensure a luxurious stay, with fully equipped bathrooms with essentials for your convenience. Indulge in the epitome of luxury and charm at this historic townhome, where every moment is infused with elegance and grace.
+
+Guest access
+Everything is set up for your use :) Please be courteous of the full-time resident neighborhood and keep outside noises down from 10PM - 8AM but of course feel free to enjoy the upper balcony as well as the screened-in porch (perfect for summer nights, mosquito-free!
+
+Other things to note
+Absolutely no parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home.
+Report all damaged property to the property owner immediately.
+Treat the home with respect, as if it was your property.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 112 reviews.
+4.95
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Parks
+18
+Walkability
+43
+Location
+65
+Hospitality
+46
+Indoor spaces
+28
+Comfort
+29
+Parking
+13
+Nearby
+22
+Cleanliness
+28
+Decor
+23
+Morgan
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We had such a great stay! The house was perfect for our friend get-together in Savannah and gave us plenty of space to relax, hang out, and enjoy our time together. Everything was clean, comfortable, and exactly what we needed for the weekend. The location was great and made it easy to enjoy Savannah while still having a nice place to come back to at the end of the day. We made some great memories here and would absolutely stay again. Highly recommend!
+Show more
+Alix
+Orlando, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+We had a wonderful stay for a family wedding. The location was perfect for a Forsyth Park ceremony and made for a great meeting hub to get ready. It was beautiful and had everything we needed.
+Show more
+Amanda
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with kids
+This house is so incredibly beautiful. The restoration of this old Savannah is impressive. It was beautifully furnished with plenty of space and walkable to Forsyth Park and the sites downtown. We’d definitely stay here again.
+Show more
+Josh
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+This home was perfect for a long weekend getaway to explore Savannah! It’s a very nice blend of historical character and modern amenities. Clean, inviting, and relaxing. The neighborhood is very walkable and conveniently located right around the corner from Forsyth Park. The farmers market on Saturday morning was fantastic after brunch at Collins Quarter. The South Key Management team was proactive and responsive. Highly recommend this home and this host!
+Show more
+Mallory
+Nashville, Tennessee
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Beautiful home located on a quiet street close to the park. Hosts were lovely with great communication.
+Kate
+Indianapolis, Indiana
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Perfect property for our long-weekend girl's trip to Savannah! Beautifully appointed, comfortable beds, super location, easy parking. Loved the screened-in porch as well. Thank you, Brandon & Chase!
+Show more
+Show all 112 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Located in the historic district just steps west of Forsyth Park, the Beauty on Barnard puts you in the heart of Savannah. Surrounded by everything the hostess city of the south has to offer, you will enjoy easy access to everything that makes for a memorable stay in Savannah.
+Start your mornings with a walk over to Forsyth Park, just steps away. Stroll down to the Sentient Bean for espresso, coffee, and small breakfast bites, or grab breakfast at Collins Quarter, Forsyth. Are you craving some excellent diner-style food for breakfast? Walk down to Fork & Dagger Diner to enjoy that retro diner we love.
+Enjoy a variety of food types throughout the city. Just minutes from your door, stop in the Peking House for incredible Chinese food. Grab a Cubano from the Cuban Window Café, or get classy with seasonal American dishes with a southern touch at Local 11ten Food |Wine.
+Ready to let loose and have a little fun? Savannah is home to some of the best pubs and nightlife around. Stop into the White Whale Craft Ales tasting room to taste some incredible local brews. Stop by The Black Rabbit, an old-school sandwich shop by day and pub by night. Are you heading north out of the neighborhood? Check out Savannah’s staple pubs like Six Pence Pub (British Inspired), O’Connell’s Irish Pub, or McDonough’s Restaurant & Lounge.
+A trip to Savannah is only complete with exploring its rich colonial past. Stop through one of the many unique museums throughout the city, including the Ralph Mark Gilbert Civil Rights Museum, Beach Institute African American Cultural Center, or the fantastic Telfair Museums. Take Savannah’s vibrant art scene by stopping in the SCAD Museum of Art.
+Remember to dedicate some time to exploring Savannah’s River Front! A little bit of a walk from the home but easily accessible by car and public transport, the riverfront provides an incredible Savannah experience full of small shops, cobble street roads, and endless dining options.
+Not enough time to walk all the sights of Savannah? Take it all in at once while riding or biking. We are just minutes from Old Town Trolley Tours and Savannah Bike Tours. Check out the city skyline from the water by jumping on a Savannah Belle’s Ferries, with multiple stops along the Riverfront.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Townhome vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

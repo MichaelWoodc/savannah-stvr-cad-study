@@ -1,0 +1,499 @@
+URL: https://www.airbnb.com/rooms/1071965326421014257
+Title: Gordon Street Suites: 2BR Suite A
+Latitude: 32.0714
+Longitude: -81.0969
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Luxury Living Savannah
+Host ID: 51616592
+Host profile ID: 1465808498594972878
+Host URL: https://www.airbnb.com/users/profile/1465808498594972878
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Two-story apartment features a gorgeous living room, large windows over looking Chatham Square, a dining room and spacious kitchen, 2 1/2 half baths & laundry.  On the 2nd floor are 2 bedrooms with en-suite bathrooms.
+
+The space
+Wake up to views of Chatham Square from the master bedroom. Enjoy the en-suite bathroom with double shower heads, twin vanities, and adjoining walk-in closet. The kitchen is outfitted for cooking meals at home or plating a nice take out meal. 
+The private, rear balcony looks over the walled courtyard and fountain. 
+
+This historic townhouse was painstakingly restored and decorated with comfort & charm in mind and the best part is the central location - walking distance to everything in the Historic District!
+
+NOTE: This is is a 3-story suite with one flight of stairs going up to the entrance, then one flight up to the living room/kitchen floor,  then one flight of stairs up to the bedrooms. 
+
+HISTORIC GORDON ROW: Gordon Row was built in two phases between 1852 and 1854. In the first phase, the 3 or 4 houses on each end of the block were built and in the second phase the middle portion was built. There are a total of 15 houses in the row.
+
+The houses were built in the Federalist (US) or Regency Style (UK). Each house is four stories high and contains about 3,300 square feet. The Federalist Style emphasizes square, classical features, plain decorations and mirror image rooms.
+
+The Row was speculatively built; meaning that the homes were built as a lot then sold rather than individually designed for the owners. As a result, each of the 15 houses was nearly identical.
+
+When built originally, the cost per house was between $3,500 and $4,000. The market was country planters, or farmers, who wanted a house in town for their visits to Savannah.
+
+When originally built, the kitchens were on the ground level. The house was only two rooms deep with matching, or mirroring, windows facing the front and the back porch.
+
+PARKING INFO: 
+1.	This property has metered street parking Monday through Friday, free on Saturday/Sunday. City of Savannah uses Meter Pay Stations on each block . You can download the phone APP "PARK SAVANNAH" to pay meters from your phone
+OR 
+Visitor Parking Day Passes are available for 24hours/$15.00 and 48hours/$24.00.  Passes can be purchased at the City of Savannah Parking Services Office.
+2.	Luxury Living Savannah has 4 reserved parking spaces that we offer for rent located about 4 blocks away. We charge $20 per night, per parking space and this can be added to your booking charges. Please arrange for this at time of booking your reservation.
+
+OCCUPANCY: 
+We NEVER allow more than 4 people, including infants/children, at the property at ANY/ALL times. 
+
+Minimum age to reserve is 25 years old, no exceptions.
+
+NO PARTIES ALLOWED! NO BACHELORETTE/BACHOLOR GROUPS!
+
+No smoking. No pets.
+
+SVR-01983
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Garden view
+Bathroom
+Hair dryer
+Cleaning products
+Travel size shampoo
+Travel size body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Iron
+Clothing storage: walk-in closet, closet, and dresser
+Entertainment
+TV
+Books and reading material
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Paid parking off premises
+Services
+Self check-in
+Smart lock
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Gordon Street Suites: 2BR Suite A
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.9 out of 5 stars.
+4.9
+10 reviews
+10
+Reviews
+Hosted by Luxury Living Savannah
+Superhost · 11 years hosting
+Listing highlights
+In Savannah's Historic District
+Right on Chatham Square with Forsyth Park about a 5-min walk away
+Restored Gordon Row townhouse
+An 1850s Federalist townhouse with about 3,300 sq ft across three levels
+A location guests keep coming back for
+Guests highlight the central location and walkability to restaurants and squares
+Two-story apartment features a gorgeous living room, large windows over looking Chatham Square, a dining room and spacious kitchen, 2 1/2 half baths & laundry.  On the 2nd floor are 2 bedrooms with en-suite bathrooms.
+
+The space
+Wake up to views of Chatham Square from the master bedroom. Enjoy the en-suite bathroom with double shower heads, twin vanities, and adjoining walk-in closet. The kitchen is outfitted for cooking meals at home or plating a nice take out meal. 
+The private, rear balcony looks over the walled courtyard and fountain. 
+
+This historic townhouse was painstakingly restored and decorated with comfort & charm in mind and the best part is the central location - walking distance to everything in the Historic District!
+
+NOTE: This is is a 3-story suite with one flight of stairs going up to the entrance, then one flight up to the living room/kitchen floor,  then one flight of stairs up to the bedrooms. 
+
+HISTORIC GORDON ROW: Gordon Row was built in two phases between 1852 and 1854. In the first phase, the 3 or 4 houses on each end of the block were built and in the second phase the middle portion was built. There are a total of 15 houses in the row.
+
+The houses were built in the Federalist (US) or Regency Style (UK). Each house is four stories high and contains about 3,300 square feet. The Federalist Style emphasizes square, classical features, plain decorations and mirror image rooms.
+
+The Row was speculatively built; meaning that the homes were built as a lot then sold rather than individually designed for the owners. As a result, each of the 15 houses was nearly identical.
+
+When built originally, the cost per house was between $3,500 and $4,000. The market was country planters, or farmers, who wanted a house in town for their visits to Savannah.
+
+When originally built, the kitchens were on the ground level. The house was only two rooms deep with matching, or mirroring, windows facing the front and the back porch.
+
+PARKING INFO: 
+1.	This property has metered street parking Monday through Friday, free on Saturday/Sunday. City of Savannah uses Meter Pay Stations on each block . You can download the phone APP "PARK SAVANNAH" to pay meters from your phone
+OR 
+Visitor Parking Day Passes are available for 24hours/$15.00 and 48hours/$24.00.  Passes can be purchased at the City of Savannah Parking Services Office.
+2.	Luxury Living Savannah has 4 reserved parking spaces that we offer for rent located about 4 blocks away. We charge $20 per night, per parking space and this can be added to your booking charges. Please arrange for this at time of booking your reservation.
+
+OCCUPANCY: 
+We NEVER allow more than 4 people, including infants/children, at the property at ANY/ALL times. 
+
+Minimum age to reserve is 25 years old, no exceptions.
+
+NO PARTIES ALLOWED! NO BACHELORETTE/BACHOLOR GROUPS!
+
+No smoking. No pets.
+
+SVR-01983
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Garden view
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Patio or balcony
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.9 out of 5 from 10 reviews.
+4.9
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.6 out of 5 stars for communication
+Communication
+4.6
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Location
+6
+Walkability
+3
+Parking
+2
+Quiet
+2
+Decor
+2
+Accuracy
+2
+Family
+2
+Bathroom
+2
+Cleanliness
+2
+Margaret
+North Creek, New York
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This Airbnb was above and beyond anything I could have imagined. My love for Savannah grew tenfold just by having the experience of staying at this beautiful townhouse. I will definitely be back!
+Show more
+Mary Kay
+6 months on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+We came in for a wedding - found out that this was actually cheaper than the wedding rate for two rooms at the hotel.  Quiet vs. the bustle of downtown. Was great for my family to all be in one place &to chat late at night & have coffee in the morning together. 
+Was exactly as described.
+Show more
+Kody
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+The place was exactly as described in the photos — spot-on! The amenities covered everything needed, the bathrooms were sparkling clean, and the bed was genuinely comfortable. Street parking was seamless and easy during our stay, though I can see it getting tricky in peak season.
+The location is the real highlight: right next to Forsyth Park in a perfect, walkable, central spot. I’ve always stayed by the river before, but after this trip I’m converted — this area is where we’ll be staying from now on. Amazing local restaurants all around.
+We’ll definitely be back!
+Show more
+Amanda
+Duluth, Minnesota
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Amazing stay! Beautiful neighbor and close to everything on the historic district!
+Su
+12 years on Airbnb
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Stayed a few nights
+Elegant, well furnished unit, which really complemented the beauty of the town.  Located on a quiet, tree lined street, close to Bull Street and it's squares and historic buildings.
+Gayle
+Mount Juliet, Tennessee
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+Beautiful home, lots of steps but descriptions say that..allowed us to drop luggage before checkin which was so helpful and then we could get about sightseeing and touring..we recommend highly
+Show more
+Show all 10 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Luxury Living Savannah
+Superhost
+2,238 reviews
+2238
+Reviews
+4.84 out of 5 average rating
+4.84
+Rating
+11 years of hosting
+11
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Luxury Living Properties is not just a premier luxury vacation rental company. We are passionate about saving Savannah's resplendent historic homes from ruin. We meticulously restore them back to the shining jewels they were in the 19th century. We have curated special homes for the enjoyment of vacation and business travelers of all generations. Our goal is simple - to create a unique, historic atmosphere for our guests to experience the "True Savannah" and "Live like a local". On nearby Tybee Island we are focused on providing ocean views & fun amenities with a variety of beach houses, town homes and condos, all with amazing views of the Atlantic Ocean. Our stylish and comfortable properties provide a perfect home away from home for families, romantic getaways or solo travelers.
+Luxury Living Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Smoke alarm
+Some spaces are shared
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

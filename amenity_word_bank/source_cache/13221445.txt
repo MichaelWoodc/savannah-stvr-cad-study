@@ -1,0 +1,486 @@
+URL: https://www.airbnb.com/rooms/13221445
+Title: The Washington Square Mansion for 8
+Latitude: 32.07691
+Longitude: -81.08438
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Luxury Living Savannah
+Host ID: 51616592
+Host profile ID: 1465808498594972878
+Host URL: https://www.airbnb.com/users/profile/1465808498594972878
+Bedrooms: 4
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+1790s Washington Square Mansion, steps to River Street and Broughton Street! Sleeps 8 in the heart of Savannah's Historic District!
+
+The space
+No expense was spared on the modernization of this property. You'll find a fully outfitted gourmet kitchen with island seating for 3, a formal dining room, & 4 bedrooms all with spacious, en suite bathrooms!
+3 bedrooms have queen beds & the 4th has 2 vintage twin beds. 
+
+PARKING: 
+This reservation includes ONE private, garage parking space. 
+Parking for additional vehicles: Downtown Savannah has metered, on-street parking Monday through Friday. SOME parts of the Historic District are free on Saturday/Sunday. The City of Savannah uses Meter Pay Stations or coin meters. You can download the APP "Park Savannah" for easy payments from your phone 
+OR
+Visitor Parking Passes are available for 24hours/$15.00 and 48hours/$24.00. Passes can be purchased at the City of Savannah Parking Services Office at 100 East Bryan Street. Please call them with any questions about parking in the city.
+
+NOTES:
+This property is NOT PARTY friendly. We do not allow loud noise, music or parties of any sort. Violators may be evicted and/or fined. 
+
+NO BACHELOR/BACHELORETTE GROUPS.
+
+Maximum occupancy is 8 people (at ALL times), including infants & children.
+
+Minimum age to reserve is 25 years old.
+
+No pets. 
+
+No smoking. 
+
+SVR-00178
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Garden view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Travel size shampoo & body wash shampoo
+Conditioner
+Travel size bar soap body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Iron
+Clothing storage: walk-in closet, closet, and dresser
+Entertainment
+TV
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free parking garage on premises
+Paid parking off premises
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Host has indicated no carbon monoxide detector is necessary. Reach out to the host with any questions.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Washington Square Mansion for 8
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 4 bedrooms · 5 beds · 4 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.89 out of 5 stars.
+4.89
+93 reviews
+93
+Reviews
+Hosted by Luxury Living Savannah
+Superhost · 11 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Washington Square, with River Street about a 5-min walk
+Historic mansion with modern comforts
+A 1790s mansion with a gourmet kitchen, formal dining for eight, and a sunroom
+Loved for layout and location
+Guests highlight the en-suite bathrooms, walkable location, and spacious common areas
+1790s Washington Square Mansion, steps to River Street and Broughton Street! Sleeps 8 in the heart of Savannah's Historic District!
+
+The space
+No expense was spared on the modernization of this property. You'll find a fully outfitted gourmet kitchen with island seating for 3, a formal dining room, & 4 bedrooms all with spacious, en suite bathrooms!
+3 bedrooms have queen beds & the 4th has 2 vintage twin beds. 
+
+PARKING: 
+This reservation includes ONE private, garage parking space. 
+Parking for additional vehicles: Downtown Savannah has metered, on-street parking Monday through Friday. SOME parts of the Historic District are free on Saturday/Sunday. The City of Savannah uses Meter Pay Stations or coin meters. You can download the APP "Park Savannah" for easy payments from your phone 
+OR
+Visitor Parking Passes are available for 24hours/$15.00 and 48hours/$24.00. Passes can be purchased at the City of Savannah Parking Services Office at 100 East Bryan Street. Please call them with any questions about parking in the city.
+
+NOTES:
+This property is NOT PARTY friendly. We do not allow loud noise, music or parties of any sort. Violators may be evicted and/or fined. 
+
+NO BACHELOR/BACHELORETTE GROUPS.
+
+Maximum occupancy is 8 people (at ALL times), including infants & children.
+
+Minimum age to reserve is 25 years old.
+
+No pets. 
+
+No smoking. 
+
+SVR-00178
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 0 | Count unverified
+
+What this place offers
+Garden view
+Kitchen
+Wifi
+Free parking garage on premises
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.89 out of 5 from 93 reviews.
+4.89
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 9% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+38
+Location
+63
+Bathroom
+29
+Indoor spaces
+27
+Family
+10
+Parking
+10
+Outdoor spaces
+9
+Nearby
+13
+Sleep quality
+12
+Quiet
+13
+Gisela
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+We had a fantastic stay at this lovely, historical house. Having a bathroom for each room was a big plus for our family with several young adults. Tons of space and lovely sunroom and patio. Location was outstanding.  Walkable to riverfront, historic squares and restaurants/shops/Leopold's. Host was extremely responsive and having a garage for parking was great.
+Show more
+Bryan
+Mount Pleasant, South Carolina
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Great location.  Super convenient to everything you want to do in Savannah.
+Joshua
+Aspen, Colorado
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+Our first-ever sibling trip—six of us, no kids, no spouses—set a high bar, and this home exceeded it in every way. The property is a true gem: beautifully maintained with authentic historic charm, yet incredibly comfortable and functional for a group.
+The layout is what makes it special. Multiple gathering spaces allowed us to be together without ever feeling crowded—the parlor became our nightly hangout, and the sunroom and outdoor areas added a relaxed, easy flow throughout the day. The kitchen was well-appointed and connected seamlessly to the outdoor space, which made everything feel social and effortless.
+Bedrooms were comfortable, quiet, and well-suited for a group dynamic. The location strikes that rare balance—walkable to everything you want in Savannah, yet tucked into a setting that feels peaceful and serene.
+As a Superhost myself in Aspen, I don’t hand out five-star reviews lightly. This one earns it—across the board. We’ll absolutely be back, whether it’s another sibling
+Show more
+Renee
+8 months on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Very nice place. Good location.
+Christi
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Group trip
+The place was perfect for our girls’ trip. Tons of room, a gorgeous patio, lots of glasses, wonderful bathrooms, and such a great location. We will certainly book this house again. We felt like we lived in Savannah!
+Show more
+Emily
+Philadelphia, Pennsylvania
+Rating, 4 stars
+,
+·
+March 2026
+,
+·
+Group trip
+Very spacious, really enjoyed our stay!
+Show all 93 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+The house is located near Washington Square, a primarily residential part of Savannah's Historic District. This quiet neighborhood offers residents and visiting guests a relaxing spot while within walking distance of the vibrant downtown attractions. It is a short 2-block walk to Historic River Street and the Savannah River.
+
+The property has one garage parking space. Other vehicles must use metered, on-street parking.
+Show more
+Meet your host
+Luxury Living Savannah
+Superhost
+2,238 reviews
+2238
+Reviews
+4.84 out of 5 average rating
+4.84
+Rating
+11 years of hosting
+11
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Luxury Living Properties is not just a premier luxury vacation rental company. We are passionate about saving Savannah's resplendent historic homes from ruin. We meticulously restore them back to the shining jewels they were in the 19th century. We have curated special homes for the enjoyment of vacation and business travelers of all generations. Our goal is simple - to create a unique, historic atmosphere for our guests to experience the "True Savannah" and "Live like a local". On nearby Tybee Island we are focused on providing ocean views & fun amenities with a variety of beach houses, town homes and condos, all with amazing views of the Atlantic Ocean. Our stylish and comfortable properties provide a perfect home away from home for families, romantic getaways or solo travelers.
+Luxury Living Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide detector not required
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Mansion vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

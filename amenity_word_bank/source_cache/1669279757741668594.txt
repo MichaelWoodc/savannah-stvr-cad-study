@@ -1,0 +1,442 @@
+URL: https://www.airbnb.com/rooms/1669279757741668594
+Title: Carriage House Retreat|Victorian Historic District
+Latitude: 32.064046579625
+Longitude: -81.10171534776367
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Tucked behind a historic home on W. Anderson St., this modern new-build carriage house blends Savannah charm with the comfort of newer construction. Enjoy a bright, thoughtfully designed space perfect for solo travelers or couples. You will be close to Forsyth Park, the Starland district and all that downtown Savannah has to offer!
+
+The space
+Welcome to your private Savannah escape, tucked behind a stunning new build home on West Anderson Street, this carriage house apartment offers the perfect blend of modern comfort and a convenient location. 
+
+Thoughtfully designed for a elevated stay, the space features an open-concept kitchen, dining and living room.  The apartment offers lots of natural light, and carefully curated details throughout to ensure you have everything you need. Whether you're here for a weekend getaway or a longer stay, we hope you’ll feel instantly at home.
+
+The living area flows seamlessly into a well-equipped kitchen, making it easy to unwind, enjoy a quiet morning coffee, or settle in after a day exploring the city. The bedroom offers a comfortable queen bed retreat designed for restful nights, while the overall layout maximizes both space and functionality. There is a full bathroom with a tub/shower combo as well as en suite washer and dryer.
+
+Step outside and you’re just minutes from all of Historic Savannah’s most loved attractions. Enjoy a short stroll to Forsyth Park, or explore nearby coffee shops, restaurants, and boutiques.
+
+Tucked away yet incredibly walkable, this carriage house is ideal for guests looking to experience Savannah like a local. There is not designated parking, but there is unmetered street parking on all the neighboring streets.
+
+We can’t wait to host you!
+
+SVR-03107
+
+Guest access
+Guests will have full access to the carriage house apartment. The apartment is on the second floor, above the garage. There is an exterior set of stairs that you will need to go up to reach the entrance door to the apartment.
+
+Other things to note
+Please note this is a carriage house located behind the main home, offering a private and tucked-away stay. As with many homes in Savannah’s Historic District, you may occasionally experience normal city sounds (road noise, emergency vehicles, sirens, trains, ship horns, trash trucks, neighbors, etc). Street parking is available nearby but not guaranteed. We recommend reviewing all listing details prior to booking and reaching out with any questions you may have.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Entertainment
+TV
+Family
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free street parking
+Not included
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Carriage House Retreat|Victorian Historic District
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.8 out of 5 stars.
+4.8
+·
+10 reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+On the edge of Savannah's Historic District
+About a 5-min walk to the Victorian Historic District and Forsyth Park
+New-build carriage house with full kitchen
+A modern carriage house with an open kitchen, dining area, and in-unit washer and dryer
+Alyssa is a standout host
+Guests highlight Alyssa by name as responsive and welcoming, with a helpful local guidebook
+Tucked behind a historic home on W. Anderson St., this modern new-build carriage house blends Savannah charm with the comfort of newer construction. Enjoy a bright, thoughtfully designed space perfect for solo travelers or couples. You will be close to Forsyth Park, the Starland district and all that downtown Savannah has to offer!
+
+The space
+Welcome to your private Savannah escape, tucked behind a stunning new build home on West Anderson Street, this carriage house apartment offers the perfect blend of modern comfort and a convenient location. 
+
+Thoughtfully designed for a elevated stay, the space features an open-concept kitchen, dining and living room.  The apartment offers lots of natural light, and carefully curated details throughout to ensure you have everything you need. Whether you're here for a weekend getaway or a longer stay, we hope you’ll feel instantly at home.
+
+The living area flows seamlessly into a well-equipped kitchen, making it easy to unwind, enjoy a quiet morning coffee, or settle in after a day exploring the city. The bedroom offers a comfortable queen bed retreat designed for restful nights, while the overall layout maximizes both space and functionality. There is a full bathroom with a tub/shower combo as well as en suite washer and dryer.
+
+Step outside and you’re just minutes from all of Historic Savannah’s most loved attractions. Enjoy a short stroll to Forsyth Park, or explore nearby coffee shops, restaurants, and boutiques.
+
+Tucked away yet incredibly walkable, this carriage house is ideal for guests looking to experience Savannah like a local. There is not designated parking, but there is unmetered street parking on all the neighboring streets.
+
+We can’t wait to host you!
+
+SVR-03107
+
+Guest access
+Guests will have full access to the carriage house apartment. The apartment is on the second floor, above the garage. There is an exterior set of stairs that you will need to go up to reach the entrance door to the apartment.
+
+Other things to note
+Please note this is a carriage house located behind the main home, offering a private and tucked-away stay. As with many homes in Savannah’s Historic District, you may occasionally experience normal city sounds (road noise, emergency vehicles, sirens, trains, ship horns, trash trucks, neighbors, etc). Street parking is available nearby but not guaranteed. We recommend reviewing all listing details prior to booking and reaching out with any questions you may have.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 40 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.8 out of 5 stars from 10 reviews
+4.8 · 10 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 10% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+3
+Hospitality
+8
+Check-in
+2
+Cleanliness
+3
+Nearby
+2
+Indoor spaces
+2
+Beth
+Sharpsville, Pennsylvania
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed a few nights
+First time to Savannah and we loved our stay! Close to Forsyth Park and easy to ride share or walk to river front. Alyssa's book of recommendations and things to do was super helpful. Highly recommend!
+Show more
+Wendy
+Brandon, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We had a wonderful stay at Alyssa’s place. She was by far one of the best hosts we have had and we have had many great hosts. Lovely place and very clean. Location was great and very walkable to the historic district. We would definitely stay here again  and recommend it to others.
+Show more
+世武
+8 months on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This is a very quiet, clean and tidy house. Check-in was easy and smooth. Alyssa's warm service was thoughtful. Everything went smoothly!
+A very perfect trip. I will choose this place again next time.
+Show more
+Dalton
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Alyssa was great! She was very helpful and responsive. Would be happy to stay there again
+Ibrahim
+Washington, District of Columbia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+great place, great host, I would stay here again for my next time in Savannah
+Shonelle
+13 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+I had a wonderful few days in Alyssas place while in Savannah. Beautiful apartment with everything I needed. Short walk to restaurants and also Forsyth Park. Easy walkable to town centre as well! Would highly recommend 😁
+Show more
+Show all 10 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Located on West Anderson Street, this home sits just on the edge of Savannah’s Historic District, offering the perfect mix of local charm and walkability. You’re just a short stroll to Forsyth Park, one of the city’s most iconic gathering spots. You will be within easy reach of coffee shops, restaurants, and boutiques. This area feels a bit more relaxed and residential while still keeping you close to all the beauty, history, and energy that Savannah is known for.
+Show more
+Meet your host
+Alyssa
+Superhost
+1,511 reviews
+1511
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

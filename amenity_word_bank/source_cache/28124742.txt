@@ -1,0 +1,509 @@
+URL: https://www.airbnb.com/rooms/28124742
+Title: Joy - Near Forsyth Park, Free onsite parking
+Latitude: 32.0639
+Longitude: -81.0922
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jane
+Host ID: 212312499
+Host profile ID: 1469108851062088106
+Host URL: https://www.airbnb.com/users/profile/1469108851062088106
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+This spacious Victorian is just four blocks east of Forsyth Park with off street parking for one car. We pay the full 15.5% Airbnb service fee on behalf of guests.
+
+Please note: Out of respect for our guests in the other unit and our neighbors, we prefer not to host those coming to Savannah to party and respectfully ask that they book one of the many other, more suitable, rentals downtown.
+
+Please see House Rules. 4 People Maximum.
+
+The space
+Please let me know that you are comfortable with all of the information in the house rules and provide first and last names of those staying in your booking request message.
+
+Spacious Victorian just four blocks east of Forsyth Park, on East Park Avenue. 1.3 miles to River Street with off street parking for one car. We pay the full 15.5% Airbnb service fee on behalf of guests.
+
+Maximum 4 people allowed.
+
+This is a duplex, and the upper unit is also a short term vacation rental. Check out Savannah Sunshine at: https://airbnb. com/h/savannah-sunshine
+
+Located in a neighborhood of the Victorian District just 4 blocks esst of Forsyth Park and 1.3 miles from the river with huge vaulted ceilings, numerous windows allowing lots of natural light and adorable decorative fire places throughout; this southern retreat, built in the year Nineteen Thirteen for J.J. Waring, welcomes you in true historic Savannah style. Off Street parking for one car is available in the back of the house and there is free street parking in the front, and on the side of the house.
+You have a front porch and small back yard both shared with the upper unit and a small back porch. Two bedrooms with queen size beds. Living room with a sleeper sofa and pocket doors for privacy. Dining room and fully equipped kitchen. One full bath and one small powder room with a toilet. 
+
+Please note: We are on the corner of a through street so you will hear typical city street traffic. If you are a light sleeper, you may not be comfortable here.
+
+SVR-01705
+
+Guest access
+There is a keypad door lock at the front door for easy checkin and no fussing with keys. A fully equipped kitchen, washer & dryer, dishwasher, iron, blow dryer, internet, dvd player, movies and games and beach chairs are available for your convenience.
+
+Other things to note
+The Savannah Golf Club, Bonaventure Cemetery, Tybee Island, Museums and Tours ... There are so many interesting things to see and do here in Savannah. We've compiled informational materials on many of them and they await you in the dining room.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: dresser
+Entertainment
+HDTV
+Family
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+We have exterior security cameras at the front and back entrances that record video and audio. There are no interior cameras.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Gas stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine, pour-over coffee
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Outdoor furniture
+Outdoor dining area
+Beach essentials
+Beach gear such as towels, chairs, and an umbrella
+Parking and facilities
+Free parking on premises
+Free street parking
+Single level home
+No stairs in home
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Joy - Near Forsyth Park, Free onsite parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 1.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+92 reviews
+92
+Reviews
+Hosted by Jane
+Superhost · 8 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with historic squares and restaurants along the route to the river
+Free off-street parking
+A dedicated off-street spot behind the house, a genuine convenience in this historic neighborhood
+Jane is an attentive host
+Guests highlight Jane's proactive communication, thoughtful touches like snacks, and local tips
+This spacious Victorian is just four blocks east of Forsyth Park with off street parking for one car. We pay the full 15.5% Airbnb service fee on behalf of guests.
+
+Please note: Out of respect for our guests in the other unit and our neighbors, we prefer not to host those coming to Savannah to party and respectfully ask that they book one of the many other, more suitable, rentals downtown.
+
+Please see House Rules. 4 People Maximum.
+
+The space
+Please let me know that you are comfortable with all of the information in the house rules and provide first and last names of those staying in your booking request message.
+
+Spacious Victorian just four blocks east of Forsyth Park, on East Park Avenue. 1.3 miles to River Street with off street parking for one car. We pay the full 15.5% Airbnb service fee on behalf of guests.
+
+Maximum 4 people allowed.
+
+This is a duplex, and the upper unit is also a short term vacation rental. Check out Savannah Sunshine at: https://airbnb. com/h/savannah-sunshine
+
+Located in a neighborhood of the Victorian District just 4 blocks esst of Forsyth Park and 1.3 miles from the river with huge vaulted ceilings, numerous windows allowing lots of natural light and adorable decorative fire places throughout; this southern retreat, built in the year Nineteen Thirteen for J.J. Waring, welcomes you in true historic Savannah style. Off Street parking for one car is available in the back of the house and there is free street parking in the front, and on the side of the house.
+You have a front porch and small back yard both shared with the upper unit and a small back porch. Two bedrooms with queen size beds. Living room with a sleeper sofa and pocket doors for privacy. Dining room and fully equipped kitchen. One full bath and one small powder room with a toilet. 
+
+Please note: We are on the corner of a through street so you will hear typical city street traffic. If you are a light sleeper, you may not be comfortable here.
+
+SVR-01705
+
+Guest access
+There is a keypad door lock at the front door for easy checkin and no fussing with keys. A fully equipped kitchen, washer & dryer, dishwasher, iron, blow dryer, internet, dvd player, movies and games and beach chairs are available for your convenience.
+
+Other things to note
+The Savannah Golf Club, Bonaventure Cemetery, Tybee Island, Museums and Tours ... There are so many interesting things to see and do here in Savannah. We've compiled informational materials on many of them and they await you in the dining room.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+HDTV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 55 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 92 reviews.
+4.93
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+26
+Comfort
+32
+Location
+46
+Parks
+6
+Parking
+16
+Hospitality
+46
+Sleep quality
+16
+Kitchen
+15
+Cleanliness
+29
+Indoor spaces
+18
+Susan And Terry
+Valdosta, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+This home is a very lovely place to stay while visiting Savannah. It has everything that you could need. The bed in the bedroom closest to the living room is so comfortable that I wanted to go home and buy a mattress just like it! Plenty of hot water for showers and a fully stocked coffee bar in the kitchen. We definitely enjoyed our stay!
+Show more
+Kelli
+7 months on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Perfect location, walking distance to Forsyth and downtown, but not in a crowded super touristy area. Beautiful home!
+Jennifer
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with kids
+My family had a great stay here! We had everything we needed and enjoyed the historic home. It was close to stores, restaurants, parks. The off-street parking was a huge plus. My daughter especially enjoyed the puzzles and books available for use. The sound machines were a nice touch too. We would stay here again if we’re ever in Savannah.
+Show more
+Evelyn
+Durham, North Carolina
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Jane’s place was perfect for a weekend getaway with my aunt and mom.  We were so grateful to find a place with parking and enough room for the three of us to make ourselves comfortable.  The kitchen was well stocked with snacks and essentials, bathrooms clean, and restaurant recommendations were a nice touch.  Would definitely stay here again!
+Show more
+Stephen
+Dollard-Des Ormeaux, Canada
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Stayed a few nights
+Our stay at Jane's place was the best Airbnb experience we have had. Jane is an excellent communicator. Proactive and very detailed. We didn't have to reach out at all for any questions or problems.
+The apartment is immaculate just on target with the description. In fact the rooms were bigger than I expected. The dining table is very big and an added bonus is the extra work area which I used,
+Location is superb,  in the heart of the downtown historic Victorian area.  Which is beautiful and majestic just to walk about.  It is within walking distance of restaurants and the Kroger . 
+Savannah is  a wonderful city to visit and Jane's place provided the ideal accommodations for or visit.
+Show more
+Linda
+Durham, North Carolina
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+We are so glad we chose Jane's home for our visit! Having a dedicated parking spot in  this beautiful historic home with the lovely a front porch, beautiful hardwood floors and high ceilings were some of the reasons we chose this home! The beds are super comfy, the kitchen is full sized with everything we needed to cook at home. 
+The location is perfect for seeing the historic district on foot. It area felt very safe and relatively quiet (the sound of cars was not an issue at all, street traffic was low key). We walked to cocktails at Perch roof top bar at dusk! So many walkable places to see. Forsythe park is beautiful!!
+We will be back!
+Show more
+Show all 92 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Savannah Sunshine STVR
+Travel agency
+Forsyth Park
+Park
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Situated in the South Historic District, just four blocks east of Forsyth Park and a 30 minute stroll to the river through beautiful squares, you may enjoy saying "hello" to passersby while relaxing on the front porch. Evening quite hours are applicable out of respect for guests in the other unit. Please note: We are on the corner of a through street, so you will hear typical city street traffic.
+Show more
+Meet your host
+Jane
+Superhost
+228 reviews
+228
+Reviews
+4.95 out of 5 average rating
+4.95
+Rating
+8 years of hosting
+8
+Years hosting
+Lives in Bridgewater, Massachusetts
+Hello! My husband and I are excited to share our duplex in the heart of Savannah's Downtown Victorian District. We hope you will LOVE Savannah as much as we do. And, with your feedback, we will offer the most comfortable "home away from home" while you enjoy our lovely city.
+Jane is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 88%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Vacation rentals with a beach view in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

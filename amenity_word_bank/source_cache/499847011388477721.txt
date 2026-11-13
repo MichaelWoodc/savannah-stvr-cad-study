@@ -1,0 +1,431 @@
+URL: https://www.airbnb.com/rooms/499847011388477721
+Title: Cozy Modern Studio Just 2 Blocks To Forsyth Park!
+Latitude: 32.0682
+Longitude: -81.0986
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This charming studio 2 blocks to Forsyth offers everything you need for a weekend getaway or short work from home-away-from-home trip! We have a queen bed and pull-out twin couch, perfect for couples with a child or 3 comfortable friends :) We offer a cozy faux-fireplace/heater with a large Smart TV above - perfect for a cozy night in, or playing music and pre-gaming a night out :) We have strong WiFi for those who just HAVE to get that email out tonight ;).
+
+SVR-02403
+
+The space
+The studio has a fully functional kitchenette with a stovetop, mini-fridge, toaster, microwave and Keurig coffee maker. You have everything you need to cook a small meal or reheat those much deserved leftovers after a long day out in the town! We have a full spacious bath with a shower/tub combo. Aside from the queen bed, there is a pull-out twin in the love seat. The space is super comfy and of course, an easy walk to Forsyth Park and all that the town has to offer!
+
+Guest access
+The whole studio is yours! The only shared space that you may access, is the laundry facility across the hall. It is free of course, so use at your own will! Just be cognizant of others around you :) There is a bike rental shop down the street, and you may use the garage to store bikes if you'd like!
+
+Other things to note
+Just to reiterate - the space where the laundry room is across from your unit, and it is shared with other guests from the upstairs. This is the only shared space in the house.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Free washer – In building
+Free dryer – In building
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Window AC unit
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Stove
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Cozy Modern Studio Just 2 Blocks To Forsyth Park!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+3 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.84 out of 5 stars.
+4.84
+·
+164 reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Forsyth Park, with restaurants, cafés, and shops just a couple of blocks away
+Cozy studio with a warm feel
+A kitchenette with a stovetop, mini-fridge, and Keurig, plus a faux fireplace and smart TV
+Loved for location and comfort
+Guests consistently praise the walkable location and how comfortable the studio feels
+This charming studio 2 blocks to Forsyth offers everything you need for a weekend getaway or short work from home-away-from-home trip! We have a queen bed and pull-out twin couch, perfect for couples with a child or 3 comfortable friends :) We offer a cozy faux-fireplace/heater with a large Smart TV above - perfect for a cozy night in, or playing music and pre-gaming a night out :) We have strong WiFi for those who just HAVE to get that email out tonight ;).
+
+SVR-02403
+
+The space
+The studio has a fully functional kitchenette with a stovetop, mini-fridge, toaster, microwave and Keurig coffee maker. You have everything you need to cook a small meal or reheat those much deserved leftovers after a long day out in the town! We have a full spacious bath with a shower/tub combo. Aside from the queen bed, there is a pull-out twin in the love seat. The space is super comfy and of course, an easy walk to Forsyth Park and all that the town has to offer!
+
+Guest access
+The whole studio is yours! The only shared space that you may access, is the laundry facility across the hall. It is free of course, so use at your own will! Just be cognizant of others around you :) There is a bike rental shop down the street, and you may use the garage to store bikes if you'd like!
+
+Other things to note
+Just to reiterate - the space where the laundry room is across from your unit, and it is shared with other guests from the upstairs. This is the only shared space in the house.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Free washer – In building
+Free dryer – In building
+Window AC unit
+Bathtub
+Patio or balcony
+Show all 37 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.84 out of 5 stars from 164 reviews
+4.84 · 164 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 88% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+75
+Parks
+35
+Location
+108
+Cleanliness
+55
+Nearby
+28
+Parking
+24
+Comfort
+34
+Hospitality
+54
+Sleep quality
+17
+Accuracy
+23
+Carley
+Athens, Georgia
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+A lovely stay & super walkable to Forsyth park! There is a thrift store less than two blocks away that was fabulous! My friend and I stayed here & the only thing we felt was missing was a fan in the bathroom, but other than that a cozy spot! The apartment has all the amenities you would need for a short vacation!
+Show more
+Erika
+Alpharetta, Georgia
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+First time visiting Savannah, and this was such a great place to stay! It’s in a quieter, more private area, which was perfect for relaxing after a day of exploring. The location is excellent and is super close to the park and an easy walk to the river and restaurants.
+Only downside was that the Wi-Fi wasn’t as strong as described. It wasn’t an issue for us since we were out most of the day and only used it at night, but it could be something to keep in mind if you’re planning to work remotely during your stay.
+Show more
+Shirley
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Great place, we felt right at home. It was comfortable and quiet, the place was spotless. 
+Walkable area, we were able to park right in front of the during our stay.
+Would definitely come back
+Show more
+William
+Gainesville, Georgia
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with kids
+Highly recommend and will be back!
+Brian
+Canyon, Texas
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+My wife and I stayed for a weekend and wanted to be close to Forsythe park and the riverwalk. What a great location!! The apartment was cozy and comfortable, there is so much to do and so many great restaurants close by, and the hop on, hop off trolley has a stop just across the park! Brandon and Chase were great hosts, we'd absolutely recommend staying with them and we will be coming back!
+Show more
+Emma
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Cozy, cute, great location, had every thing we needed!
+Show all 164 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+We are in the heart of the Historic District and only 2 blocks from Forsyth...being nice and quiet at night and an easy walk to EVERY thing, you cannot beat this location! Though mostly residential, there are plenty of restaurants and shops only a couple of blocks away! If you're interested in renting a bike while you're here, Savannah on Wheels is just a block away! We are a short walk away to some of the best (and LOCAL!) places in town including Local 11ten, Betty Bombers, Sentient Bean, Brighter Day (Natural Foods), and of course Collins Quarter at Forsyth! Please ask us about all of our hand-picked local favorites and we are more than happy to recommend!!
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

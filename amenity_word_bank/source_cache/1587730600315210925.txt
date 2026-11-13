@@ -1,0 +1,470 @@
+URL: https://www.airbnb.com/rooms/1587730600315210925
+Title: Pristine Reno with View of Forsyth Park Fountain
+Latitude: 32.0693
+Longitude: -81.097
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah
+Host ID: 77350668
+Host profile ID: 1466946903860901609
+Host URL: https://www.airbnb.com/users/profile/1466946903860901609
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+Step into this charming 2BR/2BA apartment in the heart of Savannah, facing the iconic Forsyth Park fountain! Fully renovated in 2026 with guests in mind, it features exposed brick accents and professional decor.  This space offers a sublime blend of modern comfort and historic charm. Ideal for two couples, it has spacious bedrooms with en suite full baths, stylish touches, and easy walking to Savannah’s best attractions. Enjoy a relaxing stay in this beautifully appointed home!
+
+SVR 02813
+
+The space
+Walk in and feel immediately at home in this stylishly designed apartment.  You are welcomed by the open kitchen and living space with room to relax, cook, or eat-in some of the fabulous Savannah food.  We renovated the property in 2026 and included two full en-suite bathrooms and king bedrooms with brand new mattresses to fall into after a long day exploring.    Other custom elements abound throughout the space, some added by our builder and a few by us :). Step outside and right into the heart of Savannah's Crown Jewel - Forsyth Park!  As comfortable as we think the apartment is - make some time to explore the beauty of the city too!  The listing comes with one off-street driveway parking space.  There is a 240V outlet to help with recharging EVs too!
+
+Guest access
+The entire 2 bedroom apartment is yours!  You have private access on ground level.  The space includes a reserved off-street driveway parking space behind the building.  A quick walk around the house gets you to your front door.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live close :)
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Park view
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Room-darkening shades
+Iron
+Clothing storage: closet, wardrobe, and dresser
+Entertainment
+Ethernet connection
+HDTV with standard cable
+Books and reading material
+Family
+Pack ’n play/Travel crib - always at the listing
+Board games
+Heating and cooling
+AC - split type ductless system
+Ceiling fan
+Heating - split type ductless system
+Home safety
+Exterior security cameras on property
+Exterior security cameras monitoring entrance and parking area for guest safety. Cameras are located on porch above entry, walkway along building, and over driveway.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 402 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free driveway parking on premises – 1 space
+Free street parking
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Pristine Reno with View of Forsyth Park Fountain
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+82 reviews
+82
+Reviews
+Hosted by Sarah
+Superhost · 10 years hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+Steps from Forsyth Park
+Steps from Forsyth Park and its famous fountain, with Monterey Square about a 5-min walk away
+Free off-street parking included
+A reserved driveway spot is included, so you can park once and walk everywhere
+Beautifully appointed throughout
+Guests consistently highlight the beautiful bathrooms, comfortable beds, and thoughtful decor
+Step into this charming 2BR/2BA apartment in the heart of Savannah, facing the iconic Forsyth Park fountain! Fully renovated in 2026 with guests in mind, it features exposed brick accents and professional decor.  This space offers a sublime blend of modern comfort and historic charm. Ideal for two couples, it has spacious bedrooms with en suite full baths, stylish touches, and easy walking to Savannah’s best attractions. Enjoy a relaxing stay in this beautifully appointed home!
+
+SVR 02813
+
+The space
+Walk in and feel immediately at home in this stylishly designed apartment.  You are welcomed by the open kitchen and living space with room to relax, cook, or eat-in some of the fabulous Savannah food.  We renovated the property in 2026 and included two full en-suite bathrooms and king bedrooms with brand new mattresses to fall into after a long day exploring.    Other custom elements abound throughout the space, some added by our builder and a few by us :). Step outside and right into the heart of Savannah's Crown Jewel - Forsyth Park!  As comfortable as we think the apartment is - make some time to explore the beauty of the city too!  The listing comes with one off-street driveway parking space.  There is a 240V outlet to help with recharging EVs too!
+
+Guest access
+The entire 2 bedroom apartment is yours!  You have private access on ground level.  The space includes a reserved off-street driveway parking space behind the building.  A quick walk around the house gets you to your front door.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live close :)
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Park view
+Kitchen
+Fast wifi – 402 Mbps
+Dedicated workspace
+Free driveway parking on premises – 1 space
+HDTV with standard cable
+Free washer – In unit
+Free dryer – In unit
+AC - split type ductless system
+Exterior security cameras on property
+Show all 54 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 82 reviews.
+5.0
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Location
+61
+Parks
+17
+Walkability
+22
+Decor
+20
+Cleanliness
+31
+Comfort
+24
+Hospitality
+30
+Parking
+13
+Sleep quality
+16
+Indoor spaces
+14
+Troy
+Newcastle, Oklahoma
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+This unit is just across the street from Forsyth park.
+The unit is a fantastic space, plenty of room,very nice amenities, large rooms with large private baths for each room, very well remodeled, kitchen is great if you want to cook full meals at the unit. The beds were very comfortable. Well decorated.
+Show more
+April
+Summerville, South Carolina
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Apartment was exactly as advertised, and was very clean and comfortable. Had an issue getting questions answered prior to our stay but that would not prevent me from rebooking this place, because everything else was perfect.
+Show more
+Susan
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed one night
+The location is great, the listing was clean, cozy and so darn cute. Love the laid back, eclectic/retro style of the home. It has everything you need and just a very short walk to beautiful Forsyth Park just across the street. Nice restaurant just across the way on the opposite side of the park.
+Show more
+Hope
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Sarah's Airbnb is absolutely perfect for a visit to Savannah. It is very central in the historical district. The Airbnb is clean and just as beautiful as the pictures. Sarah's instructions for getting to the Airbnb and getting inside were so detailed that we easily found our way. We will definitely be back when we visit Savannah again! 5 stars isn't high enough for the quality of the home, location, and communicative host! Thank you Sarah.
+Show more
+Hunter
+Concord, North Carolina
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Great stay at a great place! Would 10000% recommend.
+Ray
+Fort Wayne, Indiana
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This place was simply enchanting! We stayed three nights on our trip to Savannah, but wished we could have stayed longer because the location was just perfect. Walking distant to hop on/off trolley was super, the view of Forsyth Park was amazing, and the entire home was so beautifully decorated and equipped. The parking was easy to find with the check in notes and pix provided, we had zero issues! Already thinking of our next opportunity to visit and stay here.
+Show more
+Show all 82 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+The house straddles the majesty of The Victorian and Historic Districts of Savannah. Right outside is the middle of gorgeous Forsyth Park and its famous fountain! Take in the beautiful architecture and shaded streets all over the area. Collin's in Forsyth, Hitch, Sentient Bean, St. Bibiana, Local 11Ten and other incredible bars and restaurants are right outside your door. If you want to eat in, grab your groceries at Kroger, just a blocks away across Forsyth.
+
+We are happy to provide personalized recommendations based on your interests and preferences...just ask us! We are passionate about our little Southern city and are happy to provide lots of awesome spots to check out! And we live right around the corner, so we are ALWAYS here if you need us!
+Show more
+Meet your host
+Sarah
+Superhost
+5,117 reviews
+5117
+Reviews
+4.95 out of 5 average rating
+4.95
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental on Forsyth Park!
+Sarah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

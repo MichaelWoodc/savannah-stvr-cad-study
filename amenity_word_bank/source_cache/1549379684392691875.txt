@@ -1,0 +1,521 @@
+URL: https://www.airbnb.com/rooms/1549379684392691875
+Title: Historic Garden-Level Downtown Apt with Backyard
+Latitude: 32.0742
+Longitude: -81.0877
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Carlos & Marci
+Host ID: 74160592
+Host profile ID: 1462812072906481326
+Host URL: https://www.airbnb.com/users/profile/1462812072906481326
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+The Garden Suite invites you to enjoy a historic 1886 garden-level apartment with modern comforts, This unit features original hardwood floors, updated appliances and bright rooms. Step outside to your private patio and unwind in a cozy space that blends historic elegance with contemporary style. Perfect for couples or solo travelers.
+
+Highlights:
+- 1 Bed / 1 Bath
+- Plush Queen Bed
+- Shared Patio 
+- Modern Kitchen
+- In-unit Laundry 
+- Dedicated Workspace 
+- Experienced Hosts
+
+Stay Here!
+
+The space
+SVR-03204
+
+Looking for the perfect Savannah stay that blends historic charm with modern comfort? This beautifully updated garden-level apartment offers just that — a serene retreat tucked in the heart of the Historic District.
+
+Situated beside picturesque Crawford Square, this one-bedroom, one-bath unit is ideal for couples or solo travelers who want to relax in style while staying steps away from Savannah’s best dining, shopping, and historic landmarks. You’re just a short walk from River Street and all the charm that downtown has to offer.
+
+Inside, the living area feels bright and inviting, featuring a comfortable sofa, a charming bistro table, and a dedicated workspace — perfect for those who like to mix a little business with leisure.
+
+The bedroom offers a plush queen bed with a memory-foam mattress, luxury linens, and a cozy seating area for unwinding after a day of exploring. The bathroom includes a stylish shower/tub combination with updated designer touches.
+
+The kitchen is fully equipped with modern appliances and everything you need to prepare a delicious meal or a simple breakfast before heading out. For convenience, a washer and dryer are available in the unit, and metered parking can be found directly in front of the property.
+
+Step outside to enjoy your morning coffee or evening wine in the shared courtyard, accessible through your private back entry — a peaceful space framed by classic Savannah charm.
+
+Please note: this unit is part of a historic multi-unit complex. You’ll have a private first-floor entry access to your apartment and courtyard.
+
+Whether you’re visiting for a quiet weekend or an extended stay, this elegant garden-level retreat places you right where you want to be — surrounded by history, comfort, and Savannah’s timeless beauty.
+
+Guest access
+Guests will have access to the garden-level apartment (ground floor), the shared courtyard, and the street parking in front and behind the building on East McDonough Street. Please refer to the check-in guide on the Guest App for more details.
+
+*Note: This apartment is in a property that houses other guests, so we ask that the space and neighboring property are treated with dignity and respect at all times. Please keep noise to a minimum between 8pm and 8am as per city ordinance. Pets, parties, and events are strictly prohibited, and failure to observe these and all other house rules risks the termination of the reservation without the possibility of a refund.
+
+Other things to note
+We ask that the space, other guests, and our neighbors be treated with dignity and respect. Please respect the home and its rules. This will help us maintain peace and ensure that all of our guests have a wonderful Savannah Stay!
+
+Metered street parking is available on the front and back of the property on East McDonough Street. This area is shared with other residents, and it is on a first-come, first-served basis with no assigned spots.
+
+Please be aware that even though we spray for bugs on a quarterly basis, you might see palmetto bugs, wasps, and other insects during your stay. They usually come out to die, but please do your best to keep them out of the house by keeping the windows and doors shut at all times, only bringing food items to the dining room, and keeping trash in the trash can.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+City skyline view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+Exterior security cameras are present at the front and back doors. They point towards the exterior and are there only for security.
+Smoke alarm
+Present in the bedroom
+Carbon monoxide alarm
+Present in the bedroom
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Laundromat nearby
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor dining area
+Parking and facilities
+Paid parking off premises
+Paid parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Cleaning available during stay
+Not included
+Unavailable: Essentials
+Essentials
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Garden-Level Downtown Apt with Backyard
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.81 out of 5 stars.
+4.81
+26 reviews
+26
+Reviews
+Hosted by Carlos & Marci
+Superhost · 7 years hosting
+Listing highlights
+In Savannah's Historic District
+Right beside Crawford Square, with Forsyth Park and the Cathedral of St. John the Baptist nearby
+Historic apartment with modern kitchen
+An 1886 garden-level apartment with original hardwood floors and a fully equipped kitchen
+Walkable location, attentive hosts
+Guests highlight how walkable the location is and praise Carlos and Marci as attentive hosts
+The Garden Suite invites you to enjoy a historic 1886 garden-level apartment with modern comforts, This unit features original hardwood floors, updated appliances and bright rooms. Step outside to your private patio and unwind in a cozy space that blends historic elegance with contemporary style. Perfect for couples or solo travelers.
+
+Highlights:
+- 1 Bed / 1 Bath
+- Plush Queen Bed
+- Shared Patio 
+- Modern Kitchen
+- In-unit Laundry 
+- Dedicated Workspace 
+- Experienced Hosts
+
+Stay Here!
+
+The space
+SVR-03204
+
+Looking for the perfect Savannah stay that blends historic charm with modern comfort? This beautifully updated garden-level apartment offers just that — a serene retreat tucked in the heart of the Historic District.
+
+Situated beside picturesque Crawford Square, this one-bedroom, one-bath unit is ideal for couples or solo travelers who want to relax in style while staying steps away from Savannah’s best dining, shopping, and historic landmarks. You’re just a short walk from River Street and all the charm that downtown has to offer.
+
+Inside, the living area feels bright and inviting, featuring a comfortable sofa, a charming bistro table, and a dedicated workspace — perfect for those who like to mix a little business with leisure.
+
+The bedroom offers a plush queen bed with a memory-foam mattress, luxury linens, and a cozy seating area for unwinding after a day of exploring. The bathroom includes a stylish shower/tub combination with updated designer touches.
+
+The kitchen is fully equipped with modern appliances and everything you need to prepare a delicious meal or a simple breakfast before heading out. For convenience, a washer and dryer are available in the unit, and metered parking can be found directly in front of the property.
+
+Step outside to enjoy your morning coffee or evening wine in the shared courtyard, accessible through your private back entry — a peaceful space framed by classic Savannah charm.
+
+Please note: this unit is part of a historic multi-unit complex. You’ll have a private first-floor entry access to your apartment and courtyard.
+
+Whether you’re visiting for a quiet weekend or an extended stay, this elegant garden-level retreat places you right where you want to be — surrounded by history, comfort, and Savannah’s timeless beauty.
+
+Guest access
+Guests will have access to the garden-level apartment (ground floor), the shared courtyard, and the street parking in front and behind the building on East McDonough Street. Please refer to the check-in guide on the Guest App for more details.
+
+*Note: This apartment is in a property that houses other guests, so we ask that the space and neighboring property are treated with dignity and respect at all times. Please keep noise to a minimum between 8pm and 8am as per city ordinance. Pets, parties, and events are strictly prohibited, and failure to observe these and all other house rules risks the termination of the reservation without the possibility of a refund.
+
+Other things to note
+We ask that the space, other guests, and our neighbors be treated with dignity and respect. Please respect the home and its rules. This will help us maintain peace and ensure that all of our guests have a wonderful Savannah Stay!
+
+Metered street parking is available on the front and back of the property on East McDonough Street. This area is shared with other residents, and it is on a first-come, first-served basis with no assigned spots.
+
+Please be aware that even though we spray for bugs on a quarterly basis, you might see palmetto bugs, wasps, and other insects during your stay. They usually come out to die, but please do your best to keep them out of the house by keeping the windows and doors shut at all times, only bringing food items to the dining room, and keeping trash in the trash can.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+City skyline view
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 55 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.81 out of 5 from 26 reviews.
+4.81
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 4% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+11
+Location
+19
+Cleanliness
+12
+Hospitality
+11
+Comfort
+4
+Nearby
+4
+Parking
+2
+Checkout
+2
+Accuracy
+3
+Check-in
+2
+Amaeli
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This was a very nice, and clean airbnb to stay at. it felt homey to come back to after walking around downtown all day. I would recommend this stay to anyone coming to savannah. I did think it was the top apartment, up the stairs from the picture but that was on me for not reading too closely.
+Show more
+Caroline
+Rutherfordton, North Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Beautiful place to stay!
+Alejandro
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+My wife and I had a great stay. It was exactly the space and location that we needed for a quick summer vacation. It was within walking distance to pretty much everything that we wanted to do. Carlos and Marci made it easy to check in and were proactive about any updates. Highly recommend!
+Show more
+Deanna
+Birmingham, Alabama
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed one night
+Great hosts, great place to stay & great location. Would definitely stay here again.
+Dre
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Had a relaxed weekend here. Thank you guys a lot!
+Jada
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Amazing spot! Will definitely look to book here again if I'm back in Savannah!
+Show all 26 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+We are in the heart of the historic district in Savannah Georgia! Your steps from the world-famous Forsyth Park! A quick walk to the Starland district, and about a 15-minute walk to the river and heart of downtown (5-minute Uber). You’re close enough to everything to be there in steps, but far enough removed to have peace when you return home for the evening.
+Show more
+Meet your host
+Carlos & Marci
+Superhost
+1,562 reviews
+1562
+Reviews
+4.89 out of 5 average rating
+4.89
+Rating
+7 years of hosting
+7
+Years hosting
+Born in the 80s
+Where I went to school: UNC at Chapel Hill - Go Tar Heels!
+We are a family of four who love traveling, good food, and hosting on Airbnb. Our years of hosting have been nothing short of amazing. Our guests have come from all over the world and have brought joy and new experiences to our home. We are easy to reach and always available to address any questions or requests from our guests—we pride ourselves on providing the best and most personal customer service of all hosts in Savannah, GA.
+Carlos & Marci is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

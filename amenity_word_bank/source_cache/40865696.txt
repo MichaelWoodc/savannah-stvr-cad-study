@@ -1,0 +1,451 @@
+URL: https://www.airbnb.com/rooms/40865696
+Title: New Build Downtown Carriage by Lucky Savannah
+Latitude: 32.0726
+Longitude: -81.0875
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Charming and bright newly built Carriage House off of Liberty Lane is located in the Downtown Historic District. Book with ease knowing you are in one of Savannah's residential areas, still within walking distance to River Street and much more.
+
+The space
+Located off of East Liberty Lane, this charming and bright carriage house welcomes four Lucky guests. The location of this property is one you cannot beat - Within walking distance to the River front, Savannah's Shopping District on Broughton Street, and many more venues!
+
+Atop of the stairs you'll find an electronic lock, that will work with your unique door code for ensured safety. Step on in to your new digs, and get settled! 
+
+The open and inviting space boasts with natural light, and provides plenty of space to move about without feeling crowded. The living room is open to the galley style kitchen, and offers a smart flatscreen television, dedicated dining space for two, and a queen size sleeper sofa. The kitchen is equipped with modern conveniences such as stainless steel appliances, a full-size oven, fridge and dishwasher. An ideal set-up for short-term or extended stays!
+
+Moving to the bedroom, guests will find a Queen size bed, and an ample amount of storage for their belongings. The en suite bathroom boasts with natural light and wallpaper, tying this quaint space together. Guests will appreciate having plenty of counter space to get ready for a day out on the town!
+
+Looking to start your day off with brunch? Head South West toward Oglethorpe Avenue to Collin's Quarters. While on your way, take a short detour and stroll through Colonial Park Cemetery. Pop over to some of Savannah's most famed shops just over on Broughton Street, such as The Paris Market, a boutique offering an eclectic range of antiques, housewares, gifts & jewelry. Heading into the evening, step over to The Public and enjoy dinner on their rooftop terrace. Looking for a fun way to end the night? Enjoy hand crafted cocktails with your party at The Lost Square Rooftop Bar, over looking River Street.
+
+What is Parking Like For This Home?
+This unit has non-metered on-street parking. Parking is not available in the lane. Availability will depend on time of day and season. 
+
+Sleeping Configuration:
+Living Room: Queen Size Sleeper Sofa
+Bedroom: Queen Bed
+
+SVR-02063
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+New Build Downtown Carriage by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Add dates for prices
+Add dates for prices
+4.81 ·
+16 reviews
+Rated 4.81 out of 5 from 16 reviews.
+Check availability
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.81 out of 5 stars.
+4.81
+·
+16 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Troup Square, with Lafayette Square and the Cathedral about a 5-min walk away
+Full kitchen with modern appliances
+A galley kitchen with a full-size oven, fridge, dishwasher, and stainless steel appliances
+Clean, walkable, and worth rebooking
+Guests highlight the cleanliness and walkability, with several extending or rebooking their stay
+Charming and bright newly built Carriage House off of Liberty Lane is located in the Downtown Historic District. Book with ease knowing you are in one of Savannah's residential areas, still within walking distance to River Street and much more.
+
+The space
+Located off of East Liberty Lane, this charming and bright carriage house welcomes four Lucky guests. The location of this property is one you cannot beat - Within walking distance to the River front, Savannah's Shopping District on Broughton Street, and many more venues!
+
+Atop of the stairs you'll find an electronic lock, that will work with your unique door code for ensured safety. Step on in to your new digs, and get settled! 
+
+The open and inviting space boasts with natural light, and provides plenty of space to move about without feeling crowded. The living room is open to the galley style kitchen, and offers a smart flatscreen television, dedicated dining space for two, and a queen size sleeper sofa. The kitchen is equipped with modern conveniences such as stainless steel appliances, a full-size oven, fridge and dishwasher. An ideal set-up for short-term or extended stays!
+
+Moving to the bedroom, guests will find a Queen size bed, and an ample amount of storage for their belongings. The en suite bathroom boasts with natural light and wallpaper, tying this quaint space together. Guests will appreciate having plenty of counter space to get ready for a day out on the town!
+
+Looking to start your day off with brunch? Head South West toward Oglethorpe Avenue to Collin's Quarters. While on your way, take a short detour and stroll through Colonial Park Cemetery. Pop over to some of Savannah's most famed shops just over on Broughton Street, such as The Paris Market, a boutique offering an eclectic range of antiques, housewares, gifts & jewelry. Heading into the evening, step over to The Public and enjoy dinner on their rooftop terrace. Looking for a fun way to end the night? Enjoy hand crafted cocktails with your party at The Lost Square Rooftop Bar, over looking River Street.
+
+What is Parking Like For This Home?
+This unit has non-metered on-street parking. Parking is not available in the lane. Availability will depend on time of day and season. 
+
+Sleeping Configuration:
+Living Room: Queen Size Sleeper Sofa
+Bedroom: Queen Bed
+
+SVR-02063
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.81 out of 5 stars from 16 reviews
+4.81 · 16 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 81% of reviews
+5
+4 stars, 19% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.3 out of 5 stars for check-in
+Check-in
+4.3
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Walkability
+5
+Location
+8
+Access
+4
+Parking
+3
+Cleanliness
+5
+Check-in
+3
+Quiet
+3
+Indoor spaces
+3
+Hospitality
+4
+Nearby
+3
+Emily
+Madison, Wisconsin
+Rating, 4 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Stayed here with my mom and loved it! The space is a bit small but perfect for 2 people. The Airbnb was very clean, staff was very helpful, and responsive. Would stay here and recommend to others.
+Show more
+Elvira
+New York, New York
+Rating, 5 stars
+,
+·
+April 2025
+,
+·
+Stayed a few nights
+The location and apartment was great . Very clean comfortable bed and pillows . Clean linen and clean spotless towels. Full equipped kitchen. Two tvs with youtube and Netflix which was great. The ac works great , water is also working great. The only thing that I would advice is better check in instructions and fixing your lock box because it  doesn’t match the instructions and i was frustrated trying to figure out how to open it and I’m sure I wasn’t the only one. Also the upset neighbor that kept harassing us and complaining about all the airbnbs around , screaming and cursing that couple people called the police on her is right across the street from this apartment, is something I would recommend settling otherwise she makes people feel unwelcome
+Show more
+Sally
+Twin Falls, Idaho
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+Perfect charming carriage house in  Savannah for two. In close proximity to the main areas of interest without all the noise. Would definitely stay here again. Loved it
+Show more
+Tanner
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+November 2024
+,
+·
+Stayed a few nights
+Great stay! Would stay here again!
+Show more
+Faerlan
+Washington, District of Columbia
+Rating, 5 stars
+,
+·
+September 2024
+,
+·
+Stayed a few nights
+Great stay and great location!
+Show more
+Denise
+Erath, Louisiana
+Rating, 5 stars
+,
+·
+September 2024
+,
+·
+Stayed a few nights
+We loved our stay and actually extended our vacation because of how much we loved Savanah and our vacation place. It was exceptional clean, very easy to walk to all things local. Parking was always easy to find a spot. We will definitely be staying here in the future!
+Show more
+Show all 16 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

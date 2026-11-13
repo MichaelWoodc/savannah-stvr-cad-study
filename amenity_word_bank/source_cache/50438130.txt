@@ -1,0 +1,452 @@
+URL: https://www.airbnb.com/rooms/50438130
+Title: Tiny Carriage House for Two by Taylor Square
+Latitude: 32.0713
+Longitude: -81.092
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah
+Host ID: 242163765
+Host profile ID: 1469286021794373021
+Host URL: https://www.airbnb.com/users/profile/1469286021794373021
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Our historic tiny carriage house is situated in the heart of downtown and makes for an authentically Savannah home base for your stay! Step back in time as you ascend the wrought iron spiral staircase up to your private hideaway! Filled with modern conveniences and updates, including tons of storage space for those extended stays, small but mighty kitchenette,  and charming Juliette balcony overlooking the gorgeous shared courtyard space! Walking distance to all Savannah has to offer!
+
+SVR 01794
+
+The space
+This private carriage house retreat is ALL YOURS! Enter the space through your private lane-side entrance into a first floor foyer and closet space. There you will find lots of space to store all of your luggage and unpack...no need to bring your bags upstairs! Then you can climb up the charming wrought iron spiral staircase up to the main living area. Once at the top of the stairs, you will see an open studio apartment, complete with queen sized bed (and comfy memory foam mattress!), small but mighty kitchenette (complete with Keurig and k-cups, snacks, filtered water, and lots of cookware!), wall mounted TV with full cable programming, large desk that makes for the perfect work-from-home space, washer dryer, and full bathroom with tub/shower combo. We hope you appreciate the light drenched space and historic charm, including original wide panel hardwood floors, Savannah gray brick walls, and even a sweet little Juliette balcony where you can overlook the ultra modern shared courtyard space!
+
+Guest access
+The entire apartment is yours! We are situated in the heart of the historic district, so getting around on foot is best! There is ample street parking all around our home, both paid metered as well as free! We are happy to provide more detailed parking instructions to help guide you when you book with us.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: walk-in closet, closet, wardrobe, and dresser
+Entertainment
+TV with standard cable
+Family
+Crib
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Exterior security cameras on property
+We have exterior, outdoor cameras on the entrance for the safety of our guests and the security of our home.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 83 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Mini fridge
+Stove
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Shared backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free street parking
+Paid street parking off premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Tiny Carriage House for Two by Taylor Square
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.89 out of 5 stars.
+4.89
+411 reviews
+411
+Reviews
+Hosted by Sarah
+Superhost · 8 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Calhoun Square and Lafayette Square, with Forsyth Park about a 5-min walk away
+Historic carriage house with character
+A wrought iron spiral staircase leads up to a light-filled studio with original hardwood floors and exposed Savannah gray brick
+Walkable and well-hosted
+Guests consistently praise the walkable location and how responsive Sarah is throughout the stay
+Our historic tiny carriage house is situated in the heart of downtown and makes for an authentically Savannah home base for your stay! Step back in time as you ascend the wrought iron spiral staircase up to your private hideaway! Filled with modern conveniences and updates, including tons of storage space for those extended stays, small but mighty kitchenette,  and charming Juliette balcony overlooking the gorgeous shared courtyard space! Walking distance to all Savannah has to offer!
+
+SVR 01794
+
+The space
+This private carriage house retreat is ALL YOURS! Enter the space through your private lane-side entrance into a first floor foyer and closet space. There you will find lots of space to store all of your luggage and unpack...no need to bring your bags upstairs! Then you can climb up the charming wrought iron spiral staircase up to the main living area. Once at the top of the stairs, you will see an open studio apartment, complete with queen sized bed (and comfy memory foam mattress!), small but mighty kitchenette (complete with Keurig and k-cups, snacks, filtered water, and lots of cookware!), wall mounted TV with full cable programming, large desk that makes for the perfect work-from-home space, washer dryer, and full bathroom with tub/shower combo. We hope you appreciate the light drenched space and historic charm, including original wide panel hardwood floors, Savannah gray brick walls, and even a sweet little Juliette balcony where you can overlook the ultra modern shared courtyard space!
+
+Guest access
+The entire apartment is yours! We are situated in the heart of the historic district, so getting around on foot is best! There is ample street parking all around our home, both paid metered as well as free! We are happy to provide more detailed parking instructions to help guide you when you book with us.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Kitchen
+Fast wifi – 83 Mbps
+Dedicated workspace
+Free street parking
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.89 out of 5 from 411 reviews.
+4.89
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 91% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+180
+Location
+276
+Parking
+79
+Nearby
+69
+Comfort
+68
+Hospitality
+126
+Cleanliness
+98
+Indoor spaces
+72
+Quiet
+40
+Sleep quality
+36
+Ashleigh
+4 years on Airbnb
+Rating, 4 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great location! Easy walking to downtown shops and restaurants
+Charles
+Marietta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed one night
+Location is worth six stars! Street parking sounds intimidating but it was always easy to find a close place to park & car feels safe. Short walk to anywhere in the historic district. On a side street that was quiet. Excellent shower, spiral stairs makes it unique (just take it slow), bed is comfy too.
+Show more
+Christine
+Stone Mountain, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Sarah was very kind and responsive. The home was a nice little getaway. The stairs we recommend for more agile folks as it is narrow and a little steep but we loved it. Very cozy and peaceful and clean. You’re right in the city which was so nice! The AC was a little tricky but we think it just needs time to let kick in. No complaints otherwise. Thank you Sarah!
+Show more
+Isaac
+Madison, Wisconsin
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had a wonderful stay! The location was perfect—right in the heart of Savannah’s Historic District and within walking distance of so many great restaurants, shops, and attractions. The place was clean, comfortable, and exactly as described. It was the perfect home base for exploring the city. The host was friendly, responsive, and made check-in and check-out incredibly easy. We would definitely stay here again and highly recommend it to anyone visiting Savannah!
+Show more
+Lexy
+Athens, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed one night
+Great little studio in a fabulous neighborhood. I would absolutely stay again!
+Jovan
+Raleigh, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+My wife and I absolutely loved this quaint little space in Savannah! It was the perfect size for the two of us and made for such a cozy getaway.
+I really appreciated how thoughtfully the space was arranged. The wardrobe and storage downstairs gave us plenty of room to put our belongings away, so we really only needed to take our essentials upstairs. The little kitchen nook was also perfect I could literally roll out of bed, make us brunch, and roll right back in! 😊
+The host was very attentive and responsive throughout our stay. Anytime we needed something or had a concern, they were available and took care of it, which we truly appreciated.
+Show more
+Show all 411 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Our carriage house is located in a quiet, residential area, off a small lane, tucked amongst lovely, historic homes and Spanish moss laden live oaks in the downtown historic district. We feel like our location is the BEST part of our place! Easily walkable to all of the downtown restaurants, sightseeing spots, and amazing Savannah architecture!
+Show more
+Meet your host
+Sarah
+Superhost
+929 reviews
+929
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+8 years of hosting
+8
+Years hosting
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental in the Historic Downtown District!
+Sarah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Heights without rails or protection
+Carbon monoxide alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

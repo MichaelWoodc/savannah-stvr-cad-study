@@ -1,0 +1,46 @@
+series,size,rate,parcels
+Property,2.0,0.40734905073140365,51
+Property,3.0,0.4141156462585034,14
+Property,4.0,0.1867789641629848,194
+Property,5.0,0.20130621693121695,12
+Property,6.0,0.24731906651549507,84
+Property,7.0,0.5797619047619047,5
+Property,8.0,0.5184862562911343,41
+Property,9.0,0.0,2
+Property,10.0,0.3623511904761905,28
+Property,11.0,0.0,1
+Property,12.0,0.5556051587301587,20
+Property,13.0,0.0,1
+Property,14.0,1.0467923280423281,6
+Property,15.0,1.4494047619047619,1
+Property,16.0,0.8052248677248676,12
+Touching residential neighbors,2.0,0.7294389978213506,51
+Touching residential neighbors,3.0,0.7592120181405895,14
+Touching residential neighbors,4.0,0.5080387825233186,194
+Touching residential neighbors,5.0,0.36235119047619047,12
+Touching residential neighbors,6.0,0.822479686318972,84
+Touching residential neighbors,7.0,0.3865079365079365,5
+Touching residential neighbors,8.0,1.001621176926055,41
+Touching residential neighbors,9.0,0.7247023809523809,2
+Touching residential neighbors,10.0,1.0352891156462587,28
+Touching residential neighbors,11.0,1.4494047619047619,1
+Touching residential neighbors,12.0,0.5314484126984127,20
+Touching residential neighbors,13.0,0.48313492063492064,1
+Touching residential neighbors,14.0,0.9662698412698413,6
+Touching residential neighbors,15.0,0.0,1
+Touching residential neighbors,16.0,1.0467923280423281,12
+Property + neighbors,2.0,1.1367880485527542,51
+Property + neighbors,3.0,1.1733276643990929,14
+Property + neighbors,4.0,0.6948177466863034,194
+Property + neighbors,5.0,0.5636574074074073,12
+Property + neighbors,6.0,1.0697987528344672,84
+Property + neighbors,7.0,0.9662698412698413,5
+Property + neighbors,8.0,1.5201074332171893,41
+Property + neighbors,9.0,0.7247023809523809,2
+Property + neighbors,10.0,1.397640306122449,28
+Property + neighbors,11.0,1.4494047619047619,1
+Property + neighbors,12.0,1.0870535714285716,20
+Property + neighbors,13.0,0.48313492063492064,1
+Property + neighbors,14.0,2.0130621693121693,6
+Property + neighbors,15.0,1.4494047619047619,1
+Property + neighbors,16.0,1.852017195767196,12

@@ -1,0 +1,671 @@
+URL: https://www.airbnb.com/rooms/741384331462722008
+Title: Cottage in Historic District, Heated Pool Access
+Latitude: 32.06739
+Longitude: -81.08989
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Featured on HGTV Magazine's "A Local's Guide to Savannah"! Heidi's Hideaway is a wonderful retreat located in Historic Savannah within walking distance to great shopping, dining, museums, and more! It's a wonderful choice for guests seeking Savannah vacation rentals with room for up to six people. This two-bedroom, one-bathroom charmer boasts a vibrant interior full of cozy décor. Once settled in, guests enjoy a shared courtyard with seating on the deck in the back of the home.
+
+The space
+Inside the Cottage
+
+
+
+The main living area features an airy, open floor plan that maximizes the space. Gleaming hardwood flooring and a unique, two-sided brick fireplace suggest the charm of yesteryear while the sofa and matching armchairs add a contemporary vibe. The patterned area rug picks up the bold contrasts of throw pillows, and an oval coffee table adds a warm wood centerpiece. Artful lighting and mirrors create a sense of expanse. A wall-mounted television is great for checking on the weather or watching your favorite shows.
+
+
+
+Just beyond the living room, the dining area features a table and chairs, the flip side of the fireplace and a tapestry above. In the adjacent kitchen, you will find everything you need to create meals for up to four. Like we do in all our Savannah vacation homes, we’ve filled the drawers and cupboards with flatware, glasses, dishes and cookware for your use. There’s a refrigerator/freezer, range and oven, dishwasher and microwave too. You’ll even find convenient coking basics, like salt and pepper, near to hand.
+
+
+
+A bedroom with a queen-sized bed opens off the living room. Glass-topped bedside tables and reading lamps anticipate your nighttime comfort. The second bedroom boasts a king-sized bed. A chest of drawers offers clothes storage. The sofa sleeper in the living room accommodates two more guests.
+
+
+
+The bathroom has a single vanity and a tub with a shower. A handy washer and dryer for your laundry are tucked neatly in the corner. We stock a good supply of soft, fluffy towels at all our vacation rentals Savannah GA, and Heidi's Hideaway is no exception. We also provide bed linens, pillows and blankets.
+
+
+
+A cute, shared sundeck in back features generous seating and a charcoal grill. A privacy fence ensures seclusion as you enjoy the fresh air and Savannah sunshine. Additional amenities at Heidi's Hideaway include central air and heating, a selection of toiletries and Wi-Fi. As Savannah vacation rentals guests, you get unlimited access to our private swimming pool, just a scenic drive away on Tybee Island.
+
+
+
+Experience Savannah
+
+
+
+Heidi's Hideaway is just a stone’s throw from Mother Mathilda Beasley Park and Dog Park, so if children or pets are part of your group, they won’t lack for activities. Named for a 19th-century Catholic nun who was born into slavery, the park is a lasting tribute to her legacy. After becoming free and moving to Savannah, Beasley worked as a dressmaker to earn a living. She also ran a school for black children from 1850 to 1860, which was at odds with the law. The park features a playground for the kids, a sports field and a fenced-off dog park for your favorite pooch.
+
+
+
+You also have the option to visit Forsyth Park, an easy walk from the cottage through tree-lined avenues. Experience the year-round Saturday Farmers’ Market where you’ll find fresh produce, baked goods and local crafts. Forsyth features two playgrounds, a wide expanse of sports fields, the Fragrant Garden for the Blind and a fabulous fountain. This fountain is the centerpiece of the park. People gather there for weddings, group pictures and to cool down in the refreshing spray.
+
+
+
+You can grab a quick bite at the park’s café before embarking on the free shuttle bus, which travels throughout Savannah’s Historic District. The bus stops at each of 22 squares in the district and at shopping hubs like City Market. You’ll find plenty to do at the market, from shopping to eating. You can see local artists at work or listen to live music. You’re sure to meet other guests from vacation rentals Savannah GA along the way.
+
+
+
+Trade the bus for a pedicab or horse-drawn carriage as you continue your exploration of Savannah. Make your way to the riverfront and watch the big freighters come and go. Savannah is one of the busiest ports in the country.
+
+
+
+You will also find more shopping ops in the converted cotton warehouses along Riverwalk. Stop for a refreshing beverage or enjoy a fresh seafood meal at popular restaurants like Vic’s on the River or The Shrimp Factory. Experience Savannah’s seagoing flavor at The Pirate House.
+
+Guest access
+Occupancy: 4
+
+Living room features seating, mounted smart TV with streaming access
+
+Full kitchen equipped with full size appliances and cooking essentials
+
+Dining table with seating for 4 (also doubles as a great workspace!)
+
+Bedroom 1: Queen size bed
+
+Bedroom 2: King size bed
+
+Full bathroom with walk in shower
+
+Additional sleeping space in living room on a full size sofa bed - easily folds away when not in use
+
+Washer/dryer in unit
+
+Private keyless entry at front porch
+
+Outdoor space: Shared courtyard with seating
+
+Dog friendly!
+
+Parking: There is an abundance of free street parking around the home
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+
+
+SVR-02642
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Free street parking
+Pool
+Single level home
+No stairs in home
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Cottage in Historic District, Heated Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 1 bath
+Rated 4.74 out of 5 stars.
+4.74
+·
+42 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Historic Savannah near Forsyth Park
+Forsyth Park is about a 10-min walk away, with Whitefield Square even closer
+Full kitchen with in-unit laundry
+A full kitchen with a dishwasher, plus an in-unit washer and dryer
+Walkable, with attentive hosts
+Guests highlight the walkable location, easy parking, and a responsive host
+Featured on HGTV Magazine's "A Local's Guide to Savannah"! Heidi's Hideaway is a wonderful retreat located in Historic Savannah within walking distance to great shopping, dining, museums, and more! It's a wonderful choice for guests seeking Savannah vacation rentals with room for up to six people. This two-bedroom, one-bathroom charmer boasts a vibrant interior full of cozy décor. Once settled in, guests enjoy a shared courtyard with seating on the deck in the back of the home.
+
+The space
+Inside the Cottage
+
+
+
+The main living area features an airy, open floor plan that maximizes the space. Gleaming hardwood flooring and a unique, two-sided brick fireplace suggest the charm of yesteryear while the sofa and matching armchairs add a contemporary vibe. The patterned area rug picks up the bold contrasts of throw pillows, and an oval coffee table adds a warm wood centerpiece. Artful lighting and mirrors create a sense of expanse. A wall-mounted television is great for checking on the weather or watching your favorite shows.
+
+
+
+Just beyond the living room, the dining area features a table and chairs, the flip side of the fireplace and a tapestry above. In the adjacent kitchen, you will find everything you need to create meals for up to four. Like we do in all our Savannah vacation homes, we’ve filled the drawers and cupboards with flatware, glasses, dishes and cookware for your use. There’s a refrigerator/freezer, range and oven, dishwasher and microwave too. You’ll even find convenient coking basics, like salt and pepper, near to hand.
+
+
+
+A bedroom with a queen-sized bed opens off the living room. Glass-topped bedside tables and reading lamps anticipate your nighttime comfort. The second bedroom boasts a king-sized bed. A chest of drawers offers clothes storage. The sofa sleeper in the living room accommodates two more guests.
+
+
+
+The bathroom has a single vanity and a tub with a shower. A handy washer and dryer for your laundry are tucked neatly in the corner. We stock a good supply of soft, fluffy towels at all our vacation rentals Savannah GA, and Heidi's Hideaway is no exception. We also provide bed linens, pillows and blankets.
+
+
+
+A cute, shared sundeck in back features generous seating and a charcoal grill. A privacy fence ensures seclusion as you enjoy the fresh air and Savannah sunshine. Additional amenities at Heidi's Hideaway include central air and heating, a selection of toiletries and Wi-Fi. As Savannah vacation rentals guests, you get unlimited access to our private swimming pool, just a scenic drive away on Tybee Island.
+
+
+
+Experience Savannah
+
+
+
+Heidi's Hideaway is just a stone’s throw from Mother Mathilda Beasley Park and Dog Park, so if children or pets are part of your group, they won’t lack for activities. Named for a 19th-century Catholic nun who was born into slavery, the park is a lasting tribute to her legacy. After becoming free and moving to Savannah, Beasley worked as a dressmaker to earn a living. She also ran a school for black children from 1850 to 1860, which was at odds with the law. The park features a playground for the kids, a sports field and a fenced-off dog park for your favorite pooch.
+
+
+
+You also have the option to visit Forsyth Park, an easy walk from the cottage through tree-lined avenues. Experience the year-round Saturday Farmers’ Market where you’ll find fresh produce, baked goods and local crafts. Forsyth features two playgrounds, a wide expanse of sports fields, the Fragrant Garden for the Blind and a fabulous fountain. This fountain is the centerpiece of the park. People gather there for weddings, group pictures and to cool down in the refreshing spray.
+
+
+
+You can grab a quick bite at the park’s café before embarking on the free shuttle bus, which travels throughout Savannah’s Historic District. The bus stops at each of 22 squares in the district and at shopping hubs like City Market. You’ll find plenty to do at the market, from shopping to eating. You can see local artists at work or listen to live music. You’re sure to meet other guests from vacation rentals Savannah GA along the way.
+
+
+
+Trade the bus for a pedicab or horse-drawn carriage as you continue your exploration of Savannah. Make your way to the riverfront and watch the big freighters come and go. Savannah is one of the busiest ports in the country.
+
+
+
+You will also find more shopping ops in the converted cotton warehouses along Riverwalk. Stop for a refreshing beverage or enjoy a fresh seafood meal at popular restaurants like Vic’s on the River or The Shrimp Factory. Experience Savannah’s seagoing flavor at The Pirate House.
+
+Guest access
+Occupancy: 4
+
+Living room features seating, mounted smart TV with streaming access
+
+Full kitchen equipped with full size appliances and cooking essentials
+
+Dining table with seating for 4 (also doubles as a great workspace!)
+
+Bedroom 1: Queen size bed
+
+Bedroom 2: King size bed
+
+Full bathroom with walk in shower
+
+Additional sleeping space in living room on a full size sofa bed - easily folds away when not in use
+
+Washer/dryer in unit
+
+Private keyless entry at front porch
+
+Outdoor space: Shared courtyard with seating
+
+Dog friendly!
+
+Parking: There is an abundance of free street parking around the home
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+
+
+SVR-02642
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.74 out of 5 stars from 42 reviews
+4.74 · 42 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 81% of reviews
+5
+4 stars, 14% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 2% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.6 out of 5 stars for location
+Location
+4.6
+Rated 4.5 out of 5 stars for value
+Value
+4.5
+Guest reviews mention
+Walkability
+16
+Parking
+10
+Location
+21
+Hospitality
+13
+Nearby
+9
+Getting around
+8
+Cleanliness
+9
+Pool
+3
+Comfort
+7
+Accuracy
+6
+Taylor
+Lakewood, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had a nice stay with Southern Belle Vacation rentals in Savannah. It was in a quiet location and within walking distance of a lot of things. There was ample street parking and the place was very clean.
+Show more
+Kelli
+Tarentum, Pennsylvania
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Place is well located for the price. Convenient walk to groceries and within walking distance of several historic Savannah landmarks.  Parking was easy, even on street sweeping day.  Cute place.
+Show more
+Margot
+Columbia, South Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This rental was easy to find, free street parking right out front! It takes a minute to walk where you want to go downtown, but everything was a quick and easy uber ride away. While you could hear some noise from the house next door and the road, the bedrooms had TVs, fans, and white noise machines so we slept great! They also had an issue with the air conditioner before we arrived and had already set up an additional window unit to make sure we stayed cool - seemed like they thought of everything! We would stay here again.
+Show more
+Stephanie
+Conyers, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Didn’t realize the pool was 30 minutes away and no parking at the pool didn’t find out about the pool until I check in but I enjoy myself without the pool got there it was over crowded each day
+Show more
+Marcella
+Gaithersburg, Maryland
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+It was a rental in a re gentrified  location.  The place next door was empty and needed restoration.  It was clean but the living room furniture needed updated.  There were plenty of towels.  The kitchen had very few stocked items.  Basically only salt and pepper so know you need to bring coffee, tea, sugar or whatever you desire because nothing was provided.  Also there is not an ice maker and Savannah ‘s temperature was over 95+ degrees.  So be prepared to buy ice.  This was  the least stocked rental I have stayed in 10 years.  Please Heidi a few essential items would be more welcoming. However overall it was an a 3-4 star stay.
+Show more
+Kim
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed over a week
+Nice stay. Accurate descriptions. Very strong communication!
+Show all 42 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,181 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

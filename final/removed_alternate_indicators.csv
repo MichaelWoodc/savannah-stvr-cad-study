@@ -1,0 +1,5 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr
+all,advertised_guests,combined,All calls,mention_bachelorette,Bachelorette mention,amenities,472,1475,12,460,57,1418,0.9174968300597238,0.4859829934998262,1.7321602698633174,0.7905645325111685,0.905330822882539
+all,advertised_guests,combined,All calls,mention_wedding,Wedding / bridal mention,amenities,472,1475,38,434,157,1318,1.3411535156275909,0.9124038744483705,1.971377810695638,0.1352935624021647,0.4374702659370861
+all,advertised_guests,combined,All calls,keyword_swimming_pool,Swimming Pool,keywords,472,1475,97,375,311,1164,1.1506515267020014,0.8511216275425929,1.5555931056814665,0.3616823581274223,0.6738725609868652
+all,advertised_guests,combined,All calls,keyword_hot_tub,Hot Tub,keywords,472,1475,21,451,97,1378,1.6398716568640546,0.9981133849334822,2.6942620864314684,0.0508734867101061,0.2919998757744451

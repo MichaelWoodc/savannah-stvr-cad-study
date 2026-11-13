@@ -1,0 +1,678 @@
+URL: https://www.airbnb.com/rooms/819241639333503169
+Title: Fenced Courtyard • Dog Friendly • Walk to Forsyth
+Latitude: 32.0661
+Longitude: -81.0932
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/Southern Grace Stays
+Host ID: 561893930
+Host profile ID: 1463880952280947353
+Host URL: https://www.airbnb.com/users/profile/1463880952280947353
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Welcome to our 2-bedroom, 1-bath Victorian apartment, where historic charm meets a colorful, comfortable stay.
+
+• Private fenced courtyard with outdoor dining and string lights
+• Roku TVs, WiFi, board games, and books for easy downtime
+• In-unit washer and dryer plus a well-equipped kitchen and coffee bar
+• Walkable to Historic Savannah attractions, with free street parking
+
+Settle in, relax outside, and make this Savannah stay your home base
+
+The space
+KEY FEATURES:
+
+☀ Victorian home built in 1910
+
+☀ 2 bedroom / 1 bath / Sleeps 4
+
+☀ Modern and well-equipped kitchen with coffee bar w/ Keurig and Drip Coffee Maker 
+
+☀ Dog friendly w/ fenced in courtyard
+
+☀ WiFi and Roku entertainment systems throughout the home
+
+☀ Board games and books for enjoyment
+
+☀ Convenient location that is walkable to attractions in Historic Savannah
+
+☀ Private fenced courtyard for relaxing or eating
+
+☀ Free Street Parking
+
+☀ Washer & Dryer in unit for guest use
+
+
+
+Expect a Five Star stay with us. 
+
+
+
+☆☆ BEDROOMS ☆☆
+
+This gorgeous apartment accommodates 4 guests in 2 bedrooms
+
+Primary Bedroom – The primary bedroom at Vintage Blue Victorian exudes elegance and comfort, featuring a luxurious king-size bed adorned with extra sleeping pillows, accent pillows and a cozy blanket. The room also features a Roku smart TV, fast Wi-Fi, bedside tables with reading lamps and a cozy seating area, perfect for relaxation
+
+Second Bedroom – The second bedroom features a queen bed with extra pillows and a soft blanket for added comfort. The room is equipped with a Roku smart TV, fast Wi-Fi, and bedside tables with lamps.
+
+
+
+☆☆ BATHROOM☆☆
+
+The bathroom at Vintage Blue Victorian is thoughtfully divided into two separate rooms for added convenience. One room features double sinks, perfect for shared use, while the other houses the shower, washer, dryer, and commode, providing a well-organized and functional space.  The bathroom is stocked with shampoo, conditioner and body wash needed for the duration of your stay. 
+
+
+
+☆☆ KITCHEN☆☆
+
+The bright and airy kitchen is fully equipped with all the appliances, utensils and cookware you need to feel at home.
+
+
+
+☆☆ OUTSIDE SPACE ☆☆
+
+The exterior of this home features a stunning private courtyard with a dining area that includes a table and four chairs. Guests can enjoy their morning coffee on the private patio, which is beautifully illuminated for evening tea as well.
+
+
+
+Located just three blocks from the picturesque Forsyth Park, Vintage Blue Victorian places you in the heart of Savannah's vibrant downtown. You'll be within walking distance of the city's best cafes, bars, and restaurants, making it easy to explore the local culinary scene. The free DOT trolley and easy access to Uber ensure you can conveniently explore all that Savannah has to offer. Whether you're here for a quick getaway or an extended stay, Vintage Blue Victorian provides a perfect blend of comfort, style, and prime location, making it an ideal choice for families, couples, and solo travelers alike.
+
+
+
+We provide a starter pack of K-cups, trash bags, paper towels and toilet paper for your convenience.  
+
+
+
+Parking is conveniently available on-street at no cost. Please pay close attention to the posted sweep zones and times as you may have to move your car at that specified date and time to avoid fines. Sweeping times and days are specific to the street you're parking on and can be found on red and white signs along the sidewalk.
+
+
+
+Primary renter must be 25 years old to rent and signer of agreement must stay on premises for entire booking
+
+
+
+SVR-02678
+
+Guest access
+The home is fitted with a smart door lock and free street parking for vehicles. Guests will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+Vintage Blue Victorian boasts a range of features designed to ensure a luxurious and comfortable stay. This 2-bedroom, 1-bathroom apartment has been recently renovated to blend historic charm with modern amenities. Each bedroom is luxuriously appointed with high-end bedding, extra pillows, cozy throws, and coordinating accent pillows, providing guests with a restful and indulgent experience.
+
+
+
+The apartment's vibrant decor and large windows allow natural light to flood the space, highlighting the tall ceilings and historic details that add to its charm. Modern conveniences include TVs in every room, fast Wi-Fi, and a well-equipped coffee bar. The private porch, adorned with mood lighting, offers a serene spot for morning coffee or evening tea. An in-apartment laundry room adds to the convenience, making it easy for guests to keep their clothes fresh during their stay.
+
+
+
+Located just three blocks from Forsyth Park, Vintage Blue Victorian  provides easy access to Savannah's top attractions, cafes, bars, and restaurants. The apartment is situated in a safe environment with security cameras for peace of mind. Street parking is available, and the space is dog-friendly, accommodating furry friends for a small fee. These thoughtful features make Vintage Blue Victorian  an ideal choice for families, couples, and solo travelers seeking a memorable stay in Savannah.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Hair & Body shampoo
+Conditioner
+Hair & Body body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage: closet, wardrobe, and dresser
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Children’s dinnerware
+Board games
+Heating and cooling
+Central air conditioning
+Portable fans
+Central heating
+Home safety
+Exterior security cameras on property
+Exterior security cameras are present at all entrances
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Coffee
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Private patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free parking on premises
+Free street parking
+Single level home
+No stairs in home
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Housekeeping available from 9:00 AM to 3:00 PM, every day - available at extra cost
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Fenced Courtyard • Dog Friendly • Walk to Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.94 out of 5 stars.
+4.94
+205 reviews
+205
+Reviews
+Hosted by Laura W/Southern Grace Stays
+Superhost · 3 years hosting
+Listing highlights
+Steps from Forsyth Park
+Forsyth Park is steps away, with cafes, restaurants, and a grocery store all within a few blocks.
+Private courtyard with string lights
+A private fenced courtyard with a dining table, string lights, and room for morning coffee or evening drinks.
+Clean, comfortable, and charming
+Guests consistently describe this home as clean, comfortable, and beautifully decorated.
+Welcome to our 2-bedroom, 1-bath Victorian apartment, where historic charm meets a colorful, comfortable stay.
+
+• Private fenced courtyard with outdoor dining and string lights
+• Roku TVs, WiFi, board games, and books for easy downtime
+• In-unit washer and dryer plus a well-equipped kitchen and coffee bar
+• Walkable to Historic Savannah attractions, with free street parking
+
+Settle in, relax outside, and make this Savannah stay your home base
+
+The space
+KEY FEATURES:
+
+☀ Victorian home built in 1910
+
+☀ 2 bedroom / 1 bath / Sleeps 4
+
+☀ Modern and well-equipped kitchen with coffee bar w/ Keurig and Drip Coffee Maker 
+
+☀ Dog friendly w/ fenced in courtyard
+
+☀ WiFi and Roku entertainment systems throughout the home
+
+☀ Board games and books for enjoyment
+
+☀ Convenient location that is walkable to attractions in Historic Savannah
+
+☀ Private fenced courtyard for relaxing or eating
+
+☀ Free Street Parking
+
+☀ Washer & Dryer in unit for guest use
+
+
+
+Expect a Five Star stay with us. 
+
+
+
+☆☆ BEDROOMS ☆☆
+
+This gorgeous apartment accommodates 4 guests in 2 bedrooms
+
+Primary Bedroom – The primary bedroom at Vintage Blue Victorian exudes elegance and comfort, featuring a luxurious king-size bed adorned with extra sleeping pillows, accent pillows and a cozy blanket. The room also features a Roku smart TV, fast Wi-Fi, bedside tables with reading lamps and a cozy seating area, perfect for relaxation
+
+Second Bedroom – The second bedroom features a queen bed with extra pillows and a soft blanket for added comfort. The room is equipped with a Roku smart TV, fast Wi-Fi, and bedside tables with lamps.
+
+
+
+☆☆ BATHROOM☆☆
+
+The bathroom at Vintage Blue Victorian is thoughtfully divided into two separate rooms for added convenience. One room features double sinks, perfect for shared use, while the other houses the shower, washer, dryer, and commode, providing a well-organized and functional space.  The bathroom is stocked with shampoo, conditioner and body wash needed for the duration of your stay. 
+
+
+
+☆☆ KITCHEN☆☆
+
+The bright and airy kitchen is fully equipped with all the appliances, utensils and cookware you need to feel at home.
+
+
+
+☆☆ OUTSIDE SPACE ☆☆
+
+The exterior of this home features a stunning private courtyard with a dining area that includes a table and four chairs. Guests can enjoy their morning coffee on the private patio, which is beautifully illuminated for evening tea as well.
+
+
+
+Located just three blocks from the picturesque Forsyth Park, Vintage Blue Victorian places you in the heart of Savannah's vibrant downtown. You'll be within walking distance of the city's best cafes, bars, and restaurants, making it easy to explore the local culinary scene. The free DOT trolley and easy access to Uber ensure you can conveniently explore all that Savannah has to offer. Whether you're here for a quick getaway or an extended stay, Vintage Blue Victorian provides a perfect blend of comfort, style, and prime location, making it an ideal choice for families, couples, and solo travelers alike.
+
+
+
+We provide a starter pack of K-cups, trash bags, paper towels and toilet paper for your convenience.  
+
+
+
+Parking is conveniently available on-street at no cost. Please pay close attention to the posted sweep zones and times as you may have to move your car at that specified date and time to avoid fines. Sweeping times and days are specific to the street you're parking on and can be found on red and white signs along the sidewalk.
+
+
+
+Primary renter must be 25 years old to rent and signer of agreement must stay on premises for entire booking
+
+
+
+SVR-02678
+
+Guest access
+The home is fitted with a smart door lock and free street parking for vehicles. Guests will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+Vintage Blue Victorian boasts a range of features designed to ensure a luxurious and comfortable stay. This 2-bedroom, 1-bathroom apartment has been recently renovated to blend historic charm with modern amenities. Each bedroom is luxuriously appointed with high-end bedding, extra pillows, cozy throws, and coordinating accent pillows, providing guests with a restful and indulgent experience.
+
+
+
+The apartment's vibrant decor and large windows allow natural light to flood the space, highlighting the tall ceilings and historic details that add to its charm. Modern conveniences include TVs in every room, fast Wi-Fi, and a well-equipped coffee bar. The private porch, adorned with mood lighting, offers a serene spot for morning coffee or evening tea. An in-apartment laundry room adds to the convenience, making it easy for guests to keep their clothes fresh during their stay.
+
+
+
+Located just three blocks from Forsyth Park, Vintage Blue Victorian  provides easy access to Savannah's top attractions, cafes, bars, and restaurants. The apartment is situated in a safe environment with security cameras for peace of mind. Street parking is available, and the space is dog-friendly, accommodating furry friends for a small fee. These thoughtful features make Vintage Blue Victorian  an ideal choice for families, couples, and solo travelers seeking a memorable stay in Savannah.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Waterfront
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV
+Free washer – In unit
+Free dryer – In unit
+Exterior security cameras on property
+Show all 64 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.94 out of 5 from 205 reviews.
+4.94
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 95% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+68
+Location
+106
+Parks
+21
+Cleanliness
+73
+Pets
+25
+Parking
+24
+Outdoor spaces
+34
+Comfort
+53
+Nearby
+40
+Hospitality
+66
+Meagan
+Hawi, Hawaii
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We were moving our daughter to college and were feeling a little down. This rental felt like a home-away-from-home. It was welcoming and we were eager to get back and relax after the long days. We plan on visiting our daughter in Savannah often and hope that she has more rentals available if this one isn’t! Will definitely prioritize her properties for future stays!!! Also, the courtyard was nice and private to have a margarita and kick back after a long day!
+Show more
+Sabrina
+1 month on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Our first Airbnb experience, and we are very happy to have had this opportunity. 
+We highly recommend the accommodation. 
+Absolutely as described in the advertisement. Everything is clean & fine.
+Super-fast contact for questions. We were even allowed to enter the apartment a little earlier. Thanks again 🙏🏻 
+- 5-minute walk to Forsyth Park
+- Kroger is a 2-minute walk away 
+- Free parking right in front of the front door 
+- Everything is walkable. The only thing to note is that it's a 30-minute walk to the action in the city (but that's absolutely doable without any problems). 
+If we come to Savannah again, we would book this accommodation again.
+Show more
+Jose
+Pittsburgh, Pennsylvania
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed with a pet
+Parking was always available. The house is within walking distance of Forsyth park and other landmarks. The area felt generally safe. The house was clean and perfect for our little getaway weekend. Would definitely re-book if I come back to Savannah.
+Show more
+Tazreen
+Toronto, Canada
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+My family and I had such a great stay! The Airbnb was beautiful, clean, cozy, and very comfortable for the four of us. It was the perfect space for our girls’ trip and had everything we needed to feel right at home. We especially loved the pile of books available to read during our stay. Everything felt welcoming and well thought out, and we really enjoyed our time here. We would definitely recommend this Airbnb to others!
+Show more
+Dawn
+Fort Oglethorpe, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+Absolutely had a great stay! Laura and her team were wonderful hosts from start to finish. Laura was incredibly responsive, and when we checked in, one of her team members was finishing up the neighboring unit. He was so kind, answered our parking questions, and made us feel welcome right away.
+Our unit was perfect. Everything felt fresh, with new appliances, beautiful décor, and a spotless interior. You can tell the home is very well maintained and cared for. Honestly, we don't have a single suggestion for what could have made our stay better.
+The location is another huge plus. The Saturday Farmers Market is within walking distance, and it's the perfect home base for exploring the area. We loved grabbing coffee at Perc, browsing the nearby shops, and eating at Public Kitchen and Repeal 33, both just a short walk away on MLK.
+If you're looking for a clean, comfortable place in a fantastic location with attentive hosts, Southern Grace Stays is it. We would absolutely book here again.
+Show more
+Brittany
+Metairie, Louisiana
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Our family absolutely loved our stay at Laura’s Vintage Blue Victorian home! It is the perfect size for four people, clean, looked exactly like the pictures, and the location is amazing! We were walking distance to a lot of sites and restaurants. Cute patio, comfortable beds, fully stocked with supplies you may need, and easy street parking. I would stay here again and recommend this place to anyone visiting Savannah!
+Show more
+Show all 205 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Elizabeth's on 37th
+Restaurant
+Bull Street Taco
+Mexican restaurant
+Local 11ten Food | Wine
+Restaurant
+Forsyth Park
+Park
+Savannah On Wheels
+Sports shop
+Mrs. Wilkes Dining Room
+American restaurant
+Old Town Trolley Tours of Savannah
+Tour agency
+Owens-Thomas House
+Tourist attraction
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Laura W/Southern Grace Stays
+Superhost
+1,386 reviews
+1386
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+3 years of hosting
+3
+Years hosting
+My work: Southern Grace Stays
+Favorite song in high school: Livin on a Prayer
+Savannah is home, hospitality is my passion, and making guests feel welcome is what I do best! I love beautiful spaces, great food, Southern charm, and sharing the best of Savannah with visitors. When I’m not hosting, you’ll usually find me working on a new property project, hunting for the perfect décor piece, or planning my next getaway. Come for the stay, leave with a little Southern Grace!
+Laura W/Southern Grace Stays is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Laura W/ Southern Grace Stays
+Andy
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 2:00 AM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Waterfront vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Waterfront vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

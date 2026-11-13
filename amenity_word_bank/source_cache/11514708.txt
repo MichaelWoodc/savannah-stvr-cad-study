@@ -1,0 +1,475 @@
+URL: https://www.airbnb.com/rooms/11514708
+Title: Fernwood Cottage Historic District
+Latitude: 32.066
+Longitude: -81.0934
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Christen
+Host ID: 760753
+Host profile ID: 1462514039887015200
+Host URL: https://www.airbnb.com/users/profile/1462514039887015200
+Bedrooms: 2
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Charming two bedroom, one bath Carriage House filled with local art and walking distance to all of Savannah's Historic District attractions.
+
+The space
+Our charming upstairs carriage house is new construction and has two bedrooms, kitchen living area, and a full bath. Features include hardwood floors, high ceilings, gourmet kitchen, and charming décor featuring antique furnishings and artwork by local artists. Enjoy Savannah’s amazing weather on the balcony. The kitchen offers stainless appliances, stone countertops, and everything you need to cook a meal for family and friends. Each bedroom offers a queen size bed and beautiful antique furnishings. A queen size sleeper sofa with memory foam mattress is in the living area. 
+
+ALSO AT THIS LOCATION: 
+Mimosa House 
+Connemara Cottage 
+The Mimosa House can be combined with the two Carriage Houses to create a 5 or 7 bedroom property that can accommodate up to 14 people. Contact us with any questions or to check availability of all three units.
+
+Parking
+One compact garage parking space available. Additionally, ample unmetered street parking is conveniently available within a stone's throw from the carriage house.
+
+Guest access
+Guests have sole access to the whole carriage house and a balcony overlooking the fenced in garden. The carriage house is above the garage - there is an inside staircase leading into the unit.
+
+Other things to note
+Dogs are welcomed. There is a one time pet fee.
+SVR-00221
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+32 inch TV with Roku
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Parking and facilities
+Free residential garage on premises – 1 space
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Fernwood Cottage Historic District
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+6 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.87 out of 5 stars.
+4.87
+302 reviews
+302
+Reviews
+Hosted by Christen
+Superhost · 15 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+Forsyth Park is about a 5-min walk away, with historic squares and a free trolley to River Street nearby.
+Well-equipped kitchen with stone counters
+A gourmet kitchen with stone countertops, stainless appliances, and a dishwasher for easy cleanup.
+Walkable location, attentive host
+Guests highlight how walkable the location is and praise Christen as a responsive, friendly host.
+Charming two bedroom, one bath Carriage House filled with local art and walking distance to all of Savannah's Historic District attractions.
+
+The space
+Our charming upstairs carriage house is new construction and has two bedrooms, kitchen living area, and a full bath. Features include hardwood floors, high ceilings, gourmet kitchen, and charming décor featuring antique furnishings and artwork by local artists. Enjoy Savannah’s amazing weather on the balcony. The kitchen offers stainless appliances, stone countertops, and everything you need to cook a meal for family and friends. Each bedroom offers a queen size bed and beautiful antique furnishings. A queen size sleeper sofa with memory foam mattress is in the living area. 
+
+ALSO AT THIS LOCATION: 
+Mimosa House 
+Connemara Cottage 
+The Mimosa House can be combined with the two Carriage Houses to create a 5 or 7 bedroom property that can accommodate up to 14 people. Contact us with any questions or to check availability of all three units.
+
+Parking
+One compact garage parking space available. Additionally, ample unmetered street parking is conveniently available within a stone's throw from the carriage house.
+
+Guest access
+Guests have sole access to the whole carriage house and a balcony overlooking the fenced in garden. The carriage house is above the garage - there is an inside staircase leading into the unit.
+
+Other things to note
+Dogs are welcomed. There is a one time pet fee.
+SVR-00221
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free residential garage on premises – 1 space
+Pets allowed
+32 inch TV with Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Private patio or balcony
+Show all 44 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.87 out of 5 from 302 reviews.
+4.87
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 89% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+119
+Location
+195
+Parking
+80
+Nearby
+127
+Parks
+38
+Hospitality
+108
+Comfort
+58
+Cleanliness
+96
+Getting around
+39
+Quiet
+30
+Christina
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We were extremely satisfied with our stay! The location was absolutely perfect within walking distance of just about everything we wanted to do, which made getting around so convenient. The place had everything we needed for a comfortable and enjoyable stay. We did have one minor issue during our stay, but the hosts were incredibly kind and responsive and had it taken care of very quickly. Their hospitality and willingness to help really stood out to us! We had a wonderful experience and would definitely stay here again. We highly recommend this place to anyone looking for a great location, comfortable stay, and wonderful hosts!
+Show more
+Dagmar
+Albuquerque, New Mexico
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Christen's place was the perfect place to stay while visiting Savannah. The apartment was very comfortable with two nice bedrooms and a full kitchen. The area was quite safe and welcoming and very quiet. If was situated near the downtown an easy 10-15 min walk. There was a gauge for parking which was very nice to have. We just loved our stay and will definitely look to stay here again when return to this area.
+Show more
+Jackeline
+Miami, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had a wonderful stay! It is exceptionally well cared for, spotless, and incredibly comfortable. The beds were cozy, and there were plenty of pillows, blankets, and towels, which made us feel right at home.
+One of my favorite parts of traveling is bringing family together over a meal, and this kitchen exceeded my expectations. It was surprisingly spacious for the size of the home and thoughtfully stocked with everything we needed. It made cooking together easy and created some of our favorite memories from the trip as we laughed, shared meals, and relaxed after busy days exploring Savannah.
+The location is fantastic in the beautiful Victorian District. Forsyth Park is just a 5-minute walk away, Kroger supermarket is directly across the street. We also loved that a Kelly Tours pickup at Hotel Bardo was nearby, making it easy to shuttle around without driving. The only thing to note is the stairs, which may be difficult for guests with severe mobility issues. Otherwise easily doable!
+Show more
+Svetlana
+France
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Christen’s apartment is amazing! Cosy, quiet, super clean, very comfy beds, lots of little details which made it feel immediately like home. Bathroom is gorgeous, all new and spacious. Kitchen is equipped with everything imaginable. There’s also a cute patio where we enjoyed coffee every morning. Location is a huge plus! Walking distance to the historic center, plenty of greenery and cute coffee shops just around the corner. It’s also around 25 minutes to Tybee Island Beach. Christen is an amazing host, very friendly and responsive. We hope to come back again!
+Show more
+Morris
+Fort Lauderdale, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Thanks for hosting us at your home it was lovely.
+Aleah
+Hayesville, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Great stay! Love the location to River Street and Tybee. Great amenities and coffee shops nearby. Would recommend and visit again when in Savannah!
+Show all 302 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+We are in a wonderful area of mainly historical residential houses mixed with a few businesses, including a large grocery store on the next block! Located one block from the twenty-plus acre Forsyth Park with playgrounds, tennis and basketball courts, and many year round festivals including the start of Savannah’s renowned St. Patrick’s Day Parade. There is also a free Trolley stop a block and a half away that loops to River Street.
+
+The main house was built in the 1890s. Our quaint street is safe with light foot traffic and friendly neighbors. We have several tasty restaurants within a few blocks and a large grocery store right around the corner with a Starbucks inside. A number of coffee shops, bakeries and a health food stores are all within 1-5 blocks too.
+Show more
+Meet your host
+Christen
+Superhost
+1,451 reviews
+1451
+Reviews
+4.88 out of 5 average rating
+4.88
+Rating
+15 years of hosting
+15
+Years hosting
+My work: College Professor and Fine Art Illustrator
+Speaks English
+I am a college professor and education consultant. My husband is a fine art illustrator. His fascination with history and the natural world greatly influence his work. We love to travel the world and are eager to introduce our young son and daughter to the adventures of traveling! We are an easy going family unit. We love to share our home city of Savannah with travelers - giving them the best local tips for traveling.
+Christen is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Checkout before 10:00 AM
+6 guests maximum
+Pets allowed
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

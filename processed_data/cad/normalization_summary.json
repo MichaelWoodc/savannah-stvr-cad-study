@@ -1,0 +1,44 @@
+{
+  "input_file": "raw_data\\CAD-log.xlsx",
+  "input_sha256": "2fab32a09b654fc49bef54418195c235c875221328d0c233bb793c5b278ce5d1",
+  "source_sheet": "Call For Service Basic",
+  "executed_utc": "2026-10-27T22:08:04.638182+00:00",
+  "normalization_version": "1.0.0",
+  "code_sha256": {
+    "processing/address_normalization.py": "a8008437ba7dcb8171b96f0a759542524cb4079c408cdbe61063fa115a85e546",
+    "processing/cad_normalization.py": "48a030eb9e0ae1d1fa35c650df491ba8256a14981c33bfffb111b8da7c4deffb"
+  },
+  "python_version": "3.14.6",
+  "pandas_version": "3.0.3",
+  "rows": 146213,
+  "unique_addresses": 40624,
+  "address_review_rows": 56963,
+  "record_review_rows": 58545,
+  "invalid_or_missing_coordinates": 6053,
+  "unparsed_timestamps": 4,
+  "missing_call_numbers": 3,
+  "duplicate_call_number_rows": 670,
+  "duplicate_source_rows": 2,
+  "address_kinds": {
+    "street_address": 91265,
+    "intersection_or_location_description": 32628,
+    "house_number_range_or_hyphenated_number": 12486,
+    "street_or_landmark": 9643,
+    "block_location": 187,
+    "missing": 4
+  },
+  "review_reason_counts": {
+    "unparsed_street_address": 42206,
+    "intersection_or_location_description": 32628,
+    "house_number_range_or_hyphenated_number": 12486,
+    "street_or_landmark": 9643,
+    "unrecognized_or_missing_street_suffix": 2243,
+    "block_location": 187,
+    "unparsed_embedded_unit": 67,
+    "missing": 4
+  },
+  "date_start": "2024-01-01 00:01:00",
+  "date_end": "2024-09-20 23:58:00",
+  "usps_delivery_validated": false,
+  "note": "All rows preserved; street-only candidate keys are not confirmed parcel matches. No timezone or locality inferred."
+}

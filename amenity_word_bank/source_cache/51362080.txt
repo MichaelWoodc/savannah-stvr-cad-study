@@ -1,0 +1,476 @@
+URL: https://www.airbnb.com/rooms/51362080
+Title: Walkable Savannah Escape in Historic District!
+Latitude: 32.0777
+Longitude: -81.0895
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Evolve
+Host ID: 121682456
+Host profile ID: 1468235433334190042
+Host URL: https://www.airbnb.com/users/profile/1468235433334190042
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Embark on a journey through time at this Savannah vacation rental! Just around the corner from Leopold's Ice Cream shop, this 1-bedroom, 1-bathroom condo is perfect for couples and solo travelers with a love of history. With a charming balcony, modern decor, and a well-equipped kitchen, the unit will make you feel at home the moment you walk in. Spend time at Oglethorpe Square or head to City Market - Savannah's 18th-century open-air market chock full of shops, restaurants, and art galleries!
+
+The space
+SVR-02349 | Walk to River Street | Laptop Friendly | 0.2 Mi to Shuttle 
+
+
+
+From romantic dinners at 'home' to beach days on Tybee Island, you'll discover a whole new way to vacay at this Southern retreat.
+
+
+
+Bedroom: King Bed
+
+
+
+OUTDOOR LIVING: Balcony, bistro table & chairs, string lights
+
+INDOOR LIVING: 2 Smart TVs w/ Netflix, Bluetooth vinyl record player w/ audio jack, books, en-suite bathroom
+
+KITCHEN: Well-equipped, Keurig & pour-over coffee makers, coffee grinder, cooking utensils, dishware & flatware, glassware, breakfast bar
+
+GENERAL: Free WiFi, ceiling fans, window A/C, complimentary toiletries, towels/linens, beach towels, coin laundry
+
+ACCESSIBILITY: Stairs required to enter, single-story condo on 2nd floor, no elevator available
+
+PARKING: Paid street parking, paid garage parking
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking
+- No pets allowed
+- No events, parties, or large gatherings
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+- NOTE: This property is located on the 2nd floor and requires stairs to access. There is no elevator available on-site
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Shampoo
+Hot water
+Bedroom and laundry
+Washer – In building
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV
+Family
+Outdoor playground
+An outdoor area equipped with play structures for children
+Heating and cooling
+Window AC unit
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Oven
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Beach essentials
+Beach gear such as towels, chairs, and an umbrella
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Hair dryer
+Hair dryer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Walkable Savannah Escape in Historic District!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Rated 4.66 out of 5 stars.
+4.66
+·
+172 reviews
+Hosted by Evolve
+Superhost · 9 years hosting
+Listing highlights
+In Savannah's Historic District
+Right outside Oglethorpe Square, with River Street and galleries within a short walk
+Balcony overlooking a historic square
+A balcony with bistro seating and string lights overlooking Oglethorpe Square
+A walkable spot guests keep returning to
+Guests call the location unbeatable, with many returning or planning to book again
+Embark on a journey through time at this Savannah vacation rental! Just around the corner from Leopold's Ice Cream shop, this 1-bedroom, 1-bathroom condo is perfect for couples and solo travelers with a love of history. With a charming balcony, modern decor, and a well-equipped kitchen, the unit will make you feel at home the moment you walk in. Spend time at Oglethorpe Square or head to City Market - Savannah's 18th-century open-air market chock full of shops, restaurants, and art galleries!
+
+The space
+SVR-02349 | Walk to River Street | Laptop Friendly | 0.2 Mi to Shuttle 
+
+
+
+From romantic dinners at 'home' to beach days on Tybee Island, you'll discover a whole new way to vacay at this Southern retreat.
+
+
+
+Bedroom: King Bed
+
+
+
+OUTDOOR LIVING: Balcony, bistro table & chairs, string lights
+
+INDOOR LIVING: 2 Smart TVs w/ Netflix, Bluetooth vinyl record player w/ audio jack, books, en-suite bathroom
+
+KITCHEN: Well-equipped, Keurig & pour-over coffee makers, coffee grinder, cooking utensils, dishware & flatware, glassware, breakfast bar
+
+GENERAL: Free WiFi, ceiling fans, window A/C, complimentary toiletries, towels/linens, beach towels, coin laundry
+
+ACCESSIBILITY: Stairs required to enter, single-story condo on 2nd floor, no elevator available
+
+PARKING: Paid street parking, paid garage parking
+
+Guest access
+Guests will have access to the entire property via keyless entry
+
+Other things to note
+- No smoking
+- No pets allowed
+- No events, parties, or large gatherings
+- Additional fees and taxes may apply
+- Photo ID may be required upon check-in
+- NOTE: This property is located on the 2nd floor and requires stairs to access. There is no elevator available on-site
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Washer – In building
+Dryer
+Window AC unit
+Bathtub
+Patio or balcony
+Refrigerator
+Show all 32 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.66 out of 5 stars from 172 reviews
+4.66 · 172 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 76% of reviews
+5
+4 stars, 17% of reviews
+4
+3 stars, 5% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 4.6 out of 5 stars for cleanliness
+Cleanliness
+4.6
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.7 out of 5 stars for communication
+Communication
+4.7
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Walkability
+73
+Location
+132
+Parking
+21
+Cleanliness
+41
+Nearby
+17
+Sleep quality
+24
+Comfort
+28
+Bathroom
+14
+Access
+9
+Indoor spaces
+17
+Edgar
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Everything was amazing as advertised! Would definitely stay again.
+Elise
+St. Louis, Missouri
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Beautiful apartment, close to everything! Loved our stay here and the timeless building. Fair warning, it is an older building so no outlet (or that we could find) in the bathroom. It was very hot outside during our stay but the apartment stayed comfortable, but I wouldn’t say it got as cold as a hotel room would. Otherwise, really loved this spot and would definitely stay there again!
+Show more
+William
+Walhalla, South Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Lovely historical building!
+Eric
+Fayetteville, Georgia
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Awesome value for the location, and the location is in the prime area of the historic district.
+Carl
+Buckhannon, West Virginia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+The location was absolutely perfect very walkable to local sites, restaurants, and squares. The condo was perfect for sitting on the balcony to enjoy a meal or to just relax.
+Gregory
+Clearwater, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Great location. nice taphouse around the corner to eat and drink after a bussy day. parking garage right across the street. beautiful square right out the front door. All communication was answered within minutes. Great stay. would stay here again next trip to Savannah
+Show more
+Show all 172 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+LOCAL ATTRACTIONS: River Street Savannah Georgia (0.4 miles), Old Town Trolley Savannah Tours (0.8 miles), Old Fort Jackson (3.9 miles), Bonaventure Cemetery (3.9 miles), Keller’s Flea Market (4.9 miles), Wormsloe Historic Site (9.0 miles), Fun Zone (12.7 miles), Fort Pulaski National Monument (13.8 miles), Tybee Island Light Station & Museum (16.4 miles), UGA Marine Education Center and Aquarium (18.6 miles)
+ARTS & CULTURE: Red Gallery (0.1 miles), Liquid Sands Glass Gallery (0.2 miles), Savannah Theatre (0.4 miles), Signature Gallery of Savannah (0.5 miles), A.T. Hun Art Gallery (0.5 miles), Oksana Fine Art Gallery & Studio (0.6), Gallery 209 (0.9 miles), The Savannah College of Art and Design (0.9 miles)
+GHOST TOURS: Genteel & Bard | Fine Savannah History & Ghost Tours (0.4 miles), Creepy Crawl Haunted Pub Tour - Savannah's *Original* Paranormal Drinking Tour (0.5 miles), Savannah History & Haunts Candlelit Ghost Tour (0.5 miles), Savannah Ghost Tours by Ghosts & Gravestones (1.0 miles),
+HISTORIC SAVANNAH: Leopold's Ice Cream (500 feet), Oglethorpe Square (0.1 miles), Colonial Park Cemetery (0.2 miles), Jepson Center for the Arts (0.4 miles), Telfair Museums (0.5 miles), American Prohibition Museum (0.5 miles), Mercer-Williams House Museum (0.8 miles), Georgia State Railroad Museum (0.9 miles), Ralph Mark Gilbert Civil Rights Museum (1.0 miles), Forsythe Park (1.4 miles)
+AIRPORT: Savannah/Hilton Head International Airport (15.9 miles)
+Show more
+Meet your host
+Evolve
+Superhost
+34,782 reviews
+10,000
++
+Reviews
+4.73 out of 5 average rating
+4.73
+Rating
+9 years of hosting
+9
+Years hosting
+My work: Evolve
+Speaks English, French, and Spanish
+Hi! We’re Evolve, the hospitality team that helps you rest easy when you rent a private, professionally cleaned home from us. We promise your rental will be clean, safe, and true to what you saw on Airbnb or we'll make it right. Check-ins are always smooth, and we're here 24/7 to answer any questions or help you find the perfect property.
+Evolve is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Condo vacation rentals in United States
+Vacation rentals with a beach view in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

@@ -1,0 +1,714 @@
+URL: https://www.airbnb.com/rooms/697142046701180376
+Title: Home by Crawford Square, Heated Pool Access
+Latitude: 32.07458
+Longitude: -81.08566
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Spend a little time wrapped in the luxury and beauty of Crawford Chic. Standing out among Savannah vacation rentals for its sprawling layout, Crawford Chic sleeps six overnight guests comfortably. The home pampers guests with a large kitchen, bright & airy atmosphere, 2.5 bathrooms, generous bedrooms, gated parking and serene porch made of the stuff of Southern-style dreams! Take a look inside one of the Savannah vacation homes perfect for making life in the city feel like a dream!
+
+The space
+Light, airy and carefree: Crawford Chic meets all your fondest vacation expectations and then some. Conveniently located near Crawford Square, one of the Historic District’s original greenspaces, this prime example of Savannah vacation homes is close to everything too. You’ll feel like royalty when the free shuttle bus stops right outside your door to whisk you away to dining, shopping and sightseeing destinations, all within minutes of your lovely home base. You can even venture farther afield to enjoy our heated swimming pool, reserved exclusively for Savannah vacation rentals guests. Whether your ideal vacation includes shooting a few hoops, strolling our unique Southern gardens or enjoying the city’s cultural events, it’s all here waiting for you in and around your Crawford Chic accommodations.
+
+
+
+What’s Inside
+
+
+
+This spacious walk-up condominium sleeps six guests, with two large bedrooms and three bathrooms. Charming, shuttered windows and a neutral color scheme usher you in the front door. The living room features comfortable seating, a ceiling fan and a smart TV. Feel free to sink into a state of bliss as you relax, converse or catch up on the news after an action-packed day in Savannah.
+
+
+
+The open floor plan also includes a dining area just beyond the living room. Chandelier-style lighting, wall art and a soft area rug help delineate the space. The farmhouse table provides seating for four. You’ll also find a desk and chair when you want to sit down and use your laptop. Crawford Chic provides your entire group with Wi-Fi on demand.
+
+
+
+Next to the dining room, the full kitchen features a granite-topped island, complete with breakfast bar seating. When it’s your turn to cook, you can still enjoy visiting with friends as you work. There is a refrigerator, range-oven, dishwasher and microwave for your use. We fill the drawers and cupboards at our vacation rentals Savannah GA with tableware, glasses and cookware to ensure that you have everything you need. You’ll even find a handy powder room just off the kitchen, complete with laundry facilities.
+
+
+
+Step out the back door to enjoy the balcony overlooking Crawford Square. Enjoy coffee in the morning and iced beverages in the evenings at the bistro table, and watch the world go by. It’s a great way to soak up the sounds and scents of your bustling Savannah neighborhood from a bird’s eye view.
+
+
+
+Take the gracious staircase upstairs when bedtime nears. There, you’ll discover two master suites that each come with their own private baths. The first bedroom boasts a king-sized bed that benefits from plenty of natural light. A dresser, ceiling fan and smart TV cater to your storage, comfort and entertainment needs.
+
+
+
+The adjoining bathroom features a glassed-in shower with ample room for two, granite countertops and plenty of drawer space. We supply our Savannah vacation homes guests with lots of soft, absorbent towels for a luxurious bathing experience throughout their stay.
+
+
+
+The second master suite has a king-sized bed, an abundance of windows and a double closet. The private bath features a tub/shower nook.
+
+
+
+In addition, this great accommodation offers two twin-sized mattresses for two more guests. It also includes private, gated parking for up to two vehicles, heating and air conditioning, keypad entry and outdoor lighting. Don’t forget your exclusive access to our Tybee Island pool. It’s a great place to cool off and meet guests from other Savannah vacation rentals.
+
+
+
+Day Trip to Wormsloe Plantation
+
+
+
+If you brought your car to Savannah, take a short but scenic drive to the Isle of Hope, just 11 miles from downtown. This 2 by 4-mile peninsula is the site of the Wormsloe historic site. Built in the 18th century by one of Savannah’s founders, Noble Jones, the 822-acre estate features a long avenue shaded by live oaks. You'll also find the remains of the original plantation house and eight miles of scenic trails.
+
+
+
+Construction of the Wormsloe manse relied on the labor of indentured servants, since at the time, slavery was banned throughout the state of Georgia. When lawmakers lifted the ban in 1749, Jones brought in slaves to work the plantation. He grew food crops and tried to establish a silk operation by planting mulberry trees for the worms, but that venture never took off.
+
+
+
+Wormsloe became an official historic site in the 1970s, with the state of Georgia as the conservator. The grounds contain a museum, outbuildings including a wattle-and-daub hut, and an interpretive trail.
+
+
+
+If you visit Wormsloe, make a day of it with a stop at the nearby Shops at Sandfly just a couple of minutes down the road. Depending on the time of day, you can stop by Cutter’s Point Coffee shop for a quick pick-me-up or dine on fresh seafood at the Driftaway Café. Both are within a short drive of the Wormsloe historic site.
+
+
+
+There are plenty of great activities, venues and eateries nearby Crawford Chic too. Take a walking tour of the area’s town squares. Each one has its own attractions.
+
+
+
+Nearby Chippewa Square boasts a theater and a museum while Lafayette Square stands in the shadow of the ornate St. John the Baptist Cathedral. This edifice is a must-see for many of our vacation rentals Savannah GA guests.
+
+Guest access
+Occupancy: 6
+
+Beautiful Savannah vacation home next to Crawford Square
+
+Spacious and open living area with seating and flatscreen TV
+
+Full kitchen equipped with cooking essentials
+
+Dining table with seating for 4
+
+Kitchen island has seating for 2
+
+Outdoor space: Sunny porch with seating accessed from kitchen area
+
+Bedroom 1: King bed, smart TV, en suite full bathroom with double vanities and glass enclosed shower
+
+Bedroom 2: King bed, smart TV, en suite full bathroom with tub/shower combo
+
+Additional sleeping space: 2 twin size air mattresses
+
+Half bath near living area
+
+Washer/dryer
+
+Parking: Gated off street parking private for 1-2 vehicles (dependent on size)
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+
+
+SVR-02622
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free parking on premises
+Pool
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Home by Crawford Square, Heated Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 2 bedrooms · 4 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+27 reviews
+27
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Crawford Square is right outside, with Lafayette Square and the cathedral about a 5-min walk away
+Well-equipped kitchen with island
+A full kitchen with granite island, breakfast bar, and everything stocked for cooking
+Clean, comfortable, and walkable
+Guests consistently highlight how clean, comfortable, and walkable this home is
+Spend a little time wrapped in the luxury and beauty of Crawford Chic. Standing out among Savannah vacation rentals for its sprawling layout, Crawford Chic sleeps six overnight guests comfortably. The home pampers guests with a large kitchen, bright & airy atmosphere, 2.5 bathrooms, generous bedrooms, gated parking and serene porch made of the stuff of Southern-style dreams! Take a look inside one of the Savannah vacation homes perfect for making life in the city feel like a dream!
+
+The space
+Light, airy and carefree: Crawford Chic meets all your fondest vacation expectations and then some. Conveniently located near Crawford Square, one of the Historic District’s original greenspaces, this prime example of Savannah vacation homes is close to everything too. You’ll feel like royalty when the free shuttle bus stops right outside your door to whisk you away to dining, shopping and sightseeing destinations, all within minutes of your lovely home base. You can even venture farther afield to enjoy our heated swimming pool, reserved exclusively for Savannah vacation rentals guests. Whether your ideal vacation includes shooting a few hoops, strolling our unique Southern gardens or enjoying the city’s cultural events, it’s all here waiting for you in and around your Crawford Chic accommodations.
+
+
+
+What’s Inside
+
+
+
+This spacious walk-up condominium sleeps six guests, with two large bedrooms and three bathrooms. Charming, shuttered windows and a neutral color scheme usher you in the front door. The living room features comfortable seating, a ceiling fan and a smart TV. Feel free to sink into a state of bliss as you relax, converse or catch up on the news after an action-packed day in Savannah.
+
+
+
+The open floor plan also includes a dining area just beyond the living room. Chandelier-style lighting, wall art and a soft area rug help delineate the space. The farmhouse table provides seating for four. You’ll also find a desk and chair when you want to sit down and use your laptop. Crawford Chic provides your entire group with Wi-Fi on demand.
+
+
+
+Next to the dining room, the full kitchen features a granite-topped island, complete with breakfast bar seating. When it’s your turn to cook, you can still enjoy visiting with friends as you work. There is a refrigerator, range-oven, dishwasher and microwave for your use. We fill the drawers and cupboards at our vacation rentals Savannah GA with tableware, glasses and cookware to ensure that you have everything you need. You’ll even find a handy powder room just off the kitchen, complete with laundry facilities.
+
+
+
+Step out the back door to enjoy the balcony overlooking Crawford Square. Enjoy coffee in the morning and iced beverages in the evenings at the bistro table, and watch the world go by. It’s a great way to soak up the sounds and scents of your bustling Savannah neighborhood from a bird’s eye view.
+
+
+
+Take the gracious staircase upstairs when bedtime nears. There, you’ll discover two master suites that each come with their own private baths. The first bedroom boasts a king-sized bed that benefits from plenty of natural light. A dresser, ceiling fan and smart TV cater to your storage, comfort and entertainment needs.
+
+
+
+The adjoining bathroom features a glassed-in shower with ample room for two, granite countertops and plenty of drawer space. We supply our Savannah vacation homes guests with lots of soft, absorbent towels for a luxurious bathing experience throughout their stay.
+
+
+
+The second master suite has a king-sized bed, an abundance of windows and a double closet. The private bath features a tub/shower nook.
+
+
+
+In addition, this great accommodation offers two twin-sized mattresses for two more guests. It also includes private, gated parking for up to two vehicles, heating and air conditioning, keypad entry and outdoor lighting. Don’t forget your exclusive access to our Tybee Island pool. It’s a great place to cool off and meet guests from other Savannah vacation rentals.
+
+
+
+Day Trip to Wormsloe Plantation
+
+
+
+If you brought your car to Savannah, take a short but scenic drive to the Isle of Hope, just 11 miles from downtown. This 2 by 4-mile peninsula is the site of the Wormsloe historic site. Built in the 18th century by one of Savannah’s founders, Noble Jones, the 822-acre estate features a long avenue shaded by live oaks. You'll also find the remains of the original plantation house and eight miles of scenic trails.
+
+
+
+Construction of the Wormsloe manse relied on the labor of indentured servants, since at the time, slavery was banned throughout the state of Georgia. When lawmakers lifted the ban in 1749, Jones brought in slaves to work the plantation. He grew food crops and tried to establish a silk operation by planting mulberry trees for the worms, but that venture never took off.
+
+
+
+Wormsloe became an official historic site in the 1970s, with the state of Georgia as the conservator. The grounds contain a museum, outbuildings including a wattle-and-daub hut, and an interpretive trail.
+
+
+
+If you visit Wormsloe, make a day of it with a stop at the nearby Shops at Sandfly just a couple of minutes down the road. Depending on the time of day, you can stop by Cutter’s Point Coffee shop for a quick pick-me-up or dine on fresh seafood at the Driftaway Café. Both are within a short drive of the Wormsloe historic site.
+
+
+
+There are plenty of great activities, venues and eateries nearby Crawford Chic too. Take a walking tour of the area’s town squares. Each one has its own attractions.
+
+
+
+Nearby Chippewa Square boasts a theater and a museum while Lafayette Square stands in the shadow of the ornate St. John the Baptist Cathedral. This edifice is a must-see for many of our vacation rentals Savannah GA guests.
+
+Guest access
+Occupancy: 6
+
+Beautiful Savannah vacation home next to Crawford Square
+
+Spacious and open living area with seating and flatscreen TV
+
+Full kitchen equipped with cooking essentials
+
+Dining table with seating for 4
+
+Kitchen island has seating for 2
+
+Outdoor space: Sunny porch with seating accessed from kitchen area
+
+Bedroom 1: King bed, smart TV, en suite full bathroom with double vanities and glass enclosed shower
+
+Bedroom 2: King bed, smart TV, en suite full bathroom with tub/shower combo
+
+Additional sleeping space: 2 twin size air mattresses
+
+Half bath near living area
+
+Washer/dryer
+
+Parking: Gated off street parking private for 1-2 vehicles (dependent on size)
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+
+
+SVR-02622
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 27 reviews.
+4.93
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 4% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+13
+Parking
+9
+Cleanliness
+15
+Location
+14
+Comfort
+7
+Hospitality
+7
+Family
+4
+Quiet
+3
+Condition
+3
+Nearby
+3
+Jenn
+Plymouth Meeting, Pennsylvania
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Great stay! Place is very clean and perfect set up. It’s a short walk to all Savannah has to offer! Super quiet area.
+Show more
+Renee & Mike
+Jensen Beach, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had a wonderful stay in Savannah with my aunt and cousin! The home was very clean, comfortable, and located in a beautiful, convenient area. The gated parking was a great bonus and made us feel secure. Southern Belle Vacation Rentals was very responsive and quickly answered any questions we had. Everything about our stay was great, and we would definitely stay here again!
+Show more
+Sally
+Port Orange, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Fabulous place to stay in Savannah! We enjoyed the accommodations which were lovely & beautifully appointed, clean & spotless! Southern Belle was quick & responsive when we had a hot water  issue, service was sent out right away & corrective measures taken. We definitely will be back ❤️
+Show more
+Brookie
+Coats, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Southern Belle rental was beautiful, clean and in the perfect location to enjoy Savannah.
+John
+Asheville, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Had a fantastic stay. Super comfortable, clean, spacious and walkable to everything. Great place.
+Stacey
+Kentucky, United States
+Rating, 5 stars
+,
+·
+July 2025
+,
+·
+Stayed with kids
+We had such a wonderful stay here! The home was beautiful and spotless and was just the right size for our family of four.  Southern Belle was proactive and helpful. The home is walkable to most sights and dining locations that we were interested in. Great stay!
+Show more
+Show all 27 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+House vacation rentals in Savannah
+Vacation rentals with a pool in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

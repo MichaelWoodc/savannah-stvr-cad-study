@@ -1,0 +1,592 @@
+URL: https://www.airbnb.com/rooms/869624074807685311
+Title: Located on Pulaski Square, Heated Pool Access
+Latitude: 32.07356354393102
+Longitude: -81.09620566018224
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+The LaRoche Estate on Pulaski Square is one of our most renowned Savannah vacation rentals. Recently featured in Gray Magazine, this home is a stand-out townhome on Pulaski Square. Designed centuries ago by Savannah architect Isaac LaRoche, the house is filled with hallmark Savannah charm that makes the ideal vacation backdrop.The front of the home features the geometrically placed windows and intricate detailing that were features of LaRoche's design.
+
+The space
+The LaRoche Estate on Pulaski Square is one of our most renowned Savannah vacation rentals. Recently featured in Gray Magazine, this home is a stand-out townhome on Pulaski Square. Designed centuries ago by Savannah architect Isaac LaRoche, the house is filled with hallmark Savannah charm that makes the ideal vacation backdrop.
+
+
+
+The front of the home features the geometrically placed windows and intricate detailing that were features of LaRoche's design. Inside, exposed brickwork, soaring ceilings, graceful fireplaces, and sweeping staircases add to the home's historic feel. Stepping into this townhome truly feels like stepping back in time.
+
+
+
+However, even though The LaRoche Estate on Pulaski Square has a time-honored design, it's still filled with modern comforts. We want our guests to be as comfortable as possible, so this home is equipped with spacious bathrooms, cutting-edge appliances, and stylish decor. The combination of vintage beauty and present-day luxury is sure to get you in the mood for exploring the rest of Savannah.
+
+
+
+SVR-02500
+
+Guest access
+Occupancy: 6
+
+TV room in garden level with large flatscreen
+
+Parlor sitting room with gorgeous views of Pulaski Square
+
+Kitchenette off parlor
+
+Full kitchen in garden level equipped with cooking essentials
+
+Breakfast bar with seating for 2
+
+Dining table with seating for 4
+
+Bedroom 1: King bed, en suite full bathroom
+
+Bedroom 2: Queen Bed, en suite full bathroom
+
+Extra sleeping space: Sofa bed in garden level
+
+Full bathrooms: 3
+
+Half bathroom: 1
+
+Washer/dryer
+
+Special amenities: Amazing views of the historic Pulaski Square, private courtyard with covered outdoor dining and additional seating, walk to restaurants, boutiques, museums
+
+Parking: Metered street parking.
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free street parking
+Pool
+Paid parking off premises
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Located on Pulaski Square, Heated Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+6 guests · 2 bedrooms · 3 beds · 3.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.94 out of 5 stars.
+4.94
+36 reviews
+36
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+On Pulaski Square in the Historic District
+Steps from Lafayette Square, with Chippewa Square and the Historic District an easy walk away
+Courtyard with covered dining
+A private courtyard with covered outdoor dining, a favorite morning coffee spot among guests
+Spotless and full of character
+Guests call it spotless, and many highlight the exposed brick, soaring ceilings, and historic charm
+The LaRoche Estate on Pulaski Square is one of our most renowned Savannah vacation rentals. Recently featured in Gray Magazine, this home is a stand-out townhome on Pulaski Square. Designed centuries ago by Savannah architect Isaac LaRoche, the house is filled with hallmark Savannah charm that makes the ideal vacation backdrop.The front of the home features the geometrically placed windows and intricate detailing that were features of LaRoche's design.
+
+The space
+The LaRoche Estate on Pulaski Square is one of our most renowned Savannah vacation rentals. Recently featured in Gray Magazine, this home is a stand-out townhome on Pulaski Square. Designed centuries ago by Savannah architect Isaac LaRoche, the house is filled with hallmark Savannah charm that makes the ideal vacation backdrop.
+
+
+
+The front of the home features the geometrically placed windows and intricate detailing that were features of LaRoche's design. Inside, exposed brickwork, soaring ceilings, graceful fireplaces, and sweeping staircases add to the home's historic feel. Stepping into this townhome truly feels like stepping back in time.
+
+
+
+However, even though The LaRoche Estate on Pulaski Square has a time-honored design, it's still filled with modern comforts. We want our guests to be as comfortable as possible, so this home is equipped with spacious bathrooms, cutting-edge appliances, and stylish decor. The combination of vintage beauty and present-day luxury is sure to get you in the mood for exploring the rest of Savannah.
+
+
+
+SVR-02500
+
+Guest access
+Occupancy: 6
+
+TV room in garden level with large flatscreen
+
+Parlor sitting room with gorgeous views of Pulaski Square
+
+Kitchenette off parlor
+
+Full kitchen in garden level equipped with cooking essentials
+
+Breakfast bar with seating for 2
+
+Dining table with seating for 4
+
+Bedroom 1: King bed, en suite full bathroom
+
+Bedroom 2: Queen Bed, en suite full bathroom
+
+Extra sleeping space: Sofa bed in garden level
+
+Full bathrooms: 3
+
+Half bathroom: 1
+
+Washer/dryer
+
+Special amenities: Amazing views of the historic Pulaski Square, private courtyard with covered outdoor dining and additional seating, walk to restaurants, boutiques, museums
+
+Parking: Metered street parking.
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+Pool
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Show all 52 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.94 out of 5 from 36 reviews.
+4.94
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 94% of reviews
+5
+4 stars, 6% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+18
+Location
+31
+Parking
+5
+Decor
+8
+Quiet
+9
+Cleanliness
+10
+Comfort
+6
+Nearby
+6
+Sleep quality
+4
+Outdoor spaces
+4
+Michel
+Alpharetta, Georgia
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Group trip
+This was our 2nd stay and we absolutely love this place! 
+Great location, beautiful townhouse close to everything🥰
+Thank you so much! We will be back!
+Kaitlin
+Melissa, Texas
+Rating, 4 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+The property is very pretty and very well situated in the historic district. It was nice to have the back patio and ease of access to the squares. 
+Our only complaints were that the house smelled of mothballs, and not just a little. Also, the railing to the ground level was completely detached at the top of the stairs. We did find tools to fix it immediately, as one of our guests recently had knee surgery and needed a steady railing.
+Show more
+Ivy
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Beautiful home in a great location. Layout is a bit awkward with the kitchen and larger main living space on separate floors, but that's to be expected with an older home. Comfortable beds, stocked kitchen, and ample bathrooms for the amount of guests the home accommodates. Parking was public but was super easy. Nearly everything was walkable from this location. Great spot when visiting Savannah!
+Show more
+Maegan
+Cary, North Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+This place is a gem! Very walkable and so beautiful. Perfect place for a girls trip. Great communication from the hosts. We will definitely be back!
+Don
+Edwardsville, Illinois
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Wonderful place, right in the heart of Savannah! Excellent hosts as well.
+Sarah
+Cumming, Georgia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+The house is beautiful and cozy. The location is walkable to most anything. The square is quiet and peaceful, especially with its ideal location downtown. The house is clean and has everything you may need. Loved it!
+Show more
+Show all 36 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Vacation rentals with a pool in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

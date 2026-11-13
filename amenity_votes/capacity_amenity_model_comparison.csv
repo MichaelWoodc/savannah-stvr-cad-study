@@ -1,0 +1,25 @@
+scope,outcome,model,properties,events,validation_groups,held_out_deviance,held_out_mean_absolute_error,status
+direct,All calls,size_only,472,493,284,1.903753692373706,1.0654362979330334,estimated
+direct,All calls,amenity_count_only,472,493,284,1.8926447055550404,1.0488194449596124,estimated
+direct,All calls,size_plus_amenities,472,493,284,1.8875737449594054,1.0470409107956773,estimated
+direct,All calls,size_amenities_interaction,472,493,284,1.8915419874077815,1.0492273877762166,estimated
+direct,All calls,rough_capacity_times_amenities,472,493,284,2.913757005975585,1.1206135064613938,estimated
+direct,All calls,rough_capacity_times_one_plus_amenities,472,493,284,2.2721064218646667,1.1094801748264123,estimated
+direct,Noise-party-disturbance,size_only,472,66,284,0.714821654155963,0.24782073938394122,estimated
+direct,Noise-party-disturbance,amenity_count_only,472,66,284,0.7180382300637809,0.24982380882576644,estimated
+direct,Noise-party-disturbance,size_plus_amenities,472,66,284,0.7140180948430574,0.24593985349329942,estimated
+direct,Noise-party-disturbance,size_amenities_interaction,472,66,284,0.712009850471043,0.2500013836029401,estimated
+direct,Noise-party-disturbance,rough_capacity_times_amenities,472,66,284,0.6918473833725711,0.23457982531400987,estimated
+direct,Noise-party-disturbance,rough_capacity_times_one_plus_amenities,472,66,284,0.6792575114145961,0.23622446489358429,estimated
+combined,All calls,size_only,472,1475,284,3.7500733376668816,2.6314014525688076,estimated
+combined,All calls,amenity_count_only,472,1475,284,3.642626817367724,2.579752496231798,estimated
+combined,All calls,size_plus_amenities,472,1475,284,3.6230827373587844,2.5902357118541235,estimated
+combined,All calls,size_amenities_interaction,472,1475,284,3.6470941111008663,2.6085940088762025,estimated
+combined,All calls,rough_capacity_times_amenities,472,1475,284,8.383197247257234,2.897980471562203,estimated
+combined,All calls,rough_capacity_times_one_plus_amenities,472,1475,284,4.838324290191562,2.83901011531205,estimated
+combined,Noise-party-disturbance,size_only,472,159,284,1.2609914206218753,0.5258461935272948,estimated
+combined,Noise-party-disturbance,amenity_count_only,472,159,284,1.2563361409929008,0.5320218482693588,estimated
+combined,Noise-party-disturbance,size_plus_amenities,472,159,284,1.2415775235880004,0.5257975846478601,estimated
+combined,Noise-party-disturbance,size_amenities_interaction,472,159,284,1.2701730164713978,0.5341298104849179,estimated
+combined,Noise-party-disturbance,rough_capacity_times_amenities,472,159,284,1.2853596679651818,0.5031308415336576,estimated
+combined,Noise-party-disturbance,rough_capacity_times_one_plus_amenities,472,159,284,1.2647568959947162,0.5054473024094457,estimated

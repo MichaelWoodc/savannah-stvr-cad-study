@@ -1,0 +1,584 @@
+URL: https://www.airbnb.com/rooms/914470333555309683
+Title: Modern artistic garden apt w/ patio & parking.
+Latitude: 32.0682
+Longitude: -81.0921
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Larry And Joan
+Host ID: 61253215
+Host profile ID: 1466753971099532357
+Host URL: https://www.airbnb.com/users/profile/1466753971099532357
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Looking for Southern charm? Romance? Our uniquely-appointed 1BR + sofa bed garden apt is tucked into Savannah's Historic District, steps from Forsyth Park, Kroger's Mkt & SCAD Welcome Ctr. Stroll shady streets, explore shops & historic homes, sample local cuisine on your way to lively River St. End your day with fine dining or grill on your own private patio. Quiet, central location blending comfort, charm, & Savannah soul. Reserved off-street parking for convenience & peace of mind.
+
+
+SVR 02807
+
+The space
+About the Space ~
+
+From our fully-equipped kitchen and coffee bar to our premium king bed and private patio, we aim to pamper you!
+And . . . we have a reserved, off-street parking spot just for you, a rarity in downtown Savannah!
+
+Quick Facts ~ 
+
+•     1 Bedroom, 1 Bath, 1 sofa bed — cozy retreat for 3 guests
+•	Thoughtfully decorated with unique decor for a memorable stay
+•	Private Garden Patio — think wine, grilling, relaxing -- your own private oasis
+•	Dedicated Off-Street Parking for convenience & peace of mind — a rare perk in downtown Savannah
+•	Prime Location — easy walking to all that matters
+•	Historic District Charm — shops, cafés, historic homes, Savannah's iconic squares & River Street 
+•	Eat In or Out — full kitchen + Savannah’s best restaurants nearby
+•	Close to SCAD & Chatham House dorms
+
+The Full Story ~
+
+* Private bedroom, king bed, 1 sofa bed  
+* 2 king pillows, lots of standards
+* Walk-in closet with hangers, 2 luggage racks
+* Room-darkening drapes, 2 Dohm sound machines 
+* Full bath, large shower, plush towels 
+* Complimentary shampoo, conditioner, body wash
+* Yoga mat (disinfected after each guest) 
+* Extra bath sheets/beach towels, 2 beach chairs 
+* Fully-equipped kitchen with blender, toaster, microwave, glass-topped stove, oven
+* Well-stocked coffee/espresso bar
+* Generous living & dining area  
+* Comfy sofa & two genuine Wassily chairs
+* Private patio w/ BBQ grill, evening lighting
+* Wall-mounted Smart TV & WiFi 
+* Bamboo flooring throughout
+* Central air-conditioning -- of course! 
+* Washer and dryer, iron and ironing board  
+* No stairs -- anywhere!
++ Reserved off-street parking space  
+* Owners live on 2nd and 3rd floors (we respect your privacy)
+(No pets or parties, please, and no smoking inside)
+
+FAQs ~ 
+
+* Is parking included? 
+  Yes. You have a reserved parking space in our 
+   private lot as well as free street parking.
+* Can I walk to everything? 
+   Yes. Brick, flagstone and cobblestones call for 
+   proper footwear!
+* Are there laundry facilities?
+  Of course! You have a washer and dryer in the unit.
+* Is there outdoor space?
+  Yes. Enjoy your private fenced patio with BBQ grill.
+* Is this a shared space?
+  Nope. It's a private apartment just for you.
+
+Other Notes ~
+
+What about young children? Our apartment was designed as an executive rental, so its decor and furnishings are not intentionally child-proof nor do we provide any child-size essentials, e.g. pack-n-play, high chair, etc. If you plan to bring your child, kindly send an inquiry prior to reservation.
+
+Guest access
+You’ll have full access to the apartment and private patio. It's all yours!
+
+Other things to note
+We are glad to accommodate early check-in and luggage drop-off as well as late checkout when possible. We enjoy giving our guests more time to explore our beautiful city!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap, shampoo & conditioner body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: walk-in closet and dresser
+Entertainment
+TV
+Books and reading material
+Heating and cooling
+Air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Single oven
+Hot water kettle
+Coffee maker: espresso machine, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free parking on premises
+Free street parking
+Single level home
+No stairs in home
+Recycling
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Modern artistic garden apt w/ patio & parking.
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+3 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+212 reviews
+212
+Reviews
+Hosted by Larry And Joan
+Superhost · 3 years hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, with Savannah's iconic squares and shops along Bull Street beyond
+Private garden patio with grill
+A fenced patio with a grill and evening lighting for cooking and unwinding outdoors
+Larry and Joan go above and beyond
+Guests highlight Larry and Joan's thoughtful touches and warm, attentive hospitality
+Looking for Southern charm? Romance? Our uniquely-appointed 1BR + sofa bed garden apt is tucked into Savannah's Historic District, steps from Forsyth Park, Kroger's Mkt & SCAD Welcome Ctr. Stroll shady streets, explore shops & historic homes, sample local cuisine on your way to lively River St. End your day with fine dining or grill on your own private patio. Quiet, central location blending comfort, charm, & Savannah soul. Reserved off-street parking for convenience & peace of mind.
+
+
+SVR 02807
+
+The space
+About the Space ~
+
+From our fully-equipped kitchen and coffee bar to our premium king bed and private patio, we aim to pamper you!
+And . . . we have a reserved, off-street parking spot just for you, a rarity in downtown Savannah!
+
+Quick Facts ~ 
+
+•     1 Bedroom, 1 Bath, 1 sofa bed — cozy retreat for 3 guests
+•	Thoughtfully decorated with unique decor for a memorable stay
+•	Private Garden Patio — think wine, grilling, relaxing -- your own private oasis
+•	Dedicated Off-Street Parking for convenience & peace of mind — a rare perk in downtown Savannah
+•	Prime Location — easy walking to all that matters
+•	Historic District Charm — shops, cafés, historic homes, Savannah's iconic squares & River Street 
+•	Eat In or Out — full kitchen + Savannah’s best restaurants nearby
+•	Close to SCAD & Chatham House dorms
+
+The Full Story ~
+
+* Private bedroom, king bed, 1 sofa bed  
+* 2 king pillows, lots of standards
+* Walk-in closet with hangers, 2 luggage racks
+* Room-darkening drapes, 2 Dohm sound machines 
+* Full bath, large shower, plush towels 
+* Complimentary shampoo, conditioner, body wash
+* Yoga mat (disinfected after each guest) 
+* Extra bath sheets/beach towels, 2 beach chairs 
+* Fully-equipped kitchen with blender, toaster, microwave, glass-topped stove, oven
+* Well-stocked coffee/espresso bar
+* Generous living & dining area  
+* Comfy sofa & two genuine Wassily chairs
+* Private patio w/ BBQ grill, evening lighting
+* Wall-mounted Smart TV & WiFi 
+* Bamboo flooring throughout
+* Central air-conditioning -- of course! 
+* Washer and dryer, iron and ironing board  
+* No stairs -- anywhere!
++ Reserved off-street parking space  
+* Owners live on 2nd and 3rd floors (we respect your privacy)
+(No pets or parties, please, and no smoking inside)
+
+FAQs ~ 
+
+* Is parking included? 
+  Yes. You have a reserved parking space in our 
+   private lot as well as free street parking.
+* Can I walk to everything? 
+   Yes. Brick, flagstone and cobblestones call for 
+   proper footwear!
+* Are there laundry facilities?
+  Of course! You have a washer and dryer in the unit.
+* Is there outdoor space?
+  Yes. Enjoy your private fenced patio with BBQ grill.
+* Is this a shared space?
+  Nope. It's a private apartment just for you.
+
+Other Notes ~
+
+What about young children? Our apartment was designed as an executive rental, so its decor and furnishings are not intentionally child-proof nor do we provide any child-size essentials, e.g. pack-n-play, high chair, etc. If you plan to bring your child, kindly send an inquiry prior to reservation.
+
+Guest access
+You’ll have full access to the apartment and private patio. It's all yours!
+
+Other things to note
+We are glad to accommodate early check-in and luggage drop-off as well as late checkout when possible. We enjoy giving our guests more time to explore our beautiful city!
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Free parking on premises
+TV
+Free washer – In unit
+Free dryer – In unit
+Air conditioning
+Private patio or balcony
+Luggage dropoff allowed
+Hair dryer
+Show all 57 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 212 reviews.
+5.0
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+107
+Hospitality
+159
+Location
+127
+Nearby
+46
+Comfort
+60
+Parking
+33
+Cleanliness
+72
+Quiet
+31
+Amenities
+40
+Parks
+16
+Linda
+Gainesville, Florida
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed a few nights
+This is one of the very best Air B& B’s we have ever stayed in. We think that Larry and Joan have thought of everything to make it feel like home and even had snacks, great coffee and water. It felt very safe there and we could walk everywhere! We will definitely be back! We highly recommend their home!
+Show more
+Betty
+Wausau, Wisconsin
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+This is a beautiful place to stay. Larry and Joan were so welcoming. Their recommendations and guide books were wonderful. Their place is well stocked, comfortable, and quiet. We definitely will stay there again.
+Show more
+Cathryn
+Allen, Texas
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+This place was fabulous! Easy walk to Forsyth Park, Saint Bibiana (homemade pasta/Italian), Mate Factor (coffee, breakfast, delicious breads, and sooo interesting), Chocolat by Adam Turoni (library style shop with amazing chocolates made onsite), Collins Quarter (breakfast), Franklin's (breakfast), Jones Street, and Bull Street shopping. We fell in love with Savannah! Very comfy, adorable AirBnB and our hosts thought of everything...including umbrellas!
+Show more
+Maria
+Wilmington, Delaware
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We couldn’t have asked for a lovelier place or more welcoming hosts. It feels like your home away from home.
+Show more
+Shirley
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+What a lovely stay! Joan and Larry were such kind, friendly, and gracious hosts. Their Savannah condo is spacious, spotless, comfortable, and truly has everything you could possibly need. I especially appreciated all the thoughtful touches—the coffee, snacks, and wonderful information about local attractions. It really felt like a home away from home. I thoroughly enjoyed my weekend and will definitely stay with Joan and Larry again on my next visit to Savannah. Highly recommend!
+Show more
+Shawn
+Mooresville, North Carolina
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Larry and Joan were fantastic hosts!  Their place was amazing and the location to Forsyth Park can’t be beat.  Some of the bests hosts we have ever had the pleasure to work with.
+Show more
+Show all 212 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Larry and Joan's garden apartment is right in the heart of Savannah's historic district! Walk two blocks to Forsyth Park and then head straight north on Bull Street past a host of shops, restaurants, historic homes and museums. Five of Savannah's 22 squares are on Bull Street, lovely oases of live oaks, monuments, flowering shrubs, and park benches to rest weary feet. The Savannah River and lively River Street are just a mile away. Closer to home are Kroger's Supermarket (with a Starbucks inside) and the quirky but yummy Mate Factor for coffee, teas, to-die-for muffins and breads as well as sandwiches. SCAD's Chatham Towers and Welcome Center are a block and half away. Location, location, location!
+Show more
+Meet your host
+Larry And Joan
+Superhost
+212 reviews
+212
+Reviews
+5.0 out of 5 average rating
+5.0
+Rating
+3 years of hosting
+3
+Years hosting
+Born in the 50s
+Where I went to school: Northeastern & New England Conservatory
+We are an inching-our-way-to-retirement couple, recently transplanted from the Boston area to Savannah. We have fallen in love with this oozing-with-Southern-charm-and-history city and look forward to helping you fall in love with it, too! We have worked hard to make our accommodations attractive and comfortable, even to the point of pampering you a bit. Welcome to Savannah!
+Larry And Joan is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

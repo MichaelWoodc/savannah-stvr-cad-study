@@ -1,0 +1,343 @@
+URL: https://www.airbnb.com/rooms/1737118362103462953
+Title: Single-story 3BR with central AC, W/D, & games
+Latitude: 32.06206
+Longitude: -81.09142
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jess
+Host ID: 1737055280704963511
+Host profile ID: 1737055552195993224
+Host URL: https://www.airbnb.com/users/profile/1737055552195993224
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Savannah’s Southern Charm
+
+The space
+Located close to historic landmarks and on the bus route, this house is the perfect home base for exploring Savannah. Take a short walk to enjoy winery tours, visit museums, or indulge in local cuisine at nearby restaurants. For outdoor enthusiasts, there are plenty of activities, including bird watching, fishing, kayaking, and surfing.
+
+
+
+After a day of sightseeing, unwind in the beautifully landscaped garden. Or relax with one of the provided books in the cozy living room with comfortable sofas. The well-equipped kitchen features everything you need to whip up a delicious meal, from a stove and oven to a dishwasher and coffee maker. Entertainment options abound with smart TVs you can use with your streaming accounts and a stereo system. Children will love the selection of board games. Enjoy the convenience of a washer/dryer, central air-conditioning, and high-speed WiFi.
+
+
+
+Book now and start planning your dream vacation in this charming Southern city!
+
+
+
+Things to Know
+
+
+
+STVR Permit: SVR-02896
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Room-darkening shades
+Iron
+Entertainment
+Ethernet connection
+TV
+Books and reading material
+Bowling alley
+Family
+Children’s dinnerware
+Outlet covers
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Blender
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Backyard
+An open space on the property usually covered in grass
+Parking and facilities
+Free parking on premises
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Single-story 3BR with central AC, W/D, & games
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 3 bedrooms · 3 beds · 2 baths
+New listing
+New
+·
+1 review
+Hosted by Jess
+1 month hosting
+Listing highlights
+Near Forsyth Park and the Historic District
+About a 10-min walk to Forsyth Park and the Victorian Historic District
+Single-level home with a garden
+A landscaped garden, full kitchen with dishwasher, and in-unit washer and dryer
+Free parking and flexible check-in
+Free parking and self check-in with a keypad, so arrival is easy no matter the time
+Savannah’s Southern Charm
+
+The space
+Located close to historic landmarks and on the bus route, this house is the perfect home base for exploring Savannah. Take a short walk to enjoy winery tours, visit museums, or indulge in local cuisine at nearby restaurants. For outdoor enthusiasts, there are plenty of activities, including bird watching, fishing, kayaking, and surfing.
+
+
+
+After a day of sightseeing, unwind in the beautifully landscaped garden. Or relax with one of the provided books in the cozy living room with comfortable sofas. The well-equipped kitchen features everything you need to whip up a delicious meal, from a stove and oven to a dishwasher and coffee maker. Entertainment options abound with smart TVs you can use with your streaming accounts and a stereo system. Children will love the selection of board games. Enjoy the convenience of a washer/dryer, central air-conditioning, and high-speed WiFi.
+
+
+
+Book now and start planning your dream vacation in this charming Southern city!
+
+
+
+Things to Know
+
+
+
+STVR Permit: SVR-02896
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Washer
+Dryer
+Air conditioning
+Backyard
+Hair dryer
+Show all 43 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+1 review
+New · 1 review
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Wendy
+Florence, South Carolina
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Jess’s place was perfect for our “girls’ trip”.  House was spotless and comfortable! Highly recommend.
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Jess
+Host
+17 reviews
+17
+Reviews
+4.59 out of 5 average rating
+4.59
+Rating
+1 month of hosting
+1
+Month hosting
+My work: Hospitality!
+Speaks English
+Our whole family is avid travelers, with us constantly bouncing around to visit family, friends, and places we love.
+Host details
+Response rate: 98%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

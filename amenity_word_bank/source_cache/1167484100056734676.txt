@@ -1,0 +1,492 @@
+URL: https://www.airbnb.com/rooms/1167484100056734676
+Title: Riverfront Renovation in 1800s Cotton Warehouse
+Latitude: 32.0809
+Longitude: -81.0905
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Mike And Sarah
+Host ID: 415649696
+Host profile ID: 1469890609772717236
+Host URL: https://www.airbnb.com/users/profile/1469890609772717236
+Bedrooms: 3
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Experience historic charm and fresh design in our downtown, riverfront condo! This beautifully designed 3BR/2BA gem features original heart pine floors, a spacious living and dining area, a fully stocked kitchen (with cute bar!), and a cozy reading nook!  Enjoy amenities like fast WiFi, in-unit laundry, and TWO PARKING PASSES for a nearby garage. Perfectly located in the heart of everything, this condo offers a blend of history and contemporary comfort for an unforgettable stay.
+
+SVR-02993
+
+The space
+Welcome to our stunning condo, perfectly tucked on Factor's Walk in the heart of historic downtown Savannah. This bright and light-filled space inside a gorgeously revitalized 1857 building, boasts sweeping views of the Savannah River through floor-to-ceiling windows, offering an incredible backdrop for your stay.
+
+The modern kitchen is fully stocked with all the conveniences and amenities you could need, including a Keurig coffee maker with complimentary K-cups, creamers, and sugar. Gather around the large dining table that seats eight comfortably, ideal for family meals or entertaining friends.
+
+Relax in the spacious living room, featuring comfortable seating and plenty of space for everyone to unwind. Enjoy your favorite shows on the flat-screen TV with streaming capabilities, and stay connected with fast WiFi throughout the condo.
+
+Each of the three bedrooms is a serene retreat, two with a king-sized bed and one with a queen, all featuring large closets for ample storage. Two of the three bedrooms additionally have wall-mounted, flat screen smart TVs. The two full bathrooms offer a spa-like experience with double sink vanities and large, walk-in showers. Adorable original features, such as a charming reading nook, add unique character and charm to the space.
+
+For your convenience, there is an in-unit washer and dryer. Two parking passes for the nearby Congress Street iParkit garage, just a few blocks away, are included with your stay.
+
+Located in the perfect spot, you'll be in the heart of everything that historic Savannah has to offer. Whether you're here to explore the city's rich history, enjoy its vibrant dining scene, or simply relax by the river, our condo is the ideal home base for your Savannah adventure.
+
+Guest access
+The entire condo is all yours from check-in at 4pm until check-out at 10am! There are no shared spaces and it is entirely private.
+
+Other things to note
+- The best thing about our condo, in our opinion, is the location! We are in the heart of downtown Savannah, overlooking the river, and central to all the amazing places that folks come to the city to visit! HOWEVER, with our incredible location comes noise! Guests should expect noise from the river side tourists, adjoining and nearby businesses, and nearby traffic. Noise should be expected at all hours. If you don't feel as though you would be comfortable with urban, city noise throughout your stay, we do not recommend this space for your Savannah travels. 
+
+- We include two parking passes for nearby Congress Street iParkit garage. The garage is located three blocks away. Unfortunately, Airbnb does not provide the option to check off "off-site, free parking" in the amenities list, so we like to clarify that we do provide these two passes for this nearby garage, however it is three blocks away from the condo and not "on-site." You can, however, pull up to the condo to unload your luggage while idling your vehicle, then proceed to the parking garage, to avoid having to tote your belongings.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+River view
+Bathroom
+Hair dryer
+Nest shampoo
+Nest conditioner
+Nest body soap
+Hot water
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet
+Entertainment
+52 inch HDTV with Roku
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+We have one exterior security camera that looks over the front door and front entry footbridge area.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking garage on premises – 2 spaces
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Riverfront Renovation in 1800s Cotton Warehouse
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 3 bedrooms · 3 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+149 reviews
+149
+Reviews
+Hosted by Mike And Sarah
+Superhost · 5 years hosting
+Listing highlights
+In downtown Savannah on Factor's Walk
+Steps from the Riverfront Plaza, with Johnson Square and City Market about a 5-min walk away
+Riverfront condo with historic character
+A fully stocked kitchen, dining table for eight, and in-unit washer and dryer in an 1857 building
+Spotless, comfortable, and well stocked
+Guests highlight the comfortable beds, thoughtful details, and how spotless the space is
+Experience historic charm and fresh design in our downtown, riverfront condo! This beautifully designed 3BR/2BA gem features original heart pine floors, a spacious living and dining area, a fully stocked kitchen (with cute bar!), and a cozy reading nook!  Enjoy amenities like fast WiFi, in-unit laundry, and TWO PARKING PASSES for a nearby garage. Perfectly located in the heart of everything, this condo offers a blend of history and contemporary comfort for an unforgettable stay.
+
+SVR-02993
+
+The space
+Welcome to our stunning condo, perfectly tucked on Factor's Walk in the heart of historic downtown Savannah. This bright and light-filled space inside a gorgeously revitalized 1857 building, boasts sweeping views of the Savannah River through floor-to-ceiling windows, offering an incredible backdrop for your stay.
+
+The modern kitchen is fully stocked with all the conveniences and amenities you could need, including a Keurig coffee maker with complimentary K-cups, creamers, and sugar. Gather around the large dining table that seats eight comfortably, ideal for family meals or entertaining friends.
+
+Relax in the spacious living room, featuring comfortable seating and plenty of space for everyone to unwind. Enjoy your favorite shows on the flat-screen TV with streaming capabilities, and stay connected with fast WiFi throughout the condo.
+
+Each of the three bedrooms is a serene retreat, two with a king-sized bed and one with a queen, all featuring large closets for ample storage. Two of the three bedrooms additionally have wall-mounted, flat screen smart TVs. The two full bathrooms offer a spa-like experience with double sink vanities and large, walk-in showers. Adorable original features, such as a charming reading nook, add unique character and charm to the space.
+
+For your convenience, there is an in-unit washer and dryer. Two parking passes for the nearby Congress Street iParkit garage, just a few blocks away, are included with your stay.
+
+Located in the perfect spot, you'll be in the heart of everything that historic Savannah has to offer. Whether you're here to explore the city's rich history, enjoy its vibrant dining scene, or simply relax by the river, our condo is the ideal home base for your Savannah adventure.
+
+Guest access
+The entire condo is all yours from check-in at 4pm until check-out at 10am! There are no shared spaces and it is entirely private.
+
+Other things to note
+- The best thing about our condo, in our opinion, is the location! We are in the heart of downtown Savannah, overlooking the river, and central to all the amazing places that folks come to the city to visit! HOWEVER, with our incredible location comes noise! Guests should expect noise from the river side tourists, adjoining and nearby businesses, and nearby traffic. Noise should be expected at all hours. If you don't feel as though you would be comfortable with urban, city noise throughout your stay, we do not recommend this space for your Savannah travels. 
+
+- We include two parking passes for nearby Congress Street iParkit garage. The garage is located three blocks away. Unfortunately, Airbnb does not provide the option to check off "off-site, free parking" in the amenities list, so we like to clarify that we do provide these two passes for this nearby garage, however it is three blocks away from the condo and not "on-site." You can, however, pull up to the condo to unload your luggage while idling your vehicle, then proceed to the parking garage, to avoid having to tote your belongings.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 queen bed
+
+What this place offers
+River view
+Waterfront
+Kitchen
+Wifi
+Dedicated workspace
+Free parking garage on premises – 2 spaces
+52 inch HDTV with Roku
+Washer
+Free dryer – In unit
+Exterior security cameras on property
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 149 reviews.
+4.93
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 6% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Location
+114
+Walkability
+40
+River
+26
+Parking
+17
+Decor
+34
+Cleanliness
+50
+Noise
+30
+Comfort
+33
+Indoor spaces
+32
+Nearby
+30
+Catherine
+Raleigh, North Carolina
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We loved this location for the walkability and access to everything Savannah has to offer!
+Karen
+3 years on Airbnb
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+The unattractive exterior does not do justice with the beauty of the interior. This place is beside what it looks like the back of a dirty kitchen of a restaurant. There are grease stain, trash containers, laundry bags, broken glasses, etc. Upon entering the place, it is bright, spacious, and very welcoming. The location is unbeatable and safe. It is right in the middle of everything. Our car stays in the garage the entire time. We walk everywhere. Free shuttle and water taxi are also very close by.
+Show more
+Nicole
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We booked a last minute stay for our family and we are so glad we did! The location is incredible. We enjoyed people and ship watching from the windows. We walked everywhere with ease. The decor is fun. The space is comfortable and spacious. We would definitely recommend and return!
+Show more
+Madeline
+Greenville, South Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Such an amazing stay in Mike and Sarahs place!! The whole place was spotless, comfortable and very well air conditioned for a hot august bachelorette trip! The decorations were SO good and the bed very very comfortable. The best location, it was walkable to almost everything. Past reviews said it gets noisy at night but we didn’t experience this much at all! Would def stay again if we come back!! Thank you!
+Show more
+Scott
+Hamilton, Indiana
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Beautiful place, right in the heart of it all. It was a little hard to find, but we didn't get there until after dark so that didn't help. Everything was perfect. Their description mentioned that there may be some noise, but we didn't hear anything. Great location, spotless, well appointed, perhaps the best value I have ever had for an Airbnb.
+Show more
+Layla
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Definitely saving this place for future trips! It was absolutely beautiful and in the perfect location!
+Show all 149 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Mike And Sarah
+Superhost
+1,441 reviews
+1441
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+5 years of hosting
+5
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental near Forsyth Park!
+Mike And Sarah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Waterfront vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Waterfront vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

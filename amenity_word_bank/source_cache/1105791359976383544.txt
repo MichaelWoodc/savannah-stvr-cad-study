@@ -1,0 +1,475 @@
+URL: https://www.airbnb.com/rooms/1105791359976383544
+Title: The Perch @ Forsyth Park, Walk to Everything!
+Latitude: 32.0664
+Longitude: -81.0953
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Tucked right along the edge of Forsyth Park, The Drayton puts you in the heart of Savannah. Located on the third floor, enjoy the big front porch overlooking Forsyth Park and Drayton Street, three large bedrooms, two bedrooms, and ample space for up to six guests. Fresh updates, stylish décor, and original touches create
+a relaxing environment to unwind in after exploring. Minutes from everything Savannah offers, including dining, attractions, pubs, and more.
+SVR-01744
+
+The space
+Welcome to your charming Savannah sanctuary nestled on the third floor, promising an unforgettable stay filled with comfort and convenience. Ascend the stairs and step onto the balcony, where seating for six invites you to savor the sights and sounds of this historic city.
+Step through the doors into the inviting living room with hardwood floors, a new oversized sofa, and sitting chairs for lounging and streaming your favorite entertainment on the smart TV. Sunlight streams through the windows, infusing the space with warmth and airiness, while a cozy two-seat table offers a relaxing spot for a meal or catching up on correspondence.
+Enjoy effortless cooking in the fully appointed galley kitchen, with all the essential accessories, including a fridge, range, dishwasher, and elegant granite countertops. Pour a glass of wine before gathering around the four-seat dining table, which can extend to accommodate up to eight guests, for a hearty meal and lively conversation.
+Retreat one of the three elegantly furnished bedrooms, each offering a unique charm. The first bedroom boasts a queen bed adorned with crisp linens, antique furniture, and gleaming hardwood floors. The second bedroom features a queen bed in a modern wood frame, complemented by matching furniture and vibrant artwork. In contrast, the third bedroom offers a queen bed nestled within a timeless brass frame, set against hardwood floors and a striking orange rug.
+Refresh in the two full baths, one with a tub and the other with a standalone shower, ensuring everyone's comfort and convenience. The primary bathroom has been fully refinished with custom tile work and modern touches. Both bathrooms are outfitted with all the essentials, including toilet paper, towels, shampoo, body wash, and a hair dryer.
+Enjoy access to high-speed WiFi, a washer and dryer for added convenience, central AC for year-round comfort, and a gas grill on the back deck, complete with two seats, perfect for al fresco dining and relaxation amidst the cityscape.
+Welcome to your Savannah retreat, where comfort, style, and modern amenities converge to create an unforgettable getaway experience. For those blending work with pleasure, fear not – our high-speed WiFi stands ready to support your endeavors, whether video conferencing or multitasking.
+
+Guest access
+Please enjoy the front porch overlooking Forsyth and Drayton St. 
+The entire condo is for your use! We encourage you to use the rear porch just for hanging out at night, but please be mindful of your neighbors below and keep noises to a minimum after 10pm.
+
+Other things to note
+Absolutely no parties.
+Absolutely no animals.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home. 
+Must be 21 years of age to drink alcohol.
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it were your own property.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Central air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Perch @ Forsyth Park, Walk to Everything!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.81 out of 5 stars.
+4.81
+73 reviews
+73
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In historic Savannah on Forsyth Park
+Steps from Forsyth Park, with restaurants, cafés, and a free trolley stop right outside the door
+Full kitchen with outdoor grill
+A galley kitchen with granite counters, a dining table that extends to seat eight, and a gas grill
+Spotless, per dozens of reviews
+Guests highlight how clean and well-kept the apartment is, with a spotless rating across many stays
+Tucked right along the edge of Forsyth Park, The Drayton puts you in the heart of Savannah. Located on the third floor, enjoy the big front porch overlooking Forsyth Park and Drayton Street, three large bedrooms, two bedrooms, and ample space for up to six guests. Fresh updates, stylish décor, and original touches create
+a relaxing environment to unwind in after exploring. Minutes from everything Savannah offers, including dining, attractions, pubs, and more.
+SVR-01744
+
+The space
+Welcome to your charming Savannah sanctuary nestled on the third floor, promising an unforgettable stay filled with comfort and convenience. Ascend the stairs and step onto the balcony, where seating for six invites you to savor the sights and sounds of this historic city.
+Step through the doors into the inviting living room with hardwood floors, a new oversized sofa, and sitting chairs for lounging and streaming your favorite entertainment on the smart TV. Sunlight streams through the windows, infusing the space with warmth and airiness, while a cozy two-seat table offers a relaxing spot for a meal or catching up on correspondence.
+Enjoy effortless cooking in the fully appointed galley kitchen, with all the essential accessories, including a fridge, range, dishwasher, and elegant granite countertops. Pour a glass of wine before gathering around the four-seat dining table, which can extend to accommodate up to eight guests, for a hearty meal and lively conversation.
+Retreat one of the three elegantly furnished bedrooms, each offering a unique charm. The first bedroom boasts a queen bed adorned with crisp linens, antique furniture, and gleaming hardwood floors. The second bedroom features a queen bed in a modern wood frame, complemented by matching furniture and vibrant artwork. In contrast, the third bedroom offers a queen bed nestled within a timeless brass frame, set against hardwood floors and a striking orange rug.
+Refresh in the two full baths, one with a tub and the other with a standalone shower, ensuring everyone's comfort and convenience. The primary bathroom has been fully refinished with custom tile work and modern touches. Both bathrooms are outfitted with all the essentials, including toilet paper, towels, shampoo, body wash, and a hair dryer.
+Enjoy access to high-speed WiFi, a washer and dryer for added convenience, central AC for year-round comfort, and a gas grill on the back deck, complete with two seats, perfect for al fresco dining and relaxation amidst the cityscape.
+Welcome to your Savannah retreat, where comfort, style, and modern amenities converge to create an unforgettable getaway experience. For those blending work with pleasure, fear not – our high-speed WiFi stands ready to support your endeavors, whether video conferencing or multitasking.
+
+Guest access
+Please enjoy the front porch overlooking Forsyth and Drayton St. 
+The entire condo is for your use! We encourage you to use the rear porch just for hanging out at night, but please be mindful of your neighbors below and keep noises to a minimum after 10pm.
+
+Other things to note
+Absolutely no parties.
+Absolutely no animals.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home. 
+Must be 21 years of age to drink alcohol.
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it were your own property.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Patio or balcony
+Hair dryer
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.81 out of 5 from 73 reviews.
+4.81
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 82% of reviews
+5
+4 stars, 16% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Parks
+21
+Location
+44
+Walkability
+29
+Cleanliness
+26
+Hospitality
+25
+Indoor spaces
+14
+Comfort
+16
+Nearby
+15
+Decor
+11
+Getting around
+13
+Lesa
+Johnstown, New York
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We had a wonderful stay! The Airbnb was very clean, in a great location, and had everything we needed to make our stay comfortable. The host was friendly, helpful, and made the whole experience easy and enjoyable. Everything was thoughtfully provided, and it was the perfect place for our trip. We would definitely stay here again
+Show more
+Vanessa
+11 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Spacious unit, very clean, nice quality towels and linens. Good location right across from beautiful Forsyth park. Hosts were very communicative.
+M
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Fantastic all around - decor, space, and location. Beautifully appointed and styled unit with large windows and lots of light. Would absolutely stay again and recommend to others!
+Carmela
+Evans, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+It was such a fabulous place to stay.  So walkable to the waterfront and to the markets.  The front porch has a gorgeous view of the park and that is where I had my coffee every morning. It was very eclectic and inviting! It had everything we needed.
+Show more
+Kary
+Santaquin, Utah
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Beautiful and very clean.  Great location
+Beth
+Jenkintown, Pennsylvania
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Very roomy and well appointed. Easy check in, and perfect location right on the park. Highly recommend!
+Show all 73 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Located on the east edge of Forsyth
+Park, you will be in the heart of historic Savannah and centrally located to
+all the incredible eats, drinks, and sights Savannah has to offer. Stroll into
+Forsyth Park from your door to enjoy Savannah’s beautiful mornings. Grab
+breakfast at Collins Quarter at Forsyth, which has indoor and outdoor seating.
+Looking for a sandwich and a pint?
+Stroll on down to the Black Rabbit, a small yet incredible sandwich shop by
+day, and pub by night. Need a taco fix? Try out Bull Street Tacos for
+scratch-made Mexican dishes.
+Looking for fine dining and a great
+vibe? Head on over to Local 11 Ten and their chic rooftop bar and lounge known
+as The Perch. Enjoy handcrafted cocktails and delicious dishes. The Perch is
+open year-round and features gas heaters for cooler winter days.
+Take an adventure outside of the neighborhood by visiting one of Savannah’s many museums. Mercer-William’s House Museum, Savannah African Art Museum, American Prohibition Museum, and many more are just minutes away. Tap into Savannah's artistic nature by stopping into its College of Art and Design Museum of Art. Want to get more hands-on and
+make some memories? Try blowing glass at Hostess City Hot Glass, a perfect time for the whole family.
+
+Not enough time to walk all the sights of Savannah? Take it all in at once while riding or biking. We are just minutes from Old Town Trolley Tours of Savannah and Savannah Bike Tours. Check
+out the city’s skyline from the water by jumping on one of the Savannah Belle’s ferries, with multiple stops all along Savannah’s riverfront.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,353 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

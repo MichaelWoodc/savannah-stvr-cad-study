@@ -1,0 +1,478 @@
+URL: https://www.airbnb.com/rooms/1450332730516799550
+Title: Charming 3 BR Cottage in the Historic District
+Latitude: 32.0716
+Longitude: -81.0883
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Patrick & Libby
+Host ID: 5771482
+Host profile ID: 1462689141236288463
+Host URL: https://www.airbnb.com/users/profile/1462689141236288463
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 4
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+Bedroom 3
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Stroll among the beautiful homes and gardens of downtown Savannah and soak in its rich history. Historic Sage Cottage (c. 1900) offers a peaceful three-bedroom haven in the heart of the Landmark Historic District.
+
+The space
+If Sage Cottage happens to be booked for your dates, our neighboring Geranium Cottage offers the same layout and amenities and may still be available. You’ll find a link to that listing further down in this description.
+
+Sage Cottage is perfectly situated in Savannah's Historic District,  just steps from River Street, City Market, Forsyth Park, dining, shopping, museums, and the trolley stop at Troup Square, only one block away. Metered and free street parking are available right in front of the cottage.
+
+Inside, you will find dinnerware for eight, a 50" Smart Roku TV equipped with guest mode so you can log into your own streaming accounts, and fast Wi-Fi. There are three bedrooms: one king, one queen, and two twins, all featuring luxurious Egyptian cotton linens. The spacious bathroom includes fluffy towels, soap, shampoo, conditioner, lotion, and a hair dryer.
+
+The fully stocked kitchen is beautifully appointed with stainless steel appliances, including a dishwasher, microwave, toaster, and coffee maker. We provide complimentary coffee and tea. The laundry room includes an extra-capacity washer and dryer for your convenience.
+
+Enjoy your morning coffee, afternoon drinks, or an al fresco meal in the private courtyard surrounded by tropical flowers and bamboo, with seating for four.
+
+Special Note: Sage Cottage is attached to Geranium Cottage, which may also be available if you are traveling with a larger group. Each cottage has three bedrooms, allowing for a total of six bedrooms (2 kings, 2 queens, and 4 twins) when both are reserved.
+
+While the cottages are separate units, the privacy fence between the courtyards includes a locked gate that we can open to combine the two private courtyards into one shared space.
+
+We offer special pricing when both cottages are reserved together, so please feel free to reach out if you are interested. You can view the Geranium Cottage listing here:
+
+https://www.airbnb.com/rooms/1446674568272779492?guests=1&adults=1&s=67&unique_share_id=7433ba74-ef17-43e2-899b-d04527f80c23
+
+SVR Certificate # SVR-03139
+
+Guest access
+Keyless entry for 3 bedroom cottage and private courtyard - the entry code will be the last four digits of the phone number provided during booking.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Bed linens
+Egyptian cotton linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Coffee maker: drip coffee maker
+Dining table
+Coffee
+Outdoor
+Private patio or balcony
+Private backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Charming 3 BR Cottage in the Historic District
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire cottage in Savannah, Georgia
+6 guests · 3 bedrooms · 4 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+47 reviews
+47
+Reviews
+Hosted by Patrick & Libby
+Superhost · 11 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Landmark Historic District
+Steps from Troup Square, with Lafayette Square and the Cathedral of St. John about a 5-min walk away
+Walled courtyard with garden seating
+A private courtyard with tropical flowers and bamboo, surrounded by seating for an outdoor meal
+Libby and Patrick go above and beyond
+Guests highlight how clean and comfortable the cottage is, with many praising hosts Libby and Patrick
+Stroll among the beautiful homes and gardens of downtown Savannah and soak in its rich history. Historic Sage Cottage (c. 1900) offers a peaceful three-bedroom haven in the heart of the Landmark Historic District.
+
+The space
+If Sage Cottage happens to be booked for your dates, our neighboring Geranium Cottage offers the same layout and amenities and may still be available. You’ll find a link to that listing further down in this description.
+
+Sage Cottage is perfectly situated in Savannah's Historic District,  just steps from River Street, City Market, Forsyth Park, dining, shopping, museums, and the trolley stop at Troup Square, only one block away. Metered and free street parking are available right in front of the cottage.
+
+Inside, you will find dinnerware for eight, a 50" Smart Roku TV equipped with guest mode so you can log into your own streaming accounts, and fast Wi-Fi. There are three bedrooms: one king, one queen, and two twins, all featuring luxurious Egyptian cotton linens. The spacious bathroom includes fluffy towels, soap, shampoo, conditioner, lotion, and a hair dryer.
+
+The fully stocked kitchen is beautifully appointed with stainless steel appliances, including a dishwasher, microwave, toaster, and coffee maker. We provide complimentary coffee and tea. The laundry room includes an extra-capacity washer and dryer for your convenience.
+
+Enjoy your morning coffee, afternoon drinks, or an al fresco meal in the private courtyard surrounded by tropical flowers and bamboo, with seating for four.
+
+Special Note: Sage Cottage is attached to Geranium Cottage, which may also be available if you are traveling with a larger group. Each cottage has three bedrooms, allowing for a total of six bedrooms (2 kings, 2 queens, and 4 twins) when both are reserved.
+
+While the cottages are separate units, the privacy fence between the courtyards includes a locked gate that we can open to combine the two private courtyards into one shared space.
+
+We offer special pricing when both cottages are reserved together, so please feel free to reach out if you are interested. You can view the Geranium Cottage listing here:
+
+https://www.airbnb.com/rooms/1446674568272779492?guests=1&adults=1&s=67&unique_share_id=7433ba74-ef17-43e2-899b-d04527f80c23
+
+SVR Certificate # SVR-03139
+
+Guest access
+Keyless entry for 3 bedroom cottage and private courtyard - the entry code will be the last four digits of the phone number provided during booking.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 4 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+Bedroom 3
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Private patio or balcony
+Private backyard
+Show all 36 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 47 reviews.
+5.0
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+22
+Location
+26
+Hospitality
+26
+Cleanliness
+15
+Comfort
+8
+Family
+7
+Nearby
+7
+Sleep quality
+6
+Quiet
+7
+Parking
+3
+Mina
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed about a week
+From the time we made the reservation until the time we checked out, Libby and Patrick were friendly, helpful, and always responded very quickly. The cottage is so lovely, spotlessly clean, and quiet. The beds and linens were very comfortable. The neighborhood is safe and very walkable to historic district sites and restaurants. Parking was always easy to find, we just had to be mindful about which marked stalls were paid during what hours, and which side was getting street sweeping in the morning. Overall, this was a wonderful place for my 3 friends and I to reconnect. It was a charming space for making meals together,  drinking coffee or wine, and just sitting and talking, with easy access to lots of sites and restaurants. It was also a great value compared to similarly located stays. We would definitely stay here again if we find ourselves back in Savannah.
+Show more
+Tammy
+Savannah, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed one night
+Patrick and Libby are wonderful hosts. Their home is so cozy and inviting.  Best Airbnb experience ever!
+Show more
+Madison
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Group trip
+Great place!
+Show more
+Grace
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Fantastic location. Super cute house. Just what we were looking for for our stay in Savannah.
+Show more
+Jackie
+Durham, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Patrick and Libby's place was wonderful! Their house was clean with big, comfy beds. They wrote me a personal card and gave me delicious crackers as a welcome gift, which I've never received before from an Airbnb host. That was really sweet of them.
+Show more
+Bayley
+Hahira, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Amazing place! Would love to stay there again.
+Show more
+Show all 47 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Patrick & Libby
+Superhost
+102 reviews
+102
+Reviews
+5.0 out of 5 average rating
+5.0
+Rating
+11 years of hosting
+11
+Years hosting
+Speaks English and Spanish
+Lives in Savannah, Georgia
+Patrick and Libby are siblings from Blackshear, a small town in southeast Georgia. After living abroad and out west for a couple of decades, Libby's roots called her closer to home; she now resides in Savannah with her sweet pup, Wilba while Patrick lives in Marietta with his lovely bride, Teresa, and their adorable 16-year-old doggy, Maggie. We are thrilled to host you in the beautiful, historic city of Savannah!
+Patrick & Libby is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Patrick
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Cottage vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Cottage vacation rentals in Chatham County
+Cottage vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Cottage vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,480 @@
+URL: https://www.airbnb.com/rooms/17382046
+Title: Comfy, Self-Sufficient Apartment near Forsyth Park
+Latitude: 32.0634
+Longitude: -81.0942
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Tom
+Host ID: 54661632
+Host profile ID: 1462729484141437441
+Host URL: https://www.airbnb.com/users/profile/1462729484141437441
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Located only two blocks away from Forsyth Park, this garage apartment/ mother-in-law suite offers comfort and ease for getting around the city. There are restaurants, bars, coffeeshops, and grocery stores in very close proximity. The Savannah River is a little over 1 mile to the north. While there is both a queen size bed and pull-out couch, the space is ideal for solo adventurers and couples.
+
+The space
+This space is a newer construction with modern amenities (finished in 2015) but was designed to complement the main house (circa 1916). Reclaimed materials from the previous structure that stood at this location were used in the construction.
+You will have access to the entire second floor of the garage (550 sq ft) and the back patio. The patio is shared with the main house.
+This is a fully licensed Short Term Vacation Rental. SVR-00700
+
+Other things to note
+Please enjoy yourself and have a good time, but also respect the space. Thank you!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Courtyard view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+HDTV with Amazon Prime Video, Apple TV, Roku, Hulu
+Bluetooth sound system
+Books and reading material
+Family
+Pack ’n play/Travel crib - available upon request
+Sheets provided
+Baby bath - available upon request
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Washer
+Washer
+Unavailable: Dryer
+Dryer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Comfy, Self-Sufficient Apartment near Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire guesthouse in Savannah, Georgia
+3 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+265 reviews
+265
+Reviews
+Hosted by Tom
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Victorian District
+About a 5-min walk to Forsyth Park, with restaurants and coffeeshops nearby
+Modern guesthouse with historic charm
+A 550 sq ft garage apartment finished in 2015, built with reclaimed materials from the original structure
+Tom is a standout host
+Guests consistently praise Tom for being responsive, helpful, and generous with local tips
+Located only two blocks away from Forsyth Park, this garage apartment/ mother-in-law suite offers comfort and ease for getting around the city. There are restaurants, bars, coffeeshops, and grocery stores in very close proximity. The Savannah River is a little over 1 mile to the north. While there is both a queen size bed and pull-out couch, the space is ideal for solo adventurers and couples.
+
+The space
+This space is a newer construction with modern amenities (finished in 2015) but was designed to complement the main house (circa 1916). Reclaimed materials from the previous structure that stood at this location were used in the construction.
+You will have access to the entire second floor of the garage (550 sq ft) and the back patio. The patio is shared with the main house.
+This is a fully licensed Short Term Vacation Rental. SVR-00700
+
+Other things to note
+Please enjoy yourself and have a good time, but also respect the space. Thank you!
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Courtyard view
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+HDTV with Amazon Prime Video, Apple TV, Roku, Hulu
+Central air conditioning
+Bathtub
+Shared patio or balcony
+Shared backyard – Fully fenced
+Show all 54 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 265 reviews.
+4.93
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+119
+Hospitality
+152
+Parks
+30
+Location
+155
+Parking
+31
+Nearby
+68
+Cleanliness
+104
+Comfort
+67
+Sleep quality
+21
+Noise
+9
+Andrew
+Chesapeake, Virginia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Super convenient location in Savannah.  Tom was a great host!
+Kayla
+Cincinnati, Ohio
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Enjoyed our stay! Felt walkable for us with our 10 month old. The pack n play and baby bath were helpful and clean. Tom was responsive and kind.
+Ashley
+New Berlin, Wisconsin
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed about a week
+Our stay was great. We really enjoyed being able to walk places and explore the city. Tom's place is a cozy space that met all our needs while traveling. Tom was also very responsive and gave great suggestions (Foxy Loxy is one of our new favorite spots). The biggest downside we experienced was that the neighborhood is very loud, especially during the nightime hours. Overall it is a great place to stay.
+Show more
+Ashley
+St. Augustine, Florida
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Our stay was great! Walkable to Forsyth and downtown. Some street noise kept us up but that was outside of the host’s control. Tom gave great recommendations and was very accommodating.
+Show more
+Brooks
+Camden, Maine
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Great place with easy access to everything in the city. Clean. Not large but didn’t need to be. Had everything one needs for a restful nights sleep and another day out on the town.
+Anna
+Cape Elizabeth, Maine
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Tom ‘s place is nice, spacious, and has a very comfortable bed.  Close to Forsyth Park, and easy to find nearby on-street parking.  He is very friendly, and a good communicator.  :)
+Show all 265 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Green Truck Neighborhood Pub
+American restaurant
+Bonaventure Cemetery
+Cemetery
+Peregrin
+Bar
+Starland Yard
+Food court
+Cotton & Rye
+American restaurant
+White Whale Craft Ales
+Bar
+Forsyth Park
+Park
+The Mercer Williams House Museum
+Museum
+St. Neo's Brasserie
+Seafood restaurant
+City Market
+Point of interest
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+My home is located in the Eastern Victorian district of Savannah. It is a residential neighborhood but commerce still abounds. If you're a foodie, some top notch restaurants nearby are Local 11 Ten and Cotton & Rye. I also enjoy Tequila Town for margaritas and their interesting BBQ/ Tex Mex plates. Sentient Bean is a popular coffeeshops. The Kroger is four blocks away and Brighter Day, the local organic grocery store, is at the south end of Forsyth Park.
+Show more
+Meet your host
+Tom
+Superhost
+265 reviews
+265
+Reviews
+4.93 out of 5 average rating
+4.93
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 80s
+Where I went to school: University of Georgia
+Mucho gusto! I love traveling, exploring far flung places, and meeting new people. I've been an Air BnB guest many a time, mostly in the USA. I started hosting in 2017.. I love my city and hope you will too! As my day job here in Savannah, I am a KW real estate agent and co-own a small LLC that manages rental properties as well as rehabs houses. I also moonlight as an Outward Bound and NOLS instructor, which has me leading extended wilderness trips around the globe. Favorite quote--"Be tough yet gentle, humble but bold, swayed always by beauty and truth"
+Tom is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Guesthouse vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Guesthouse vacation rentals in Chatham County
+Guesthouse vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,9 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr,status
+all,approved_guests,combined,Noise complaints,keyword_bachelorette,Bachelorette events,keywords,484,52,11,473,3,49,1.7650752459653003,0.5929830407918808,5.253928712293324,0.3072676124103023,0.6437256479995834,
+all,approved_guests,combined,Noise complaints,keyword_wedding,Wedding events,keywords,484,52,21,463,5,47,1.8330175029676352,0.6771098718727903,4.96219787328244,0.2330277372757329,0.5508643235968257,
+all,approved_guests,combined,Noise complaints,keyword_swimming_pool,Swimming Pool,keywords,484,52,97,387,23,29,3.675445899535928,1.7187538290798394,7.859707615981088,0.0007890178624277,0.0236141774540881,
+all,approved_guests,combined,Noise complaints,keyword_hot_tub,Hot Tub,keywords,484,52,21,463,10,42,5.2028230822933486,1.856459682937628,14.58117742843216,0.0017087729394338,0.0385023736360431,
+all,approved_guests,combined,Noise complaints,keyword_bachelor,Bachelor events,keywords,484,52,4,480,1,51,,,,,,insufficient support
+all,approved_guests,combined,Noise complaints,keyword_engagement,Engagement events,keywords,484,52,0,484,0,52,,,,,,insufficient support
+all,approved_guests,combined,Noise complaints,keyword_jacuzzi,Jacuzzi,keywords,484,52,9,475,0,52,,,,,,insufficient support
+all,approved_guests,combined,Noise complaints,keyword_pool_table,Pool Table,keywords,484,52,0,484,0,52,,,,,,insufficient support

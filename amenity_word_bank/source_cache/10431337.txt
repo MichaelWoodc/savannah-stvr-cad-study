@@ -1,0 +1,574 @@
+URL: https://www.airbnb.com/rooms/10431337
+Title: Beautiful 1880s Carriage House w/Working Fireplace
+Latitude: 32.07603
+Longitude: -81.08855
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Richards
+Host ID: 2878755
+Host profile ID: 1462611345957856478
+Host URL: https://www.airbnb.com/users/profile/1462611345957856478
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Jingle Bells Square Cottage is a charming 1885 carriage house tucked behind the main home in Savannah’s Historic District, just steps from Troup Square. Thoughtfully renovated to preserve its historic character, this cozy retreat features a working fireplace and a peaceful setting, all within easy walking distance to top restaurants, shops, historic squares, and iconic Savannah attractions.
+
+City of Savannah Registered | SVR-00032 | Minimum rental age: 25
+
+The space
+🏡 Historic 1885 Carriage House | Private Deck | Walk to Troup Square
+
+Stay in a beautifully restored 1885 Savannah carriage house just steps from Troup Square in the heart of the Historic District.
+This private guest house blends authentic Southern charm with modern comforts, offering a peaceful retreat while still being walkable to Savannah’s best restaurants, cafés, historic squares, and attractions.
+
+Perfect for couples, solo travelers, digital nomads, and extended stays looking for a quiet and character-filled home base.
+
+🌿 Private Outdoor Deck (Rare Downtown Feature)
+Relax in your own private outdoor space after a day exploring Savannah.
+• Café table and chairs for morning coffee
+• 15-foot built-in bench for dining or relaxing
+• Quiet and secluded setting
+Outdoor space like this is extremely rare in the Historic District.
+
+🍳 Fully Equipped Kitchen
+Everything you need whether you're staying for a weekend or a longer visit.
+• Quartz countertops
+• Full-size stainless refrigerator
+• Gas range + vented microwave
+• Dishwasher
+• Island breakfast bar for meals or remote work
+
+🛋 Living & Dining Area
+A cozy space filled with historic charm and thoughtful design.
+• Antique 1920s oak dining table (seats up to 6)
+• Working fireplace 
+• Queen Rowe Furniture sleeper sofa with luxury air mattress
+• Flat-screen TVs in living room, bedroom, and kitchen
+
+🛏 Bedroom & Bathroom
+Designed for rest and comfort.
+• Queen bedroom with classic furnishings
+• Full bathroom with tub/shower combo
+• High-speed Wi-Fi for streaming and remote work
+
+🎨 Thoughtful Design
+A curated blend of historic Savannah character and modern comfort.
+• Original local artwork
+• Vintage textiles and antiques
+• Warm, inviting décor throughout
+
+📍 Perfect Historic District Location
+One of the most walkable neighborhoods in Savannah.
+• Steps to Troup Square
+• Walk to cafés, bakeries, and restaurants
+• Close to museums, galleries, and historic landmarks
+• Quiet residential street away from tourist noise
+
+⭐ Why Guests Love Staying Here
+✔ Prime Historic District location — 50 yards from Troup Square
+✔ Private outdoor deck — rare for downtown Savannah
+✔ Authentic 1885 carriage house architecture
+✔ Working fireplace for cozy evenings
+✔ Walk to restaurants, cafés, museums & shops
+
+✨ A rare opportunity to stay in an authentic Savannah carriage house with private outdoor space, historic charm, and an unbeatable walkable location.
+
+Guest access
+Entire Private Cottage
+
+Enjoy full privacy during your stay — the entire home is yours to relax, unwind, and make yourself at home. Your unique entry code will be shared with you at 3:00 PM on the day of arrival.
+
+Other things to note
+Minimum Age Limit for Renters (Principal Tenant must be 25 or older) ,non smoking only, pets not allowed, wheelchair inaccessible
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Courtyard view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+40 inch HDTV with standard cable
+Books and reading material
+Heating and cooling
+Central air conditioning
+Indoor fireplace: gas
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+1 security camera monitoring the courtyard.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel gas stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free parking on premises – 1 space
+Free street parking
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Beautiful 1880s Carriage House w/Working Fireplace
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire cottage in Savannah, Georgia
+4 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.9 out of 5 stars.
+4.9
+239 reviews
+239
+Reviews
+Hosted by Richards
+Superhost · 12 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Troup Square, with Columbia Square and the Owens-Thomas House about a 5-min walk away
+Private deck on a historic carriage house
+A private deck with a built-in bench and café seating, tucked behind the 1885 carriage house
+A walkable home base
+Guests highlight the walkability, calling it easy to park the car and explore on foot all weekend
+Jingle Bells Square Cottage is a charming 1885 carriage house tucked behind the main home in Savannah’s Historic District, just steps from Troup Square. Thoughtfully renovated to preserve its historic character, this cozy retreat features a working fireplace and a peaceful setting, all within easy walking distance to top restaurants, shops, historic squares, and iconic Savannah attractions.
+
+City of Savannah Registered | SVR-00032 | Minimum rental age: 25
+
+The space
+🏡 Historic 1885 Carriage House | Private Deck | Walk to Troup Square
+
+Stay in a beautifully restored 1885 Savannah carriage house just steps from Troup Square in the heart of the Historic District.
+This private guest house blends authentic Southern charm with modern comforts, offering a peaceful retreat while still being walkable to Savannah’s best restaurants, cafés, historic squares, and attractions.
+
+Perfect for couples, solo travelers, digital nomads, and extended stays looking for a quiet and character-filled home base.
+
+🌿 Private Outdoor Deck (Rare Downtown Feature)
+Relax in your own private outdoor space after a day exploring Savannah.
+• Café table and chairs for morning coffee
+• 15-foot built-in bench for dining or relaxing
+• Quiet and secluded setting
+Outdoor space like this is extremely rare in the Historic District.
+
+🍳 Fully Equipped Kitchen
+Everything you need whether you're staying for a weekend or a longer visit.
+• Quartz countertops
+• Full-size stainless refrigerator
+• Gas range + vented microwave
+• Dishwasher
+• Island breakfast bar for meals or remote work
+
+🛋 Living & Dining Area
+A cozy space filled with historic charm and thoughtful design.
+• Antique 1920s oak dining table (seats up to 6)
+• Working fireplace 
+• Queen Rowe Furniture sleeper sofa with luxury air mattress
+• Flat-screen TVs in living room, bedroom, and kitchen
+
+🛏 Bedroom & Bathroom
+Designed for rest and comfort.
+• Queen bedroom with classic furnishings
+• Full bathroom with tub/shower combo
+• High-speed Wi-Fi for streaming and remote work
+
+🎨 Thoughtful Design
+A curated blend of historic Savannah character and modern comfort.
+• Original local artwork
+• Vintage textiles and antiques
+• Warm, inviting décor throughout
+
+📍 Perfect Historic District Location
+One of the most walkable neighborhoods in Savannah.
+• Steps to Troup Square
+• Walk to cafés, bakeries, and restaurants
+• Close to museums, galleries, and historic landmarks
+• Quiet residential street away from tourist noise
+
+⭐ Why Guests Love Staying Here
+✔ Prime Historic District location — 50 yards from Troup Square
+✔ Private outdoor deck — rare for downtown Savannah
+✔ Authentic 1885 carriage house architecture
+✔ Working fireplace for cozy evenings
+✔ Walk to restaurants, cafés, museums & shops
+
+✨ A rare opportunity to stay in an authentic Savannah carriage house with private outdoor space, historic charm, and an unbeatable walkable location.
+
+Guest access
+Entire Private Cottage
+
+Enjoy full privacy during your stay — the entire home is yours to relax, unwind, and make yourself at home. Your unique entry code will be shared with you at 3:00 PM on the day of arrival.
+
+Other things to note
+Minimum Age Limit for Renters (Principal Tenant must be 25 or older) ,non smoking only, pets not allowed, wheelchair inaccessible
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Courtyard view
+Kitchen
+Wifi
+Free parking on premises – 1 space
+40 inch HDTV with standard cable
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 56 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.9 out of 5 from 239 reviews.
+4.9
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 6% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+107
+Parking
+54
+Location
+151
+Cleanliness
+66
+Nearby
+38
+Comfort
+50
+Hospitality
+73
+Indoor spaces
+32
+Amenities
+30
+Decor
+25
+Rachael
+Lake Mary, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed one night
+Impromptu trip from ORL to Savannah led us here for the night. We had a great experience and it was perfect for what we needed - walking distance so we could enjoy the city!
+Amber
+Marietta, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We enjoyed the adorable carriage house. It was very clean and located in a very convenient location to all of our favorite restaurants and shopping. We will definitely keep this in mind for future trips to Savannah!
+Show more
+Krista
+Palm Harbor, Florida
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+What an adorable cottage house! The hosts were friendly and easy to communicate with. Really appreciated the small details. Having recommendations for local spots and needs was very helpful. We look forward to our next visit in Savannah.
+Show more
+The Picasso Chef
+Sarasota, Florida
+Rating, 5 stars
+,
+·
+5 days ago
+,
+·
+Stayed a few nights
+Great location to walk to everything Savannah!
+Guiseppe
+Charleston, South Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Richard’s place was absolutely perfect for my wife, my daughter and myself to stay in for a long weekend. Very clean space with all the necessities you need. Walking distance to much of Savannah and bars/restaurants. Easy check in and communication. Parking spot was tight for our 4 door Bronco but it fit nicely and very convenient to have instead of finding parking elsewhere. Would definitely recommend staying here!
+Show more
+Bryan
+1 month on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Amazing place and location. Loved everything about and would definitely rent again.
+Show all 239 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+We offer a dedicated off-street parking space suitable for one compact car, along with plenty of street parking nearby. The property is within easy walking distance of restaurants (one is just 100 yards away), the Savannah riverfront, and the charm of pre-Civil War historic architecture. You'll also find beautiful landscaping, antique shops, and a wealth of attractions to explore.
+Show more
+Meet your host
+Richards
+Superhost
+429 reviews
+429
+Reviews
+4.93 out of 5 average rating
+4.93
+Rating
+12 years of hosting
+12
+Years hosting
+Lives in Philadelphia, Pennsylvania
+We are a nearing-retirement age couple from the New York City area with backgrounds in fine arts and restoration, an appreciation for eccentricity, and a limited amount of patience for shoveling snow - so Savannah is perfect for us. We purchased this house in 2007. * Why we chose Savannah* When our son was clever enough to pass up the blustery New York area where he was born and enrolled in the Savannah College of Art & Design (SCAD) in animation in 2004 we began thinking about escaping ourselves - at least for visits. He graduated in 2008 and has moved on to other challenges but we continue to be fascinated by Savannah, one of the most magical cities in the US. *What makes this house unique* For short and longer term visits we have stayed in quite a few Savannah hotels and a dozen or so furnished vacation rentals, so we have a good idea of what we want to find to make us comfortable, which has guided us in renovating and furnishing this house.
+Richards is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Karli
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Cottage vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Cottage vacation rentals in Chatham County
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

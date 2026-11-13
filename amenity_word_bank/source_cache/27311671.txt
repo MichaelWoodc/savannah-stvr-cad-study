@@ -1,0 +1,468 @@
+URL: https://www.airbnb.com/rooms/27311671
+Title: Romantic & Picturesque River Views | Huge 1BR
+Latitude: 32.0805
+Longitude: -81.0879
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah Ashley
+Host ID: 199510095
+Host profile ID: 1469039968724908069
+Host URL: https://www.airbnb.com/users/profile/1469039968724908069
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+The perfect spot for a romantic getaway in downtown historic Savannah! This spacious condo overlooks the Savannah River, with the best views from the private balcony! Huge living and dining area, fully equipped kitchen, and all the amenities one could need are provided.  This condo is located in a stunning brick building, circa 1840, and is part of the historic Factor's Walk...in the heart of the action, amazing location! WITH a free parking space included!
+
+SVR-00974
+
+The space
+Soaring ceilings, old Savannah gray brick walls, and all the modern amenities one could need!
+
+Guest access
+The entire condo is yours to enjoy.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+River view
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Drying rack for clothing
+Clothing storage
+Entertainment
+TV with standard cable
+Family
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 98 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel gas stove
+Single oven
+Coffee maker: drip coffee maker, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Rice maker
+Dining table
+Coffee
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Parking and facilities
+Free parking on premises – 1 space
+Paid street parking off premises
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Romantic & Picturesque River Views | Huge 1BR
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+723 reviews
+723
+Reviews
+Hosted by Sarah Ashley
+Superhost · 8 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's historic district
+Steps from the Riverfront Plaza, with Reynolds Square and City Hall about a 5-min walk away
+Private river balcony in an 1840s building
+A private balcony overlooking the Savannah River, inside an 1840s brick building on Factor's Walk
+Guests keep coming back
+Guests return again and again, praising the walkability, the river views, and Sarah's responsiveness
+The perfect spot for a romantic getaway in downtown historic Savannah! This spacious condo overlooks the Savannah River, with the best views from the private balcony! Huge living and dining area, fully equipped kitchen, and all the amenities one could need are provided.  This condo is located in a stunning brick building, circa 1840, and is part of the historic Factor's Walk...in the heart of the action, amazing location! WITH a free parking space included!
+
+SVR-00974
+
+The space
+Soaring ceilings, old Savannah gray brick walls, and all the modern amenities one could need!
+
+Guest access
+The entire condo is yours to enjoy.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+What this place offers
+River view
+Waterfront
+Kitchen
+Fast wifi – 98 Mbps
+Dedicated workspace
+Free parking on premises – 1 space
+TV with standard cable
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 723 reviews.
+4.95
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 95% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+210
+Location
+517
+River
+135
+View
+340
+Parking
+105
+Nearby
+119
+Hospitality
+260
+Cleanliness
+163
+Sleep quality
+65
+Comfort
+98
+Amanda
+Boiling Springs, South Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+The listing exceeded my expectations! It is in an ideal location and everywhere we wanted to visit was within close walking distance. And by including its own parking spot, traveling to nearby Tybee Beach was a breeze by never having to search for parking when we returned.
+The inside of the loft was beautiful, clean and comfortable. The balcony is such a nice touch when having morning coffee or wanting to "people watch" at night. It was the perfect spot for our romantic getaway!
+We would definitely re-book here with Sarah if we return!
+Show more
+Mollie
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great place to stay! Near all the things. Free parking space was FABULOUS.
+Rick
+Aurora, Ohio
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We enjoyed our stay; the unit is in a perfect place (right on the river) with great views; easy access to countless restaurants and bars. Would definitely stay here again.
+Randall
+Jacksonville Beach, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed one night
+Lovely house and great location definitely will be coming back here! Great host and loved the atmosphere!
+Edgar
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed one night
+The location is amazing, the views of the river right outside the suite are amazing and the city is completely walkable.
+Catherine
+Port Orchard, Washington
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This is the perfect rental for two people wanting to explore historic Savannah on foot.  Sarah offers a very spacious one bedroom home, with nice quality furnishings and decor.  River Street is just below, and a trolley stop is next door.
+Show more
+Show all 723 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Located on the Savannah river and in the downtown historic district.
+Show more
+Meet your host
+Sarah Ashley
+Superhost
+3,856 reviews
+3856
+Reviews
+4.95 out of 5 average rating
+4.95
+Rating
+8 years of hosting
+8
+Years hosting
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Our goal? To give you the vacation of your dreams in our Southern gem of a city!
+Sarah Ashley is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for infants (under 2 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Beach house vacation rentals in Savannah
+Waterfront vacation rentals in Savannah
+House vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Chatham County
+Waterfront vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

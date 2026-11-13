@@ -1,0 +1,511 @@
+URL: https://www.airbnb.com/rooms/1461530839696748772
+Title: Historic Carriage House | Walk to Forsyth Park
+Latitude: 32.0664
+Longitude: -81.1007
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/Southern Grace Stays
+Host ID: 561893930
+Host profile ID: 1463880952280947353
+Host URL: https://www.airbnb.com/users/profile/1463880952280947353
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+This private upstairs carriage house is the perfect Savannah escape—just four blocks from Forsyth Park. Enjoy a bright open living area with a sleeper sofa, Smart TV, and fully equipped kitchen with island seating. The cozy queen bedroom features treetop views and an en suite bath with tub/shower combo. Unwind in the shared courtyard below—ideal for coffee or cocktails. A peaceful, walkable retreat full of charm and comfort.
+
+The space
+✔ Private upstairs carriage house
+
+✔ Sleeps 4 (Queen bed + sleeper sofa)
+
+✔ Bright, open-concept living room with Smart TV
+
+✔ Fully equipped kitchen with island seating
+
+✔ Peaceful queen bedroom with treetop views
+
+✔ En suite bathroom with tub/shower combo
+
+✔ Access to shared courtyard for relaxing outdoors
+
+✔ Located just 4 blocks from Forsyth Park and walkable to shops, cafes, and squares
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+Property Features – The Sweet Magnolia Carriage House 
+
+
+
+*1 Bedrooms, 1 Bathrooms
+
+*Victorian architecture 
+
+*3 blocks from Forsyth Park
+
+*High-speed Wi-Fi and modern amenities
+
+*Central heating & air conditioning
+
+
+
+SVR-02668
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+Exterior security cameras are present at all entrances
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Carriage House | Walk to Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire guesthouse in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.86 out of 5 stars.
+4.86
+7 reviews
+7
+Reviews
+Hosted by Laura W/Southern Grace Stays
+Superhost · 3 years hosting
+Listing highlights
+In Savannah, near Forsyth Park
+About a 5-min walk to Forsyth Park, with Savannah's Victorian Historic District nearby
+Victorian carriage house with courtyard
+A private upstairs carriage house with a fully equipped kitchen, island seating, and a courtyard below
+A walkable home base
+Guests highlight the walkability, with several noting they parked and explored on foot all weekend
+Some info has been automatically translated. Show original
+This private upstairs carriage house is the perfect Savannah escape—just four blocks from Forsyth Park. Enjoy a bright open living area with a sleeper sofa, Smart TV, and fully equipped kitchen with island seating. The cozy queen bedroom features treetop views and an en suite bath with tub/shower combo. Unwind in the shared courtyard below—ideal for coffee or cocktails. A peaceful, walkable retreat full of charm and comfort.
+
+The space
+✔ Private upstairs carriage house
+
+✔ Sleeps 4 (Queen bed + sleeper sofa)
+
+✔ Bright, open-concept living room with Smart TV
+
+✔ Fully equipped kitchen with island seating
+
+✔ Peaceful queen bedroom with treetop views
+
+✔ En suite bathroom with tub/shower combo
+
+✔ Access to shared courtyard for relaxing outdoors
+
+✔ Located just 4 blocks from Forsyth Park and walkable to shops, cafes, and squares
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+Property Features – The Sweet Magnolia Carriage House 
+
+
+
+*1 Bedrooms, 1 Bathrooms
+
+*Victorian architecture 
+
+*3 blocks from Forsyth Park
+
+*High-speed Wi-Fi and modern amenities
+
+*Central heating & air conditioning
+
+
+
+SVR-02668
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.86 out of 5 from 7 reviews.
+4.86
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 86% of reviews
+5
+4 stars, 14% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Parks
+2
+Walkability
+4
+Location
+5
+Cleanliness
+3
+Parking
+2
+Hospitality
+3
+Nearby
+2
+Quiet
+2
+Bathroom
+2
+Selah
+Dacula, Georgia
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We had a great weekend in Savannah! If you enjoy walking and sight seeing, this is a great spot. We parked our car and walked everywhere for the weekend! It’s a few minutes from Forsyth Park and the scenery is great! It’s about a 30 minute walk to the river and there’s so many great places to stop in and eat. 
+The place was perfect for a weekend getaway! We were gone a lot of the time but the time we did spend there was very relaxing.
+Show more
+Elliott
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+A great place to stay for a weekend trip! It’s in a nice area and the host is very kind to give plenty of recommendations and helpful to communicate efficiently!!
+Show more
+Kristen
+Marion, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+We had a great stay! Savannah is one of our favorite cities and we loved the walkability to Forsyth park. You could honestly walk just about anywhere in downtown from the location! The host was very responsive and friendly and also provided a pack n play for our little one. Definitely recommend, especially for a small family or a couple!
+Show more
+Beth
+North Smithfield, Rhode Island
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+We were looking for a spot walkable to my daughter's apartment. This was perfect for us. We were NOT looking for someplace walkable to downtown. If you are looking for someplace outside of the touristy area, this is PERFECT. It was clean, close to Forsythe Park (where there was a wonderful farmer's market on the weekend) and walkable to a lot of great restaurants.
+Show more
+James
+Buffalo, New York
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Stayed a few nights
+Great 2nd floor unit behind the main house. close to everything.  safe neighborhood for walking and beautiful houses in the area.
+Jennifer
+Middleburg, Florida
+Rating, 4 stars
+,
+·
+October 2025
+,
+·
+Stayed a few nights
+Perfect for my husband and I to stay for 2 nights. It was extremely clean. Except for a small dog barking, it was quiet. The view is of backyards and small alleyway/row of houses but the back patio to sit at was nice. Location was a little further away from downtown happenings than I would have preferred but never have been to Savannah I wasn’t sure what to expect. Walked across loose rocks through a gate and upstairs to get to place. Appreciated the fan in closet. Basic items were provided (soap, tp). Would have liked flatter pillows, as they were very full and fluffy. Just a foam mattress, no box springs, but bed was comfortable. Street parking is tight. Water in shower was not real strong or hot and had to be moved the opposite direction to get warmer water.
+Show more
+Show all 7 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Laura W/Southern Grace Stays
+Superhost
+1,385 reviews
+1385
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+3 years of hosting
+3
+Years hosting
+My work: Southern Grace Stays
+Favorite song in high school: Livin on a Prayer
+Savannah is home, hospitality is my passion, and making guests feel welcome is what I do best! I love beautiful spaces, great food, Southern charm, and sharing the best of Savannah with visitors. When I’m not hosting, you’ll usually find me working on a new property project, hunting for the perfect décor piece, or planning my next getaway. Come for the stay, leave with a little Southern Grace!
+Laura W/Southern Grace Stays is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Guesthouse vacation rentals in Savannah
+Guesthouse vacation rentals in Chatham County
+Guesthouse vacation rentals in Georgia
+Guesthouse vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,471 @@
+URL: https://www.airbnb.com/rooms/936105637384194548
+Title: Whitaker Loft, Modern | Fresh | Relaxed
+Latitude: 32.0798
+Longitude: -81.093
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located near the City Market and the Riverwalk and directly above the renowned Flock to the Wok and Peacock Lounge, this 2-bed, 2-bath apartment is a foodie and explorer’s dream.  Freshly updated, the space provides a comfortable stay in the heart of Savannah’s vibrant downtown. Just steps from Ellis and Johnson Square and surrounded by dining, pubs, shopping, and historical attractions, your stay will be filled with adventures. See the neighborhood section for more info! 
+SVR-02792
+
+The space
+Situated on the corner of Whitaker St. and Congress Ln and above Flock to the Wok restaurant, this second-floor apartment boasts beautiful touches like original hardwood floors, an updated kitchen, chic and comfortable furniture, and space for up to four guests.
+Enter the apartment through the private entrance to the right of Flock the Wok. Through the apartment doors, you will enter the main space that features an open concept from the kitchen to the living room. High ceilings with oversized windows fill the room with natural light.
+Enjoy a fully appointed kitchen with all-new appliances, granite countertops, and everything you need to cook during your stay. We have you covered with pots, pans, kitchen utensils, and dishware. Brew your morning coffee with the coffee provided.
+In the living room, unwind and relax on the oversize sofa and two reading chairs. A new smart TV and high-speed WIFI are ready to stream your favorite shows after a day of exploring.
+ Finally, on the primary floor, you will find a stackable washer and dryer in the closet for your use and a powder room with a toilet and pedestal sink.
+Follow the long staircase to the third floor, where two ensuites boast private bathrooms. Both ensuites are outfitted with new comfortable queen mattresses wrapped in crisp linens and plush pillows, providing a perfect place to rest. Closets and dressers provide ample storage for extended stays.
+The bathrooms feature a shower/tub combination in one and the other with a low-entry shower. Both bathrooms are outfitted with essentials, including towels, toilet paper, shampoo, body wash, and a hair dryer. 
+Are you working remotely during your stay? Our WIFI supports video conferencing and multi-tasking to get the job done.
+
+Guest access
+*We have a parking pass for the Whitaker Street Garage, located just a block from the building :)* 
+The entire condo unit is for your use! Please be cognizant of your neighbors as there are 3 condo units in this building and an amazing restaurant and bar downstairs.
+
+Other things to note
+No parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property.  
+Report all damaged property to the property owner immediately.
+Treat the studio with respect, as if it was your property.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Central air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+GE electric stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Paid parking off premises
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Whitaker Loft, Modern | Fresh | Relaxed
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.87 out of 5 stars.
+4.87
+203 reviews
+203
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In downtown Savannah's Historic District
+Steps from Ellis Square and Johnson Square, with the Telfair Academy about a 5-min walk away
+Included parking garage pass
+A parking pass for a nearby garage is included, a real convenience in downtown Savannah
+Walkable and well-hosted
+Guests highlight how walkable everything is and praise Brandon and Chase for clear communication
+Located near the City Market and the Riverwalk and directly above the renowned Flock to the Wok and Peacock Lounge, this 2-bed, 2-bath apartment is a foodie and explorer’s dream.  Freshly updated, the space provides a comfortable stay in the heart of Savannah’s vibrant downtown. Just steps from Ellis and Johnson Square and surrounded by dining, pubs, shopping, and historical attractions, your stay will be filled with adventures. See the neighborhood section for more info! 
+SVR-02792
+
+The space
+Situated on the corner of Whitaker St. and Congress Ln and above Flock to the Wok restaurant, this second-floor apartment boasts beautiful touches like original hardwood floors, an updated kitchen, chic and comfortable furniture, and space for up to four guests.
+Enter the apartment through the private entrance to the right of Flock the Wok. Through the apartment doors, you will enter the main space that features an open concept from the kitchen to the living room. High ceilings with oversized windows fill the room with natural light.
+Enjoy a fully appointed kitchen with all-new appliances, granite countertops, and everything you need to cook during your stay. We have you covered with pots, pans, kitchen utensils, and dishware. Brew your morning coffee with the coffee provided.
+In the living room, unwind and relax on the oversize sofa and two reading chairs. A new smart TV and high-speed WIFI are ready to stream your favorite shows after a day of exploring.
+ Finally, on the primary floor, you will find a stackable washer and dryer in the closet for your use and a powder room with a toilet and pedestal sink.
+Follow the long staircase to the third floor, where two ensuites boast private bathrooms. Both ensuites are outfitted with new comfortable queen mattresses wrapped in crisp linens and plush pillows, providing a perfect place to rest. Closets and dressers provide ample storage for extended stays.
+The bathrooms feature a shower/tub combination in one and the other with a low-entry shower. Both bathrooms are outfitted with essentials, including towels, toilet paper, shampoo, body wash, and a hair dryer. 
+Are you working remotely during your stay? Our WIFI supports video conferencing and multi-tasking to get the job done.
+
+Guest access
+*We have a parking pass for the Whitaker Street Garage, located just a block from the building :)* 
+The entire condo unit is for your use! Please be cognizant of your neighbors as there are 3 condo units in this building and an amazing restaurant and bar downstairs.
+
+Other things to note
+No parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property.  
+Report all damaged property to the property owner immediately.
+Treat the studio with respect, as if it was your property.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Luggage dropoff allowed
+Show all 38 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.87 out of 5 from 203 reviews.
+4.87
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Location
+161
+Parking
+37
+Walkability
+68
+Noise
+40
+Comfort
+37
+Nearby
+45
+Hospitality
+82
+Cleanliness
+59
+Indoor spaces
+29
+Sleep quality
+22
+Ibraheim
+Cherryville, North Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Right in the middle of downtown, great location. You can walk to just about everything.
+Daja
+11 years on Airbnb
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Stayed a few nights
+Staying at Brandon and Chase’s place was amazing! The location could not have been any more convenient, the townhome any cleaner and the environment more lively. They were very responsive when we had a minor issue with the AC and provided all the necessities. We found it best to unload the bags while outside of the Airbnb (with the hazards on and someone present with the car), park and then walk back. Regardless, 10/10, my crew and I are already planning a return trip.
+Show more
+Sametrice
+Byron, Georgia
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We thought Brandon & Chase were awesome hosts! We absolutely loved their home. The location was perfect—right in downtown Savannah and conveniently close to so many wonderful sites and attractions.
+The home was beautiful, comfortable, and exactly what we needed for our stay. Brandon & Chase were great hosts, and we truly enjoyed our experience. We would definitely stay here again!
+Great home, great location, and great hosts! ❤️
+Show more
+Nickolas
+McLean, Virginia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Fantastic location. Lovely interior style. World love to start again.
+Ericka
+Rock Hill, South Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Brandon and Chase were excellent hosts. They were proactive in reaching out and responsive. The location is perfect as you are close to the Savannah River, shops, restaurants, and museums. They offer a parking pass to a nearby parking garage which was very useful. The space is exactly as pictured and was a perfect size.
+Show more
+Tully
+Fayetteville, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Had a great stay! Super convenient location, and the residence is very nice and well taken care of
+Show all 203 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Being upstairs neighbors to Flock the Wok and Peacock Lounge, you won't run out of delicious and convenient cocktails! Looking for that easy and incredibly delicious dining option? Your downstairs neighbor, Flock the Wok, provides a stylish environment with incredible Asian food ranging from seafood wok, dumplings, noodles, and more.
+Continue to explore all of the flavors Savannah has to offer; all just steps from the Loft. Enjoy French-inspired dishes at Circa 1875, grab a traditional southern dish at The Lady & Sons, or crack a few oysters at Sorry Charlie’s Oyster Bar. Breakfast is easy and delicious by checking out Treylor Park Diner or the Little Duck Diner.
+Enjoy Savannah's incredible nightlife with a stop in the Peacock Lounge, Totally Awesome Bar, Jens’s and Friends, Moon River Brewing, and many more. Transport to London by stopping into Six Pence Pub, a British-inspired pub, or bring out your inner Irish with a stop into O’Connell’s Irish Pub.
+A trip to Savannah is complete with exploring a little of its historic colonial past. Fill your schedule by checking out the Telfair Academy, a beautiful art museum, or stroll through the Webb Military Museum. Relive the prohibition area by heading to the American Prohibition Museum. Don’t forget to grab a drink at their cocktail bar to celebrate freedom. Or fancy exploring Savannah’s ocean ties? Check out the Ships of the Sea Maritime Museum.
+Not enough time to walk all the sights of Savannah? Take it all in at once while riding or biking. We are just minutes from Old Town Trolley Tours of Savannah and Savannah Bike Tours. Check out the city’s skyline from the water by jumping on one of the Savannah Belle’s ferries, with multiple stops all along Savannah’s riverfront.
+Getting around is easy with walkable streets, bike rentals, and Uber service. Jump on Savannah’s public transit system with the Whitaker and Broughton WB stop just a 1-minute walk from the loft.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,350 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

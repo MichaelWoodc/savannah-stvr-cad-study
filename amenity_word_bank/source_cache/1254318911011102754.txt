@@ -1,0 +1,501 @@
+URL: https://www.airbnb.com/rooms/1254318911011102754
+Title: Historic District Retreat: 4BR by Forsyth Park
+Latitude: 32.0685
+Longitude: -81.0913
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Christie
+Host ID: 49832551
+Host profile ID: 1462714232700236111
+Host URL: https://www.airbnb.com/users/profile/1462714232700236111
+Bedrooms: 4
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 4
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed
+
+Living room
+1 couch
+
+=== FULL DESCRIPTION ===
+Experience Casa d’Arte, an authentic 1896 historic Savannah home near Forsyth Park. This charming 4-bed, 3-bath vacation rental offers 1,900 sq ft for up to 8 guests, blending classic elegance with modern comfort. Enjoy a walkable, historic neighborhood, unique architecture, and vibrant local cuisine. Perfect for families or groups seeking a memorable Savannah experience.
+
+The space
+Welcome to Casa d’Arte, a charming and authentic 1896 historic home offering 1,900 square feet of inviting space. This four-bedroom, three-bathroom vacation rental comfortably accommodates up to eight guests, showcasing preserved architectural details that blend classic elegance with modern comfort for a truly unique Savannah experience.
+
+The space features:
+
+> Sitting Room: Bright, well-lit with tall windows, a beautiful chandelier, and a cozy indoor fireplace, perfect for relaxation.
+ 
+>Dining Area: Formal dining space with seating for six, ideal for memorable meals.
+
+>Kitchen: Modern and fully equipped with appliances and ample counter space for all your culinary needs.
+
+> Bedrooms: Four distinct bedrooms, each designed as a restful retreat with large windows, ceiling fans, and comfortable furnishings to ensure a peaceful night's sleep.
+
+Guest access
+Guests will have full and exclusive access to the entire Casa d’Arte home and all its amenities.
+
+Key amenities available for your use include:
+   
+>High-speed WiFi
+> Convenient laundry facilities
+> TV with Roku livestreaming
+> Complimentary towels
+>  Essential bathroom supplies: soap, shampoo, and makeup wipes
+> Initial supply of three rolls of toilet paper per bathroom and one roll of paper towel for the kitchen.
+
+Other things to note
+Please be considerate of the neighborhood and our neighbors. City of Savannah Noise Ordinance for vacation rentals is between the hours of 9pm- 8am. Please remember that sound carries very well throughout Savannah, most especially in courtyards, porches, patios, and verandas.
+
+Please note the following important details for your stay:
+
+> Our home is in compliance with all Short-Term Vacation Rental laws in Savannah, Georgia. Our STVR permit number is SVR-01379.
+ 
+> While we provide an initial supply of three rolls of toilet paper per bathroom and one roll of paper towels, guests planning a longer stay or extensive cooking may wish to purchase additional supplies.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Body soap
+Hot water
+Bedroom and laundry
+Washer – In building
+Free dryer – In building
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV with Roku
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 276 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Frigidaire refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Essentials
+Essentials
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic District Retreat: 4BR by Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+8 guests · 4 bedrooms · 4 beds · 3 baths
+Rated 4.73 out of 5 stars.
+4.73
+·
+44 reviews
+Hosted by Christie
+Superhost · 11 years hosting
+Listing highlights
+In Savannah's Historic District
+Whitefield Square is right outside, with Forsyth Park about a 5-min walk away
+Historic townhouse with original details
+An 1896 home with 1,900 sq ft, a cozy fireplace, and stained glass windows
+Christie goes above and beyond
+Guests highlight Christie's responsiveness and helpful local recommendations
+Experience Casa d’Arte, an authentic 1896 historic Savannah home near Forsyth Park. This charming 4-bed, 3-bath vacation rental offers 1,900 sq ft for up to 8 guests, blending classic elegance with modern comfort. Enjoy a walkable, historic neighborhood, unique architecture, and vibrant local cuisine. Perfect for families or groups seeking a memorable Savannah experience.
+
+The space
+Welcome to Casa d’Arte, a charming and authentic 1896 historic home offering 1,900 square feet of inviting space. This four-bedroom, three-bathroom vacation rental comfortably accommodates up to eight guests, showcasing preserved architectural details that blend classic elegance with modern comfort for a truly unique Savannah experience.
+
+The space features:
+
+> Sitting Room: Bright, well-lit with tall windows, a beautiful chandelier, and a cozy indoor fireplace, perfect for relaxation.
+ 
+>Dining Area: Formal dining space with seating for six, ideal for memorable meals.
+
+>Kitchen: Modern and fully equipped with appliances and ample counter space for all your culinary needs.
+
+> Bedrooms: Four distinct bedrooms, each designed as a restful retreat with large windows, ceiling fans, and comfortable furnishings to ensure a peaceful night's sleep.
+
+Guest access
+Guests will have full and exclusive access to the entire Casa d’Arte home and all its amenities.
+
+Key amenities available for your use include:
+   
+>High-speed WiFi
+> Convenient laundry facilities
+> TV with Roku livestreaming
+> Complimentary towels
+>  Essential bathroom supplies: soap, shampoo, and makeup wipes
+> Initial supply of three rolls of toilet paper per bathroom and one roll of paper towel for the kitchen.
+
+Other things to note
+Please be considerate of the neighborhood and our neighbors. City of Savannah Noise Ordinance for vacation rentals is between the hours of 9pm- 8am. Please remember that sound carries very well throughout Savannah, most especially in courtyards, porches, patios, and verandas.
+
+Please note the following important details for your stay:
+
+> Our home is in compliance with all Short-Term Vacation Rental laws in Savannah, Georgia. Our STVR permit number is SVR-01379.
+ 
+> While we provide an initial supply of three rolls of toilet paper per bathroom and one roll of paper towels, guests planning a longer stay or extensive cooking may wish to purchase additional supplies.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 4 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed
+
+Living room
+1 couch
+
+What this place offers
+Kitchen
+Fast wifi – 276 Mbps
+Free street parking
+TV with Roku
+Washer – In building
+Free dryer – In building
+Air conditioning
+Bathtub
+Pack ’n play/Travel crib - available upon request
+Hair dryer
+Show all 41 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.73 out of 5 stars from 44 reviews
+4.73 · 44 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 82% of reviews
+5
+4 stars, 11% of reviews
+4
+3 stars, 5% of reviews
+3
+2 stars, 2% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.7 out of 5 stars for cleanliness
+Cleanliness
+4.7
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+15
+Location
+22
+Hospitality
+17
+Parks
+2
+Cleanliness
+7
+Bathroom
+7
+Check-in
+4
+Indoor spaces
+6
+Sleep quality
+5
+Comfort
+6
+Traci
+Philadelphia, Pennsylvania
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Beautiful house in a terrific location! 5⭐️
+Sarah
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Great house in Savannah! Great hosts!
+Madison
+11 months on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Group trip
+Very good experience staying here
+Daniel
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Great and magic house. We enjoyed everything about it. Great location
+Kevin
+Washington, District of Columbia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Christie was awesome. Super friendly, responsive, great with local recommendations and very flexible with our arrival. A superb host!
+Alexander
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Easy to access, nice quiet neighbourhood and walkable to the main areas.
+Show all 44 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Christie
+Superhost
+1,101 reviews
+1101
+Reviews
+4.87 out of 5 average rating
+4.87
+Rating
+11 years of hosting
+11
+Years hosting
+My work: Salt Marsh Realty / Mint Julep Vacation Rentals
+Speaks English
+We've lived in Savannah for over 20 years each. We still live downtown but decided to rent our homes as vacation rentals because we want you to enjoy Downtown Savannah as much as we do. All of our homes are located in the Historic / Victorian district and in walking distance to Forsyth Park where we love to go on Saturday mornings for the Farmers Market or have a picnic on Sunday afternoon. Our kids love the playground and the grand yard. Our properties were decorated to be comfortable for you and your family/friends. We have a large sectional sofa in the living rooms. We want you to relax when you're at our homes and if that means lying on the couch and watching a movie then this is the right place for you! We are both Realtors for Salt Marsh Realty. So if you decide that you want to buy a home while visiting Savannah, please let us know.
+Christie is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Townhome vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

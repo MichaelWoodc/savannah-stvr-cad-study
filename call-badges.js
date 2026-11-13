@@ -9,7 +9,8 @@
     licenseOutlines.eachLayer(layer=>{
       const count=(callsByPin.get(layer.feature.id)||[]).filter(allowed).length;
       const high=average>0&&count/S.exposure_years>=3*average;
-      layer.getElement()?.classList.toggle('licensed-high-calls',high);
+      const match=!window.ListingScreen||window.ListingScreen.mapMatches(layer.feature.id);
+      const element=layer.getElement();element?.classList.toggle('licensed-high-calls',high);element?.classList.toggle('licensed-high-calls-unmatched',high&&!match);
     });
     window.STVR_HIGH_CALL_REFERENCE={annualMean:average,multiplier:3};
   }

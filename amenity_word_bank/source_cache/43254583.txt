@@ -1,0 +1,454 @@
+URL: https://www.airbnb.com/rooms/43254583
+Title: Luxurious Townhome w/ Parking by Lucky Savannah
+Latitude: 32.0694
+Longitude: -81.0989
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 7
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Only blocks from Forsyth Park, Chateau on Tattnall is located on a tree-lined, quiet, street on the residential side of the Historic District. This spacious townhouse accommodates 7 Lucky guests comfortably!
+
+The space
+Only blocks from Forsyth Park, Chateau on Tattnall is located on a tree-lined, quiet, street on the residential side of the Historic District. This spacious townhouse accommodates 7 Lucky guests comfortably, with all of the high-end amenities one could dream of!
+
+Upon arrival, guests enter into the wide open living area. Spacious and bright, the floor to ceiling windows overlook tree-lined Tattnall Street. There is ample seating for the whole family, and friends. Rightfully so, the living room is your cool end-of-day hang out, or your morning gathering spot to plan your day. 
+
+Beyond the living room, an open plan kitchen with an attached formal dining area. Enjoy stainless steel appliances and granite counter tops - the perfect backdrop for entertaining friends and family. Choose a formal meal at the dining table fit for eight, or enjoy a glass of wine at the kitchen island before walking to one of Savannah's best restaurants.
+
+Upstairs, you'll find all three bedrooms each fitted with blackout curtains for an easy nights rest! The first is the primary bedroom with a King size bed and a luxurious en suite bathroom. Guests will enjoy the long double vanity with adjacent walk-in shower, all fit with marble tile floors. The second guest room features a king size bed and spacious closet, while the third offers two plush twin size beds. Both rooms share a full bath with tub/shower combo just outside the hall. Extended stays are a breeze with a full-size washer and dryer upstairs! Just off of the kitchen, guests can find a private screened in patio, with a retractable awning. The outdoor space is welcome and inviting, perfect for an evening glass of wine or a morning cup of joe. 
+
+What is parking like for this home?
+This home has one dedicated parking space at the rear for one vehicle, while there is ample non-metered street parking in front of the home for additional vehicles. Guests will need to be mindful of posted Sweep Zone signs.
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Two Twin Size Beds
+Bedroom 3: King Size Bed
+Living Room: Twin Sleeper Chair
+
+SVR-00882
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Luxurious Townhome w/ Parking by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+7 guests · 3 bedrooms · 5 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.97 out of 5 stars.
+4.97
+39 reviews
+39
+Reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, on a quiet, tree-lined street in the Historic District
+Screened patio off the kitchen
+A screened patio just off the kitchen with a retractable awning for morning coffee or evening wind-down
+Even better than the photos
+Guests describe it as pristine, beautifully decorated, and even better in person than in photos
+Only blocks from Forsyth Park, Chateau on Tattnall is located on a tree-lined, quiet, street on the residential side of the Historic District. This spacious townhouse accommodates 7 Lucky guests comfortably!
+
+The space
+Only blocks from Forsyth Park, Chateau on Tattnall is located on a tree-lined, quiet, street on the residential side of the Historic District. This spacious townhouse accommodates 7 Lucky guests comfortably, with all of the high-end amenities one could dream of!
+
+Upon arrival, guests enter into the wide open living area. Spacious and bright, the floor to ceiling windows overlook tree-lined Tattnall Street. There is ample seating for the whole family, and friends. Rightfully so, the living room is your cool end-of-day hang out, or your morning gathering spot to plan your day. 
+
+Beyond the living room, an open plan kitchen with an attached formal dining area. Enjoy stainless steel appliances and granite counter tops - the perfect backdrop for entertaining friends and family. Choose a formal meal at the dining table fit for eight, or enjoy a glass of wine at the kitchen island before walking to one of Savannah's best restaurants.
+
+Upstairs, you'll find all three bedrooms each fitted with blackout curtains for an easy nights rest! The first is the primary bedroom with a King size bed and a luxurious en suite bathroom. Guests will enjoy the long double vanity with adjacent walk-in shower, all fit with marble tile floors. The second guest room features a king size bed and spacious closet, while the third offers two plush twin size beds. Both rooms share a full bath with tub/shower combo just outside the hall. Extended stays are a breeze with a full-size washer and dryer upstairs! Just off of the kitchen, guests can find a private screened in patio, with a retractable awning. The outdoor space is welcome and inviting, perfect for an evening glass of wine or a morning cup of joe. 
+
+What is parking like for this home?
+This home has one dedicated parking space at the rear for one vehicle, while there is ample non-metered street parking in front of the home for additional vehicles. Guests will need to be mindful of posted Sweep Zone signs.
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Two Twin Size Beds
+Bedroom 3: King Size Bed
+Living Room: Twin Sleeper Chair
+
+SVR-00882
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.97 out of 5 from 39 reviews.
+4.97
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+17
+Location
+25
+Cleanliness
+22
+Parks
+3
+Family
+9
+Comfort
+10
+Quiet
+6
+Nearby
+5
+Getting around
+4
+Hospitality
+6
+Mackenzie
+Greenville, South Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Overall amazing stay! Easy check in and check out. Incredibly clean and spacious! Plenty of extra blankets and pillows. Location, location, location! Extremely communicative. They go the extra mile to make sure you are comfortable, they even had an extra fan for the room with single beds. We would absolutely stay here again.
+Show more
+Jordan
+Toronto, Canada
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Amazing Home! You can't go wrong with a stay here. The location and neighborhood are fantastic and the home is well stocked and very clean. Thanks for the great stay.
+Show more
+Caitlin
+New York, New York
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Stayed here for a bachelorette trip and cannot say enough good things about this place! The home feels somehow better than pictured! Stocked with everything we needed and more. Perfect location, walkable to downtown or a quick ~$15 uber / Lyft XL. Felt safe and cozy. Plenty of space for activities. 100/10 would recommend!
+Show more
+Lisa
+Philadelphia, Pennsylvania
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Beautiful home right near Forsyth Park.  Great neighborhood!  Responsive helpful hosts!  We would love to stay there again.
+Show more
+Carolyn
+6 months on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+We had a wonderful girls’ getaway weekend here! The house was lovely, cozy, and very comfortable for our group of four college friends. We especially enjoyed spending time around the kitchen table and in the living room. The location was great and made it easy to get around Savannah. We would absolutely stay here again!
+Show more
+Jim
+Carrboro, North Carolina
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with kids
+Great place, centrally located, and nice to have a dedicated parking spot. Easy walk to great parks, restaurants, and kid-friendly activities. Highly recommend!
+Show more
+Show all 39 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+7 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around SAVANNAH
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

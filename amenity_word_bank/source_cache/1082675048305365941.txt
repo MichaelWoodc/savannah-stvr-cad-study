@@ -1,0 +1,476 @@
+URL: https://www.airbnb.com/rooms/1082675048305365941
+Title: Modern Meets Historic at Forsyth
+Latitude: 32.06695
+Longitude: -81.09303
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Douglas
+Host ID: 17243840
+Host profile ID: 1463005577632255540
+Host URL: https://www.airbnb.com/users/profile/1463005577632255540
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Stay in a beautifully renovated historic home just a short walk from Savannah’s iconic Forsyth Park. 
+
+Park your car, unpack your bags, and explore Savannah on foot.
+
+You’ll be minutes from Forsyth Park, some of Savannah’s best restaurants and cafés, and the charming streets of the Historic District.
+
+Start your morning with a walk through Forsyth Park. Grab coffee and breakfast nearby. Spend the afternoon exploring the Historic District. Come home, relax, and head back out for dinner and drinks
+
+The space
+One block from the breathtaking Forsyth Park and steps from Savannah's legendary Historic District, this stunning 126-year-old apartment has been completely and lovingly renovated — without sacrificing an ounce of its original soul. Soaring ceilings, glowing hardwood floors, and cobblestone streets outside your door set the scene. Starbucks and a full-service Kroger are right across the street for everything else. Whether you're here as a couple, a family, or a crew of friends ready to fall in love with Savannah, this is your perfect home base.
+
+Guest access
+Guests have sole access to the whole apartment and shared front porch.
+
+Other things to note
+The parking area is shared with the downstairs. So please do not block in the other car(s). Dogs are permitted with a one time $75 pet fee.
+
+Savannah, GA SVR-02657
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+HDTV with HBO Max, Amazon Prime Video, standard cable
+Family
+Crib - available upon request
+Standard (52 inches long x 28 inches wide)
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Air conditioning
+Ceiling fan
+Central heating
+Home safety
+Noise decibel monitors on property
+Exterior security cameras on property
+At front door
+Smoke alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Stainless steel oven
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Host has indicated no carbon monoxide detector is necessary. Reach out to the host with any questions.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Modern Meets Historic at Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Add dates for prices
+Add dates for prices
+4.93 ·
+98 reviews
+Rated 4.93 out of 5 from 98 reviews.
+Check availability
+Entire home in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+98 reviews
+98
+Reviews
+Hosted by Douglas
+Superhost · 3 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah, steps from Forsyth Park
+Steps from Forsyth Park, with Savannah's Historic District squares about a 10-min walk away
+Off-street parking for two cars
+Two off-street parking spaces, so you can park once and explore Savannah on foot
+Douglas is a responsive, helpful host
+Guests highlight the walkable location, the well-stocked kitchen, and Douglas's responsiveness
+Stay in a beautifully renovated historic home just a short walk from Savannah’s iconic Forsyth Park. 
+
+Park your car, unpack your bags, and explore Savannah on foot.
+
+You’ll be minutes from Forsyth Park, some of Savannah’s best restaurants and cafés, and the charming streets of the Historic District.
+
+Start your morning with a walk through Forsyth Park. Grab coffee and breakfast nearby. Spend the afternoon exploring the Historic District. Come home, relax, and head back out for dinner and drinks
+
+The space
+One block from the breathtaking Forsyth Park and steps from Savannah's legendary Historic District, this stunning 126-year-old apartment has been completely and lovingly renovated — without sacrificing an ounce of its original soul. Soaring ceilings, glowing hardwood floors, and cobblestone streets outside your door set the scene. Starbucks and a full-service Kroger are right across the street for everything else. Whether you're here as a couple, a family, or a crew of friends ready to fall in love with Savannah, this is your perfect home base.
+
+Guest access
+Guests have sole access to the whole apartment and shared front porch.
+
+Other things to note
+The parking area is shared with the downstairs. So please do not block in the other car(s). Dogs are permitted with a one time $75 pet fee.
+
+Savannah, GA SVR-02657
+Show more
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+HDTV with HBO Max, Amazon Prime Video, standard cable
+Washer
+Free dryer – In unit
+Exterior security cameras on property
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 98 reviews.
+4.93
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+50
+Parks
+18
+Location
+63
+Nearby
+47
+Hospitality
+39
+Parking
+14
+Comfort
+18
+Family
+15
+Cleanliness
+25
+Indoor spaces
+13
+Kathleen
+Augusta, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great location! Wonderful spot to stay while in Savannah - just a short walk to Forsyth Park and right by a grocery store as well. The home was comfortable and had everything we needed for a long weekend.
+Show more
+Trisha
+Niles, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+This was a great place to stay! Conveniently located right across the street from a grocery store. Close to all the local parks we wanted to walk to. It was very hot when we were there, and the host was kind enough to let us know how to keep the place a little more cool with keeping the curtains closed. There was plenty of space for our family of 5. It was very quiet, even with all the people who are out and about so late at night in Savannah. When we come back down to Savannah if this place is availabe again we will book again! Thank you so much!
+Show more
+Ana Maria
+Washington, District of Columbia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed about a week
+The place was very nice and comfortable. We stayed for a week so we used the kitchen and the washing machine. The kitchen was very well stocked and there was laundry detergent for us to use.
+The air conditioning worked perfectly. The apartment has lots of extras like a baby gate, extra fans (we didn’t use them bc the ac was great) The wifi was perfect. I would definitely return.
+Show more
+Valerie
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Such a beautiful home in the historic district of Savannah! We enjoyed our stay, and would definitely stay there again!
+Irlanda
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+Wonderful stay! Close to everything and walkable 🙂 my family and I had so much fun and felt right at home
+Selina
+Bartlesville, Oklahoma
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Wonderful place to stay and location was perfect! Across the street from Kroger’s, walking distance to Forsyth park and a very short drive River street for shopping and eating. Being a little removed from the busy downtown/historic district offered a peaceful, private retreat after a long day of walking and sightseeing. Doug was an amazing host! Highly recommend!
+Show more
+Show all 98 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Located two blocks from Forsyth Park and the free trolley that loops up to River Street. A Kroger grocery store is on the next block with a Starbucks inside. A number of great restaurants and lunch places a few blocks away. Also, don't forget to check out the Forsyth Farmers Market on Saturday mornings!
+Show more
+Meet your host
+Douglas
+Superhost
+98 reviews
+98
+Reviews
+4.93 out of 5 average rating
+4.93
+Rating
+3 years of hosting
+3
+Years hosting
+Born in the 60s
+Where I went to school: Georgia Institute of Technology
+I've had the good fortune to have travelled to all 50 states and have lived in 10 of them, but Savannah's charm has always brought me back. This will be the second time I've moved to Savannah, for a total of 5 years and counting. I just love it here!
+Douglas is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide detector not required
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

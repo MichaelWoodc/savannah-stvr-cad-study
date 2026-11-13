@@ -1,0 +1,523 @@
+URL: https://www.airbnb.com/rooms/1647897942405450151
+Title: Wayne Mansion Main House & Garden near Forsyth
+Latitude: 32.0679
+Longitude: -81.0934
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 5
+Occupancy (maximum guests): 12
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 7
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 king bed
+
+Living room
+2 sofa beds
+
+=== FULL DESCRIPTION ===
+The Main House and Garden Level at Wayne Mansion Estate offer two beautifully appointed private residences within a grand 1871 historic structure, located just one block from Forsyth Park. Guests enjoy exclusive access to the Main House and the Garden‑Level Apartment below it—two distinct living spaces that are connected by an indoor staircase, but also have their own private exterior entrances.
+
+The space
+With original architectural details, generous gathering areas, and a fully enclosed furnished courtyard, the property is ideal for families and groups seeking an elevated Savannah experience.
+
+Two Private Residences
+Your group will have exclusive use of both the two-story Main House and the Garden‑Level Apartment below it, offering a total of five bedrooms, four full bathrooms, two half baths, two living rooms and two fully equipped kitchens.
+
+Main House
+3 Bedrooms (All King Beds)  3 Full Baths + 1 Half Bath
+This two‑story historic residence showcases original wood floors, a grand staircase, ornate ceiling medallions, intricate crown moldings, and marble fireplaces. The layout is designed for both comfort and elegance, featuring:
+• 	Formal living room
+• 	Formal dining room with seating for six
+• 	Cozy TV room
+• 	Furnished covered porch
+• 	Fully equipped kitchen and pantry with six‑burner range, two beverage chillers, and island seating for four
+
+Main House Bedrooms
+• 	Bedroom 1 — King bed, TV, walk‑in closet, attached dressing room with vanity and oversized mirror, en‑suite bathroom with double vanity, claw‑foot tub, and oversized shower
+• 	Bedroom 2 — King bed, TV, west‑facing windows for beautiful afternoon light
+• 	Bedroom 3 — King bed, TV, en‑suite bathroom
+
+Garden‑Level Apartment
+2 Bedrooms (Both King Beds)  1 Full Bath + 1 Half Bath
+Located directly beneath the Main House, this private ground‑floor apartment has its own entrance and furnished porch, offering a comfortable and convenient retreat with:
+• 	Fully equipped kitchen
+• 	One full‑size sleeper sofa in a room with a door
+• 	Direct access to the courtyard
+
+Garden‑Level Bedrooms
+• 	Bedroom 4 — King bed, TV, direct courtyard access, en‑suite dual‑entry bathroom shared with Bedroom 5
+• 	Bedroom 5 — King bed, TV, en‑suite dual‑entry bathroom shared with Bedroom 4
+
+Outdoor Features
+• 	Large furnished and fully enclosed courtyard ideal for gathering, relaxing, or enjoying morning coffee
+• 	Side yard offering additional green space and privacy
+• 	Two private off‑street parking spaces, a rare amenity in this neighborhood
+
+Event Use
+
+No events are permitted when booking through this listing.  Guests wishing to host an event at the property must book through the Wayne Mansion Estate listing, which also includes the two carriage houses at the back of the property as well as sign an Event Agreement and pay an Event Fee and Refundable Security deposit.
+
+SVR-02397
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Family
+Pack ’n play/Travel crib
+Children’s dinnerware
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Backyard
+An open space on the property usually covered in grass
+BBQ grill
+Parking and facilities
+Free street parking
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Wayne Mansion Main House & Garden near Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+12 guests · 5 bedrooms · 6 beds · 5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+9 reviews
+9
+Reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+Steps from Forsyth Park
+About a 5-min walk to Forsyth Park, Calhoun Square, and Savannah's historic squares
+Private courtyard and side yard
+A fully enclosed courtyard with outdoor furniture, plus a side yard for extra green space
+Rated 5 stars across all reviews
+Guests highlight the spacious layout, beautiful historic details, and a well-stocked kitchen
+The Main House and Garden Level at Wayne Mansion Estate offer two beautifully appointed private residences within a grand 1871 historic structure, located just one block from Forsyth Park. Guests enjoy exclusive access to the Main House and the Garden‑Level Apartment below it—two distinct living spaces that are connected by an indoor staircase, but also have their own private exterior entrances.
+
+The space
+With original architectural details, generous gathering areas, and a fully enclosed furnished courtyard, the property is ideal for families and groups seeking an elevated Savannah experience.
+
+Two Private Residences
+Your group will have exclusive use of both the two-story Main House and the Garden‑Level Apartment below it, offering a total of five bedrooms, four full bathrooms, two half baths, two living rooms and two fully equipped kitchens.
+
+Main House
+3 Bedrooms (All King Beds)  3 Full Baths + 1 Half Bath
+This two‑story historic residence showcases original wood floors, a grand staircase, ornate ceiling medallions, intricate crown moldings, and marble fireplaces. The layout is designed for both comfort and elegance, featuring:
+• 	Formal living room
+• 	Formal dining room with seating for six
+• 	Cozy TV room
+• 	Furnished covered porch
+• 	Fully equipped kitchen and pantry with six‑burner range, two beverage chillers, and island seating for four
+
+Main House Bedrooms
+• 	Bedroom 1 — King bed, TV, walk‑in closet, attached dressing room with vanity and oversized mirror, en‑suite bathroom with double vanity, claw‑foot tub, and oversized shower
+• 	Bedroom 2 — King bed, TV, west‑facing windows for beautiful afternoon light
+• 	Bedroom 3 — King bed, TV, en‑suite bathroom
+
+Garden‑Level Apartment
+2 Bedrooms (Both King Beds)  1 Full Bath + 1 Half Bath
+Located directly beneath the Main House, this private ground‑floor apartment has its own entrance and furnished porch, offering a comfortable and convenient retreat with:
+• 	Fully equipped kitchen
+• 	One full‑size sleeper sofa in a room with a door
+• 	Direct access to the courtyard
+
+Garden‑Level Bedrooms
+• 	Bedroom 4 — King bed, TV, direct courtyard access, en‑suite dual‑entry bathroom shared with Bedroom 5
+• 	Bedroom 5 — King bed, TV, en‑suite dual‑entry bathroom shared with Bedroom 4
+
+Outdoor Features
+• 	Large furnished and fully enclosed courtyard ideal for gathering, relaxing, or enjoying morning coffee
+• 	Side yard offering additional green space and privacy
+• 	Two private off‑street parking spaces, a rare amenity in this neighborhood
+
+Event Use
+
+No events are permitted when booking through this listing.  Guests wishing to host an event at the property must book through the Wayne Mansion Estate listing, which also includes the two carriage houses at the back of the property as well as sign an Event Agreement and pay an Event Fee and Refundable Security deposit.
+
+SVR-02397
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 7 | Count unverified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 king bed
+
+Living room
+2 sofa beds
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Backyard
+Pack ’n play/Travel crib
+Show all 46 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 9 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Indoor spaces
+4
+Location
+4
+Outdoor spaces
+2
+Family
+2
+Kitchen
+2
+Hospitality
+3
+Wanona
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Amazing and gorgeous historic home. Extremely spacious and attention to detail. The kitchen is well-stocked, and management is very responsive. The home is very comfortable and inviting. Great location. I highly recommend for families and large parties. Beautiful interior and courtyard.
+Show more
+Dilma
+Juliette, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We had a large crowd, and the house was very accommodating for all of us. It looked like the pictures so we were well pleased. And the location was great.
+Renita
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+This place was amazing, quite Palatial. It really made you feel like you were part of the upper echelon, lol. Seriously though, it was beautiful and felt like stepping back in time in the best of ways. We felt at home, safe and provided for with so many amenities. The home was clean,  spacious. We had 9 people in our group and everyone found their little corner for privacy through out our stay. I didnt even venture much out of the home because  it was just amazing to be there. I would definitely reserve this home again.
+Show more
+Jessica
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+So great! Would stay there again!
+Margaret
+Marietta, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+The house is spacious and  beautiful  and the park within walking distance. My family enjoyed exploring the city and kitchen was perfect for family to enjoy dinner together. Will stay here again.
+Show more
+Lex
+Dallas, Texas
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Very responsive host, beautiful historic home right in the heart of everything!
+Show all 9 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Chaz
+Superhost
+3,100 reviews
+3100
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+12 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

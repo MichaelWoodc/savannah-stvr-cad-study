@@ -1,0 +1,626 @@
+URL: https://www.airbnb.com/rooms/12601985
+Title: Fountain View Cottage, Beautiful Savannah Home
+Latitude: 32.065
+Longitude: -81.1
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+One of our great Savannah vacation rentals is Fountain View Cottage. This property has two bedrooms, one bathroom and a gorgeous courtyard complete with a water feature. The location is as convenient as they come with the historic district and Forsyth Park right nearby. There are also plenty of nice cafes and restaurants such as 700 Drayton and Local 11 Ten.
+
+The space
+Come inside Fountain View Cottage and enjoy a living room with plenty of seating and a well-stocked kitchen with everything you need to cook your own meals, plus conveniences like a microwave, tea kettle and coffee maker. Flat-screen TVs are in every room so you can keep up on your shows or have a movie night. Plenty of windows bring in the Savannah sunlight. The bedrooms are cozy with plush bedding and quaint decorations. Relax in the evening by stepping outside on the porch and enjoying the view. Our vacation homes are stocked full of all the amenities you need to have a relaxing time on your business or personal vacation. We offer all bedding and bath items as well as all the cookware and appliances you need to spend time in or out. 
+
+
+
+Finding things to do near your vacation homes Savannah is one of the easiest aspect of Georgia vacations. Simply open your front door! Just walking down the streets and enjoying the antebellum architecture and Spanish moss-draped trees will give you a feeling of the mystical atmosphere of Savannah. Head into the historic downtown and get ready to explore museums, famous landmarks, old mansions and much more.
+
+
+
+Make your way to Monterey Square and The Mercer House, which was built in 1860 and a big part of the well-known film and book "Midnight in the Garden of Good and Evil." Part of the movie was filmed at the house and the Mercer-Williams House Museum is available to tour. River Street is another famous part of historic Savannah and it used to be the center of trade back in the late 1800s. Old cotton warehouses are now a vibrant community of restaurants, shops and bars. There are plenty of opportunities to shop in Savannah, whether on River Street with its boutiques and galleries, or on Broughton Street with a variety of brand name retailers and local favorites. 
+
+
+
+A visit to Savannah would hardly be complete without stopping at Forsyth Park. Not only will you see the famous iron fountain landmark found in "Midnight in the Garden of Good and Evil," but it is also a great place to walk, take children or spend a quiet afternoon with a picnic. Savannah is also the place for ghost hunters with plenty of old cemeteries and ghost tours to enjoy. Visit the Colonial Cemetery in the heart of downtown and explore six acres of old memorials. There's also a number of events and celebrations that go on in Savannah every year. Make sure to ask what events might be taking place during your stay. The following is just a sample of the possibilities:
+
+
+
+• Annual Martin Luther King, Jr. Day Celebration in January
+
+• St. Patrick's Day Celebration in March
+
+• Tybee Island Beach Bum Parade in May
+
+• Fourth of July on the Waterfront in July
+
+• Savannah Jazz Festival in September
+
+• Holiday Tour of Homes in December
+
+• Rock 'N' Roll Marathon
+
+Guest access
+2 Bedrooms
+
+    1 Bedroom with 1 King bed
+
+    1 Bedroom with 1 Queen bed
+
+    1 Bath
+
+    Combo Tub Shower
+
+    Large Living Room with Comfortable Seating and Large Flat Screen TV
+
+    Full Kitchen
+
+    Wifi
+
+    Washer & Dryer
+
+    Central Heat & Air
+
+    On-street Parking
+
+    Outdoor patio area with fountain
+
+    Standard Drip Coffee Pot
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+SVR-02381
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Pool
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Fountain View Cottage, Beautiful Savannah Home
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.82 out of 5 stars.
+4.82
+116 reviews
+116
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Forsyth West, beside the park
+Steps from Forsyth Park and its famous fountain, with the Victorian Historic District a short walk away
+Courtyard cottage with a fountain
+A private courtyard with a water fountain and outdoor seating, tucked back from the street
+Highly rated for location and comfort
+Guests highlight the location, comfort, and how easy it is to walk to Forsyth Park and local dining
+One of our great Savannah vacation rentals is Fountain View Cottage. This property has two bedrooms, one bathroom and a gorgeous courtyard complete with a water feature. The location is as convenient as they come with the historic district and Forsyth Park right nearby. There are also plenty of nice cafes and restaurants such as 700 Drayton and Local 11 Ten.
+
+The space
+Come inside Fountain View Cottage and enjoy a living room with plenty of seating and a well-stocked kitchen with everything you need to cook your own meals, plus conveniences like a microwave, tea kettle and coffee maker. Flat-screen TVs are in every room so you can keep up on your shows or have a movie night. Plenty of windows bring in the Savannah sunlight. The bedrooms are cozy with plush bedding and quaint decorations. Relax in the evening by stepping outside on the porch and enjoying the view. Our vacation homes are stocked full of all the amenities you need to have a relaxing time on your business or personal vacation. We offer all bedding and bath items as well as all the cookware and appliances you need to spend time in or out. 
+
+
+
+Finding things to do near your vacation homes Savannah is one of the easiest aspect of Georgia vacations. Simply open your front door! Just walking down the streets and enjoying the antebellum architecture and Spanish moss-draped trees will give you a feeling of the mystical atmosphere of Savannah. Head into the historic downtown and get ready to explore museums, famous landmarks, old mansions and much more.
+
+
+
+Make your way to Monterey Square and The Mercer House, which was built in 1860 and a big part of the well-known film and book "Midnight in the Garden of Good and Evil." Part of the movie was filmed at the house and the Mercer-Williams House Museum is available to tour. River Street is another famous part of historic Savannah and it used to be the center of trade back in the late 1800s. Old cotton warehouses are now a vibrant community of restaurants, shops and bars. There are plenty of opportunities to shop in Savannah, whether on River Street with its boutiques and galleries, or on Broughton Street with a variety of brand name retailers and local favorites. 
+
+
+
+A visit to Savannah would hardly be complete without stopping at Forsyth Park. Not only will you see the famous iron fountain landmark found in "Midnight in the Garden of Good and Evil," but it is also a great place to walk, take children or spend a quiet afternoon with a picnic. Savannah is also the place for ghost hunters with plenty of old cemeteries and ghost tours to enjoy. Visit the Colonial Cemetery in the heart of downtown and explore six acres of old memorials. There's also a number of events and celebrations that go on in Savannah every year. Make sure to ask what events might be taking place during your stay. The following is just a sample of the possibilities:
+
+
+
+• Annual Martin Luther King, Jr. Day Celebration in January
+
+• St. Patrick's Day Celebration in March
+
+• Tybee Island Beach Bum Parade in May
+
+• Fourth of July on the Waterfront in July
+
+• Savannah Jazz Festival in September
+
+• Holiday Tour of Homes in December
+
+• Rock 'N' Roll Marathon
+
+Guest access
+2 Bedrooms
+
+    1 Bedroom with 1 King bed
+
+    1 Bedroom with 1 Queen bed
+
+    1 Bath
+
+    Combo Tub Shower
+
+    Large Living Room with Comfortable Seating and Large Flat Screen TV
+
+    Full Kitchen
+
+    Wifi
+
+    Washer & Dryer
+
+    Central Heat & Air
+
+    On-street Parking
+
+    Outdoor patio area with fountain
+
+    Standard Drip Coffee Pot
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+SVR-02381
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+Pool
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.82 out of 5 from 116 reviews.
+4.82
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 85% of reviews
+5
+4 stars, 13% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 1% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+34
+Location
+65
+Comfort
+35
+Cleanliness
+37
+Sleep quality
+17
+Pool
+8
+Quiet
+14
+Parking
+14
+Beach
+2
+Nearby
+18
+Caroline
+United States
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+We had a great stay at this property. It was roomy, clean and updated. While it is a bit of a walk to the river, it is doable. Easy walk to Forsyth park and all of the beautiful squares. Plenty of linens. Kitchen was well equipped with the exception of things like sugar for coffee but they did have plenty of coffee filters. They provided  very small bar of soap that was to be used for both the bathroom sink and the shower. If might be nice to provide one for each. We ended up taking the small bar they provided for the kitchen and put it in the bathroom for use of the sink. After parking was easy but we were able to park in the odd street spot for the other unit because nobody was staying in it for the weekend (which was nice because it rained for most of the weekend.) We would definitely stay here again!
+Show more
+Christina
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Stayed a few nights
+Great location
+Quite street with lovely fountain in courtyard. Southern charm with modern amenities.  Plenty of room and comfortable for 3 guests.  Bed was soft and I slept all night without aches and pains.  Highly recommend and will visit again.
+Show more
+Ashley
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Perfect girls weekend getaway to Savannah! Place was exactly what we needed, I would recommend to anyone!!
+Show more
+Kristin
+Reedville, Virginia
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Stayed a few nights
+Terrific location. Easy to walk to Forsyth and restaurants. Quiet location and very well appointed for a smaller space. We appreciated the holiday decorations as well. Southern Belle was incredibly responsive to everything we needed!
+Show more
+Claire
+The Hills, Texas
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Had a perfect stay! What a beautiful place!!!
+Ursula
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Stayed a few nights
+Wow!!   Loved this place...every single detail. Best stay ever at an AirBnB!  Just a beautiful  property that is like home and convenient to everthing, too.
+Show all 116 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Forsyth West
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,507 @@
+URL: https://www.airbnb.com/rooms/1153588781140865088
+Title: The Shain Manor Parlor Suite: elegance for 4!
+Latitude: 32.0762
+Longitude: -81.0871
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Luxury Living Savannah
+Host ID: 51616592
+Host profile ID: 1465808498594972878
+Host URL: https://www.airbnb.com/users/profile/1465808498594972878
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Shain Manor Parlor Suite is the top 2 floors of a 3-story historic townhouse. 
+This luxurious & historic 1897 home has 2 bedrooms & lush outdoor oasis that sleeps 4. Perfect for SCAD parents, traveling professionals & history buffs.
+
+The space
+Built in 1897, this Victorian Era home has been completely redone into a spectacular home away from home. When entering on the ground floor, guests will be enchanted by the period gas lanterns and lush landscaping that flank the front of the home.
+
+Upstairs, in the Parlor/2nd floor, you will be welcomed by an abundance of natural light from all windows surrounding the home. The historic hardwood floors, original molding and architectural details have been preserved beautifully. The décor has been artfully curated by the owner, accented by natural aesthetics. Sisal rugs, an abundance of plants, antique and modern touches add elegance and sophistication.
+
+The chef’s kitchen offers a full array of Thermador appliances which include a professional 36” gas stove with griddle & oven, 30” refrigerator/freezer, Scotsman gourmet clear ice machine, wine fridge, beverage fridge, microwave drawer, a countertop Breville toaster oven & toaster, and a Cuisinart pod-coffee maker. The sink has a reverse-osmosis room temperature and boiling water filtration system. The kitchen is completely equipped for all your dining needs.
+
+Off the kitchen is a large outdoor terrace, equipped with a 32” professional Turbo gas grill and a gas fire pit. There is plenty of comfy seating to relax and enjoy the continual Southern breeze, neighborhood sounds of church bells, horses clomping, ships’ horns and views of fireworks from the bay during the holiday seasons!
+
+The elegant dining room seats six comfortably and is connected to a spacious and comfortable living room with books, games and a Roku TV. There is also a powder bath next to the kitchen, designed with intricate Carrara marble tile.
+
+Up on the 3rd Floor, in the parlor landing there is a private game table, for those interested in a game of chess, checkers, or backgammon. There is also a sofa chair you can use to read, lounge or work on your laptop.
+
+The primary suite features a Ralph Lauren inspired king size bed with a new mattress, luxury cotton linens, chaise and a large desk. The en-suite bathroom has a marble vanity with two sinks and a large walk-in shower. The spacious primary closet includes a full-size washer/dryer.
+The 2nd bedroom faces the front of the home with 2 full size beds, also with new mattresses and luxury cotton linens. There is a chair and ottoman for relaxing under the bespoke artwork made with local flora. This room has a closet and dresser for plenty of storage as well as a small desk for private moments to write or work. 
+
+Located between Columbia & Greene Squares, Shain Manor is on the corner of York & Price Street. We are about 3 blocks from Colonial Park Cemetery, and an easy 5-minute walk to River Street. The retail mecca of Broughton Street is only 4 blocks; we are centrally located and walkable to all the hot spots!
+
+NOTES: 
+OCCUPANCY:  Maximum of 4 people at all times, including infants & children.
+
+MINIMUM age to reserve is 25 years old.
+
+NO PETS. NO SMOKING/VAPING.
+
+PARKING: Savannah has metered street parking.  Download the app "ParkSavannah" to pay meters from your phone OR Contact the City of Savannah Parking Services daily parking passes.
+There is limited, but free parking available on Price Street.
+
+NOISE: This property is NOT PARTY friendly. We do not allow loud noise, loud music, public drunkenness, or parties of any sort. 
+
+NO BACHELORETTE/BACHELOR GROUPS! 
+
+The City of Savannah Noise Ordinance requires strict observance of QUIET TIME between 10 pm and 7 am. The City of Savannah Police and the neighborhood strictly enforce this. 
+
+SVR-02897
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Garden view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Clothing storage: walk-in closet, closet, and dresser
+Entertainment
+TV
+Books and reading material
+Family
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+The entrance doors have Ring Cameras
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Fire pit
+Outdoor furniture
+BBQ grill: gas
+Parking and facilities
+Paid street parking off premises
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Shain Manor Parlor Suite: elegance for 4!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 2.5 baths
+Rated 4.8 out of 5 stars.
+4.8
+·
+15 reviews
+Hosted by Luxury Living Savannah
+Superhost · 11 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Greene and Columbia Squares, with the Owens-Thomas House about a 5-min walk away
+Chef's kitchen with outdoor terrace
+Thermador gas range, ice machine, wine fridge, and a terrace with a gas grill and fire pit
+Spotless and stunning in person
+Guests highlight how clean and beautifully decorated the home is, with many saying it exceeds photos
+Shain Manor Parlor Suite is the top 2 floors of a 3-story historic townhouse. 
+This luxurious & historic 1897 home has 2 bedrooms & lush outdoor oasis that sleeps 4. Perfect for SCAD parents, traveling professionals & history buffs.
+
+The space
+Built in 1897, this Victorian Era home has been completely redone into a spectacular home away from home. When entering on the ground floor, guests will be enchanted by the period gas lanterns and lush landscaping that flank the front of the home.
+
+Upstairs, in the Parlor/2nd floor, you will be welcomed by an abundance of natural light from all windows surrounding the home. The historic hardwood floors, original molding and architectural details have been preserved beautifully. The décor has been artfully curated by the owner, accented by natural aesthetics. Sisal rugs, an abundance of plants, antique and modern touches add elegance and sophistication.
+
+The chef’s kitchen offers a full array of Thermador appliances which include a professional 36” gas stove with griddle & oven, 30” refrigerator/freezer, Scotsman gourmet clear ice machine, wine fridge, beverage fridge, microwave drawer, a countertop Breville toaster oven & toaster, and a Cuisinart pod-coffee maker. The sink has a reverse-osmosis room temperature and boiling water filtration system. The kitchen is completely equipped for all your dining needs.
+
+Off the kitchen is a large outdoor terrace, equipped with a 32” professional Turbo gas grill and a gas fire pit. There is plenty of comfy seating to relax and enjoy the continual Southern breeze, neighborhood sounds of church bells, horses clomping, ships’ horns and views of fireworks from the bay during the holiday seasons!
+
+The elegant dining room seats six comfortably and is connected to a spacious and comfortable living room with books, games and a Roku TV. There is also a powder bath next to the kitchen, designed with intricate Carrara marble tile.
+
+Up on the 3rd Floor, in the parlor landing there is a private game table, for those interested in a game of chess, checkers, or backgammon. There is also a sofa chair you can use to read, lounge or work on your laptop.
+
+The primary suite features a Ralph Lauren inspired king size bed with a new mattress, luxury cotton linens, chaise and a large desk. The en-suite bathroom has a marble vanity with two sinks and a large walk-in shower. The spacious primary closet includes a full-size washer/dryer.
+The 2nd bedroom faces the front of the home with 2 full size beds, also with new mattresses and luxury cotton linens. There is a chair and ottoman for relaxing under the bespoke artwork made with local flora. This room has a closet and dresser for plenty of storage as well as a small desk for private moments to write or work. 
+
+Located between Columbia & Greene Squares, Shain Manor is on the corner of York & Price Street. We are about 3 blocks from Colonial Park Cemetery, and an easy 5-minute walk to River Street. The retail mecca of Broughton Street is only 4 blocks; we are centrally located and walkable to all the hot spots!
+
+NOTES: 
+OCCUPANCY:  Maximum of 4 people at all times, including infants & children.
+
+MINIMUM age to reserve is 25 years old.
+
+NO PETS. NO SMOKING/VAPING.
+
+PARKING: Savannah has metered street parking.  Download the app "ParkSavannah" to pay meters from your phone OR Contact the City of Savannah Parking Services daily parking passes.
+There is limited, but free parking available on Price Street.
+
+NOISE: This property is NOT PARTY friendly. We do not allow loud noise, loud music, public drunkenness, or parties of any sort. 
+
+NO BACHELORETTE/BACHELOR GROUPS! 
+
+The City of Savannah Noise Ordinance requires strict observance of QUIET TIME between 10 pm and 7 am. The City of Savannah Police and the neighborhood strictly enforce this. 
+
+SVR-02897
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Garden view
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 56 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.8 out of 5 stars from 15 reviews
+4.8 · 15 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 87% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 7% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.7 out of 5 stars for check-in
+Check-in
+4.7
+Rated 4.7 out of 5 stars for communication
+Communication
+4.7
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Decor
+7
+Walkability
+6
+Comfort
+7
+Sleep quality
+6
+Location
+7
+Kitchen
+5
+Indoor spaces
+5
+Cleanliness
+5
+Hospitality
+4
+Check-in
+2
+Nicole
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Four ladies stayed for a girls trip and this home exceeded our expectations. So luxurious and comfortable, can’t wait to stay here again! xo
+Kendra
+Louisville, Kentucky
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+After moving my son to college for his freshman year, I knew I needed a reprieve and a place to reset and recharge. This was it! Upon making the reservation, the host began communication. Every question I had was answered in a timely manner. The photos really didn’t do this place justice. I was able to sit on the balcony enjoy Leopold’s and the beautiful evening sky. Beautiful kitchen and living space. I believe my mom and I have found our favorite respite location. We can’t wait to go back.
+Show more
+Kyle & Karen
+Lebanon, Pennsylvania
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+This is a favorite place of ours, and we can’t wait to return. I couldn’t not have asked for a single aspect of our stay here to have been better (and we can be rather particular!). It was an incredible respite in the midst of Savannah. Wonderful location. Extremely clean. I want to live here, and for a few days, I felt like I did!
+Show more
+Raegan
+Midland, Texas
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+This house is wonderful! Seamless checkin, so easy, perfect stay.  I'm very aware of how clean a property is and this one was spotless! Perfectly clean, beautiful, thoughtfully designed, just all around stunning home. It was such a great layout with the coziest bedrooms and comfortable beds. I never wanted for anything. The only time I contacted the host was to tell her we were loving the house so much. The location is convenient to the best streets - a 10 minute walk to the excellent restaurant Common, cute shops, and a 5 minute walk to Leopold's ice cream. We will book again if in the area! Highly recommend!
+Show more
+Marie-Laure
+Stamford, Connecticut
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+Even better than the pictures!
+Very comfortable bed and pillows, really nice furniture, beautiful decor and finishes.
+Felt more like a home than a rental apartment.
+The entire place was spotless with everything you would need in the kitchen to cook, great reading materials and even some fun games to play.
+Host was super accommodating when our flight was canceled due to weather and helped us extend our stay.
+We had a great time and will be back!
+Very good location, walkable to everything.
+Show more
+Merari
+Summerville, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+This place is amazing, the owners restored this place with so much love and detail, it feels like walking into magazine photos. Everything was perfect! Great location, decor, comfortable beds, spacious kitchen with everything you need! My favorite was the old and new books, they are everywhere, antique and new furniture but very modern upgrades throughout just my kind of place. Can't wait to comeback ❤️
+Show more
+Show all 15 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Luxury Living Savannah
+Superhost
+2,239 reviews
+2239
+Reviews
+4.84 out of 5 average rating
+4.84
+Rating
+11 years of hosting
+11
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Luxury Living Properties is not just a premier luxury vacation rental company. We are passionate about saving Savannah's resplendent historic homes from ruin. We meticulously restore them back to the shining jewels they were in the 19th century. We have curated special homes for the enjoyment of vacation and business travelers of all generations. Our goal is simple - to create a unique, historic atmosphere for our guests to experience the "True Savannah" and "Live like a local". On nearby Tybee Island we are focused on providing ocean views & fun amenities with a variety of beach houses, town homes and condos, all with amazing views of the Atlantic Ocean. Our stylish and comfortable properties provide a perfect home away from home for families, romantic getaways or solo travelers.
+Luxury Living Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Townhome vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

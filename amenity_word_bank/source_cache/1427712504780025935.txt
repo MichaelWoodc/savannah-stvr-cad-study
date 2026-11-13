@@ -1,0 +1,475 @@
+URL: https://www.airbnb.com/rooms/1427712504780025935
+Title: The Koi Escape, Victorian | Upper Porch | Parking
+Latitude: 32.0658
+Longitude: -81.0998
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to the Koi Escape. a serene, stylish 3-bedroom, 2-bath retreat perched on the second floor of a beautifully restored historic home. Located just 2 blocks from Forsyth Park, this upper-level unit offers peaceful views, a private upper porch, and modern amenities - all within walking distance of Savannah’s top restaurants, nightlife, and landmarks! Relax, recharge, and soak in the charm of the Historic District from your elevated Savannah sanctuary. SVR-02905
+
+The space
+Private second-floor unit with no shared interior space
+Three comfortable bedrooms with premium linens and blackout curtains
+2 updated bathrooms with quality finishes and fresh towels
+Spacious, shaded second-story porch overlooking garden and koi pond
+Full kitchen with stainless steel appliances, Keurig & drip coffee, and all essentials
+Bright open-concept living and dining space with smart TV and fast Wi-Fi
+Central A/C and heat for year-round comfort
+In-unit washer/dryer—perfect for longer stays
+Professionally cleaned and sanitized before each guest
+
+Bedroom breakdown:
+Bedroom 1: King bed + ensuite bathroom
+Bedroom 2: Queen bed
+Bedroom 3: Queen bed
+Living Room: Pullout Couch (Queen)
+
+Guest access
+Guests have full private access to the home, including the second-story porch, koi pond, and garden area. The home includes free off-street parking in the rear driveway (up to 2 vehicles). Enjoy self-check-in with a smart lock for added flexibility and security. There is a camera on the porch for security purposes only.
+
+Other things to note
+This is the lower unit of a duplex, so please be courteous to your neighbors and keep noise levels to a minimum after 10pm and before 8am, especially when outside :)
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Family
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+There are a few exterior cameras around the outside purely for safety reasons.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Koi Escape, Victorian | Upper Porch | Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+6 guests · 3 bedrooms · 4 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+39 reviews
+39
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, with cafés, restaurants, and historic squares nearby
+Private porch with garden views
+A shaded second-story porch overlooking a garden and koi pond, with seating for a group
+Brandon and Chase go above and beyond
+Guests highlight how responsive and communicative Brandon and Chase are throughout each stay
+Welcome to the Koi Escape. a serene, stylish 3-bedroom, 2-bath retreat perched on the second floor of a beautifully restored historic home. Located just 2 blocks from Forsyth Park, this upper-level unit offers peaceful views, a private upper porch, and modern amenities - all within walking distance of Savannah’s top restaurants, nightlife, and landmarks! Relax, recharge, and soak in the charm of the Historic District from your elevated Savannah sanctuary. SVR-02905
+
+The space
+Private second-floor unit with no shared interior space
+Three comfortable bedrooms with premium linens and blackout curtains
+2 updated bathrooms with quality finishes and fresh towels
+Spacious, shaded second-story porch overlooking garden and koi pond
+Full kitchen with stainless steel appliances, Keurig & drip coffee, and all essentials
+Bright open-concept living and dining space with smart TV and fast Wi-Fi
+Central A/C and heat for year-round comfort
+In-unit washer/dryer—perfect for longer stays
+Professionally cleaned and sanitized before each guest
+
+Bedroom breakdown:
+Bedroom 1: King bed + ensuite bathroom
+Bedroom 2: Queen bed
+Bedroom 3: Queen bed
+Living Room: Pullout Couch (Queen)
+
+Guest access
+Guests have full private access to the home, including the second-story porch, koi pond, and garden area. The home includes free off-street parking in the rear driveway (up to 2 vehicles). Enjoy self-check-in with a smart lock for added flexibility and security. There is a camera on the porch for security purposes only.
+
+Other things to note
+This is the lower unit of a duplex, so please be courteous to your neighbors and keep noise levels to a minimum after 10pm and before 8am, especially when outside :)
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 39 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+14
+Beach
+3
+Outdoor spaces
+9
+Hospitality
+16
+Location
+14
+Nearby
+7
+Cleanliness
+10
+Parks
+2
+Kitchen
+7
+Indoor spaces
+7
+Adam
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+The term “host” is used for AirBnb but I truly felt like a guest and all the small things were there for us.  The house is amazing and feels like Savannah.  I’ll be back next year and booking with them for sure! What a great place!
+Show more
+Taylor
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We had a wonderful stay at the Koi Pond! Brandon and Chase were excellent at communicating and recommended a great restaurant. We enjoyed walking around the area with many good spots near by.
+Show more
+Kaisa
+Minneapolis, Minnesota
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+This was a spectacular place to stay in Savannah! It was close to many restaurants and 5 minutes from the children’s museum and train museum (which is perfect if you have kids). Everything is clean and you have a porch all to yourself with plenty of seating. The place was nice and cool when it was over 100 degrees outside! There are beach loungers (you sit on the ground and have a chair back) and an umbrella. FYI there are no beach towels or a cooler though if you plan on going to Tybee Island or Hilton Head. We loved watching the fish in the courtyard too which was a bonus feature! The hosts are extremely responsive and easy to work with. Will definitely be back!
+Show more
+Jason
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+The house was amazing with great A/C. The koi pond was so cute!!!! And we enjoyed spending time on the deck.
+Stefanie
+New Milford, Connecticut
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Great adorable old home. The fish were so unique and the energy of the house was fresh and nice, which is important to me. Cute location with the best coffee shop 3 min down the road!
+Show more
+James
+Severna Park, Maryland
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+We had a great stay at Brandon & Chase’s place for Scad graduation weekend.  Their place was very clean and just as described.  Great location and very safe.  Would definitely stay there again.
+Show more
+Show all 39 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+The Koi Retreat is ideally situated just two blocks west of Forsyth Park on Park Ave W. Enjoy easy walks to fantastic dining like Collins Quarter at Forsyth. Grab a coffee right in the neighborhood at the Sentient Bean. Pick up some tremendous BBQ to go at Saqib’s BBQ Emporium, or grab a drink at The Black Rabbit—all just minutes from the apartment. Ready to explore outside of just the neighborhood? Spice up your nightlife by heading to Molly MacPherson’s Scottish pub for that perfect pint, or check out Congress Street Social Club, where you can enjoy live music, sports, and billiards. Take in the true essence of Savannah by stopping by the City Market, an 18th-century open-air market that has existed in Savannah since the 1700s. Enjoy four blocks of restaurants, shops, and more! Once there, head just a few blocks to enjoy the famous Savannah Riverwalk. Experience the incredible history of Savannah by stopping by the Telfair Academy, an elegant, long-standing art museum, The American Prohibition Museum, Ships of the Sea Maritime Museum, and many more, all just a short walk from the apartment. Want to take it all in at once while riding or biking? We are just minutes from Old Town Trolley Tours of Savannah and Savannah Bike Tours. Getting around is easy with walkable streets, bike rentals, and Uber service. Jump on Savannah’s public transit system with the Barnard and Park stop just a 1-minute walk from the loft. Try out the Savannah Belles Ferries to see the beautiful skyline of Savannah from the riverfront, with a stop right at the riverfront.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,346 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Nearby lake, river, other body of water
+Carbon monoxide alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,9 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr
+owner,advertised_guests,combined,All calls,mention_bar,Bar mention,amenities,61,303,17,44,67,236,0.7929584707133338,0.5048510863058997,1.2454823874441192,0.3139118007531553,0.6479263276629166
+owner,advertised_guests,combined,All calls,mention_wine,Wine / wine accessories,amenities,61,303,46,15,223,80,0.9415625533284584,0.5687022110960107,1.5588827061562749,0.814921252213071,0.9173195268290364
+owner,advertised_guests,combined,All calls,mention_outdoor,Outdoor space,amenities,61,303,46,15,238,65,1.2238556377718288,0.7477684662625522,2.003056680889754,0.4215997429123164,0.7115241597521004
+owner,advertised_guests,combined,All calls,mention_yard,Yard / garden / courtyard,amenities,61,303,42,19,204,99,0.928932679204549,0.6395157383425647,1.3493271091819634,0.6987314859534957,0.8771742208738488
+owner,advertised_guests,combined,All calls,mention_events,Events / gatherings,amenities,61,303,14,47,86,217,1.396216793540464,0.806411085284282,2.4174039396757427,0.2333613781346935,0.5508643235968257
+owner,advertised_guests,combined,All calls,mention_patio,Patio / deck / balcony / porch,amenities,61,303,43,18,242,61,1.6018933427206323,1.132489067831258,2.265860531763673,0.0077393677483931,0.1029458757643403
+owner,advertised_guests,combined,All calls,mention_grill,Grill / BBQ,amenities,61,303,19,42,95,208,1.0603934460141513,0.7223917319204186,1.5565436461468782,0.7646022561913909,0.9009098751053242
+owner,advertised_guests,combined,All calls,mention_outdoor_dining,Outdoor dining,amenities,61,303,24,37,109,194,1.0340513713348518,0.6417954183327277,1.6660484135851947,0.890559134565057,0.9506860570261372

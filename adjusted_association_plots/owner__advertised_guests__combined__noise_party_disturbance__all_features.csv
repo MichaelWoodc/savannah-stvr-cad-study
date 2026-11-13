@@ -1,0 +1,9 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr
+owner,advertised_guests,combined,Noise-party-disturbance,mention_bar,Bar mention,amenities,61,32,17,44,5,27,0.6230562326747779,0.2137569702614585,1.816076774479252,0.3860453652677896,0.6900325177602168
+owner,advertised_guests,combined,Noise-party-disturbance,mention_wine,Wine / wine accessories,amenities,61,32,46,15,26,6,1.6242816387953276,0.5678060033837167,4.646465212423456,0.3656990762570554,0.6738725609868652
+owner,advertised_guests,combined,Noise-party-disturbance,mention_outdoor,Outdoor space,amenities,61,32,46,15,26,6,1.7598789240501929,0.6834130388850483,4.531920889845674,0.2415009246419337,0.5575145312670536
+owner,advertised_guests,combined,Noise-party-disturbance,mention_yard,Yard / garden / courtyard,amenities,61,32,42,19,21,11,1.1506067985345567,0.4394522659354594,3.012604797965424,0.7751265154545809,0.9009098751053242
+owner,advertised_guests,combined,Noise-party-disturbance,mention_events,Events / gatherings,amenities,61,32,14,47,5,27,0.8679576222016453,0.3432151757042349,2.1949799637855536,0.7648146553796961,0.9009098751053242
+owner,advertised_guests,combined,Noise-party-disturbance,mention_patio,Patio / deck / balcony / porch,amenities,61,32,43,18,26,6,2.0178149783155077,0.7968141972420891,5.109820207529987,0.1386409334633717,0.4400961372839104
+owner,advertised_guests,combined,Noise-party-disturbance,mention_grill,Grill / BBQ,amenities,61,32,19,42,8,24,0.8560187291093091,0.3361985678668477,2.179569262401294,0.7443991868044597,0.8941445338531832
+owner,advertised_guests,combined,Noise-party-disturbance,mention_outdoor_dining,Outdoor dining,amenities,61,32,24,37,6,26,0.6854040449668545,0.2375063353898422,1.9779628365947892,0.4848035441282883,0.7477255632473516

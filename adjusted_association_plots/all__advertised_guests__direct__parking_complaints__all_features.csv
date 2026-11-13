@@ -1,0 +1,7 @@
+cohort,capacity_control,scope,outcome,feature,label,family,properties,events,present_properties,absent_properties,present_calls,absent_calls,adjusted_rate_ratio,ci_low,ci_high,p_value,q_fdr
+all,advertised_guests,direct,Parking complaints,mention_wine,Wine / wine accessories,amenities,472,26,318,154,12,14,0.4083652990035307,0.0667936139643231,2.4966790615539503,0.3322875499180773,0.6614179734711372
+all,advertised_guests,direct,Parking complaints,mention_outdoor,Outdoor space,amenities,472,26,286,186,12,14,0.445085924532792,0.0769830597324901,2.57331263404698,0.3658854597243719,0.6738725609868652
+all,advertised_guests,direct,Parking complaints,mention_events,Events / gatherings,amenities,472,26,151,321,5,21,0.3340517405277318,0.0748716545566355,1.4904247276276772,0.1507184850432097,0.4567240982347653
+all,advertised_guests,direct,Parking complaints,mention_grill,Grill / BBQ,amenities,472,26,108,364,4,22,0.3900123662099053,0.0760149317734844,2.0010495602353253,0.2590797840600994,0.5851990809767207
+all,advertised_guests,direct,Parking complaints,mention_cocktails,Cocktails / spirits,amenities,472,26,75,397,3,23,0.6351097147236795,0.1353205524926004,2.980806258224892,0.5649765258824541,0.7892707559213732
+all,advertised_guests,direct,Parking complaints,mention_outdoor_dining,Outdoor dining,amenities,472,26,121,351,7,19,0.8800274780782879,0.225903285061817,3.428229748677219,0.8538516306232209,0.9344218169588157

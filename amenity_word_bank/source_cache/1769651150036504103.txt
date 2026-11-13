@@ -1,0 +1,357 @@
+URL: https://www.airbnb.com/rooms/1769651150036504103
+Title: Twin Condos on Liberty + Private Courtyard
+Latitude: 32.073
+Longitude: -81.0876
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah Ashley And Mike
+Host ID: 293157033
+Host profile ID: 1469516719685874679
+Host URL: https://www.airbnb.com/users/profile/1469516719685874679
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 5
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Living room 1
+1 sofa bed
+
+Living room 2
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+This brand new townhouse with both parlor and garden level condos will take your breath away as soon as you step inside.  Boasting over 2,800 square feet, it was tastefully decorated with an eye for design and fully equipped with modern amenities and appliances in two kitchens. Perfect for a family getaway, a girls' weekend, a gathering with friends, or even a business destination! The house is located on beautiful Liberty St in the Landmark Historic District of Savannah.
+
+SVR 02098 and 02099
+
+The space
+This lovely townhouse features two open concept living rooms and kitchens and dedicated dining space for six.  On the third floor, two primary bedrooms await with spa-like en-suite, private baths.  Guests who prefer not to climb stairs for bed-time can tuck into the ground level king bedroom.  Both living room couches pulls out into a KING sized, super luxe, amazingly comfortable bed...perfect for an extra couple or kids!  All told, there are three full bathrooms and another convenient half bath. This entire three-story main house with private porch and courtyard is all yours.
+
+Guest access
+The entire townhome with both parlor level and garden level townhome is all yours!  They are connected via an indoor staircase as well as both the front and back stairs outside.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Drying rack for clothing
+Clothing storage: walk-in closet, closet, and dresser
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib - always at the listing
+Board games
+Heating and cooling
+Air conditioning
+Indoor fireplace
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Outdoor cameras located at front entrances for safety of guests and security of the premises.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Gas stove
+Stainless steel oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Recycling
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Twin Condos on Liberty + Private Courtyard
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+8 guests · 3 bedrooms · 5 beds · 3.5 baths
+New listing
+New
+Hosted by Sarah Ashley And Mike
+Superhost · 7 years hosting
+Listing highlights
+Self check-in
+Check yourself in with the keypad.
+Beautiful and walkable
+This area is scenic and easy to get around.
+Sarah Ashley And Mike is a Superhost
+Superhosts are experienced, highly rated Hosts.
+This brand new townhouse with both parlor and garden level condos will take your breath away as soon as you step inside.  Boasting over 2,800 square feet, it was tastefully decorated with an eye for design and fully equipped with modern amenities and appliances in two kitchens. Perfect for a family getaway, a girls' weekend, a gathering with friends, or even a business destination! The house is located on beautiful Liberty St in the Landmark Historic District of Savannah.
+
+SVR 02098 and 02099
+
+The space
+This lovely townhouse features two open concept living rooms and kitchens and dedicated dining space for six.  On the third floor, two primary bedrooms await with spa-like en-suite, private baths.  Guests who prefer not to climb stairs for bed-time can tuck into the ground level king bedroom.  Both living room couches pulls out into a KING sized, super luxe, amazingly comfortable bed...perfect for an extra couple or kids!  All told, there are three full bathrooms and another convenient half bath. This entire three-story main house with private porch and courtyard is all yours.
+
+Guest access
+The entire townhome with both parlor level and garden level townhome is all yours!  They are connected via an indoor staircase as well as both the front and back stairs outside.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 5 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Living room 1
+1 sofa bed
+
+Living room 2
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 54 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+New · No reviews (yet)
+This host has 1,449 reviews for other places to stay. Show other reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+The BEST part of our home? The location! We are in the heart of the Downtown Historic District, making the best places to dine, drink, and explore super accessible! We are with a 15 minute walk from the Savannah Riverfront, City Market, The Olde Pink House, Clary's, The Fountain at Forsyth Park, Mrs. Wilkes, and the Colonial Park Cemetery! Better yet, all of Savannah's beautiful squares are right outside of your door...perfect for exploring both the beautiful live oaks with their hanging moss as well as the historic architecture that frames each one! Want to check out SCAD? We are within walking distance to almost all of their downtown campus buildings!
+
+If you choose to stay with us and need lots of recommendations...don't worry! We are happy to provide personalized recommendations based on your interests and preferences...just ask us! We are passionate about our little Southern city and are happy to provide lots of awesome spots to check out! We can share a digital list of full of our personal favorites, from quiet local spots to must-sees attractions! And we live right around the corner, so we are ALWAYS here if you need us!
+Show more
+Meet your host
+Sarah Ashley And Mike
+Superhost
+1,449 reviews
+1449
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+7 years of hosting
+7
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental on Liberty St in the Historic Downtown District!
+Sarah Ashley And Mike is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Townhome vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

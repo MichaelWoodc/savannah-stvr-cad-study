@@ -1,0 +1,448 @@
+URL: https://www.airbnb.com/rooms/52163347
+Title: Jones St Apartment with Old Savannah Charm
+Latitude: 32.0727
+Longitude: -81.0961
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sandra
+Host ID: 314313673
+Host profile ID: 1469592005946537681
+Host URL: https://www.airbnb.com/users/profile/1469592005946537681
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+If you are looking for a quiet getaway to Savannah, the Wright Suite is the right suite for you! This pretty apartment oozes Savannah charm and is perfect for couples, solo guests, business travelers and anyone who wants to experience all that Savannah has to offer. Food, entertainment, Forsyth Park, River Street...walk anywhere you desire from this apartment on Jones street. This apartment is on the third floor of an historic house smack dab in the heart of the historic district.
+
+The space
+If you are looking for a quiet getaway to Savannah, the Wright Suite is the right suite for you! One of the Jones Street Suites, this pretty apartment in an historic home oozes Savannah charm and is perfect for couples, solo guests, business travelers and anyone who wants to experience all that the historic district has to offer. Food, entertainment, Forsyth Park, River Street...walk anywhere you desire from this apartment on Jones St.
+
+Guest access
+Please note this suite is on the 3rd floor.  There is a flight of stairs outside to enter the property, and another flight of stairs once you enter the property to get to the suite.
+
+Other things to note
+There isn't a designated parking space for this suite, but there are typically plenty of parking spaces available on the street.  You may either park your vehicle right on the street out front or on the nearby side streets if you prefer. Parking on Jones Street is metered Monday – Friday 8 AM-5PM and they have a 2 hour time limit.  Parking is free after 5PM during the weekdays and all day on Saturday and Sunday, with no time limit.
+
+Certficate # SVR-02430
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Individual Travel Size shampoo
+Individual Travel Size conditioner
+Hot water
+Bedroom and laundry
+Free washer – In building
+Free dryer – In building
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Includes a table
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Parking and facilities
+Free street parking
+Paid parking lot off premises
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Jones St Apartment with Old Savannah Charm
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.88 out of 5 stars.
+4.88
+91 reviews
+91
+Reviews
+Hosted by Sandra
+7 years hosting
+Listing highlights
+In Historic Savannah on Jones Street
+Steps from Chatham Square on Jones Street, with Forsyth Park and Monterey Square a short walk away
+Full kitchen in a historic home
+A well-stocked kitchen with oven, stove, and dishwasher in a charming historic home on the third floor
+Charming, walkable, and well hosted
+Guests highlight the charm, walkability, and how responsive the host is throughout the stay
+Some info has been automatically translated. Show original
+If you are looking for a quiet getaway to Savannah, the Wright Suite is the right suite for you! This pretty apartment oozes Savannah charm and is perfect for couples, solo guests, business travelers and anyone who wants to experience all that Savannah has to offer. Food, entertainment, Forsyth Park, River Street...walk anywhere you desire from this apartment on Jones street. This apartment is on the third floor of an historic house smack dab in the heart of the historic district.
+
+The space
+If you are looking for a quiet getaway to Savannah, the Wright Suite is the right suite for you! One of the Jones Street Suites, this pretty apartment in an historic home oozes Savannah charm and is perfect for couples, solo guests, business travelers and anyone who wants to experience all that the historic district has to offer. Food, entertainment, Forsyth Park, River Street...walk anywhere you desire from this apartment on Jones St.
+
+Guest access
+Please note this suite is on the 3rd floor.  There is a flight of stairs outside to enter the property, and another flight of stairs once you enter the property to get to the suite.
+
+Other things to note
+There isn't a designated parking space for this suite, but there are typically plenty of parking spaces available on the street.  You may either park your vehicle right on the street out front or on the nearby side streets if you prefer. Parking on Jones Street is metered Monday – Friday 8 AM-5PM and they have a 2 hour time limit.  Parking is free after 5PM during the weekdays and all day on Saturday and Sunday, with no time limit.
+
+Certficate # SVR-02430
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Free washer – In building
+Free dryer – In building
+Central air conditioning
+Shared patio or balcony
+Shared backyard – Fully fenced
+Show all 41 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.88 out of 5 from 91 reviews.
+4.88
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 89% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Location
+70
+Walkability
+34
+Hospitality
+27
+Bathroom
+11
+Parking
+7
+Comfort
+14
+Parks
+2
+Cleanliness
+23
+Sleep quality
+7
+Nearby
+10
+Adam
+Sebastian, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Second time staying at this AirBnB, was as good this time as the first.  Beautiful house, great location and the host was stellar.
+Gloria
+Orlando, Florida
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed one night
+It was a very lovely and comfortable room. Would definitely stay again!
+Billy
+Asheville, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Loved this charming historic apartment! It had tons of character, was spotless, and the location couldn’t have been better. We walked everywhere and somehow kept “accidentally” finding amazing food and treats. The hosts were wonderful, and we’d absolutely stay here again. Highly recommend!
+Show more
+Alan
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Great location and all the amenities needed for our stay 
+Host was very helpful and nice
+Kassidy
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This is a lovely place to stay, the host was very responsive and communicated throughout the booking process. It was a perfect, relax, and comfortable stay. The only thing I would suggest for other guests to bring is a fan. The ac worked great but because it was so hot, it made it stuffy in the unit. We understand it is an older house. We always bring a portable fan when traveling aways, we are glad we brought it. lol we will definitely stay here again! perfect location!
+Show more
+Chase
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Awesome place, great location!
+Show all 91 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Forsyth Park
+Park
+Savannah Bike Tours
+Sports shop
+Mrs. Wilkes Dining Room
+American restaurant
+Old Town Trolley Tours of Savannah
+Tour agency
+The Olde Pink House
+Restaurant
+Fiddler's Crab House & Oyster Bar
+Seafood restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Historic Savannah
+Show more
+Meet your host
+Sandra
+Host
+1,194 reviews
+1194
+Reviews
+4.89 out of 5 average rating
+4.89
+Rating
+7 years of hosting
+7
+Years hosting
+A happy transplant to Savannah! I enjoy traveling myself, so it is so exciting to be able to experience the rich history of this impressive city and to help others learn about it! What better place to be a host than in the “Host City of the South.” Send a message or book if you want a gorgeous rental in the Historic Downtown District!
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for children and infants
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

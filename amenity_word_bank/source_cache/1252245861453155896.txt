@@ -1,0 +1,473 @@
+URL: https://www.airbnb.com/rooms/1252245861453155896
+Title: Historic Downtown Studio| Prime Location| Walkable
+Latitude: 32.0778
+Longitude: -81.0896
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Step into a world of vintage charm and modern comfort in this delightful historic condo. This beautifully appointed space features a chic retro design that is the perfect home base for your Savannah visit. Located right on Oglethorpe square, you will be in walking distance to charming cafes, historic landmarks, and lush parks. Stroll the cobblestone streets, indulge in delicious Southern cuisine, and experience the rich history that Savannah has to offer. This condo is a perfect spot for two!
+
+The space
+Welcome to the perfect Savannah getaway! Nestled in the heart of Savannah, Georgia's historic district. This beautifully updated studio condo is located right on Oglethorpe Square and adjacent to the historic Thomas-Owens house. 
+
+The condo offers a delightful blend of modern comfort and historic charm. You will be just steps away from all the best downtown attractions. Here you will find yourself immersed in the vibrant culture, rich history, and delectable Southern cuisine of the low country.
+
+This inviting studio features a plush queen-size bed, ensuring restful nights after your adventures. Enjoy the convenience of a stocked kitchen, perfect for whipping up a cozy breakfast, romantic dinner and that perfect morning cup of coffee. 
+
+The updated bathroom adds extra luxury to your stay, complete with Public Goods brand toiletries and fluffy fresh towels.
+
+Relax and unwind in the cozy living area, complete with a TV and high-speed Wi-Fi, ideal for catching up on your favorite shows or planning your next outing. The pub-style table and chairs create a perfect spot for enjoying meals or setting up a temporary work station.
+
+Whether you are traveling through town on business or pleasure, we know you will love the convenience and comfort of this condo! 
+
+We cant wait to host you! 
+
+SVR-03037
+
+Guest access
+Guest will have access to the entire studio condo. There is a shared building entrance and then the condo is located on the first floor. Guests have a full kitchen, bathroom and bedroom.
+
+Other things to note
+Please note that there is not a dishwasher, washer or dryer included in this studio condo. There is coin laundry available in the building basement. 
+
+This condo is a true studio/one bedroom condo. There is not a living room or separate dining room. We do have a pub table and chairs available.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Clothing storage: closet and dresser
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Air conditioning
+Portable fans
+Heating
+Home safety
+Smoke alarm
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Electric stove
+Single oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Rice maker
+Dining table
+Coffee
+Location features
+Laundromat nearby
+Parking and facilities
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Washer
+Washer
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Downtown Studio| Prime Location| Walkable
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+96 reviews
+96
+Reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+In Savannah's Historic District
+Right on Oglethorpe Square, with the Owens-Thomas House steps away and the riverfront about a 5-min walk
+Full kitchen in a cozy studio
+A stocked kitchen with a four-burner stove, oven, and Keurig for easy mornings in
+Alyssa is a standout host
+Guests consistently praise Alyssa for being responsive, helpful, and full of local recommendations
+Step into a world of vintage charm and modern comfort in this delightful historic condo. This beautifully appointed space features a chic retro design that is the perfect home base for your Savannah visit. Located right on Oglethorpe square, you will be in walking distance to charming cafes, historic landmarks, and lush parks. Stroll the cobblestone streets, indulge in delicious Southern cuisine, and experience the rich history that Savannah has to offer. This condo is a perfect spot for two!
+
+The space
+Welcome to the perfect Savannah getaway! Nestled in the heart of Savannah, Georgia's historic district. This beautifully updated studio condo is located right on Oglethorpe Square and adjacent to the historic Thomas-Owens house. 
+
+The condo offers a delightful blend of modern comfort and historic charm. You will be just steps away from all the best downtown attractions. Here you will find yourself immersed in the vibrant culture, rich history, and delectable Southern cuisine of the low country.
+
+This inviting studio features a plush queen-size bed, ensuring restful nights after your adventures. Enjoy the convenience of a stocked kitchen, perfect for whipping up a cozy breakfast, romantic dinner and that perfect morning cup of coffee. 
+
+The updated bathroom adds extra luxury to your stay, complete with Public Goods brand toiletries and fluffy fresh towels.
+
+Relax and unwind in the cozy living area, complete with a TV and high-speed Wi-Fi, ideal for catching up on your favorite shows or planning your next outing. The pub-style table and chairs create a perfect spot for enjoying meals or setting up a temporary work station.
+
+Whether you are traveling through town on business or pleasure, we know you will love the convenience and comfort of this condo! 
+
+We cant wait to host you! 
+
+SVR-03037
+
+Guest access
+Guest will have access to the entire studio condo. There is a shared building entrance and then the condo is located on the first floor. Guests have a full kitchen, bathroom and bedroom.
+
+Other things to note
+Please note that there is not a dishwasher, washer or dryer included in this studio condo. There is coin laundry available in the building basement. 
+
+This condo is a true studio/one bedroom condo. There is not a living room or separate dining room. We do have a pub table and chairs available.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+TV
+Air conditioning
+Bathtub
+Pack ’n play/Travel crib - available upon request
+Hair dryer
+Refrigerator
+Microwave
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 40 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 96 reviews.
+4.93
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+41
+Location
+69
+Parking
+11
+Hospitality
+42
+Cleanliness
+27
+Parks
+3
+Comfort
+15
+Nearby
+16
+Indoor spaces
+18
+Quiet
+9
+Ryan
+Seattle, Washington
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Great Host, Great location, Clean and tidy. Only thing I wish there was more of was natural light but based on its orientation in the building there isn't much to do about that. The host and the space are great and we enjoyed our stay.
+Show more
+Melissa
+Clinton, South Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+I will definitely be booking another stay!
+Chloe
+Altamonte Springs, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+This place was as close to perfect as possible, the location was amazing - within walking distance of pretty much every main shop and restaurant in downtown Savannah and only a short walk to the riverfront. The AC was the star of this place, for a small studio, it was amazing to come back to a nice cold room during these summer months
+Show more
+Billie
+Lakeland, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Nice little studio apartment in a great location. The place was very clean and quiet. Everything we wanted to do was a 10-20 minute walk away. You do have to pay for parking but it is cheap and the parking garage is right next to the building.
+Show more
+Bailey
+Cincinnati, Ohio
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+This is a fantastic place for a weekend getaway! We had a great time and used many of the local suggestions that the hosts provided. We would definitely stay here again in the future!
+Show more
+Jason
+Newnan, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Second time I've stayed here and love it!
+Show all 96 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Alyssa
+Superhost
+1,512 reviews
+1512
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,451 @@
+URL: https://www.airbnb.com/rooms/618665346246830663
+Title: Charming Victorian Home by Forsyth/private parking
+Latitude: 32.0656
+Longitude: -81.1007
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Tim
+Host ID: 320351715
+Host profile ID: 1469606810006517039
+Host URL: https://www.airbnb.com/users/profile/1469606810006517039
+Bedrooms: 2
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 double beds
+
+=== FULL DESCRIPTION ===
+Fully furnished vacation rental with King size bed. Victorian architecture tucked in the heart of Savannah, this private unit is mere blocks from one of Savannah’s biggest attractions - Forsyth Park. This is the most ideal place to explore the city! Walking distance to the Park & all of the locals’ favorite spots such as The Black Rabbit sandwich bar, White Whale Craft Ales, & Brighter Day Natural Foods Market. Just a 5 minute ride to 100+ more destinations and all of the historic landmarks!
+
+The space
+Spacious relaxing place in the historic district. Full access to Unit B.
+
+Guest access
+You can access the backyard thru the fence and park in the back of the property for private parking.
+
+Other things to note
+This is 1 of 2 units in a Victorian Duplex. Well maintained with modern amenities. SVR-02573
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Iron
+Clothing storage: walk-in closet, closet, and dresser
+Entertainment
+Ethernet connection
+TV
+Family
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+There is one Video Doorbell at the front door capable of recording video and audio of the front porch area. There is no other security camera or audio recording device on the property.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 229 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Electric stove
+Oven
+Hot water kettle
+Coffee maker: pour-over coffee
+Toaster
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Private backyard – Fully fenced
+An open space on the property usually covered in grass
+Parking and facilities
+Free parking garage on premises
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Charming Victorian Home by Forsyth/private parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 2 bedrooms · 3 beds · 1 bath
+Rated 4.84 out of 5 stars.
+4.84
+·
+98 reviews
+Hosted by Tim
+Superhost · 6 years hosting
+Listing highlights
+In the West Victorian District
+About a 5-min walk to Forsyth Park, with restaurants and cafes within easy reach
+Victorian charm with a private backyard
+A private fenced backyard and patio in a Victorian duplex with high ceilings and original woodwork
+Tim is a responsive, helpful host
+Guests highlight Tim's responsiveness and helpfulness, with many noting easy check-in
+Fully furnished vacation rental with King size bed. Victorian architecture tucked in the heart of Savannah, this private unit is mere blocks from one of Savannah’s biggest attractions - Forsyth Park. This is the most ideal place to explore the city! Walking distance to the Park & all of the locals’ favorite spots such as The Black Rabbit sandwich bar, White Whale Craft Ales, & Brighter Day Natural Foods Market. Just a 5 minute ride to 100+ more destinations and all of the historic landmarks!
+
+The space
+Spacious relaxing place in the historic district. Full access to Unit B.
+
+Guest access
+You can access the backyard thru the fence and park in the back of the property for private parking.
+
+Other things to note
+This is 1 of 2 units in a Victorian Duplex. Well maintained with modern amenities. SVR-02573
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 double beds
+
+What this place offers
+Kitchen
+Fast wifi – 229 Mbps
+Dedicated workspace
+Free parking garage on premises
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 47 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.84 out of 5 stars from 98 reviews
+4.84 · 98 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 87% of reviews
+5
+4 stars, 11% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.3 out of 5 stars for location
+Location
+4.3
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Location
+42
+Walkability
+24
+Parking
+16
+Cleanliness
+49
+Hospitality
+52
+Nearby
+20
+Family
+17
+Parks
+7
+Check-in
+13
+Comfort
+24
+Shanna
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great location with easy access to dining, plenty of parking, and quiet neighborhood. The apartment had everything we needed and was comfy to stay in.
+Carmen
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Our family had a great stay here at this location. The host had excellent communication with us and all the instructions to enter , to park our large vehicle , and use the dwelling were clear and accurate.
+  Other positives:   Great location within walking distances to all of Savanah’s beauty and restaurants. Air conditioning for an upstairs unit was surprisingly efficient and cool for evening sleeping after a hot day.
+Suggestions for improvement: Some furniture ( the couches in the front room and balcony) needs to be upgraded due to some wear and tear. A few more modern pieces of cookware in the apartment would be an easy way to improve the kitchen.  Overall we recommend this location to any small family planning to enjoy Savannah and surrounding area.
+Show more
+Jamell
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Everything was great!
+Kristin
+Dallas, Georgia
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed with kids
+This was a great last minute stay for our small family. Easy to find, clean and peaceful. Couldn’t ask for more.
+Austin
+Albuquerque, New Mexico
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+Great spot, appreciated the short walk to Forsyth park and the rest of the historic district. It is next to a liquor store like some of the other reviews said but we really didn’t hear much noise late at night from traffic or people. Tim was great.
+Show more
+Nick
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Stayed with kids
+wonderful place to stay for a weekend getaway! rooms were comfy and the place had anything we needed. only 8 minutes from downtown area. Great location would definitely book again!
+Show more
+Show all 98 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+We are in the West Victorian District mere blocks west of Forsyth Park. We are a short walk to local bars and restaurants like Local 11ten, Betty Bombers, Sentient Bean, and Cuban Window Cafe and many more!! You really can't beat this location with the proximity to the park. Location is about 1 mile to the heart of all activities- Bay Street, River Street, City Market, etc. This is an exciting part of town where you can get your own space yet be in the middle of everything Savannah!
+Show more
+Meet your host
+Tim
+Superhost
+185 reviews
+185
+Reviews
+4.84 out of 5 average rating
+4.84
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 80s
+Where I went to school: Tulane University
+Greetings from Savannah. We are Tim and An. We love hosting guests on Airbnb and share our house with others. We are local hosts and available through the app and by phone at all times. Send us a message if you want a comfortable charming historic rental near Forsyth Park!
+Tim is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

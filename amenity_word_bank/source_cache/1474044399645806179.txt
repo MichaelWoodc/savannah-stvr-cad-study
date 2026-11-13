@@ -1,0 +1,525 @@
+URL: https://www.airbnb.com/rooms/1474044399645806179
+Title: Unit C - The Hourglass Inn
+Latitude: 32.06539127706836
+Longitude: -81.08927370446047
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: David
+Host ID: 1708042
+Host profile ID: 1462519858286238590
+Host URL: https://www.airbnb.com/users/profile/1462519858286238590
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+⏳WELCOME TO THE NEWLY PURCHASED HOURGLASS INN!!⏳
+
+Stay at The Hourglass Inn! This upstairs 2BR/1BA unit is just blocks from Forsyth Park and easily walkable to the only grocery store downtown, shops, dining, and River Street. Enjoy a peaceful residential street, new furniture, 2 queen beds, full kitchen, washer/dryer, and off-street parking. Unwind in the 14’ heated swim spa after exploring Savannah’s cobblestone charm. Custom keyless entry for easy check-in!
+
+
+Savannah License # - SVR-03174
+
+The space
+⭐⭐⭐⭐⭐ 
+Over 500 five-star reviews from previous listings—now with even more upgrades! ✨ New owners are investing big time to keep the great vibes going. 
+
+Upstairs 2br/1ba- 2 queen beds
+Condo includes- private living space, full kitchen, laundry, one off street parking spot, 3 new smart TVs, dining space for 4 
+Shared space- 14’ jacuzzi/swim spa, fenced in backyard, gas grill, outdoor dining for 6, sun loungers, Adirondack chairs for late night talks 
+
+If more than one parking spot is needed, street parking is available for FREE! 
+
+Location- 1.5 blocks to Kroger
+4 blocks to Forsyth
+1 mile to Riverstreet
+16 miles to the airport
+One of the things I love most about this location is that once I park my car for the weekend, I don’t get back in it until Monday morning. 🚶‍♀️
+
+Guest access
+Each condo is a self contained unit private to the current guests.
+
+Each unit has a private entrance with a distinct code to the electronic lock on the entrance door.
+
+Other things to note
+Our electronic locks are managed by Airbnb and Yale Lock Company, and each stay receives a custom code based on the last four digits of the booker’s phone number 🔐.
+
+Each unit has one designated off-street parking spot, and any additional vehicles are welcome to use the free street parking available nearby 🚗.
+
+This is an upstairs unit within a charming quadplex, so you may occasionally hear normal sounds from below— if you’re a light sleeper, we’re happy to provide a white noise machine 🌙.
+
+If you’re traveling with friends or family and would like to book more than one unit in the building, we can offer a discount for multi-unit reservations 💫.
+
+We’re conveniently located about 16 miles (roughly 20 minutes) from Savannah/Hilton Head International Airport ✈️.
+
+This is a new venture for us, and we’re still getting to know Miss Hourglass ⏳, so your feedback means the world! 💛
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Heating and cooling
+Air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+Security cameras monitor the parking in the lane and front doors through the Ring app. No interior cameras on the property.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard - Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Sun loungers
+Parking and facilities
+Free parking on premises
+Free street parking
+Pool
+Hot tub
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Unit C - The Hourglass Inn
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+36 reviews
+36
+Reviews
+Hosted by David
+Superhost · 14 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah, blocks from Forsyth Park
+About a 5-min walk to Forsyth Park, with shops and dining easily walkable from a quiet residential street
+Heated swim spa and backyard
+A heated swim spa in the fenced backyard with a gas grill and outdoor dining
+Spotless space, attentive hosts
+Guests highlight how clean and comfortable the space is, with many praising David and Devin by name
+⏳WELCOME TO THE NEWLY PURCHASED HOURGLASS INN!!⏳
+
+Stay at The Hourglass Inn! This upstairs 2BR/1BA unit is just blocks from Forsyth Park and easily walkable to the only grocery store downtown, shops, dining, and River Street. Enjoy a peaceful residential street, new furniture, 2 queen beds, full kitchen, washer/dryer, and off-street parking. Unwind in the 14’ heated swim spa after exploring Savannah’s cobblestone charm. Custom keyless entry for easy check-in!
+
+
+Savannah License # - SVR-03174
+
+The space
+⭐⭐⭐⭐⭐ 
+Over 500 five-star reviews from previous listings—now with even more upgrades! ✨ New owners are investing big time to keep the great vibes going. 
+
+Upstairs 2br/1ba- 2 queen beds
+Condo includes- private living space, full kitchen, laundry, one off street parking spot, 3 new smart TVs, dining space for 4 
+Shared space- 14’ jacuzzi/swim spa, fenced in backyard, gas grill, outdoor dining for 6, sun loungers, Adirondack chairs for late night talks 
+
+If more than one parking spot is needed, street parking is available for FREE! 
+
+Location- 1.5 blocks to Kroger
+4 blocks to Forsyth
+1 mile to Riverstreet
+16 miles to the airport
+One of the things I love most about this location is that once I park my car for the weekend, I don’t get back in it until Monday morning. 🚶‍♀️
+
+Guest access
+Each condo is a self contained unit private to the current guests.
+
+Each unit has a private entrance with a distinct code to the electronic lock on the entrance door.
+
+Other things to note
+Our electronic locks are managed by Airbnb and Yale Lock Company, and each stay receives a custom code based on the last four digits of the booker’s phone number 🔐.
+
+Each unit has one designated off-street parking spot, and any additional vehicles are welcome to use the free street parking available nearby 🚗.
+
+This is an upstairs unit within a charming quadplex, so you may occasionally hear normal sounds from below— if you’re a light sleeper, we’re happy to provide a white noise machine 🌙.
+
+If you’re traveling with friends or family and would like to book more than one unit in the building, we can offer a discount for multi-unit reservations 💫.
+
+We’re conveniently located about 16 miles (roughly 20 minutes) from Savannah/Hilton Head International Airport ✈️.
+
+This is a new venture for us, and we’re still getting to know Miss Hourglass ⏳, so your feedback means the world! 💛
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+Hot tub
+TV
+Free washer – In unit
+Free dryer – In unit
+Exterior security cameras on property
+Show all 59 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 36 reviews.
+5.0
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+13
+Backyard
+4
+Location
+16
+Cleanliness
+13
+Hospitality
+15
+Comfort
+11
+Parks
+2
+Nearby
+5
+Family
+3
+Sleep quality
+3
+Hailey-Marie
+Rockmart, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We stayed for the weekend with two toddlers and David’s place was perfect. The beds are super comfy, the location was walkable to most places we wanted to go, and entry was a breeze. Thank you!
+Show more
+Kathleen
+Stockton, California
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed over a week
+Great place to stay.  Location by Forsyth Park was perfect to walk to Broughton Street.  The unit is large and has everything you need for a wonderful stay.  David answered my questions quickly and was very helpful.  Thank you for the great stay.
+Show more
+Sinsaray
+Daytona Beach, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+The unit was very clean. And the host was friendly and responsive.
+Careathia
+Midway, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+David’s place  was as described. The hosts were responsive and accommodating. It was cozy and just what we needed. I loved the backyard the most. I highly recommend David’s place
+Show more
+Nicholas
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Hey everything was great! It was all we needed!
+Kaela
+Green Bay, Wisconsin
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed about a week
+We rented all 4 of the units for my entire family to stay while attending a wedding at Forsyth Park. This was the perfect location, the large backyard was such a perk. We all had the best time and would love to stay again.
+Show more
+Show all 36 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+David
+Superhost
+1,318 reviews
+1318
+Reviews
+4.81 out of 5 average rating
+4.81
+Rating
+14 years of hosting
+14
+Years hosting
+My work: mehhh, who needs it?
+Fun fact: I ran witht he bulls in Pamplona, twice.
+Hi everyone. I am a Savannah native born and raised. I really enjoy accting as an amdassidor of sorts to my home town. I hope you find my little units to be a fantastic place to stay while you are exploring the lovely town that Savannah is. Plesae feel free to send me questoins abuot your stay. I am fully invloved and want eveyone to have the best stay possible.
+David is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Devin
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

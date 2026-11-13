@@ -1,0 +1,91 @@
+{
+  "occupancy_scenario": 0.59,
+  "exposure_years": 2.7926078028747434,
+  "date_start": "2024-01-01",
+  "date_end": "2026-10-16",
+  "residential_baseline_parcels": 4806,
+  "matched_listing_rows": 758,
+  "matched_parcels": 484,
+  "network_folders": 4561,
+  "current_sources_changed": 0,
+  "coverage": {
+    "quarantined_no_source_text_permit": 2042,
+    "excluded_Tybee_Island_location": 1402,
+    "eligible_residential": 758,
+    "not_in_old_audit": 189,
+    "outside_fixed_residential_coverage": 90,
+    "quarantined_unknown_source_permit_requires_review": 68,
+    "quarantined_source_permit_location_conflict": 7,
+    "quarantined_multiple_source_parcels_requires_review": 5
+  },
+  "measures": {
+    "citizen": {
+      "baselines": {
+        "All calls": 0.5967392169102348,
+        "Parking complaints": 0.04116599042863087,
+        "Noise complaints": 0.020489859489363785,
+        "Loud party": 0.013635070132922084,
+        "Disturbance / nuisance": 0.021905522508628917
+      },
+      "matched_parcels": 484,
+      "above_average_parcels": 226,
+      "above_average_listing_rows": 432
+    }
+  },
+  "call_coverage": {
+    "date_start": "2024-01-01",
+    "date_end": "2026-10-16",
+    "exposure_days": 1020,
+    "exposure_years": 2.7926078028747434,
+    "parking_date_start": "2024-01-01",
+    "parking_date_end": "2024-09-20",
+    "parking_exposure_years": 0.7227926078028748,
+    "raw_rows": 146213,
+    "early_matched_calls": 2587,
+    "published_matched_calls": 5661,
+    "combined_calls": 8248,
+    "conflicting_call_numbers": 0,
+    "source_sha256": {
+      "data.js": "26b7ccc8a66b688f20a98f1f4b009fded18283c440d9472fc30b0b51f07039c6",
+      "parcel_rates.csv": "e138c0ce4c6d990269fb9e85ad3421588cc0607971984b223c48c21c7c9f3337",
+      "occupancy_plots/cad_rental_match_audit.csv": "af81ac178e8adad9539869b951957cae91dce416c5c8be29546f9d96424d9b2c",
+      "neighborhood_occupancy_plots/digest_parcel_addresses.csv": "837b05664095c9094a97cf7162ef2813f652d573283bb28c28a9993ac00317dc",
+      "processed_data/licenses/licenses_normalized.csv": "9fb9c2a0278a41ba84c30e823fce8141f9d5c3395354fd7938db29046c03c84e",
+      "processing/entire_call_period.py": "0f5e3da45b57e391762d74523349e53efe0832809451af12b24c1d6427555d4d"
+    },
+    "source_coverage_note": "Uses every available date. Later publication is a retained/filtered extract, not the full source CAD. Parking coverage exists only in the early raw CAD window. Complete category coverage over the entire span is not established."
+  },
+  "category_coverage_note": "* Parking uses 2024-01-01 to 2024-09-20 (0.723 years); later parking coverage is unavailable.",
+  "parking_plot_settings": {
+    "default": "all_matched",
+    "alternative": "follow_main_cohort",
+    "initiation": "same as selected measure",
+    "occupancy": 0.59,
+    "period": "entire supported parking window",
+    "zero_call_groups": "included and graphed",
+    "exception_mark": "*"
+  },
+  "source_sha256": {
+    "data.js": "26b7ccc8a66b688f20a98f1f4b009fded18283c440d9472fc30b0b51f07039c6",
+    "listing_screen_all.csv": "4ebb867a9fb6a6a7fa94bd3bf32613a2e2b24e9c9c75f1e532d73867a20336a0",
+    "listing_keyword_evidence.csv": "4eff141cc1c0efe90a4fb390fbe7b94bb66aa5cea286ece9539ce211f5822bcd",
+    "processed_data/listing_details/current_detail_inventory.csv": "024bbe3631d841cc97da5d584d578c24ded137ea3f6bc2a9a4f29f7f80f4b129",
+    "processed_data/licenses/licenses_normalized.csv": "9fb9c2a0278a41ba84c30e823fce8141f9d5c3395354fd7938db29046c03c84e",
+    "processing/direct_report_controls.py": "5f6036cfc88bcce4e5f30271f49d70fc30accd506c629e9c5bcb73d08b05c76d"
+  },
+  "license_controls": {
+    "complete_license_rows": 1683,
+    "covered_license_rows": 1453,
+    "covered_license_parcels": 997,
+    "matched_listing_parcels": 484,
+    "license_rows_by_type": {
+      "non_owner": 1502,
+      "owner": 181
+    },
+    "covered_parcels_by_type": {
+      "non_owner": 864,
+      "owner": 133
+    },
+    "listings_over_approved_limit": 103
+  }
+}

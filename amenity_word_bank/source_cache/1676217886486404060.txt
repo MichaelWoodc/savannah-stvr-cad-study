@@ -1,0 +1,471 @@
+URL: https://www.airbnb.com/rooms/1676217886486404060
+Title: The Designer Condo, Sleek | Centrally Located!
+Latitude: 32.07195952288494
+Longitude: -81.09073194318034
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to The Habersham Loft, an elegantly renovated condo in the heart of Savannah’s vibrant downtown. This condo provides ample space to spread out, featuring three floors with two bedrooms and two and a half bathrooms. Enjoy custom touches throughout that create a modern yet cozy environment to relax in after a day of exploring. Close to everything, you will be just three minutes to Forsyth Park and surrounded by amazing dining, pubs, and attractions. 18 min to SAV International.
+SVR-02781
+
+The space
+Tucked among the beautiful neighborhoods of downtown Savannah, this freshly renovated condominium features high-end finishes and stylish interior design from Plum West Designs.
+Once home to the nefarious John Deering, this condo is one of a kind in Savannah.
+Enter the three-level condo through a contemporary front door that sets the mood for the entire space.  To the right of the foyer is a spacious galley kitchen featuring a deep blue backsplash, solid surface countertops, and a brand-new appliance package. The kitchen is fully equipped and provides everything you need to cook, including pots, pans, utensils, dishware, and small appliances. A peninsula island provides dining space for three, while a dining table directly behind provides room for six.
+Enjoy a beautiful sitting area on the first floor that opens directly to your private balcony. A small sofa and two chairs are great places to curl up and read your favorite book.   
+Take the staircase to the top floor where two bedrooms are found. Enjoy a new king mattress wrapped in fresh linens and plush pillows in the primary bedroom. A large dresser provides ample storage for extended stays. In the second bedroom, find a new queen mattress with fresh linens, an eclectic dresser, and nightstands.
+The second floor boasts clean lines, custom tile work, and a modern design. It is outfitted with a single vanity, toilet, low-entry shower, and all of the essentials, including towels, toilet paper, shampoo, body wash, and a hair dryer.
+The bottom floor features a comfortable living space with an oversized sectional that pulls out into a queen-size bed. There is also a smart TV for streaming your favorite shows.
+Working remotely during your stay? Our high-speed Wi-Fi supports video conferencing and multitasking.
+
+Guest access
+The entire condo is for your use! We have a balcony off of the back of the living room AND a rear patio off of the bottom level that you can sit and enjoy a morning coffee or before-dinner cocktail ;)
+Parking is street-only and FREE.
+
+Other things to note
+No parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it were your property.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free street parking
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Designer Condo, Sleek | Centrally Located!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+19 reviews
+19
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Troup Square is right outside, with Lafayette Square and the Cathedral of St. John the Baptist steps away
+Renovated tri-level condo
+A three-level layout with a fully equipped kitchen, private balcony, and rear patio
+Brandon and Chase are standout hosts
+Guests highlight the walkable location, spotless space, and responsive hosts Brandon and Chase
+Welcome to The Habersham Loft, an elegantly renovated condo in the heart of Savannah’s vibrant downtown. This condo provides ample space to spread out, featuring three floors with two bedrooms and two and a half bathrooms. Enjoy custom touches throughout that create a modern yet cozy environment to relax in after a day of exploring. Close to everything, you will be just three minutes to Forsyth Park and surrounded by amazing dining, pubs, and attractions. 18 min to SAV International.
+SVR-02781
+
+The space
+Tucked among the beautiful neighborhoods of downtown Savannah, this freshly renovated condominium features high-end finishes and stylish interior design from Plum West Designs.
+Once home to the nefarious John Deering, this condo is one of a kind in Savannah.
+Enter the three-level condo through a contemporary front door that sets the mood for the entire space.  To the right of the foyer is a spacious galley kitchen featuring a deep blue backsplash, solid surface countertops, and a brand-new appliance package. The kitchen is fully equipped and provides everything you need to cook, including pots, pans, utensils, dishware, and small appliances. A peninsula island provides dining space for three, while a dining table directly behind provides room for six.
+Enjoy a beautiful sitting area on the first floor that opens directly to your private balcony. A small sofa and two chairs are great places to curl up and read your favorite book.   
+Take the staircase to the top floor where two bedrooms are found. Enjoy a new king mattress wrapped in fresh linens and plush pillows in the primary bedroom. A large dresser provides ample storage for extended stays. In the second bedroom, find a new queen mattress with fresh linens, an eclectic dresser, and nightstands.
+The second floor boasts clean lines, custom tile work, and a modern design. It is outfitted with a single vanity, toilet, low-entry shower, and all of the essentials, including towels, toilet paper, shampoo, body wash, and a hair dryer.
+The bottom floor features a comfortable living space with an oversized sectional that pulls out into a queen-size bed. There is also a smart TV for streaming your favorite shows.
+Working remotely during your stay? Our high-speed Wi-Fi supports video conferencing and multitasking.
+
+Guest access
+The entire condo is for your use! We have a balcony off of the back of the living room AND a rear patio off of the bottom level that you can sit and enjoy a morning coffee or before-dinner cocktail ;)
+Parking is street-only and FREE.
+
+Other things to note
+No parties.
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it were your property.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Hair dryer
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 19 reviews.
+4.95
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 95% of reviews
+5
+4 stars, 5% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+10
+Location
+10
+Hospitality
+7
+Cleanliness
+6
+Comfort
+5
+Layout
+2
+Parking
+2
+Air conditioning
+2
+Kitchen
+3
+Bathroom
+3
+Lexie
+Orlando, Florida
+Rating, 5 stars
+,
+·
+5 days ago
+,
+·
+Stayed a few nights
+Although our visit wasn’t perfect due to some issues with the AC, Brandon and Chase were very helpful getting it fixed and making us comfortable. They went out of their way and were quick to respond. The furniture and space was beautiful, we really loved the first floor living room / den space. One thing to note is that the patio windows look out onto other units, and there are no coverings so there was no privacy at night on the second floor (first floor and third had blinds).
+Show more
+Brian
+Roswell, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+This place was ideal for our group of 4 (2 couples) as it provided the space we needed and amenities that we were looking for.  Great location for short walks to restaurants, squares and even going into the downtown area was not a vary far walk.  Good neighborhood and parking was no issue.
+Show more
+Charlotte
+Covington, Georgia
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+This accommodation and your service have been nothing short of incredible! You've gone out of your way to ensure our stay was more than what was required! The unit had EVERYTHING we needed to feel at home, comfortable and esthetically relaxed- down to the details. 
+Thank you from the bottom of our hearts for your kindness, professionalism, swift communication and care!🙏🏾 ❤️
+Show more
+Sacha
+Atlanta, Georgia
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+The location was great! Walking distance to restaurants and parks.
+The home was very clean.
+The street noise was minimal. The hosts provided earplugs, which waa thoughtful. 
+Something to note, if you're a light sleeper, the ac unit is quite loud. Other than that, this was a great place to stay!
+Show more
+Makyla
+Indianapolis, Indiana
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had a great stay at Brandon & Chase’s place! The location was perfect, walkable to Forsythe Park & downtown. The kitchen had lots of utensils & pots/pans, which was really appreciated for a week long stay. Will stay here again on our next visit to Savannah!
+Show more
+Daniel
+Ozark, Missouri
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed about a week
+Great place to stay within walking distance of everything. Free street parking and just off historic Jones Street. Lots of space and cool space when it’s hot outside. Would highly recommend and look forward to staying there again.
+Show more
+Show all 19 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+The downtown districts of Savannah, filled with genuine Southern hospitality, offer the quintessential Southern experience rooted in the city’s colonial past. Situated on the edge of Savannah’s historical district south, you will be minutes away from everything the city offers.
+You can walk to the iconic Forsyth Park in 12 minutes or enjoy Troup Square, a beautiful green space in your neighborhood.
+Are you looking for breakfast? Clary’s Café is a classic perennial place two blocks from the condo. It serves Southern-style diner classics for breakfast and lunch. For a hip, modern setting, check out the Fox and Fig Café, which offers creative plant-based meals and espresso.
+Treat your taste buds by grabbing dinner at one of the many excellent Southern-inspired restaurants, Hitch, Mrs. Wilkes Dining Room, The Olde House, and Vic’s On the River. All provide incredible dining experiences that offer the destination Southern fine dining you want.
+A trip downtown would only be complete with a pint in one of the many historic and famous pubs. Stop into Six Pence Pub for a British-inspired scene, or let out your inner Irish at O’Connell’s Irish Publ. Get your karaoke at McDonough’s Restaurant & Lounge, or check out a sleek gastropub for a drink or weekend brunch at The Ordinary Pub.
+Visit one of Savannah's many museums to learn about the city's history. The Beach Institute of African American Culture Center, Mercer-Williams House Museum, and the Telfair Museums are just minutes away. If you want to explore the city’s art scene, stop by the SCAD Museum of Art.
+Want to see it all at once while riding or biking? We are minutes from Old Town Trolley Tours of Savannah and Savannah Bike Tours.
+Getting around is easy with walkable streets, bike rentals, and Uber service.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for children and infants
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Condo vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

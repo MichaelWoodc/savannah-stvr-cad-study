@@ -1,0 +1,447 @@
+URL: https://www.airbnb.com/rooms/29329739
+Title: Elegant in Historic District by Lucky Savannah
+Latitude: 32.07
+Longitude: -81.0914
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 5
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Historic Home with three bedrooms, two bathrooms and private courtyard.
+
+The space
+Built in 1867, the Mayor’s Quarters has three bedrooms and two bathrooms to comfortably accommodate up to five Lucky guests. It is the ideal choice if you’re looking for the charm of an historic home without sacrificing the convenience of downtown living.
+
+Each room of the home is steeped in relaxed elegance, with a mix of antique furniture and modern amenities. Throw back the shutters and let the sunlight stream into the welcoming living room, with original hardwood floors and decorative hearth. Pocket doors lead to the adjacent six-seat dining room, where more stately antiques and period charm abound. A full bathroom with walk in shower is located underneath the stairs. The updated, fully equipped kitchen has everything you’ll need, and the adjacent “keeping room” is a truly special brick-lined enclave with cozy seating for intimate conversations or curling up with a good book. French doors in the kitchen lead out to your spacious and private brick-paved courtyard. Equipped with a gas grill and ample seating, you’ll be able to enjoy Savannah’s perfect weather dining al fresco. 
+
+Upstairs, you’ll find three bedrooms are elegantly appointed with rich, dark woods and soothing neutral tones. The full bath upstairs boasts marble tile, his and her pedestal sinks, and a cast iron claw foot tub. The first bedroom has a Queen-size bed, ornamental fireplace and tons of closet space. An oversized second bedroom is quite large for the neighborhood, and has a Queen-size four-poster bed and ample closet space to accommodate longer stays. The third bedroom is charming and cozy, offering a Twin bed, tucked below a window overlooking Lincoln Street. 
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+Bedroom 3: Twin Bed 
+
+Parking: Non-metered Parking
+This unit has free, on-street parking right outside the front door and in the area. Availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends.
+
+Please note, we are unfortunately unable to host bachelorette/bachelor parties or traveling singles in this home.
+
+STVR Permit #: SVR-00126
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Elegant in Historic District by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+5 guests · 3 bedrooms · 3 beds · 2 baths
+Rated 4.48 out of 5 stars.
+4.48
+·
+25 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Whitefield Square is right outside, with Forsyth Park about a 5-min walk away
+Private courtyard with a gas grill
+A brick-paved courtyard with a gas grill and seating, tucked behind French doors off the kitchen
+Walkable and full of character
+Guests highlight the walkable location and the home's historic charm
+Historic Home with three bedrooms, two bathrooms and private courtyard.
+
+The space
+Built in 1867, the Mayor’s Quarters has three bedrooms and two bathrooms to comfortably accommodate up to five Lucky guests. It is the ideal choice if you’re looking for the charm of an historic home without sacrificing the convenience of downtown living.
+
+Each room of the home is steeped in relaxed elegance, with a mix of antique furniture and modern amenities. Throw back the shutters and let the sunlight stream into the welcoming living room, with original hardwood floors and decorative hearth. Pocket doors lead to the adjacent six-seat dining room, where more stately antiques and period charm abound. A full bathroom with walk in shower is located underneath the stairs. The updated, fully equipped kitchen has everything you’ll need, and the adjacent “keeping room” is a truly special brick-lined enclave with cozy seating for intimate conversations or curling up with a good book. French doors in the kitchen lead out to your spacious and private brick-paved courtyard. Equipped with a gas grill and ample seating, you’ll be able to enjoy Savannah’s perfect weather dining al fresco. 
+
+Upstairs, you’ll find three bedrooms are elegantly appointed with rich, dark woods and soothing neutral tones. The full bath upstairs boasts marble tile, his and her pedestal sinks, and a cast iron claw foot tub. The first bedroom has a Queen-size bed, ornamental fireplace and tons of closet space. An oversized second bedroom is quite large for the neighborhood, and has a Queen-size four-poster bed and ample closet space to accommodate longer stays. The third bedroom is charming and cozy, offering a Twin bed, tucked below a window overlooking Lincoln Street. 
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+Bedroom 3: Twin Bed 
+
+Parking: Non-metered Parking
+This unit has free, on-street parking right outside the front door and in the area. Availability will depend on time of day and season. Our guests have not reported trouble parking near the home, even on the busiest of weekends.
+
+Please note, we are unfortunately unable to host bachelorette/bachelor parties or traveling singles in this home.
+
+STVR Permit #: SVR-00126
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 33 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.48 out of 5 stars from 25 reviews
+4.48 · 25 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 64% of reviews
+5
+4 stars, 24% of reviews
+4
+3 stars, 8% of reviews
+3
+2 stars, 4% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.5 out of 5 stars for cleanliness
+Cleanliness
+4.5
+Rated 4.6 out of 5 stars for accuracy
+Accuracy
+4.6
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.7 out of 5 stars for communication
+Communication
+4.7
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.4 out of 5 stars for value
+Value
+4.4
+Guest reviews mention
+Walkability
+9
+Location
+15
+Parking
+5
+Cleanliness
+9
+Bathroom
+5
+Comfort
+7
+Decor
+4
+Check-in
+3
+Hospitality
+6
+Indoor spaces
+4
+Susan
+11 years on Airbnb
+Rating, 2 stars
+,
+·
+December 2024
+,
+·
+Stayed a few nights
+This property is very tired. It is damp, cold, mouldy and dingy. We killed 3 roaches. They offered to come and spray pesticides while we were occupying the house?! Obviously a no go. I have asthma and had to spend the last night in a B&B.
+It is not suitable for people who have allergies to dust and mould or have asthma.
+The downstairs bathroom really only functions as a W.C. and the upstairs family shower is not safe for older people. The photos are enhanced to give the impression that the back of the house is full of light. It is not. The heating worked but the downstairs remained cold and damp. The bottom line is that the house needs a tremendous amount of TLC and updating.
+Management was attentive but there isn’t much to do to fix the problems. They offered to come look at the issues but I declined bc I didn’t want to wait for them to arrive or to have people in the house while we were out. 
+Lastly, my daughter left jewellery in her room. We called - not found by cleaning crew.
+Show more
+Leslie
+Charlotte, North Carolina
+Rating, 3 stars
+,
+·
+September 2024
+,
+·
+Stayed a few nights
+This place was nice and spacious, in a good location and we didn't have any issues with finding parking.  It was very musty smelling which hits you as soon as you walk in the door.  The hot water in the upstairs shower was not working which made for a cold shower experience.  Otherwise, a lovely place.
+Show more
+Alyssa
+Canton, Ohio
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Great Experience, Good Location, Walkable to Everything, Very Responsive and Great Communication.
+Show more
+Sitarih
+Nokomis, Florida
+Rating, 3 stars
+,
+·
+July 2024
+,
+·
+Group trip
+We were 5 people at the airbnb (2 story home). One bathroom was on the first floor and the other on the 2nd. We informed the host that the shower on the first floor was not working, only to be told that it was very sensitive and needed to be used a certain way. After letting them know that it was not working, we were told that they would have a plumber look into it. That never happened and so we were 5 people taking a shower in one bathroom for 3 days which was very inconvenient.
+The home also had a very musty smell.
+Show more
+Luke
+Marietta, Georgia
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+Had a great time at the Mayor's Quarters. If you are accommodating your trip around the Gastonian, I recommend this place.
+Show more
+Judy
+9 years on Airbnb
+Rating, 4 stars
+,
+·
+October 2024
+,
+·
+Stayed a few nights
+The home is lovely and nicely appointed. The location is makes it easy to walk to all the historic homes and restaurants. However, there is a moisture problem that needs to be addressed. The downstairs furniture has a slight damp feel and the house has a strong musty odor throughout the home that hits you in the face immediately when you walk in the door. There may be a mold problem because we were all having respiratory issues while in the house -  including runny nose, scratchy throat, slight cough and itchy watering eyes. Once we stepped out of the house, we all felt fine. The house needs a dehumidifier to rid it of moisture.  Also, the upstairs bathroom needs better lighting. It is so dark in the bathroom once the sun goes down. Additionally, we were sent the wrong access code for the door lock but when we read the instructions to operate the lock, there was a different code listed which worked. It took us while to figure out the problem but eventually got in.
+Show more
+Show all 25 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+5 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,663 @@
+URL: https://www.airbnb.com/rooms/1635001701347747570
+Title: Experience Refined Comfort | Heated Pool Access
+Latitude: 32.06901558751922
+Longitude: -81.08983732547
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Refined Southern charm meets modern comfort in this two-bedroom, two-bathroom retreat in Savannah’s East Historic District. Sleeping up to four guests, the home features two queen beds, one twin bed, a private en suite with stand up shower, full kitchen, in-unit laundry, and a shared courtyard — all within walking distance of Forsyth Park and downtown attractions.
+
+The space
+The Artist Retreat Unit B - A Refined Historic Escape
+
+Welcome to this beautifully appointed two-bedroom, two-bathroom apartment located in a historic Victorian-style duplex in Savannah’s charming Historic District. Designed with refined southern décor and timeless details, this spacious retreat comfortably accommodates up to four guests and offers an inviting setting for a family getaway or a weekend with friends.
+
+
+
+The open layout creates a seamless flow between the living, dining, and kitchen areas, allowing everyone to gather comfortably while still enjoying room to spread out. Classic furnishings, soft neutral tones, and elegant accents give the home a warm, welcoming feel that reflects Savannah’s historic charm. The living room features comfortable seating centered around a large smart TV, creating the perfect place to relax after a day spent exploring the city’s cobblestone streets and picturesque squares.
+
+
+
+The kitchen is fully equipped with full-size appliances, generous counter space, and ample storage, making meal preparation both simple and enjoyable. Whether you’re brewing coffee before a morning stroll or preparing dinner at home, you’ll have everything you need. 
+
+
+
+Comfortable Bedrooms and Thoughtful Bathroom Layout
+
+This apartment features two thoughtfully designed bedrooms, each offering its own sense of comfort and privacy. Two of the bedrooms include queen beds dressed in soft, high-quality linens, creating peaceful retreats at the end of the day. There is also an additional sleeping space that features a twin bed, making it a wonderful option for a child or an additional guest. The traditional yet elegant décor carries throughout each space, blending warmth with understated elegance.
+
+
+
+One of the queen bedrooms includes a private en suite bathroom with a stand-up shower, offering added convenience. The second full bathroom is located off the hallway and features a shower and tub combination, ideal for guests who appreciate the option of a relaxing soak or for families traveling with children. Both bathrooms are finished with clean, classic details and plush towels to ensure comfort throughout your stay.
+
+
+
+A washer and dryer are conveniently located within the apartment, making longer stays easy and stress-free.
+
+
+
+A Peaceful Outdoor Courtyard
+
+Step outside to enjoy the charming courtyard tucked behind the building, shared with the other unit in this historic duplex. This inviting outdoor space features comfortable seating, a dining table with an umbrella, and lush greenery that creates a quiet escape from the energy of downtown. It’s an ideal setting for sipping morning coffee, enjoying an al fresco meal, or unwinding in the evening beneath the Savannah sky.
+
+
+
+Modern Amenities for a Seamless Stay
+
+Keyless entry ensures a smooth and secure check-in process. The apartment includes a smart TV, a fully equipped kitchen, an in-unit washer and dryer, and access to the peaceful courtyard. With two bedrooms and two full bathrooms, the home offers both comfort and practicality for families and small groups alike.
+
+
+
+Walkable Location
+
+Situated in Savannah’s East Historic District, this apartment places you within easy walking distance of the city’s most beloved attractions. Forsyth Park is just about a ten-minute stroll away, offering open green space, scenic walking paths, and the iconic fountain that has become a symbol of the city. From there, you can hop on the free DOT trolley to explore even more of downtown with ease.
+
+
+
+Nearby, Whitfield Square and Mother Matilda Beasley Park provide additional neighborhood green spaces perfect for relaxing outdoors. Local cafés, boutiques, restaurants, and historic squares are all just steps away, inviting you to experience Savannah at your own pace. Free street parking is available directly in front of the building, making arrival convenient and stress-free. Once you’re settled in, you may find you rarely need your car at all.
+
+
+
+From its refined decor, to its exceptional walkable location, this downtown retreat offers a timeless and comfortable home base for your Savannah getaway. Whether you’re here for a long weekend or an extended stay, you’ll find everything you need for a memorable and relaxing experience.
+
+Guest access
+Occupancy: 4
+
+Living Room: Comfortable seating and smart TV
+
+Kitchen: Fully equipped kitchen with modern appliances, dining table seats six, and additional table seats 2
+
+Bedroom 1: Queen bed with en suite bathroom featuring a stand up shower
+
+Bedroom 2: Queen bed
+
+Additional sleeping space: Twin bed
+
+Second Bathroom: Full bathroom with shower and tub combination
+
+Laundry: In-unit washer + dryer
+
+Outdoor Space: Courtyard with seating, shared with upper unit
+
+Entry: Secure keyless entry for self-check-in
+
+Parking: Free street parking is available
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+ 
+
+SVR 03177
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Bed linens
+Iron
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Heating and cooling
+Air conditioning
+Portable fans
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Pool
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Essentials
+Essentials
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Experience Refined Comfort | Heated Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Rated 4.82 out of 5 stars.
+4.82
+·
+11 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's East Historic District
+Whitefield Square is steps away, with Troup Square and Forsyth Park about a 10-min walk
+Victorian duplex with a full kitchen
+An open kitchen and living area with a dining table that seats six, in a Victorian-style duplex
+Clean, beautifully decorated
+Guests highlight how clean and beautifully decorated the space is, with several calling it a top stay
+Refined Southern charm meets modern comfort in this two-bedroom, two-bathroom retreat in Savannah’s East Historic District. Sleeping up to four guests, the home features two queen beds, one twin bed, a private en suite with stand up shower, full kitchen, in-unit laundry, and a shared courtyard — all within walking distance of Forsyth Park and downtown attractions.
+
+The space
+The Artist Retreat Unit B - A Refined Historic Escape
+
+Welcome to this beautifully appointed two-bedroom, two-bathroom apartment located in a historic Victorian-style duplex in Savannah’s charming Historic District. Designed with refined southern décor and timeless details, this spacious retreat comfortably accommodates up to four guests and offers an inviting setting for a family getaway or a weekend with friends.
+
+
+
+The open layout creates a seamless flow between the living, dining, and kitchen areas, allowing everyone to gather comfortably while still enjoying room to spread out. Classic furnishings, soft neutral tones, and elegant accents give the home a warm, welcoming feel that reflects Savannah’s historic charm. The living room features comfortable seating centered around a large smart TV, creating the perfect place to relax after a day spent exploring the city’s cobblestone streets and picturesque squares.
+
+
+
+The kitchen is fully equipped with full-size appliances, generous counter space, and ample storage, making meal preparation both simple and enjoyable. Whether you’re brewing coffee before a morning stroll or preparing dinner at home, you’ll have everything you need. 
+
+
+
+Comfortable Bedrooms and Thoughtful Bathroom Layout
+
+This apartment features two thoughtfully designed bedrooms, each offering its own sense of comfort and privacy. Two of the bedrooms include queen beds dressed in soft, high-quality linens, creating peaceful retreats at the end of the day. There is also an additional sleeping space that features a twin bed, making it a wonderful option for a child or an additional guest. The traditional yet elegant décor carries throughout each space, blending warmth with understated elegance.
+
+
+
+One of the queen bedrooms includes a private en suite bathroom with a stand-up shower, offering added convenience. The second full bathroom is located off the hallway and features a shower and tub combination, ideal for guests who appreciate the option of a relaxing soak or for families traveling with children. Both bathrooms are finished with clean, classic details and plush towels to ensure comfort throughout your stay.
+
+
+
+A washer and dryer are conveniently located within the apartment, making longer stays easy and stress-free.
+
+
+
+A Peaceful Outdoor Courtyard
+
+Step outside to enjoy the charming courtyard tucked behind the building, shared with the other unit in this historic duplex. This inviting outdoor space features comfortable seating, a dining table with an umbrella, and lush greenery that creates a quiet escape from the energy of downtown. It’s an ideal setting for sipping morning coffee, enjoying an al fresco meal, or unwinding in the evening beneath the Savannah sky.
+
+
+
+Modern Amenities for a Seamless Stay
+
+Keyless entry ensures a smooth and secure check-in process. The apartment includes a smart TV, a fully equipped kitchen, an in-unit washer and dryer, and access to the peaceful courtyard. With two bedrooms and two full bathrooms, the home offers both comfort and practicality for families and small groups alike.
+
+
+
+Walkable Location
+
+Situated in Savannah’s East Historic District, this apartment places you within easy walking distance of the city’s most beloved attractions. Forsyth Park is just about a ten-minute stroll away, offering open green space, scenic walking paths, and the iconic fountain that has become a symbol of the city. From there, you can hop on the free DOT trolley to explore even more of downtown with ease.
+
+
+
+Nearby, Whitfield Square and Mother Matilda Beasley Park provide additional neighborhood green spaces perfect for relaxing outdoors. Local cafés, boutiques, restaurants, and historic squares are all just steps away, inviting you to experience Savannah at your own pace. Free street parking is available directly in front of the building, making arrival convenient and stress-free. Once you’re settled in, you may find you rarely need your car at all.
+
+
+
+From its refined decor, to its exceptional walkable location, this downtown retreat offers a timeless and comfortable home base for your Savannah getaway. Whether you’re here for a long weekend or an extended stay, you’ll find everything you need for a memorable and relaxing experience.
+
+Guest access
+Occupancy: 4
+
+Living Room: Comfortable seating and smart TV
+
+Kitchen: Fully equipped kitchen with modern appliances, dining table seats six, and additional table seats 2
+
+Bedroom 1: Queen bed with en suite bathroom featuring a stand up shower
+
+Bedroom 2: Queen bed
+
+Additional sleeping space: Twin bed
+
+Second Bathroom: Full bathroom with shower and tub combination
+
+Laundry: In-unit washer + dryer
+
+Outdoor Space: Courtyard with seating, shared with upper unit
+
+Entry: Secure keyless entry for self-check-in
+
+Parking: Free street parking is available
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Occupancy 
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+ 
+
+SVR 03177
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pool
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Backyard
+Show all 46 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.82 out of 5 stars from 11 reviews
+4.82 · 11 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 91% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 9% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+5
+Location
+7
+Decor
+4
+Cleanliness
+5
+Parking
+2
+Nearby
+3
+Indoor spaces
+3
+Comfort
+3
+Condition
+2
+Accuracy
+2
+Hannah
+Lake Charles, Louisiana
+Rating, 3 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+The house was really cute, spacious, and the pictures matched the house. The only issue we had was that the whole house smelled like mildew upon entering. Also, the house had a wet feeling, and many of our clothes that were left out became damp. 
+The host was very responsive, and the outdoor space was cute, but the mildew smell coupled with a loud ac unit under the house in one of the rooms, is why I did not rate this a 5 star. 
+The house was walkable and felt safe, and was probably 15-20 min from Broughton street.
+Show more
+Devon
+Philadelphia, Pennsylvania
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+The place was comfortable, clean and peaceful. Great location, close to everything and extremely walkable. The house decor perfectly fit the history and style of the home… just perfect!
+Show more
+Kenneth
+Wahneta, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Beautiful home, great location and very clean.
+Laura
+Livermore, California
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had a lovely time staying here. The neighborhood is peaceful with amble free parking. The home is beautifully decorated and super clean with comfortable beds. The kitchen was supplied well for  preparing quick breakfasts and lunches, but if you plan on cooking elaborate meals, you may find it lacking in cooking amenities. I appreciated the stock of dishwasher and laundry soap. There was just enough for our stay.  We also enjoyed the chess table right next to the bay window facing the street. The host was professional and attentive. This was one of the best Airbnbs I’ve ever stayed in.
+Show more
+Paul
+Boca Raton, Florida
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed over a week
+We had a great stay at this beautiful home in a lovely neighborhood. It was really nice to walk around and spend time at one of the many squares of Savannah which was close by. The house was exactly as described. We would definitely recommend it to anyone and stay there again in the future.
+Show more
+Vinnie
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+The house and location were perfect. Great ambiance and nice sized back yard. the hosts were so responsive and quick to reply. Great place and great hosts.
+Show all 11 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

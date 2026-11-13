@@ -1,0 +1,12 @@
+{
+  "charts_per_folder": 295,
+  "original_charts": 270,
+  "original_unchanged": true,
+  "increasing_series": 32,
+  "selected_increasing_plots": 15,
+  "matched_properties": 484,
+  "estimated_amenity_models": 38,
+  "source_manifest_sha256": "8b378590f6aa801e5156b3c4644f1b411ef37d2e8241ba6dafd65b673fdfe4bb",
+  "report_data_sha256": "0885dd885e7cb36201cd2ea6d82211e76e78dc7a009975cf47902879469e33f9",
+  "on_site_count_factor_removed": true
+}

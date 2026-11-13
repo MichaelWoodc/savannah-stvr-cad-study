@@ -1,0 +1,474 @@
+URL: https://www.airbnb.com/rooms/1206000181685013062
+Title: Lowden - River Street Views, 2 Balconies, Parking
+Latitude: 32.0824
+Longitude: -81.0937
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 7
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 queen bed
+
+Living room
+2 sofa beds, 2 trundle beds
+
+=== FULL DESCRIPTION ===
+The most premier location on River Street with two private balconies overlooking the Savannah River! Enjoy stunning views of the river while watching mega ships and super yachts sail into port. Located in the heart of the Historic District, explore all the city has to offer as the most popular sites attractions are within walking distance.
+
+The space
+This historic building offers all the modern amenities while showcasing the city's rich history through carefully preserved details. The house has plenty of games, books, and TV's  to keep everyone entertained and with 5 beds, there's enough room for the whole family or group of friends. The kitchen is fully equipped for cooking and the home offers plenty of space, creating the perfect home away from home. The listing includes one private parking space at the front door. There's an additional parking space reserved for the owner which can be leased upon request. Don't miss out on the opportunity to make unforgettable memories at Lowden Suites on Historic River Street.
+
+
+STVR Certificate: SVR-02435
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib - always at the listing
+Children’s books and toys
+High chair
+Children’s dinnerware
+Baby monitor
+Board games
+Heating and cooling
+Central air conditioning
+Indoor fireplace: gas
+Ceiling fan
+Portable fans
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Parking and facilities
+Free parking on premises – 1 space
+Paid street parking off premises
+Services
+Self check-in
+Smart lock
+Housekeeping - available at extra cost
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Lowden - River Street Views, 2 Balconies, Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 3 bedrooms · 5 beds · 3 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+88 reviews
+88
+Reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+On River Street in the Historic District
+Steps from the Riverfront Plaza, with City Market and Ellis Square about a 5-min walk away
+Private balconies on the river
+Two private balconies overlooking the Savannah River, where guests love watching ships pass by
+Chaz goes above and beyond
+Guests highlight Chaz as a responsive and attentive host who checks in throughout the stay
+Some info has been automatically translated. Show original
+The most premier location on River Street with two private balconies overlooking the Savannah River! Enjoy stunning views of the river while watching mega ships and super yachts sail into port. Located in the heart of the Historic District, explore all the city has to offer as the most popular sites attractions are within walking distance.
+
+The space
+This historic building offers all the modern amenities while showcasing the city's rich history through carefully preserved details. The house has plenty of games, books, and TV's  to keep everyone entertained and with 5 beds, there's enough room for the whole family or group of friends. The kitchen is fully equipped for cooking and the home offers plenty of space, creating the perfect home away from home. The listing includes one private parking space at the front door. There's an additional parking space reserved for the owner which can be leased upon request. Don't miss out on the opportunity to make unforgettable memories at Lowden Suites on Historic River Street.
+
+
+STVR Certificate: SVR-02435
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 7 | Count unverified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 queen bed
+
+Living room
+2 sofa beds, 2 trundle beds
+
+What this place offers
+Waterfront
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises – 1 space
+TV
+Free washer – In unit
+Dryer
+Central air conditioning
+Bathtub
+Show all 58 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 88 reviews.
+4.98
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Location
+64
+Walkability
+23
+River
+14
+View
+29
+Parking
+15
+Hospitality
+37
+Comfort
+12
+Nearby
+16
+Cleanliness
+16
+Layout
+3
+Hilary
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Group trip
+We had such a wonderful stay! The place was absolutely beautiful, clean, comfortable, and exactly what we were looking for. The location was perfect and within walking distance of shops, restaurants, and bars, which made exploring the area so easy and convenient. The host was also incredibly helpful, responsive, and welcoming throughout our stay. We truly enjoyed our time here and would definitely stay again!
+Show more
+Evelin
+Lawrenceville, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+My family had a great weekend there! It was very spacious! Host provides baby gates, high chair and play pen for toddlers which was a must for us. There are boards games there for rainy days. Definitely took advantage of that! The balcony views were amazing! Huge Boats quietly passed by! Location made it easy for us to split up and view river street and surrounding places. Overall we loved the place. So much that we decided to extend our stay a little longer and Chaz quickly accepted our request. I would definitely return.
+Show more
+Jeff
+Glenbeulah, Wisconsin
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Group trip
+Beautiful place!
+Exceptional location, very walkable to do many things.
+The deck was small , but the perfect spot to people watch and to see all the ships come down the river.
+Show more
+Tanya
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Thanks! Great place!
+James
+Los Angeles, California
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Had a great stay here with my parents. The place is spacious, comfortable, and convenient. The kitchen, dining area, bathrooms, living room, and bedrooms were all well equipped. Appreciated the AC after being outside. The views from the balconies to river street and boats were great. It was conveniently located so we were able to walk to get coffee, brunch, just stroll around squares or along the river, etc. 
+we also enjoyed just lounging, reading, and watching tv at night or when it was raining. No complaints. It was a nice relaxing place with easy access to whatever else is going on, especially with a dedicated parking spot.
+Show more
+Crystal
+Florence, South Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This home is absolutely beautiful and very well maintained. Everything is walkable, perfect location, the view on the balconies is amazing! The included parking spot right in front of the home is a definite plus. I will definitely be booking again!!
+Show more
+Show all 88 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Located right on River Street and Bay street. Walkable to everywhere in Savannah you want to be.
+Show more
+Meet your host
+Chaz
+Superhost
+3,098 reviews
+3098
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Waterfront vacation rentals in Savannah
+Waterfront vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

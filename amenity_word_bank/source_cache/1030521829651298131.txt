@@ -1,0 +1,584 @@
+URL: https://www.airbnb.com/rooms/1030521829651298131
+Title: 5BR Victorian Carriage House | Near Forsyth Park
+Latitude: 32.0635
+Longitude: -81.0962
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Heirloom
+Host ID: 276892829
+Host profile ID: 1468117954483514942
+Host URL: https://www.airbnb.com/users/profile/1468117954483514942
+Bedrooms: 5
+Occupancy (maximum guests): 11
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 7
+
+Beds enumerated in room tiles: 7
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed, 1 single bed
+
+Bedroom 5
+1 king bed
+
+=== FULL DESCRIPTION ===
+Welcome to this beautifully renovated 5-bedroom, 3-bathroom carriage house in Savannah's historic Victorian District, designed for groups of up to 11 guests. Located a 2-minute walk from Forsyth Park, this 2-story home features 12-foot ceilings, heart pine floors, and access to a shared heated outdoor pool and spa, making it an ideal retreat for groups exploring the best of Savannah.
+
+The space
+This carriage house is located on a compound with 3 units in total. This listing is for the carriage house unit. Please inquire if you are interested in renting these units together.
+
+🏠 1 Unit | 🛏️ 5 Bedrooms | 🛁 3 Full Bathrooms
+
+FEATURES
+🍳 Fully stocked kitchen with essential cookware
+🏊 Shared heated outdoor pool and spa with loungers and dining area
+⚡ High-speed WiFi
+🛏️ Premium mattresses and Matouk linens and towels
+🧴 High-end essential toiletries
+📺 2 Smart TVs with streaming capabilities
+🚗 Free off-street parking for up to 2 vehicles
+
+ACCESSIBILITY & LAYOUT
+A few steps are required to access the front door. This is a 2-story home with bedrooms on both floors, accessible via an interior staircase. The unit features 12-foot ceilings, plaster moldings, and heart pine floors. The shared outdoor pool and spa are located directly in front of the carriage house entrance. Gate codes will be provided at check-in.
+
+🛌 Sleeping Arrangements
+
+First Floor
+
+🛏️ Bedroom 1: King bed
+🛁 Bathroom 1 — Full bathroom with step-in shower (Serves Bedroom 1)
+
+✨ Additional Spaces
+🛋️ Living room
+🍽️ Dining area
+🍳 Kitchen
+
+Second Floor
+
+🛏️ Bedroom 2: Twin over Twin bunk
+🛏️ Bedroom 3: King bed
+🛏️ Bedroom 4: Queen bed and Single bed
+🛏️ Bedroom 5: King bed 🛁 Bathroom 3 — Ensuite bathroom with step-in shower
+🛁 Bathroom 2 — Hallway Full bathroom with shower and tub combo (Serves Bedrooms 2, 3 and 4)
+
+🌴 Outdoor Area
+Shared heated outdoor pool and spa accessible to all 3 units on the property. Includes lounge chairs and outdoor dining area. Other guests may be present. Please inquire if you are interested in making this a private space by renting the entire property.
+. 
+
+Host Information:
+
+Stay Heirloom professionally manages a collection of handcrafted homes designed to bring your group together. 
+
+If you love this listing, but you are looking for something you don’t see here, please inquire!
+
+Guest access
+The unit has locks with door codes. Codes and other check-in details will be provided via message and texted to your phone on the day of check-in.
+
+Other things to note
+HOUSE DISCLOSURES
+–We try our best to accommodate early check-ins, but we want to ensure the entirety of the spacious estate is clean and prepared for arrival. We can often accommodate early bag drop for your convenience. Please inquire if this is of interest to your group.
+
+BUSINESS DISCLAIMERS
+–We have a minimum age requirement for booking this rental. Reservation holder must be 21 years or older.
+–We request that guests complete a guest verification process and sign an additional agreement prior to receiving any check-in information. 
+–We require that guests provide a valid credit card and piece of ID for identification purposes only.  
+–We do not accept peer-to-peer payment systems or any prepaid debit cards as methods of payment. 
+–Pets are not allowed at this property. 
+–Mailing packages to the premises is not permitted.
+–We use Arlo/Hikvision and Noise Aware in our homes. Arlo/Hikvision is a video recording system that has been installed at the front/back doors of the home’s EXTERIOR ONLY, for your safety. NoiseAware is a decibel monitoring system that we use to keep in accordance with local noise regulations.
+
+Permit Number: SVR-02497
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Public Goods shampoo
+Public Goods conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Crib
+Baby monitor
+Baby safety gates
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Arlo video recording (front/back doors, exterior only; 24/7 motion activated). NoiseAware decibel monitoring (active).
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free street parking
+Outdoor pool
+Hot tub
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+5BR Victorian Carriage House | Near Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+11 guests · 5 bedrooms · 7 beds · 3 baths
+Rated 4.8 out of 5 stars.
+4.8
+·
+56 reviews
+Hosted by Heirloom
+Superhost · 7 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with cafes, restaurants, and the historic district all walkable
+Heated pool and hot tub on-site
+A shared heated pool and hot tub sit just outside the front door of this carriage house
+Responsive hosts, spotless spaces
+Guests consistently praise the responsive hosts and how spacious and clean the home feels
+Welcome to this beautifully renovated 5-bedroom, 3-bathroom carriage house in Savannah's historic Victorian District, designed for groups of up to 11 guests. Located a 2-minute walk from Forsyth Park, this 2-story home features 12-foot ceilings, heart pine floors, and access to a shared heated outdoor pool and spa, making it an ideal retreat for groups exploring the best of Savannah.
+
+The space
+This carriage house is located on a compound with 3 units in total. This listing is for the carriage house unit. Please inquire if you are interested in renting these units together.
+
+🏠 1 Unit | 🛏️ 5 Bedrooms | 🛁 3 Full Bathrooms
+
+FEATURES
+🍳 Fully stocked kitchen with essential cookware
+🏊 Shared heated outdoor pool and spa with loungers and dining area
+⚡ High-speed WiFi
+🛏️ Premium mattresses and Matouk linens and towels
+🧴 High-end essential toiletries
+📺 2 Smart TVs with streaming capabilities
+🚗 Free off-street parking for up to 2 vehicles
+
+ACCESSIBILITY & LAYOUT
+A few steps are required to access the front door. This is a 2-story home with bedrooms on both floors, accessible via an interior staircase. The unit features 12-foot ceilings, plaster moldings, and heart pine floors. The shared outdoor pool and spa are located directly in front of the carriage house entrance. Gate codes will be provided at check-in.
+
+🛌 Sleeping Arrangements
+
+First Floor
+
+🛏️ Bedroom 1: King bed
+🛁 Bathroom 1 — Full bathroom with step-in shower (Serves Bedroom 1)
+
+✨ Additional Spaces
+🛋️ Living room
+🍽️ Dining area
+🍳 Kitchen
+
+Second Floor
+
+🛏️ Bedroom 2: Twin over Twin bunk
+🛏️ Bedroom 3: King bed
+🛏️ Bedroom 4: Queen bed and Single bed
+🛏️ Bedroom 5: King bed 🛁 Bathroom 3 — Ensuite bathroom with step-in shower
+🛁 Bathroom 2 — Hallway Full bathroom with shower and tub combo (Serves Bedrooms 2, 3 and 4)
+
+🌴 Outdoor Area
+Shared heated outdoor pool and spa accessible to all 3 units on the property. Includes lounge chairs and outdoor dining area. Other guests may be present. Please inquire if you are interested in making this a private space by renting the entire property.
+. 
+
+Host Information:
+
+Stay Heirloom professionally manages a collection of handcrafted homes designed to bring your group together. 
+
+If you love this listing, but you are looking for something you don’t see here, please inquire!
+
+Guest access
+The unit has locks with door codes. Codes and other check-in details will be provided via message and texted to your phone on the day of check-in.
+
+Other things to note
+HOUSE DISCLOSURES
+–We try our best to accommodate early check-ins, but we want to ensure the entirety of the spacious estate is clean and prepared for arrival. We can often accommodate early bag drop for your convenience. Please inquire if this is of interest to your group.
+
+BUSINESS DISCLAIMERS
+–We have a minimum age requirement for booking this rental. Reservation holder must be 21 years or older.
+–We request that guests complete a guest verification process and sign an additional agreement prior to receiving any check-in information. 
+–We require that guests provide a valid credit card and piece of ID for identification purposes only.  
+–We do not accept peer-to-peer payment systems or any prepaid debit cards as methods of payment. 
+–Pets are not allowed at this property. 
+–Mailing packages to the premises is not permitted.
+–We use Arlo/Hikvision and Noise Aware in our homes. Arlo/Hikvision is a video recording system that has been installed at the front/back doors of the home’s EXTERIOR ONLY, for your safety. NoiseAware is a decibel monitoring system that we use to keep in accordance with local noise regulations.
+
+Permit Number: SVR-02497
+Show more
+All sleeping arrangements
+
+Advertised beds: 7 | Enumerated: 7 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed, 1 single bed
+
+Bedroom 5
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+Outdoor pool
+Hot tub
+TV
+Washer
+Dryer
+Exterior security cameras on property
+Show all 57 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.8 out of 5 stars from 56 reviews
+4.8 · 56 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 80% of reviews
+5
+4 stars, 20% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Parks
+9
+Hospitality
+31
+Pool
+12
+Walkability
+15
+Cleanliness
+22
+Location
+23
+Comfort
+17
+Nearby
+15
+Indoor spaces
+13
+Accuracy
+10
+Theresa
+Washington, District of Columbia
+Rating, 4 stars
+,
+·
+August 2024
+,
+·
+Group trip
+We booked this home for our 26th friendship anniversary. The space was large enough for the 7 of us to sleep comfortably. The furniture layout was conducive for group conversations and meals. The outdoor tables and pool were a bonus to the stay. Great location, only a short walk from the farmer's market and convenient parking.
+Show more
+Aaron
+Seattle, Washington
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with kids
+Amazing home, very spacious and clean. The house came very equipped with towels, sheets, pillows and the mattresses were very comfortable. The location is great and very close to the park. The pool was a bit dirty (milky, not debris), but the team was very responsive and apologetic. I would absolutely stay here again, great with children too.
+Show more
+Veronica
+Boiling Springs, South Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+We really enjoyed our stay and would stay here again.  The house is very close to the park, walkable to restaurants and coffee shops  and a 5-10 min drive to riverfront and shops.  We stayed in the carriage house and was the right amount of space for our staff of 5 retreat.  The place is very clean, looks exactly like the pictures and the pool was enjoyable. Even though the hot tub heater was not working, it was hot enough outside that the cool water was refreshing.  I highly recommend this Airbnb .
+Show more
+Lauren
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Group trip
+Super responsive and helpful!
+Aly
+Cincinnati, Ohio
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Had a great experience! Easy access, clear instructions, clean spaces, we had a blast!
+Gabby
+Boiling Springs, Pennsylvania
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Very spacious for a week long girls trip.
+Show all 56 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Located a quick 2 min walk away from Forsyth Park, our home places you at the doorstep of Savannah’s acclaimed food and art scenes. Check out the SCAD Museum of Art, or spend the day shopping and dining along the riverfront. There are a few homes in the neighborhood that need to be renovated, so while this could still be considered a transitional neighborhood, we have never had any safety issues. As far as safety is concerned, common sense is the general rule of thumb, just like in any major city. All guests after booking will receive a personalized list of recommendations including locals favorite spots, restaurants, and activities. We will provide detailed information and guides on the surrounding area to enhance your overall experience.
+Show more
+Meet your host
+Heirloom
+Superhost
+17,063 reviews
+10,000
++
+Reviews
+4.77 out of 5 average rating
+4.77
+Rating
+7 years of hosting
+7
+Years hosting
+My work: Professional Luxury Vacation Rentals
+At Heirloom, we believe that group travel should never mean compromising on luxury amenities and beautiful design. We’ve established ourselves across the US, with over 300 listings in premier cities around the country. Whether you’re looking for a relaxing getaway on Nantucket or an upbeat visit to New Orleans, we have the home for you.
+Heirloom is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+11 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Pool/hot tub without a gate or lock
+Carbon monoxide alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

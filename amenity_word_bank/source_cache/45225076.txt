@@ -1,0 +1,459 @@
+URL: https://www.airbnb.com/rooms/45225076
+Title: Cozy Carriage House in Starland District
+Latitude: 32.05138
+Longitude: -81.09718
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Angelique
+Host ID: 11076705
+Host profile ID: 1462856472337113839
+Host URL: https://www.airbnb.com/users/profile/1462856472337113839
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+=== FULL DESCRIPTION ===
+This charming 1 bedroom carriage house is located in the Starland District of Savannah. It is centrally located within very close walking distance to many of attractions and great restaurants such as galleries, Starland Yard, Starland Cafe, Two Tides Brewery, Back in the Day Bakery, The Wormhole, etc. The Starland District provides unique Savannah charm with its eclectic stores, delicious eats, and enchanting atmosphere. It is just a short Uber ride (~8-10 min) to the downtown area.
+
+The space
+The carriage house is well-appointed, bright, and comfortable and is centrally located within very close walking distance to the wonderful establishments of the Starland district. There is a lovely shared courtyard with a gas grill that you are welcome to use. Please clean the grill after using it and make sure the gas is turned off. The electronic igniter is fussy and does not work sometimes and you will have to use matches/lighter. Should you run out of gas the chevron station at the corner has an exchange station and if you exchange tanks I will be happy to reimburse you the cost. 
+
+We take extra care to Clean and then Disinfect your space due to COVID-19 before and after each reservation. Includes extensive disinfecting of commonly touched spaces like doorknobs, light switches, lockboxes, etc. for your safety.
+
+Please adhere to the occupancy rule as you agreed to in the listing contract. My home will accommodate 2 guests.
+
+Other things to note
+Please note there is a flight of stairs to access the house. There is free parking on the street, but be mindful of the street sweeper signs which designate a certain day and time not to park on that side of the street.
+
+Please adhere to the occupancy rule as you agreed to in the listing contract. My home will accommodates 6 guest very comfortably.
+
+The property is located in a safe & quite neighborhood that is mostly residential with a few local small business scattered about. Because the house is in the city and located on the corner, there is potential for traffic noise , fire & police sirens, street-sweepers, etc.
+
+The court yard is shared with the main house (my other rental property ) which is separate from the main house and located above the garage.
+
+SVR-02209
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Exterior security cameras on property
+There is a security camera on the front porch of the main house and by the back gate to the carriage house.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Stove
+Oven
+Coffee maker
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+BBQ grill
+Parking and facilities
+Free street parking
+Services
+Self check-in
+Lockbox
+Not included
+Unavailable: Washer
+Washer
+Unavailable: Dryer
+Dryer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Cozy Carriage House in Starland District
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.83 out of 5 stars.
+4.83
+266 reviews
+266
+Reviews
+Hosted by Angelique
+Superhost · 6 years hosting
+Listing highlights
+In Savannah's Starland District
+Walkable to cafes, breweries, and restaurants in the Starland District, with Forsyth Park within reach
+Equipped kitchen and courtyard grill
+A kitchen with a stove, oven, and coffee maker, plus a shared courtyard with a gas grill
+Clean, cozy, and a responsive host
+Guests describe it as clean, cozy, and comfortable, with many praising host Angelique's responsiveness
+This charming 1 bedroom carriage house is located in the Starland District of Savannah. It is centrally located within very close walking distance to many of attractions and great restaurants such as galleries, Starland Yard, Starland Cafe, Two Tides Brewery, Back in the Day Bakery, The Wormhole, etc. The Starland District provides unique Savannah charm with its eclectic stores, delicious eats, and enchanting atmosphere. It is just a short Uber ride (~8-10 min) to the downtown area.
+
+The space
+The carriage house is well-appointed, bright, and comfortable and is centrally located within very close walking distance to the wonderful establishments of the Starland district. There is a lovely shared courtyard with a gas grill that you are welcome to use. Please clean the grill after using it and make sure the gas is turned off. The electronic igniter is fussy and does not work sometimes and you will have to use matches/lighter. Should you run out of gas the chevron station at the corner has an exchange station and if you exchange tanks I will be happy to reimburse you the cost. 
+
+We take extra care to Clean and then Disinfect your space due to COVID-19 before and after each reservation. Includes extensive disinfecting of commonly touched spaces like doorknobs, light switches, lockboxes, etc. for your safety.
+
+Please adhere to the occupancy rule as you agreed to in the listing contract. My home will accommodate 2 guests.
+
+Other things to note
+Please note there is a flight of stairs to access the house. There is free parking on the street, but be mindful of the street sweeper signs which designate a certain day and time not to park on that side of the street.
+
+Please adhere to the occupancy rule as you agreed to in the listing contract. My home will accommodates 6 guest very comfortably.
+
+The property is located in a safe & quite neighborhood that is mostly residential with a few local small business scattered about. Because the house is in the city and located on the corner, there is potential for traffic noise , fire & police sirens, street-sweepers, etc.
+
+The court yard is shared with the main house (my other rental property ) which is separate from the main house and located above the garage.
+
+SVR-02209
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Air conditioning
+Bathtub
+Hair dryer
+Refrigerator
+Microwave
+Exterior security cameras on property
+Show all 30 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.83 out of 5 from 266 reviews.
+4.83
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 85% of reviews
+5
+4 stars, 13% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+60
+Location
+145
+Nearby
+73
+Parking
+31
+Cleanliness
+78
+Hospitality
+75
+Comfort
+50
+Quiet
+26
+Getting around
+41
+Accuracy
+25
+Madison
+3 months on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Stayed here for our 10 year anniversary and it was very nice, it was extremely close to the starland district (about 10 minute walk)
+We walked down to Foxy Loxy cafe (which the host recommended)
+Every morning! Air bnb was clean and In a quite area, highly recommend! Will stay here again when we’re back in Savannah!
+Show more
+Elington
+1 month on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+10/10 amazing stay! will definitely be booking here again, i wish i could live there permanently!!
+Andre
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Our host was very responsive and respectful. She even thought of a small welcome/bday gift. I would stay again.
+Marisa
+New York, New York
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Cozy cottage. Perfect for two. Super clean, bright bathroom and comfy king size bed. Quick 10 minutes in car to Historic District. Walking distance to nice restaurants, cafes and Starland Yard. Host was very responsive and quick to reply. I would recommend this cottage.
+Show more
+Faith
+Elizabethton, Tennessee
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We really enjoyed this place, it was perfect for 2 people. One of the best features in our opinion was that it felt very safe and secure due to the lockable gate to the street. Know that there is only street parking for public use, but we were always able to find something close. Would very much recommend!
+Show more
+Evelynn
+6 months on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We loved staying here! It was the perfect little spot for our trip. It was only a 10 minute drive from here to River Street and the Starland District was so charming! This home was exactly as described! It was very clean and tidy when we arrived. The place is in a good spot and surrounded by some great restaurants that were short walks and short drives!
+Show more
+Show all 266 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Red & White Food Store
+Grocery store
+Late Air
+Restaurant
+Kroger
+Grocery store
+Forsyth Park
+Park
+Mrs. Wilkes Dining Room
+American restaurant
+Keyboard shortcuts
+Map data ©2026
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+The Starland District is such a unique part of Savannah. It is less touristy and quieter than the hustle and bustle of downtown, but there are so many things to do within walking distance of the house such as art galleries, breweries, shopping, and amazing restaurants (highly recommend the vault!). It is still a short Uber/Lyft ride away to downtown, so it is a great way to experience all that Savannah has to offer.
+
+The house is located in a safe & quiet neighborhood that is mostly residential with a few local small businesses scattered about, but because the house is in the city and located on the corner there is potential for traffic noise, fire & police sirens, street-sweepers, etc.
+Show more
+Meet your host
+Angelique
+Superhost
+482 reviews
+482
+Reviews
+4.86 out of 5 average rating
+4.86
+Rating
+6 years of hosting
+6
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Angelique is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

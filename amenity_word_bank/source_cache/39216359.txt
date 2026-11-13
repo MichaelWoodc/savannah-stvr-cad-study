@@ -1,0 +1,501 @@
+URL: https://www.airbnb.com/rooms/39216359
+Title: Liberty Lane Carriage House With Garage Spot!
+Latitude: 32.0728
+Longitude: -81.088
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Mary
+Host ID: 10371587
+Host profile ID: 1462838847845697919
+Host URL: https://www.airbnb.com/users/profile/1462838847845697919
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Awesome location in Savannah's Historic District! This carriage house apartment has a compact designer kitchen and ultra stylish furnishings. Private garage parking for 1 small car below the rental is an added luxury! Steps from dining, shopping and tourist landmarks. King size bed + single cot pullout chair for person #3 if needed in living room. Garage bay fits a small or medium size car. If your vehicle is large the street parking is free to the public on this block.
+
+SVR- 02031
+
+The space
+Ultra light, modern and spacious one bedroom apartment. Professionally decorated and newly constructed. High end linens and finishes throughout. The bedroom with King bed is separated from the living/kitchen area by a real door. The living room has a pullout single bed. There is a TV in the bedroom and the living room. The bathroom has a combination tub/shower. The laundry machines are brand new and do not require coins.
+
+Guest access
+You will have access to the garage where you may use 1 of the 2 bays. Garage bay fits a small or medium size car and the garage door is roughly 91" wide and 83" tall. The other bay is for the garden level apartment which is across the courtyard. Once you go up the stairs to your private unit door you have an entire complete dwelling space that is not shared with anyone. Your unit has a washer/dryer, full bathroom, kitchen (no dishwasher), King bedroom with TV, Living room with TV  and pullout single bed. You will have access to the shared courtyard. It is shared with the other 2 rentals in this private compound, and it is completely walled in and secure. We ask all guests to limit use to the hours of 8am to 9pm to avoid noise complaints from any neighbor and to observe the City of Savannah licensed vacation rental ordinance rules.
+
+Other things to note
+I wanted to mention that Savannah has certain bugs which we can control to some extent with poison (which every hotel and vacation rental will use on perimeters) but guests still can see them, even if they’re slower and dying from walking across poison barriers. Specifically palmetto bugs are prolific here. If guests see one we do not issue any refunds due to seeing these.
+
+The "no smoking" house rule extends to the courtyard and surrounding outdoor areas. No smoking is permitted on this property, even outdoors.
+
+The required 13% taxes are already included in my airbnb rates (6% to the city and 7% to the state).
+
+Events, holidays and stays during March & April may require 3 night minimums and/or have higher rates than the standard ones published.
+
+This is a traditional vacation rental home, not a “bed and breakfast”. We do not provide food or drinks but we do provide basic cooking and serving utensils, a coffee maker, and dish soap. Downtown Savannah has a major supermarket (Kroger) and a 24 hour market (Parkers on Drayton) so there is no need to pack everything from home if shopping when you get here makes more sense. 
+
+What to bring with you:
+
+A typical grocery run prior to arriving at your vacation home would include coffee, beer/wine, milk, eggs, butter, bread and any other basic groceries you would need for the meals you eat in the home. 
+
+The home has a K-cup coffee maker. The owners like to provide coffee, laundry detergent, and dryer sheets so if you see them there please feel free to use them. 
+
+You should bring or buy your own napkins and your own beach towels and beach gear, and your own cooler if you need one.  
+
+What we provide:
+
+We provide toilet paper (2 extras per bathroom), liquid hand washing dish soap, bathroom soap, sheets on each bed, and at least one bath towel for each guest. We do not permit our towels to be taken out of the house which is why you must bring your own towels if you visit the beach. 
+
+If you find we have left seasonings, oil, dishwasher pellets, or any unopened food or drinks then of course feel free to use what is there. We occasionally leave items but just cannot promise them all the time. 
+
+Please also note that in Savannah, sugar ants can smell cookies, spilled sugar or syrup, or an open sugar container from a mile away and will find a way in through a windowsill or door frame. It can be somewhat like a cartoon picnic where they march in a line to find the food. To avoid this try to keep your snacks contained in air tight baggies, the refrigerator, or buy single serve packets and put the trash in the outdoor trash cans as soon as possible. 
+
+The following is standard Savannah Luxury Rentals information: We provide sheets, toilet paper and soap. If you prefer thick cushioned toilet paper bring it along but use it sparingly in our older plumbing and never flush "flushable" wipes or other products that are likely to cause a clog.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Bidet
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Exterior security cameras on property
+Courtyard and garage bay have outdoor cameras recording. Ring front door peep hole is now disabled but still present and we agree not to enable it.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Stove
+Oven
+Coffee maker
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Liberty Lane Carriage House With Garage Spot!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+3 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+154 reviews
+154
+Reviews
+Hosted by Mary
+Superhost · 13 years hosting
+Listing highlights
+In Savannah's Landmark Historic District
+Right on Troup Square, with Lafayette Square and the Flannery O'Connor Home a short walk away
+Garage parking included
+A private garage bay below the apartment fits a small or midsize car
+Spotless and stylishly designed
+Guests highlight how clean and stylish the space is, with many saying they'd return
+Awesome location in Savannah's Historic District! This carriage house apartment has a compact designer kitchen and ultra stylish furnishings. Private garage parking for 1 small car below the rental is an added luxury! Steps from dining, shopping and tourist landmarks. King size bed + single cot pullout chair for person #3 if needed in living room. Garage bay fits a small or medium size car. If your vehicle is large the street parking is free to the public on this block.
+
+SVR- 02031
+
+The space
+Ultra light, modern and spacious one bedroom apartment. Professionally decorated and newly constructed. High end linens and finishes throughout. The bedroom with King bed is separated from the living/kitchen area by a real door. The living room has a pullout single bed. There is a TV in the bedroom and the living room. The bathroom has a combination tub/shower. The laundry machines are brand new and do not require coins.
+
+Guest access
+You will have access to the garage where you may use 1 of the 2 bays. Garage bay fits a small or medium size car and the garage door is roughly 91" wide and 83" tall. The other bay is for the garden level apartment which is across the courtyard. Once you go up the stairs to your private unit door you have an entire complete dwelling space that is not shared with anyone. Your unit has a washer/dryer, full bathroom, kitchen (no dishwasher), King bedroom with TV, Living room with TV  and pullout single bed. You will have access to the shared courtyard. It is shared with the other 2 rentals in this private compound, and it is completely walled in and secure. We ask all guests to limit use to the hours of 8am to 9pm to avoid noise complaints from any neighbor and to observe the City of Savannah licensed vacation rental ordinance rules.
+
+Other things to note
+I wanted to mention that Savannah has certain bugs which we can control to some extent with poison (which every hotel and vacation rental will use on perimeters) but guests still can see them, even if they’re slower and dying from walking across poison barriers. Specifically palmetto bugs are prolific here. If guests see one we do not issue any refunds due to seeing these.
+
+The "no smoking" house rule extends to the courtyard and surrounding outdoor areas. No smoking is permitted on this property, even outdoors.
+
+The required 13% taxes are already included in my airbnb rates (6% to the city and 7% to the state).
+
+Events, holidays and stays during March & April may require 3 night minimums and/or have higher rates than the standard ones published.
+
+This is a traditional vacation rental home, not a “bed and breakfast”. We do not provide food or drinks but we do provide basic cooking and serving utensils, a coffee maker, and dish soap. Downtown Savannah has a major supermarket (Kroger) and a 24 hour market (Parkers on Drayton) so there is no need to pack everything from home if shopping when you get here makes more sense. 
+
+What to bring with you:
+
+A typical grocery run prior to arriving at your vacation home would include coffee, beer/wine, milk, eggs, butter, bread and any other basic groceries you would need for the meals you eat in the home. 
+
+The home has a K-cup coffee maker. The owners like to provide coffee, laundry detergent, and dryer sheets so if you see them there please feel free to use them. 
+
+You should bring or buy your own napkins and your own beach towels and beach gear, and your own cooler if you need one.  
+
+What we provide:
+
+We provide toilet paper (2 extras per bathroom), liquid hand washing dish soap, bathroom soap, sheets on each bed, and at least one bath towel for each guest. We do not permit our towels to be taken out of the house which is why you must bring your own towels if you visit the beach. 
+
+If you find we have left seasonings, oil, dishwasher pellets, or any unopened food or drinks then of course feel free to use what is there. We occasionally leave items but just cannot promise them all the time. 
+
+Please also note that in Savannah, sugar ants can smell cookies, spilled sugar or syrup, or an open sugar container from a mile away and will find a way in through a windowsill or door frame. It can be somewhat like a cartoon picnic where they march in a line to find the food. To avoid this try to keep your snacks contained in air tight baggies, the refrigerator, or buy single serve packets and put the trash in the outdoor trash cans as soon as possible. 
+
+The following is standard Savannah Luxury Rentals information: We provide sheets, toilet paper and soap. If you prefer thick cushioned toilet paper bring it along but use it sparingly in our older plumbing and never flush "flushable" wipes or other products that are likely to cause a clog.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 king bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Hair dryer
+Exterior security cameras on property
+Show all 32 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 154 reviews.
+4.95
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 95% of reviews
+5
+4 stars, 5% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Parking
+47
+Walkability
+67
+Cleanliness
+73
+Location
+90
+Comfort
+36
+Decor
+40
+Hospitality
+41
+Sleep quality
+22
+Indoor spaces
+27
+Accuracy
+11
+Jill
+Spotsylvania Courthouse, Virginia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed one night
+Beautiful place! It definitely looks just like the pictures. The bed was comfy. Everything was super clean and the location was great. It's within reasonable walking distance to Broughton, Congress, the squares, and River Street but also far enough away that you don't get a lot of street noise and such. Will definitely stay again!
+Show more
+Marilynn
+Columbia, South Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+518  E. Liberty St. was the perfect choice for our visit to, Savannah for the weekend. We had tickets for the Georgia Queen riverboat for the Fourth of July Fireworks cruise to celebrate my birthday. We both have handicaps that would make walking a lot or finding parking convenient to where we were going difficult for us. It was great to leave our car in the garage & call the local pedicabs . We highly recommend Savannah Pedicab. The carriage house was both comfortable & stylishly decorated. We did not use the courtyard area as it was way too hot out but it looked cute. And the carriage house was furnished with everything you could need. There is so much to see & do locally that we may come again and would definitely book 518 E. Liberty St. again!
+Show more
+Cassie
+St. Simons Island, Georgia
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Nice spot and nice stay
+For us we prefer more of a homey feel
+This one feels more corporate as it’s lacking anything extra in the kitchen
+It was nice and clean and a good location to walk to everything you need
+Show more
+Nick
+San Diego, California
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Charming place, nicely decorated, comfortable.
+Bekah
+Birmingham, Alabama
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed one night
+Definitely more affordable option compared to other places of similar size/location! Everything was great and we were comfortable.
+Isaac
+2 years on Airbnb
+Rating, 4 stars
+,
+·
+April 2026
+,
+·
+Stayed one night
+We were happy to see that Mary’s place was clean and tidy as soon as we walked in. It was a decent sized space for our party of 2 (plus our baby) for the night. We stayed here for an overnight stay on our way to see family in South Florida. The only downside was that it was difficult to get our Jeep Cherokee into the garage. The car barely fit and it was challenging to get our luggage out, especially with the other guest’s car in the bay. Otherwise, the stay was wonderful. Thank you!
+Show more
+Show all 154 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Kroger
+Grocery store
+Jones Street - Prettiest Street in Savannah
+Tourist attraction
+CVS
+Pharmacy
+B. Matthew's Eatery
+Restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+This home is located right in the the world famous Landmark Historic District. The Historic District is 1 square mile approximately in total area ranging from Gwinnett to River St, From MLK to Broad Street on the map. Our downtown is arguably the most "walkable" city in the USA with sidewalks and mini parks throughout in a tight grid packed with incredible historic architecture.
+Show more
+Meet your host
+Mary
+Superhost
+12,060 reviews
+10,000
++
+Reviews
+4.83 out of 5 average rating
+4.83
+Rating
+13 years of hosting
+13
+Years hosting
+My work: Anderson VIP Concierge LLC
+Lives in Savannah, Georgia
+SavannahLuxuryRentals is a one stop shop for vacation rentals, tennis lessons for hire whenever possible and trolley tour tickets ;) We have budget friendly basic rentals as well as some of the most gorgeous luxury homes available. Please ask if you need us to help you select the best fit for you! Your contacts at the company will be Mary or Jennifer
+Mary is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Skylynn
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 3:00 PM - 11:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

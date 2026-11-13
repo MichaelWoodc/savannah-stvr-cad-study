@@ -1,0 +1,674 @@
+URL: https://www.airbnb.com/rooms/1276412050635814888
+Title: Downtown Savannah I Walk to Forsyth Park | Dogs OK
+Latitude: 32.0652
+Longitude: -81.0911
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/Southern Grace Stays
+Host ID: 561893930
+Host profile ID: 1463880952280947353
+Host URL: https://www.airbnb.com/users/profile/1463880952280947353
+Bedrooms: 2
+Occupancy (maximum guests): 5
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+Welcome to our 2 bedroom, 1 bath Victorian townhome in Savannah’s historic district, where classic character meets easy comfort.
+
+• Private porch with table seating for coffee or an evening drink
+• Smart TVs, WiFi, books, and board games for laid-back time in
+• Full kitchen with stainless steel appliances and a coffee bar
+• About 3 blocks to Forsyth Park; walkable to Savannah sights and dining
+
+Settle in and enjoy the porch, then make this historic stay your Savannah home base.
+
+The space
+KEY FEATURES:
+
+☀ Victorian townhome built in 1900
+
+☀ 2 bedroom / 1 sleeping nook / 1 bath / Sleeps 5
+
+☀ Modern and well-equipped full kitchen with stainless steel appliances and a coffee bar w/ Keurig and Drip Coffee Maker 
+
+☀ Dog friendly
+
+☀ WiFi and Roku entertainment systems throughout the home
+
+☀ Board games and books for enjoyment
+
+☀ Convenient location that is walkable to attractions in Historic Savannah
+
+☀ Private porch for relaxing or eating
+
+☀ Free Street Parking
+
+☀ Washer & Dryer in unit for guest use
+
+
+
+3 blocks to Forsyth Park
+
+1 mile to River Street
+
+17 miles to Tybee Island
+
+
+
+Expect a Five Star stay with us. 
+
+
+
+The space is dog-friendly. Our dog fee is set to $100 per stay, limit 2 dogs max. Pets are restricted to 50lbs or less. 
+
+
+
+☆☆ BEDROOMS ☆☆
+
+This gorgeous apartment accommodates 5 guests in 2 bedrooms and a sleeping nook.
+
+The Streetview Suite – The street view bedroom at The Victorian Manor exudes elegance and comfort, featuring a luxurious king-size bed adorned with extra sleeping pillows, accent pillows and a cozy blanket. The room also features a Roku smart TV, fast Wi-Fi, bedside tables with reading lamps and a cozy seating area, perfect for relaxation.
+
+The Hearth Room – The middle bedroom offers a luxurious king bed adorned with extra pillows and a cozy blanket for ultimate comfort. This inviting space includes a Roku smart TV, high-speed Wi-Fi, a spacious dresser, and bedside tables with stylish lamps to enhance your stay.
+
+The Sleeping Nook - The nook is a cozy converted space featuring a twin bed and smart TV, perfect for a restful retreat. Curtains provide a touch of privacy, creating a snug hideaway with plenty of charm and character.
+
+
+
+☆☆ BATHROOM☆☆
+
+The bathroom exudes vintage charm with a classic vanity, toilet, and tub/shower combo. Essentials like a hair dryer, shampoo, conditioner, and body wash are provided, creating a cozy, well-appointed space for your relaxation.
+
+
+
+☆☆ KITCHEN☆☆
+
+The bright and airy kitchen is fully equipped with all the appliances, utensils and cookware you need to feel at home.
+
+
+
+☆☆ OUTSIDE SPACE ☆☆
+
+The exterior of this home boasts a charming upstairs private porch, complete with a dining area featuring a table and chairs—perfect for savoring morning coffee or evening sweet tea and wine under beautiful lighting. On the lower level, the welcoming front porch offers rocking chairs and additional seating for guests to enjoy.
+
+
+
+★☆ Book Today & Let Us Take Care of You In Savannah! ☆★
+
+
+
+Located just three blocks from the picturesque Forsyth Park, The Victorian Manor places you in the heart of Savannah's vibrant downtown. You'll be within walking distance of the city's best cafes, bars, and restaurants, making it easy to explore the local culinary scene. The free DOT trolley and easy access to Uber ensure you can conveniently explore all that Savannah has to offer. Whether you're here for a quick getaway or an extended stay, The Victorian Studio provides a perfect blend of comfort, style, and prime location, making it an ideal choice for families, couples, and solo travelers alike.
+
+
+
+We provide a starter pack of K-cups, trash bags, paper towels and toilet paper for your convenience.  
+
+
+
+Parking is conveniently available on-street at no cost. Please pay close attention to the posted sweep zones and times as you may have to move your car at that specified date and time to avoid fines. Sweeping times and days are specific to the street you're parking on and can be found on red and white signs along the sidewalk.
+
+
+
+Primary renter must be 25 years old to rent and signer of agreement must stay on premises for entire booking.
+
+
+
+Smoke, carbon monoxide and gas detectors are present in the unit. 
+
+
+
+SVR-03006
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+The Victorian Manor's prime location is a significant draw for guests. Being less than three blocks from Forsyth Park, visitors have easy access to one of Savannah's most iconic and picturesque spots. The surrounding Historic Landmark District is a treasure trove of cultural and historical attractions, charming boutiques, art galleries, and over 100 restaurants. After a day of exploring the city's vibrant scene, guests can unwind on the inviting front porch, enjoy alfresco dining on the rear deck, or let their pets play in the fenced-in area. With its ideal mix of historic charm, modern amenities, and convenient location, the Victorian Manor offers a truly unique and memorable Savannah experience.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage: closet and dresser
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Folding or convertible high chair - always at the listing
+Children’s dinnerware
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+Exterior security cameras are present at all entrances
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Patio or balcony
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Housekeeping available from 10:00 AM to 4:00 PM, Monday to Saturday - available at extra cost
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Downtown Savannah I Walk to Forsyth Park | Dogs OK
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+5 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+93 reviews
+93
+Reviews
+Hosted by Laura W/Southern Grace Stays
+Superhost · 3 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, with Savannah's historic squares and dining all walkable
+Well-equipped kitchen with laundry
+A full kitchen with stainless steel appliances, a coffee bar, and in-unit washer and dryer
+Clean, comfortable, and as described
+Guests consistently praise how clean, comfortable, and true-to-photos this home is
+Some info has been automatically translated. Show original
+Welcome to our 2 bedroom, 1 bath Victorian townhome in Savannah’s historic district, where classic character meets easy comfort.
+
+• Private porch with table seating for coffee or an evening drink
+• Smart TVs, WiFi, books, and board games for laid-back time in
+• Full kitchen with stainless steel appliances and a coffee bar
+• About 3 blocks to Forsyth Park; walkable to Savannah sights and dining
+
+Settle in and enjoy the porch, then make this historic stay your Savannah home base.
+
+The space
+KEY FEATURES:
+
+☀ Victorian townhome built in 1900
+
+☀ 2 bedroom / 1 sleeping nook / 1 bath / Sleeps 5
+
+☀ Modern and well-equipped full kitchen with stainless steel appliances and a coffee bar w/ Keurig and Drip Coffee Maker 
+
+☀ Dog friendly
+
+☀ WiFi and Roku entertainment systems throughout the home
+
+☀ Board games and books for enjoyment
+
+☀ Convenient location that is walkable to attractions in Historic Savannah
+
+☀ Private porch for relaxing or eating
+
+☀ Free Street Parking
+
+☀ Washer & Dryer in unit for guest use
+
+
+
+3 blocks to Forsyth Park
+
+1 mile to River Street
+
+17 miles to Tybee Island
+
+
+
+Expect a Five Star stay with us. 
+
+
+
+The space is dog-friendly. Our dog fee is set to $100 per stay, limit 2 dogs max. Pets are restricted to 50lbs or less. 
+
+
+
+☆☆ BEDROOMS ☆☆
+
+This gorgeous apartment accommodates 5 guests in 2 bedrooms and a sleeping nook.
+
+The Streetview Suite – The street view bedroom at The Victorian Manor exudes elegance and comfort, featuring a luxurious king-size bed adorned with extra sleeping pillows, accent pillows and a cozy blanket. The room also features a Roku smart TV, fast Wi-Fi, bedside tables with reading lamps and a cozy seating area, perfect for relaxation.
+
+The Hearth Room – The middle bedroom offers a luxurious king bed adorned with extra pillows and a cozy blanket for ultimate comfort. This inviting space includes a Roku smart TV, high-speed Wi-Fi, a spacious dresser, and bedside tables with stylish lamps to enhance your stay.
+
+The Sleeping Nook - The nook is a cozy converted space featuring a twin bed and smart TV, perfect for a restful retreat. Curtains provide a touch of privacy, creating a snug hideaway with plenty of charm and character.
+
+
+
+☆☆ BATHROOM☆☆
+
+The bathroom exudes vintage charm with a classic vanity, toilet, and tub/shower combo. Essentials like a hair dryer, shampoo, conditioner, and body wash are provided, creating a cozy, well-appointed space for your relaxation.
+
+
+
+☆☆ KITCHEN☆☆
+
+The bright and airy kitchen is fully equipped with all the appliances, utensils and cookware you need to feel at home.
+
+
+
+☆☆ OUTSIDE SPACE ☆☆
+
+The exterior of this home boasts a charming upstairs private porch, complete with a dining area featuring a table and chairs—perfect for savoring morning coffee or evening sweet tea and wine under beautiful lighting. On the lower level, the welcoming front porch offers rocking chairs and additional seating for guests to enjoy.
+
+
+
+★☆ Book Today & Let Us Take Care of You In Savannah! ☆★
+
+
+
+Located just three blocks from the picturesque Forsyth Park, The Victorian Manor places you in the heart of Savannah's vibrant downtown. You'll be within walking distance of the city's best cafes, bars, and restaurants, making it easy to explore the local culinary scene. The free DOT trolley and easy access to Uber ensure you can conveniently explore all that Savannah has to offer. Whether you're here for a quick getaway or an extended stay, The Victorian Studio provides a perfect blend of comfort, style, and prime location, making it an ideal choice for families, couples, and solo travelers alike.
+
+
+
+We provide a starter pack of K-cups, trash bags, paper towels and toilet paper for your convenience.  
+
+
+
+Parking is conveniently available on-street at no cost. Please pay close attention to the posted sweep zones and times as you may have to move your car at that specified date and time to avoid fines. Sweeping times and days are specific to the street you're parking on and can be found on red and white signs along the sidewalk.
+
+
+
+Primary renter must be 25 years old to rent and signer of agreement must stay on premises for entire booking.
+
+
+
+Smoke, carbon monoxide and gas detectors are present in the unit. 
+
+
+
+SVR-03006
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+The Victorian Manor's prime location is a significant draw for guests. Being less than three blocks from Forsyth Park, visitors have easy access to one of Savannah's most iconic and picturesque spots. The surrounding Historic Landmark District is a treasure trove of cultural and historical attractions, charming boutiques, art galleries, and over 100 restaurants. After a day of exploring the city's vibrant scene, guests can unwind on the inviting front porch, enjoy alfresco dining on the rear deck, or let their pets play in the fenced-in area. With its ideal mix of historic charm, modern amenities, and convenient location, the Victorian Manor offers a truly unique and memorable Savannah experience.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+Pets allowed
+TV
+Washer
+Dryer
+Central air conditioning
+Exterior security cameras on property
+Show all 63 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 93 reviews.
+4.98
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+35
+Location
+44
+Parks
+7
+Sleep quality
+27
+Cleanliness
+34
+Family
+21
+Indoor spaces
+20
+Nearby
+24
+Hospitality
+37
+Comfort
+29
+Lauren
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Came up here for a short weekend trip from Florida. The apartment was located in a quite part of town with low traffic which made parking and getting around easy. The apartment is absolutely gorgeous and clean. Looks just like the photos and that AC was kicking! Especially in the heat we've been having. Thank you, Laura for a beautiful and clean stay
+Show more
+Cindy
+Orlando, Florida
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Group trip
+Nice spacious apartment in a beautiful neighborhood. Walkable to nearby sights. The host was very proactive and communicative. Laura provided recommendations and was quick to respond to messages. Great place to stay in Savannah.
+Show more
+Kim
+Clayton, North Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+The place was spotless and in the perfect location. We thoroughly enjoyed our visit.
+Show more
+Christanie
+New York, United States
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Such an amazing stay! Charming house & rooms. Great location, 2-5 minute drive away from everything! Laura had amazing communication and was super sweet!
+Show more
+Karen
+Hazlehurst, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Such an adorable rental. Loved the decor.  We love to stay in historic districts when we travel. They have so much character.  This one didn't disappoint.  We will be back!
+Felicia
+Georgia, Vermont
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Our stay at this Airbnb was wonderful! The location was perfect, making it easy to get around and enjoy the area. The home was beautifully decorated, and I especially loved how everything was thoughtfully color-coordinated, it created such a warm and inviting atmosphere. The hostess was also exceptional, always available to answer questions and ensure we had everything we needed. I would definitely stay here again and highly recommend it to others!
+Show more
+Show all 93 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Laura W/Southern Grace Stays
+Superhost
+1,392 reviews
+1392
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+3 years of hosting
+3
+Years hosting
+My work: Southern Grace Stays
+Favorite song in high school: Livin on a Prayer
+Savannah is home, hospitality is my passion, and making guests feel welcome is what I do best! I love beautiful spaces, great food, Southern charm, and sharing the best of Savannah with visitors. When I’m not hosting, you’ll usually find me working on a new property project, hunting for the perfect décor piece, or planning my next getaway. Come for the stay, leave with a little Southern Grace!
+Laura W/Southern Grace Stays is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 2:00 AM
+Checkout before 10:00 AM
+5 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Townhome vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

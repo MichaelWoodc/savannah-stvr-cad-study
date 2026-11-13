@@ -1,0 +1,480 @@
+URL: https://www.airbnb.com/rooms/1742123429838220060
+Title: Gordon Studio - Historic Savannah Carriage House
+Latitude: 32.068998939340325
+Longitude: -81.09325357749314
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 572299814
+Host profile ID: 1470551344459719087
+Host URL: https://www.airbnb.com/users/profile/1470551344459719087
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Gordon Studio is a bright and inviting second‑floor carriage house offering comfortable open studio living in Savannah’s National Historic Landmark District. This thoughtfully restored space blends historic character with modern comfort, all within steps of the city’s most iconic green spaces.
+
+The space
+Studio Layout and Interior Details
+- Open‑concept studio with original hardwood floors  
+- Skylight positioned over the bed, filling the space with soft natural light during the day and fitted with louvered shutters for when you want to sleep in 
+- Historic windows throughout, each fitted with interior louvered shutters  
+- Private exterior staircase entrance  
+- Fast wifi
+- 50" smart TV
+- Convenient fold out desk 
+-Washer and dryer conveniently located downstairs from the carriage house
+
+Newly Remodeled Kitchen
+- Stainless steel appliances  
+- Full‑size refrigerator, oven, stovetop, and microwave  
+- Updated cabinetry and counters  
+- Suitable for extended stays or guests who enjoy cooking and want to have all of the basics on hand
+
+Shared Courtyard 
+Guests enjoy access to a fully enclosed courtyard.
+- Outdoor dining table with seating  
+- Historic brick surroundings and greenery  
+- A peaceful spot for morning coffee or relaxed evenings outdoors.
+
+Prime Walkable Location
+- 1‑minute walk to Taylor Square  
+- 2‑minute walk to the northeast corner of Forsyth Park  
+- 5‑minute walk to the nearest north–south DOT Fare Free Shuttle stop, providing easy access to the riverfront, City Market, Broughton Street, downtown museums, and the Starland District  
+- 10‑minute walk to the nearest east–west DOT Fare Free Shuttle stop for convenient access to the Savannah Visitor’s Center, Coastal Heritage Society museum sites, and Eastern Wharf  
+
+Perfect For
+Solo travelers, couples, business visitors, and anyone seeking a peaceful, walkable home base in Savannah’s National Landmark Historic District.
+
+SVR-03292
+
+Guest access
+Guests have access to all spaces within the studio apartment and use of the shared courtyard.  Access to the property is through the garage and the washer and dryer for  studio guests is in the garage, but you will not have use of the garage for parking.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Public Goods shampoo
+Public Goods conditioner
+Public Goods body soap
+Hot water
+Bedroom and laundry
+Free washer – In building
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Whirlpool refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Frigidaire stainless steel electric stove
+Frigidaire stainless steel oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Baking sheet
+Blender
+Outdoor
+Outdoor furniture
+Parking and facilities
+Free street parking
+Paid street parking off premises
+Services
+Cleaning available during stay
+Not included
+Unavailable: Smoke alarm
+Smoke alarm
+This place may not have a smoke detector. Reach out to the host with any questions.
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+This place may not have a carbon monoxide detector. Reach out to the host with any questions.
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Gordon Studio - Historic Savannah Carriage House
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+8 reviews
+8
+Reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Steps from Whitefield Square, with Forsyth Park about a 5-min walk away
+Sunlit carriage house studio
+A skylight over the bed fills the studio with natural light, with louvered shutters to sleep in
+A bed guests can't stop praising
+Guests highlight the comfortable bed, with several calling it the best sleep they've had
+Some info has been automatically translated. Show original
+Gordon Studio is a bright and inviting second‑floor carriage house offering comfortable open studio living in Savannah’s National Historic Landmark District. This thoughtfully restored space blends historic character with modern comfort, all within steps of the city’s most iconic green spaces.
+
+The space
+Studio Layout and Interior Details
+- Open‑concept studio with original hardwood floors  
+- Skylight positioned over the bed, filling the space with soft natural light during the day and fitted with louvered shutters for when you want to sleep in 
+- Historic windows throughout, each fitted with interior louvered shutters  
+- Private exterior staircase entrance  
+- Fast wifi
+- 50" smart TV
+- Convenient fold out desk 
+-Washer and dryer conveniently located downstairs from the carriage house
+
+Newly Remodeled Kitchen
+- Stainless steel appliances  
+- Full‑size refrigerator, oven, stovetop, and microwave  
+- Updated cabinetry and counters  
+- Suitable for extended stays or guests who enjoy cooking and want to have all of the basics on hand
+
+Shared Courtyard 
+Guests enjoy access to a fully enclosed courtyard.
+- Outdoor dining table with seating  
+- Historic brick surroundings and greenery  
+- A peaceful spot for morning coffee or relaxed evenings outdoors.
+
+Prime Walkable Location
+- 1‑minute walk to Taylor Square  
+- 2‑minute walk to the northeast corner of Forsyth Park  
+- 5‑minute walk to the nearest north–south DOT Fare Free Shuttle stop, providing easy access to the riverfront, City Market, Broughton Street, downtown museums, and the Starland District  
+- 10‑minute walk to the nearest east–west DOT Fare Free Shuttle stop for convenient access to the Savannah Visitor’s Center, Coastal Heritage Society museum sites, and Eastern Wharf  
+
+Perfect For
+Solo travelers, couples, business visitors, and anyone seeking a peaceful, walkable home base in Savannah’s National Landmark Historic District.
+
+SVR-03292
+
+Guest access
+Guests have access to all spaces within the studio apartment and use of the shared courtyard.  Access to the property is through the garage and the washer and dryer for  studio guests is in the garage, but you will not have use of the garage for parking.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Free washer – In building
+Dryer
+Air conditioning
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Unavailable: Smoke alarm
+Smoke alarm
+Show all 37 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 8 reviews.
+5.0
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+4
+Location
+4
+Cleanliness
+4
+Parking
+2
+Sleep quality
+3
+Comfort
+2
+Michael
+New to Airbnb
+Rating, 5 stars
+,
+·
+3 days ago
+,
+·
+Stayed a few nights
+Super spot. Looks just like the photos, great location, fast communication. Definitely would come again.
+Stacy
+Boulder, Colorado
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Great location near shops, restaurants and the park, yet very quiet.
+Cade
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Great place in a great area! Extremely walkable to everywhere we wanted to go. Exactly what we needed!
+Leann
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We absolutely loved our stay! It was beautiful, spotless, and the perfect place for a long weekend getaway. The location couldn’t have been better. We were able to walk everywhere, and it was just around the corner from the fountain.
+The bed was incredibly comfortable, and we slept like babies! We also really appreciated the privacy and how safe and peaceful the area felt. Everything about our stay was wonderful, and we will definitely be staying here again. Highly recommend for anyone looking for a cozy, beautiful, and convenient place to stay!
+Show more
+Mandy
+Greensboro, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+First off, I want to stress how amazing Chaz and Shylah were! When we got there, there was quite a hiccup on our end (nothing to do with them at all). They worked so hard to help us out. So, a huge thank you to them. A+++ service! The place was immaculate. Very clean and had everything we needed.. and the bed was so comfortable. The AC worked great and that was a huge plus because it was HOT outside. The walk to wherever we wanted to go wasn’t bad. The city is SO beautiful! Chaz had great tips for us on multiple things including where to park, etc. If we’re ever in the area again, I will definitely look for one of his properties! Thank you for a great stay!
+Show more
+Kendall
+Annapolis, Maryland
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Great little place for a couples getaway! On the outskirts of downtown area so requires a bit of walking to get to places, but right next to beautiful Forsyth Park. Parking was free and easy on the street and the place was so cute and clean! We did not want to leave and would definitely come again!
+Show more
+Show all 8 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Chaz
+Superhost
+3,099 reviews
+3099
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+2 years of hosting
+2
+Years hosting
+My work: StayAtArise . com
+Fun fact: We have lots luxury rentals to choose!
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm not reported
+Smoke alarm not reported
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

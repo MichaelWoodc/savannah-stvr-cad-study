@@ -1,0 +1,378 @@
+URL: https://www.airbnb.com/rooms/1769656515223102111
+Title: 1810 Federalist Home | 2 Condos + Parking
+Latitude: 32.0768
+Longitude: -81.0871
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Farrell
+Host ID: 505817984
+Host profile ID: 1470273855656106441
+Host URL: https://www.airbnb.com/users/profile/1470273855656106441
+Bedrooms: 5
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 5
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Welcome to our grand Federalist home in Savannah's Landmark Historic District! This home boasts 4 king and 1 queen bedrooms, 4.5 bathrooms, soaring ceilings, spacious dining areas, 2 well-equipped kitchens, and a ton of comfortable living spaces. We hope our thoughtful design has seamlessly blended old-world charm with modern conveniences! We can't wait to host you in this gorgeous Southern estate!
+
+SVR 02754 and 02755
+
+The space
+The White House on President is perfectly situated in downtown, Historic Savannah, making an ideal homebase for your Savannah travels! We even have 2 private, off-street parking spaces...quite the commodity in the busy city! Outside in the small garden, you'll find a little seating area and a propane grill, which offers opportunities for relaxation and al fresco dining.
+
+As you step inside, you'll be captivated by the seamless blend of original architecture and modern amenities. The first floor condo welcomes you with a spacious living room featuring a flat-screen TV, speedy fast WiFi, and ample seating.  If you want some home cooked meals, a full kitchen and dining area awaits.  Get some rest in the two king primary suites too!
+
+Upstairs, you will find another living room and another large galley style kitchen.  The adjacent dining room is a grand space, ideal for entertaining friends and family. And for the mornings where you need a quick bite before you're off to explore all that Savannah has to offer...there's a cozy breakfast area just off the kitchen! Step towards the back of the house and you'll find the large sunroom, filled with natural light and perfect for indulging in a good book with a cup of coffee. Our powder room is adorned with a gorgeous, hand painted, mural wallpaper by a local artist!
+
+Climbing the magnificent central staircase, which the house was designed around, you'll discover three beautifully appointed bedrooms (two kings and one queen) along with two freshly renovated and meticulously designed full bathrooms. Abundant storage space ensures your comfort, and there's ample room to retreat and unwind.
+
+We hope that you enjoy the classic, Southern sophistication our home has to offer! We like to think of it as a place where history meets comfort, where old-world character meets modern design, and where unforgettable Savannah memories are made!
+
+Guest access
+This building is split into the large main parlor level house and a separate garden level condo (the small condo at street level). Both are part of this listing and connected via an internal staircase.  Yes, you have two fully appointed living spaces!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV with standard cable
+Theme room
+A room or multiple spaces that are designed to follow the same theme
+Family
+Pack ’n play/Travel crib
+Children’s books and toys
+High chair
+Children’s dinnerware
+Children's playroom
+An indoor room with toys, books, and games for children
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Exterior security camera located outside front entrances for guest safety and the security of the premises.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free driveway parking on premises – 2 spaces
+Paid parking off premises
+Recycling
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+1810 Federalist Home | 2 Condos + Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+10 guests · 5 bedrooms · 5 beds · 4.5 baths
+New listing
+New
+Hosted by Farrell
+Superhost · 4 years hosting
+Listing highlights
+In Savannah's Landmark Historic District
+The Owens-Thomas House is about a 5-min walk, with River Street and Forsyth Park also walkable
+Grand Federalist home with two kitchens
+Two full kitchens, two living rooms, and a sunroom across multiple levels with soaring ceilings
+Free private parking for two cars
+Two private off-street parking spaces included, a real convenience in downtown Savannah
+Welcome to our grand Federalist home in Savannah's Landmark Historic District! This home boasts 4 king and 1 queen bedrooms, 4.5 bathrooms, soaring ceilings, spacious dining areas, 2 well-equipped kitchens, and a ton of comfortable living spaces. We hope our thoughtful design has seamlessly blended old-world charm with modern conveniences! We can't wait to host you in this gorgeous Southern estate!
+
+SVR 02754 and 02755
+
+The space
+The White House on President is perfectly situated in downtown, Historic Savannah, making an ideal homebase for your Savannah travels! We even have 2 private, off-street parking spaces...quite the commodity in the busy city! Outside in the small garden, you'll find a little seating area and a propane grill, which offers opportunities for relaxation and al fresco dining.
+
+As you step inside, you'll be captivated by the seamless blend of original architecture and modern amenities. The first floor condo welcomes you with a spacious living room featuring a flat-screen TV, speedy fast WiFi, and ample seating.  If you want some home cooked meals, a full kitchen and dining area awaits.  Get some rest in the two king primary suites too!
+
+Upstairs, you will find another living room and another large galley style kitchen.  The adjacent dining room is a grand space, ideal for entertaining friends and family. And for the mornings where you need a quick bite before you're off to explore all that Savannah has to offer...there's a cozy breakfast area just off the kitchen! Step towards the back of the house and you'll find the large sunroom, filled with natural light and perfect for indulging in a good book with a cup of coffee. Our powder room is adorned with a gorgeous, hand painted, mural wallpaper by a local artist!
+
+Climbing the magnificent central staircase, which the house was designed around, you'll discover three beautifully appointed bedrooms (two kings and one queen) along with two freshly renovated and meticulously designed full bathrooms. Abundant storage space ensures your comfort, and there's ample room to retreat and unwind.
+
+We hope that you enjoy the classic, Southern sophistication our home has to offer! We like to think of it as a place where history meets comfort, where old-world character meets modern design, and where unforgettable Savannah memories are made!
+
+Guest access
+This building is split into the large main parlor level house and a separate garden level condo (the small condo at street level). Both are part of this listing and connected via an internal staircase.  Yes, you have two fully appointed living spaces!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 5 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 king bed
+
+Bedroom 5
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free driveway parking on premises – 2 spaces
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Pack ’n play/Travel crib
+Exterior security cameras on property
+Show all 58 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+New · No reviews (yet)
+This host has 2,740 reviews for other places to stay. Show other reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+We are located in the heart of the downtown Landmark Historic District. We find that our location allows our guests to walk to all of the downtown locations they would typically want to visit! For quick reference, we are 0.4 miles from the river, 0.8 miles from Forsyth Park, and 0.5 miles from City Market!
+Show more
+Meet your host
+Farrell
+Superhost
+2,740 reviews
+2740
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+4 years of hosting
+4
+Years hosting
+My work: Savannah Stays
+Speaks English
+Hi Y'all! I'm Farrell, and my husband Hemal and I are Savannah locals who love historic homes and want to share our beautiful city with the world! We take pride in our exceptional hospitality while creating a truly unique historic Savannah experience for our guests. Our good friend and Co-host Sarah are always nearby if you need us. Also, be sure to follow us at @SavannahStays for an insider glimpse!
+Farrell is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

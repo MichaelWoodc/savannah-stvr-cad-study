@@ -1,0 +1,459 @@
+URL: https://www.airbnb.com/rooms/20959793
+Title: Romantic Getaway Atop Victorian - Steps to Forsyth
+Latitude: 32.0642
+Longitude: -81.0958
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah
+Host ID: 77350668
+Host profile ID: 1466946903860901609
+Host URL: https://www.airbnb.com/users/profile/1466946903860901609
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+=== FULL DESCRIPTION ===
+Kick back on the green velvet couch around the statement fireplace with exposed brickwork in this bright condo. It’s perched on the third story of a Victorian house dating from 1891. During the day, the condo is flooded with light from high ceilings and bay windows. The blackout curtains and plush king bed will help you sleep-in in the morning!
+
+SVR-00716
+
+The space
+This condo is on the top floor of our 1891 Victorian.  We completely renovated the space in 2018, restoring old elements like the floors and adding some modern comforts with new HVAC and all tile bathroom.  The building is less than a block to Forsyth Park with coffeeshops, restaurants, bars, and a grocery store all within a short walk - so pack comfy shoes!
+
+Guest access
+The entire 3rd floor condo is yours! Your private entrance is at the top of the main stairwell.
+
+Other things to note
+We want to mention the stairs again in this space!  Please pick out a different property if you have mobility concerns.  We want everyone to be comfortable, even if that's elsewhere.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Room-darkening shades
+Iron
+Clothing storage: dresser
+Entertainment
+TV with standard cable
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+AC - split type ductless system
+Heating - split type ductless system
+Home safety
+Exterior security cameras on property
+Security cameras on front porch, side of building, and in shared building foyer. None inside of condo.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 127 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Parking and facilities
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Washer
+Washer
+Unavailable: Dryer
+Dryer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Romantic Getaway Atop Victorian - Steps to Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+824 reviews
+824
+Reviews
+Hosted by Sarah
+Superhost · 10 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+Steps from Forsyth Park
+Steps from Forsyth Park, with coffee shops, restaurants, and the Saturday Farmers' Market all nearby
+Victorian charm on the third floor
+An 1891 Victorian with high ceilings, bay windows, and a statement fireplace with exposed brick
+Comfortable and spotless
+Guests highlight the comfortable bed, with many noting how clean and well-decorated the space is
+Kick back on the green velvet couch around the statement fireplace with exposed brickwork in this bright condo. It’s perched on the third story of a Victorian house dating from 1891. During the day, the condo is flooded with light from high ceilings and bay windows. The blackout curtains and plush king bed will help you sleep-in in the morning!
+
+SVR-00716
+
+The space
+This condo is on the top floor of our 1891 Victorian.  We completely renovated the space in 2018, restoring old elements like the floors and adding some modern comforts with new HVAC and all tile bathroom.  The building is less than a block to Forsyth Park with coffeeshops, restaurants, bars, and a grocery store all within a short walk - so pack comfy shoes!
+
+Guest access
+The entire 3rd floor condo is yours! Your private entrance is at the top of the main stairwell.
+
+Other things to note
+We want to mention the stairs again in this space!  Please pick out a different property if you have mobility concerns.  We want everyone to be comfortable, even if that's elsewhere.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 king bed
+
+What this place offers
+Kitchen
+Fast wifi – 127 Mbps
+Dedicated workspace
+Free street parking
+TV with standard cable
+AC - split type ductless system
+Luggage dropoff allowed
+Pack ’n play/Travel crib - available upon request
+Hair dryer
+Exterior security cameras on property
+Show all 46 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 824 reviews.
+4.95
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Parks
+120
+Location
+488
+Walkability
+217
+Comfort
+169
+Parking
+102
+Nearby
+143
+Hospitality
+305
+Indoor spaces
+140
+Cleanliness
+194
+Decor
+192
+Simone
+Columbia, South Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had a wonderful stay in Savannah! The apartment was beautiful and located on the third floor of a charming old Victorian-style home. All of the thoughtful touches throughout the space were beautiful and made it feel like a true home away from home.
+The location was perfect. Within walking distance of Forsyth Park, cafés, a natural grocery store, and so much more. The apartment perfectly blended historic charm with practicality, making it both beautiful and comfortable.
+Sarah was a terrific host, very responsive and incredibly helpful throughout our stay. She provided tons of wonderful suggestions for places to eat, sights to see, and things to do in Savannah, which made our visit even more enjoyable. We truly enjoyed our stay and would be happy to return!
+Show more
+Scott
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Super cute place! Loved how quiet the space was. Felt welcomed with the wine & snacks! Highly recommend.
+Paige
+Kansas City, Missouri
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had such a great stay! The Airbnb was exactly as pictured- super clean, comfortable, and had everything we needed. The location was perfect and so walkable, which made exploring the area incredibly easy. Sarah was wonderful and made the entire stay seamless. We would absolutely stay here again and highly recommend it! 😊
+Show more
+John Mark
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Great location and property. The bedding was wonderful!
+Dylan
+Stanford, Kentucky
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Amazing host and an amazing place to stay! Super close to Forsyth Park and numerous other downtown attractions. Very well kept and unique home. Would stay again when we come back!
+Show more
+Nadine
+Port Orange, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Having visited Savannah a few times, we loved spending time a bit away from the river where there is so much to explore.  The neighborhood is beautiful, the apartment is comfortable and well furnished, and the stairs gave us a nice quick workout periodically through the day.  Very happy to have had this experience.
+Show more
+Show all 824 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+The condo is less than half a block from Forsyth Park, where there's always something fun going on. There are festivals, a Saturday Farmers’ Market, and tree-lined streets. It’s a scenic 15-minute walk to downtown Savannah and its 22 squares.
+Show more
+Meet your host
+Sarah
+Superhost
+5,116 reviews
+5116
+Reviews
+4.95 out of 5 average rating
+4.95
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental on Forsyth Park!
+Sarah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Design
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

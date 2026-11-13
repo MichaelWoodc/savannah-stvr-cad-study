@@ -1,0 +1,571 @@
+URL: https://www.airbnb.com/rooms/45342940
+Title: Liberty Street Redbrick Town and Carriage House
+Latitude: 32.07393
+Longitude: -81.08763
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Christie
+Host ID: 49832551
+Host profile ID: 1462714232700236111
+Host URL: https://www.airbnb.com/users/profile/1462714232700236111
+Bedrooms: 4
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 5
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed
+
+Living room 1
+1 couch
+
+Living room 2
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Experience historic Savannah from a luxurious 3-story townhome and separate Carriage House in Crawford Square. Perfect for families or groups, this property comfortably sleeps 10. Features include a private courtyard, an elevator, and two private parking spots. Enjoy an authentic local experience in a prime, walkable location just a half-mile from the bustling shops and restaurants of Broughton Street.
+
+The space
+Discover the perfect blend of historic charm and modern luxury in this exquisite Savannah property, comprising a main townhome and a separate Carriage House connected by a private courtyard.
+
+Main Townhome (3-Story):
+
+Main Level: A sophisticated living area with a large Smart TV. The fully equipped kitchen boasts a large island with seating for four, a wet bar, and a wine refrigerator. This level opens directly to the private courtyard.
+
+Second Level: Accessible by stairs or a private, wood-paneled elevator, this floor is a dedicated master suite. It features a King bed, a massive walk-in closet, and a luxurious full bathroom with double sinks and a huge walk-in shower.
+
+Third Level: Two more elegant bedrooms reside here—one with a King bed and one with a Queen bed. Each has its own private full bathroom and a full-size closet. A laundry room with a washer and dryer is also conveniently located on this floor.
+
+Carriage House: This quaint and private space offers a complete living experience, including:
+
+A fully equipped kitchen.
+A cozy living area with a Queen pull-out sofa bed and a Smart TV.
+
+A private bedroom with a King-size bed.
+
+A full bathroom that also contains a washer and dryer.
+
+Key Amenities:
+
+High-Speed Wi-Fi: 94 Mbps for all your connectivity needs.
+
+Dedicated Workspace: A designated area perfect for remote work.
+
+Family-Friendly: A Pack ’n play/travel crib is available for younger guests.
+
+Entertainment: Smart TVs with live and streaming channels are in all bedrooms.
+
+Guest access
+Guests will have exclusive and private access to the entire property, including the main townhome, the separate Carriage House, and the private courtyard that connects them.
+
+For your convenience, you will have access to two private parking spots in the garage. Additional free parking is typically available on the street in front of the main house. Metered on-street parking is also available nearby. Please be mindful of posted street sweeping signs to avoid ticketing.
+
+Other things to note
+STVR Compliance: Our home is in full compliance with all Short-Term Vacation Rental (STVR) laws in Savannah, Georgia. Our STVR permit number is SVR-02255.
+
+Pre-Booking Inquiries: If you have any questions before securing your booking or wish to speak with us first, please click on our host profile picture and use the “contact host” button to send us a direct message. We are happy to help!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Courtyard view
+Bathroom
+Bathtub
+Hair dryer
+ECO Amenities shampoo
+Conditioner
+ECO Amenities body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: closet and dresser
+Entertainment
+65 inch HDTV with Roku
+Sound system with Bluetooth and aux
+Family
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+Central air conditioning
+Indoor fireplace: electric, gas
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+Home has cameras on the outside areas only. There is a camera at the front door, one in the courtyard and one look at the garage doors.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 94 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Mini fridge
+Dishwasher
+Jenn-air stainless steel gas stove
+Stainless steel oven
+Hot water kettle
+Coffee maker: drip coffee maker, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Private backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+BBQ grill: gas
+Parking and facilities
+Free residential garage on premises – 2 spaces
+Free street parking
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Liberty Street Redbrick Town and Carriage House
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+8 guests · 4 bedrooms · 5 beds · 4.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+98 reviews
+98
+Reviews
+Hosted by Christie
+Superhost · 11 years hosting
+Listing highlights
+In Savannah's Historic District
+Right on Crawford Square, with Troup Square and Lafayette Square about a 5-min walk away
+Townhome and Carriage House
+A 3-story townhome with a separate Carriage House connected by a private courtyard
+Immaculate and beyond the photos
+Guests highlight how clean and well-stocked the home is, with many saying it exceeded expectations
+Experience historic Savannah from a luxurious 3-story townhome and separate Carriage House in Crawford Square. Perfect for families or groups, this property comfortably sleeps 10. Features include a private courtyard, an elevator, and two private parking spots. Enjoy an authentic local experience in a prime, walkable location just a half-mile from the bustling shops and restaurants of Broughton Street.
+
+The space
+Discover the perfect blend of historic charm and modern luxury in this exquisite Savannah property, comprising a main townhome and a separate Carriage House connected by a private courtyard.
+
+Main Townhome (3-Story):
+
+Main Level: A sophisticated living area with a large Smart TV. The fully equipped kitchen boasts a large island with seating for four, a wet bar, and a wine refrigerator. This level opens directly to the private courtyard.
+
+Second Level: Accessible by stairs or a private, wood-paneled elevator, this floor is a dedicated master suite. It features a King bed, a massive walk-in closet, and a luxurious full bathroom with double sinks and a huge walk-in shower.
+
+Third Level: Two more elegant bedrooms reside here—one with a King bed and one with a Queen bed. Each has its own private full bathroom and a full-size closet. A laundry room with a washer and dryer is also conveniently located on this floor.
+
+Carriage House: This quaint and private space offers a complete living experience, including:
+
+A fully equipped kitchen.
+A cozy living area with a Queen pull-out sofa bed and a Smart TV.
+
+A private bedroom with a King-size bed.
+
+A full bathroom that also contains a washer and dryer.
+
+Key Amenities:
+
+High-Speed Wi-Fi: 94 Mbps for all your connectivity needs.
+
+Dedicated Workspace: A designated area perfect for remote work.
+
+Family-Friendly: A Pack ’n play/travel crib is available for younger guests.
+
+Entertainment: Smart TVs with live and streaming channels are in all bedrooms.
+
+Guest access
+Guests will have exclusive and private access to the entire property, including the main townhome, the separate Carriage House, and the private courtyard that connects them.
+
+For your convenience, you will have access to two private parking spots in the garage. Additional free parking is typically available on the street in front of the main house. Metered on-street parking is also available nearby. Please be mindful of posted street sweeping signs to avoid ticketing.
+
+Other things to note
+STVR Compliance: Our home is in full compliance with all Short-Term Vacation Rental (STVR) laws in Savannah, Georgia. Our STVR permit number is SVR-02255.
+
+Pre-Booking Inquiries: If you have any questions before securing your booking or wish to speak with us first, please click on our host profile picture and use the “contact host” button to send us a direct message. We are happy to help!
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 5 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed
+
+Living room 1
+1 couch
+
+Living room 2
+1 sofa bed
+
+What this place offers
+Courtyard view
+Kitchen
+Fast wifi – 94 Mbps
+Dedicated workspace
+Free residential garage on premises – 2 spaces
+65 inch HDTV with Roku
+Elevator
+Free washer – In unit
+Free dryer – In unit
+Exterior security cameras on property
+Show all 61 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 98 reviews.
+4.98
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+35
+Location
+52
+Family
+22
+Parking
+10
+Cleanliness
+25
+Bathroom
+13
+Access
+11
+Kitchen
+10
+Indoor spaces
+23
+Comfort
+16
+Edith
+Memphis, Tennessee
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Our stay at this Airbnb was absolutely amazing! The online pictures truly did not do justice to just how beautiful the main house and carriage house were in person. The property was even more stunning than we expected!
+There were plenty of supplies and everything we needed in the kitchen and all of the bathrooms, which made our stay comfortable and convenient. The outdoor space was spacious enough for our entire family to gather, enjoy time together, and capture some wonderful family pictures.
+We were extremely pleased with the property and would definitely recommend it to anyone looking for a beautiful, comfortable, and spacious place to stay. We would love to return!
+Show more
+Jennifer
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Our group of six had a perfect stay! The house is absolutely gorgeous and, without question, one of the cleanest Airbnbs we've ever stayed in. You can tell it was built with quality in mind—the solid construction helped minimize noise, making it feel peaceful and comfortable throughout our stay.
+We also appreciated all of the thoughtful details that made the home feel both elegant and welcoming, from the high ceilings and beautiful crown molding to the comfortable beds and classy, spotless bathrooms. The kitchen was well stocked with everything we needed. Parking was easy and convenient, and the location was beautiful and walkable.
+Our host was responsive, friendly, and helpful from beginning to end. We would love to stay here again and highly recommend this home.
+Show more
+Nidhi
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+We had a great stay at this property. We had a minor issue with the locks and the property manager went out of their way pretty late at night to come fix it for us while we were out to dinner. 
+Everything was perfectly set in the bathrooms and bedrooms. Super walkable as well to get to river street if you don’t mind walking! Ample free parking around the property as well.
+Show more
+David
+New York, New York
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+My family had a lovely stay at the Liberty Street Redbrick Town and Carriage House. Having ensuite bathrooms was a priority and they were all meticulously cleaned and maintained. We did use the Carriage House for one guest and it was perfect for being able to work from while being quietly isolated from the rest of the guests.
+The kitchen is well appointed and we cooked and ate from the house comfortably around the dining table on two nights with six guests. We would be thrilled to stay here again on a return trip to Savannah.
+Show more
+Jennifer
+8 months on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+This was the perfect place for our girls trip! It had a great open first floor that allowed us all to socialize and catch up.  Bathrooms with each of the bedrooms was great for everyone getting ready at the same time.  Covered garage was great so we never had to move our car or remember to pay for street parking.  Loved the elevator so we didn’t have to carry all the bags up the stairs.  We all said we would stay again if we visited.
+Show more
+Emma
+Brownsburg, Indiana
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Went on a group vacation with 4 couples and this place was a wonderful introduction to Savannah. Loved the area and the home itself worked perfectly for our group. Would stay here again!!
+Show more
+Show all 98 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+The Historic District isn't just a collection of buildings; it's a living, breathing testament to Savannah's enduring charm and hospitality. Whether you're a history buff, a food enthusiast, or simply seeking the allure of Southern elegance, this neighborhood invites you to step into the past and savor the present.
+
+Wander along the meticulously preserved streets, lined with majestic mansions, Federal-style townhouses, and charming Victorian homes. Each building stands as a testament to Savannah's rich history, showcasing the city's evolution from its colonial roots to the elegant Antebellum period.
+
+Forsyth Park, a verdant oasis at the district's southern end, invites you to leisurely strolls amidst fragrant gardens and ornate fountains. The iconic Forsyth Fountain, framed by the regal Live Oak alleys, serves as a timeless centerpiece.
+
+Indulge your senses in the district's culinary delights, with quaint cafes and fine dining establishments offering a taste of Southern hospitality. Don't forget to savor the renowned dishes like shrimp and grits or indulge in a refreshing glass of sweet tea.
+Show more
+Meet your host
+Christie
+Superhost
+1,099 reviews
+1099
+Reviews
+4.87 out of 5 average rating
+4.87
+Rating
+11 years of hosting
+11
+Years hosting
+My work: Salt Marsh Realty / Mint Julep Vacation Rentals
+Speaks English
+We've lived in Savannah for over 20 years each. We still live downtown but decided to rent our homes as vacation rentals because we want you to enjoy Downtown Savannah as much as we do. All of our homes are located in the Historic / Victorian district and in walking distance to Forsyth Park where we love to go on Saturday mornings for the Farmers Market or have a picnic on Sunday afternoon. Our kids love the playground and the grand yard. Our properties were decorated to be comfortable for you and your family/friends. We have a large sectional sofa in the living rooms. We want you to relax when you're at our homes and if that means lying on the couch and watching a movie then this is the right place for you! We are both Realtors for Salt Marsh Realty. So if you decide that you want to buy a home while visiting Savannah, please let us know.
+Christie is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 3:00 PM - 2:00 AM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Mansion vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

@@ -1,0 +1,505 @@
+URL: https://www.airbnb.com/rooms/1390098549434040908
+Title: Stunning Downtown Double Master Suite Townhome
+Latitude: 32.0725
+Longitude: -81.087
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 687635542
+Host profile ID: 1470715941781885928
+Host URL: https://www.airbnb.com/users/profile/1470715941781885928
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Living room
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Embrace the timeless beauty and rich history of Savannah. Perfect for a cozy getaway, you'll fall in love with the Southern charm and vibrant culture all around you. From picturesque streets to historic landmarks, every corner of Savannah tells a story. Whether you're strolling through beautiful parks or savoring delicious cuisine, this enchanting city will capture your heart and soul. Come experience the magic that makes Savannah unforgettable!
+
+The space
+Welcome to this beautifully appointed townhouse nestled in the heart of Savannah’s Historic District! This warm and inviting home perfectly blends classic Southern charm with modern comforts, making it an ideal choice for couples, friends, families, or small reunions looking to experience Savannah like a local. 
+
+Step inside and feel instantly at ease in this thoughtfully designed space where every detail has been chosen to enhance your stay. The entire second-floor unit comfortably sleeps up to four guests with two private bedrooms — the first with a luxurious king-size bed and the second with a queen bed — each boasting its own spacious full bathroom with marble walk-in showers. There’s also a convenient half bath on the main floor and a comfy king sofa bed in the living room for extra flexibility. 
+
+Relax in the stylish living area with a smart TV, whip up your favorite meals in the fully equipped kitchen complete with stainless steel appliances, granite countertops, a coffee bar, and a dishwasher, or take care of laundry with the in-unit washer and dryer. Step outside to enjoy your morning coffee or evening wine in the shared courtyard, a peaceful oasis right in the Historic District. 
+
+Located just blocks from Savannah’s most beloved sights, you’re within easy stroll of iconic squares, scenic parks, the Downtown Design District’s local shops, and a variety of celebrated restaurants and cafés. Wander cobblestone streets, soak up the rich history around every corner, or simply savor the gentle Southern breeze from your courtyard retreat. 
+
+Whether you’re here for a girls’ weekend, family getaway, or a romantic escape, this home is the perfect blend of comfort, walkability, and historic charm. Book today and start making unforgettable memories in enchanting Savannah!
+
+Permit License Number: SVR-03118
+
+Guest access
+Guests will have exclusive access to the entire private apartment, along with shared access to the peaceful courtyard located on the property. The courtyard is a lovely spot to enjoy morning coffee or unwind in the evening. Entry is via self check-in with a secure keypad, allowing for a smooth and flexible arrival. Street parking is available nearby and is free, though guests should be mindful of posted street-sweeping signage and metered streets on neighboring streets.
+
+Other things to note
+We are a smoke free property. This includes No vaping. Smoking and vaping is not allowed in the Courtyard. All renters must be over the age of 25, unless it is a child accompanied by a parent. No Pets are allowed. We are a smoke free property. This includes No vaping. Smoking and vaping is not allowed in the Courtyard. As this home is located in the heart of Savannah’s Historic District, guests may hear typical city sounds, including occasional street noise, pedestrians, nearby restaurants, or horse-drawn carriages during the day and early evening. While the apartment is designed to be a peaceful retreat we want guest to be aware there may be city noises they may not be accustomed to. Many guests appreciate the lively atmosphere—it’s all part of the charm of staying in the city center.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: walk-in closet, closet, and dresser
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib - available upon request
+Sheets provided
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+For safety purposes
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Gas stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Shared patio or balcony
+Shared backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free street parking
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Stunning Downtown Double Master Suite Townhome
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+62 reviews
+62
+Reviews
+Hosted by Alyssa
+Superhost · 1 year hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Troup Square is right outside, with Lafayette Square and the Cathedral of St. John the Baptist nearby.
+Full kitchen with gas stove
+A fully equipped kitchen with granite countertops, a gas stove, and a Keurig coffee bar.
+Spotless and beautifully kept
+Guests highlight how spotless and beautifully designed the space is, with many planning return visits.
+Embrace the timeless beauty and rich history of Savannah. Perfect for a cozy getaway, you'll fall in love with the Southern charm and vibrant culture all around you. From picturesque streets to historic landmarks, every corner of Savannah tells a story. Whether you're strolling through beautiful parks or savoring delicious cuisine, this enchanting city will capture your heart and soul. Come experience the magic that makes Savannah unforgettable!
+
+The space
+Welcome to this beautifully appointed townhouse nestled in the heart of Savannah’s Historic District! This warm and inviting home perfectly blends classic Southern charm with modern comforts, making it an ideal choice for couples, friends, families, or small reunions looking to experience Savannah like a local. 
+
+Step inside and feel instantly at ease in this thoughtfully designed space where every detail has been chosen to enhance your stay. The entire second-floor unit comfortably sleeps up to four guests with two private bedrooms — the first with a luxurious king-size bed and the second with a queen bed — each boasting its own spacious full bathroom with marble walk-in showers. There’s also a convenient half bath on the main floor and a comfy king sofa bed in the living room for extra flexibility. 
+
+Relax in the stylish living area with a smart TV, whip up your favorite meals in the fully equipped kitchen complete with stainless steel appliances, granite countertops, a coffee bar, and a dishwasher, or take care of laundry with the in-unit washer and dryer. Step outside to enjoy your morning coffee or evening wine in the shared courtyard, a peaceful oasis right in the Historic District. 
+
+Located just blocks from Savannah’s most beloved sights, you’re within easy stroll of iconic squares, scenic parks, the Downtown Design District’s local shops, and a variety of celebrated restaurants and cafés. Wander cobblestone streets, soak up the rich history around every corner, or simply savor the gentle Southern breeze from your courtyard retreat. 
+
+Whether you’re here for a girls’ weekend, family getaway, or a romantic escape, this home is the perfect blend of comfort, walkability, and historic charm. Book today and start making unforgettable memories in enchanting Savannah!
+
+Permit License Number: SVR-03118
+
+Guest access
+Guests will have exclusive access to the entire private apartment, along with shared access to the peaceful courtyard located on the property. The courtyard is a lovely spot to enjoy morning coffee or unwind in the evening. Entry is via self check-in with a secure keypad, allowing for a smooth and flexible arrival. Street parking is available nearby and is free, though guests should be mindful of posted street-sweeping signage and metered streets on neighboring streets.
+
+Other things to note
+We are a smoke free property. This includes No vaping. Smoking and vaping is not allowed in the Courtyard. All renters must be over the age of 25, unless it is a child accompanied by a parent. No Pets are allowed. We are a smoke free property. This includes No vaping. Smoking and vaping is not allowed in the Courtyard. As this home is located in the heart of Savannah’s Historic District, guests may hear typical city sounds, including occasional street noise, pedestrians, nearby restaurants, or horse-drawn carriages during the day and early evening. While the apartment is designed to be a peaceful retreat we want guest to be aware there may be city noises they may not be accustomed to. Many guests appreciate the lively atmosphere—it’s all part of the charm of staying in the city center.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Living room
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Free washer – In unit
+Free dryer
+Central air conditioning
+Shared patio or balcony
+Shared backyard
+Exterior security cameras on property
+Show all 53 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 62 reviews.
+4.98
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Location
+40
+Walkability
+19
+Cleanliness
+26
+Comfort
+18
+Hospitality
+21
+Parking
+6
+Sleep quality
+8
+Decor
+6
+Noise
+6
+Bathroom
+8
+Tracy
+New Jersey, United States
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+I cannot say enough about this Airbnb. I drove for 15 hours, stayed at a hotel (because I didn't know if we could make it in one day), woke up, moved my daughter into college and then checked into pure heaven! This Airbnb was beautifully decorated, spotless, quiet, calm and in an amazing location. I wanted to live in this beautiful townhouse. I will be back and I will also look for other properties owned by this team. They were responsive and their documentation was fantastic. Thank you for giving me a slice of heaven to relax in for a few days!
+Show more
+Natalie
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed a few nights
+We had a wonderful stay!  Far enough to be peaceful but close enough walk to everything.  Beautifully decorated home with all of amenities we needed.  Alyssa was great, responsive host!
+Show more
+Kristen
+Stuart, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had a wonderful stay at this beautiful Savannah townhouse! The home was just as lovely at the location and was very clean, comfortable, and well maintained. The beds were especially comfortable, and the air conditioning kept the house nice and cool, although it was a little loud at time. 
+We did have a minor issue with condensation dripping from the upstairs bathroom vents when initially turned on, but Alyssa was extremely responsive when I reached out with my concerns. She quickly explained how to correct it and even offered for her husband to come over if need be for additional help, which we didn't need but greatly appreciated. 
+Overall, we thoroughly enjoyed our stay. The home was beautiful, comfortable, and in a great location, and Alyssa was attentive and easy to communicate with. We would absolutely stay there again and would happily recommend it to others visiting Savannah.
+Show more
+Andrew
+Fairfax, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Hole was incredible, host was very attentive and responsive. Also provided great recommendations in the area!
+Amy
+Columbus, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+The townhome was wonderful, in a great area (close to everything).  The townhome was exactly as described and portrayed in the pictures.  The hosts went above and beyond to accommodate us.  Looking forward to a return trip soon.
+Show more
+Hope
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Everything was absolutely great!!!
+Show all 62 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Ardsley Station
+Restaurant
+Bar Julian
+Bar
+The Public Kitchen & Bar
+American restaurant
+Savannah Visitors Center
+Point of interest
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+You’re just blocks away from Savannah’s beloved historic squares and landmarks:
+
+Forsyth Park & the iconic Fountain
+Colonial Park Cemetery
+Chippewa Square & Wright Square
+The Downtown Design District with boutique shops like Number Four Eleven and One Fish Two Fish
+
+A short walk to top dining spots including Clary’s Café, Mrs. Wilkes Restaurant, The Olde Pink House, and Public Kitchen + Bar
+Show more
+Meet your host
+Alyssa
+Superhost
+177 reviews
+177
+Reviews
+4.95 out of 5 average rating
+4.95
+Rating
+1 year of hosting
+1
+Year hosting
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 16 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Alyssa
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Townhome vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

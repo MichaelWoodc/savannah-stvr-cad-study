@@ -1,0 +1,504 @@
+URL: https://www.airbnb.com/rooms/1524633218462584167
+Title: Historic Victorian | Firepit l Walk to Forsyth
+Latitude: 32.0647
+Longitude: -81.0907
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/ Southern Grace Stays
+Host ID: 499456132
+Host profile ID: 1470246415251737254
+Host URL: https://www.airbnb.com/users/profile/1470246415251737254
+Bedrooms: 4
+Occupancy (maximum guests): 10
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 7
+
+Beds enumerated in room tiles: 7
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed, 1 air mattress
+
+Bedroom 2
+1 king bed, 1 single bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 single bed
+
+Living room
+1 air mattress
+
+=== FULL DESCRIPTION ===
+The Sunlit Victorian is a cheerful 1898 home in Savannah’s Historic Landmark District, just three blocks from Forsyth Park. This bright two-story retreat features four upstairs bedrooms, a fun blue kitchen, a dining room with a playable piano, and a fenced backyard with a fire pit—perfect for relaxing after a day exploring the city. Ideal for families and groups, it comfortably sleeps up to 10 guests with driveway parking and dog-friendly accommodations.
+
+The space
+Nestled in the heart of the Savannah Historic Landmark District, this Victorian home offers a delightful blend of historic charm and modern amenities. Built in 1898 and meticulously renovated in 2025, the house boasts four elegantly appointed bedrooms, each designed for ultimate comfort with high-end bedding, cozy throws, and coordinating accent pillows. The open floor plan seamlessly connects the family room, dining room, and kitchen, creating a spacious and inviting environment perfect for socializing and entertaining. The kitchen, equipped with stainless steel appliances and a gas range, is perfect for cooking, while the adjacent dining room accommodates six, making it ideal for family dinners and gatherings.
+
+
+
+The home's outdoor spaces are equally charming. The front porch, with its swing invites you to relax and enjoy a glass of wine as you watch the world go by. At the back, the rear covered porch is perfect for privacy and enjoying the fenced yard with your dog.  Additional conveniences include two designated parking spots in the driveway and free street parking in the front. Located less than three blocks from Forsyth Park, this home places you within easy reach of Savannah's most iconic attractions, making it an ideal home base for exploring the city's rich history and vibrant culture.
+
+SVR-01363
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+The homes' prime location is a significant draw for guests. Being less than three blocks from Forsyth Park, visitors have easy access to one of Savannah's most iconic and picturesque spots. The surrounding Historic Landmark District is a treasure trove of cultural and historical attractions, charming boutiques, art galleries, and over 100 restaurants. After a day of exploring the city's vibrant scene, guests can unwind on the inviting front porch, enjoy alfresco dining on the rear deck, or let their pets play in the fenced-in area. With its ideal mix of historic charm, modern amenities, and convenient location, the home offers a truly unique and memorable Savannah experience.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage
+Entertainment
+TV
+Piano
+Books and reading material
+Family
+Pack ’n play/Travel crib
+High chair
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Exterior security cameras are present at all entrances
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Fire pit
+Outdoor furniture
+BBQ grill
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Victorian | Firepit l Walk to Forsyth
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+10 guests · 4 bedrooms · 7 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+45 reviews
+45
+Reviews
+Hosted by Laura W/ Southern Grace Stays
+Superhost · 4 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic Landmark District
+About a 10-min walk to Forsyth Park and Whitefield Square, with restaurants and shops nearby
+Wraparound outdoor space with fire pit
+A fenced backyard with a fire pit and two covered porches, including a front porch swing
+Laura is a standout host
+Guests highlight how responsive Laura is, with many calling the home spacious, clean, and comfortable
+The Sunlit Victorian is a cheerful 1898 home in Savannah’s Historic Landmark District, just three blocks from Forsyth Park. This bright two-story retreat features four upstairs bedrooms, a fun blue kitchen, a dining room with a playable piano, and a fenced backyard with a fire pit—perfect for relaxing after a day exploring the city. Ideal for families and groups, it comfortably sleeps up to 10 guests with driveway parking and dog-friendly accommodations.
+
+The space
+Nestled in the heart of the Savannah Historic Landmark District, this Victorian home offers a delightful blend of historic charm and modern amenities. Built in 1898 and meticulously renovated in 2025, the house boasts four elegantly appointed bedrooms, each designed for ultimate comfort with high-end bedding, cozy throws, and coordinating accent pillows. The open floor plan seamlessly connects the family room, dining room, and kitchen, creating a spacious and inviting environment perfect for socializing and entertaining. The kitchen, equipped with stainless steel appliances and a gas range, is perfect for cooking, while the adjacent dining room accommodates six, making it ideal for family dinners and gatherings.
+
+
+
+The home's outdoor spaces are equally charming. The front porch, with its swing invites you to relax and enjoy a glass of wine as you watch the world go by. At the back, the rear covered porch is perfect for privacy and enjoying the fenced yard with your dog.  Additional conveniences include two designated parking spots in the driveway and free street parking in the front. Located less than three blocks from Forsyth Park, this home places you within easy reach of Savannah's most iconic attractions, making it an ideal home base for exploring the city's rich history and vibrant culture.
+
+SVR-01363
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+The homes' prime location is a significant draw for guests. Being less than three blocks from Forsyth Park, visitors have easy access to one of Savannah's most iconic and picturesque spots. The surrounding Historic Landmark District is a treasure trove of cultural and historical attractions, charming boutiques, art galleries, and over 100 restaurants. After a day of exploring the city's vibrant scene, guests can unwind on the inviting front porch, enjoy alfresco dining on the rear deck, or let their pets play in the fenced-in area. With its ideal mix of historic charm, modern amenities, and convenient location, the home offers a truly unique and memorable Savannah experience.
+Show more
+All sleeping arrangements
+
+Advertised beds: 7 | Enumerated: 7 | Count verified
+
+Bedroom 1
+1 king bed, 1 air mattress
+
+Bedroom 2
+1 king bed, 1 single bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 single bed
+
+Living room
+1 air mattress
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Exterior security cameras on property
+Show all 64 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 45 reviews.
+4.96
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Backyard
+6
+Walkability
+16
+Location
+19
+Hospitality
+14
+Cleanliness
+14
+Indoor spaces
+11
+Parking
+7
+Outdoor spaces
+8
+Nearby
+10
+Parks
+4
+Shannon
+North Port, Florida
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Group trip
+Thank you for having us! It is a great place for a group get away! The porch was fun and inviting.  We appreciated the recommendations.
+Show more
+Louise
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Laura was super helpful and responsive and the house was beautiful - exactly as described and even more spacious and relaxing in person!
+Show more
+Brett
+3 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great place to stay near downtown Savannah. Beautiful neighborhood and within walking distance of most places.
+Show more
+Elena
+New York, New York
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+Had a fantastic day at Laura’s Paul the house was clean spacious and just beautiful. Spacious rooms, very comfortable beds. Great, quiet location on a beautiful block and close to Forsyth park and lots of restaurants. The fully fenced yard worked well for our dogs. Really one of the best Airbnb stays we’ve had in years.
+Show more
+Laura
+Melbourne, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+This home was the space we needed for the week. We had plenty of room on the porch, in the back yard and throughout the bedrooms. The kitchen was well stocked with basic needs, and Laura seemed was 100% available  as needed too.
+Show more
+Cathy
+Saint Petersburg, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+Our stay was absolutely wonderful !The home was spotless and had everything we needed and more to make our visit comfortable.Our host was friendly, responsive, and made the entire experience seamless .The fenced in yard was a big plus for our fur baby. We will definitely stay here again and highly recommend it !Thank you for a fantastic stay !!
+Show more
+Show all 45 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Laura W/ Southern Grace Stays
+Superhost
+848 reviews
+848
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+4 years of hosting
+4
+Years hosting
+Where I went to school: Winthrop University
+My work: Vacation Rental Host
+Hi, I’m Laura! I’m a Savannah local and owner of Southern Grace Stays. I love sharing our beautiful city and a little Southern hospitality with every guest. When I’m not hosting, I’m usually working on a property, hunting for the perfect décor, or spending time with family. I’m always happy to share my favorite local spots—because in Savannah, we believe good times and great stays are always worth toasting to. Y’all come stay awhile!
+Laura W/ Southern Grace Stays is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Laura W/ Southern Grace Getaways
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 2:00 AM
+Checkout before 10:00 AM
+10 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

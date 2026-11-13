@@ -1,0 +1,509 @@
+URL: https://www.airbnb.com/rooms/1598723820806100860
+Title: Sweet Retreat Savannah
+Latitude: 32.0775
+Longitude: -81.0889
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jamie
+Host ID: 669298842
+Host profile ID: 1470678649698923213
+Host URL: https://www.airbnb.com/users/profile/1470678649698923213
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Welcome to Sweet Retreat Savannah! This charming, comfortable one-bedroom apartment is thoughtfully designed for travelers seeking convenience, relaxation, and a great location. Whether you’re visiting for work or leisure, you’ll find everything you need for a seamless stay.
+
+This condo is conveniently located on Oglethorpe Square, near shops, restaurants and local attractions. You’ll have easy access to everything Savannah has to offer while still enjoying a peaceful place to unwind. 
+SVR-02338
+
+The space
+Charming, comfortable and stylish, Sweet Retreat Savannah, is located in the heart of the Historic District on Oglethorpe Square. This condo is just steps away from Broughton Street and just a short walk to City Market, River Street and Forsyth Park. You've been warned--so pack your walking shoes! 
+
+The apartment is located on the third floor of the building and is reached by stairs. Unfortunately, an elevator is not available. On the third floor, though, you will find a shared balcony featuring the best views from the building! From there, start your morning with a cup of coffee or end the day watching the sun set with a cocktail in hand. If you're lucky enough to visit on St. Patrick's Day, you're in luck! Oglethorpe Square is on the parade route so take advantage of your front row seat to the show!
+
+The apartment features a bright living room with comfortable seating, a fully equipped kitchen for home-cooked meals and a private bedroom with a plush queen bed  outfitted with quality linens to ensure a restful night’s sleep. Additionally, a pull-out sleeper sofa in the living room accommodates two more guests. The bathroom is clean, cool, modern and stocked with fresh towels and a starter set of essential toiletries.
+
+Guest access
+This apartment is a private space and the balcony is shared with other residents of the building.
+
+Other things to note
+Children
+Please note that the apartment is not childproofed, and guests will accept responsibility for the safety and supervision of their children in the condo. We do not provide gear for children, such as Pack N Plays or high chairs, but they can be rented. 
+
+Parking 
+Parking in downtown Savannah can be challenging and luckily there is a parking garage very close to the apartment. The State Street Parking Garage is west of the apartment, on State between Abercorn and Drayton Streets. Open 24 hours a day, seven days a week, the parking spaces are not assigned or guaranteed. All parking is based on availability at the owner's expense. 
+
+Most street parking is metered, and payment is due Monday-Saturday from 8 am-8 pm. Sundays and holidays are free. When parking overnight, please pay attention to the signs advising of the day and time for weekly street sweeping. During those hours parked cars will be ticketed.
+
+If you see a “No Parking or You Will Be Towed” sign anywhere in Savannah–believe it!
+
+Do not leave anything of value visible in your car.
+
+Housekeeping During Longer Stays
+For reservations exceeding eight (8) days, we require a weekly professional cleaning for the duration of the reservation. The dates and times will be coordinated after your reservation is made and payment will be requested through Airbnb's Resolution Center. By confirming your booking you acknowledge and agree to this requirement. 
+
+Cancellation Policy
+Before booking, please acknowledge that   
+(1) any reservation cancelled at least 30 days before check-in will receive a full refund, 
+(2) any reservation cancelled 7-30 days before check-in will receive a partial refund, and 
+(3) any reservation cancelled 7 days or less of check-in will forfeit their payment.
+
+Travel Insurance
+Travel Insurance is strongly recommended to help you recover your loss if your trip must be cancelled.
+
+Hurricane/Storm policy
+During hurricane season (June 1-November 30), we closely monitor all storm activity. Guests are encouraged to monitor as well using reliable weather sources. If local authorities issue a mandatory evacuation order, guests must vacate the premises immediately. Guests are responsible for securing alternate living accommodations, if an evacuation order is issued. A full refund will be issued for any unused nights only if a mandatory evacuation order is issued. If guests choose to leave early (voluntarily/without a mandatory evacuation), due to changes in travel plans because of uncertainty weather conditions, standard cancellation policies will apply.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Bidet
+Hot water
+Shower gel
+Bedroom and laundry
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker: drip coffee maker, Keurig coffee machine
+Baking sheet
+Trash compactor
+Dining table
+Coffee
+Location features
+Laundromat nearby
+Parking and facilities
+Paid parking garage off premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Washer
+Washer
+Unavailable: Dryer
+Dryer
+Unavailable: Essentials
+Essentials
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Sweet Retreat Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.97 out of 5 stars.
+4.97
+30 reviews
+30
+Reviews
+Hosted by Jamie
+Superhost · 2 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Right on Oglethorpe Square, with Broughton Street shops and River Street about a 5-min walk away
+Full kitchen with a coffee bar
+A fully equipped kitchen with an oven, dishwasher, and Keurig for mornings in
+Jamie is a responsive, attentive host
+Guests highlight Jamie's responsiveness and the walkable location they keep coming back to
+Welcome to Sweet Retreat Savannah! This charming, comfortable one-bedroom apartment is thoughtfully designed for travelers seeking convenience, relaxation, and a great location. Whether you’re visiting for work or leisure, you’ll find everything you need for a seamless stay.
+
+This condo is conveniently located on Oglethorpe Square, near shops, restaurants and local attractions. You’ll have easy access to everything Savannah has to offer while still enjoying a peaceful place to unwind. 
+SVR-02338
+
+The space
+Charming, comfortable and stylish, Sweet Retreat Savannah, is located in the heart of the Historic District on Oglethorpe Square. This condo is just steps away from Broughton Street and just a short walk to City Market, River Street and Forsyth Park. You've been warned--so pack your walking shoes! 
+
+The apartment is located on the third floor of the building and is reached by stairs. Unfortunately, an elevator is not available. On the third floor, though, you will find a shared balcony featuring the best views from the building! From there, start your morning with a cup of coffee or end the day watching the sun set with a cocktail in hand. If you're lucky enough to visit on St. Patrick's Day, you're in luck! Oglethorpe Square is on the parade route so take advantage of your front row seat to the show!
+
+The apartment features a bright living room with comfortable seating, a fully equipped kitchen for home-cooked meals and a private bedroom with a plush queen bed  outfitted with quality linens to ensure a restful night’s sleep. Additionally, a pull-out sleeper sofa in the living room accommodates two more guests. The bathroom is clean, cool, modern and stocked with fresh towels and a starter set of essential toiletries.
+
+Guest access
+This apartment is a private space and the balcony is shared with other residents of the building.
+
+Other things to note
+Children
+Please note that the apartment is not childproofed, and guests will accept responsibility for the safety and supervision of their children in the condo. We do not provide gear for children, such as Pack N Plays or high chairs, but they can be rented. 
+
+Parking 
+Parking in downtown Savannah can be challenging and luckily there is a parking garage very close to the apartment. The State Street Parking Garage is west of the apartment, on State between Abercorn and Drayton Streets. Open 24 hours a day, seven days a week, the parking spaces are not assigned or guaranteed. All parking is based on availability at the owner's expense. 
+
+Most street parking is metered, and payment is due Monday-Saturday from 8 am-8 pm. Sundays and holidays are free. When parking overnight, please pay attention to the signs advising of the day and time for weekly street sweeping. During those hours parked cars will be ticketed.
+
+If you see a “No Parking or You Will Be Towed” sign anywhere in Savannah–believe it!
+
+Do not leave anything of value visible in your car.
+
+Housekeeping During Longer Stays
+For reservations exceeding eight (8) days, we require a weekly professional cleaning for the duration of the reservation. The dates and times will be coordinated after your reservation is made and payment will be requested through Airbnb's Resolution Center. By confirming your booking you acknowledge and agree to this requirement. 
+
+Cancellation Policy
+Before booking, please acknowledge that   
+(1) any reservation cancelled at least 30 days before check-in will receive a full refund, 
+(2) any reservation cancelled 7-30 days before check-in will receive a partial refund, and 
+(3) any reservation cancelled 7 days or less of check-in will forfeit their payment.
+
+Travel Insurance
+Travel Insurance is strongly recommended to help you recover your loss if your trip must be cancelled.
+
+Hurricane/Storm policy
+During hurricane season (June 1-November 30), we closely monitor all storm activity. Guests are encouraged to monitor as well using reliable weather sources. If local authorities issue a mandatory evacuation order, guests must vacate the premises immediately. Guests are responsible for securing alternate living accommodations, if an evacuation order is issued. A full refund will be issued for any unused nights only if a mandatory evacuation order is issued. If guests choose to leave early (voluntarily/without a mandatory evacuation), due to changes in travel plans because of uncertainty weather conditions, standard cancellation policies will apply.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+TV
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Long term stays allowed
+Paid parking garage off premises
+Show all 38 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.97 out of 5 from 30 reviews.
+4.97
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+14
+Location
+19
+Hospitality
+14
+Parks
+2
+Parking
+6
+Cleanliness
+8
+Indoor spaces
+5
+Quiet
+3
+Nearby
+4
+Check-in
+3
+Terri
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Stayed one night
+The apartment was beautiful.   It was extremely clean. There were three of us and we had plenty of room without feeling cramped. Since it was in the heart of downtown, we were able to walk everywhere without needing the car or
+Uber. Here instructions for checking in was spot on. We make several trips to Savannah so we will look to rebook in the future.
+Show more
+Samantha
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed one night
+First—Although we had changes with our plans, Jamie was was responsive and understanding. We greatly appreciated it. 
+Second—our stay was wonderful. The location was excellent. Walkable, with a pretty park across the street. The space was clean, welcoming, and had thoughtful touches including a coffee bar, toiletries, and welcome book with local attractions. Of note is that you do have to go up a couple of flight of stairs to get to the apartment entrance. Not an issue for us at all (and may be included in the listing) but highlighting for others in case stairs present a challenge. 
+Jamie’s instructions were super helpful and made finding the location easy. The detailed guidance on parking was also appreciated. Would definitely stay there again during a future trip!
+Show more
+Alyssa
+Tampa, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We had a great time staying here! The space was much larger than we thought and very beautiful. We would absolutely stay here again!
+Daniel
+Salisbury, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Jamie was a great host and always responsive! Her place was clean, easily accessible, and right in the middle of all the shops/restaurants in downtown Savannah. We parked the car and walked everywhere we went! Highly recommend!
+Show more
+Niquanna
+Snellville, Georgia
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Very quiet and cozy retreat. 
+I will most definitely be returning.
+David
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Central location while still quiet, historic apartment with beautiful surroundings. Everything was as expected, highly recommended!
+Show all 30 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Meet your host
+Jamie
+Superhost
+36 reviews
+36
+Reviews
+4.97 out of 5 average rating
+4.97
+Rating
+2 years of hosting
+2
+Years hosting
+Born in the 80s
+Where I went to school: Savannah High School
+Jamie is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Janet
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Some spaces are shared
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

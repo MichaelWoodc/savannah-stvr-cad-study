@@ -1,0 +1,706 @@
+URL: https://www.airbnb.com/rooms/1453075316037110634
+Title: Luxury Downtown Retreat | Heated Pool Access
+Latitude: 32.07386
+Longitude: -81.09285
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to Liberty Mid-Century, a stunning one-bedroom, one-and-a-half-bathroom condo located in the iconic Drayton Tower in downtown Savannah, Georgia. This thoughtfully designed urban retreat blends the timeless elegance of mid-century modern style with contemporary comfort and convenience. Whether you're planning a romantic getaway or a solo adventure full of history, charm, and culture, Liberty Mid-Century offers the ideal home base for your Savannah stay
+
+The space
+Perfectly suited for up to four guests, this condo provides an elevated vacation experience right in the center of Savannah’s most vibrant neighborhood. From its elegant interior to its unbeatable location, every detail has been curated to help you relax, unwind, and enjoy the best of what this enchanting city has to offer.
+
+
+
+The Iconic Drayton Tower - Your Gateway to Savannah
+
+
+
+Experience unparalleled elegance in one of Savannah’s most distinguished landmarks, Drayton Tower. Boasting seamless elevator access and a coveted central location in the vibrant heart of downtown, this residence places you mere steps from the city’s renowned squares, upscale dining, boutique shopping, and rich cultural attractions. Your stay includes a coveted parking pass for one vehicle in a nearby premium garage, ensuring effortless convenience throughout your visit. Upon arrival, indulge in the peace of mind provided by secure, keyless building access, allowing you to explore Savannah’s charms with absolute ease. The building’s sleek, minimalist architecture is perfectly complemented by the refined sophistication of your private, impeccably designed condo.
+
+
+
+A Sophisticated Downtown Retreat
+
+
+
+Step inside Liberty Mid-Century and discover a thoughtfully styled condo that exudes comfort, character, and luxury. The living room invites you in with plush seating, clean lines, and an abundance of natural light streaming in through large windows that offer views of the surrounding historic district. A smart TV with streaming capabilities is mounted for your convenience. It’s perfect for a cozy evening in with your favorite shows or movies after a full day of sightseeing. This space also offers a convenient sofa bed transforming the space into an additional sleeping space.
+
+
+
+The open-concept layout creates a seamless flow between living, dining, and kitchen areas. This gives the condo an airy, spacious feel that’s perfect for four guests.     
+
+
+
+A Full Kitchen Designed for Comfort and Style
+
+
+
+Whether you're making a quick breakfast before heading out or preparing a romantic dinner in, you’ll find everything you need in the condo’s full kitchen. With sleek cabinetry, modern appliances, and essential cookware, this kitchen is as functional as it is stylish.
+
+
+
+The adjacent dining table seats four, offering the ideal setting for a casual meal, a bottle of wine, or even a game night. The natural materials and warm tones of the space reflect the mid-century aesthetic while keeping the atmosphere relaxed and welcoming.
+
+
+
+Tranquil Bedroom with King Bed
+
+
+
+When it’s time to rest and recharge, retreat to the serene bedroom at Liberty Mid-Century. A comfortable king-size bed takes center stage, featuring a high-quality mattress that promises a restful night’s sleep. Crisp linens, soft lighting, and tasteful decor add to the relaxing ambiance, making it a true haven after a busy day in the city.
+
+
+
+A second smart TV is mounted in the bedroom, so you can wind down with a late-night movie or morning news without ever leaving the comfort of your bed. For your convenience, you’ll also find a stackable washer and dryer discreetly located in the bedroom. This is perfect for longer stays or simply refreshing your wardrobe after a warm day exploring the city streets.
+
+
+
+Modern Bathrooms with Designer Touches
+
+
+
+Liberty Mid-Century features 1.5 bathrooms, offering guests both comfort and privacy. The full bathroom includes a tiled walk-in shower with modern fixtures and plenty of room to prepare for your day or unwind at night. Clean lines, soft lighting, and thoughtfully chosen finishes complete the spa-like feel.
+
+
+
+An additional half bath is located off the main living space, providing added convenience and making it easy to host a guest or enjoy a leisurely morning routine without crowding.
+
+
+
+Experience the Best of Downtown Savannah
+
+
+
+What truly distinguishes Liberty Mid-Century is its premier location within the prestigious Drayton Tower. At ground level, indulge in a rejuvenating yoga and Pilates studio, savor exquisite craft cocktails and sophisticated late-night fare at Savoy Society, and explore a curated collection of boutique shops — all just steps from your door.
+
+
+
+Beyond the building, Savannah’s most iconic treasures await. Stroll gracefully through the enchanting Forsyth Park, discover the elegance of historic squares, and immerse yourself in the city’s rich heritage with nearby tours of stately homes and museums. The city’s renowned arts scene, upscale shopping, and acclaimed dining establishments are all effortlessly accessible on foot. Begin your day with a meticulously brewed latte from a local artisan café, meander through cobblestone streets framed by majestic live oaks draped in Spanish moss, and return each evening to the refined comfort of Liberty Mid-Century. Whether unwinding in style or venturing out to experience Savannah’s vibrant nightlife and live music, every moment here exudes timeless Southern sophistication.
+
+
+
+Perfect for a romantic escape, a cultural retreat, or an elegant sojourn, Liberty Mid-Century offers a seamless fusion of mid-century modern design, luxurious amenities, and an unrivaled address in the heart of Savannah’s captivating charm.
+
+Guest access
+Occupancy: 4
+
+Living room with ample seating and a flatscreen TV
+
+Fully equipped kitchen with bar seating for 3
+
+Dining table that seats 4
+
+Bedroom features King bed, flatscreen TV, and en suite bathroom with tiled walk in shower
+
+Sofa bed in living room
+
+Half bath
+
+Washer/Dryer
+
+One parking pass included for the Liberty Street Parking Garage
+
+Building amenities: elevator access, secure lobby area
+
+Drayton tower also hosts several local on site businesses on the ground floor including: yoga/pilates studio, Savoy Society restaurant/bar, and boutique shops
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+​​​​​​​Building Requirements
+
+We're so glad you've chosen to stay with us! To comply with our building's registration requirements, all adult guests must be registered with our homeowners' association prior to arrival. Before your stay, we'll ask each adult guest to provide a copy of a valid government-issued photo ID (driver's license or passport). This quick step helps ensure a smooth and secure experience for everyone in the building — thank you so much for your understanding!
+
+
+
+SVR-03124
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Board games
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Pool
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Luxury Downtown Retreat | Heated Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1.5 baths
+Rated 4.73 out of 5 stars.
+4.73
+·
+15 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In downtown Savannah's Historic District
+Steps from Lafayette Square and Chippewa Square, with Forsyth Park and the Cathedral a short walk away
+Mid-century condo with practical extras
+A full kitchen, in-unit washer and dryer, and a parking pass for a nearby garage
+Bright, clean, and walkable
+Guests highlight the walkable location, clean modern finishes, and a bright, airy feel from the large windows
+Welcome to Liberty Mid-Century, a stunning one-bedroom, one-and-a-half-bathroom condo located in the iconic Drayton Tower in downtown Savannah, Georgia. This thoughtfully designed urban retreat blends the timeless elegance of mid-century modern style with contemporary comfort and convenience. Whether you're planning a romantic getaway or a solo adventure full of history, charm, and culture, Liberty Mid-Century offers the ideal home base for your Savannah stay
+
+The space
+Perfectly suited for up to four guests, this condo provides an elevated vacation experience right in the center of Savannah’s most vibrant neighborhood. From its elegant interior to its unbeatable location, every detail has been curated to help you relax, unwind, and enjoy the best of what this enchanting city has to offer.
+
+
+
+The Iconic Drayton Tower - Your Gateway to Savannah
+
+
+
+Experience unparalleled elegance in one of Savannah’s most distinguished landmarks, Drayton Tower. Boasting seamless elevator access and a coveted central location in the vibrant heart of downtown, this residence places you mere steps from the city’s renowned squares, upscale dining, boutique shopping, and rich cultural attractions. Your stay includes a coveted parking pass for one vehicle in a nearby premium garage, ensuring effortless convenience throughout your visit. Upon arrival, indulge in the peace of mind provided by secure, keyless building access, allowing you to explore Savannah’s charms with absolute ease. The building’s sleek, minimalist architecture is perfectly complemented by the refined sophistication of your private, impeccably designed condo.
+
+
+
+A Sophisticated Downtown Retreat
+
+
+
+Step inside Liberty Mid-Century and discover a thoughtfully styled condo that exudes comfort, character, and luxury. The living room invites you in with plush seating, clean lines, and an abundance of natural light streaming in through large windows that offer views of the surrounding historic district. A smart TV with streaming capabilities is mounted for your convenience. It’s perfect for a cozy evening in with your favorite shows or movies after a full day of sightseeing. This space also offers a convenient sofa bed transforming the space into an additional sleeping space.
+
+
+
+The open-concept layout creates a seamless flow between living, dining, and kitchen areas. This gives the condo an airy, spacious feel that’s perfect for four guests.     
+
+
+
+A Full Kitchen Designed for Comfort and Style
+
+
+
+Whether you're making a quick breakfast before heading out or preparing a romantic dinner in, you’ll find everything you need in the condo’s full kitchen. With sleek cabinetry, modern appliances, and essential cookware, this kitchen is as functional as it is stylish.
+
+
+
+The adjacent dining table seats four, offering the ideal setting for a casual meal, a bottle of wine, or even a game night. The natural materials and warm tones of the space reflect the mid-century aesthetic while keeping the atmosphere relaxed and welcoming.
+
+
+
+Tranquil Bedroom with King Bed
+
+
+
+When it’s time to rest and recharge, retreat to the serene bedroom at Liberty Mid-Century. A comfortable king-size bed takes center stage, featuring a high-quality mattress that promises a restful night’s sleep. Crisp linens, soft lighting, and tasteful decor add to the relaxing ambiance, making it a true haven after a busy day in the city.
+
+
+
+A second smart TV is mounted in the bedroom, so you can wind down with a late-night movie or morning news without ever leaving the comfort of your bed. For your convenience, you’ll also find a stackable washer and dryer discreetly located in the bedroom. This is perfect for longer stays or simply refreshing your wardrobe after a warm day exploring the city streets.
+
+
+
+Modern Bathrooms with Designer Touches
+
+
+
+Liberty Mid-Century features 1.5 bathrooms, offering guests both comfort and privacy. The full bathroom includes a tiled walk-in shower with modern fixtures and plenty of room to prepare for your day or unwind at night. Clean lines, soft lighting, and thoughtfully chosen finishes complete the spa-like feel.
+
+
+
+An additional half bath is located off the main living space, providing added convenience and making it easy to host a guest or enjoy a leisurely morning routine without crowding.
+
+
+
+Experience the Best of Downtown Savannah
+
+
+
+What truly distinguishes Liberty Mid-Century is its premier location within the prestigious Drayton Tower. At ground level, indulge in a rejuvenating yoga and Pilates studio, savor exquisite craft cocktails and sophisticated late-night fare at Savoy Society, and explore a curated collection of boutique shops — all just steps from your door.
+
+
+
+Beyond the building, Savannah’s most iconic treasures await. Stroll gracefully through the enchanting Forsyth Park, discover the elegance of historic squares, and immerse yourself in the city’s rich heritage with nearby tours of stately homes and museums. The city’s renowned arts scene, upscale shopping, and acclaimed dining establishments are all effortlessly accessible on foot. Begin your day with a meticulously brewed latte from a local artisan café, meander through cobblestone streets framed by majestic live oaks draped in Spanish moss, and return each evening to the refined comfort of Liberty Mid-Century. Whether unwinding in style or venturing out to experience Savannah’s vibrant nightlife and live music, every moment here exudes timeless Southern sophistication.
+
+
+
+Perfect for a romantic escape, a cultural retreat, or an elegant sojourn, Liberty Mid-Century offers a seamless fusion of mid-century modern design, luxurious amenities, and an unrivaled address in the heart of Savannah’s captivating charm.
+
+Guest access
+Occupancy: 4
+
+Living room with ample seating and a flatscreen TV
+
+Fully equipped kitchen with bar seating for 3
+
+Dining table that seats 4
+
+Bedroom features King bed, flatscreen TV, and en suite bathroom with tiled walk in shower
+
+Sofa bed in living room
+
+Half bath
+
+Washer/Dryer
+
+One parking pass included for the Liberty Street Parking Garage
+
+Building amenities: elevator access, secure lobby area
+
+Drayton tower also hosts several local on site businesses on the ground floor including: yoga/pilates studio, Savoy Society restaurant/bar, and boutique shops
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+​​​​​​​Building Requirements
+
+We're so glad you've chosen to stay with us! To comply with our building's registration requirements, all adult guests must be registered with our homeowners' association prior to arrival. Before your stay, we'll ask each adult guest to provide a copy of a valid government-issued photo ID (driver's license or passport). This quick step helps ensure a smooth and secure experience for everyone in the building — thank you so much for your understanding!
+
+
+
+SVR-03124
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV
+Elevator
+Washer
+Dryer
+Air conditioning
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.73 out of 5 stars from 15 reviews
+4.73 · 15 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 73% of reviews
+5
+4 stars, 27% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.5 out of 5 stars for check-in
+Check-in
+4.5
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+7
+Location
+10
+Noise
+5
+Cleanliness
+5
+Indoor spaces
+4
+Decor
+3
+Nearby
+4
+Parking
+2
+Comfort
+4
+Kitchen
+3
+Dave
+Minneapolis, Minnesota
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+My wife and I had a great time in Savannah staying here. It’s in a great part of town, totally walkable and near to anything we needed. The apt itself was exactly what we look for for a long weekend vacay, it was a great bargain and worked perfectly as a crash-pad while we explored the city.  Stocked with all the minimum necessary items and super clean and spacious. Quality AC, fast WiFi, smart tvs, in-unit laundry. Ton of windows made it so lovely and bright! Access to the gated pool on Tybee was an amazing bonus as well. And the hosts were very welcoming, informative, and extremely timely responses. We would definitely stay here again. 
+One thing to keep in mind- the parking lot is half mile down the road. Great to have a free spot for sure, just prepare for some slightly weird logistics at check-in and check-out due to that.
+Show more
+Dahlia
+Katy, Texas
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed about a week
+Best place to stay when you are in Savannah!  The place was excellent. Super  clean and with everything you need so you can feel just like home!
+Justin
+High Point, North Carolina
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed about a week
+Great place, had an awesome time
+Randy
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed about a week
+Bright airy space. Situated in middle of historic downtown.
+Caleb
+Appleton, Wisconsin
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+It was great
+Alanna
+Vancouver, Canada
+Rating, 4 stars
+,
+·
+April 2026
+,
+·
+Stayed with kids
+The unit is lovely. It is thoughtfully decorated, in a wonderful location, and very well stocked. The kitchen has everything you need and it was all well organized and new. 
+The only cons (as mentioned in another review) are related to noise. The garbage pick up in the AM is shockingly loud, and on Friday and Saturday nights you can hear everything from the club/bar next door. 
+Would stay again, just with earplugs :)
+Show more
+Show all 15 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Vacation rentals with a pool in Chatham County
+Condo vacation rentals in Chatham County
+Vacation rentals with a pool in Georgia
+Condo vacation rentals in Georgia
+Vacation rentals with a pool in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

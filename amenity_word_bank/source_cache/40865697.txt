@@ -1,0 +1,406 @@
+URL: https://www.airbnb.com/rooms/40865697
+Title: Upscale Home with Plunge Pool by Lucky Savannah
+Latitude: 32.0729
+Longitude: -81.0876
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located in the Downtown Historic District, this well-appointed, three-story home overlooks tree lined Liberty Street - No detail has been spared! Up to ten guests are welcomed at Lady Liberty Main.
+
+The space
+This newly built three-story home offers high end amenities, and upscale furnishings. Just off of Liberty Street, you will feel like a local in the Downtown Historic District. Just a few short steps up to the main level, guests will enter into their new home away from home. The main level offers an inviting living space where guests are welcomed to join together, chefs kitchen, and a formal dining area. An additional guest can be accommodated with the twin memory foam sleeper ottoman in the living room. Conveniently placed, your guests can use the half bath on the main floor. Off the dining room, step out onto your back porch for a morning cup of joe with views of your private plunge pool, and the cathedral in the distance.
+
+After sending your luggage up via elevator, the third floor consists of two primary suites, each fitted with an en suite bathroom, and sophisticated decor. Both bedrooms are fitted with a television, and large walk-in closets perfect for storing belongings. Just between both rooms, guests can take advantage of the full-size washer and dryer. 
+
+Making your way downstairs, ground level living is a great option for guests or family members that have mobility issues. The garden apartment offers modern amenities, such as a full kitchen equipped with high-end stainless steel appliances, dedicated dining space and large kitchen island perfect for serving. The living room can accommodate two additional guests on the sleeper ottoman, and sleeper sofa. At the back of the home, a roomy bathroom with a tiled shower and tub combo. Just down the hall, the queen size bedroom with views of the private courtyard.
+
+Private Parking: Guests can take advantage of the private garage, that accommodates one small/mid-size sedan. Nearby parking is on-street and non-metered, although guests will need to be aware of the posted sweep zone signs.
+
+Sleeping Configuration:
+Main House:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+Living Room: Twin Sleeper Sofa
+Garden Apartment:
+Bedroom 3: Queen Bed
+Living Room: Twin Sleeper Sofa
+Living Room: Queen Sleeper Sofa
+
+SVR-02064
+SVR-02065
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Pool
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Upscale Home with Plunge Pool by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+8 guests · 3 bedrooms · 6 beds · 3.5 baths
+Rated 4.75 out of 5 stars.
+4.75
+·
+4 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Troup Square, with Lafayette Square and the Cathedral of St. John the Baptist nearby
+Private plunge pool
+A private plunge pool in the courtyard, visible from the back porch
+Three-story home with elevator access
+A three-story townhouse with an elevator, a chef's kitchen, and a ground-level apartment
+Located in the Downtown Historic District, this well-appointed, three-story home overlooks tree lined Liberty Street - No detail has been spared! Up to ten guests are welcomed at Lady Liberty Main.
+
+The space
+This newly built three-story home offers high end amenities, and upscale furnishings. Just off of Liberty Street, you will feel like a local in the Downtown Historic District. Just a few short steps up to the main level, guests will enter into their new home away from home. The main level offers an inviting living space where guests are welcomed to join together, chefs kitchen, and a formal dining area. An additional guest can be accommodated with the twin memory foam sleeper ottoman in the living room. Conveniently placed, your guests can use the half bath on the main floor. Off the dining room, step out onto your back porch for a morning cup of joe with views of your private plunge pool, and the cathedral in the distance.
+
+After sending your luggage up via elevator, the third floor consists of two primary suites, each fitted with an en suite bathroom, and sophisticated decor. Both bedrooms are fitted with a television, and large walk-in closets perfect for storing belongings. Just between both rooms, guests can take advantage of the full-size washer and dryer. 
+
+Making your way downstairs, ground level living is a great option for guests or family members that have mobility issues. The garden apartment offers modern amenities, such as a full kitchen equipped with high-end stainless steel appliances, dedicated dining space and large kitchen island perfect for serving. The living room can accommodate two additional guests on the sleeper ottoman, and sleeper sofa. At the back of the home, a roomy bathroom with a tiled shower and tub combo. Just down the hall, the queen size bedroom with views of the private courtyard.
+
+Private Parking: Guests can take advantage of the private garage, that accommodates one small/mid-size sedan. Nearby parking is on-street and non-metered, although guests will need to be aware of the posted sweep zone signs.
+
+Sleeping Configuration:
+Main House:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+Living Room: Twin Sleeper Sofa
+Garden Apartment:
+Bedroom 3: Queen Bed
+Living Room: Twin Sleeper Sofa
+Living Room: Queen Sleeper Sofa
+
+SVR-02064
+SVR-02065
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV with standard cable
+Elevator
+Washer
+Dryer
+Air conditioning
+Show all 37 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.75 out of 5 stars from 4 reviews
+4.75 · 4 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 75% of reviews
+5
+4 stars, 25% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 3.8 out of 5 stars for check-in
+Check-in
+3.8
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.5 out of 5 stars for value
+Value
+4.5
+Bronwyn
+Strongsville, Ohio
+Rating, 5 stars
+,
+·
+October 2023
+,
+·
+Group trip
+A bit hard to get into and the garage is extremely small BUT the best place! Parking on the street was pretty easy and everything was beautiful! Hope to come back!
+Julius
+Cincinnati, Ohio
+Rating, 4 stars
+,
+·
+July 2023
+,
+·
+Stayed a few nights
+Great place, Great location. it was perfect for our family!! We will be back!!
+Show more
+Leslie
+DeLand, Florida
+Rating, 5 stars
+,
+·
+January 2023
+,
+·
+Group trip
+This rental was perfect for our Savannah trip. Plenty of room and everything was comfortable. I had a few things that were unclear at the house (door codes, trash location) but their communication was great. They helped me quickly and in a very friendly way.
+Show more
+Niclas
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+November 2022
+,
+·
+Stayed a few nights
+The best place to stay I have ever booked via Airbnb, it was perfect, I can warmly recommend it !
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Vacation rentals with a pool in Chatham County
+House vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

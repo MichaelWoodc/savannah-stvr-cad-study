@@ -1,0 +1,598 @@
+URL: https://www.airbnb.com/rooms/1735689395012423193
+Title: Jones St Studio | Walk to Forsyth | Dogs OK
+Latitude: 32.072
+Longitude: -81.0915
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/Southern Grace Stays
+Host ID: 561893930
+Host profile ID: 1463880952280947353
+Host URL: https://www.airbnb.com/users/profile/1463880952280947353
+Bedrooms: 1
+Occupancy (maximum guests): 5
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+Bedroom
+1 king bed, 1 sofa bed, 1 bunk bed
+
+=== FULL DESCRIPTION ===
+Welcome to our 1 bedroom, 1 bathroom studio condo on Savannah’s storied Jones Street, where historic charm meets playful comfort.
+
+• King bed, twin bunk beds, and a sleeper sofa
+• Full kitchen with stainless steel appliances and coffee bar
+• In-unit washer/dryer, WiFi, and Roku smart TV
+• Walkable to Historic Savannah, Broughton Street, and River Street
+
+Bring your crew and settle in for an easy Savannah stay with space to relax, cook, and unwind.
+
+The space
+KEY FEATURES:
+
+☀ Historic High End Condo built in 1852 with Modern Amenities
+
+☀ Studio Condo / 1 King Bed / 1 set of twin bunk beds / Sleeper Sofa 
+
+☀ Modern and well-equipped full size kitchen with stainless steel appliances and a coffee bar w/ Keurig
+
+☀ Full Bathroom 
+
+☀ Dog friendly (see pet rules)
+
+☀ WiFi and Roku entertainment system; flat screen TV; smart TV
+
+☀ Board games and books for enjoyment
+
+☀ Convenient location that is walkable to attractions in Historic Savannah, Broughton Street and River Street
+
+☀ Shared outdoor patio for relaxing or eating just outside the front door
+
+☀ Free Street Parking
+
+☀ High Speed Internet
+
+☀ Washer & Dryer in unit for guest use
+
+
+
+Expect a Five Star stay with us. 
+
+
+
+The space is dog-friendly.  Limit 2 dogs max. Pets are restricted to 50lbs or less. 
+
+
+
+☆☆ENTIRE STUDIO CONDO☆☆
+
+The studio condo comfortably accommodates guests with a luxurious king bed, a set of twin bunk beds for added versatility, and a convenient sleeper sofa, making it perfect for families or groups.
+
+
+
+☆☆ BATHROOM☆☆
+
+The bathroom exudes vintage charm with a classic vanity, toilet, and tub/shower combo. Essentials like a hair dryer, shampoo, conditioner, and body wash are provided, creating a cozy, well-appointed space for your relaxation.
+
+
+
+☆☆ KITCHEN☆☆
+
+The bright and airy kitchen is fully equipped with all the appliances, utensils and cookware you need to feel at home.
+
+
+
+☆☆SHARED OUTSIDE SPACE ☆☆
+
+Just steps from the front door, the shared outdoor patio offers a cozy space to unwind, enjoy a meal, or savor a bottle of wine under the Savannah live oaks.
+
+
+
+SVR-03015
+
+Guest access
+The condo is fitted with a smart door lock for keyless entry and free street parking for vehicles. Guests will receive a key code the evening prior to arrival to enter the home. This code is changed after every guest for your safety.
+
+Other things to note
+Guests will love staying at Miss Whims E. Jones for its luxurious comfort and unbeatable location in Savannah's Historic District. This high-end studio condo features plush bedding, cozy throws, and vibrant, whimsical decor that blends historic charm with modern amenities. Just a short walk from Forsyth Park and River Street, it offers easy access to Savannah's top cafes, bars, and restaurants, making it an ideal base for exploring the city. With fast Wi-Fi, a charming coffee bar, and a shared patio just steps away, Miss Whims E. Jones ensures a memorable stay in the heart of Savannah.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Theme room
+A room or multiple spaces that are designed to follow the same theme
+Family
+Pack ’n play/Travel crib
+Children’s dinnerware
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+Exterior security cameras are present at all entrances
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Patio or balcony
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Housekeeping available from 9:00 AM to 4:00 PM, every day - available at extra cost
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Jones St Studio | Walk to Forsyth | Dogs OK
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+5 guests · 1 bedroom · 4 beds · 1 bath
+Rated 4.99 out of 5 stars.
+4.99
+·
+82 reviews
+Hosted by Laura W/Southern Grace Stays
+Superhost · 3 years hosting
+Listing highlights
+On Jones Street near Lafayette Square
+Steps from Lafayette Square, with the Cathedral of St. John the Baptist about a 5-min walk away
+Well-equipped kitchen with laundry
+A full kitchen with stainless steel appliances, a Keurig coffee bar, and in-unit washer and dryer
+Spotless and thoughtfully appointed
+Guests highlight how clean and thoughtfully stocked the space is, with comfortable bedding throughout
+Welcome to our 1 bedroom, 1 bathroom studio condo on Savannah’s storied Jones Street, where historic charm meets playful comfort.
+
+• King bed, twin bunk beds, and a sleeper sofa
+• Full kitchen with stainless steel appliances and coffee bar
+• In-unit washer/dryer, WiFi, and Roku smart TV
+• Walkable to Historic Savannah, Broughton Street, and River Street
+
+Bring your crew and settle in for an easy Savannah stay with space to relax, cook, and unwind.
+
+The space
+KEY FEATURES:
+
+☀ Historic High End Condo built in 1852 with Modern Amenities
+
+☀ Studio Condo / 1 King Bed / 1 set of twin bunk beds / Sleeper Sofa 
+
+☀ Modern and well-equipped full size kitchen with stainless steel appliances and a coffee bar w/ Keurig
+
+☀ Full Bathroom 
+
+☀ Dog friendly (see pet rules)
+
+☀ WiFi and Roku entertainment system; flat screen TV; smart TV
+
+☀ Board games and books for enjoyment
+
+☀ Convenient location that is walkable to attractions in Historic Savannah, Broughton Street and River Street
+
+☀ Shared outdoor patio for relaxing or eating just outside the front door
+
+☀ Free Street Parking
+
+☀ High Speed Internet
+
+☀ Washer & Dryer in unit for guest use
+
+
+
+Expect a Five Star stay with us. 
+
+
+
+The space is dog-friendly.  Limit 2 dogs max. Pets are restricted to 50lbs or less. 
+
+
+
+☆☆ENTIRE STUDIO CONDO☆☆
+
+The studio condo comfortably accommodates guests with a luxurious king bed, a set of twin bunk beds for added versatility, and a convenient sleeper sofa, making it perfect for families or groups.
+
+
+
+☆☆ BATHROOM☆☆
+
+The bathroom exudes vintage charm with a classic vanity, toilet, and tub/shower combo. Essentials like a hair dryer, shampoo, conditioner, and body wash are provided, creating a cozy, well-appointed space for your relaxation.
+
+
+
+☆☆ KITCHEN☆☆
+
+The bright and airy kitchen is fully equipped with all the appliances, utensils and cookware you need to feel at home.
+
+
+
+☆☆SHARED OUTSIDE SPACE ☆☆
+
+Just steps from the front door, the shared outdoor patio offers a cozy space to unwind, enjoy a meal, or savor a bottle of wine under the Savannah live oaks.
+
+
+
+SVR-03015
+
+Guest access
+The condo is fitted with a smart door lock for keyless entry and free street parking for vehicles. Guests will receive a key code the evening prior to arrival to enter the home. This code is changed after every guest for your safety.
+
+Other things to note
+Guests will love staying at Miss Whims E. Jones for its luxurious comfort and unbeatable location in Savannah's Historic District. This high-end studio condo features plush bedding, cozy throws, and vibrant, whimsical decor that blends historic charm with modern amenities. Just a short walk from Forsyth Park and River Street, it offers easy access to Savannah's top cafes, bars, and restaurants, making it an ideal base for exploring the city. With fast Wi-Fi, a charming coffee bar, and a shared patio just steps away, Miss Whims E. Jones ensures a memorable stay in the heart of Savannah.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 3 | Count unverified
+
+Bedroom
+1 king bed, 1 sofa bed, 1 bunk bed
+
+What this place offers
+Waterfront
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+Pets allowed
+TV
+Washer
+Dryer
+Exterior security cameras on property
+Show all 65 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.99 out of 5 stars from 82 reviews
+4.99 · 82 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 99% of reviews
+5
+4 stars, 1% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Hospitality
+22
+Walkability
+38
+Bathroom
+5
+Cleanliness
+26
+Location
+57
+Family
+20
+Indoor spaces
+17
+Parking
+15
+Sleep quality
+14
+Decor
+13
+Aisha
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Great stay, perfect location. Walkable and close to everything we wanted to see and do. Felt totally safe. First day hot water didn’t work and messaged host who responded quickly and sent a repair guy promptly. Easy fix. No complaints and would love to stay here again.
+Show more
+Ali
+Bryn Athyn, Pennsylvania
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Group trip
+Beyond the black iron gate as you make your way through the gardens you will find a little door that will transport you to a clean, beautiful space that is the perfect respite in this fast pace life.  My mom, 3 sisters and I found this to be a delightful place to spend our weekend. 
+We needed somethings along the way and this team answered our calls immediately! 
+If we come back to Savannah we will be contacting Southern Grace Stays!
+Show more
+Rachel
+Rising Sun, Maryland
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+We had a wonderful stay in Jones St. It was the perfect location, and fit our needs. Everything was clean and had what we needed. Kitchen was perfect, the washer and dryer was a huge plus. The city is so walkable and this was the best home base. It was also beautiful. The street had such history and the unit was decorated so fun! We’d love to come back and explore more!
+Show more
+Blake
+Ellisville, Mississippi
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+The place was amazing, great host, awesome city. It was all the above, we were very pleased with our visit
+Show more
+Angie
+1 year on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+What a LOVELY whimsical joyful space she has created! We loved our stay!
+Show more
+Jackie
+Cincinnati, Ohio
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Absolutely amazing! So many little things that made our stay so special! The street was beautiful, so walkable and so much to do and see. The location and amenities really made our trip easier and more enjoyable than we could have imagined!
+Show more
+Show all 82 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Laura W/Southern Grace Stays
+Superhost
+1,385 reviews
+1385
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+3 years of hosting
+3
+Years hosting
+My work: Southern Grace Stays
+Favorite song in high school: Livin on a Prayer
+Savannah is home, hospitality is my passion, and making guests feel welcome is what I do best! I love beautiful spaces, great food, Southern charm, and sharing the best of Savannah with visitors. When I’m not hosting, you’ll usually find me working on a new property project, hunting for the perfect décor piece, or planning my next getaway. Come for the stay, leave with a little Southern Grace!
+Laura W/Southern Grace Stays is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 2:00 AM
+Checkout before 10:00 AM
+5 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Waterfront vacation rentals in Savannah
+Waterfront vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

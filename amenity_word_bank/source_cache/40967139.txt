@@ -1,0 +1,566 @@
+URL: https://www.airbnb.com/rooms/40967139
+Title: 2BR Savannah Cottage | Shared Pool & DT Steps
+Latitude: 32.0728
+Longitude: -81.088
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jay
+Host ID: 155249121
+Host profile ID: 1462995880209039842
+Host URL: https://www.airbnb.com/users/profile/1462995880209039842
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 double bed
+
+=== FULL DESCRIPTION ===
+Welcome to your private Savannah carriage house, a 2 bedroom, 2.5 bath retreat for up to 4 guests within walking distance of Savannah's historic district. Featuring a shared heated cocktail pool and open-concept living spaces, this professionally designed home is the perfect Savannah base for small groups. The pool area is shared with the main house on the property.
+
+The space
+🏠 Private Carriage House | 🛏️ 2 Bedrooms | 🛁 2.5 Bathrooms | 👥 Up to 4 Guests
+
+Two-story carriage house in Savannah situated on a lot with a main house. This listing is for the carriage house only. Another group may be occupying the main house during your stay. The heated cocktail pool and outdoor area are shared between the carriage house and the main house. Similar properties available upon inquiry.
+
+FEATURES
+🍳 Kitchen: Fully stocked with essential cookware
+🏊 Pool: Shared heated cocktail pool — shared with main house
+🚗 Parking: Free on-street parking is available on the odd-numbered side of East Harris Street; the even-numbered side is paid. The street runs one-way east to west and is accessed from East Broad Street. Please follow all posted signage.
+🛏️ Bedding: Premium memory foam mattresses & quality linens
+📶 High-Speed WiFi
+🧴 Toiletries: High-end essentials
+📺 XL Flat Screen TV in each living room
+
+
+🛏️ Bedroom And 🛁 Bathrooms Layout
+
+First Floor:
+🛏️ Bedroom 1: 1 Double bed
+🛁 Bathroom 1: Full Hallway Bathroom (Serves Bedroom 1)
+
+Second Floor:
+🛏️ Bedroom 2: 1 King bed (ensuite full bathroom)
+🛁 Bathroom 2: Ensuite to Bedroom 2
+🚻 Half bathroom
+
+ADDITIONAL ROOMS
+🛋️ Living Room
+🍳 Kitchen
+🍽️ Dining Area
+
+OUTDOOR SPACE
+🏊 Pool: Shared heated cocktail pool — shared with main house
+🪑 Outdoor Seating Area
+🍽️ Outdoor Dining Table
+
+
+
+ACCESSIBILITY
+Stairs: Required to access Second Floor
+Floors: 2
+Elevator: No
+Step-free entry: No
+
+HOST INFORMATION
+Stay Heirloom professionally manages a collection of handcrafted homes designed to bring your group together. 
+If you love this listing, but you are looking for something you don’t see here, please inquire!
+
+Guest access
+The unit has locks with door codes. Codes and other check-in details will be provided via message and texted to your phone on the day of check-in.
+
+Other things to note
+HOUSE DISCLOSURES
+–We try our best to accommodate early check-ins, but we want to ensure the entirety of the spacious estate is clean and prepared for arrival. We can often accommodate early bag drop for your convenience. Please inquire if this is of interest to your group!
+
+BUSINESS DISCLAIMERS
+–We have a minimum age requirement for booking this rental. Reservation holder must be 21 years or older.
+–We request that guests complete a guest verification process and sign an additional agreement prior to receiving any check-in information. 
+–We require that guests provide a valid credit card and piece of ID for identification purposes only.  
+–We do not accept peer-to-peer payment systems or any prepaid debit cards as methods of payment. 
+–Pets are not allowed at this property. 
+–Mailing packages to the premises is not permitted.
+–We use Arlo/Hikvision and Noise Aware in our homes. Arlo/Hikvision is a video recording system that has been installed at the front/back doors of the home’s EXTERIOR ONLY, for your safety. NoiseAware is a decibel monitoring system that we use to keep in accordance with local noise regulations.
+
+Permit License Number: SVR-01341
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Crib
+Baby safety gates
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Exterior security cameras on property
+Arlo video recording (front/back doors, exterior only; 24/7 motion activated). NoiseAware decibel monitoring (active).
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Parking and facilities
+Free parking on premises
+Free street parking
+Outdoor pool
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+2BR Savannah Cottage | Shared Pool & DT Steps
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.84 out of 5 stars.
+4.84
+63 reviews
+63
+Reviews
+Hosted by Jay
+Superhost · 9 years hosting
+Listing highlights
+In the Beach Institute neighborhood
+Troup Square is right outside, with Crawford Square and the Flannery O'Connor Home about a 5-min walk
+Shared pool and outdoor space
+A heated cocktail pool and outdoor dining area shared with the main house on the property
+Comfortable beds, walkable location
+Guests highlight the comfortable beds and how walkable the location is to restaurants and shops
+Welcome to your private Savannah carriage house, a 2 bedroom, 2.5 bath retreat for up to 4 guests within walking distance of Savannah's historic district. Featuring a shared heated cocktail pool and open-concept living spaces, this professionally designed home is the perfect Savannah base for small groups. The pool area is shared with the main house on the property.
+
+The space
+🏠 Private Carriage House | 🛏️ 2 Bedrooms | 🛁 2.5 Bathrooms | 👥 Up to 4 Guests
+
+Two-story carriage house in Savannah situated on a lot with a main house. This listing is for the carriage house only. Another group may be occupying the main house during your stay. The heated cocktail pool and outdoor area are shared between the carriage house and the main house. Similar properties available upon inquiry.
+
+FEATURES
+🍳 Kitchen: Fully stocked with essential cookware
+🏊 Pool: Shared heated cocktail pool — shared with main house
+🚗 Parking: Free on-street parking is available on the odd-numbered side of East Harris Street; the even-numbered side is paid. The street runs one-way east to west and is accessed from East Broad Street. Please follow all posted signage.
+🛏️ Bedding: Premium memory foam mattresses & quality linens
+📶 High-Speed WiFi
+🧴 Toiletries: High-end essentials
+📺 XL Flat Screen TV in each living room
+
+
+🛏️ Bedroom And 🛁 Bathrooms Layout
+
+First Floor:
+🛏️ Bedroom 1: 1 Double bed
+🛁 Bathroom 1: Full Hallway Bathroom (Serves Bedroom 1)
+
+Second Floor:
+🛏️ Bedroom 2: 1 King bed (ensuite full bathroom)
+🛁 Bathroom 2: Ensuite to Bedroom 2
+🚻 Half bathroom
+
+ADDITIONAL ROOMS
+🛋️ Living Room
+🍳 Kitchen
+🍽️ Dining Area
+
+OUTDOOR SPACE
+🏊 Pool: Shared heated cocktail pool — shared with main house
+🪑 Outdoor Seating Area
+🍽️ Outdoor Dining Table
+
+
+
+ACCESSIBILITY
+Stairs: Required to access Second Floor
+Floors: 2
+Elevator: No
+Step-free entry: No
+
+HOST INFORMATION
+Stay Heirloom professionally manages a collection of handcrafted homes designed to bring your group together. 
+If you love this listing, but you are looking for something you don’t see here, please inquire!
+
+Guest access
+The unit has locks with door codes. Codes and other check-in details will be provided via message and texted to your phone on the day of check-in.
+
+Other things to note
+HOUSE DISCLOSURES
+–We try our best to accommodate early check-ins, but we want to ensure the entirety of the spacious estate is clean and prepared for arrival. We can often accommodate early bag drop for your convenience. Please inquire if this is of interest to your group!
+
+BUSINESS DISCLAIMERS
+–We have a minimum age requirement for booking this rental. Reservation holder must be 21 years or older.
+–We request that guests complete a guest verification process and sign an additional agreement prior to receiving any check-in information. 
+–We require that guests provide a valid credit card and piece of ID for identification purposes only.  
+–We do not accept peer-to-peer payment systems or any prepaid debit cards as methods of payment. 
+–Pets are not allowed at this property. 
+–Mailing packages to the premises is not permitted.
+–We use Arlo/Hikvision and Noise Aware in our homes. Arlo/Hikvision is a video recording system that has been installed at the front/back doors of the home’s EXTERIOR ONLY, for your safety. NoiseAware is a decibel monitoring system that we use to keep in accordance with local noise regulations.
+
+Permit License Number: SVR-01341
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 double bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Outdoor pool
+TV
+Washer
+Dryer
+Air conditioning
+Exterior security cameras on property
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.84 out of 5 from 63 reviews.
+4.84
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 87% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Pool
+20
+Walkability
+17
+Location
+31
+Hospitality
+26
+Comfort
+16
+Parking
+12
+Cleanliness
+15
+Nearby
+6
+Sleep quality
+9
+Shared spaces
+6
+Tyler
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+the trash cans were overflowing. maybe from the previous visit, but we put one trash bag away, and it was already very full. a couple of towels had stains, and the pool heater broke, causing a repair man to be there for an entire day to fix it, blocking the garage. I know these things happen, and I am not blaming the repair guy or Jay, but I feel we should report it. good news: they have a brand new pool heater, so that won't be a problem later. the location was fantastic! great breakfast places nearby, and close to downtown and a huge park. overall, we enjoyed our stay.
+Show more
+Kallie
+Pittsburgh, Pennsylvania
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great place to stay in Savannah; would stay there again.
+Clay
+Mooresville, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Very accommodating location.  Great walking distance to all of Savannah’s locations.
+Candace
+Columbus, Ohio
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Great space to relax and enjoy a solo or small family stay. Great communication and responsive host. Would absolutely book again.
+Whitney
+Charleston, South Carolina
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+We had a great stay! The place was clean, comfortable, and matched the listing well. The host was responsive and made check-in easy. Overall, a really good experience and we’d definitely stay again.
+Show more
+Lindsay
+Roswell, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+This was a fantastic and cozy place to come back to after sightseeing. Would love to stay here again!
+Show all 63 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+The Beach Institute neighborhood is an architectural and cultural gem. Beautiful historic homes line the lush, green streets and the atmosphere is vibrant and creative. Our home is located on a tranquil tree-lined street in a quiet and residential area. Nearby are many points of interest including Crawford Square, Flannery O’Connor’s childhood home, and the Beach Institute African American Cultural Center.
+Show more
+Meet your host
+Jay
+Superhost
+3,007 reviews
+3007
+Reviews
+4.76 out of 5 average rating
+4.76
+Rating
+9 years of hosting
+9
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+My personal loves include my dog, traveling with my wife, and trying to cook the perfect fried chicken. Part of the joy for me is in providing a platform to let you discover what I love about these amazing cities. Cheers, Jay
+Jay is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

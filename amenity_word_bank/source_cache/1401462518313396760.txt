@@ -1,0 +1,525 @@
+URL: https://www.airbnb.com/rooms/1401462518313396760
+Title: Downtown Savannah on Crawford Square, Cozy Studio
+Latitude: 32.0738
+Longitude: -81.0866
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/Southern Grace Stays
+Host ID: 561893930
+Host profile ID: 1463880952280947353
+Host URL: https://www.airbnb.com/users/profile/1463880952280947353
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Welcome to Crawford Square Nook, a cozy studio in Savannah’s Historic District beside Crawford Square. Surrounded by live oaks and Spanish moss, this is the perfect place to enjoy the city’s rich history in a prime location—just a short walk to shops, dining, and attractions.  Designed for 1–2 guests, the space features a comfortable queen bed with crisp white linens, a smart TV, a private full bath, and a kitchenette with a mini fridge, microwave, and coffee setup.  Paid street parking
+
+The space
+KEY FEATURES:
+
+☀ High End Studio built in 2014 with Modern Amenities
+
+☀ Studio / 1 Queen Bed
+
+☀ Full Bathroom w/ walk in shower
+
+☀ WiFi and Roku entertainment system; flat screen TV; smart TV
+
+☀ Convenient location that is walkable to attractions in Historic Savannah, Broughton Street and River Street
+
+☀ High Speed Internet
+
+☀ Mini Fridge
+
+☀ Coffee & Tea Bar
+
+
+
+Expect a Five Star stay with us.
+
+
+
+The space is dog-friendly with a pet fee; with a limit of 2 dogs. Pets must be 25lbs or less.
+
+
+
+☆☆ENTIRE STUDIO CONDO☆☆
+
+The studio comfortably accommodates 2 guests with a luxurious queen bed, making it perfect for couples or single travelers.
+
+
+
+☆☆ BATHROOM☆☆
+
+The bathroom exudes charm with a classic vanity, toilet, and shower. Essentials like a hair dryer, shampoo, conditioner, and body wash are provided, creating a cozy, well-appointed space for your relaxation.
+
+
+
+SVR-03000
+
+
+
+A visitor parking pass allows limited parking in any City parking garage/lot, overtime parking in limited-time zones or parking at any parking meter with a time limit of one hour or more for 48 hours from purchase. The Visitor DAYPASS is available to Savannah visitors for $15.00 for a 24-hour pass and $24.00 for a 48-hour pass.  The Visitor DAYPASS is available at: Mobility & Parking Services, 100 East Bryan Street, Monday through Friday, 8 a.m. to 5 p.m.
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Park view
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Exterior cameras are located at all entrances.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Mini fridge
+Coffee maker
+Wine glasses
+Kitchenette
+Space where guests can heat up and refrigerate food
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Parking and facilities
+Free street parking
+Paid parking off premises
+Single level home
+No stairs in home
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Housekeeping - available at extra cost
+Not included
+Unavailable: Kitchen
+Kitchen
+Unavailable: Washer
+Washer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Downtown Savannah on Crawford Square, Cozy Studio
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.9 out of 5 stars.
+4.9
+40 reviews
+40
+Reviews
+Hosted by Laura W/Southern Grace Stays
+Superhost · 3 years hosting
+Listing highlights
+In Savannah's Historic District
+Right beside Crawford Square, with Troup Square and the Cathedral about a 5-min walk away
+Cozy studio with a kitchenette
+A kitchenette with a mini fridge, microwave, and coffee setup in a compact, well-appointed studio
+Laura is a responsive host
+Guests highlight the walkable location and how responsive Laura is throughout the stay
+Welcome to Crawford Square Nook, a cozy studio in Savannah’s Historic District beside Crawford Square. Surrounded by live oaks and Spanish moss, this is the perfect place to enjoy the city’s rich history in a prime location—just a short walk to shops, dining, and attractions.  Designed for 1–2 guests, the space features a comfortable queen bed with crisp white linens, a smart TV, a private full bath, and a kitchenette with a mini fridge, microwave, and coffee setup.  Paid street parking
+
+The space
+KEY FEATURES:
+
+☀ High End Studio built in 2014 with Modern Amenities
+
+☀ Studio / 1 Queen Bed
+
+☀ Full Bathroom w/ walk in shower
+
+☀ WiFi and Roku entertainment system; flat screen TV; smart TV
+
+☀ Convenient location that is walkable to attractions in Historic Savannah, Broughton Street and River Street
+
+☀ High Speed Internet
+
+☀ Mini Fridge
+
+☀ Coffee & Tea Bar
+
+
+
+Expect a Five Star stay with us.
+
+
+
+The space is dog-friendly with a pet fee; with a limit of 2 dogs. Pets must be 25lbs or less.
+
+
+
+☆☆ENTIRE STUDIO CONDO☆☆
+
+The studio comfortably accommodates 2 guests with a luxurious queen bed, making it perfect for couples or single travelers.
+
+
+
+☆☆ BATHROOM☆☆
+
+The bathroom exudes charm with a classic vanity, toilet, and shower. Essentials like a hair dryer, shampoo, conditioner, and body wash are provided, creating a cozy, well-appointed space for your relaxation.
+
+
+
+SVR-03000
+
+
+
+A visitor parking pass allows limited parking in any City parking garage/lot, overtime parking in limited-time zones or parking at any parking meter with a time limit of one hour or more for 48 hours from purchase. The Visitor DAYPASS is available to Savannah visitors for $15.00 for a 24-hour pass and $24.00 for a 48-hour pass.  The Visitor DAYPASS is available at: Mobility & Parking Services, 100 East Bryan Street, Monday through Friday, 8 a.m. to 5 p.m.
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Park view
+Wifi
+Free street parking
+Pets allowed
+TV
+Air conditioning
+Hair dryer
+Microwave
+Long term stays allowed
+Exterior security cameras on property
+Show all 40 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.9 out of 5 from 40 reviews.
+4.9
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 5% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+15
+Location
+19
+Cleanliness
+11
+Parking
+6
+Hospitality
+15
+Indoor spaces
+9
+Comfort
+8
+Sleep quality
+5
+Bathroom
+4
+Nearby
+5
+Amy
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+I stayed here with my husband for 2 nights. I would definitely recommend this spot! It's about a good 15-20 min walk to the heart of Savannah's restaurants, but so worth it with the price paid. It's a great spot, clean, wonderful host and just overall beautiful surroundings. You can't go wrong! My only recommendation would be that the hot water be hotter. But I still would give this 5 stars, thanks again!
+Show more
+Maria
+Spain
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We really enjoyed our stay! The location is very convenient and the space was perfect for a quick weekend trip.
+Show more
+Savannah
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Perfect place for my husband and I to get away for the weekend and celebrate our anniversary.
+Show more
+Kailynn
+Liberty, South Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Thank you for having us!
+Show more
+Alexander
+Orlando, Florida
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Home is in a beautiful location and is centrally located within Savannah. Very clean and spotless upon arrival. Close walk to vast majority of incredible restaurants and attractions downtown.
+Show more
+Jenny
+2 months on Airbnb
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had a lovely stay.  This was our first time in Savannah and our first time using an Airbnb. Laura was very helpful and made our stay very easy and stress free.  Thank you, Laura
+Show more
+Show all 40 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Laura W/Southern Grace Stays
+Superhost
+1,384 reviews
+1384
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+3 years of hosting
+3
+Years hosting
+My work: Southern Grace Stays
+Favorite song in high school: Livin on a Prayer
+Savannah is home, hospitality is my passion, and making guests feel welcome is what I do best! I love beautiful spaces, great food, Southern charm, and sharing the best of Savannah with visitors. When I’m not hosting, you’ll usually find me working on a new property project, hunting for the perfect décor piece, or planning my next getaway. Come for the stay, leave with a little Southern Grace!
+Laura W/Southern Grace Stays is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

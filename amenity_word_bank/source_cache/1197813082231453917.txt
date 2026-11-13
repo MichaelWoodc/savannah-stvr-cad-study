@@ -1,0 +1,494 @@
+URL: https://www.airbnb.com/rooms/1197813082231453917
+Title: Charming Monterey Square Carriage House
+Latitude: 32.0708
+Longitude: -81.0954
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Allan
+Host ID: 376644934
+Host profile ID: 1463561123306813590
+Host URL: https://www.airbnb.com/users/profile/1463561123306813590
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Perfect One-Bedroom Getaway in Historic Savannah
+
+Discover the charm and elegance of Savannah with a stay at the Monterey Square Carriage House, a delightful one-bedroom, one-bathroom vacation rental between the iconic Armstrong Kessler Mansion and the Mercer Williams House. Situated on one of Savannah’s most beautiful squares, this luxurious carriage house offers a truly unforgettable experience for those seeking comfort and convenience in the heart of the city.
+
+SVR-03162
+
+The space
+The bedroom is located on the ground level and features a cozy queen bed and high-end furnishings. Upstairs, you’ll find the sophisticated living room thoughtfully designed to capture the historic essence of the home. The fully equipped kitchen has everything you need to prepare your favorite meals. The unit also includes a washer and dryer for your convenience.
+
+Step outside onto your private balcony overlooking a tranquil garden, where you can enjoy a peaceful morning coffee or unwind with a glass of wine in the evening. The serene setting, surrounded by Spanish moss-draped mansions and historic monuments, creates the perfect backdrop for relaxation.
+
+Nearby, explore Savannah’s rich history with visits to The Sorrel-Weed House, Green-Meldrim House, and the Mercer Williams House Museum. The famous Fountain at Forsyth Park is just steps away. Broughton Street is just a short walk from shopping and dining, and City Market and River Street are a 15-minute stroll from the home.
+
+Property Highlights:
+
+- One-bedroom carriage house with queen bed
+- Full bath with tub/shower combo and vanity
+- Fully equipped kitchen and in-unit washer/dryer
+- Private balcony overlooking a serene garden
+- Steps from Monterey Square, Forsyth Park, and other historic sites
+- Convenient access to shopping, dining, and Savannah’s famous River Street
+
+Important Information:
+
+- Maximum occupancy: 2 guests (strictly enforced, no exceptions, including infants/children)
+- Minimum age to reserve: 25 years old (no exceptions)
+- NO PARTIES, NO BACHELORETTE/BACHELOR GROUPS
+- No smoking or vaping allowed
+- Pets Welcome
+
+Other things to note
+Parking is conveniently available on the street and metered at this location. Finding parking spots on Bull St or Monterey Square is easily achievable. These areas are within a short walking distance from the property
+Just so you know, parking enforcement by the City of Savannah is effective from Monday to Friday, 8 AM to 5 PM, while parking is free on the weekends from Friday at 5 PM to Monday at 8 AM.
+To handle meters, purchasing a "Visitors Parking Day Pass" for all day/night parking is recommended. Travelers coming with a vehicle can buy a City of Savannah Day Pass for $24 for 48 hours or $15 for 24 hours. These passes are available at the Visitors Information Center or the Parking Services office at 100 East Bryan Street (Monday - Friday, 8 AM - 4:30 PM). Additionally, the Park Savannah app simplifies the payment process for weekday parking.
+The nearest non-metered free public street parking can be found 2 blocks south of this location. Guests are advised to keep an eye out for posted Sweep Zone signs.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Exterior security cameras on property
+Doorbell camera is motion activated and monitors the front entrance.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Outdoor furniture
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Smart lock
+Not included
+Unavailable: Hair dryer
+Hair dryer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Charming Monterey Square Carriage House
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire guesthouse in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.89 out of 5 stars.
+4.89
+56 reviews
+56
+Reviews
+Hosted by Allan
+Superhost · 6 years hosting
+Listing highlights
+In Savannah's Historic District
+Right outside Monterey Square and Forsyth Park, with historic landmarks and restaurants all walkable
+Carriage house with garden balcony
+A private balcony overlooks a garden courtyard, with French doors opening to the living room
+A location guests keep coming back to
+Guests highlight the location, calling it one of the best they've stayed in across Savannah
+Perfect One-Bedroom Getaway in Historic Savannah
+
+Discover the charm and elegance of Savannah with a stay at the Monterey Square Carriage House, a delightful one-bedroom, one-bathroom vacation rental between the iconic Armstrong Kessler Mansion and the Mercer Williams House. Situated on one of Savannah’s most beautiful squares, this luxurious carriage house offers a truly unforgettable experience for those seeking comfort and convenience in the heart of the city.
+
+SVR-03162
+
+The space
+The bedroom is located on the ground level and features a cozy queen bed and high-end furnishings. Upstairs, you’ll find the sophisticated living room thoughtfully designed to capture the historic essence of the home. The fully equipped kitchen has everything you need to prepare your favorite meals. The unit also includes a washer and dryer for your convenience.
+
+Step outside onto your private balcony overlooking a tranquil garden, where you can enjoy a peaceful morning coffee or unwind with a glass of wine in the evening. The serene setting, surrounded by Spanish moss-draped mansions and historic monuments, creates the perfect backdrop for relaxation.
+
+Nearby, explore Savannah’s rich history with visits to The Sorrel-Weed House, Green-Meldrim House, and the Mercer Williams House Museum. The famous Fountain at Forsyth Park is just steps away. Broughton Street is just a short walk from shopping and dining, and City Market and River Street are a 15-minute stroll from the home.
+
+Property Highlights:
+
+- One-bedroom carriage house with queen bed
+- Full bath with tub/shower combo and vanity
+- Fully equipped kitchen and in-unit washer/dryer
+- Private balcony overlooking a serene garden
+- Steps from Monterey Square, Forsyth Park, and other historic sites
+- Convenient access to shopping, dining, and Savannah’s famous River Street
+
+Important Information:
+
+- Maximum occupancy: 2 guests (strictly enforced, no exceptions, including infants/children)
+- Minimum age to reserve: 25 years old (no exceptions)
+- NO PARTIES, NO BACHELORETTE/BACHELOR GROUPS
+- No smoking or vaping allowed
+- Pets Welcome
+
+Other things to note
+Parking is conveniently available on the street and metered at this location. Finding parking spots on Bull St or Monterey Square is easily achievable. These areas are within a short walking distance from the property
+Just so you know, parking enforcement by the City of Savannah is effective from Monday to Friday, 8 AM to 5 PM, while parking is free on the weekends from Friday at 5 PM to Monday at 8 AM.
+To handle meters, purchasing a "Visitors Parking Day Pass" for all day/night parking is recommended. Travelers coming with a vehicle can buy a City of Savannah Day Pass for $24 for 48 hours or $15 for 24 hours. These passes are available at the Visitors Information Center or the Parking Services office at 100 East Bryan Street (Monday - Friday, 8 AM - 4:30 PM). Additionally, the Park Savannah app simplifies the payment process for weekday parking.
+The nearest non-metered free public street parking can be found 2 blocks south of this location. Guests are advised to keep an eye out for posted Sweep Zone signs.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pets allowed
+TV
+Washer
+Dryer
+Air conditioning
+Refrigerator
+Exterior security cameras on property
+Show all 37 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.89 out of 5 from 56 reviews.
+4.89
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 89% of reviews
+5
+4 stars, 11% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Location
+45
+Walkability
+24
+Parks
+11
+Pets
+14
+Hospitality
+25
+Nearby
+14
+Comfort
+18
+Cleanliness
+15
+Parking
+5
+Accuracy
+7
+Meghan
+Buffalo, New York
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We had such a wonder time staying at Allen’s air bnb, the location was better than expected with lots of privacy. We were able to walk mostly everywhere and found some cool little spots along the way. 
+The apartment was very clean and the decor was spot on. We will definitely stay here again when we visit Savannah.
+Show more
+Thomas
+1 month on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+I had a wonderful stay at Rebeca and Allan’s home. The house was comfortable, beautifully maintained, and exactly what I was hoping for. The location was terrific—convenient to everything I wanted to explore, especially the beautiful Savannah neighborhood.
+Rebeca and Allan were gracious and responsive hosts and made the entire stay easy. They truly have a gem in Savannah. I enjoyed it so much that I’m already planning a return trip later this year and would happily stay here again. Highly recommended.
+Show more
+Jamison Leroy
+Lexington, Kentucky
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+This was by far the best location in Savannah for convenience of seeing all the sites and being right in the most gorgeous part of the historic district. Impeccable location! Aside from issues with the air-conditioning not performing well due to the heat, everything was perfect. Hosts were quick to respond and very accommodating. I would recommend this place to anyone wanting to stay in the best part of the historic district and who love to walk with their dogs.
+Show more
+Dustin
+Washington, District of Columbia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+The place was just as shown. Perfect location. Rebeca and Allan were very responsive. Would def stay again.
+Angelina
+Richmond, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This Airbnb is the best in the area for a one-person trip or a couple get-away. It was just the right amount of space, clean, and it a really good spot in the city.
+Corey
+Fernandina Beach, Florida
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed about a week
+Had a great stay in the little apartment! The place is very nice and well set up. Nice small deck on back porch to enjoy
+Show all 56 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Forsyth Park
+Park
+The Pirates' House
+Restaurant
+Cathedral of Saint John the Baptist
+Church
+The Grey
+American restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Allan
+Superhost
+3,175 reviews
+3175
+Reviews
+4.86 out of 5 average rating
+4.86
+Rating
+6 years of hosting
+6
+Years hosting
+Speaks English and Spanish
+Lives in Savannah, Georgia
+My wife and I moved to Savannah over 14 years ago and fell in love with everything about the area. We have 2 kids that fill our lives with joy and excitement. I have an engineering and aerospace background and my wife has a background in Culinary Arts and makes custom decorated cakes and other treats.
+Allan is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Rebeca
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 9:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+Guesthouse vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Guesthouse vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Guesthouse vacation rentals in Georgia
+Pet-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,411 @@
+URL: https://www.airbnb.com/rooms/1231890600422761094
+Title: Carriage House With Modern Kitchen Downtown
+Latitude: 32.07464
+Longitude: -81.08835
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Mary
+Host ID: 10371587
+Host profile ID: 1462838847845697919
+Host URL: https://www.airbnb.com/users/profile/1462838847845697919
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+City of Savannah SVR-02536
+
+One bedroom one bathroom carriage house apartment. Walk in closet. Equipped kitchen. Dedicated wireless internet. Street parking. This unit is the upper level of the carriage house building. Guests must be able to walk up stairs. Street parking options are plentiful. Free non-metered parking is on Liberty St. Metered spots on Houston or Perry are free nights and Sundays.
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Stove
+Oven
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free street parking
+Services
+Self check-in
+Lockbox
+Not included
+Unavailable: Shampoo
+Shampoo
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Carriage House With Modern Kitchen Downtown
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire guesthouse in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+30 reviews
+30
+Reviews
+Hosted by Mary
+Superhost · 13 years hosting
+Listing highlights
+In Savannah's Historic District
+Crawford Square is right outside, with Lafayette Square and the Cathedral about a 5-min walk away
+Private carriage house with kitchen
+A private carriage house apartment with its own entrance, equipped kitchen, and living room
+Mary is a standout host
+Guests consistently praise Mary for being responsive, helpful, and accommodating throughout their stay
+City of Savannah SVR-02536
+
+One bedroom one bathroom carriage house apartment. Walk in closet. Equipped kitchen. Dedicated wireless internet. Street parking. This unit is the upper level of the carriage house building. Guests must be able to walk up stairs. Street parking options are plentiful. Free non-metered parking is on Liberty St. Metered spots on Houston or Perry are free nights and Sundays.
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Hair dryer
+Refrigerator
+Show all 27 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 30 reviews.
+4.93
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Walkability
+9
+Location
+15
+Parking
+4
+Hospitality
+11
+Solo travel
+3
+Cleanliness
+6
+Quiet
+4
+Check-in
+4
+Nearby
+4
+Comfort
+5
+Hope
+Cleveland, Tennessee
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+My stay at Mary’s place was perfect! Everything was as described and just what I needed for a solo weekend trip. Her place is very walkable from everything Savannah has to offer.
+Amanda
+Asheville, North Carolina
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+This is a great location. The space is tidy and clean and room enough for two. The free street parking was easy on a rainy weekend.
+Christa
+Clinton, Tennessee
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Great place. liked the park you could literally walk to nearby as well.
+Anthony
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+Great location to everything in the downtown area and was located in a safe/quiet area.
+Ashleigh
+Charlotte, North Carolina
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+A perfect little find, right in walking distance of everything downtown but quiet enough sleep comes easy! Listed perfectly, back to the cold for us now!
+Miranda
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+This was the perfect location & was easy to walk to places! Host was quick to respond about anything! :)
+Show all 30 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Maté Factor
+Bakery
+Jones Street - Prettiest Street in Savannah
+Tourist attraction
+CVS
+Pharmacy
+B. Matthew's Eatery
+Restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Historic District
+Show more
+Meet your host
+Mary
+Superhost
+12,061 reviews
+10,000
++
+Reviews
+4.83 out of 5 average rating
+4.83
+Rating
+13 years of hosting
+13
+Years hosting
+My work: Anderson VIP Concierge LLC
+Lives in Savannah, Georgia
+SavannahLuxuryRentals is a one stop shop for vacation rentals, tennis lessons for hire whenever possible and trolley tour tickets ;) We have budget friendly basic rentals as well as some of the most gorgeous luxury homes available. Please ask if you need us to help you select the best fit for you! Your contacts at the company will be Mary or Jennifer
+Mary is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Skylynn
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Guesthouse vacation rentals in Savannah
+Guesthouse vacation rentals in Chatham County
+Guesthouse vacation rentals in Georgia
+Guesthouse vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,456 @@
+URL: https://www.airbnb.com/rooms/52168043
+Title: Chippewa Suite on Jones Street
+Latitude: 32.0727
+Longitude: -81.0961
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sandra
+Host ID: 314313673
+Host profile ID: 1469592005946537681
+Host URL: https://www.airbnb.com/users/profile/1469592005946537681
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+The Chippewa Suite, one of the Jones Street Suites, is light-filled and inviting with soaring ceilings and incredible views of Savannah's world-famous Jones Street. This suite is located on the 3rd floor and accommodates up to 4 guests. You'll be steps from dining, shops, Forsyth Park, River Street, and all that our wonderful city has to offer while staying on the most beautiful street in America!
+
+The space
+The Chippewa Suite, one of the Jones Street Suites, is light-filled and inviting with soaring ceilings and incredible views of Savannah's world-famous Jones Street. This apartment is located on the 3rd floor and accommodates up to 4 guests. The space has one bedroom with an en-suite bathroom, and there is a pull-out couch in the living room for guests three and four.
+
+Guest access
+Please note this suite is on the 3rd floor.  There is a flight of stairs outside to enter the property, and another flight of stairs once you enter the property to get to the suite.
+
+Other things to note
+There isn't a designated parking space for this suite, but there are typically plenty of parking spaces available on the street.  You may either park your vehicle right on the street out front or on the nearby side streets if you prefer. Parking on Jones Street is metered Monday – Friday 8 AM-5PM and they have a 2 hour time limit.  Parking is free after 5PM during the weekdays and all day on Saturday and Sunday, with no time limit.
+
+Certificate # SVR-02429
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Individual Travel Size shampoo
+Individual Travel Size conditioner
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Includes a table
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Parking and facilities
+Free street parking
+Paid parking lot off premises
+Services
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Chippewa Suite on Jones Street
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+133 reviews
+133
+Reviews
+Hosted by Sandra
+7 years hosting
+Listing highlights
+In Historic Savannah on Jones Street
+Forsyth Park is about a 5-min walk, with Monterey and Madison Squares even closer
+Well-equipped kitchen with in-unit laundry
+A full kitchen with modern appliances, plus an in-unit washer and dryer
+Spotless, with an attentive host
+Guests highlight the cleanliness, the charming decor, and a responsive, flexible host
+The Chippewa Suite, one of the Jones Street Suites, is light-filled and inviting with soaring ceilings and incredible views of Savannah's world-famous Jones Street. This suite is located on the 3rd floor and accommodates up to 4 guests. You'll be steps from dining, shops, Forsyth Park, River Street, and all that our wonderful city has to offer while staying on the most beautiful street in America!
+
+The space
+The Chippewa Suite, one of the Jones Street Suites, is light-filled and inviting with soaring ceilings and incredible views of Savannah's world-famous Jones Street. This apartment is located on the 3rd floor and accommodates up to 4 guests. The space has one bedroom with an en-suite bathroom, and there is a pull-out couch in the living room for guests three and four.
+
+Guest access
+Please note this suite is on the 3rd floor.  There is a flight of stairs outside to enter the property, and another flight of stairs once you enter the property to get to the suite.
+
+Other things to note
+There isn't a designated parking space for this suite, but there are typically plenty of parking spaces available on the street.  You may either park your vehicle right on the street out front or on the nearby side streets if you prefer. Parking on Jones Street is metered Monday – Friday 8 AM-5PM and they have a 2 hour time limit.  Parking is free after 5PM during the weekdays and all day on Saturday and Sunday, with no time limit.
+
+Certificate # SVR-02429
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Shared patio or balcony
+Shared backyard – Fully fenced
+Show all 41 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 133 reviews.
+4.95
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+57
+Location
+104
+Hospitality
+49
+Cleanliness
+39
+Parks
+3
+Bathroom
+17
+Comfort
+27
+Parking
+19
+Sleep quality
+15
+Nearby
+24
+Paul
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Beautiful home on absolutely beautiful street. 
+Place was lovely and just as described.  
+In unit Laundry was a nice addition.
+Show more
+Burkhard
+12 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We spent a wonderful 4 days at the Chippewa Suite. Sandra was extremely helpful, as we arrived  day early. The suite is first class in terms of cleanness, comfort, size, provides everything you need and is beautifully furnished . It is uniquely located in the most beautiful area in Savannah, everything in walking distance. Highly recommended!
+Show more
+Hector
+Lakeland, Georgia
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Wonderful place to stay !!
+Ellie
+Terre Haute, Indiana
+Rating, 2 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+It's fine. Just not the level we expected at the price for this location. Little things that could easily be fixed: really cheap toilet paper, no plug ins near the bed for phone chargers, mattress was terrible, bedroom TV barely usable. Water pressure wasn't too bad as others indicated IMO. Nothing terrible, but not great either...the list of instructions was a bit much. The owners were kind and easy to communicate with, but felt like I had chores to do when checking out. Fine if there's no other option.
+Show more
+Jonathan
+Asheville, North Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Our three night stay at Sandra’s place was incredible.  Absolute best neighborhood ever. There is so much to see and do there that you never have to leave it. Sandra was very professional and friendly. We will definitely be returning to Savannah. One of the best cities that I have ever visited. Highly recommend Sandra as a host for anyone planning a visit.
+Show more
+Rhonda
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+The Airbnb was in a perfect location, clean, and had plenty of Southern charm. Sandra was easy to work with and quick to respond. We would stay here again.
+Show all 133 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Forsyth Park
+Park
+Savannah Bike Tours
+Sports shop
+Mrs. Wilkes Dining Room
+American restaurant
+Old Town Trolley Tours of Savannah
+Tour agency
+The Olde Pink House
+Restaurant
+Fiddler's Crab House & Oyster Bar
+Seafood restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Historic Savannah
+Show more
+Meet your host
+Sandra
+Host
+1,194 reviews
+1194
+Reviews
+4.89 out of 5 average rating
+4.89
+Rating
+7 years of hosting
+7
+Years hosting
+A happy transplant to Savannah! I enjoy traveling myself, so it is so exciting to be able to experience the rich history of this impressive city and to help others learn about it! What better place to be a host than in the “Host City of the South.” Send a message or book if you want a gorgeous rental in the Historic Downtown District!
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

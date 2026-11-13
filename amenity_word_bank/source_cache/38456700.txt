@@ -1,0 +1,484 @@
+URL: https://www.airbnb.com/rooms/38456700
+Title: Luxe Liberty St Townhome near Crawford Square
+Latitude: 32.0729
+Longitude: -81.0876
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah Ashley And Mike
+Host ID: 293157033
+Host profile ID: 1469516719685874679
+Host URL: https://www.airbnb.com/users/profile/1469516719685874679
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+This brand new townhouse will take your breath away as soon as you step inside.  It is over 1700 square feet, tastefully decorated with an eye for design, and fully equipped with modern amenities and appliances. Perfect for a family getaway, a girls weekend, a gathering with friends, or even a business destination! The house is located on beautiful Liberty St in the Landmark Historic District of Savannah.
+
+SVR 02098
+
+The space
+This lovely townhouse features an open concept living room and kitchen, with dining space for six.  Upstairs, two master bedrooms await with spa-like en-suite, private baths. And in the living room, that just isn't any sleeper sofa...our couch pulls out into a KING sized, super luxe, amazingly comfortable bed...perfect for an extra couple! The entire two-story main house is all yours. 
+
+Do you have a larger party or need a bit more space? Don't worry! Check out our profile by clicking on our photo (or the links below) to see the additional garden level unit and the detached carriage house unit behind out home...we would love to host you and your large group! Any questions? Just shoot us a message and we would be happy to assist!
+
+Guest access
+The entire main house of the townhome is yours!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage: walk-in closet, closet, wardrobe, and dresser
+Entertainment
+HDTV with standard cable
+Books and reading material
+Family
+Pack ’n play/Travel crib - available upon request
+Board games
+Heating and cooling
+Central air conditioning
+Indoor fireplace: gas
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+Ring doorbell camera on front door
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 428 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Gas stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Recycling
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Luxe Liberty St Townhome near Crawford Square
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+420 reviews
+420
+Reviews
+Hosted by Sarah Ashley And Mike
+Superhost · 7 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Troup Square is steps away, with Lafayette Square and the Cathedral about a 5-min walk
+Airy townhouse with gas fireplace
+Over 1,700 sq ft with high ceilings, a gas fireplace, and an open living and kitchen layout
+Spotless, stylish, and comfortable
+Guests highlight how clean and beautifully decorated the space is, with comfortable beds throughout
+This brand new townhouse will take your breath away as soon as you step inside.  It is over 1700 square feet, tastefully decorated with an eye for design, and fully equipped with modern amenities and appliances. Perfect for a family getaway, a girls weekend, a gathering with friends, or even a business destination! The house is located on beautiful Liberty St in the Landmark Historic District of Savannah.
+
+SVR 02098
+
+The space
+This lovely townhouse features an open concept living room and kitchen, with dining space for six.  Upstairs, two master bedrooms await with spa-like en-suite, private baths. And in the living room, that just isn't any sleeper sofa...our couch pulls out into a KING sized, super luxe, amazingly comfortable bed...perfect for an extra couple! The entire two-story main house is all yours. 
+
+Do you have a larger party or need a bit more space? Don't worry! Check out our profile by clicking on our photo (or the links below) to see the additional garden level unit and the detached carriage house unit behind out home...we would love to host you and your large group! Any questions? Just shoot us a message and we would be happy to assist!
+
+Guest access
+The entire main house of the townhome is yours!
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Fast wifi – 428 Mbps
+Dedicated workspace
+Free street parking
+HDTV with standard cable
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Patio or balcony
+Exterior security cameras on property
+Show all 55 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 420 reviews.
+4.98
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 99% of reviews
+5
+4 stars, 1% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+153
+Location
+261
+Cleanliness
+151
+Comfort
+104
+Parking
+44
+Decor
+90
+Family
+46
+Sleep quality
+53
+Kitchen
+47
+Hospitality
+155
+Beth
+Point Pleasant, New Jersey
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We had a great stay here. It was so nicely decorated and comfortable. Very quiet and clean. Easy parking and walking everywhere!
+Jennie
+New York, New York
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+One of the BEST Airbnbs we have stayed in! Everything felt clean, new, and thoughtfully put together. Little details like having toiletries available, a dehumidifier, and well-organized utensils and appliances made the space feel especially welcoming. Every time we came back after being out, it truly felt like we were coming home. The location is also excellent. We had a wonderful stay and would definitely recommend staying here!
+Show more
+Janet
+Marietta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Absolutely a five-star stay! The home was beautifully decorated, immaculate, and thoughtfully stocked with everything we needed, including coffee and great amenities. 
+It was comfortable, welcoming, and just as lovely as pictured. 
+One small note for guests with mobility concerns: taking out the trash requires walking around through the alley, which may be a little challenging for some. 
+Otherwise, a wonderful stay and I would definitely recommend!
+Show more
+Shauntae
+Charleston, South Carolina
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+I’m not easily impressed as I work in property management and notice everything, but this house was beautiful! The biggest thing that stood out to me was that they didn’t expect us to complete a long list before we left. We cleaned, loaded the washer machine and dishwasher anyway, but it was optional. They had a bottle wine and a folder waiting for us with helpful information. They even had a cute little guest book and a basket of blankets for family movie night which we enjoyed. The kitchen was everything we needed and the outside area was nice too. We had an issue regarding an amenity and they quickly took care of it for us. The only issue (which they have no control over) is parking. There wasn’t always parking available out front so we had to walk up the block a few times. Overall, the house was beautiful and the hosts were very responsive and accommodating. I would 100% rent this place again.
+Show more
+April
+New Port Richey, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Wonderful place to stay, felt right at home. Clean and comfortable. Definitely would stay again.
+Christina
+Stuart, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We absolutely loved our stay! The location was perfect. We were able to walk to so many amazing restaurants, shops, and all of the historic sites Savannah has to offer. The house was spotless, well maintained, and had everything we needed for a comfortable stay. The amenities were great, and it truly felt like a home away from home. We would definitely stay here again and highly recommend it to anyone visiting Savannah!
+Show more
+Show all 420 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+The BEST part of our home? The location! We are in the heart of the Downtown Historic District, making the best places to dine, drink, and explore super accessible! We are with a 15 minute walk from the Savannah Riverfront, City Market, The Olde Pink House, Clary's, The Fountain at Forsyth Park, Mrs. Wilkes, and the Colonial Park Cemetery! Better yet, all of Savannah's beautiful squares are right outside of your door...perfect for exploring both the beautiful live oaks with their hanging moss as well as the historic architecture that frames each one! Want to check out SCAD? We are within walking distance to almost all of their downtown campus buildings!
+
+If you choose to stay with us and need lots of recommendations...don't worry! We are happy to provide personalized recommendations based on your interests and preferences...just ask us! We are passionate about our little Southern city and are happy to provide lots of awesome spots to check out! We also provide our guests a full welcome packet, full of our personal favorites, from quiet local spots to must-sees attractions! And we live right around the corner, so we are ALWAYS here if you need us!
+Show more
+Meet your host
+Sarah Ashley And Mike
+Superhost
+1,449 reviews
+1449
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+7 years of hosting
+7
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental on Liberty St in the Historic Downtown District!
+Sarah Ashley And Mike is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

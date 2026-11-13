@@ -1,0 +1,639 @@
+URL: https://www.airbnb.com/rooms/1412401787083367408
+Title: Heated Pool Access | 5*Clean | Flex Cancelation
+Latitude: 32.06511
+Longitude: -81.09625
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+We're one of the leading savannah vacation rental companies offers Parlor on Park, one of the most gorgeous traditional southern homes as a vacation rental option for visitors to this the oldest city in the state.
+
+The space
+Savannah Georgia is like the soft morning breeze, gently caressing your cheek as you drink that hot cup of morning coffee. The Savannah GA historic district is so deeply southern that it leaves visitors enchanted. However, many visitors to this area feel that hotel accommodations just don't help capture the essence of the area; so instead they prefer one of the Savannah GA vacation rentals as these are usually traditional Savannah GA historic district homes. These Savannah GA vacation rentals offer beautiful accommodations that embrace you in soft comfort and luxury.
+
+
+
+That’s exactly what makes Parlor on Park one of our most prized Savannah GA vacation rentals. Park Place Manor offers deep southern comfort in a 2 bedroom, 2 bath with a richly traditional wrap around veranda, and best of all, it’s just a few blocks from the famous Savannah GA historic district.
+
+
+
+Parlor on Park is wonderfully located, just a few steps away from Forsyth Park, a gorgeous walking park with overflowing fountains, huge draping trees, and gorgeous marble and granite monuments. A house that is truly reminiscent of what the old South really was. This is one of the Forsyth Park homes where you can picture yourself as The Scarlett O’Hara or Rhett Butler in the movie “Gone with the Wind.” Certainly this is a rental property like none other. It is incomparable to that of other Savannah Vacation rental companies. This home is fully furnished and equipped in the traditional southern old-word style. It is our service, offered information and additional concierge services that make all of our Savannah GA vacation rentals extremely popular for visitors.
+
+
+
+It’s All About Location When Staying in Savannah
+
+
+
+The last thing you want when on vacation is to drive long distances, so you want to stay as close to the historic district or to Forsyth Park. So when it comes to Parlor on Park, you can’t go wrong. This home has a fabulous location, one your family and friends are sure to enjoy whether you’re visiting Savannah for pleasure or business. This home is beautiful, but more importantly it’s within walking distance of the Savannah GA historic district, yet still off beat enough to allow you to enjoy the quiet neighborhood, the greenery of the park and beautiful breezy evenings out on the veranda. Walk out your door and you can stroll through the cozy, romantic tree lined streets of Savannah.
+
+
+
+But that’s not all that’s close by – just walk a few more blocks and you’ll come to the renowned Savannah GA, historic district where you have an extremely varied choice of restaurants, shops, and cafés as well as more than a few night venues. Stop in at one of the local outdoor cafes or head over to Leoci’s for lunch; you'll love the outdoor veranda and Italian Fare. You'll also want to try the Mansion on Forsyth for dinner. This is actually an old Georgia mansion turned into an elegant southern restaurant.
+
+
+
+In the morning stroll over to one of the local outdoor coffee shops for a steaming cup of brew. And if you feel like trying your hand at a gorgeous meal from the fully-equipped kitchen, the organic food market is just outside your door.
+
+
+
+Parlor on Park Interiors
+
+
+
+This is a two bedroom, two full bath gorgeous Forsyth park vacation rental. Upon arrival you’ll notice the traditional southern style architecture with a beautiful walk around veranda; the perfect place to sit in rocking chairs, drink some southern style tea and have a nice chat. Walk in the front door and admire the open living space, deep cushiony leather arm chairs and sofa; wonderful for taking naps or spending time together. This offers the perfect cozy environment for romance, reading a book or simply having a bit of quiet time. But if entertainment is the name of the game, then you’ll love the living room’s large screen flat TV.
+
+
+
+Of course, even while on vacation, you probably can’t simply disconnect from everything, that’s why this is one of the few savannah vacation rental companies that ensures that every home rental option has cable TV and Wi-Fi connections.
+
+Guest access
+# Bedrooms : 2
+
+# Full Baths: 2
+
+# Half Baths: 0
+
+Location: Savannah Georgia
+
+Size: 1,300 square feet
+
+Other Amenities: This Home has Wireless Internet
+
+Sleeps in Beds: 4
+
+Sleeps Total: 4
+
+Total Beds: 2
+
+# Queen Beds: 2
+
+Aerobed
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Occupancy
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+​​​​
+
+​​​​​​​SVR-02245
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Parking and facilities
+Free parking on premises
+Free street parking
+Pool
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Washer
+Washer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Heated Pool Access | 5*Clean | Flex Cancelation
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Rated 4.67 out of 5 stars.
+4.67
+·
+9 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Forsyth East, on the park's doorstep
+Steps from Forsyth Park, with the Victorian Historic District about a 5-min walk away
+Historic home with wraparound porch
+A 1,300 sq ft home with a wraparound veranda and traditional southern architecture
+Charming with repeat guests
+Guests describe the home as charming and comfortable, with several planning return visits
+We're one of the leading savannah vacation rental companies offers Parlor on Park, one of the most gorgeous traditional southern homes as a vacation rental option for visitors to this the oldest city in the state.
+
+The space
+Savannah Georgia is like the soft morning breeze, gently caressing your cheek as you drink that hot cup of morning coffee. The Savannah GA historic district is so deeply southern that it leaves visitors enchanted. However, many visitors to this area feel that hotel accommodations just don't help capture the essence of the area; so instead they prefer one of the Savannah GA vacation rentals as these are usually traditional Savannah GA historic district homes. These Savannah GA vacation rentals offer beautiful accommodations that embrace you in soft comfort and luxury.
+
+
+
+That’s exactly what makes Parlor on Park one of our most prized Savannah GA vacation rentals. Park Place Manor offers deep southern comfort in a 2 bedroom, 2 bath with a richly traditional wrap around veranda, and best of all, it’s just a few blocks from the famous Savannah GA historic district.
+
+
+
+Parlor on Park is wonderfully located, just a few steps away from Forsyth Park, a gorgeous walking park with overflowing fountains, huge draping trees, and gorgeous marble and granite monuments. A house that is truly reminiscent of what the old South really was. This is one of the Forsyth Park homes where you can picture yourself as The Scarlett O’Hara or Rhett Butler in the movie “Gone with the Wind.” Certainly this is a rental property like none other. It is incomparable to that of other Savannah Vacation rental companies. This home is fully furnished and equipped in the traditional southern old-word style. It is our service, offered information and additional concierge services that make all of our Savannah GA vacation rentals extremely popular for visitors.
+
+
+
+It’s All About Location When Staying in Savannah
+
+
+
+The last thing you want when on vacation is to drive long distances, so you want to stay as close to the historic district or to Forsyth Park. So when it comes to Parlor on Park, you can’t go wrong. This home has a fabulous location, one your family and friends are sure to enjoy whether you’re visiting Savannah for pleasure or business. This home is beautiful, but more importantly it’s within walking distance of the Savannah GA historic district, yet still off beat enough to allow you to enjoy the quiet neighborhood, the greenery of the park and beautiful breezy evenings out on the veranda. Walk out your door and you can stroll through the cozy, romantic tree lined streets of Savannah.
+
+
+
+But that’s not all that’s close by – just walk a few more blocks and you’ll come to the renowned Savannah GA, historic district where you have an extremely varied choice of restaurants, shops, and cafés as well as more than a few night venues. Stop in at one of the local outdoor cafes or head over to Leoci’s for lunch; you'll love the outdoor veranda and Italian Fare. You'll also want to try the Mansion on Forsyth for dinner. This is actually an old Georgia mansion turned into an elegant southern restaurant.
+
+
+
+In the morning stroll over to one of the local outdoor coffee shops for a steaming cup of brew. And if you feel like trying your hand at a gorgeous meal from the fully-equipped kitchen, the organic food market is just outside your door.
+
+
+
+Parlor on Park Interiors
+
+
+
+This is a two bedroom, two full bath gorgeous Forsyth park vacation rental. Upon arrival you’ll notice the traditional southern style architecture with a beautiful walk around veranda; the perfect place to sit in rocking chairs, drink some southern style tea and have a nice chat. Walk in the front door and admire the open living space, deep cushiony leather arm chairs and sofa; wonderful for taking naps or spending time together. This offers the perfect cozy environment for romance, reading a book or simply having a bit of quiet time. But if entertainment is the name of the game, then you’ll love the living room’s large screen flat TV.
+
+
+
+Of course, even while on vacation, you probably can’t simply disconnect from everything, that’s why this is one of the few savannah vacation rental companies that ensures that every home rental option has cable TV and Wi-Fi connections.
+
+Guest access
+# Bedrooms : 2
+
+# Full Baths: 2
+
+# Half Baths: 0
+
+Location: Savannah Georgia
+
+Size: 1,300 square feet
+
+Other Amenities: This Home has Wireless Internet
+
+Sleeps in Beds: 4
+
+Sleeps Total: 4
+
+Total Beds: 2
+
+# Queen Beds: 2
+
+Aerobed
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Occupancy
+
+City of Savannah Code of Ordinances, Division II, Part 8, Chapter 3 (Zoning), Article 8.0, Section 8.4.37(b) – Short-Term Vacation Rental Use Standards: Occupants shall not exceed four adults for dwelling units with no more than two bedrooms. For dwelling units with three or more bedrooms, the number shall not exceed two adults per bedroom. 
+
+​​​​
+
+​​​​​​​SVR-02245
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV with standard cable
+Air conditioning
+Patio or balcony
+Backyard
+Hair dryer
+Show all 49 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.67 out of 5 stars from 9 reviews
+4.67 · 9 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 78% of reviews
+5
+4 stars, 11% of reviews
+4
+3 stars, 11% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Parks
+2
+Location
+5
+Parking
+3
+Comfort
+4
+Walkability
+2
+Access
+2
+Hospitality
+3
+Nearby
+2
+Kitchen
+2
+Condition
+2
+Taylor
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We loved this place very cute, comfortable and spacious. We enjoyed sitting on the porches. The beds were comfortable well stocked kitchen. We did get cited $50 for being parked on the street during street sweeping. We were warned to be aware of this, but forgot to check the street signs and unfortunately sweeping happened the second day we were there. The host was very responsive and helpful. We were impressed with all the instructional videos. Beautiful neighborhood we could walk half a block to a nice coffee shop and cute market store. Also Forsyth park is beautiful. Overall, very happy with my stay.
+Show more
+Shonna
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Great location, right near Forsyth Park. Will definitely stay here again.
+Kevin
+Elizabeth, Colorado
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Everything was great.
+Sandy
+Madison, Wisconsin
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+Enjoyed our stay.  Have your flashlight ready when getting into the second door at night.  Loved the fact that we could choose to walk to restaurants and parks or take the free trolley with a stop close to the house.  The house is old but very well maintained.
+Show more
+Emilia
+Knoxville, Tennessee
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+We absolutely loved our stay at this Airbnb in Savannah. The house was incredibly charming and had so much character, which made the whole experience feel extra special. Even though the Airbnb didn’t have designated parking, the street parking was very accessible and easy to manage, which was a huge plus. The home itself was lovely, comfortable, and such a great place to stay. We would happily stay here again.
+Show more
+Kristine
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Stayed a few nights
+Very comfortable place and great location!  Quiet, yet not too far away.  We had a great stay.
+Show all 9 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Forsyth East
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,181 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Apartment vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

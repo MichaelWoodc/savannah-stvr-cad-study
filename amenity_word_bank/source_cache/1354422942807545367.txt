@@ -1,0 +1,635 @@
+URL: https://www.airbnb.com/rooms/1354422942807545367
+Title: Savannah Getaway @ The Lemondrop - Group Friendly!
+Latitude: 32.063979140375096
+Longitude: -81.09167590253796
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Megan
+Host ID: 342904444
+Host profile ID: 1469675143338665045
+Host URL: https://www.airbnb.com/users/profile/1469675143338665045
+Bedrooms: 6
+Occupancy (maximum guests): 14
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 10
+
+Beds enumerated in room tiles: 10
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed, 2 single beds
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed
+
+Bedroom 5
+1 king bed, 1 single bed
+
+Bedroom 6
+1 queen bed
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Bring the whole crew to The Lemon Drop! 🍋 This listing includes THREE private 2BR/1BA condos in the same bright & cheerful Savannah home—perfect for families and friend groups who want to stay together while still having their own space! Each condo has a full kitchen, living + dining area, and one features a fabulous outdoor patio. Enjoy 1 private parking space + a fantastic location just a few blocks from Forsyth Park! 🌳💛
+
+SVR-02490, 02491, 02492
+
+The space
+Welcome to The Lemon Drop! 🍋💛 This listing gives your group THREE completely private 2-bedroom, 1-bathroom condos in the same colorful Savannah home—perfect for large families, groups of friends, wedding weekends, girls' trips, or anyone who wants to stay together while still having plenty of room to spread out!
+
+Each condo has its own private entrance with no shared indoor spaces, plus its own full kitchen, living room, dining area, washer + dryer, and all the comforts of home. Your group can gather together when you want and retreat to your own space when you don't!
+
+And when it's time to wind down, there's no fighting over the TV—every bedroom has its own Smart TV! 📺 Each condo also has a Keurig, and we'll have a few K-Cups waiting to help get your first Savannah mornings started. ☕️
+
+Here's what you'll have:
+
+🍋 LEMON TWIST – Upstairs Front | 2BR/1BA
+
+Bright, spacious, and full of personality, Lemon Twist is our second-floor, street-facing condo.
+
+Bedroom 1: King bed + twin daybed
+Bedroom 2: Queen bed
+
+The modern bathroom features a walk-in shower. You'll also have a spacious living room, dining area, full kitchen, washer + dryer, Keurig, and private entrance. The refrigerator does not have an ice maker.
+
+💛 MAIN SQUEEZE – Downstairs Front | 2BR/1BA
+
+Main Squeeze might just have the coolest history of the bunch! This first-floor, street-facing condo originally served as a storefront around 1910. Today, the space is bright and welcoming with tons of natural light, while still retaining the historic character that makes Savannah homes so special. ✨
+
+Bedroom 1: King bed + twin trundle with two twin beds
+Bedroom 2: King bed
+
+The bathroom features a shower, and the full kitchen includes a refrigerator. You'll also have your own spacious living room, dining area, washer + dryer, Keurig, and private entrance.
+
+🌿 LEMON LANE – Lane-Facing | 2BR/1BA
+
+Tucked toward the back of the property, Lemon Lane offers a little extra privacy and its own fantastic outdoor space.
+
+Bedroom 1: King bed
+Bedroom 2: Queen bed
+Living Room: Queen pull-out sofa
+
+The bathroom features a walk-in shower with a sliding glass door, and the full kitchen includes a refrigerator with an ice maker. Lemon Lane also has its own living room, dining area, washer + dryer, Keurig, and private entrance.
+
+But the real bonus at Lemon Lane is the private fenced courtyard! 🌿✨ Enjoy outdoor seating, a BBQ grill, and plenty of ambiance for hanging out together after a day exploring Savannah.
+
+🏡 THREE CONDOS. ONE GREAT GROUP TRIP.
+
+One of the best things about this setup is the flexibility! You're not squeezing everyone into one giant house. Instead, you'll have three separate, fully equipped 2BR/1BA condos under one roof.
+
+Make breakfast in your own kitchen, put the kids to bed in one unit while the adults hang out in another, or give different families and couples their own space while keeping the whole group just steps away.
+
+With six bedrooms, three bathrooms, three kitchens, three living spaces, three dining areas, three washers + dryers, and three private entrances, there's plenty of room for everyone to settle in comfortably. 🍋
+
+🚗 PARKING
+
+Your reservation includes one private off-street parking space behind the building. There is also plenty of free street parking around the property for additional vehicles.
+
+🌳 A QUIET SPOT CLOSE TO THE FUN
+
+The Lemon Drop is located in Savannah's beautiful Victorian District, just a few blocks from iconic Forsyth Park. It's one of our favorite parts of Savannah because you get the best of both worlds—a quieter, residential neighborhood to come home to while still being close to everything that makes Savannah such a fun place to visit.
+
+Take a morning stroll beneath the live oaks, walk over to Forsyth Park, or grab something to eat at nearby neighborhood favorites like Pizza Party and Tacos + Tequila. 🍕🌮🍹 From here, you can continue exploring Savannah's historic squares, restaurants, bars, shopping, and sightseeing.
+
+💛 HOSTED BY LOCALS
+
+We're Megan & Justin, Savannah locals who love this city and love sharing it with our guests! We're always happy to recommend our favorite restaurants, bars, coffee shops, sightseeing spots, hidden gems, and things to do.
+
+Looking for the perfect brunch? A great cocktail? Somewhere the locals actually go? Just ask! We love helping our guests experience Savannah beyond the usual tourist stops.
+
+🍋 NEED EVEN MORE SPACE?
+
+Believe it or not, there's one more Lemon Drop! If your group needs additional accommodations, consider also booking Lemon Loft, our fourth private condo in the building.
+
+Book all four and you've got your own little Lemon Drop compound in Savannah! 🍋💛
+
+Whether you're planning a family getaway, reunion, wedding weekend, girls' trip, or vacation with a big group of friends, The Lemon Drop makes it easy to stay together—with enough space to actually enjoy it!
+
+Guest access
+Guests have full access to all three condos!  One parking space in lane.
+
+Other things to note
+If you need a little more space - consider also booking our Lemon Loft (2BR/1BA).
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+Outdoor exterior cameras are located at the entry of each condo.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free driveway parking on premises – 1 space
+Free street parking
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Savannah Getaway @ The Lemondrop - Group Friendly!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+14 guests · 6 bedrooms · 10 beds · 3 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.9 out of 5 stars.
+4.9
+21 reviews
+21
+Reviews
+Hosted by Megan
+Superhost · 6 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with Savannah's historic squares and restaurants beyond
+Three private condos in one home
+Three separate condos under one roof, each with its own kitchen, living area, and private entrance
+Megan is a standout host
+Guests highlight Megan's responsiveness, local tips, and flexibility with larger groups
+Bring the whole crew to The Lemon Drop! 🍋 This listing includes THREE private 2BR/1BA condos in the same bright & cheerful Savannah home—perfect for families and friend groups who want to stay together while still having their own space! Each condo has a full kitchen, living + dining area, and one features a fabulous outdoor patio. Enjoy 1 private parking space + a fantastic location just a few blocks from Forsyth Park! 🌳💛
+
+SVR-02490, 02491, 02492
+
+The space
+Welcome to The Lemon Drop! 🍋💛 This listing gives your group THREE completely private 2-bedroom, 1-bathroom condos in the same colorful Savannah home—perfect for large families, groups of friends, wedding weekends, girls' trips, or anyone who wants to stay together while still having plenty of room to spread out!
+
+Each condo has its own private entrance with no shared indoor spaces, plus its own full kitchen, living room, dining area, washer + dryer, and all the comforts of home. Your group can gather together when you want and retreat to your own space when you don't!
+
+And when it's time to wind down, there's no fighting over the TV—every bedroom has its own Smart TV! 📺 Each condo also has a Keurig, and we'll have a few K-Cups waiting to help get your first Savannah mornings started. ☕️
+
+Here's what you'll have:
+
+🍋 LEMON TWIST – Upstairs Front | 2BR/1BA
+
+Bright, spacious, and full of personality, Lemon Twist is our second-floor, street-facing condo.
+
+Bedroom 1: King bed + twin daybed
+Bedroom 2: Queen bed
+
+The modern bathroom features a walk-in shower. You'll also have a spacious living room, dining area, full kitchen, washer + dryer, Keurig, and private entrance. The refrigerator does not have an ice maker.
+
+💛 MAIN SQUEEZE – Downstairs Front | 2BR/1BA
+
+Main Squeeze might just have the coolest history of the bunch! This first-floor, street-facing condo originally served as a storefront around 1910. Today, the space is bright and welcoming with tons of natural light, while still retaining the historic character that makes Savannah homes so special. ✨
+
+Bedroom 1: King bed + twin trundle with two twin beds
+Bedroom 2: King bed
+
+The bathroom features a shower, and the full kitchen includes a refrigerator. You'll also have your own spacious living room, dining area, washer + dryer, Keurig, and private entrance.
+
+🌿 LEMON LANE – Lane-Facing | 2BR/1BA
+
+Tucked toward the back of the property, Lemon Lane offers a little extra privacy and its own fantastic outdoor space.
+
+Bedroom 1: King bed
+Bedroom 2: Queen bed
+Living Room: Queen pull-out sofa
+
+The bathroom features a walk-in shower with a sliding glass door, and the full kitchen includes a refrigerator with an ice maker. Lemon Lane also has its own living room, dining area, washer + dryer, Keurig, and private entrance.
+
+But the real bonus at Lemon Lane is the private fenced courtyard! 🌿✨ Enjoy outdoor seating, a BBQ grill, and plenty of ambiance for hanging out together after a day exploring Savannah.
+
+🏡 THREE CONDOS. ONE GREAT GROUP TRIP.
+
+One of the best things about this setup is the flexibility! You're not squeezing everyone into one giant house. Instead, you'll have three separate, fully equipped 2BR/1BA condos under one roof.
+
+Make breakfast in your own kitchen, put the kids to bed in one unit while the adults hang out in another, or give different families and couples their own space while keeping the whole group just steps away.
+
+With six bedrooms, three bathrooms, three kitchens, three living spaces, three dining areas, three washers + dryers, and three private entrances, there's plenty of room for everyone to settle in comfortably. 🍋
+
+🚗 PARKING
+
+Your reservation includes one private off-street parking space behind the building. There is also plenty of free street parking around the property for additional vehicles.
+
+🌳 A QUIET SPOT CLOSE TO THE FUN
+
+The Lemon Drop is located in Savannah's beautiful Victorian District, just a few blocks from iconic Forsyth Park. It's one of our favorite parts of Savannah because you get the best of both worlds—a quieter, residential neighborhood to come home to while still being close to everything that makes Savannah such a fun place to visit.
+
+Take a morning stroll beneath the live oaks, walk over to Forsyth Park, or grab something to eat at nearby neighborhood favorites like Pizza Party and Tacos + Tequila. 🍕🌮🍹 From here, you can continue exploring Savannah's historic squares, restaurants, bars, shopping, and sightseeing.
+
+💛 HOSTED BY LOCALS
+
+We're Megan & Justin, Savannah locals who love this city and love sharing it with our guests! We're always happy to recommend our favorite restaurants, bars, coffee shops, sightseeing spots, hidden gems, and things to do.
+
+Looking for the perfect brunch? A great cocktail? Somewhere the locals actually go? Just ask! We love helping our guests experience Savannah beyond the usual tourist stops.
+
+🍋 NEED EVEN MORE SPACE?
+
+Believe it or not, there's one more Lemon Drop! If your group needs additional accommodations, consider also booking Lemon Loft, our fourth private condo in the building.
+
+Book all four and you've got your own little Lemon Drop compound in Savannah! 🍋💛
+
+Whether you're planning a family getaway, reunion, wedding weekend, girls' trip, or vacation with a big group of friends, The Lemon Drop makes it easy to stay together—with enough space to actually enjoy it!
+
+Guest access
+Guests have full access to all three condos!  One parking space in lane.
+
+Other things to note
+If you need a little more space - consider also booking our Lemon Loft (2BR/1BA).
+Show more
+All sleeping arrangements
+
+Advertised beds: 10 | Enumerated: 10 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed, 2 single beds
+
+Bedroom 3
+1 king bed
+
+Bedroom 4
+1 queen bed
+
+Bedroom 5
+1 king bed, 1 single bed
+
+Bedroom 6
+1 queen bed
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free driveway parking on premises – 1 space
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Private patio or balcony
+Exterior security cameras on property
+Show all 53 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.9 out of 5 from 21 reviews.
+4.9
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 10% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+8
+Hospitality
+13
+Getting around
+7
+Decor
+6
+Location
+5
+Parking
+2
+Indoor spaces
+4
+Comfort
+3
+Nearby
+2
+Check-in
+2
+Abby
+Munford, Tennessee
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Megan was great! Extremely responsive and even was quick to a respond to an AC issue. The space was so cute and perfect for our girls trip!
+Lavendar
+Oakton, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Megan was probably one of the best hosts I’ve ever booked through Airbnb! Not only was she incredibly responsive but she was so accommodating to our group of women celebrating a birthday. The three condos are incredibly charming, thoughtfully decorated, and in a good location. We enjoyed walking to coffee shops, restaurants, and Forsyth park. And for everything else in the north end, it was a quick ride share. I am looking forward to returning to Savannah and coming back to this property!
+Show more
+Kayleigh
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Group trip
+I loved our stay here! Megan was understanding, responsive, and incredibly nice. We would absolutely recommend staying here and already want to come back!
+Heather
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Nice stay! We enjoyed ourselves. Perfect place for a Bach trip, plenty of street parking
+Caroline
+Silver Spring, Maryland
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Megan was a wonderful host and so communicative! The condos were absolutely perfect for our party and we had an amazing time. Thank you!
+Steffanie
+Norwood, Massachusetts
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Just to note if booking all 3 units, there isn’t a connection point other than walking outside. Hard to tell from the pictures. 
+Easy uber to river street if not wanting to walk. Great for large groups. Thanks for a great stay!
+Show more
+Show all 21 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Starland Yard
+Food court
+Noble Jones Tours - Historic Walking Tours of Savannah
+Point of interest
+Tacos+Tequila by Tequila's Town
+Taco restaurant
+The Black Rabbit
+Bar
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Show more
+Meet your host
+Megan
+Superhost
+1,381 reviews
+1381
+Reviews
+4.93 out of 5 average rating
+4.93
+Rating
+6 years of hosting
+6
+Years hosting
+Where I went to school: Georgia Tech
+My work: Engineer
+Hey y'all! We're Megan & Justin. We met and fell in love right here in Savannah, and we're lucky to call this beautiful city home. We love strolling beneath the live oaks, exploring historic squares, finding great local food & drinks, and spending sunny afternoons in Forsyth Park. As local hosts, we're always happy to share our favorite restaurants, hidden gems & things to do. We hope you feel right at home and leave loving Savannah as much as we do!
+Megan is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+14 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Mansion vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

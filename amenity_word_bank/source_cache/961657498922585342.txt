@@ -1,0 +1,468 @@
+URL: https://www.airbnb.com/rooms/961657498922585342
+Title: The Broughton Street Loft
+Latitude: 32.0795
+Longitude: -81.0932
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Kimberly
+Host ID: 526319903
+Host profile ID: 1470366993478452092
+Host URL: https://www.airbnb.com/users/profile/1470366993478452092
+Bedrooms: 2
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 4
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed, 1 crib
+
+Bedroom 2
+1 queen bed, 2 single beds
+
+Living room
+1 couch
+
+=== FULL DESCRIPTION ===
+This third-floor historic 1860s loft is perfectly located. Steps from the city's most popular attractions including River Street, City Market, Forsyth Park, St. John the Baptist, SCAD, and incredible restaurants and cafés. Arrive stress-free with one parking garage pass and keyless entry. The loft comfortably sleeps 6 guests with 2 queen beds and 2 twin beds. Amenities: WiFi, washer/dryer, coffee station, detergent, quality linens, goose-down comforters, noise machines and blackout curtains.
+
+Other things to note
+There is no elevator in this building and the unit is located on the top floor of a three-story historic building. Please inquire for photos if needed.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib - always at the listing
+Children’s books and toys
+High chair
+Children’s dinnerware
+Board games
+Heating and cooling
+Central air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Double oven
+Coffee maker
+Wine glasses
+Baking sheet
+Blender
+Dining table
+Coffee
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Broughton Street Loft
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+6 guests · 2 bedrooms · 4 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.82 out of 5 stars.
+4.82
+100 reviews
+100
+Reviews
+Hosted by Kimberly
+Superhost · 3 years hosting
+Listing highlights
+In Savannah's Historic District
+Wright Square and Ellis Square are steps away, with City Market about a 5-min walk
+Historic loft with industrial charm
+An 1860s loft with soaring ceilings, exposed beams, skylights, and vintage brick walls
+Walkability guests love
+Guests consistently highlight the walkability and how easy it is to explore on foot
+This third-floor historic 1860s loft is perfectly located. Steps from the city's most popular attractions including River Street, City Market, Forsyth Park, St. John the Baptist, SCAD, and incredible restaurants and cafés. Arrive stress-free with one parking garage pass and keyless entry. The loft comfortably sleeps 6 guests with 2 queen beds and 2 twin beds. Amenities: WiFi, washer/dryer, coffee station, detergent, quality linens, goose-down comforters, noise machines and blackout curtains.
+
+Other things to note
+There is no elevator in this building and the unit is located on the top floor of a three-story historic building. Please inquire for photos if needed.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 4 | Count verified
+
+Bedroom 1
+1 queen bed, 1 crib
+
+Bedroom 2
+1 queen bed, 2 single beds
+
+Living room
+1 couch
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Washer
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Pack ’n play/Travel crib - always at the listing
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.82 out of 5 from 100 reviews.
+4.82
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 88% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 2% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.7 out of 5 stars for cleanliness
+Cleanliness
+4.7
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+41
+Location
+77
+Nearby
+25
+Parking
+13
+Noise
+24
+Hospitality
+33
+Cleanliness
+20
+Comfort
+16
+Parks
+4
+Sleep quality
+10
+DeDe
+Visalia, California
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Group trip
+Kinberly was a wonderful host to work with. She was quick with her response time and so easy to work with!
+Allison
+Cumming, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+We loved our stay at Kimberly’s place!  It’s is gorgeous, and we loved the decor.  Felt very glamorous and special, with speakeasy vibes.  Everything was awesome!  Great location in walking distance to everything.  Will come back!
+Show more
+Taison
+Dallas, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Overall, was an amazing location. The flat was welcoming, comfortable, and had everything you needed. The location was fantastic! Tons of shopping, dining, and sightseeing walkable. Check in and check out was flexible and easy in the host was extremely communicative and proactive and sharing tips and recommendations.
+Show more
+Andrew
+Nashville, Tennessee
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Group trip
+Great stay and a really cool spot, great location everything is walking distance.
+William
+Orange, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This place was beautiful and central to everything. Perfect location in the heart of a walkable city. Previous reviews were accurate and the pictures are accurate. Very clean and had what we needed for the little time we were actually inside.
+Show more
+Ojeba
+California, United States
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Wonderful stay in a fantastic location - walkable to restaurants, nightlife, parks, and the riverfront. The apartment was well stocked, with plenty of toys, books, and games for the kids, comfortable beds, and clean linens throughout. Directions were very clear and check-in was easy. Having a spot in the parking garage came in so handy.
+Show more
+Show all 100 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Welcome to The Broughton Street Loft! This historic 1860s loft is located on the top floor above the Savannah Bee Company on historic Broughton Street. Professionally cleaned and sanitized. The Broughton Street Loft is nestled in the center of four of Savannah’s famous squares (Ellis, Telfair, Johnson, and Wright) and puts you in the best possible spot to take advantage of downtown living in Savannah, Georgia. This fully renovated condo is as centrally located as you can get! (Walk Score 95, Bike Score 94) Steps from all of the city's most popular attractions including River Street, City Market, Forsyth Park, St. John the Baptist, the SCAD buildings, and several incredible restaurants and cafés.
+
+Arrive stress-free with keyless entry and self-check-in. The condo is a third-floor walkup, with the entrance door located between the Savannah Bee Company and The Coffee Fox and a straight staircase leading you up to the loft!
+
+The Broughton Street Loft comfortably sleeps 6 guests with 2 queen beds and 2 twin beds.
+
+Fall in love with the historic charm of this loft featuring a modern-industrial style with soaring ceilings and exposed beams in the open-concept living area and multiple skylights flooding in natural light. Vintage brick walls in the living and bedrooms and original hardwood floors give the condo its old-world charm, while the kitchen and bathrooms are appointed with modern amenities.
+
+The Master bedroom has a queen bed, a modern private bathroom with tile to the ceiling, a jetted shower panel, and a walk-in closet. The spacious guest room features a queen bed as well as a twin day bed with a trundle to accommodate 2 extra guests. See a lovely little view of downtown and the top of the bridge from the Juliette balcony.
+
+For your convenience, there is fast WiFi, a private full-size washer/dryer, and ample closet space. Our guests enjoy complimentary coffee, creamer and sugar, tea varieties, laundry, and dish detergent for the first 30 days of their stay. Also provided are quality bed linens, bath towels, and goose-down comforters. Maps, menus, and touring information are available in our Welcome Book. For your pleasure, enjoy the local books about the city and history of Savannah.
+
+Enjoy a comfortable night's sleep, and in the morning wake up to a cup of coffee from the Keurig in the kitchen or pop downstairs to The Coffee Fox and grab a quick pick-me-up espresso drink to give you the energy you need for a day on the town. If you're heading out to Tybee beach grab a striped towel and kids toys if you need them and enjoy the sun and the sand.
+
+The nickname “Hostess City” fits the bill. Savannah is a warm, friendly blend of funky, scenic, romantic, and artistic vibes. Go antique shopping or thrifting in the Starland District or grab a beer at one of the many microbreweries. Take a formal walking tour, ghost tour, historical tour, or food tour through the Historic Districts. Go for a romantic carriage ride along the cobblestone streets past the historic mansions.
+
+After a day of exploring, come back and relax on the comfortable leather sofa, stream your favorite shows and movies from Xfinity basic cable or your personal streaming services. Play a round or two of shuffleboard or have a darts competition, before heading back out to enjoy one of the top restaurants in the city a walk away or stay in and cook a nice meal in the full kitchen.
+
+Please note that this condo gives you great access to the heart of downtown. Because of its central location, there is city noise that will filter up from the street. Though this loft is tucked away off busy Broughton Street, we've provided a white noise machine and blackout curtains in both bedrooms to help drown out the city sounds if you're a light sleeper. If you think you might be bothered by this during your stay, the downtown area may not be the spot for you. However, if what you are looking for is an exciting place to hang your hat while you see and do all you can on your weekend away, this is a great home for you during your visit to Savannah.
+
+The Broughton Street Loft is a quick 20-minute drive or Uber from the airport. We offer complimentary use of our parking pass during your stay for one car at the Whitaker Street Parking Garage. For alternative parking options, there is on-street parking around the city and a City of Savannah Visitors Day Pass is available for purchase online for discounted meter rates. For a pass, go to the Visitors Information Center or the Parking Services office on Bryan or the 17Hundred90 Inn and Restaurant front desk at 302 E Presidents Street. We recommend you leave your car parked and enjoy the walking lifestyle that makes Savannah fabulous.
+
+We hope that you choose to stay here. We love Savannah, and we think that staying at The Broughton Street Loft will give you the perfect slice of life in this jewel of a town.
+
+SVR-02343
+Show more
+Meet your host
+Kimberly
+Superhost
+100 reviews
+100
+Reviews
+4.82 out of 5 average rating
+4.82
+Rating
+3 years of hosting
+3
+Years hosting
+Kimberly is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Matt
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

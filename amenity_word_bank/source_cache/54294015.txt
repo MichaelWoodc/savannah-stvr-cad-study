@@ -1,0 +1,644 @@
+URL: https://www.airbnb.com/rooms/54294015
+Title: Gorgeous Stay on Jones Street, Heated Pool Access
+Latitude: 32.07215
+Longitude: -81.0919
+Privacy radius (meters): 152
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+If one of your favorite parts of Savannah is the historic architecture, this is definitely the vacation home for you! Originally built in 1852, this beautiful townhome has been lovingly restored with modern conveniences. Despite having plenty of high-tech perks like keyless entry, full-home Wifi, and central HVAC, you can still see lovely historic touches like exposed brick walls, multiple fireplaces, and soaring ceilings.
+
+The space
+Enjoy a Stunningly Restored Historic Home
+
+Inside of our Savannah vacation homes, designer furnishings provide a lovely backdrop for your Savannah vacation. When you walk in, you'll immediately be greeted by a cheerful living room decorated in warm shades of cream, blue, and orange. The kitchen has stunning marble countertops with a mosaic backsplash, while the dry bar has a fun jungle print wallpaper. In the bathroom, vintage-style tile complements a full-size tub and shower. Meanwhile, the bedrooms pair crisp, white bedding with restful hues of aqua and navy.
+
+A Charming Spot for Mid-Sized Groups
+
+Serenity on Jones is one of our Savannah vacation homes that fits groups of four. This makes it ideal for small family getaways or trips with a couple of friends. Two people can sleep comfortably on the queen-size bed in the first bedroom which also contains a comfortable armchair for relaxing and a desk for getting a little work done. The second bedroom also has a queen-sized bed, and its spot towards the back of the house makes it a quiet location to sleep in.
+
+Our Savannah vacation rentals also contain plenty of space for the whole group to relax together. On the private patio, a table with four chairs is perfect for dining al fresco. The indoor dining table has an expandable leaf to seat four, while the living room contains spacious couches and plenty of other seating. There's even a dry bar to provide extra space for preparing drinks, appetizers, and other treats.
+
+Our Amenities Make It Easy to Relax
+
+We want our guests to feel completely carefree on their vacation, so we work hard to outfit our Savannah vacation rentals with a wide range of luxurious amenities. When you stay at Serenity on Jones, you get all the comforts of home. We provide everything you need to be comfortable.
+
+Our amenities include a home fully equipped with essential appliances. A washer and a dryer let you clean your clothes, so you don't have to pack quite as much. The kitchen has a full-size stove, oven, and refrigerator, so you can cook delicious meals with your loved ones. It also has plenty of standard cooking supplies including pots, pans, utensils, serveware, and drinkware. When you want to plan incredible dinner parties or just grab a quick snack at home, the kitchen is ready to use. There are even smaller appliances, including a microwave, coffee maker, and toaster, to make your cooking easier.
+
+The bedrooms and bathrooms are also filled with helpful amenities. We provide a hairdryer, ironing board, soap, shampoo, and hangers. Fresh linens and towels are provided, and we even have some extra pillows if desired. 
+
+Quickly Access All Savannah's Attractions from a Central Location
+
+Serenity on Jones has one of the most coveted addresses of Savannah. This quiet little street manages to be right next to some of the best sites of Savannah, yet it's still a peaceful and calm place to relax. From Serenity on Jones, you're just a short walk away from lovely Forsyth Square. This vacation home is also situated less than a mile away from attractions like the SCAD Museum of Art and the Massie Heritage Center. You can also easily hop onto Savannah's trolley system to explore attractions closer to the river or near the Victorian district.
+
+Savannah has plenty of fun attractions for those who enjoy history, art, and fine shopping. It's also one of the best towns to visit if you love good food. Serenity on Jones is right near a few local favorites like Clary's Cafe and Yaupon Teahouse. While in town, you might want to try some upscale options like Noble Fare, Husk Savannah, and The Olde Pink House. After enjoying a great dinner, explore Savannah's nightlife. The town has everything from dance clubs like Club 51 to elegant cocktail bars like Congress Street Up.
+
+When you want to enjoy the beautiful nature surrounding Savannah, consider a trip to nearby Tybee Island. This oceanside town is just a thirty-minute drive away from our Savannah vacation home. You can go on dolphin watching tours, kayak through stunning wetlands, or paddleboard in the ocean. All of our Savannah vacation home guests also have free access to our heated, resort-style swimming pool. 
+
+Occupancy: 4
+Fully renovated garden apartment on Jones Street feels like a brand new home! Gorgeous finishes and designer inspired furnishings create a beautifully serene setting for your Savannah vacation.
+Living room features comfy seating and large smart TV
+Streaming Only
+Full kitchen has cooking essentials
+Dry bar just off living room features barware and beverage cooler
+Dining table with seating for 4 tucked away in living room, perfect for a quick bite before exploring the town!
+Bedroom 1: Queen bed, windows facing Jones St, and vanity (also doubles as a great workspace)
+Bedroom 2: Queen bed, cozy and quiet room that is perfect for guests who like to sleep in
+Full bathroom accessed just off kitchen features a pedestal sink, tiled tub/shower, and storage for toiletries
+Full size washer/dryer in unit
+Private patio area accessed from kitchen features outdoor table and chairs
+Ground floor apartment with just a few steps down to entrance, all one level inside
+Private keyless entry on well-lit street
+Location: East Jones St, situated on a beautiful oak tree-lined street in the center of Savannah's downtown historic area. You will find great restaurants, shopping, museums, and more just outside your door!
+SVR-02498
+
+Guest access
+Occupancy: 4
+
+Fully renovated garden apartment on Jones Street feels like a brand new home! Gorgeous finishes and designer inspired furnishings create a beautifully serene setting for your Savannah vacation.
+
+Living room features comfy seating and large smart TV
+
+Full kitchen has cooking essentials
+
+Dry bar just off living room features barware and beverage cooler
+
+Dining table with seating for 4 tucked away in living room, perfect for a quick bite before exploring the town!
+
+Bedroom 1: Queen bed, windows facing Jones St, and vanity (also doubles as a great workspace)
+
+Bedroom 2: Queen bed, cozy and quiet room that is perfect for guests who like to sleep in
+
+Full bathroom accessed just off kitchen features a pedestal sink, tiled tub/shower, and storage for toiletries
+
+Full size washer/dryer in unit
+
+Private patio area accessed from kitchen features outdoor table and chairs
+
+Ground floor apartment with just a few steps down to entrance, all one level inside
+
+Private keyless entry on well-lit street
+
+Location: East Jones St, situated on a beautiful oak tree-lined street in the center of Savannah's downtown historic area. You will find great restaurants, shopping, museums, and more just outside your door!
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Pool
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Gorgeous Stay on Jones Street, Heated Pool Access
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.86 out of 5 stars.
+4.86
+29 reviews
+29
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's historic district
+Steps from Lafayette Square, with Forsyth Park about a 5-min walk away
+Restored townhome with historic detail
+An 1852 townhome with exposed brick, original fireplaces, and soaring ceilings
+Guests keep coming back
+Guests highlight the walkability, charm, and comfort, with several returning for repeat stays
+If one of your favorite parts of Savannah is the historic architecture, this is definitely the vacation home for you! Originally built in 1852, this beautiful townhome has been lovingly restored with modern conveniences. Despite having plenty of high-tech perks like keyless entry, full-home Wifi, and central HVAC, you can still see lovely historic touches like exposed brick walls, multiple fireplaces, and soaring ceilings.
+
+The space
+Enjoy a Stunningly Restored Historic Home
+
+Inside of our Savannah vacation homes, designer furnishings provide a lovely backdrop for your Savannah vacation. When you walk in, you'll immediately be greeted by a cheerful living room decorated in warm shades of cream, blue, and orange. The kitchen has stunning marble countertops with a mosaic backsplash, while the dry bar has a fun jungle print wallpaper. In the bathroom, vintage-style tile complements a full-size tub and shower. Meanwhile, the bedrooms pair crisp, white bedding with restful hues of aqua and navy.
+
+A Charming Spot for Mid-Sized Groups
+
+Serenity on Jones is one of our Savannah vacation homes that fits groups of four. This makes it ideal for small family getaways or trips with a couple of friends. Two people can sleep comfortably on the queen-size bed in the first bedroom which also contains a comfortable armchair for relaxing and a desk for getting a little work done. The second bedroom also has a queen-sized bed, and its spot towards the back of the house makes it a quiet location to sleep in.
+
+Our Savannah vacation rentals also contain plenty of space for the whole group to relax together. On the private patio, a table with four chairs is perfect for dining al fresco. The indoor dining table has an expandable leaf to seat four, while the living room contains spacious couches and plenty of other seating. There's even a dry bar to provide extra space for preparing drinks, appetizers, and other treats.
+
+Our Amenities Make It Easy to Relax
+
+We want our guests to feel completely carefree on their vacation, so we work hard to outfit our Savannah vacation rentals with a wide range of luxurious amenities. When you stay at Serenity on Jones, you get all the comforts of home. We provide everything you need to be comfortable.
+
+Our amenities include a home fully equipped with essential appliances. A washer and a dryer let you clean your clothes, so you don't have to pack quite as much. The kitchen has a full-size stove, oven, and refrigerator, so you can cook delicious meals with your loved ones. It also has plenty of standard cooking supplies including pots, pans, utensils, serveware, and drinkware. When you want to plan incredible dinner parties or just grab a quick snack at home, the kitchen is ready to use. There are even smaller appliances, including a microwave, coffee maker, and toaster, to make your cooking easier.
+
+The bedrooms and bathrooms are also filled with helpful amenities. We provide a hairdryer, ironing board, soap, shampoo, and hangers. Fresh linens and towels are provided, and we even have some extra pillows if desired. 
+
+Quickly Access All Savannah's Attractions from a Central Location
+
+Serenity on Jones has one of the most coveted addresses of Savannah. This quiet little street manages to be right next to some of the best sites of Savannah, yet it's still a peaceful and calm place to relax. From Serenity on Jones, you're just a short walk away from lovely Forsyth Square. This vacation home is also situated less than a mile away from attractions like the SCAD Museum of Art and the Massie Heritage Center. You can also easily hop onto Savannah's trolley system to explore attractions closer to the river or near the Victorian district.
+
+Savannah has plenty of fun attractions for those who enjoy history, art, and fine shopping. It's also one of the best towns to visit if you love good food. Serenity on Jones is right near a few local favorites like Clary's Cafe and Yaupon Teahouse. While in town, you might want to try some upscale options like Noble Fare, Husk Savannah, and The Olde Pink House. After enjoying a great dinner, explore Savannah's nightlife. The town has everything from dance clubs like Club 51 to elegant cocktail bars like Congress Street Up.
+
+When you want to enjoy the beautiful nature surrounding Savannah, consider a trip to nearby Tybee Island. This oceanside town is just a thirty-minute drive away from our Savannah vacation home. You can go on dolphin watching tours, kayak through stunning wetlands, or paddleboard in the ocean. All of our Savannah vacation home guests also have free access to our heated, resort-style swimming pool. 
+
+Occupancy: 4
+Fully renovated garden apartment on Jones Street feels like a brand new home! Gorgeous finishes and designer inspired furnishings create a beautifully serene setting for your Savannah vacation.
+Living room features comfy seating and large smart TV
+Streaming Only
+Full kitchen has cooking essentials
+Dry bar just off living room features barware and beverage cooler
+Dining table with seating for 4 tucked away in living room, perfect for a quick bite before exploring the town!
+Bedroom 1: Queen bed, windows facing Jones St, and vanity (also doubles as a great workspace)
+Bedroom 2: Queen bed, cozy and quiet room that is perfect for guests who like to sleep in
+Full bathroom accessed just off kitchen features a pedestal sink, tiled tub/shower, and storage for toiletries
+Full size washer/dryer in unit
+Private patio area accessed from kitchen features outdoor table and chairs
+Ground floor apartment with just a few steps down to entrance, all one level inside
+Private keyless entry on well-lit street
+Location: East Jones St, situated on a beautiful oak tree-lined street in the center of Savannah's downtown historic area. You will find great restaurants, shopping, museums, and more just outside your door!
+SVR-02498
+
+Guest access
+Occupancy: 4
+
+Fully renovated garden apartment on Jones Street feels like a brand new home! Gorgeous finishes and designer inspired furnishings create a beautifully serene setting for your Savannah vacation.
+
+Living room features comfy seating and large smart TV
+
+Full kitchen has cooking essentials
+
+Dry bar just off living room features barware and beverage cooler
+
+Dining table with seating for 4 tucked away in living room, perfect for a quick bite before exploring the town!
+
+Bedroom 1: Queen bed, windows facing Jones St, and vanity (also doubles as a great workspace)
+
+Bedroom 2: Queen bed, cozy and quiet room that is perfect for guests who like to sleep in
+
+Full bathroom accessed just off kitchen features a pedestal sink, tiled tub/shower, and storage for toiletries
+
+Full size washer/dryer in unit
+
+Private patio area accessed from kitchen features outdoor table and chairs
+
+Ground floor apartment with just a few steps down to entrance, all one level inside
+
+Private keyless entry on well-lit street
+
+Location: East Jones St, situated on a beautiful oak tree-lined street in the center of Savannah's downtown historic area. You will find great restaurants, shopping, museums, and more just outside your door!
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pool
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Show all 50 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.86 out of 5 from 29 reviews.
+4.86
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 7% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+8
+Location
+18
+Comfort
+7
+Cleanliness
+8
+Decor
+4
+Pool
+2
+Quiet
+5
+Value
+4
+Hospitality
+5
+Amenities
+3
+Marie
+Deltona, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We really enjoyed our stay!! The home was cozy & very comfortable!!  K -cups, sweetener & creamer were provided.  Also, we were able to walk everywhere.  Will definitely be back!!
+Show more
+Nicole
+10 months on Airbnb
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+It was a lovely place to stay; right in the in historic district. We could walk to everything and there was a lot to see. We throughly enjoyed our stay.
+Amanda
+Morganton, North Carolina
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Everything was great! We enjoyed our stay.
+Anita
+Athens, Georgia
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Stayed with kids
+What a beautiful home this was and we very much enjoyed our stay as a family of 3. We stayed for one week and loved the comfort of the home as well as the location. Easy walk to Forsyth Park and plenty of cafes nearby. So glad we were close enough to downtown and the river, and could access it easily, but so much preferred the peace and residential feel of this area. Our walks through the park were the best! I am sure we will return again!
+Show more
+Heather
+McKinney, Texas
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Fantastic stay on Jobes Street! Super walkable. Wonderful apartment. Would stay again!
+Maria Eugenia
+Puerto Rico
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Stayed a few nights
+Serenity at Jones was fantastic!  It is my go to "Home away from home" -- 4th time staying here.  Location is fantastic, very comfortable, clean and great hosts.  Highly recommended.
+Show more
+Show all 29 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+Jones East
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Vacation rentals with a pool in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Apartment vacation rentals in Chatham County
+Vacation rentals with a pool in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

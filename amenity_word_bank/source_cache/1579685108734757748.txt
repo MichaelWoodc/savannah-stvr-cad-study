@@ -1,0 +1,411 @@
+URL: https://www.airbnb.com/rooms/1579685108734757748
+Title: Bright and Historic, Steps to Forsyth Park
+Latitude: 32.0652
+Longitude: -81.0944
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 4
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Perfectly positioned in Savannah’s Historic District, Abercorn Manor Main is a light-filled four-bedroom residence just steps from Forsyth Park and surrounded by some of the city’s most beloved cafés, bakeries, and restaurants.
+
+The space
+Perfectly positioned just one block from Forsyth Park in Savannah’s Historic District, Abercorn Manor Main is a thoughtfully designed, light-filled four-bedroom residence that blends comfort, style, and an unbeatable location. Surrounded by some of the city’s most beloved cafés, bakeries, and restaurants, this home offers an ideal setting for friend getaways, extended stays, or relaxed retreats.
+
+Professionally designed by a talented local interior designer, the home is outfitted with tasteful finishes and comfortable, high-quality furnishings that create a warm, inviting atmosphere throughout. Natural light pours in through large windows, highlighting the home’s high ceilings and curated details that feel both refined and effortlessly livable.
+
+Designed with connection and flexibility in mind, the layout offers multiple spaces to gather and unwind. The main level features a full kitchen, perfect for everything from morning coffee to shared meals, along with a spacious living and dining area that serves as the heart of the home. Upstairs, a secondary gathering room provides an additional lounge space—ideal for groups who want room to spread out, relax, or enjoy separate conversations.
+
+With four well-appointed bedrooms and 2 newly renovated bathrooms (one walk-in shower and one shower/tub combination), the home comfortably accommodates families, couples, or small groups traveling together. Every space has been intentionally arranged to balance comfort and functionality.
+
+Step outside and you’re instantly immersed in the charm of Savannah. Being just a block from Forsyth Park means easy morning walks, afternoon lounging under the oaks, and effortless access to everything that makes this neighborhood so special.
+
+Abercorn Manor Main is a standout choice for guests who appreciate thoughtful design, generous living spaces, and a prime walkable location—perfect for gathering, reconnecting, and experiencing Savannah at its best.
+
+Sleeping Configuration: 
+Bedroom 1: King Bed
+Bedroom 2: King Bed
+Bedroom 3: King Bed
+Bedroom 4: Queen Bed
+
+What is parking like for this home?
+Parking for this home is non-metered and on-street in the area.
+
+SVR-03248
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Bright and Historic, Steps to Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+8 guests · 4 bedrooms · 4 beds · 2 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+5 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park, with historic squares and cafés throughout the neighborhood
+Light-filled home with designer detail
+A professionally designed interior with high ceilings, large windows, and curated furnishings
+Guests say it exceeds expectations
+Guests describe the home as exceeding expectations, with one calling it the best Airbnb they've stayed at
+Perfectly positioned in Savannah’s Historic District, Abercorn Manor Main is a light-filled four-bedroom residence just steps from Forsyth Park and surrounded by some of the city’s most beloved cafés, bakeries, and restaurants.
+
+The space
+Perfectly positioned just one block from Forsyth Park in Savannah’s Historic District, Abercorn Manor Main is a thoughtfully designed, light-filled four-bedroom residence that blends comfort, style, and an unbeatable location. Surrounded by some of the city’s most beloved cafés, bakeries, and restaurants, this home offers an ideal setting for friend getaways, extended stays, or relaxed retreats.
+
+Professionally designed by a talented local interior designer, the home is outfitted with tasteful finishes and comfortable, high-quality furnishings that create a warm, inviting atmosphere throughout. Natural light pours in through large windows, highlighting the home’s high ceilings and curated details that feel both refined and effortlessly livable.
+
+Designed with connection and flexibility in mind, the layout offers multiple spaces to gather and unwind. The main level features a full kitchen, perfect for everything from morning coffee to shared meals, along with a spacious living and dining area that serves as the heart of the home. Upstairs, a secondary gathering room provides an additional lounge space—ideal for groups who want room to spread out, relax, or enjoy separate conversations.
+
+With four well-appointed bedrooms and 2 newly renovated bathrooms (one walk-in shower and one shower/tub combination), the home comfortably accommodates families, couples, or small groups traveling together. Every space has been intentionally arranged to balance comfort and functionality.
+
+Step outside and you’re instantly immersed in the charm of Savannah. Being just a block from Forsyth Park means easy morning walks, afternoon lounging under the oaks, and effortless access to everything that makes this neighborhood so special.
+
+Abercorn Manor Main is a standout choice for guests who appreciate thoughtful design, generous living spaces, and a prime walkable location—perfect for gathering, reconnecting, and experiencing Savannah at its best.
+
+Sleeping Configuration: 
+Bedroom 1: King Bed
+Bedroom 2: King Bed
+Bedroom 3: King Bed
+Bedroom 4: Queen Bed
+
+What is parking like for this home?
+Parking for this home is non-metered and on-street in the area.
+
+SVR-03248
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+TV
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Long term stays allowed
+Show all 30 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+5.0 out of 5 stars from 5 reviews
+5.0 · 5 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Holly
+Lubbock, Texas
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+We arrived a little early and the hose easily accommodated. The house was well appointed and a perfect location to walk to all the greatest spots in Savannah.
+Show more
+Kacy
+Columbus, Texas
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Lucky Savannah was wonderful to work with. When we had an AC issue, they were very quick to have us moved to another equally beautiful property. Would absolutely book with them again.
+Show more
+Kelly
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with kids
+This was probably the best Airbnb I have ever stayed at. We got much more than we expected and the hosts were local and friendly
+Show more
+Montgomery
+11 years on Airbnb
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+The house exceeded our expectations. Gorgeous and very big!
+Show more
+Danielle
+New Hampshire, United States
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+We had a lovely stay - the place was very clean and comfortable!
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

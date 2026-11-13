@@ -1,0 +1,446 @@
+URL: https://www.airbnb.com/rooms/812218114864540366
+Title: Townhome w/ Courtyard + Parking by Lucky Savannah
+Latitude: 32.069
+Longitude: -81.0892
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 5
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Don't miss an opportunity to stay in Savannah’s charming downtown landmark historic district, just four blocks from Forsyth Park. Enjoy three spacious bedrooms plus a loft spread out across three floors!
+
+The space
+Located just East of the famous Fountain at Forsyth Park, Savannah Drawing Room is located in the landmark Historic District on a quiet street. Boasting over three floors, you'll find a substantial amount of natural light throughout this charming home that fills the home with cheer. Put down your bags and kick your feet up inside the formal living room facing the front of the home, where you can also gather for a family movie night or game day. 
+
+Toward the back of the house is an open plan kitchen with an attached formal dining area. Choose a formal meal at the dining table fit for eight, or enjoy a glass of wine at the kitchen island before walking to one of Savannah's best restaurants. From this room, there is access to the deck with plush chairs and a courtyard with a fire pit -- the perfect spot for spending an evening sipping wine and recounting the day with loved ones under the stars.
+
+Before heading upstairs, you'll find the first bedroom located on the main level, which is ideal for guests with mobility issues. This room features a Queen size bed, and is just across the hall form a quaint powder room. On the second level, two bedrooms are equipped with comfortable beds, and a generous amount of storage space. The primary bedroom overlooking the tree-lined courtyard features a King size bed, and an ensuite bathroom with a shower. Just down the hall, the second bedroom that overlooks Gaston Street is fitted with a Queen size bed, and is adjacent to the hallway bathroom that features a large shower/soaking tub combo.
+
+The top floor, which can be reached by a spiral staircase, is fitted with two twin beds. This enchanting spot is sure to form lasting bonds between those sharing the space and is especially perfect for children!
+
+Savannah Drawing Room is perfectly situated to explore Savannah’s Historic District. Truly located in an excellent location that is just a short walk to Troup Square, the Cathedral of St. John the Baptist and Historic Jones Street, voted one of the prettiest streets in the United States! A short drive or walk puts you on either Broughton Street or River Street where shopping and dining abound-it truly is the ideal location from which to explore Savannah.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: King Bed
+Bedroom 3: Queen Bed
+Loft: Two Twin Beds
+
+What is parking like for this home?
+This home has one dedicated parking space at the rear for one vehicle, while there is ample non-metered street parking in front of the home for additional vehicles. Guests will need to be mindful of posted Sweep Zone signs.
+
+SVR-00646
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Townhome w/ Courtyard + Parking by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+8 guests · 3 bedrooms · 5 beds · 2.5 baths
+Rated 4.72 out of 5 stars.
+4.72
+·
+25 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Whitefield Square, with Troup Square and Forsyth Park about a 5-min walk away
+Private courtyard with a fire pit
+A screened-in deck and courtyard with a fire pit for winding down after a day of exploring
+Walkable to restaurants and sights
+Guests highlight the walkability, with many calling it an easy base for exploring the city
+Don't miss an opportunity to stay in Savannah’s charming downtown landmark historic district, just four blocks from Forsyth Park. Enjoy three spacious bedrooms plus a loft spread out across three floors!
+
+The space
+Located just East of the famous Fountain at Forsyth Park, Savannah Drawing Room is located in the landmark Historic District on a quiet street. Boasting over three floors, you'll find a substantial amount of natural light throughout this charming home that fills the home with cheer. Put down your bags and kick your feet up inside the formal living room facing the front of the home, where you can also gather for a family movie night or game day. 
+
+Toward the back of the house is an open plan kitchen with an attached formal dining area. Choose a formal meal at the dining table fit for eight, or enjoy a glass of wine at the kitchen island before walking to one of Savannah's best restaurants. From this room, there is access to the deck with plush chairs and a courtyard with a fire pit -- the perfect spot for spending an evening sipping wine and recounting the day with loved ones under the stars.
+
+Before heading upstairs, you'll find the first bedroom located on the main level, which is ideal for guests with mobility issues. This room features a Queen size bed, and is just across the hall form a quaint powder room. On the second level, two bedrooms are equipped with comfortable beds, and a generous amount of storage space. The primary bedroom overlooking the tree-lined courtyard features a King size bed, and an ensuite bathroom with a shower. Just down the hall, the second bedroom that overlooks Gaston Street is fitted with a Queen size bed, and is adjacent to the hallway bathroom that features a large shower/soaking tub combo.
+
+The top floor, which can be reached by a spiral staircase, is fitted with two twin beds. This enchanting spot is sure to form lasting bonds between those sharing the space and is especially perfect for children!
+
+Savannah Drawing Room is perfectly situated to explore Savannah’s Historic District. Truly located in an excellent location that is just a short walk to Troup Square, the Cathedral of St. John the Baptist and Historic Jones Street, voted one of the prettiest streets in the United States! A short drive or walk puts you on either Broughton Street or River Street where shopping and dining abound-it truly is the ideal location from which to explore Savannah.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: King Bed
+Bedroom 3: Queen Bed
+Loft: Two Twin Beds
+
+What is parking like for this home?
+This home has one dedicated parking space at the rear for one vehicle, while there is ample non-metered street parking in front of the home for additional vehicles. Guests will need to be mindful of posted Sweep Zone signs.
+
+SVR-00646
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 5 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.72 out of 5 stars from 25 reviews
+4.72 · 25 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 76% of reviews
+5
+4 stars, 20% of reviews
+4
+3 stars, 4% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+12
+Location
+12
+Cleanliness
+8
+Quiet
+6
+Comfort
+7
+Parking
+3
+Family
+5
+Accuracy
+5
+Bathroom
+3
+Hospitality
+4
+Hannah
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Would stay here again, kitchen was nice and stocked with any bowls and utensils you’d need. Bathrooms were clean and having 2 1/2 baths were great for our group of 7. The back deck was a really nice place to sit and chat with it being enclosed, so bugs weren’t an issue! Parking was so nice, one private space in the back and PLENTY of free street parking out front for our two cars. Neighborhood was quiet despite being a holiday weekend as well!! only possible concern was the stairs to the loft are narrow so don’t plan on having someone super tall stay in the loft but it’s still a nice space and worked well for us!
+Show more
+Cynthia
+Aiken, South Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+We enjoyed our stay at your property! Everything was just as described, linen fresh, bathroom clean, location spot on! Thank you for your responsiveness and courteous service. We will recommend your property to others.
+Show more
+Roberta
+Chicago, Illinois
+Rating, 4 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+The rental was clean and the beds were comfortable, which we appreciated. It’s a solid option for a large group or a family, or even a smaller group where everyone wants their own space. We also liked the screened in porch. It worked fine for what we needed, but it might not be the best choice if you’re looking for something cozy.
+Show more
+Ben
+West End, North Carolina
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Group trip
+Great property and location. Easily walkable to River Rd and all locations in downtown. Hosts were very responsive to any needs we had, for example the AC wasn’t working when we checked in. They had someone come out and got it fixed the same day. A great experience compared to others I’ve had in the past in that regard! Definitely recommend to anyone staying in the area. Would recommend small vehicles because parking is tight, though not the fault of the hosts.
+Show more
+Carsen
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Group trip
+Had a great stay!
+Show more
+Paige
+Brooksville, Florida
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed with kids
+Very quiet area for a nice relaxing stay
+Show more
+Show all 25 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Townhome vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

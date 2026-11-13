@@ -1,0 +1,483 @@
+URL: https://www.airbnb.com/rooms/45216179
+Title: Charming Home in Starland District of Savannah
+Latitude: 32.05338
+Longitude: -81.09733
+Privacy radius (meters): 500
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Angelique
+Host ID: 11076705
+Host profile ID: 1462856472337113839
+Host URL: https://www.airbnb.com/users/profile/1462856472337113839
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 queen bed
+
+=== FULL DESCRIPTION ===
+This gorgeous 3 bedroom home is located in the Starland District of Savannah. It is centrally located within very close walking distance to many of the attractions and great restaurants such as Ukiyo, Starland Yard, Two Tides Brewery, Flora & Fauna, Lone Wolf, etc. The Starland District provides a unique Savannah charm with its eclectic stores, delicious eats, and enchanting atmosphere.  It is just a short Uber ride to the downtown area.
+
+The space
+All three bedrooms are located upstairs, with the master bedroom featuring a king-size bed and private ensuite bathroom, while the two additional bedrooms both have queen-size beds and share a separate full bathroom. A half bathroom is also available downstairs for added convenience.
+
+For your laundry needs, a washer and dryer are provided . Enjoy the shared courtyard, complete with a gas grill for outdoor cooking. There is free street parking.
+
+Guest access
+You will have access to the entire house and shared courtyard. The courtyard is shared with the carriage house (another rental)  which is separate from the main house and located above the garage.
+
+Keyless entry on the front door - code will be messaged to you before arrival.
+
+Other things to note
+Please adhere to the occupancy rule as you agreed to in the listing contract. My home will accommodates 6 guest very comfortably.
+
+The property is located in a safe & quite neighborhood that is mostly residential with a few local small business scattered about. Because the house is in the city and located on the corner, there is potential for traffic noise , fire & police sirens, street-sweepers, etc.
+
+The court yard is shared with the carriage house (my other rental property ) which is separate from the main house and located above the garage.
+
+Please clean the grill after using it and make sure the gas is turned off. The electronic igniter is fussy and does not work sometimes and you will have to use matches or a grill lighter. Should you run out of propane the chevron station at the corner has an exchange station and if you exchange tanks I will be happy to reimburse you the cost.
+
+All 3 bedrooms are located on the 2nd floor. Guest must be able to navigate a rather long flight of stairs.
+
+SVR-02208
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+BBQ grill
+Parking and facilities
+Free street parking
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Charming Home in Starland District of Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.89 out of 5 stars.
+4.89
+210 reviews
+210
+Reviews
+Hosted by Angelique
+Superhost · 6 years hosting
+Listing highlights
+In Savannah's Starland District
+Walkable to Starland District restaurants, breweries, and galleries, with parks about a 5-min walk away
+Kitchen, laundry, and outdoor grill
+A full kitchen with dishwasher, in-unit washer and dryer, and a gas grill in the courtyard
+Consistently clean, with a great host
+Guests praise how clean and spacious the home feels, and many highlight Angelique as a responsive host
+This gorgeous 3 bedroom home is located in the Starland District of Savannah. It is centrally located within very close walking distance to many of the attractions and great restaurants such as Ukiyo, Starland Yard, Two Tides Brewery, Flora & Fauna, Lone Wolf, etc. The Starland District provides a unique Savannah charm with its eclectic stores, delicious eats, and enchanting atmosphere.  It is just a short Uber ride to the downtown area.
+
+The space
+All three bedrooms are located upstairs, with the master bedroom featuring a king-size bed and private ensuite bathroom, while the two additional bedrooms both have queen-size beds and share a separate full bathroom. A half bathroom is also available downstairs for added convenience.
+
+For your laundry needs, a washer and dryer are provided . Enjoy the shared courtyard, complete with a gas grill for outdoor cooking. There is free street parking.
+
+Guest access
+You will have access to the entire house and shared courtyard. The courtyard is shared with the carriage house (another rental)  which is separate from the main house and located above the garage.
+
+Keyless entry on the front door - code will be messaged to you before arrival.
+
+Other things to note
+Please adhere to the occupancy rule as you agreed to in the listing contract. My home will accommodates 6 guest very comfortably.
+
+The property is located in a safe & quite neighborhood that is mostly residential with a few local small business scattered about. Because the house is in the city and located on the corner, there is potential for traffic noise , fire & police sirens, street-sweepers, etc.
+
+The court yard is shared with the carriage house (my other rental property ) which is separate from the main house and located above the garage.
+
+Please clean the grill after using it and make sure the gas is turned off. The electronic igniter is fussy and does not work sometimes and you will have to use matches or a grill lighter. Should you run out of propane the chevron station at the corner has an exchange station and if you exchange tanks I will be happy to reimburse you the cost.
+
+All 3 bedrooms are located on the 2nd floor. Guest must be able to navigate a rather long flight of stairs.
+
+SVR-02208
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Free washer – In unit
+Free dryer – In unit
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.89 out of 5 from 210 reviews.
+4.89
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+47
+Nearby
+56
+Location
+109
+Parking
+34
+Cleanliness
+85
+Family
+29
+Hospitality
+71
+Comfort
+59
+Indoor spaces
+29
+Check-in
+11
+Larry
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Beautifully updated home with high ceilings. Tons of space to spread out if traveling with family.  Easy walk to Starland district and Forsyth. The bar across the street can get noisy which was fine for us, but if you're looking for a quiet neighborhood at 9PM maybe look at other options. Would definitely stay again.
+Show more
+Hillary
+Savannah, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Beautiful home in Savannah. Close to a lot of amenities, as well as pleasant and quiet to stay in!
+Michael
+Candler, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We loved being able to walk to so many cool shops, restaurants and watering holes. Great home!
+Lauren
+Johns Creek, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+We absolutely loved our stay! It was exactly what we were looking for, and Angelique was such a wonderful host. We will definitely stay there again the next time we are in Savannah!
+Shaun
+District Heights, Maryland
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+Angelique was a phenomenal host and her place is immaculate! Her house was very clean, neat and spacious! My family and I enjoyed our stay and look forward to staying there again the time we are in the Savannah area!
+Show more
+Jennifer
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+My family and stayed for the weekend for my daughter’s graduation. The house was very spacious and comfortable for everyone in my family. The house was very clean and organized. We were able to have meals at the house and spend time as a family. Angelique was very professional and gave us clear and easy instructions for checking in, check out and things we needed to know during our stay. She responded very quickly to every question I asked. We walked to a great little breakfast place down the street, my son and his girlfriend also walked to the bar on the corner for a drink at night. This is close to many restaurants and to everything in Savannah. Overall, our stay here made our family trip a peaceful and awesome one!
+Show more
+Show all 210 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Red & White Food Store
+Grocery store
+Late Air
+Restaurant
+Kroger
+Grocery store
+Forsyth Park
+Park
+Mrs. Wilkes Dining Room
+American restaurant
+Keyboard shortcuts
+Map data ©2026
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+The Starland District is such a unique part of Savannah. It is less touristy and quieter than the hustle and bustle of downtown, but there are so many things to do within walking distance of the house such as art galleries, breweries, shopping, and amazing restaurants (highly recommend the vault!). It is still a short Uber/Lyft ride away to downtown, so it is a great way to experience all that Savannah has to offer.
+
+The house is located in a safe & quiet neighborhood that is mostly residential with a few local small businesses scattered about, but because the house is in the city and located on the corner there is potential for traffic noise, fire & police sirens, street-sweepers, etc.
+Show more
+Meet your host
+Angelique
+Superhost
+482 reviews
+482
+Reviews
+4.86 out of 5 average rating
+4.86
+Rating
+6 years of hosting
+6
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Angelique is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for infants (under 2 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

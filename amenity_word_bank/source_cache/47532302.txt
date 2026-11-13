@@ -1,0 +1,645 @@
+URL: https://www.airbnb.com/rooms/47532302
+Title: Heated Pool Access | Brand New Home!
+Latitude: 32.07367
+Longitude: -81.09248
+Privacy radius (meters): 152
+Location type: Verified
+Location precision: Approximate displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Posh and memorable, Drayton Escape represents metropolitan living in the heart of Savannah. This is a sophisticated urban residence that pulls out all the stops for glamorous Southern living. It can comfortably accommodate up to four overnight guests within its 1,044 square feet of space. Guests enjoy a large bedroom and 1.5 bathrooms. This home is also perfect for a single occupant or couple. The unit can be reached by elevator.
+
+The space
+Drayton Escape
+
+
+
+A Polished Savannah Vacation Rental With a Great Location
+
+
+
+Step into a roomy, open-concept layout with a boho-chic living room made for relaxation. A leather couch, accent chairs and flat-screen television invite you to brush the city off for a minute in complete luxury. A stunning chef's kitchen awaits just steps away from the living room to pamper you with seating for three at a wood-topped, tiered center island set under twin crystalline chandeliers. The island parallels a long counter accented with floating, open-shelf storage. Featuring gorgeous white cabinets, this kitchen is stocked with a slide-in stove, dishwasher, full-sized refrigerator, coffee maker and oversized sink. All appliances are stainless steel. A glass-topped dining table with seating for four provides the perfect dining space just beyond the kitchen.
+
+
+
+The entire back wall of Drayton Escape's main living area is lined with oversized windows looking out over the neighborhood around you. You can enjoy sunshine or moonlit views as you prepare meals, dine or relax on the couch. Guests will enjoy a clean, fresh atmosphere in this airy residence that features modern wood floors, eye-catching wall art, high-end lighting fixtures and recessed lighting.
+
+
+
+Continuing the clean, modern theme of the house, Drayton Escape's bedroom features an attractive platform bed. Additional modern touches in the bedroom include a flat-screen television & twin night tables. The bedroom shares the same theme of wall-to-wall oversized windows as the main portion of the home. Situated off of the bedroom, Drayton Escape's large bathroom features an extra-long vanity with double sinks. There is also a large, fully tiled walk-in shower. The half-bath features simple and modern fixtures. A laundry nook featuring a washer with a dryer is located adjacent to the bathroom off of the living room. This is also where you'll find a full roster of cleaning supplies stored with other household essentials.
+
+
+
+This is a modern, luxury-oriented home offering all the amenities needed for business or pleasure. It comes equipped with Wi-Fi, air conditioning, laundry and satellite/cable television. Guests booked at Drayton Escape enjoy access to our resort-style pool on Tybee Island.
+
+
+
+Beyond the Walls of Drayton Escape: Exploring Savannah
+
+
+
+This home's central location within Savannah opens up endless possibilities for exploration. Savannah is a city known for its walking tours. For visitors seeking adventure, that covers everything from after-dark pub crawls to haunted cemetery tours. Trolley tours that will take you to the best spots for shopping and dining also offer pleasant options for touring Savannah. A riverboat cruise is another option that opens up a new side of Savannah.
+
+
+
+First on any itinerary should be the Savannah Historic District. Peppered with historic homes and buildings, this is the best area for admiring the architecture. A complete tour of Savannah is never finished without stops at Bonaventure Cemetery, Forsyth Park, the Cathedral of St. John the Baptist, Chippewa Square, Colonial Park Cemetery, the American Prohibition Museum, the Ships of the Sea Maritime Museum and the Mercer Williams House. When looking for the best pedestrian spot in Savannah, find your way to City Market to shop and dine among cobbled walkways full of artsy, urban energy. For live music and dining with river views, River Street is the place! Guests planning longer stays at a Savannah vacation home rental can plan for excursions to Skidaway Island State Park, Old Fort Jackson and the Wormsloe Historic Site. Savannah is famed for its roadways lined in Southern oaks, ornate porches, stone fountains and charming trolleys. Weaving in and out of carefully manicured parks that abut Savannah neighborhoods to get from place to place is one of the best ways to enjoy the city.
+
+
+
+The Excitement Never Ends: Events to Attend While Staying at a Savannah Vacation Home
+
+
+
+Many visitors are drawn to Savannah throughout the year for its epic festivals and cultural events. Topping the list of big draws are the Savannah Food and Wine Festival, the Savannah Jazz Festival, the Savannah Tour of Homes and Gardens, the Sidewalk Arts Festival, the River Street Fourth of July Celebration and the Savannah Film Festival.
+
+
+
+When you book Drayton Escape for an upcoming Savannah vacation, you're retreating to a beautiful apartment offering a touch of modern comfort in the heart of historic Savannah. This is a beautiful choice for anyone looking for a one-bedroom Savannah vacation rental with a contemporary, clean-slate aesthetic. With a full list of amenities, this home provides everything needed for a stay of any length.
+
+
+
+SVR-02248
+
+Guest access
+Bedroom features king bed and en suite full bath
+
+Queen size sofa bed
+
+Flatscreen TV's in Livingroom and Bedroom
+
+Gourmet, Modern Kitchen
+
+Dining table with seating for 4
+
+Open Floor Plan
+
+Half bath located off living space
+
+Washer/dryer
+
+Window Overlooking Bustling Drayton St
+
+In the Middle of the Downtown Action
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Building Requirements
+
+We're so glad you've chosen to stay with us! To comply with our building's registration requirements, all adult guests must be registered with our homeowners' association prior to arrival. Before your stay, we'll ask each adult guest to provide a copy of a valid government-issued photo ID (driver's license or passport). This quick step helps ensure a smooth and secure experience for everyone in the building — thank you so much for your understanding!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Pool
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Heated Pool Access | Brand New Home!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1.5 baths
+Rated 4.5 out of 5 stars.
+4.5
+·
+32 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Lafayette Square and Chippewa Square, with historic homes and tours all around
+Spacious condo with a full kitchen
+A 1,044 sq ft open layout with a chef's kitchen, dining for four, and in-unit washer and dryer
+Comfortable stay, attentive host
+Guests highlight the central location, comfortable bed, and a responsive, attentive host
+Posh and memorable, Drayton Escape represents metropolitan living in the heart of Savannah. This is a sophisticated urban residence that pulls out all the stops for glamorous Southern living. It can comfortably accommodate up to four overnight guests within its 1,044 square feet of space. Guests enjoy a large bedroom and 1.5 bathrooms. This home is also perfect for a single occupant or couple. The unit can be reached by elevator.
+
+The space
+Drayton Escape
+
+
+
+A Polished Savannah Vacation Rental With a Great Location
+
+
+
+Step into a roomy, open-concept layout with a boho-chic living room made for relaxation. A leather couch, accent chairs and flat-screen television invite you to brush the city off for a minute in complete luxury. A stunning chef's kitchen awaits just steps away from the living room to pamper you with seating for three at a wood-topped, tiered center island set under twin crystalline chandeliers. The island parallels a long counter accented with floating, open-shelf storage. Featuring gorgeous white cabinets, this kitchen is stocked with a slide-in stove, dishwasher, full-sized refrigerator, coffee maker and oversized sink. All appliances are stainless steel. A glass-topped dining table with seating for four provides the perfect dining space just beyond the kitchen.
+
+
+
+The entire back wall of Drayton Escape's main living area is lined with oversized windows looking out over the neighborhood around you. You can enjoy sunshine or moonlit views as you prepare meals, dine or relax on the couch. Guests will enjoy a clean, fresh atmosphere in this airy residence that features modern wood floors, eye-catching wall art, high-end lighting fixtures and recessed lighting.
+
+
+
+Continuing the clean, modern theme of the house, Drayton Escape's bedroom features an attractive platform bed. Additional modern touches in the bedroom include a flat-screen television & twin night tables. The bedroom shares the same theme of wall-to-wall oversized windows as the main portion of the home. Situated off of the bedroom, Drayton Escape's large bathroom features an extra-long vanity with double sinks. There is also a large, fully tiled walk-in shower. The half-bath features simple and modern fixtures. A laundry nook featuring a washer with a dryer is located adjacent to the bathroom off of the living room. This is also where you'll find a full roster of cleaning supplies stored with other household essentials.
+
+
+
+This is a modern, luxury-oriented home offering all the amenities needed for business or pleasure. It comes equipped with Wi-Fi, air conditioning, laundry and satellite/cable television. Guests booked at Drayton Escape enjoy access to our resort-style pool on Tybee Island.
+
+
+
+Beyond the Walls of Drayton Escape: Exploring Savannah
+
+
+
+This home's central location within Savannah opens up endless possibilities for exploration. Savannah is a city known for its walking tours. For visitors seeking adventure, that covers everything from after-dark pub crawls to haunted cemetery tours. Trolley tours that will take you to the best spots for shopping and dining also offer pleasant options for touring Savannah. A riverboat cruise is another option that opens up a new side of Savannah.
+
+
+
+First on any itinerary should be the Savannah Historic District. Peppered with historic homes and buildings, this is the best area for admiring the architecture. A complete tour of Savannah is never finished without stops at Bonaventure Cemetery, Forsyth Park, the Cathedral of St. John the Baptist, Chippewa Square, Colonial Park Cemetery, the American Prohibition Museum, the Ships of the Sea Maritime Museum and the Mercer Williams House. When looking for the best pedestrian spot in Savannah, find your way to City Market to shop and dine among cobbled walkways full of artsy, urban energy. For live music and dining with river views, River Street is the place! Guests planning longer stays at a Savannah vacation home rental can plan for excursions to Skidaway Island State Park, Old Fort Jackson and the Wormsloe Historic Site. Savannah is famed for its roadways lined in Southern oaks, ornate porches, stone fountains and charming trolleys. Weaving in and out of carefully manicured parks that abut Savannah neighborhoods to get from place to place is one of the best ways to enjoy the city.
+
+
+
+The Excitement Never Ends: Events to Attend While Staying at a Savannah Vacation Home
+
+
+
+Many visitors are drawn to Savannah throughout the year for its epic festivals and cultural events. Topping the list of big draws are the Savannah Food and Wine Festival, the Savannah Jazz Festival, the Savannah Tour of Homes and Gardens, the Sidewalk Arts Festival, the River Street Fourth of July Celebration and the Savannah Film Festival.
+
+
+
+When you book Drayton Escape for an upcoming Savannah vacation, you're retreating to a beautiful apartment offering a touch of modern comfort in the heart of historic Savannah. This is a beautiful choice for anyone looking for a one-bedroom Savannah vacation rental with a contemporary, clean-slate aesthetic. With a full list of amenities, this home provides everything needed for a stay of any length.
+
+
+
+SVR-02248
+
+Guest access
+Bedroom features king bed and en suite full bath
+
+Queen size sofa bed
+
+Flatscreen TV's in Livingroom and Bedroom
+
+Gourmet, Modern Kitchen
+
+Dining table with seating for 4
+
+Open Floor Plan
+
+Half bath located off living space
+
+Washer/dryer
+
+Window Overlooking Bustling Drayton St
+
+In the Middle of the Downtown Action
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+
+
+
+Building Requirements
+
+We're so glad you've chosen to stay with us! To comply with our building's registration requirements, all adult guests must be registered with our homeowners' association prior to arrival. Before your stay, we'll ask each adult guest to provide a copy of a valid government-issued photo ID (driver's license or passport). This quick step helps ensure a smooth and secure experience for everyone in the building — thank you so much for your understanding!
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pool
+TV with standard cable
+Elevator
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Show all 48 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.5 out of 5 stars from 32 reviews
+4.5 · 32 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 66% of reviews
+5
+4 stars, 25% of reviews
+4
+3 stars, 6% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 3% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.6 out of 5 stars for accuracy
+Accuracy
+4.6
+Rated 4.3 out of 5 stars for check-in
+Check-in
+4.3
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Noise
+11
+Parking
+8
+Location
+17
+Walkability
+7
+Sleep quality
+9
+Nearby
+8
+Decor
+5
+Access
+5
+Cleanliness
+8
+Hospitality
+9
+Michael
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+The apartment was exactly as represented.  It was very clean and the bedding was extremely comfortable.  The host was very attentive and responsive to any and all questions.  We would definitely stay here again!
+Show more
+Ron
+Fairmont, Minnesota
+Rating, 5 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+We loved our apartment!   Beautifully decorated with a wonderful bedroom & bathroom. The location was perfect as is centrally located in the Historic District.
+Alan
+Dallas, Texas
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Wonderful place in wonderful location.
+C
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+The rental was what we expected plus more. We have traveled to Savannah and this location was great. You are close to several great places and historic sites. We love being able to walk around and not have to worry about our safety.
+Show more
+Denise
+Hadley, New York
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Stayed about a week
+Great location, secure building in a nice area with a short walk in any direction to restaurants, shops and entertainment venues. Unit is nicely appointed and has a great kitchen that we used a lot. Bed was comfy and loved having two bathrooms especially when getting ready in the mornings. Host was responsive and gave clear instructions.  A grocery service was offered via third party which we loved, it allowed us to preorder and arrive with our groceries already in the fridge. Building itself is a bit tired (common areas are not within the control of the host) and the unit faces an alley which noise carries when the trash trucks pick up every day (again nothing the host can do, but white noise machine might be helpful to some). We would definitely stay here again.
+Show more
+Hannah
+6 years on Airbnb
+Rating, 4 stars
+,
+·
+March 2026
+,
+·
+Stayed a few nights
+The space was very nice and bed was comfortable. Easy finding the lock box and check-in videos were very helpful. We loved Savannah!
+Show all 32 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified and the exact location will be provided after booking. Learn about verification.
+Neighborhood highlights
+Jones East
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Beach condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Vacation rentals with a pool in Georgia
+Condo vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

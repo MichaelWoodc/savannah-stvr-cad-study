@@ -1,0 +1,552 @@
+URL: https://www.airbnb.com/rooms/4399980
+Title: Beautiful and Historic 1866 Home on Jones Street
+Latitude: 32.0718
+Longitude: -81.0918
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Powell
+Host ID: 4597480
+Host profile ID: 1462661160320756623
+Host URL: https://www.airbnb.com/users/profile/1462661160320756623
+Bedrooms: 4
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 4
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 double bed
+
+Bedroom 4
+1 queen bed
+
+Living room
+1 couch
+
+=== FULL DESCRIPTION ===
+Radiantly restored historic house built in 1866 on the "Prettiest street in the South."
+My 3 Bedroom (4 bed including the bonus room) 3 Bath home will afford you the comfort and luxury of experiencing Savannah like a local in the center of the historic district steps from all the sights.
+
+**PLEASE SEND AN INQUIRY BEFORE REQUESTING TO BOOK**
+
+**I generally have a 3-night weekend minimum**
+**I don't generally start or stop reservations on Saturdays**
+
+Short Term Vacation Rental Permit - SVR-00347
+
+The space
+A two-story, 3 Bedroom (4 bedroom including the bonus room/den with a Murphy bed) / 3 Bath home with a remodeled kitchen, courtyard, and two parking spaces.
+
+Original heart pine floors, exposed brick walls, ten-foot ceilings, four non-working original fireplaces, authentic Victorian furniture and decor, gas lamps, a peaceful courtyard, and all the modern amenities which allow you to relax in the charm of the 'Hostess City."
+
+The open double parlor (living room and dining room) is a perfect place to relax in the comfortable leather couches or to eat your home-cooked meal.
+
+Off of the remodeled kitchen downstairs, there is a cozy den/bonus room that functions as a 4th bedroom using the Murphy bed.
+
+The tranquil courtyard is recently rebuilt and landscaped, giving shade in the summer, and full of sun during the winter, where you can enjoy your morning coffee, eat a meal, or just take things slow like a local, sipping on your favorite drinks.
+
+The back bedroom has a balcony on the second floor overlooking the courtyard (and the St. Paddy's Day Parade route), which is great for sunbathing.
+
+Two of the full bathrooms are upstairs: The master bath has a shower, and the bathroom shared by the 2nd and 3rd bedrooms has a tub/shower.
+
+The third full bathroom is downstairs connected to the den/bonus room with the Murphy Bed. It has a tub with a handheld shower-head.
+
+Guest access
+You will have Full access to the entire house, courtyard, and private driveway with parking for two vehicles.
+
+Instructions for entry to the house will be unlocked once you book and are available in the House Manual section.
+
+Other things to note
+**8 guests are my capacity by law and I cannot make exceptions. Now one else is allowed in the house, unless in the rare case I grant an exception. I do not allow bachelor or bachelorette parties, or similar type get-togethers, or any type of party weekend, parties of any nature, or large groups of friends. I mostly only allow small groups of friends, couples, or a families.**
+
+I will allow pets on a case-by-case basis, but there will be an extra fee (usually $100 but depends on the situation/number and size of pets/etc.  All pets must be exceptionally well-trained, stay off furniture and beds, be picked up after in the courtyard and around town, and crated if left alone.
+
+I ask if you are staying for longer than a weekend, that you do me a favor and make sure the plants inside and on the porch don't get too thirsty. They should be watered lightly twice a week please.
+
+I have a landscaper named Belvin, middle-aged and missing a few teeth and walks with a limp because he has a prosthetic foot, a very nice guy. You may see him working out front, or possibly watering plants outside in the back which he does a few times during the week in the mornings.
+
+**I have a strict cancellation policy, so it might be desirable for you to purchase trip cancellation insurance in case you have an emergency arise. Allianz and CSA are some of the big ones, but there are many options**
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Courtyard view
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+TV with standard cable
+Game console
+Family
+Pack ’n play/Travel crib
+Children’s books and toys
+Fireplace guards
+Window guards
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Beautiful and Historic 1866 Home on Jones Street
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+8 guests · 4 bedrooms · 4 beds · 3 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+268 reviews
+268
+Reviews
+Hosted by Powell
+Superhost · 12 years hosting
+Listing highlights
+On Jones St in the Historic District
+Steps from Lafayette Square and Congregation Mickve Israel, with Forsyth Park about a 5-min walk
+Restored 1866 townhouse with period detail
+Heart pine floors, exposed brick, ten-foot ceilings, and four original fireplaces in an 1866 townhouse
+Comfortable beds, a walkable location
+Guests highlight the comfortable beds, the walkable location, and Powell's responsiveness as a host
+Radiantly restored historic house built in 1866 on the "Prettiest street in the South."
+My 3 Bedroom (4 bed including the bonus room) 3 Bath home will afford you the comfort and luxury of experiencing Savannah like a local in the center of the historic district steps from all the sights.
+
+**PLEASE SEND AN INQUIRY BEFORE REQUESTING TO BOOK**
+
+**I generally have a 3-night weekend minimum**
+**I don't generally start or stop reservations on Saturdays**
+
+Short Term Vacation Rental Permit - SVR-00347
+
+The space
+A two-story, 3 Bedroom (4 bedroom including the bonus room/den with a Murphy bed) / 3 Bath home with a remodeled kitchen, courtyard, and two parking spaces.
+
+Original heart pine floors, exposed brick walls, ten-foot ceilings, four non-working original fireplaces, authentic Victorian furniture and decor, gas lamps, a peaceful courtyard, and all the modern amenities which allow you to relax in the charm of the 'Hostess City."
+
+The open double parlor (living room and dining room) is a perfect place to relax in the comfortable leather couches or to eat your home-cooked meal.
+
+Off of the remodeled kitchen downstairs, there is a cozy den/bonus room that functions as a 4th bedroom using the Murphy bed.
+
+The tranquil courtyard is recently rebuilt and landscaped, giving shade in the summer, and full of sun during the winter, where you can enjoy your morning coffee, eat a meal, or just take things slow like a local, sipping on your favorite drinks.
+
+The back bedroom has a balcony on the second floor overlooking the courtyard (and the St. Paddy's Day Parade route), which is great for sunbathing.
+
+Two of the full bathrooms are upstairs: The master bath has a shower, and the bathroom shared by the 2nd and 3rd bedrooms has a tub/shower.
+
+The third full bathroom is downstairs connected to the den/bonus room with the Murphy Bed. It has a tub with a handheld shower-head.
+
+Guest access
+You will have Full access to the entire house, courtyard, and private driveway with parking for two vehicles.
+
+Instructions for entry to the house will be unlocked once you book and are available in the House Manual section.
+
+Other things to note
+**8 guests are my capacity by law and I cannot make exceptions. Now one else is allowed in the house, unless in the rare case I grant an exception. I do not allow bachelor or bachelorette parties, or similar type get-togethers, or any type of party weekend, parties of any nature, or large groups of friends. I mostly only allow small groups of friends, couples, or a families.**
+
+I will allow pets on a case-by-case basis, but there will be an extra fee (usually $100 but depends on the situation/number and size of pets/etc.  All pets must be exceptionally well-trained, stay off furniture and beds, be picked up after in the courtyard and around town, and crated if left alone.
+
+I ask if you are staying for longer than a weekend, that you do me a favor and make sure the plants inside and on the porch don't get too thirsty. They should be watered lightly twice a week please.
+
+I have a landscaper named Belvin, middle-aged and missing a few teeth and walks with a limp because he has a prosthetic foot, a very nice guy. You may see him working out front, or possibly watering plants outside in the back which he does a few times during the week in the mornings.
+
+**I have a strict cancellation policy, so it might be desirable for you to purchase trip cancellation insurance in case you have an emergency arise. Allianz and CSA are some of the big ones, but there are many options**
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 4 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 king bed
+
+Bedroom 3
+1 double bed
+
+Bedroom 4
+1 queen bed
+
+Living room
+1 couch
+
+What this place offers
+Courtyard view
+Kitchen
+Wifi
+Free parking on premises
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Bathtub
+Show all 55 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 268 reviews.
+4.98
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+98
+Location
+224
+Comfort
+79
+Parking
+24
+Nearby
+64
+Hospitality
+109
+Sleep quality
+55
+Parks
+8
+Outdoor spaces
+15
+Family
+39
+Naomi
+Montclair, New Jersey
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We had a wonderful time staying here. The place is very charming, tastefully decorated, and located on a beautiful street. Powell was a great communicator and had a helpful binder full of directions/information/recommendations. It’s a short walk to the hop on/hop off trolley and Clary’s restaurant on the corner is very convenient for a casual  bite. Hope to be back again in the future!
+Show more
+Lauren
+Fairhope, Alabama
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Powell's place is in the best location, right beside Clary's Cafe on Jones St. It is super convenient to all the top destinations in Savannah. He also provides a binder with great recommendations that we took advantage of. The house is very comfortable and a true gem. We would love to stay there again!
+Show more
+Kyle And Tina
+Tucson, Arizona
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+The place is very comfortable.  Makes you feel at home, yet doesn’t feel like you are disturbing someone’s home.  For an AirBnB that is a good thing.
+There were lots of pillows, blankets and towels; plus hooks to hang things on and surfaces cleared off to put your things on.  The place is well appointed in that it has been thought out how a guest will use the place.  
+A lovely place to stay.  Close to everything, but very quiet.  Private parking onsite is an extra perk for Savannah.  We also enjoyed sitting outside in the evening on the sidewalk in front of the house on Jones Street.  Such a beautiful street at dusk.  We plan to come back in the future.
+Show more
+Bridget
+Durham, New Hampshire
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed with kids
+Excellent location and within walking distance to many Savannah sites.  The house was clean, quiet, comfortable and equipped with convenient amenities.  An overall great experience!
+Show more
+Susan
+Oswego, Illinois
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+Powell’s place on Jones Street was perfect! It was a beautiful home on a beautiful street. It was very walkable to all restaurants and attractions. The beds were very comfortable and my mother-in-law went on and on how she had the best three nights sleep. The kitchen was fully stocked with everything we needed to prepare meals. We appreciated the extra towels. The garden/patio was a peaceful place to sit and enjoy morning coffee. We would definitely consider staying here again. Thank you!
+Show more
+Chris
+Nashville, Tennessee
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+Absolute fantastic location!
+Show all 268 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+As stated above the house is located on historic Jones St putting it almost perfectly in the center of the historic district, within minutes on foot to top attractions. The house is located next door to the famous Clary's Cafe, a superb century-old diner that was one of the central locations in the novel and movie, Midnight in the Garden of Good and Evil; and across the street from the Tish Mansion, the second most expensive house to ever sell in downtown Savannah.
+
+In less than five minutes you can walk to many great attractions including idyllic Forsyth Park (the prettiest city park I have seen), the Mansion of Forsyth (one of the nicest hotel bars in town), Mrs. Wilkes House (the best friend chicken I have ever had), Crystal Beer Parlor (another century old establishment that used to be a speak easy, serving the best burgers in town), Six Pence (the best pub food in town), Griffin Tea Room (an old apothecary turned into a English tea room with one of the best brunches in town, Piny Master's (considered one of the best bars in the south with a very interesting history; a very laid back casual spot), Mcdonough's Irish Pub (my favorite bar with Karaoke every night), St. John the Baptist Cathedral and Congregation Mickve Israel Synagogue (two must see architectural beauties), The Mercer-Williams house (the main setting of Midnight in the Garden of Good and Evil), and many more coffee shops, bars, restaurants and attractions. Most of the other downtown/historic district attractions and restaurant/bars are no more than a 10-15 minute walk, with the farthest few only being 20 minutes. For example, the famous River Street is only a 15 minute walk or less from where you will be staying.
+Show more
+Meet your host
+Powell
+Superhost
+318 reviews
+318
+Reviews
+4.98 out of 5 average rating
+4.98
+Rating
+12 years of hosting
+12
+Years hosting
+Born in the 80s
+Where I went to school: Auburn University
+I am a retired army helicopter pilot, now a writer and investor, originally from Montgomery, Alabama. I've lived in Savannah for over a decade and now I split time in Mexico City where I was living full-tine for 4 years. It would be my pleasure to share my knowledge of either city with you.
+Powell is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 2:00 AM
+Checkout before 12:00 PM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Mansion vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

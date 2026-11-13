@@ -1,1 +1,2 @@
 * -text
+raw_data/Parcel_Digest_2025.geojson filter=lfs diff=lfs merge=lfs -text

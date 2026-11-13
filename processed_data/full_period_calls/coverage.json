@@ -1,0 +1,23 @@
+{
+  "date_start": "2024-01-01",
+  "date_end": "2026-10-16",
+  "exposure_days": 1020,
+  "exposure_years": 2.7926078028747434,
+  "parking_date_start": "2024-01-01",
+  "parking_date_end": "2024-09-20",
+  "parking_exposure_years": 0.7227926078028748,
+  "raw_rows": 146213,
+  "early_matched_calls": 2587,
+  "published_matched_calls": 5661,
+  "combined_calls": 8248,
+  "conflicting_call_numbers": 0,
+  "source_sha256": {
+    "data.js": "26b7ccc8a66b688f20a98f1f4b009fded18283c440d9472fc30b0b51f07039c6",
+    "parcel_rates.csv": "e138c0ce4c6d990269fb9e85ad3421588cc0607971984b223c48c21c7c9f3337",
+    "occupancy_plots/cad_rental_match_audit.csv": "af81ac178e8adad9539869b951957cae91dce416c5c8be29546f9d96424d9b2c",
+    "neighborhood_occupancy_plots/digest_parcel_addresses.csv": "837b05664095c9094a97cf7162ef2813f652d573283bb28c28a9993ac00317dc",
+    "processed_data/licenses/licenses_normalized.csv": "9fb9c2a0278a41ba84c30e823fce8141f9d5c3395354fd7938db29046c03c84e",
+    "processing/entire_call_period.py": "0f5e3da45b57e391762d74523349e53efe0832809451af12b24c1d6427555d4d"
+  },
+  "source_coverage_note": "Uses every available date. Later publication is a retained/filtered extract, not the full source CAD. Parking coverage exists only in the early raw CAD window. Complete category coverage over the entire span is not established."
+}

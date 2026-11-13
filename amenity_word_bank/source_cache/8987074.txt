@@ -1,0 +1,500 @@
+URL: https://www.airbnb.com/rooms/8987074
+Title: Peaceful Weekday Retreat on Greene Sq Downtown
+Latitude: 32.0762
+Longitude: -81.0866
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Nicole
+Host ID: 43070670
+Host profile ID: 1465639507400625549
+Host URL: https://www.airbnb.com/users/profile/1465639507400625549
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+SVR00250: Gingerbread Cottage on Greene Square
+
+Experience Savannah like a local from this storybook cottage on Greene Square. Relax in a peaceful historic setting while being just minutes from River Street, shops, and restaurants. A cozy, unforgettable stay in the city’s most beautiful neighborhood
+
+Excellent location - 2 bedrooms 1 king & 1 queen bed, 1.5 bathrooms. Enjoy the views of the square from the cozy front porch & unwind in the private courtyard. 
+
+On street parking readily available
+
+The space
+Gingerbread Cottage on Greene Square FB
+
+2 bedrooms and a full bathroom are located upstairs. Living room, dining room, kitchen and a half bathroom are located on the first floor. House has a large front porch and private courtyard. 
+
+We do nightly rentals as well as monthly rentals. Inquire for more information.
+
+Guest access
+Guests will receive a unique code for the front door which makes check in a breeze!
+
+Other things to note
+Parking is on street metered parking $1.50 per hour or max of $18/day - The Flowbird app makes this very convenient. Parking is easy to find close to the house. There is a discount on parking through the city of Savannah parking services. Inquire for more info.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Park view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Hangers
+Bed linens
+Cotton linens
+Iron
+Clothing storage: closet and dresser
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Standalone high chair - available upon request
+With food tray
+Board games
+Heating and cooling
+Air conditioning
+Indoor fireplace
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+LG refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Oven
+Hot water kettle
+Coffee maker: drip coffee maker, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Private patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Outdoor kitchen
+BBQ grill: gas
+Parking and facilities
+Paid parking garage off premises
+Paid parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Cleaning available during stay
+Not included
+Unavailable: Essentials
+Essentials
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Peaceful Weekday Retreat on Greene Sq Downtown
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+67 reviews
+67
+Reviews
+Hosted by Nicole
+Superhost · 7 years hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+On Greene Square, Historic District
+Right on Greene Square, about a 5-min walk to the Owens-Thomas House and River Street beyond
+Porch with a view of the square
+A large front porch overlooking the square, where guests love watching horse-drawn carriages pass by
+Nicole goes above and beyond
+Guests highlight Nicole's responsiveness, local tips, and thoughtful touches throughout the stay
+SVR00250: Gingerbread Cottage on Greene Square
+
+Experience Savannah like a local from this storybook cottage on Greene Square. Relax in a peaceful historic setting while being just minutes from River Street, shops, and restaurants. A cozy, unforgettable stay in the city’s most beautiful neighborhood
+
+Excellent location - 2 bedrooms 1 king & 1 queen bed, 1.5 bathrooms. Enjoy the views of the square from the cozy front porch & unwind in the private courtyard. 
+
+On street parking readily available
+
+The space
+Gingerbread Cottage on Greene Square FB
+
+2 bedrooms and a full bathroom are located upstairs. Living room, dining room, kitchen and a half bathroom are located on the first floor. House has a large front porch and private courtyard. 
+
+We do nightly rentals as well as monthly rentals. Inquire for more information.
+
+Guest access
+Guests will receive a unique code for the front door which makes check in a breeze!
+
+Other things to note
+Parking is on street metered parking $1.50 per hour or max of $18/day - The Flowbird app makes this very convenient. Parking is easy to find close to the house. There is a discount on parking through the city of Savannah parking services. Inquire for more info.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Park view
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Private patio or balcony
+Show all 58 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 67 reviews.
+5.0
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+34
+Location
+49
+Parking
+18
+Hospitality
+47
+Outdoor spaces
+19
+Comfort
+23
+Family
+15
+Nearby
+15
+Cleanliness
+16
+Indoor spaces
+16
+Rob
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+The Gingerbread House had everything we needed for a wonderful stay in Savannah. Nicole was a wonderful host and so incredibly responsive and proactive. The two bedrooms are really ample-sized and on the top floor, while the living room seats so many and has a huge television come on and this whole separate dining room and a kitchen has everything you need. There was a great little sitting area out back although we didn't use it much because of the weather. The best thing of all? THE FRONT PORCH. In fact, we spent our entire last day and the Airbnb sitting on the front porch all day long. The breeze from the fan, watching people enjoying Greene Square across the street, and listening to the many tour-goers on buses, Segways and bikes really made the trip special. We even got to sit through two or three thunderstorms, watch the Spanish moss sway the wind all around us, even learned all about our block just listening in on the tours going by the house! Would definitely stay here again.
+Show more
+Gabe
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Stayed a few nights
+This is one of the best stays in Savannah. The house carries such a unique charm and we loved just sitting on the porch watching the square. Location is great, you will hardly need to drive if you’re not leaving the historic district. Also, Nicole is an amazing host. Smooth and easy check in, quick replies whenever needed and even extended the checkout time without us even asking!
+Show more
+Jennifer
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Wow! Beautiful charming historical house, surprisingly spacious. Immaculately clean and every detail thought of. Very comfortable and peaceful. Gorgeous spot on the square. Easy parking. Quintessential Savannah! 
+Excellent hosts - so friendly, responsive - and flexible. Great local recommendations too! Exceeded my expectations on every level. Perfect front porch and private backyard courtyard. One of the best Airbnbs I’ve stayed at. Highly recommend. I hope to be back!
+Show more
+Cameron
+Washington, District of Columbia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Really great hosts and location. Host was easy to communicate with, and the place was really special, close to everything. Easy as well to get the accomodations required for our infant. Would recommend this place for anyone especially families.
+Show more
+Misty
+Grovetown, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Beautiful historic home within walking distance of so many things you want to see and do! The home was comfortable and roomy! Will definable book again next time we go to Savannah!
+Show more
+Stefanie
+Washington, Utah
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+We absolutely loved our stay here! The house was perfect in every way. It was charming, cozy, and full of character. Everything was clean, welcoming, and thoughtfully put together.
+The bed was incredibly comfortable, which made it easy to relax after a day of exploring Savannah. We truly felt at home during our stay.
+I would absolutely recommend this house to anyone visiting Savannah and would gladly stay here again. Such a cute and wonderful place!
+Show more
+Show all 67 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Forsyth Park
+Park
+Greene Square
+Park
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+The home is conveniently located within walking distance to all downtown has to offer. The welcoming porch allows you to rest and enjoy the views of Greene Square after a long day of sightseeing.
+Show more
+Meet your host
+Nicole
+Superhost
+73 reviews
+73
+Reviews
+5.0 out of 5 average rating
+5.0
+Rating
+7 years of hosting
+7
+Years hosting
+Where I went to school: South University Savannah
+Favorite song in high school: I wanna dance with somebody
+I am originally from NJ but moved to Savannah in 2006 and never left! I am a pharmacist by trade but I love real estate and renovating houses! My husband and I also love to travel with our 2 kids and try to fit it in whenever we can! Our favorite destination and hopefully where we’ll retire is Key West!
+Nicole is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Victor
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+House vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

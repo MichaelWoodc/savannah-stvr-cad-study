@@ -1,0 +1,8 @@
+label,cell_properties,status,extra_interaction_rate_ratio,p_value
+Grill / BBQ + Hot tub / Jacuzzi,16 | 87 | 13 | 356,estimated,3.3994444605835814,0.10621769852814565
+Grill / BBQ + Hot tub / Jacuzzi,17 | 91 | 18 | 346,estimated,4.432209252411876,0.05526434509323377
+Outdoor dining + Swimming pool,23 | 98 | 77 | 274,cross-listing pairs differ from same-listing pairs; synergy not estimated,,
+Patio / deck / balcony / porch + Swimming pool + 8+ advertised guests,71 | 229 | 29 | 143,capacity-conditioned pattern; not a two-feature synergy test,,
+Cocktails / spirits + Patio / deck / balcony / porch + 6+ advertised guests,55 | 20 | 245 | 152,capacity-conditioned pattern; not a two-feature synergy test,,
+Patio / deck / balcony / porch + Swimming pool + 8+ advertised guests,67 | 213 | 31 | 161,capacity-conditioned pattern; not a two-feature synergy test,,
+Cocktails / spirits + Yard / garden / courtyard + 6+ advertised guests,54 | 21 | 256 | 141,capacity-conditioned pattern; not a two-feature synergy test,,

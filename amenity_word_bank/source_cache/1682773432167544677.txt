@@ -1,0 +1,381 @@
+URL: https://www.airbnb.com/rooms/1682773432167544677
+Title: Jones St Retreat Full of Whimsy and Charm
+Latitude: 32.071
+Longitude: -81.0882
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah And Mike
+Host ID: 216769479
+Host profile ID: 1469138348787936766
+Host URL: https://www.airbnb.com/users/profile/1469138348787936766
+Bedrooms: 2
+Occupancy (maximum guests): 5
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 4
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+Living room
+1 sofa bed
+
+=== FULL DESCRIPTION ===
+Stay above the treetops on iconic Jones Street in this eclectic mariner cottage retreat. This private, second-floor condo features two bedrooms (one with king bed and a second, lofted third-floor bedroom with two twin beds), a cozy den with pullout sofa, full kitchen, large dining room, and charming balcony overlooking the shared courtyard below, perfect for those warm summer evenings! Parking on our block is free but our location is incredibly walkable to all downtown has to offer!
+
+SVR 03180
+
+The space
+Welcome to your private retreat on iconic Jones Street in the Landmark Historic District of Savannah. This unique and character-filled condo occupies the entire second and third floors of a historic mariner cottage duplex, offering guests an authentic Savannah experience surrounded by timeless architectural charm.
+
+Accessed through your private entrance at the top of the interior stairs, the condo combines historic details with comfortable modern living in one of Savannah’s most desirable downtown locations. Original architectural elements and old-world character have been thoughtfully preserved throughout the home, creating a warm and inviting atmosphere that feels distinctly Savannah.
+
+The second floor features a spacious primary bedroom with a king bed (and TV), a full bathroom, washer/dryer laundry facilities, a fully stocked kitchen, cozy den (with pull-out sofa, perfect for that extra guest), and a beautiful large dining room with an oversized table perfect for gathering with family and friends, sharing meals, or working remotely. Just off the kitchen, guests can enjoy a private balcony — an ideal spot for morning coffee or evening cocktails beneath the Spanish moss.
+
+Upstairs on the third floor, the loft-style bedroom includes two twin beds tucked beneath the historic roofline, creating a charming and cozy hideaway full of personality. This spacious room also has a small reading nook area to get away from it all, as well as a TV, just in case the kids want to watch their own thing!
+
+Descend the outdoor spiral staircase and you'll find the shared courtyard patio featuring seating areas, a picnic table, and grill — a lovely outdoor space to unwind and enjoy Savannah’s relaxed pace.
+
+Located in the heart of downtown Savannah, you’ll be just steps from historic squares, restaurants, shops, parks, and the riverfront while staying on one of the city’s most famous and picturesque streets.
+
+Guest access
+The entire second floor condo (and third floor loft) of this duplex is yours! Once you enter the front door, guests will find their private entrance for condo B immediately up the interior stairs. The courtyard is a shared space with guests who may be staying in the unit below.
+
+Other things to note
+This mariner cottage row home has two units - ask about booking both for larger parties! Check our profile for pictures of the other listing.
+
+You are staying in the second floor condo of this historic duplex. As such, we always ask guests to be mindful and respectful of those staying in the first floor. 
+
+Please note! We tried to maintain many of the original architectural features, including the two fireplace hearths. However, these are NON-OPERATIONAL (thus, not listed as a fireplace amenity), and are just for aesthetic appeal and a bit of old-world charm!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Exterior security cameras on property
+There is an exterior security camera located outside at the front door to ensure the safety and security of our guests and the premises.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Jones St Retreat Full of Whimsy and Charm
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+5 guests · 2 bedrooms · 4 beds · 1 bath
+No reviews yet
+No reviews yet
+Hosted by Sarah And Mike
+Superhost · 8 years hosting
+Listing highlights
+In the Historic District on Jones St
+Steps from Troup Square, with the Cathedral of St. John the Baptist about a 5-min walk away
+Balcony beneath the Spanish moss
+A private balcony off the kitchen, tucked beneath the Spanish moss and overlooking the courtyard
+Everyday conveniences included
+A full kitchen, in-unit washer and dryer, and free street parking right out front
+Stay above the treetops on iconic Jones Street in this eclectic mariner cottage retreat. This private, second-floor condo features two bedrooms (one with king bed and a second, lofted third-floor bedroom with two twin beds), a cozy den with pullout sofa, full kitchen, large dining room, and charming balcony overlooking the shared courtyard below, perfect for those warm summer evenings! Parking on our block is free but our location is incredibly walkable to all downtown has to offer!
+
+SVR 03180
+
+The space
+Welcome to your private retreat on iconic Jones Street in the Landmark Historic District of Savannah. This unique and character-filled condo occupies the entire second and third floors of a historic mariner cottage duplex, offering guests an authentic Savannah experience surrounded by timeless architectural charm.
+
+Accessed through your private entrance at the top of the interior stairs, the condo combines historic details with comfortable modern living in one of Savannah’s most desirable downtown locations. Original architectural elements and old-world character have been thoughtfully preserved throughout the home, creating a warm and inviting atmosphere that feels distinctly Savannah.
+
+The second floor features a spacious primary bedroom with a king bed (and TV), a full bathroom, washer/dryer laundry facilities, a fully stocked kitchen, cozy den (with pull-out sofa, perfect for that extra guest), and a beautiful large dining room with an oversized table perfect for gathering with family and friends, sharing meals, or working remotely. Just off the kitchen, guests can enjoy a private balcony — an ideal spot for morning coffee or evening cocktails beneath the Spanish moss.
+
+Upstairs on the third floor, the loft-style bedroom includes two twin beds tucked beneath the historic roofline, creating a charming and cozy hideaway full of personality. This spacious room also has a small reading nook area to get away from it all, as well as a TV, just in case the kids want to watch their own thing!
+
+Descend the outdoor spiral staircase and you'll find the shared courtyard patio featuring seating areas, a picnic table, and grill — a lovely outdoor space to unwind and enjoy Savannah’s relaxed pace.
+
+Located in the heart of downtown Savannah, you’ll be just steps from historic squares, restaurants, shops, parks, and the riverfront while staying on one of the city’s most famous and picturesque streets.
+
+Guest access
+The entire second floor condo (and third floor loft) of this duplex is yours! Once you enter the front door, guests will find their private entrance for condo B immediately up the interior stairs. The courtyard is a shared space with guests who may be staying in the unit below.
+
+Other things to note
+This mariner cottage row home has two units - ask about booking both for larger parties! Check our profile for pictures of the other listing.
+
+You are staying in the second floor condo of this historic duplex. As such, we always ask guests to be mindful and respectful of those staying in the first floor. 
+
+Please note! We tried to maintain many of the original architectural features, including the two fireplace hearths. However, these are NON-OPERATIONAL (thus, not listed as a fireplace amenity), and are just for aesthetic appeal and a bit of old-world charm!
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 4 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+2 single beds
+
+Living room
+1 sofa bed
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Exterior security cameras on property
+Show all 55 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+No reviews (yet)
+This host has 1,061 reviews for other places to stay. Show other reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Located in the heart of the historic district, on the famous Jones St., which has been aptly labeled "The Most Beautiful Street in the USA!"
+
+- 0.8 miles to River Street
+- 0.5 miles to Forsyth Park
+- 0.3 miles to the Cathedral Basilica of St. John the Baptist
+- 0.3 miles to Colonial Park Cemetery
+- 1.0 miles to City Market
+Show more
+Meet your host
+Sarah And Mike
+Superhost
+1,061 reviews
+1061
+Reviews
+4.89 out of 5 average rating
+4.89
+Rating
+8 years of hosting
+8
+Years hosting
+My work: Psychologist & Pilot
+Speaks English
+Adopted Savannahians, but self-proclaimed locals! We fell in love in Savannah and now call it home! We both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of our pup, Bunny. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want an unforgettable Savannah stay!
+Sarah And Mike is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 10:00 AM
+5 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Heights without rails or protection
+Carbon monoxide alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

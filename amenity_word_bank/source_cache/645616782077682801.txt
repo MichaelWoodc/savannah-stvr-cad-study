@@ -1,0 +1,486 @@
+URL: https://www.airbnb.com/rooms/645616782077682801
+Title: Liberty House, Historic Home | Centrally Located
+Latitude: 32.0743
+Longitude: -81.0908
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Constructed in 1868 for John Hernandez, the Liberty House is your quintessential historic Savannah townhome.  With 2 bedrooms featuring 1 king, and 1 queen bed, this immaculate townhome will carry you to Savannah’s Colonial past. Boasting incredible stone fireplaces, William and Mary style furniture, and a beautiful, shared garden patio, your stay will be marked with high-class features that are truly authentic in Savannah.
+SVR-02574
+
+The space
+Original in 1868, the Liberty House was the second home on East Liberty Street built for John Hernandez. Listed in Savannah’s city directories as a confectioner from St. Augustine, Florida, Mr. Hernandez is believed to have raised his family of four children in the home before selling the property in retirement. Since its construction, this authentic Savannah townhome has been meticulously cared for boasting original stone fireplaces, stair banisters, hard oak flooring, and incredible custom trim work. 
+Enter the property one of two ways, either from the ascending staircase on Liberty Street or through the private off-street parking at the rear of the property. As you enter the townhome you will be immediately awestruck by the preserved colonial past that is captured throughout the home. In the front of the home, you will find the formal living room with floor-to-ceiling windows, an original fireplace, high ceilings, and William and Mary furniture. Directly off this space is the formal dining room with a large hardwood dining table set for 6, a colonial-inspired chandelier, and stunning built-in bookshelves. 
+Along the main hallway connecting the townhome from front to back find the main floor powder room along with beautiful artwork. Follow the hallway to the rear of the property where a modernized gourmet galley kitchen awaits you. This fully appointed kitchen boasts high-end appliances, stone countertops, custom cabinetry, and a butler’s nook. Find everything you need to cook delicious meals including cooking utensils, pots, pans, and dishware. A microwave and a coffee maker are provided. 
+Directly off the kitchen is the den presenting a comfortable sofa, chairs, and smart TV perfect for all your streaming needs. Step out on the back terrace and follow the staircase down to the shared garden patio. The ample room allows you to spread out and enjoy beautiful Savannah mornings and evenings under the shade of live oak trees, cathedral spires, and high privacy walls. 
+On the third level of the building find the two private bedrooms. In the master suite enjoy a brand-new king mattress, personal fireplace wrapped in granite, closet and dresser storage, and shuttered windows original to the home. The second bedroom features a new queen mattress, fireplace, and closet and dresser storage. Both private bedrooms feature their own bathrooms, well-appointed with everything you need from bath towels, hand towels, shampoo, and body wash.
+Working remotely during your stay? The townhome has ample desk space and high-speed WIFI perfect for video conferencing and multi-tasking.
+
+SVR-02574
+
+Guest access
+You may access the entire parlor level and the outdoor courtyard space past the bottom of the stairs. The outdoor courtyard is the only shared space between you and the ground floor unit. The green dining set below the staircase is for the downstairs unit, and the larger black table and fire pit is for your use.
+
+Other things to note
+Absolutely no parties. 
+Only the number of guests listed on the reservation is permitted at the property. 
+No illicit activities, peddling, or soliciting are allowed on the property. 
+Do not smoke on the property or near the home. Clean up all smoke butts. 
+Must be 21 years of age to drink alcohol. 
+Report all damaged property to the property owner immediately. 
+Treat the apartment with respect, as if it was your own property. 
+The green dining set below the staircase is for the downstairs unit, and the larger black table and fire pit is for your use.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Family
+Children’s dinnerware
+Heating and cooling
+Central air conditioning
+Indoor fireplace
+Heating
+Home safety
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free parking on premises
+Free street parking
+EV charger
+Guests can charge their electric vehicles on the property
+Paid parking off premises
+Services
+Self check-in
+Smart lock
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+There is a Ring doorbell in the front and back for security purposes only.
+Unavailable: Smoke alarm
+Smoke alarm
+There is no smoke alarm on the property.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Liberty House, Historic Home | Centrally Located
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 3 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+179 reviews
+179
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Lafayette Square is right outside, with Chippewa Square about a 5-min walk
+Restored 1868 townhome
+An 1868 townhome with original stone fireplaces, hardwood floors, and period antiques
+Loved for location and character
+Guests highlight the walkable location, comfortable beds, and authentic historic character
+Constructed in 1868 for John Hernandez, the Liberty House is your quintessential historic Savannah townhome.  With 2 bedrooms featuring 1 king, and 1 queen bed, this immaculate townhome will carry you to Savannah’s Colonial past. Boasting incredible stone fireplaces, William and Mary style furniture, and a beautiful, shared garden patio, your stay will be marked with high-class features that are truly authentic in Savannah.
+SVR-02574
+
+The space
+Original in 1868, the Liberty House was the second home on East Liberty Street built for John Hernandez. Listed in Savannah’s city directories as a confectioner from St. Augustine, Florida, Mr. Hernandez is believed to have raised his family of four children in the home before selling the property in retirement. Since its construction, this authentic Savannah townhome has been meticulously cared for boasting original stone fireplaces, stair banisters, hard oak flooring, and incredible custom trim work. 
+Enter the property one of two ways, either from the ascending staircase on Liberty Street or through the private off-street parking at the rear of the property. As you enter the townhome you will be immediately awestruck by the preserved colonial past that is captured throughout the home. In the front of the home, you will find the formal living room with floor-to-ceiling windows, an original fireplace, high ceilings, and William and Mary furniture. Directly off this space is the formal dining room with a large hardwood dining table set for 6, a colonial-inspired chandelier, and stunning built-in bookshelves. 
+Along the main hallway connecting the townhome from front to back find the main floor powder room along with beautiful artwork. Follow the hallway to the rear of the property where a modernized gourmet galley kitchen awaits you. This fully appointed kitchen boasts high-end appliances, stone countertops, custom cabinetry, and a butler’s nook. Find everything you need to cook delicious meals including cooking utensils, pots, pans, and dishware. A microwave and a coffee maker are provided. 
+Directly off the kitchen is the den presenting a comfortable sofa, chairs, and smart TV perfect for all your streaming needs. Step out on the back terrace and follow the staircase down to the shared garden patio. The ample room allows you to spread out and enjoy beautiful Savannah mornings and evenings under the shade of live oak trees, cathedral spires, and high privacy walls. 
+On the third level of the building find the two private bedrooms. In the master suite enjoy a brand-new king mattress, personal fireplace wrapped in granite, closet and dresser storage, and shuttered windows original to the home. The second bedroom features a new queen mattress, fireplace, and closet and dresser storage. Both private bedrooms feature their own bathrooms, well-appointed with everything you need from bath towels, hand towels, shampoo, and body wash.
+Working remotely during your stay? The townhome has ample desk space and high-speed WIFI perfect for video conferencing and multi-tasking.
+
+SVR-02574
+
+Guest access
+You may access the entire parlor level and the outdoor courtyard space past the bottom of the stairs. The outdoor courtyard is the only shared space between you and the ground floor unit. The green dining set below the staircase is for the downstairs unit, and the larger black table and fire pit is for your use.
+
+Other things to note
+Absolutely no parties. 
+Only the number of guests listed on the reservation is permitted at the property. 
+No illicit activities, peddling, or soliciting are allowed on the property. 
+Do not smoke on the property or near the home. Clean up all smoke butts. 
+Must be 21 years of age to drink alcohol. 
+Report all damaged property to the property owner immediately. 
+Treat the apartment with respect, as if it was your own property. 
+The green dining set below the staircase is for the downstairs unit, and the larger black table and fire pit is for your use.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+EV charger
+Free washer – In unit
+Free dryer
+Central air conditioning
+Unavailable: Smoke alarm
+Smoke alarm
+Show all 40 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 179 reviews.
+4.96
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+76
+Location
+133
+Decor
+55
+Nearby
+46
+Parking
+27
+Comfort
+35
+Indoor spaces
+44
+Hospitality
+71
+Sleep quality
+20
+Parks
+4
+Sarah
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+3 days ago
+,
+·
+Stayed a few nights
+Charming house with a great location. Walkable neighborhood close to restaurants, shops and all the squares!
+Sandra
+Port Orange, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Wonderful accommodations! Loved the house and location! Easily accessible to shopping and excursions. Beds were comfortable! Felt like home!
+Kay
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This is a wonderful place to stay. Great location to restaurants and activities. Lovely home with comfortable beds and beautiful furnishings. Communication was easy with quick responses.
+Show more
+Erin
+Tampa, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We absolutely loved our stay at this Airbnb! It completely embodied classic Savannah interior design, with beautiful antiques that are thoughtfully placed and decorated. High quality furniture and linens, and the place was spotless. Easily the cleanest Airbnb I’ve stayed in. I will look for this place next time I come back to Savannah!
+Show more
+Mark
+Cleveland, Ohio
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We were very happy with this property. It’s less than five minutes’ walk from Gallery Espresso, our go-to morning spot, and there are many other great businesses and beautiful historic homes close at hand. The rear parking and gated patio are nice, and we liked having a two-level unit (although we found, unsurprisingly, that the top floor is hard to cool with the first floor being quite cold). The decor was nice with what we consider a typical historic Savannah feel—much preferred over the many places that try to look like an HGTV project devoid of any character. Kudos to the hosts for resisting  bland and colorless modernity.
+Show more
+Jason
+Washington, District of Columbia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Charming home in a great central location. It's an older house, but it's comfortable, fairly well maintained, and had all the amenities we needed.
+Some reviews mention street noise. We used white noise while sleeping and found it largerly to be a non-issue.
+One thing future guests should know is that, although the listing appears to be hosted by "Brandon & Chase," it's actually managed by a property management company. That felt a bit misleading and made the experience less personal.
+The automated check-in and check-out messages were clear and helpful. However, communication beyond those messages was disappointing. We had a pre-trip question that wasn't answered until my wife followed up, and a question during our stay never received a response. Fortunately, we didn't have any serious issues, because based on our experience, I'm not confident an urgent problem would have been handled as promptly as expected. Overall, we enjoyed our stay.
+Show more
+Show all 179 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Looking to be right in the heart of everything downtown Savannah has to offer? Near the historic Colonial Park Cemetery, the Hernandez House is in the North Historic District and boasts incredible access to all the best attractions, eats, and pubs.
+Nestled on Liberty Street, a split city road featuring coble stone curbs, old-growth trees, and historic architecture, you will be surrounded by Savannah’s rich past. Steps from your door you can find yourself in one of the many small squares including Lafayette Square, Chippewa Square, Crawford Square, and Madison Square. History abounds with sites like Harper Fowlkes House, Savannah Theatre, Telfair Museums, Beach Institute of African American Culture, and many more.
+Excite your taste buds with the many amazing restaurants all a stone’s throw from the apartment. Grab incredible southern dishes at the highly-rated Mrs. Wilkes Dining Room. Craving a diner? Check out Clary’s Café. Want your favorite vegan dish? Fox and Fig Café is minutes away. Jumpstart your hunger by taking a slightly longer 16-minute to the Savannah River Street for more incredible dining like The Lady & Sons, Vic’s on the River, The Olde Pink House, and Treylor Park.
+Fancy a pint? Stop into Six Pence Pub, a British-inspired pub, just minutes down liberty street. Looking for that small dive bar? Check out The Original Pinkie Masters for a cash-only bar with great deals and incredible staff. Need the perfect cocktail? Slide over to the Artillery Bar, a sophisticated speakeasy in a restored armory with imaginative cocktails and an extensive bourbon list. Want to enjoy your drinks in a funky art-inspired bar/restaurant? Check out Savoy Society. A homey bar/restaurant where pups are even welcomed!
+Looking to do some local shopping or curb that sweet tooth? Take the short walk over to the historic City Market and enjoy four blocks of storefronts and restaurants including Savannah’s Candy Kitchen, The Little Crown by Pie Society, and Tree House Savannah, an incredible spot with a rooftop balcony, live music, and more. All right in the City Market!
+Want to take it all in at once while riding or biking? We are just minutes away from Old Town Trolley Tours of Savannah and Savannah Bike Tours.
+Getting around is easy with walkable streets, bike rentals, and uber service. Jump on Savannah’s public transit system with the Abercorn & Liberty SB stop just a 1-minute walk from Liberty Garden. Looking to travel via the Savannah River? Try out the Savannah Belles Ferries to see the beautiful skyline of Savannah from the riverfront.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+No smoke alarm
+Carbon monoxide alarm
+Some spaces are shared
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

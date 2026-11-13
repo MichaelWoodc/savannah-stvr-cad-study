@@ -1,0 +1,488 @@
+URL: https://www.airbnb.com/rooms/1376756361241599882
+Title: Luxurious Loft Overlooking River w/ Rooftop Deck
+Latitude: 32.0812
+Longitude: -81.09
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+This premier vacation rental offers panoramic views of River Street, a rare rooftop deck, and an abundance of natural light. Nestled in a historic 1859 building, this beautifully restored space seamlessly blends Southern charm with modern elegance.
+
+The space
+Welcome to High Cotton, a one-of-a-kind luxury loft in the heart of Savannah’s Historic District. This premier vacation rental offers panoramic views of River Street, a rare rooftop deck, and an abundance of natural light. Nestled in a historic 1859 building, this beautifully restored space seamlessly blends Southern charm with modern elegance. Park your car and explore Savannah on foot—you’re just steps away from world-class dining, shopping, and historic landmarks!
+
+What Makes High Cotton Unique?
+
+- Unrivaled Historic Elegance & Modern Comfort:  Housed in a pre-Civil War building constructed with authentic Savannah gray bricks, High Cotton sits alongside the famed Factors’ Walk—once the heart of the city’s cotton trade. With its rich history and carefully preserved architecture, this loft offers an unforgettable glimpse into Savannah’s storied past while providing every modern luxury.
+
+- Bright & Airy Open Floor Plan: From the moment you ascend the stairs, you’ll step into an architectural masterpiece designed for entertaining. This sun-drenched loft features a chef’s kitchen with high-end appliances, custom cabinetry, and a formal dining area. The spacious gathering room is perfect for unwinding after a day of exploring Savannah’s historic squares, museums, and waterfront attractions.
+
+- Breathtaking River Views & Private Rooftop Deck: A true rarity in Savannah, High Cotton boasts a sprawling rooftop deck, offering unobstructed sunrise and sunset views over the Savannah River. Enjoy your morning coffee while watching cargo ships glide by or sip cocktails under the stars. On the opposite side, you’ll catch glimpses of Bay Street and Savannah’s famous St. Patrick’s Day Parade route!
+
+Luxury Accommodations for a Relaxing Stay:
+Located on the main level, the serene primary suite features a king-size bed, smart TV, generous storage, and a spa-inspired ensuite bathroom with a walk-in shower and indulgent soaking tub. The lofted second bedroom is accessed via a charming spiral staircase, this cozy space offers a queen-size bed, a dedicated workspace, and another ensuite bathroom with a walk-in shower—perfect for remote work or a peaceful getaway.
+
+Experience Savannah Like a Local - With its unbeatable location, High Cotton places you steps away from Savannah’s most beloved attractions, including:
+- River Street’s vibrant shops, restaurants, and rooftop bars
+- Bay Street's picturesque Spanish moss-draped oaks
+- The Savannah Historic District’s charming cobblestone streets and squares
+- Ghost tours, carriage rides, and historic house museums
+
+Whether you’re visiting for a romantic getaway, a family vacation, or a girls’ weekend, High Cotton offers an unforgettable stay in the heart of Savannah’s history. Experience Southern charm, timeless history, and unmatched luxury at High Cotton!
+
+*Please note: This home is a second-story walk-up, requiring guests to use a staircase to reach the main level. Additionally, the second bedroom and rooftop deck are accessible only via a spiral staircase.*
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: Queen Bed
+
+What is parking like for this home?
+Guests will have access to one private parking space in a nearby parking garage - all other additional parking can be found on-street and metered within the area.
+
+SVR-03115
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Clothing storage: closet and dresser
+Entertainment
+TV with standard cable
+Bluetooth sound system
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: drip coffee maker, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Outdoor furniture
+Outdoor dining area
+Sun loungers
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Luxurious Loft Overlooking River w/ Rooftop Deck
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+24 reviews
+24
+Reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Historic District on the river
+Right on River Street, with Johnson Square and City Market about a 5-min walk away
+Rooftop deck with river views
+A private rooftop deck overlooking the Savannah River, with views of cargo ships passing by
+Historic charm guests keep coming back for
+Guests highlight the character of this 1859 building and its walkable location on River Street
+This premier vacation rental offers panoramic views of River Street, a rare rooftop deck, and an abundance of natural light. Nestled in a historic 1859 building, this beautifully restored space seamlessly blends Southern charm with modern elegance.
+
+The space
+Welcome to High Cotton, a one-of-a-kind luxury loft in the heart of Savannah’s Historic District. This premier vacation rental offers panoramic views of River Street, a rare rooftop deck, and an abundance of natural light. Nestled in a historic 1859 building, this beautifully restored space seamlessly blends Southern charm with modern elegance. Park your car and explore Savannah on foot—you’re just steps away from world-class dining, shopping, and historic landmarks!
+
+What Makes High Cotton Unique?
+
+- Unrivaled Historic Elegance & Modern Comfort:  Housed in a pre-Civil War building constructed with authentic Savannah gray bricks, High Cotton sits alongside the famed Factors’ Walk—once the heart of the city’s cotton trade. With its rich history and carefully preserved architecture, this loft offers an unforgettable glimpse into Savannah’s storied past while providing every modern luxury.
+
+- Bright & Airy Open Floor Plan: From the moment you ascend the stairs, you’ll step into an architectural masterpiece designed for entertaining. This sun-drenched loft features a chef’s kitchen with high-end appliances, custom cabinetry, and a formal dining area. The spacious gathering room is perfect for unwinding after a day of exploring Savannah’s historic squares, museums, and waterfront attractions.
+
+- Breathtaking River Views & Private Rooftop Deck: A true rarity in Savannah, High Cotton boasts a sprawling rooftop deck, offering unobstructed sunrise and sunset views over the Savannah River. Enjoy your morning coffee while watching cargo ships glide by or sip cocktails under the stars. On the opposite side, you’ll catch glimpses of Bay Street and Savannah’s famous St. Patrick’s Day Parade route!
+
+Luxury Accommodations for a Relaxing Stay:
+Located on the main level, the serene primary suite features a king-size bed, smart TV, generous storage, and a spa-inspired ensuite bathroom with a walk-in shower and indulgent soaking tub. The lofted second bedroom is accessed via a charming spiral staircase, this cozy space offers a queen-size bed, a dedicated workspace, and another ensuite bathroom with a walk-in shower—perfect for remote work or a peaceful getaway.
+
+Experience Savannah Like a Local - With its unbeatable location, High Cotton places you steps away from Savannah’s most beloved attractions, including:
+- River Street’s vibrant shops, restaurants, and rooftop bars
+- Bay Street's picturesque Spanish moss-draped oaks
+- The Savannah Historic District’s charming cobblestone streets and squares
+- Ghost tours, carriage rides, and historic house museums
+
+Whether you’re visiting for a romantic getaway, a family vacation, or a girls’ weekend, High Cotton offers an unforgettable stay in the heart of Savannah’s history. Experience Southern charm, timeless history, and unmatched luxury at High Cotton!
+
+*Please note: This home is a second-story walk-up, requiring guests to use a staircase to reach the main level. Additionally, the second bedroom and rooftop deck are accessible only via a spiral staircase.*
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: Queen Bed
+
+What is parking like for this home?
+Guests will have access to one private parking space in a nearby parking garage - all other additional parking can be found on-street and metered within the area.
+
+SVR-03115
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Waterfront
+Kitchen
+Wifi
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Bathtub
+Private patio or balcony
+Show all 47 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 24 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+7
+Location
+15
+View
+8
+Decor
+5
+River
+2
+Indoor spaces
+5
+Amenities
+3
+Cleanliness
+3
+Hospitality
+3
+Tonja
+Annapolis, Maryland
+Rating, 5 stars
+,
+·
+4 days ago
+,
+·
+Stayed a few nights
+Just what we needed for a few days get away! In the heart of everything. Walkable to so much!! It was the perfect anchor for our day trips and easy to get back to for quick rests between outings. The loft was amazing! We enjoyed it so much especially the rooftop deck and watching the cargo freighters go by in the evening. You have to see it to believe it! Lucky Savannah was great to work with. Quickly answered questions, very responsive and friendly. The loft was immaculate and all the details were thought of. We had the best time and would stay again in the future!
+Show more
+Rich
+Winston-Salem, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+I am pretty much speedy about this condo and location. Amazing from decor to accessibility! I’ll be back!
+Show more
+Kenneth
+10 years on Airbnb
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Fabulous place to stay!  it was worth every penny.
+Show more
+Ernie
+West Terre Haute, Indiana
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+The location is by far the best.  Spending time on the rooftop deck, you wouldn’t know you’re in the heart of such a busy area. As soon as you’re ready for the liveliness of River Street, you just walk out your door & you’re in it!  Two negatives (but not deal breakers) are: the openness of the lofted space made it & the main bedroom space feel less private than I would’ve liked. But it wasn’t a deal-breaker & the rooftop deck looks bigger in the photos than it really is.  It was still perfect for relaxing afternoons.
+Show more
+Heather
+New Smyrna Beach, Florida
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Great place to stay in Savannah.  Amazing view of the river and right in the middle of the action.
+Show more
+Sonya
+St. Augustine, Florida
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+I loved the location and accommodations and would love to come back .
+Show more
+Show all 24 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,301 reviews
+9301
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Waterfront vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Waterfront vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

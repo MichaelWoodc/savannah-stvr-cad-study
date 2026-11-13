@@ -1,0 +1,434 @@
+URL: https://www.airbnb.com/rooms/1290597812377507154
+Title: Amazing Loft with Parking and Deck above River St
+Latitude: 32.0824
+Longitude: -81.0936
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Built in the 1800s, this one-of-a-kind historic loft has survived more than a century of Savannah history — all to arrive at its current state as one of the most distinctive luxury short-term rentals in the city.
+
+The space
+There are lofts, and then there is Savannah Riverview. Built in the 1800s as part of a cotton warehouse along the Savannah River, this one-of-a-kind historic loft has survived a major fire, a turn as a vocational school, and more than a century of Savannah history — all to arrive at its current state as one of the most distinctive luxury short-term rentals in the city.
+The exposed brick that greets you on the staircase continues throughout the main level. The overhead beams, charred in an early 1900s fire and never replaced, give the space a warmth and character that no renovation could manufacture. This is Savannah's past made livable — and remarkably comfortable.
+
+A private parking space directly in front of the home awaits on arrival — a genuine rarity for a downtown Savannah property this close to the river. Step inside off the street, head up the stairs, and let the views take it from there.
+
+The open kitchen and living room share sweeping views of the Savannah River through large picture windows and French doors that open to a small balcony. The kitchen is fully equipped for a proper home-cooked dinner, though with some of Savannah's best restaurants at the doorstep, reheating leftovers is equally valid. A comfortable linen sleeper sofa and flat-screen TV with cable round out the living room — though the view tends to win.
+
+The primary suite at the front of the home offers a true luxury experience: a queen bed, a dedicated seating area, and a large en-suite bathroom with a separate jetted tub and walk-in shower. After a long day of exploring Savannah, the jetted tub earns its place at the center of the evening plan. The second bedroom is cozier in scale, with a queen bed, bold original artwork, and a large closet. A second full bath with tub/shower combination and generous counter space is located just adjacent — ideal for getting ready for a night on the town.
+
+When the view calls — and it will — head up the extra-wide staircase to the rooftop deck. Sweeping panoramic views of the Savannah River stretch in every direction: First Friday fireworks, 4th of July Celebrations, New Year's festivities on River Street, or a quiet sunset over the water with a glass of wine. There is no better seat in Savannah for any of it.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+Living Room: Queen Sleeper Sofa
+
+Please note, we are unable to host bachelorette/bachelor parties or traveling singles in this home.
+
+SVR- 00652
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Amazing Loft with Parking and Deck above River St
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+6 guests · 2 bedrooms · 3 beds · 2 baths
+Rated 4.73 out of 5 stars.
+4.73
+·
+11 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+Right on Savannah's riverfront
+Steps from the Riverfront Plaza, with City Market and Ellis Square about a 5-min walk away
+Historic loft with original detail
+An 1800s cotton warehouse with charred original beams and exposed brick throughout
+Views guests keep coming back for
+Guests highlight the views and walkability, with several calling out the rooftop deck
+Built in the 1800s, this one-of-a-kind historic loft has survived more than a century of Savannah history — all to arrive at its current state as one of the most distinctive luxury short-term rentals in the city.
+
+The space
+There are lofts, and then there is Savannah Riverview. Built in the 1800s as part of a cotton warehouse along the Savannah River, this one-of-a-kind historic loft has survived a major fire, a turn as a vocational school, and more than a century of Savannah history — all to arrive at its current state as one of the most distinctive luxury short-term rentals in the city.
+The exposed brick that greets you on the staircase continues throughout the main level. The overhead beams, charred in an early 1900s fire and never replaced, give the space a warmth and character that no renovation could manufacture. This is Savannah's past made livable — and remarkably comfortable.
+
+A private parking space directly in front of the home awaits on arrival — a genuine rarity for a downtown Savannah property this close to the river. Step inside off the street, head up the stairs, and let the views take it from there.
+
+The open kitchen and living room share sweeping views of the Savannah River through large picture windows and French doors that open to a small balcony. The kitchen is fully equipped for a proper home-cooked dinner, though with some of Savannah's best restaurants at the doorstep, reheating leftovers is equally valid. A comfortable linen sleeper sofa and flat-screen TV with cable round out the living room — though the view tends to win.
+
+The primary suite at the front of the home offers a true luxury experience: a queen bed, a dedicated seating area, and a large en-suite bathroom with a separate jetted tub and walk-in shower. After a long day of exploring Savannah, the jetted tub earns its place at the center of the evening plan. The second bedroom is cozier in scale, with a queen bed, bold original artwork, and a large closet. A second full bath with tub/shower combination and generous counter space is located just adjacent — ideal for getting ready for a night on the town.
+
+When the view calls — and it will — head up the extra-wide staircase to the rooftop deck. Sweeping panoramic views of the Savannah River stretch in every direction: First Friday fireworks, 4th of July Celebrations, New Year's festivities on River Street, or a quiet sunset over the water with a glass of wine. There is no better seat in Savannah for any of it.
+
+Sleeping Configuration:
+Bedroom 1: Queen Bed
+Bedroom 2: Queen Bed
+Living Room: Queen Sleeper Sofa
+
+Please note, we are unable to host bachelorette/bachelor parties or traveling singles in this home.
+
+SVR- 00652
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Waterfront
+Kitchen
+Wifi
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 32 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.73 out of 5 stars from 11 reviews
+4.73 · 11 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 82% of reviews
+5
+4 stars, 9% of reviews
+4
+3 stars, 9% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.6 out of 5 stars for check-in
+Check-in
+4.6
+Rated 4.6 out of 5 stars for communication
+Communication
+4.6
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+View
+6
+Location
+6
+River
+2
+Walkability
+2
+Sleep quality
+2
+Cleanliness
+2
+Mishka
+Los Angeles, California
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed with kids
+It's the south so there were some bugs upstairs inside  by the patio. But the place is in an awesome location. Has tons of room.  The roof top deck is worth it alone !
+Show more
+Regina M
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Great view on the riverwalk
+Show more
+Greg
+Columbus, Ohio
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Great location and parking. Very clean, we enjoyed our stay
+Show more
+Kerry
+Douglasville, Georgia
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Group trip
+we enjoyed family Christmas in this unit.  was exactly perfect!!
+Show more
+Brian
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+December 2025
+,
+·
+Stayed a few nights
+Great location, great space!  We will definitely be back!
+Show more
+Carie
+Greenville, South Carolina
+Rating, 3 stars
+,
+·
+September 2025
+,
+·
+Stayed a few nights
+The place is really comfortable.  The beds and linens were satisfactory.  The small two chair porch is great but you cannot beat the views from the upper deck!  It’s not very private but a great space to hangout & watch the sunset, ships on the river & people on the street.  Extremely walkable within the city.
+Show more
+Show all 11 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,297 reviews
+9297
+Reviews
+4.68 out of 5 average rating
+4.68
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Waterfront vacation rentals in Savannah
+Waterfront vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

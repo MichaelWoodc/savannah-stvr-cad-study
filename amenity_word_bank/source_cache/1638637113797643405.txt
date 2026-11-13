@@ -1,0 +1,812 @@
+URL: https://www.airbnb.com/rooms/1638637113797643405
+Title: Historic Victorian Home Near Forsyth Park & Yard
+Latitude: 32.06384
+Longitude: -81.10245
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chaz
+Host ID: 414351302
+Host profile ID: 1469886228119285543
+Host URL: https://www.airbnb.com/users/profile/1469886228119285543
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 double bed
+
+=== FULL DESCRIPTION ===
+Welcome to Midnight Magnolia, a 1900 Victorian retreat where historic Savannah charm meets moody, modern design. Just minutes from Forsyth Park in the Historic District, this stylish 3-bedroom, 2-bath home sleeps 6 and offers a private balcony, backyard, dedicated parking, and an unforgettable Savannah experience! Walk to beautiful parks, restaurants, coffee shops, and Savannah’s iconic historic streets, then return to your own private retreat and enjoy the magic of the city. Dog Friendly stay
+
+The space
+Midnight Magnolia
+
+Welcome to Midnight Magnolia, a beautifully restored 1900 Victorian retreat in Savannah’s Historic District, just a short walk from Forsyth Park.
+
+Designed for travelers who want to experience Savannah rather than simply visit it, this spacious 3-bedroom, 2-bath home combines original historic character with moody, modern design and the comforts of a private home.
+
+Start your morning with coffee on the private balcony, spend the day exploring Savannah’s iconic squares, restaurants, boutiques and bars on foot, then come home to your own private backyard.
+
+Inside, you’ll find a comfortable king suite, a queen bedroom with its own sitting area, a third bedroom, two full bathrooms, a fully equipped kitchen, in-unit washer and dryer, dedicated parking and thoughtful touches throughout.
+
+Why guests love Midnight Magnolia:
+
+* About an 8-minute walk to Forsyth Park
+* Located in Savannah’s Historic District
+* Private balcony
+* Private backyard with fire pit and outdoor seating
+* Dedicated off-street parking and free street parking available 
+* 3 bedrooms and 2 full bathrooms
+* Premium Tempur-Pedic mattresses in the primary and second bedrooms
+* Fully equipped kitchen with gas range
+* In-unit washer and dryer
+* Dog-friendly
+* Historic 1900 Victorian architecture
+* Professional cleaning between every stay
+
+Whether you’re visiting Savannah for a weekend getaway, a family trip, a celebration, a wedding, or simply a few days of exploring, Midnight Magnolia gives you the best of both worlds: the character of historic Savannah and the privacy of your own home.
+
+The Space
+
+Primary Suite
+
+A comfortable private retreat featuring a premium Tempur-Pedic king mattress and a private bathroom with a beautifully tiled walk-in shower.
+
+Second Bedroom
+
+A spacious bedroom with a Tempur-Pedic queen mattress and a comfortable sitting area, perfect for relaxing after a day exploring Savannah.
+
+Third Bedroom
+
+A comfortable additional bedroom that works well for families, friends or additional guests.
+
+Living & Dining
+
+A welcoming gathering space designed for relaxing, dining and planning your next Savannah adventure.
+
+Private Balcony
+
+Step outside onto your private balcony overlooking Jefferson Street and take in the atmosphere of Savannah’s historic streets.
+
+Kitchen
+
+The fully equipped kitchen includes a gas range, refrigerator/freezer, filtered water and the essentials needed to prepare meals or enjoy a relaxed night in.
+
+Private Backyard
+
+Enjoy your own outdoor space with seating and a fire pit, perfect for an evening drink, conversation or unwinding after exploring the city.
+
+Laundry
+
+An in-unit washer and dryer are available for your convenience, especially useful for longer stays.
+
+Guest Access
+
+You’ll have private access to the entire second-floor home, including the living spaces, bedrooms, bathrooms, kitchen, balcony and private outdoor areas associated with Midnight Magnolia.
+
+A smart lock provides convenient self check-in.
+
+One dedicated off-street parking space is available near the rear entrance on the Anderson Street side of the property. Additional street parking is generally available nearby; please observe posted signs and street-sweeping restrictions.
+
+Location
+
+One of Midnight Magnolia’s biggest advantages is simple: you can leave the car behind.
+
+Forsyth Park is approximately an 8-minute walk away, putting you close to Savannah’s famous historic streets, architecture, restaurants, coffee shops, bars and green spaces.
+
+Savannah is best experienced on foot, and this location makes it easy to explore the city at your own pace before returning to your private Victorian retreat.
+
+A Note About the Historic Home
+
+Midnight Magnolia was built in 1900, and we’ve intentionally preserved its historic character while updating the home for modern guests.
+
+As with many authentic historic Savannah homes, you may notice a few signs of age and character, including a slight floor variation in the hallway and occasional urban street noise.
+
+There is also no machine dishwasher.
+
+These details are part of what makes the home feel genuinely historic rather than newly constructed, and we want guests to know exactly what to expect before booking.
+
+Cleaning & Comfort
+
+Midnight Magnolia is professionally cleaned between every stay.
+
+Fresh linens and towels are provided, and the home is thoroughly cleaned and prepared before each arrival.
+
+Dogs
+
+Well-behaved dogs are welcome. Please review the house rules for the specific pet requirements and fees.
+
+Savannah Vacation Rental
+
+SVR Certificate: SVR-03241
+
+We’re excited to share Midnight Magnolia with you. If you’re looking for a Savannah stay with historic character, walkable access to Forsyth Park, private outdoor space and the comfort of an entire home, we think you’ll feel right at home here.
+
+A Proven Savannah Stay
+
+Midnight Magnolia was previously operated as The Gnome Home, a highly reviewed Savannah vacation rental that welcomed hundreds of guests and earned a 4.9-star rating across 350+ reviews.
+
+The home has since been refreshed and relaunched as Midnight Magnolia, with updated design, furnishings and amenities while preserving the historic character that made the property special.
+
+Guest access
+Guest Access & Parking
+
+- Free street parking is widely available. Please observe the street signs and move you vehicle when necessary for the street sweeper
+
+- One dedicated off-street parking space is located near the rear entrance on the Anderson Street side of the property. Please park on the left hand side.
+
+- Access to second floor apartment through smart lock to front door and to back door of Midnight Magnolia.
+
+Other things to note
+Helpful Information for Your Stay
+Savannah is one of the most walkable cities in the country, and exploring its historic streets, architecture, and iconic squares on foot is highly recommended.
+
+A few quick notes:
+
+- Emergency services: Dial 9-1-1
+
+- Please use designated crosswalks and follow pedestrian signals.
+
+- Bicycles are a great way to explore, though they are not permitted in city squares or on sidewalks.
+
+- Public parking passes are available through the city for extended stays.
+
+- All required local lodging taxes and fees are included at checkout.
+ 
+SVR Certificate: SVR-03241
+
+Midnight Magnolia is more than a place to stay it’s an experience layered in history, design, and atmosphere. We’re truly excited to host you and can’t wait for you to experience the charm, character, and unforgettable vibe of this unique Savannah retreat.
+
+Things to Note for Your Stay:
+To help set clear expectations and ensure every guest has an amazing experience at Midnight Magnolia, please review the following details about the home and surrounding area.
+
+Historic Character & Unique Design
+Midnight Magnolia is a beautifully restored historic property built in 1900. With that charm comes authentic character that newer construction simply can’t replicate.
+
+- The primary shower features a natural stone floor, which adds to the vintage aesthetic and spa-like feel.
+
+- Because of the home’s age, you may notice small imperfections that reflect its history and originality.
+
+- There is a slight floor dip in the hallway near the kitchen, typical of historic structures.
+
+- Some road noise may be heard at times, as the home sits within a vibrant urban setting.
+
+- There is no machine dishwasher 
+
+- These details add to the authenticity and story of the space!
+
+Neighborhood & Surroundings
+The property is located in a culturally rich and evolving area near Forsyth Park in Savannah, surrounded by historic architecture, local character, and exciting revitalization.
+
+- You’ll be immersed in true Savannah culture with great people and a strong sense of community.
+
+- There are ongoing improvements and development projects on nearby lots as owners continue enhancing the neighborhood.
+
+- This is a very safe area with continued investment and positive transformation underway!
+
+- Savannah’s charm is deeply rooted in its blend of history, culture, and growth, and this location captures that energy.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Safe
+Clothing storage
+Entertainment
+TV
+Arcade games
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Room-darkening shades
+Baby bath - always at the listing
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Central heating
+Radiant heating
+Home safety
+Exterior security cameras on property
+There are security cameras around the exterior of the home.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Gas stove
+Single oven
+Hot water kettle
+Coffee maker: drip coffee maker, Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Fire pit
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Pets allowed
+Assistance animals are always allowed
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Victorian Home Near Forsyth Park & Yard
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+24 reviews
+24
+Reviews
+Hosted by Chaz
+Superhost · 2 years hosting
+Listing highlights
+In the Historic District near Forsyth Park
+About a 5-min walk to Forsyth Park, with restaurants, coffee shops, and historic squares nearby on foot
+Private backyard and balcony
+A private backyard with a fire pit and outdoor seating, plus a balcony overlooking the street
+Spotless home, attentive host
+Guests highlight how comfortable and clean the home is, and many praise Chaz as a responsive host
+Welcome to Midnight Magnolia, a 1900 Victorian retreat where historic Savannah charm meets moody, modern design. Just minutes from Forsyth Park in the Historic District, this stylish 3-bedroom, 2-bath home sleeps 6 and offers a private balcony, backyard, dedicated parking, and an unforgettable Savannah experience! Walk to beautiful parks, restaurants, coffee shops, and Savannah’s iconic historic streets, then return to your own private retreat and enjoy the magic of the city. Dog Friendly stay
+
+The space
+Midnight Magnolia
+
+Welcome to Midnight Magnolia, a beautifully restored 1900 Victorian retreat in Savannah’s Historic District, just a short walk from Forsyth Park.
+
+Designed for travelers who want to experience Savannah rather than simply visit it, this spacious 3-bedroom, 2-bath home combines original historic character with moody, modern design and the comforts of a private home.
+
+Start your morning with coffee on the private balcony, spend the day exploring Savannah’s iconic squares, restaurants, boutiques and bars on foot, then come home to your own private backyard.
+
+Inside, you’ll find a comfortable king suite, a queen bedroom with its own sitting area, a third bedroom, two full bathrooms, a fully equipped kitchen, in-unit washer and dryer, dedicated parking and thoughtful touches throughout.
+
+Why guests love Midnight Magnolia:
+
+* About an 8-minute walk to Forsyth Park
+* Located in Savannah’s Historic District
+* Private balcony
+* Private backyard with fire pit and outdoor seating
+* Dedicated off-street parking and free street parking available 
+* 3 bedrooms and 2 full bathrooms
+* Premium Tempur-Pedic mattresses in the primary and second bedrooms
+* Fully equipped kitchen with gas range
+* In-unit washer and dryer
+* Dog-friendly
+* Historic 1900 Victorian architecture
+* Professional cleaning between every stay
+
+Whether you’re visiting Savannah for a weekend getaway, a family trip, a celebration, a wedding, or simply a few days of exploring, Midnight Magnolia gives you the best of both worlds: the character of historic Savannah and the privacy of your own home.
+
+The Space
+
+Primary Suite
+
+A comfortable private retreat featuring a premium Tempur-Pedic king mattress and a private bathroom with a beautifully tiled walk-in shower.
+
+Second Bedroom
+
+A spacious bedroom with a Tempur-Pedic queen mattress and a comfortable sitting area, perfect for relaxing after a day exploring Savannah.
+
+Third Bedroom
+
+A comfortable additional bedroom that works well for families, friends or additional guests.
+
+Living & Dining
+
+A welcoming gathering space designed for relaxing, dining and planning your next Savannah adventure.
+
+Private Balcony
+
+Step outside onto your private balcony overlooking Jefferson Street and take in the atmosphere of Savannah’s historic streets.
+
+Kitchen
+
+The fully equipped kitchen includes a gas range, refrigerator/freezer, filtered water and the essentials needed to prepare meals or enjoy a relaxed night in.
+
+Private Backyard
+
+Enjoy your own outdoor space with seating and a fire pit, perfect for an evening drink, conversation or unwinding after exploring the city.
+
+Laundry
+
+An in-unit washer and dryer are available for your convenience, especially useful for longer stays.
+
+Guest Access
+
+You’ll have private access to the entire second-floor home, including the living spaces, bedrooms, bathrooms, kitchen, balcony and private outdoor areas associated with Midnight Magnolia.
+
+A smart lock provides convenient self check-in.
+
+One dedicated off-street parking space is available near the rear entrance on the Anderson Street side of the property. Additional street parking is generally available nearby; please observe posted signs and street-sweeping restrictions.
+
+Location
+
+One of Midnight Magnolia’s biggest advantages is simple: you can leave the car behind.
+
+Forsyth Park is approximately an 8-minute walk away, putting you close to Savannah’s famous historic streets, architecture, restaurants, coffee shops, bars and green spaces.
+
+Savannah is best experienced on foot, and this location makes it easy to explore the city at your own pace before returning to your private Victorian retreat.
+
+A Note About the Historic Home
+
+Midnight Magnolia was built in 1900, and we’ve intentionally preserved its historic character while updating the home for modern guests.
+
+As with many authentic historic Savannah homes, you may notice a few signs of age and character, including a slight floor variation in the hallway and occasional urban street noise.
+
+There is also no machine dishwasher.
+
+These details are part of what makes the home feel genuinely historic rather than newly constructed, and we want guests to know exactly what to expect before booking.
+
+Cleaning & Comfort
+
+Midnight Magnolia is professionally cleaned between every stay.
+
+Fresh linens and towels are provided, and the home is thoroughly cleaned and prepared before each arrival.
+
+Dogs
+
+Well-behaved dogs are welcome. Please review the house rules for the specific pet requirements and fees.
+
+Savannah Vacation Rental
+
+SVR Certificate: SVR-03241
+
+We’re excited to share Midnight Magnolia with you. If you’re looking for a Savannah stay with historic character, walkable access to Forsyth Park, private outdoor space and the comfort of an entire home, we think you’ll feel right at home here.
+
+A Proven Savannah Stay
+
+Midnight Magnolia was previously operated as The Gnome Home, a highly reviewed Savannah vacation rental that welcomed hundreds of guests and earned a 4.9-star rating across 350+ reviews.
+
+The home has since been refreshed and relaunched as Midnight Magnolia, with updated design, furnishings and amenities while preserving the historic character that made the property special.
+
+Guest access
+Guest Access & Parking
+
+- Free street parking is widely available. Please observe the street signs and move you vehicle when necessary for the street sweeper
+
+- One dedicated off-street parking space is located near the rear entrance on the Anderson Street side of the property. Please park on the left hand side.
+
+- Access to second floor apartment through smart lock to front door and to back door of Midnight Magnolia.
+
+Other things to note
+Helpful Information for Your Stay
+Savannah is one of the most walkable cities in the country, and exploring its historic streets, architecture, and iconic squares on foot is highly recommended.
+
+A few quick notes:
+
+- Emergency services: Dial 9-1-1
+
+- Please use designated crosswalks and follow pedestrian signals.
+
+- Bicycles are a great way to explore, though they are not permitted in city squares or on sidewalks.
+
+- Public parking passes are available through the city for extended stays.
+
+- All required local lodging taxes and fees are included at checkout.
+ 
+SVR Certificate: SVR-03241
+
+Midnight Magnolia is more than a place to stay it’s an experience layered in history, design, and atmosphere. We’re truly excited to host you and can’t wait for you to experience the charm, character, and unforgettable vibe of this unique Savannah retreat.
+
+Things to Note for Your Stay:
+To help set clear expectations and ensure every guest has an amazing experience at Midnight Magnolia, please review the following details about the home and surrounding area.
+
+Historic Character & Unique Design
+Midnight Magnolia is a beautifully restored historic property built in 1900. With that charm comes authentic character that newer construction simply can’t replicate.
+
+- The primary shower features a natural stone floor, which adds to the vintage aesthetic and spa-like feel.
+
+- Because of the home’s age, you may notice small imperfections that reflect its history and originality.
+
+- There is a slight floor dip in the hallway near the kitchen, typical of historic structures.
+
+- Some road noise may be heard at times, as the home sits within a vibrant urban setting.
+
+- There is no machine dishwasher 
+
+- These details add to the authenticity and story of the space!
+
+Neighborhood & Surroundings
+The property is located in a culturally rich and evolving area near Forsyth Park in Savannah, surrounded by historic architecture, local character, and exciting revitalization.
+
+- You’ll be immersed in true Savannah culture with great people and a strong sense of community.
+
+- There are ongoing improvements and development projects on nearby lots as owners continue enhancing the neighborhood.
+
+- This is a very safe area with continued investment and positive transformation underway!
+
+- Savannah’s charm is deeply rooted in its blend of history, culture, and growth, and this location captures that energy.
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 double bed
+
+What this place offers
+Kitchen
+Wifi
+Free parking on premises
+Pets allowed
+TV
+Washer
+Free dryer – In unit
+Air conditioning
+Bathtub
+Exterior security cameras on property
+Show all 63 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 24 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 96% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Comfort
+10
+Location
+11
+Layout
+3
+Cleanliness
+8
+Walkability
+4
+Hospitality
+9
+Check-in
+4
+Parking
+2
+Decor
+3
+Family
+2
+Sydney
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+It was very homey and clean. I loved the lay out and communication from Chaz. The only thing was that I have a full sized truck and it was difficult to park in the parking spot, but that definitely wouldnt stop me from renting again. We also loved the slight spooky feel of the house. Thanks for having us!!
+Show more
+Blake
+Melbourne, Florida
+Rating, 5 stars
+,
+·
+6 days ago
+,
+·
+Group trip
+This is the perfect mix of just past the huge buzz of downtown and being close to everything! The place was awesome and we would absolutely come back!
+Elias
+Santa Isabel, Puerto Rico
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had a wonderful stay with our family! The Airbnb was extremely clean, comfortable, and exactly what we needed for our visit to Savannah. The beds were very comfortable, check-in was easy, and we had no issues finding or accessing the property.
+The location was excellent very close to Savannah’s Historic District and within easy walking distance of many attractions, which made exploring the city very convenient.
+Chaz was a great host. He was always attentive, made sure we had everything we needed, and responded very quickly whenever we sent him a message.
+My wife, our children, and I truly enjoyed our stay and felt very comfortable throughout our visit. We would definitely stay here again and highly recommend it to anyone visiting.
+Show more
+Anna
+Chattanooga, Tennessee
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+We had a great stay! Good location and easy check in.
+Grace
+Pyeongtaek-si, South Korea
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Absolutely gorgeous home! Loved all of the detail and super comfy!!
+McKinley
+Ridgefield, Connecticut
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Quiet and peaceful place to stay, within walking distance of plenty of things to do.
+Show all 24 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Ardsley Station
+Restaurant
+The Laundry Diner
+Restaurant
+Maté Factor
+Bakery
+Tacos+Tequila by Tequila's Town
+Taco restaurant
+Bull Street Taco
+Mexican restaurant
+Forsyth Park
+Park
+Clary's Cafe
+Diner
+Savoy Society
+Restaurant
+Screamin' Mimi's
+Food and drink
+Alley Cat Lounge
+Bar
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Show more
+Meet your host
+Chaz
+Superhost
+149 reviews
+149
+Reviews
+4.98 out of 5 average rating
+4.98
+Rating
+2 years of hosting
+2
+Years hosting
+My work: Self-Employed
+Lives in South Carolina, United States
+Chaz is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 3:00 PM
+Checkout before 11:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

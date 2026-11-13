@@ -1,0 +1,459 @@
+URL: https://www.airbnb.com/rooms/565019960660932190
+Title: Near River Street, City Market by Lucky Savannah
+Latitude: 32.0813
+Longitude: -81.093
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located in one of Savannah's most desirable secured residential buildings, Editor's Cut sits on the third level, with views of Bay Street and Ellis Square. Guests are just steps away to every downtown attraction in this spacious two-bedroom apartment.
+
+The space
+Located in one of Savannah's most desirable secured residential buildings, Editor's Cut sits on the third level, with views of Bay Street and Ellis Square. Guests are just steps away to every downtown attraction in this spacious two-bedroom apartment.
+
+After reaching the third floor via elevator access, step in to your bright Savannah escape, equipped with all of the amenities you could wish for. 
+
+The kitchen is fitted with granite countertops, stainless steel appliances and provides plenty of space to prepare home-cooked meals. The breakfast bar is open to the main living space, ideal for hosting and entertaining your guests while keeping the conversation flowing. Guests will appreciate having this dedicated dining space with seating for 4, and a fully-stocked kitchen that fits all of your needs.
+
+The living space consists of two plush sofas, a flatscreen television, fitted with a reading nook. Gather together at the end of the day, and catch up on your favorite shows. In the morning, open up the balcony door, and feel the gusts of the Savannah River while drinking your cup of joe.
+
+The spacious Primary Suite sits off of the living space and offers a queen-size bed. Enjoy having a walk-in closet, smart TV, and en suite bathroom with a large dual vanity, a walk-in shower, and a jacuzzi tub. 
+
+Your guests should not fret, as the Guest Suite features a plush queen-size bed, a walk-in closet, and en suite bathroom. Just across the hall, a full-size washer and dryer is available in the unit for convenience. 
+
+Step across the street, and head down to River Street where you will enjoy stunning views of the Savannah Riverfront with open beverage container in hand... then walk South towards the charming Historic District with plenty of local and name-brand shops to pass the time. This apartment is ideal for those wanting to be in the heart of it all!
+
+What is parking like for this home?
+You'll have access to your own parking space in the nearby Whitaker Street Garage with 24/7 access.
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Queen Size Bed
+
+SVR-02539
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Near River Street, City Market by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Rated 4.81 out of 5 stars.
+4.81
+·
+27 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In downtown Savannah near Ellis Square
+Steps from Ellis Square and the Riverfront Plaza, with City Market and the Historic District on foot
+Primary suite with a jacuzzi tub
+A jacuzzi tub in the en-suite primary bathroom, plus a walk-in shower and dual vanity
+Guests keep coming back
+Guests highlight the walkable location and elegant design, with several planning return visits
+Located in one of Savannah's most desirable secured residential buildings, Editor's Cut sits on the third level, with views of Bay Street and Ellis Square. Guests are just steps away to every downtown attraction in this spacious two-bedroom apartment.
+
+The space
+Located in one of Savannah's most desirable secured residential buildings, Editor's Cut sits on the third level, with views of Bay Street and Ellis Square. Guests are just steps away to every downtown attraction in this spacious two-bedroom apartment.
+
+After reaching the third floor via elevator access, step in to your bright Savannah escape, equipped with all of the amenities you could wish for. 
+
+The kitchen is fitted with granite countertops, stainless steel appliances and provides plenty of space to prepare home-cooked meals. The breakfast bar is open to the main living space, ideal for hosting and entertaining your guests while keeping the conversation flowing. Guests will appreciate having this dedicated dining space with seating for 4, and a fully-stocked kitchen that fits all of your needs.
+
+The living space consists of two plush sofas, a flatscreen television, fitted with a reading nook. Gather together at the end of the day, and catch up on your favorite shows. In the morning, open up the balcony door, and feel the gusts of the Savannah River while drinking your cup of joe.
+
+The spacious Primary Suite sits off of the living space and offers a queen-size bed. Enjoy having a walk-in closet, smart TV, and en suite bathroom with a large dual vanity, a walk-in shower, and a jacuzzi tub. 
+
+Your guests should not fret, as the Guest Suite features a plush queen-size bed, a walk-in closet, and en suite bathroom. Just across the hall, a full-size washer and dryer is available in the unit for convenience. 
+
+Step across the street, and head down to River Street where you will enjoy stunning views of the Savannah Riverfront with open beverage container in hand... then walk South towards the charming Historic District with plenty of local and name-brand shops to pass the time. This apartment is ideal for those wanting to be in the heart of it all!
+
+What is parking like for this home?
+You'll have access to your own parking space in the nearby Whitaker Street Garage with 24/7 access.
+
+Sleeping Configuration:
+Bedroom 1: King Size Bed
+Bedroom 2: Queen Size Bed
+
+SVR-02539
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Show all 35 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.81 out of 5 stars from 27 reviews
+4.81 · 27 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 85% of reviews
+5
+4 stars, 11% of reviews
+4
+3 stars, 4% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.7 out of 5 stars for cleanliness
+Cleanliness
+4.7
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.6 out of 5 stars for check-in
+Check-in
+4.6
+Rated 4.7 out of 5 stars for communication
+Communication
+4.7
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Location
+17
+Parking
+4
+Walkability
+4
+Family
+4
+Check-in
+3
+Decor
+2
+Access
+2
+Nearby
+2
+Sleep quality
+2
+Accuracy
+2
+Andrew
+Norwich, Vermont
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+Elegant apartment, secure building, very conveniently located within easy walking distance of historic sites, shops, restaurants. We really appreciated the charming design (including high ceilings) and the cozy terrace with seating area.
+Show more
+Dennis
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Great place in a great location . Perfect for two couples.
+Show more
+Randall
+Slidell, Louisiana
+Rating, 5 stars
+,
+·
+February 2026
+,
+·
+Stayed a few nights
+We had a great time in Savannah, and the condo was great.  You can't beat the location of this unit, it is close to everything.  If we come back to Savannah, we will look to book this place again.
+Show more
+Meghan
+Boston, Massachusetts
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+way better than the photos! Will definitely be back
+Show more
+Stefan
+Sterling, Virginia
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+This apartment was so beautiful that we will stay there any time again
+Show more
+Lee
+Toledo, Ohio
+Rating, 5 stars
+,
+·
+June 2025
+,
+·
+Stayed a few nights
+I recently enjoyed my stay at Lucky Savannah and it was exceptional. This condo is perfectly located between a Five Guys and a Starbucks. The drop-off points at the corner streamline arrivals, whether from the airport or a ride service.
+Check-in was seamless with the electronic keypad. Initially unsure about locking up upon leaving, I found the host incredibly responsive, resolving my issue promptly. Just tapping anything on the keypad was the solution!
+Location-wise, it's a gem—one block from the scenic Riverwalk, 1.5 blocks to Market Place and a mere seven-minute walk to bustling Broughton Street, filled with shops and restaurants. If you prefer not to drive, Uber is easily available.
+The condo itself was spotless and matched online descriptions perfectly. It’s well-stocked, so there’s no need to bring extras. The filtered water from the refrigerator was a thoughtful touch, eliminating the need for bottled water.
+As a solo traveler, I felt completely safe!
+Show more
+Show all 27 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

@@ -1,0 +1,376 @@
+URL: https://www.airbnb.com/rooms/1158164677808088154
+Title: Luxurious Mansion w/ Rooftop Deck, Parking
+Latitude: 32.0698
+Longitude: -81.0928
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 5
+Occupancy (maximum guests): 15
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 8
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Nestled along the prestigious Gaston Street, The Hartridge House stands as a testament to unrivaled Southern luxury living. Just a stone's throw from Forsyth Park and Calhoun Square, this exquisite mansion embodies the essence of refined elegance.
+
+The space
+Nestled along the prestigious Gaston Street, The Hartridge House stands as a testament to unrivaled Southern luxury living. Just a stone's throw from Forsyth Park and Calhoun Square, this exquisite mansion embodies the essence of refined elegance and prime location.
+
+Key Features:
+
+- Prime Location: Situated amidst the verdant beauty of tree-lined streets and historic squares, The Hartridge House offers unparalleled proximity to Savannah's cultural treasures. With Forsyth Park just steps away and the vibrant historic district merely a 10-minute stroll, guests are immersed in the heart of Savannah's charm.
+
+- Refined Luxury: Every detail of The Hartridge House speaks of sophistication and curated elegance. Impeccable finishes and hand-selected furnishings create an ambiance that transcends mere accommodation, promising a truly memorable guest experience.
+
+- Chef's Kitchen and Formal Dining: Whether indulging in intimate gatherings or hosting grand dinner parties, the chef's kitchen stands ready to cater to every culinary need. Equipped for both professional catering and home-cooked delights, it sets the stage for epicurean adventures and shared moments of culinary delight.
+
+- Rooftop Retreat: Ascend to new heights of relaxation and enchantment on the rooftop deck. Adorned with string lights and crowned with panoramic views of the historic district, this sanctuary offers an outdoor haven complete with a sectional lounge, wet bar, and a hand-painted mural by local artist Julia McGahee.
+
+- Intimate Courtyard: Escape to the tranquility of the intimate courtyard, where verdant greenery invites moments of serenity and conviviality. Perfect for leisurely evenings with loved ones, it provides a picturesque backdrop for cherished memories.
+
+Ensuring utmost privacy and comfort, The Hartridge House boasts five bedrooms distributed throughout the estate. The main house features three luxurious bedrooms, each accompanied by its own ensuite bathroom. Additionally, the garden apartment and carriage house offer exclusive living quarters, providing private bedrooms and ensuite bathrooms for a truly personalized stay.
+
+What is parking like for this home?
+Guests will have access to a private garage space that can accommodate a mid-size SUV or full-size sedan. *Lucky Savannah nor the property owner will be liable for any damage incurred to guests vehicle as restrictions are clearly advertised*.
+
+Sleeping Configuration:
+Main House:
+Bedroom 1: King Bed
+Bedroom 2: King Bed
+Bedroom 3: Queen Bed
+Flex Room: 2 Twin Beds - Trundle Bed 
+Garden Level:
+Bedroom 4: King Bed
+Living Room: Queen Sleeper Sofa
+Carriage House:
+Bedroom 5: Queen Bed
+Living Room: Twin Sleeper Sofa
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-02524
+SVR-02525
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free parking on premises
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Luxurious Mansion w/ Rooftop Deck, Parking
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+15 guests · 5 bedrooms · 8 beds · 5.5 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+1 review
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+On Gaston Street near Forsyth Park
+Forsyth Park is about a 5-min walk, with Calhoun Square and Monterey Square even closer
+Rooftop retreat with a wet bar
+A rooftop deck with a wet bar, sectional lounge, and views of the historic district
+A memorable first impression
+One guest called the home above and beyond expectations, praising the decor and cleanliness
+Nestled along the prestigious Gaston Street, The Hartridge House stands as a testament to unrivaled Southern luxury living. Just a stone's throw from Forsyth Park and Calhoun Square, this exquisite mansion embodies the essence of refined elegance.
+
+The space
+Nestled along the prestigious Gaston Street, The Hartridge House stands as a testament to unrivaled Southern luxury living. Just a stone's throw from Forsyth Park and Calhoun Square, this exquisite mansion embodies the essence of refined elegance and prime location.
+
+Key Features:
+
+- Prime Location: Situated amidst the verdant beauty of tree-lined streets and historic squares, The Hartridge House offers unparalleled proximity to Savannah's cultural treasures. With Forsyth Park just steps away and the vibrant historic district merely a 10-minute stroll, guests are immersed in the heart of Savannah's charm.
+
+- Refined Luxury: Every detail of The Hartridge House speaks of sophistication and curated elegance. Impeccable finishes and hand-selected furnishings create an ambiance that transcends mere accommodation, promising a truly memorable guest experience.
+
+- Chef's Kitchen and Formal Dining: Whether indulging in intimate gatherings or hosting grand dinner parties, the chef's kitchen stands ready to cater to every culinary need. Equipped for both professional catering and home-cooked delights, it sets the stage for epicurean adventures and shared moments of culinary delight.
+
+- Rooftop Retreat: Ascend to new heights of relaxation and enchantment on the rooftop deck. Adorned with string lights and crowned with panoramic views of the historic district, this sanctuary offers an outdoor haven complete with a sectional lounge, wet bar, and a hand-painted mural by local artist Julia McGahee.
+
+- Intimate Courtyard: Escape to the tranquility of the intimate courtyard, where verdant greenery invites moments of serenity and conviviality. Perfect for leisurely evenings with loved ones, it provides a picturesque backdrop for cherished memories.
+
+Ensuring utmost privacy and comfort, The Hartridge House boasts five bedrooms distributed throughout the estate. The main house features three luxurious bedrooms, each accompanied by its own ensuite bathroom. Additionally, the garden apartment and carriage house offer exclusive living quarters, providing private bedrooms and ensuite bathrooms for a truly personalized stay.
+
+What is parking like for this home?
+Guests will have access to a private garage space that can accommodate a mid-size SUV or full-size sedan. *Lucky Savannah nor the property owner will be liable for any damage incurred to guests vehicle as restrictions are clearly advertised*.
+
+Sleeping Configuration:
+Main House:
+Bedroom 1: King Bed
+Bedroom 2: King Bed
+Bedroom 3: Queen Bed
+Flex Room: 2 Twin Beds - Trundle Bed 
+Garden Level:
+Bedroom 4: King Bed
+Living Room: Queen Sleeper Sofa
+Carriage House:
+Bedroom 5: Queen Bed
+Living Room: Twin Sleeper Sofa
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-02524
+SVR-02525
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 8 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV with standard cable
+Elevator
+Washer
+Dryer
+Air conditioning
+Show all 37 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+1 review
+1 review
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Jennifer
+Hartselle, Alabama
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Group trip
+The house was above and beyond our expectations. We had ample space to visit and even had a chef come to cook. We highly recommend the Food Tour and Zunzabar. The house was in a great location walkable to everything we needed. The house was extremely clean and decor was exceptional! Thank you for a great long weekend.
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+15 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Pet-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

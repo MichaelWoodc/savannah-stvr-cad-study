@@ -1,0 +1,499 @@
+URL: https://www.airbnb.com/rooms/1711713308839539972
+Title: Le Salon d'Art | Walk to Forsyth Park
+Latitude: 32.06919905349343
+Longitude: -81.08893829881744
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Welcome to Salon d'Art, an art-filled historic Savannah retreat just blocks from Forsyth Park. Thoughtfully curated with bold original artwork, designer furnishings, soaring ceilings, and timeless architectural details, this elegant home blends historic charm with modern comfort. Walk to Savannah's best restaurants, coffee shops, squares, and attractions, then return to your private courtyard oasis for an evening under the moss-draped oaks.
+SVR-00711
+
+The space
+Salon d'Art was designed for travelers who appreciate beautiful spaces and unforgettable experiences.
+Located on historic Price Street in Savannah's Landmark Historic District, this thoughtfully restored residence combines original architectural character with a carefully curated collection of artwork and furnishings that create a true gallery-like atmosphere.
+Inside you'll find:
+• Professionally curated artwork throughout the home
+• Spacious living areas designed for gathering and conversation
+• Fully equipped kitchen for extended stays
+• Beautiful historic details and high ceilings
+• Fast WiFi and Smart TVs
+• Premium bedding and linens
+• Designer lighting and furnishings
+• Private outdoor courtyard for morning coffee or evening cocktails
+Whether you're visiting Savannah for a romantic getaway, a family vacation, a wedding weekend, or a long-awaited friends trip, Salon d'Art offers a memorable setting unlike a typical vacation rental.
+After a day exploring the city, unwind with a glass of wine in the courtyard, admire the artwork throughout the home, or stroll through the surrounding historic neighborhood as the gas lanterns begin to glow.
+
+Other things to note
+• Self check-in for a seamless arrival experience
+• Professionally managed by South Key Management Co.
+• Starter supplies provided
+• Fast WiFi throughout the property
+• No pets permitted
+• No parties or events
+• Quiet hours observed in accordance with city regulations
+
+Please be very careful not to touch the artwork. If there are any accidents, please let us know right away so we can take care of it. 
+SVR-00711
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free street parking
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Le Salon d'Art | Walk to Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+11 reviews
+11
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's Landmark Historic District
+Steps from Whitefield Square, with Forsyth Park about a 10-min walk away
+Art-filled home with historic character
+Original artwork fills every room, with high ceilings and designer furnishings throughout
+A beautifully designed stay
+Guests describe it as one of the most beautiful Airbnbs they've stayed in
+Welcome to Salon d'Art, an art-filled historic Savannah retreat just blocks from Forsyth Park. Thoughtfully curated with bold original artwork, designer furnishings, soaring ceilings, and timeless architectural details, this elegant home blends historic charm with modern comfort. Walk to Savannah's best restaurants, coffee shops, squares, and attractions, then return to your private courtyard oasis for an evening under the moss-draped oaks.
+SVR-00711
+
+The space
+Salon d'Art was designed for travelers who appreciate beautiful spaces and unforgettable experiences.
+Located on historic Price Street in Savannah's Landmark Historic District, this thoughtfully restored residence combines original architectural character with a carefully curated collection of artwork and furnishings that create a true gallery-like atmosphere.
+Inside you'll find:
+• Professionally curated artwork throughout the home
+• Spacious living areas designed for gathering and conversation
+• Fully equipped kitchen for extended stays
+• Beautiful historic details and high ceilings
+• Fast WiFi and Smart TVs
+• Premium bedding and linens
+• Designer lighting and furnishings
+• Private outdoor courtyard for morning coffee or evening cocktails
+Whether you're visiting Savannah for a romantic getaway, a family vacation, a wedding weekend, or a long-awaited friends trip, Salon d'Art offers a memorable setting unlike a typical vacation rental.
+After a day exploring the city, unwind with a glass of wine in the courtyard, admire the artwork throughout the home, or stroll through the surrounding historic neighborhood as the gas lanterns begin to glow.
+
+Other things to note
+• Self check-in for a seamless arrival experience
+• Professionally managed by South Key Management Co.
+• Starter supplies provided
+• Fast WiFi throughout the property
+• No pets permitted
+• No parties or events
+• Quiet hours observed in accordance with city regulations
+
+Please be very careful not to touch the artwork. If there are any accidents, please let us know right away so we can take care of it. 
+SVR-00711
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Hair dryer
+Show all 40 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 11 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+6
+Decor
+6
+Nearby
+4
+Location
+5
+Indoor spaces
+4
+Comfort
+4
+Outdoor spaces
+2
+Hospitality
+3
+Sleep quality
+2
+Family
+2
+Dustin
+Phoenix, Arizona
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+This was such a memorable place to stay in Savannah! The house is beautifully designed & feels almost like a curated art gallery, with artwork, interesting architectural details, and an incredible mix of furniture and lighting throughout. There was something interesting to discover in every room, but it still felt comfortable and welcoming rather than overly precious. The outdoor spaces were a huge plus and really felt like an extension of the house. An ideal location whereby we could easily walk to several nearby restaurants and explore the historic parts of Savannah, while still coming home to a neighborhood that felt peaceful and quiet. The bedrooms were spacious, the beds comfortable, and the kitchen well equipped for light food preparation and morning coffee. After spending the day exploring the city, it was genuinely nice to come back to a place that was just as interesting and enjoyable to spend time in. It felt like part of the trip rather than simply somewhere we were staying.
+Show more
+Stephen
+Macon, Georgia
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+Our family (four adults) had a great stay at Salon D'Art. The decor is interesting. The ground floor has a living room, dining room, kitchen, bathroom and covered patio. The second floor has two comfortable bedrooms and another bathroom. This is a late nineteenth century building with tall ceilings and 15 or 16  steps to upstairs. No problemo for 78 year old me, but not ideal for the mobility challenged. AC worked well. Parking was easy at this location and I did not have to feed the meter. The home is on the eastern perimeter of the North Historical District, walkable to Mate' Factor (a great bakery)  Veratina (an excellent Italian restaurant) and not far from Kroger grocery.
+Show more
+Anthony
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Brandon and Chase served nothing less than perfection for our visit to Savannah. They provided opportunities for activities and made sure to be communicative which is all one can ask for. Great Spot and will recommend to others
+Show more
+Matthew
+Lakeland, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Lovely stay at this beautifully decorated home. We really appreciated having two full bathrooms. The art throughout the home is intriguing and thought provoking. Cozy space. Highly recommend.
+Show more
+Michael
+Boston, Massachusetts
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed about a week
+What a beautiful home. It truly felt like a cool place I’d love to call home and had incredible Savannah character.
+Theresa
+Weddington, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+What a beautiful, cozy place to stay that was in such a great location - walkable to different main attractions, but nice to be a little away from the “hustle and bustle” of the main streets.  It perfectly met our needs while in Savannah and we highly recommend this place!
+Show more
+Show all 11 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+One of the best parts of staying at Salon d'Art is the location.
+Situated just a short walk from Forsyth Park, you'll be perfectly positioned to experience Savannah on foot.
+Nearby favorites include:
+Coffee & Breakfast
+• Collins Quarter at Forsyth
+• The Sentient Bean
+• Henny Penny Cafe
+• Fox & Fig Cafe
+Restaurants
+• Local 11 Ten
+• Husk Savannah
+• Treylor Park
+• Crystal Beer Parlor
+• Cotton & Rye
+• Mrs. Wilkes Dining Room
+Things to Do
+• Forsyth Park Fountain
+• Savannah Historic District
+• Mercer-Williams House Museum
+• Cathedral Basilica of St. John the Baptist
+• Monterey Square
+• Savannah Theatre
+• River Street
+• City Market
+Savannah is best explored by wandering. From Salon d'Art, you'll find yourself surrounded by historic homes, charming squares, centuries-old churches, hidden gardens, and some of the most photographed streets in America.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,346 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Potential for noise
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

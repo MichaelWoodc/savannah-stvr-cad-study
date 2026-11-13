@@ -1,0 +1,460 @@
+URL: https://www.airbnb.com/rooms/1558309754968872944
+Title: The Gaston Loft, Historic | Steps to Forsyth Park
+Latitude: 32.0711
+Longitude: -81.0969
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Step into your own slice of Savannah history in this renovated two-story Carriage House just steps from Forsyth Park. Tucked away off charming Gaston Street, this rustic-modern retreat features exposed brick, historic beams, a cozy living area, full kitchen, and serene bedrooms perfect for up to 3 guests. Embrace a quiet, walkable location near cafés, shops, and the park’s famous live oaks while being in the heart of it all in downtown Savannah. 
+SVR-02436
+
+The space
+Located just steps from iconic Forsyth Park, this wonderfully restored two-story Carriage House is a showcase of Savannah’s enduring beauty—where century-old craftsmanship meets warm, modern design. Privately nestled along the alley off Gaston Street, the discreet entrance on Gordon Lane offers an intimate glimpse of “hidden Savannah,” a quiet residential pocket still surrounded by the best of downtown.
+Inside, a dedicated mudroom sets the tone with functional charm and space for umbrellas, jackets, and bikes. From there, the home opens onto a living space rich with character—German-schmear brickwork, original wood floors worn to a perfect patina, and exposed beams that tell the story of the home’s past. Soft lighting, curated décor, and a 55" TV create a welcoming blend of cozy and refined.
+The kitchen is a thoughtful balance of old and new, where butcher-block countertops, marble tile backsplash, and modern appliances feel seamlessly integrated into the carriage house’s historic bones. Morning light pours into the quaint two-seat breakfast nook, offering an ideal start to your day in Savannah.
+Ascend the wrought-iron staircase railing, a striking architectural detail, to the second-floor retreat. The primary bedroom features a Loom & Leaf queen mattress, a restored fireplace with its original mantle, and sophisticated, calming finishes that elevate the entire space. A generous walk-in closet provides room for extended stays.
+The secondary bedroom includes a comfortable twin bed, making it perfect for a third guest, while the full-size washer and dryer are discreetly tucked away for convenience. The updated bathroom offers ample room for getting ready before venturing out to explore the city.
+
+Guest access
+There is a shared breezeway through the property so that the owners can get to the trash, occasionally they may walk through there. They have no access to your actual unit but occasionally you may see them walking through to the lane. They are friendly :) 
+**For luggage drop-off - please schedule with us - we have secure storage for the luggage in the front but cannot store before 10:30AM unless arranged in advance.
+
+Other things to note
+Absolutely no parties.
+Only the number of guests listed on the reservation are permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke in the property.  
+Must be 21 years of age to drink alcohol.
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it was your own property.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Paid parking lot off premises
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Gaston Loft, Historic | Steps to Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+3 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+57 reviews
+57
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Historic District, near Forsyth Park
+Forsyth Park is about a 2-min walk, with Monterey Square and historic squares just beyond.
+Restored carriage house with historic detail
+Exposed brick, original beams, and a wrought-iron staircase in a restored two-story carriage house.
+Comfortable beds, spotless space
+Guests highlight how comfortable the beds are, with many also praising the cleanliness and cozy feel.
+Step into your own slice of Savannah history in this renovated two-story Carriage House just steps from Forsyth Park. Tucked away off charming Gaston Street, this rustic-modern retreat features exposed brick, historic beams, a cozy living area, full kitchen, and serene bedrooms perfect for up to 3 guests. Embrace a quiet, walkable location near cafés, shops, and the park’s famous live oaks while being in the heart of it all in downtown Savannah. 
+SVR-02436
+
+The space
+Located just steps from iconic Forsyth Park, this wonderfully restored two-story Carriage House is a showcase of Savannah’s enduring beauty—where century-old craftsmanship meets warm, modern design. Privately nestled along the alley off Gaston Street, the discreet entrance on Gordon Lane offers an intimate glimpse of “hidden Savannah,” a quiet residential pocket still surrounded by the best of downtown.
+Inside, a dedicated mudroom sets the tone with functional charm and space for umbrellas, jackets, and bikes. From there, the home opens onto a living space rich with character—German-schmear brickwork, original wood floors worn to a perfect patina, and exposed beams that tell the story of the home’s past. Soft lighting, curated décor, and a 55" TV create a welcoming blend of cozy and refined.
+The kitchen is a thoughtful balance of old and new, where butcher-block countertops, marble tile backsplash, and modern appliances feel seamlessly integrated into the carriage house’s historic bones. Morning light pours into the quaint two-seat breakfast nook, offering an ideal start to your day in Savannah.
+Ascend the wrought-iron staircase railing, a striking architectural detail, to the second-floor retreat. The primary bedroom features a Loom & Leaf queen mattress, a restored fireplace with its original mantle, and sophisticated, calming finishes that elevate the entire space. A generous walk-in closet provides room for extended stays.
+The secondary bedroom includes a comfortable twin bed, making it perfect for a third guest, while the full-size washer and dryer are discreetly tucked away for convenience. The updated bathroom offers ample room for getting ready before venturing out to explore the city.
+
+Guest access
+There is a shared breezeway through the property so that the owners can get to the trash, occasionally they may walk through there. They have no access to your actual unit but occasionally you may see them walking through to the lane. They are friendly :) 
+**For luggage drop-off - please schedule with us - we have secure storage for the luggage in the front but cannot store before 10:30AM unless arranged in advance.
+
+Other things to note
+Absolutely no parties.
+Only the number of guests listed on the reservation are permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke in the property.  
+Must be 21 years of age to drink alcohol.
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it was your own property.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+TV
+Washer
+Dryer
+Air conditioning
+Luggage dropoff allowed
+Hair dryer
+Refrigerator
+Microwave
+Show all 40 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 57 reviews.
+4.98
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 5.0 out of 5 stars for value
+Value
+5.0
+Guest reviews mention
+Walkability
+23
+Location
+39
+Parks
+8
+Parking
+10
+Comfort
+19
+Nearby
+15
+Cleanliness
+19
+Decor
+9
+Hospitality
+18
+Air conditioning
+5
+Caitlin
+Louisville, Kentucky
+Rating, 5 stars
+,
+·
+4 days ago
+,
+·
+Stayed a few nights
+This was my favorite Air BnB I think I’ve ever stayed in! It was so beautiful and in the best location! Thoughtful touches were every where throughout the place. It was the perfect size and space for my little family. I hope we get a chance to stay here again!
+Show more
+Zach
+Dodd City, Texas
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Very nice, quaint property.  Entrance in an alley but not a problem. Met our needs and we enjoyed our stay in Savannah!! Very awesome hosts!
+Diann
+Siloam Springs, Arkansas
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Loved the character of the house. It was so close to everything we wanted to do. We could walk to most things. I would definitely stay here again!
+Kelly
+Texarkana, Texas
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Our stay was wonderful! Great location and it was nice to have the bathroom separate from the bedrooms. Would definitely stay again and recommend it to others!
+Gracen
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+This is my second time doing an Airbnb in Savannah and this time this place blew the first one out of the water. Everything was exactly as pictured, walkable and reasonable price and the hosts were stellar and made sure our trip was smooth and curated to us. If I stay in Savannah again I will 100% be using one of their properties !
+Show more
+Morgan
+Cleveland, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We loved that the kitchen was fully stocked of cookware and utensils, we were able to cook our meals there. The place was beautiful; my partner loved the historic build and modern renovations. There were plenty of clean linens and towels, water filter pitcher, cool central air and laundry amenities. We were able to walk everywhere we wanted to visit in Savannah and just a short drive to Tybee beach. Our stay was luxurious, comfortable and private.
+Show more
+Show all 57 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+This carriage house sits in one of Savannah’s most walkable and historic neighborhoods, just steps from Forsyth Park. The home is tucked down a quiet alley off Gaston Street, giving you a sense of privacy while still being right in the middle of downtown. The area is residential, peaceful, and lined with live oaks and historic homes, yet everything you want to explore is only minutes away.
+For breakfast, The Collins Quarter at Forsyth is a quick two- to three-minute walk and is known for great coffee and brunch. Betty Bombers is also close by and offers a fun, casual diner-style breakfast or lunch. For lunch or a relaxed afternoon meal, Local 11 Ten sits just one block south of the park and serves modern dishes in a beautifully restored building.
+Dinner options are easy to reach on foot as well. Repeal 33 is within walking distance and offers creative cocktails and elevated Southern comfort food. Vic’s On The River, about a 10- to 12-minute walk away on the riverfront, is a favorite for seafood and special nights out.
+The home is located within the Savannah Historic District, so most attractions are walkable. Forsyth Park is at your door, and a short stroll through the historic squares will take you to museums, galleries, River Street, and many of the city’s most photographed streets and landmarks. It’s an ideal location for guests who want a quiet stay while still being close to Savannah’s best dining, sightseeing, and historic charm.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

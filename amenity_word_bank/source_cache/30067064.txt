@@ -1,0 +1,468 @@
+URL: https://www.airbnb.com/rooms/30067064
+Title: Sophisticated Restoration near Forsyth Park
+Latitude: 32.0642
+Longitude: -81.0942
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah And Michael
+Host ID: 225035239
+Host profile ID: 1469195339275893594
+Host URL: https://www.airbnb.com/users/profile/1469195339275893594
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Incredible two bedroom, two bathroom, condo less than two blocks from the famous Forsyth Park! Freshly renovated, smart decorating, and super modern...all in a charming and historic home in the heart of the Victorian district. Absolutely perfect space for the quintessential Savannah experience!
+
+SVR-01352
+
+The space
+This first floor condo is spacious and bright! The large master bedroom also boasts a private, en suite bathroom! The open concept floor plan between the living and kitchen space is huge and makes for a fantastic are for relaxing or entertaining! Enjoy a cocktail on one of your TWO private porches!
+
+Guest access
+The entire first floor condo is yours! Your private entrance is at the bottom of the stairs, right as you walk into the front foyer.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Clothing storage: closet and dresser
+Entertainment
+48 inch HDTV with standard cable, Roku
+Books and reading material
+Family
+Pack ’n play/Travel crib - available upon request
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 162 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free street parking
+Single level home
+No stairs in home
+Services
+Self check-in
+Smart lock
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Sophisticated Restoration near Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.95 out of 5 stars.
+4.95
+633 reviews
+633
+Reviews
+Hosted by Sarah And Michael
+Superhost · 8 years hosting
+Listing highlights
+Top 5% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with Savannah's historic squares and riverfront walkable from here
+Double porch with swinging chairs
+Two private porches with swinging chairs, a favorite spot for morning coffee or evening wind-downs
+Beautifully kept and comfortable
+Guests highlight how clean, comfortable, and beautifully decorated the space is across dozens of reviews
+Incredible two bedroom, two bathroom, condo less than two blocks from the famous Forsyth Park! Freshly renovated, smart decorating, and super modern...all in a charming and historic home in the heart of the Victorian district. Absolutely perfect space for the quintessential Savannah experience!
+
+SVR-01352
+
+The space
+This first floor condo is spacious and bright! The large master bedroom also boasts a private, en suite bathroom! The open concept floor plan between the living and kitchen space is huge and makes for a fantastic are for relaxing or entertaining! Enjoy a cocktail on one of your TWO private porches!
+
+Guest access
+The entire first floor condo is yours! Your private entrance is at the bottom of the stairs, right as you walk into the front foyer.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+What this place offers
+Kitchen
+Fast wifi – 162 Mbps
+Dedicated workspace
+Free street parking
+48 inch HDTV with standard cable, Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Patio or balcony
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.95 out of 5 from 633 reviews.
+4.95
+Guest favorite
+This home is in the top 5% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 95% of reviews
+5
+4 stars, 4% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+178
+Location
+363
+Comfort
+180
+Parks
+56
+Hospitality
+214
+Decor
+144
+Nearby
+116
+Cleanliness
+177
+Sleep quality
+120
+Outdoor spaces
+83
+Katherine
+Jacksonville, North Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed with kids
+Sarah and Michael place was the perfect stay for a rest stop between our drive from Florida back to Nc.
+Saundra
+China Spring, Texas
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+It was such an adorable place. Easy access to shops, restaurants and trolley. 
+The home was comfortable and well maintained.
+We thoroughly enjoyed our stay! We will recommend to family and friends.
+Show more
+Tammy
+Lavonia, Georgia
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+We loved our stay. It was exactly what we were looking for when visiting Savannah. We would recommend staying here 100%. Beds were super comfy as well.
+Jacquelyn
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+This place was certainly great and cozy! Walkable to most places, especially
+Forsyth Park. Not a far drive from anything you’d want to do especially the riverwalk, or many restaurants if you chose to do so! Would definitely recommend this spot to anyone- whether two couples vacationing together or a small family! The hosts are super responsive to any questions or concerns ! Would definitely stay here again!
+Show more
+Mazi
+Fairfax, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Fantastic spot for a getaway!
+Brian
+Denver, Colorado
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+Phenomenal home and location!
+Show all 633 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+This beautifully restored historic home is located less than two blocks from Forsyth Park, where this is always something fun going on! From festivals to the Saturday Farmer's Market, to just walking the perimeter and enjoying the picturesque tree lined streets, we feel that we are situated in the perfect area for exploration and fun! We are also a scenic fifteen minute walk (or two minute Uber ride!) to the downtown area, including Broughton Street, City Market, River Street, and all 22 of Savannah's charmingly historic squares!
+Show more
+Meet your host
+Sarah And Michael
+Superhost
+1,277 reviews
+1277
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+8 years of hosting
+8
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental just off Forsyth Park!
+Sarah And Michael is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for infants (under 2 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Condo vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

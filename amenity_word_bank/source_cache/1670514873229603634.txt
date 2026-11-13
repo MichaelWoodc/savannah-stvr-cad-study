@@ -1,0 +1,449 @@
+URL: https://www.airbnb.com/rooms/1670514873229603634
+Title: Stunning Downtown 3BD-2.5BA Home| Near Forsyth Pk
+Latitude: 32.06392
+Longitude: -81.10226
+Privacy radius (meters): 500
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Alyssa
+Host ID: 372836229
+Host profile ID: 1469756605761228130
+Host URL: https://www.airbnb.com/users/profile/1469756605761228130
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+We are so excited for your Savannah getaway in this beautifully designed new construction home in the Victorian District. It is a fabulous space for groups and families traveling together. Featuring multiple living areas, a fully equipped massive kitchen, and comfortable bedrooms. It offers a luxurious, yet inviting stay. Walk to Forsyth Park, dining, and shops while enjoying a central, walkable location.
+
+The space
+Welcome to this grand new construction Savannah retreat designed for gathering, relaxing, and experiencing the city in style.
+
+Located on West Anderson Street in the Victorian District, you are centrally located between the Historic and Starland Districts. This beautifully appointed home offers spacious living, timeless character, and thoughtfully curated interiors throughout. Perfect for families, group getaways, or longer stays, the home blends historic charm with modern comfort in a way that feels both inviting and luxurious.
+
+Inside, you’ll find multiple living spaces designed for connection and comfort, along with a fully equipped kitchen and dining area ideal for shared meals and entertaining. Each bedroom is designed as its own retreat, offering comfort, privacy, and a place to unwind after a day exploring Savannah.
+
+Step outside and you’re just a short stroll to Forsyth Park, one of the city’s most iconic destinations. From there, continue on to nearby coffee shops, restaurants, boutiques, and historic squares that make Savannah so special.
+
+Whether you’re gathering with friends, traveling with family, or simply looking for a beautiful place to call home during your stay, The Anderson House offers the space, location, and experience to make it unforgettable.
+
+We can’t wait to host you!
+
+SVR-03108
+
+Other things to note
+Please note the ground level apartment is also a vacation rental. As with many homes in Savannah’s Historic District, you may occasionally experience normal city sounds (road noise, emergency vehicles, sirens, trains, ship horns, trash trucks, neighbors, etc). Street parking is available nearby but not guaranteed. We recommend reviewing all listing details prior to booking and reaching out with any questions you may have.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Family
+Board games
+Heating and cooling
+Air conditioning
+Indoor fireplace
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free street parking
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Stunning Downtown 3BD-2.5BA Home| Near Forsyth Pk
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+6 guests · 3 bedrooms · 4 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 5.0 out of 5 stars.
+5.0
+12 reviews
+12
+Reviews
+Hosted by Alyssa
+Superhost · 6 years hosting
+Listing highlights
+In the Victorian District near Forsyth Park
+About a 5-min walk to Forsyth Park, with historic squares and local dining nearby
+Fully equipped kitchen with dining
+A large kitchen with a dishwasher, dining table, and full cooking setup for meals in
+Spotless and thoughtfully designed
+Guests highlight how clean and thoughtfully designed the home is, with a perfect overall rating
+We are so excited for your Savannah getaway in this beautifully designed new construction home in the Victorian District. It is a fabulous space for groups and families traveling together. Featuring multiple living areas, a fully equipped massive kitchen, and comfortable bedrooms. It offers a luxurious, yet inviting stay. Walk to Forsyth Park, dining, and shops while enjoying a central, walkable location.
+
+The space
+Welcome to this grand new construction Savannah retreat designed for gathering, relaxing, and experiencing the city in style.
+
+Located on West Anderson Street in the Victorian District, you are centrally located between the Historic and Starland Districts. This beautifully appointed home offers spacious living, timeless character, and thoughtfully curated interiors throughout. Perfect for families, group getaways, or longer stays, the home blends historic charm with modern comfort in a way that feels both inviting and luxurious.
+
+Inside, you’ll find multiple living spaces designed for connection and comfort, along with a fully equipped kitchen and dining area ideal for shared meals and entertaining. Each bedroom is designed as its own retreat, offering comfort, privacy, and a place to unwind after a day exploring Savannah.
+
+Step outside and you’re just a short stroll to Forsyth Park, one of the city’s most iconic destinations. From there, continue on to nearby coffee shops, restaurants, boutiques, and historic squares that make Savannah so special.
+
+Whether you’re gathering with friends, traveling with family, or simply looking for a beautiful place to call home during your stay, The Anderson House offers the space, location, and experience to make it unforgettable.
+
+We can’t wait to host you!
+
+SVR-03108
+
+Other things to note
+Please note the ground level apartment is also a vacation rental. As with many homes in Savannah’s Historic District, you may occasionally experience normal city sounds (road noise, emergency vehicles, sirens, trains, ship horns, trash trucks, neighbors, etc). Street parking is available nearby but not guaranteed. We recommend reviewing all listing details prior to booking and reaching out with any questions you may have.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Patio or balcony
+Indoor fireplace
+Show all 43 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 5.0 out of 5 from 12 reviews.
+5.0
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 100% of reviews
+5
+4 stars, 0% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Cleanliness
+6
+Hospitality
+5
+Location
+4
+Condition
+2
+Family
+2
+Accuracy
+2
+Bathroom
+2
+Comfort
+2
+Indoor spaces
+2
+Priya
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+We enjoyed staying at Alyssa’s home while visiting Savannah for Labor Day weekend. The home was charming, clean, and appears to be newly renovated. The location of the house is within 5-10 minutes of many Savannah attractions.  Would definitely recommend staying here!
+Show more
+Hannah
+Birmingham, Alabama
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Group trip
+Cute house! My friends and I had a great time!
+Dandray
+Loganville, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This Airbnb was perfect!!
+Guana
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+Alyssa is very attentive. From the esthetics of the property to communication. The home is very inviting and comfortable.  Anything you could think of was readily available in the home (shower gel, dish detergent, laundry soap, etc. It is decorated just like the photos, and everything is conveniently placed. We would definitely choose them again. 
+Thank you!
+Show more
+Kylee
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Great home!
+Renee
+10 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+If you are looking for a turn key, very clean, spacious apartment for a stay in Savannah this one is a great option and the host Alyssa is very attentive with any issues that could arise and very knowledgeable about Savannah. We had an amazing stay !
+Show more
+Show all 12 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Neighborhood highlights
+Set along West Anderson Street, this home is perfectly positioned on the edge of Savannah’s Historic Districts, offering easy access to everything downtown has to offer, while maintaining a slightly more relaxed, residential feel. You’re just moments from Forsyth Park, where you can enjoy morning walks beneath the oaks, weekend markets, and one of the city’s most iconic landmarks. From there, explore the surrounding restaurants, coffee shops, boutiques, and historic squares that define Savannah’s charm.
+Show more
+Meet your host
+Alyssa
+Superhost
+1,511 reviews
+1511
+Reviews
+4.96 out of 5 average rating
+4.96
+Rating
+6 years of hosting
+6
+Years hosting
+Born in the 90s
+Where I went to school: Armstrong Atlantic State(now GASouthern)
+Hey there! Welcome to Savannah, we are so excited to host you in this beautiful city! I have lived here for about 13 years and instantly fell in love with the Southern charm and Spanish Moss draping perfectly over all the live oak trees. There is no other place I would ever want to live. I enjoy being a tourist and exploring this enchanted city with my family. We have so many favorite places to eat and visit, I can't wait to share them all with you!
+Alyssa is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

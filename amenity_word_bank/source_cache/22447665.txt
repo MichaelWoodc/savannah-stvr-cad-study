@@ -1,0 +1,455 @@
+URL: https://www.airbnb.com/rooms/22447665
+Title: Luxury on Beautiful Gordon by Lucky Savannah
+Latitude: 32.0712
+Longitude: -81.0962
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Located on the second story of a black-shuttered row home, this stylish apartment is just north of Forsyth Park in the Historic District.
+
+The space
+Located on the second story of a black-shuttered row home, this stylish apartment is just north of Forsyth Park in the Historic District. Its prime location makes it the perfect spot for up to four Lucky guests who want to live like the locals during their Savannah getaway.
+
+The richly appointed living area boasts tons of original architectural details, including marble mantles, crown molding and oversized pocket doors. Elegant finishes and softly upholstered furnishings create a comfortable yet upscale décor. The adjacent dining room has a large table with seating for six and two sets of French doors to let in the sweet Savannah air. A convenient pass-through connects you to the fully equipped kitchen. You’ll find every modern convenience including stainless steal appliances and new cabinets. 
+
+The premium bedroom has a king size bed with a plush upholstered headboard, large dresser and plenty of closet space. Large windows let in plenty of natural light, but have slated window coverings for privacy. The second bedroom has a queen bed, as well as a sofa and flat-screen TV. The shared full bath has a tiled tub/shower combo. 
+
+Outside, you’ll find a large deck overlooking the shared courtyard with lush landscaping below. A shaded table and chairs are available so you can enjoy your meals al fresco, or regroup with a cocktail after a long day taking in the sights.
+
+This Lucky property is the ideally located if you’re interested in any number of historic and modern attractions. Browse for antiques at Alex Raskin’s, or tour the famous Mercer-Williams House on nearby Monterey Square. Mix with locals and find fresh ingredients for dinner at the Farmer’s Market on Saturdays in Forsyth Park. 
+
+Why Lucky Savannah Loves this Property:
+- Be sure to visit legendary Savannah eatery, Mrs. Wilkes Dining Room, just down the street for some authentic Southern home-style cooking. 
+- You’ll be close to Forsyth Park, Savannah’s largest green space and a popular location for festivals, concerts, and weddings. 
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: Queen Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+
+SVR-00144
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Luxury on Beautiful Gordon by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Rated 4.97 out of 5 stars.
+4.97
+·
+29 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In the Historic District near Forsyth Park
+About a 5-min walk to Forsyth Park and Monterey Square, with Chatham Square right outside
+Historic row home with original details
+Marble mantles, crown molding, and oversized pocket doors in a second-story row home apartment
+Beautiful inside and out
+Guests highlight the beautiful interiors and the deck overlooking the courtyard for morning coffee
+Located on the second story of a black-shuttered row home, this stylish apartment is just north of Forsyth Park in the Historic District.
+
+The space
+Located on the second story of a black-shuttered row home, this stylish apartment is just north of Forsyth Park in the Historic District. Its prime location makes it the perfect spot for up to four Lucky guests who want to live like the locals during their Savannah getaway.
+
+The richly appointed living area boasts tons of original architectural details, including marble mantles, crown molding and oversized pocket doors. Elegant finishes and softly upholstered furnishings create a comfortable yet upscale décor. The adjacent dining room has a large table with seating for six and two sets of French doors to let in the sweet Savannah air. A convenient pass-through connects you to the fully equipped kitchen. You’ll find every modern convenience including stainless steal appliances and new cabinets. 
+
+The premium bedroom has a king size bed with a plush upholstered headboard, large dresser and plenty of closet space. Large windows let in plenty of natural light, but have slated window coverings for privacy. The second bedroom has a queen bed, as well as a sofa and flat-screen TV. The shared full bath has a tiled tub/shower combo. 
+
+Outside, you’ll find a large deck overlooking the shared courtyard with lush landscaping below. A shaded table and chairs are available so you can enjoy your meals al fresco, or regroup with a cocktail after a long day taking in the sights.
+
+This Lucky property is the ideally located if you’re interested in any number of historic and modern attractions. Browse for antiques at Alex Raskin’s, or tour the famous Mercer-Williams House on nearby Monterey Square. Mix with locals and find fresh ingredients for dinner at the Farmer’s Market on Saturdays in Forsyth Park. 
+
+Why Lucky Savannah Loves this Property:
+- Be sure to visit legendary Savannah eatery, Mrs. Wilkes Dining Room, just down the street for some authentic Southern home-style cooking. 
+- You’ll be close to Forsyth Park, Savannah’s largest green space and a popular location for festivals, concerts, and weddings. 
+
+Sleeping Configuration:
+Bedroom 1: King Bed
+Bedroom 2: Queen Bed
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+
+SVR-00144
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.97 out of 5 stars from 29 reviews
+4.97 · 29 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Location
+28
+Walkability
+12
+Parks
+4
+Parking
+6
+Outdoor spaces
+7
+Cleanliness
+8
+Decor
+4
+Family
+4
+Comfort
+5
+Indoor spaces
+6
+Pam
+Nashville, Tennessee
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+I have stayed at 3 different Airbnbs in Savannah and this was the most beautiful!
+Its prettier than pictures. very high end and clean! We loved the location. Oh, and the porch overlooking the courtyard was a Happy place in the morning with our coffee.
+Show more
+Molly
+12 years on Airbnb
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Great place to stay in Savannah! It was in  a beautiful area and very walkable to the main parts of the city. We used the outdoor balcony a lot that overlooked a pretty garden. Would definitely recommend!
+Show more
+Scott
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Stayed a few nights
+Enjoyed our stay and convenient location. Beautiful balcony and easy parking/access.
+Show more
+Erica
+Miami, Florida
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+No notes everything was perfect. Beautiful character, courtyard, and location
+Show more
+Allison
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+September 2025
+,
+·
+Stayed a few nights
+Quaint place with lots of character and in a beautiful, safe neighborhood. Some quirks that come with an older house but nothing that was a deal breaker. Would stay again.
+Show more
+Karen
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Stayed a few nights
+Excellent location very central. Safe neighbourhood near lots of areas of interest.
+Show more
+Show all 29 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,302 reviews
+9302
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Beach house vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

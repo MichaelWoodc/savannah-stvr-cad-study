@@ -1,0 +1,494 @@
+URL: https://www.airbnb.com/rooms/13247928
+Title: The Wedding Cake Carriage House
+Latitude: 32.0709
+Longitude: -81.09456
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Luxury Living Savannah
+Host ID: 51616592
+Host profile ID: 1465808498594972878
+Host URL: https://www.airbnb.com/users/profile/1465808498594972878
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+A Perfect Romantic Getaway in one of the countries most magical cities!! This captivating 1869 Carriage House on Monterey Square offers it , Luxury, Romance and Parking!
+
+The space
+A Perfect Romantic Getaway in one of the countries most magical cities!! 
+The 1869 original Carriage House is a free standing cottage behind the main house with its own private entrance off the lane/alley. 
+
+It is located on the 2nd floor over the garage like all original carriage houses in Savannah, so there is a flight of stairs to get to the 2nd floor home.  
+The carriage house is where the livery driver lived in the 1800s above the horses and carriages he cared for. The Wedding Cake Carriage House comes with a highly coveted garage parking space. 
+
+The unusual design is evocative of a “Manhattan loft” set in a historic 1869 carriage house. This surprise blending of original 1920 - 1940 art deco furnishings and many antique elements creates a fun, casual ambiance.
+The open and airy open concept living space showcases an entire wall of frosted artist windows, thus flooding the house with natural light.
+
+The bedroom with king bed and TV is adjacent to the alluring bathroom with luxurious features such as 6 foot air tub and separate marble shower. 
+
+The complete kitchen provides everything you need to whip up a Southern style meal or just grab toast and coffee on the way out your door to take in the cities historical sights that you are just steps out your door!
+
+This reservation includes one private, garage parking space.
+
+Guest may use the walled courtyard although it is shared with guests in the Main House.
+
+NOTES:
+There is a washer/dryer in the garage for you to use during your stay.
+
+Maximum occupancy is 2 people, including infants & children.
+
+Minimum age to reserve is 25 years old, no exceptions.
+
+No pets or smoking. 
+
+NO PARTIES. 
+
+NO BACHELORETTE/BACHELOR GROUPS!
+
+SVR-02459
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Garden view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Travel size shampoo
+Conditioner
+Travel size bar soap body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In building
+Free dryer – In building
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Iron
+Clothing storage: closet
+Entertainment
+TV
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Stainless steel single oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Free parking garage on premises
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+There is no carbon monoxide detector on the property.
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Wedding Cake Carriage House
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire loft in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.9 out of 5 stars.
+4.9
+134 reviews
+134
+Reviews
+Hosted by Luxury Living Savannah
+Superhost · 11 years hosting
+Listing highlights
+On Monterey Square in the Historic District
+Right on Monterey Square, with Forsyth Park about a 5-min walk away
+Free garage parking
+A private garage parking space included, a real convenience in Savannah's historic core
+Consistently spotless and comfortable
+Guests highlight how clean, comfortable, and quiet this carriage house is
+A Perfect Romantic Getaway in one of the countries most magical cities!! This captivating 1869 Carriage House on Monterey Square offers it , Luxury, Romance and Parking!
+
+The space
+A Perfect Romantic Getaway in one of the countries most magical cities!! 
+The 1869 original Carriage House is a free standing cottage behind the main house with its own private entrance off the lane/alley. 
+
+It is located on the 2nd floor over the garage like all original carriage houses in Savannah, so there is a flight of stairs to get to the 2nd floor home.  
+The carriage house is where the livery driver lived in the 1800s above the horses and carriages he cared for. The Wedding Cake Carriage House comes with a highly coveted garage parking space. 
+
+The unusual design is evocative of a “Manhattan loft” set in a historic 1869 carriage house. This surprise blending of original 1920 - 1940 art deco furnishings and many antique elements creates a fun, casual ambiance.
+The open and airy open concept living space showcases an entire wall of frosted artist windows, thus flooding the house with natural light.
+
+The bedroom with king bed and TV is adjacent to the alluring bathroom with luxurious features such as 6 foot air tub and separate marble shower. 
+
+The complete kitchen provides everything you need to whip up a Southern style meal or just grab toast and coffee on the way out your door to take in the cities historical sights that you are just steps out your door!
+
+This reservation includes one private, garage parking space.
+
+Guest may use the walled courtyard although it is shared with guests in the Main House.
+
+NOTES:
+There is a washer/dryer in the garage for you to use during your stay.
+
+Maximum occupancy is 2 people, including infants & children.
+
+Minimum age to reserve is 25 years old, no exceptions.
+
+No pets or smoking. 
+
+NO PARTIES. 
+
+NO BACHELORETTE/BACHELOR GROUPS!
+
+SVR-02459
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+What this place offers
+Garden view
+Kitchen
+Wifi
+Free parking garage on premises
+TV
+Free washer – In building
+Free dryer – In building
+Central air conditioning
+Bathtub
+Unavailable: Carbon monoxide alarm
+Carbon monoxide alarm
+Show all 46 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.9 out of 5 from 134 reviews.
+4.9
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 91% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Parking
+58
+Location
+104
+Walkability
+54
+Parks
+4
+Cleanliness
+53
+Comfort
+29
+Nearby
+19
+Accuracy
+18
+Quiet
+17
+Sleep quality
+14
+Christopher
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Beautiful home in a beautiful neighborhood of a beautiful city. Walkable to many excellent restaurants and shops. Nearby parks and squares are peaceful and breathtakingly gorgeous. The airtub and shower were both excellent after a walk on a rainy day. Bed was comfortable, kitchen was thoughtfully equipped. Had no trouble parking my extended cab Colorado pickup in the garage. Would recommend to anyone looking for a quiet, comfortable stay.
+Show more
+Jeff
+Township of Taylorsville, North Carolina
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great place and great host. Would stay there again!!
+Rori
+7 years on Airbnb
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Great stay for our baby moon.
+Michael
+Dahlonega, Georgia
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Great location. 5 minute walk to Forsyth park. 20 minute walk to river street. We didn’t hear a lot of street noise which was nice. Apartment itself was clean. We liked having the garage to park in. Felt very safe. Savannah is beautiful.
+Show more
+Ashlei
+Brecksville, Ohio
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+We really enjoyed our stay here. The location was perfect, and everything was just as described. Having a garage parking space was great also.
+Sherri
+Conshohocken, Pennsylvania
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+We were late in booking and totally lucked out that the Wedding Cake Carriage house was available. Suzanne was very quick to respond to my request for booking and was amazing all through the process. All the instructions in the booking were incredibly clear and very helpful as I have never been to Savannah before. It made the entire process so much easier. The place was absolutely gorgeous even down to the decor. I would absolutely recommend Suzanne and her group to anybody looking to stay in Savannah as well as definitely using her again on my next trip there.
+Show more
+Show all 134 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Collins Quarter at Forsyth
+Restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Show more
+Meet your host
+Luxury Living Savannah
+Superhost
+2,240 reviews
+2240
+Reviews
+4.84 out of 5 average rating
+4.84
+Rating
+11 years of hosting
+11
+Years hosting
+Speaks English
+Lives in Savannah, Georgia
+Luxury Living Properties is not just a premier luxury vacation rental company. We are passionate about saving Savannah's resplendent historic homes from ruin. We meticulously restore them back to the shining jewels they were in the 19th century. We have curated special homes for the enjoyment of vacation and business travelers of all generations. Our goal is simple - to create a unique, historic atmosphere for our guests to experience the "True Savannah" and "Live like a local". On nearby Tybee Island we are focused on providing ocean views & fun amenities with a variety of beach houses, town homes and condos, all with amazing views of the Atlantic Ocean. Our stylish and comfortable properties provide a perfect home away from home for families, romantic getaways or solo travelers.
+Luxury Living Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+No carbon monoxide alarm
+Nearby lake, river, other body of water
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Loft vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Loft vacation rentals in Chatham County
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

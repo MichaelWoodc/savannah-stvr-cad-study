@@ -1,0 +1,427 @@
+URL: https://www.airbnb.com/rooms/40253114
+Title: A Step Onto Jones Street
+Latitude: 32.0733
+Longitude: -81.0968
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Our quaint little eclectic garden unit is the most welcoming and relaxing getaway you'll find on Jones Street. Take a soothing stroll down the most beautiful street in America to all of the bars, restaurants and shops that Savannah has to offer. One block from Savannah's famous Mrs. Wilkes and two blocks from Crystal Beer Parlor. If you're looking for a quiet place to retreat after a long day out, look no further.
+
+SVR-01129
+
+The space
+The tastefully decorated front garden unit is exceptionally spacious. In addition to the queen bedroom, we offer a sizable living room with a pull-out couch, smart TV and dining bar for two. We have a large island/bar in the kitchen to make cooking or drink prepping a breeze! We have a coffee maker, microwave, stove/oven, refrigerator, toaster and all of the utensils you need for basic cooking.
+
+Guest access
+You have the entire apartment to yourself! You will have your own private entrance, we will send the access information 48 hours before your check in date.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Safe
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+A Step Onto Jones Street
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.88 out of 5 stars.
+4.88
+291 reviews
+291
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In the Historic District on Jones Street
+On Jones Street, steps from Chatham Square and about a 5-min walk to Forsyth Park
+Full kitchen with in-unit laundry
+A full kitchen with a large island, plus an in-unit washer and dryer for easy packing
+Responsive, attentive hosts
+Brandon and Chase are praised by name in dozens of reviews for quick, helpful communication
+Our quaint little eclectic garden unit is the most welcoming and relaxing getaway you'll find on Jones Street. Take a soothing stroll down the most beautiful street in America to all of the bars, restaurants and shops that Savannah has to offer. One block from Savannah's famous Mrs. Wilkes and two blocks from Crystal Beer Parlor. If you're looking for a quiet place to retreat after a long day out, look no further.
+
+SVR-01129
+
+The space
+The tastefully decorated front garden unit is exceptionally spacious. In addition to the queen bedroom, we offer a sizable living room with a pull-out couch, smart TV and dining bar for two. We have a large island/bar in the kitchen to make cooking or drink prepping a breeze! We have a coffee maker, microwave, stove/oven, refrigerator, toaster and all of the utensils you need for basic cooking.
+
+Guest access
+You have the entire apartment to yourself! You will have your own private entrance, we will send the access information 48 hours before your check in date.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Luggage dropoff allowed
+Hair dryer
+Show all 36 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.88 out of 5 from 291 reviews.
+4.88
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 90% of reviews
+5
+4 stars, 9% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+140
+Location
+236
+Parking
+60
+Cleanliness
+98
+Indoor spaces
+42
+Hospitality
+98
+Decor
+38
+Nearby
+52
+Sleep quality
+27
+Comfort
+53
+Brad
+Michigan, United States
+Rating, 5 stars
+,
+·
+5 days ago
+,
+·
+Stayed a few nights
+Perfect location for our trip to Savannah.  Very walkable, quick Uber/Lyft to Bananas game. Many sights in a short walking distance.  Place was perfect for the two of us.  Comfortable bed, plenty of space and an ice maker- always a plus!  I would recommend this place for my Mom- which means it’s suitable for you too!  What a treat to stay right on Jones Street.
+Show more
+Robyn
+Winfield, West Virginia
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We stay in Savannah at lease once a year, sometimes on a whim, this being one of our whimsical trips. I am so thankful I found this listing. This apartment was the most updated, gorgeous, and spotless rental we have been in. I was in awe of the artwork and of how beautiful it was updated. It was a wonderful trip with a nice place to land when we were tired. Very much within walking distance of everything. My new favorite home away from home!
+Show more
+Justice
+4 years on Airbnb
+Rating, 4 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+This place was almost perfect, the location is great and the actual place is very homey. The only reason I give it a 4 is the mattress in the bedroom. It's really lumpy and my husband and I kept waking up to readjust. In the morning we had some back pain. That's really it, everything else was great!
+Show more
+Sal
+Hoschton, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had an amazing time here! You can’t beat this location, you can walk everywhere, 10-15 minutes and you’re at the beautiful river front. Quiet neighborhood with plenty of places to visit. Loved the house it was cozy and well decorated and well worth the money, would definitely come back again.
+Show more
+Andrew
+Okinawa, Japan
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed about a week
+Brandon & Chase, thank you for letting us stay. We enjoyed our time the Airbnb was in a convenient location to downtown Savannah as well as other places, including Starling yard. I thought you guys did a professional job at hosting. Thank you again.
+Show more
+Kristin
+North Platte, Nebraska
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed about a week
+Book it! The location is perfect. Walkable to almost everything! Forsyth park is a couple minute walk. The Crystal Beer Parlor is less than a minute walk! The street is very quiet and parking never seemed to be an issue for us. Everything was beautiful inside the apartment and perfectly clean. Any questions we had were answered immediately.
+Show more
+Show all 291 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+This original cobblestone street really is the absolute prettiest in all of Savannah. We have had several movie scenes and dozens of wedding photos shot here. We are just half a block from Mrs. WIlkes and two blocks from Crystal Beer Parlor.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,352 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

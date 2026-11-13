@@ -1,0 +1,337 @@
+URL: https://www.airbnb.com/rooms/1737118932805772697
+Title: Spacious 2BR | Balcony | Washer/Dryer
+Latitude: 32.06972533602011
+Longitude: -81.08915062339314
+Privacy radius (meters): 152
+Location type: Unverified
+Location precision: Approximate displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Jess
+Host ID: 1737055280704963511
+Host profile ID: 1737055552195993224
+Host URL: https://www.airbnb.com/users/profile/1737055552195993224
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: False
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+The Loft on Taylor
+
+The space
+Magnolia trees, scampering squirrels, gas lights, and shady foliage line the brick sidewalk facing the entry of this lovely second-floor apartment situated in a quiet neighborhood within the coveted downtown historic district. Inside, the main living area, featuring high ceilings, built-in cabinetry, and modern leather furnishings, is the perfect place to curl up with a favorite mystery novel or catch up with old friends over glasses of local wine or refreshing cocktails. Enjoy a good movie on the large flatscreen cable TV with plenty of hot microwave buttered popcorn and oven-baked jalapeño poppers. Savor your first cup of coffee on the Juliet balcony while watching squirrels scurry about in the morning breeze. As you enjoy the sun spilling in through the front bedroom windows, keep an eye out for a glimpse of the occasional trolley or horse-drawn carriage! Spend an afternoon touring the nearby shops, cafes, restaurants, and museums just a short walk away from your front door then come home to research your next Savannah adventure with the free WiFi while drifting off in the comfort of a downy-soft bed.
+
+
+
+What's nearby:
+
+This home is nestled in Savannah's prestigious downtown historic district, so there's no shortage of amazing activities you'll find during your stay. Enjoying a truly unbeatable location, you'll be just one-and-a-half blocks from the Savannah squares, one-third of a mile to Forsyth Park, and less than a mile from the Savannah River. It's also just a short walk from restaurants, like neighborhood favorites Treylor Park and The Olde Pink House (both under one mile away). Historical landmarks Monterey Square, Whitefield Square, and Calhoun Square are all within one mile of the home as well!
+
+
+
+Things to know:
+
+Free WiFi and cable
+
+Full kitchen
+
+Snowbird friendly
+
+Street parking only.
+
+
+
+City of Savannah Short-Term Vacation Rental Certificate: SVR-00068
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Extra pillows and blankets
+Iron
+Entertainment
+Ethernet connection
+TV with standard cable
+Books and reading material
+Bowling alley
+Family
+Board games
+Heating and cooling
+Air conditioning
+Indoor fireplace
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Blender
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Spacious 2BR | Balcony | Washer/Dryer
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2 baths
+New listing
+New
+Hosted by Jess
+1 month hosting
+Listing highlights
+In Savannah's historic district
+Whitefield Square is steps away, with Troup Square and Lafayette Square about a 5-min walk
+Full kitchen for home-cooked meals
+A full kitchen with oven, stove, dishwasher, and microwave for cooking at home
+Convenient self-service setup
+In-unit washer and dryer, self check-in via keypad, and a private entrance
+The Loft on Taylor
+
+The space
+Magnolia trees, scampering squirrels, gas lights, and shady foliage line the brick sidewalk facing the entry of this lovely second-floor apartment situated in a quiet neighborhood within the coveted downtown historic district. Inside, the main living area, featuring high ceilings, built-in cabinetry, and modern leather furnishings, is the perfect place to curl up with a favorite mystery novel or catch up with old friends over glasses of local wine or refreshing cocktails. Enjoy a good movie on the large flatscreen cable TV with plenty of hot microwave buttered popcorn and oven-baked jalapeño poppers. Savor your first cup of coffee on the Juliet balcony while watching squirrels scurry about in the morning breeze. As you enjoy the sun spilling in through the front bedroom windows, keep an eye out for a glimpse of the occasional trolley or horse-drawn carriage! Spend an afternoon touring the nearby shops, cafes, restaurants, and museums just a short walk away from your front door then come home to research your next Savannah adventure with the free WiFi while drifting off in the comfort of a downy-soft bed.
+
+
+
+What's nearby:
+
+This home is nestled in Savannah's prestigious downtown historic district, so there's no shortage of amazing activities you'll find during your stay. Enjoying a truly unbeatable location, you'll be just one-and-a-half blocks from the Savannah squares, one-third of a mile to Forsyth Park, and less than a mile from the Savannah River. It's also just a short walk from restaurants, like neighborhood favorites Treylor Park and The Olde Pink House (both under one mile away). Historical landmarks Monterey Square, Whitefield Square, and Calhoun Square are all within one mile of the home as well!
+
+
+
+Things to know:
+
+Free WiFi and cable
+
+Full kitchen
+
+Snowbird friendly
+
+Street parking only.
+
+
+
+City of Savannah Short-Term Vacation Rental Certificate: SVR-00068
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Indoor fireplace
+Show all 44 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+New · No reviews (yet)
+This host has 18 reviews for other places to stay. Show other reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Exact location will be provided after booking.
+Meet your host
+Jess
+Host
+18 reviews
+18
+Reviews
+4.61 out of 5 average rating
+4.61
+Rating
+1 month of hosting
+1
+Month hosting
+My work: Hospitality!
+Speaks English
+Our whole family is avid travelers, with us constantly bouncing around to visit family, friends, and places we love.
+Host details
+Response rate: 98%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Condo vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

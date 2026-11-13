@@ -1,0 +1,9 @@
+permit_type,count,parcels,rate
+owner,0,45,0.10422016777948981
+owner,1,14,0.3349933964340744
+owner,2,2,0.0
+non_owner,0,272,0.15518076452460797
+non_owner,1,120,0.07816512583461736
+non_owner,2,27,0.0
+non_owner,3,3,0.0
+non_owner,4,1,0.0

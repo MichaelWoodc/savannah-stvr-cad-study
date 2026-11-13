@@ -1,0 +1,461 @@
+URL: https://www.airbnb.com/rooms/1099319306611679417
+Title: Eichberg's Suite, Historic | Steps to Forsyth Park
+Latitude: 32.0665
+Longitude: -81.094
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Nestled within another beautifully designed and historic building by Alfred S. Eichberg, The Alfred Suite is a perfectly refinished two-bedroom, one-bathroom escape in the heart of Savannah. The property features original in-lay floors and classic touches with all your desired modern comforts. Ideal for up to four guests, you will be just steps from Forsyth Park, dining, attractions, and much more. We are RIGHT IN FRONT OF THE START OF ST. PATRICK'S DAY PARADE!!
+SVR-01636
+
+The space
+Welcome to your historic retreat! Nestled on the first floor of this grand Alfred S Eichberg home, you'll ascend just five steps to your private entrance, where a world of charm and comfort awaits. Step inside to find yourself among one of the beautiful historic homes of Savannah.
+The journey begins in the inviting dining area,  filled with natural light streaming through large bay windows, casting a warm glow upon terracotta tile floors, rustic board, and batten walls. A dining table set for four awaits, promising memorable meals and lively conversations.
+Venture further into the spacious living room through a large cased opening, where high ceilings, classical décor, and original hardwood floors call you to unwind and relax. Sink into the plush oversized sofa or cozy reading chair, indulge in entertainment on the smart TV, or simply enjoy the setting.
+Adjacent lies your fully appointed galley kitchen, adorned with exposed brick, where culinary adventures await. Equipped with a full appliance package, cookware, and dishware, it invites you to unleash your inner chef and create delicious meals at your leisure.
+Discover tranquility in the primary suite, where a sumptuous king bed adorned with crisp linens awaits. Bathed in sunlight from large bay windows, adorned with an original brick fireplace, and furnished with ample storage and entertainment options, it promises nights of blissful repose.
+Adjacent, find solace in the unit's well-appointed bathroom, offering a shower-tub combination, single vanity, and all the essentials for your comfort and convenience.
+
+Retreat to the second bedroom, boasting a comfortable queen mattress draped in fresh linens, illuminated by an oversized window, and adorned with simple yet stylish décor, ensuring a restful night's sleep. For those blending work with pleasure, fear not – our high-speed WiFi stands ready to support your endeavors, whether video conferencing or multitasking.
+
+Guest access
+The entire suite is for your use. You have your own private entrance off the side of the building. Please be courteous of your neighbors in the building, there are several full-time residents so please respect quiet hours (10PM - 8AM).
+
+Other things to note
+Absolutely no pets and NO parties!
+Be courteous of your neighbors in the building, there are several full-time residents so please respect quiet hours (10PM - 8AM).
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home. Clean up all smoke butts.
+Must be 21 years of age to drink alcohol.
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it were your own property.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Location features
+Private entrance
+Separate street or building entrance
+Parking and facilities
+Free street parking
+Services
+Self check-in
+Lockbox
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Eichberg's Suite, Historic | Steps to Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.9 out of 5 stars.
+4.9
+105 reviews
+105
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+Steps from Forsyth Park
+Forsyth Park is steps away, with historic squares and restaurants within a 10-min walk
+A historic home with original detail
+Original hardwood floors, exposed brick, and high ceilings inside a historic Alfred S. Eichberg home
+Comfortable beds, walkable location
+Guests highlight the comfortable king bed and how walkable everything is from the front door
+Nestled within another beautifully designed and historic building by Alfred S. Eichberg, The Alfred Suite is a perfectly refinished two-bedroom, one-bathroom escape in the heart of Savannah. The property features original in-lay floors and classic touches with all your desired modern comforts. Ideal for up to four guests, you will be just steps from Forsyth Park, dining, attractions, and much more. We are RIGHT IN FRONT OF THE START OF ST. PATRICK'S DAY PARADE!!
+SVR-01636
+
+The space
+Welcome to your historic retreat! Nestled on the first floor of this grand Alfred S Eichberg home, you'll ascend just five steps to your private entrance, where a world of charm and comfort awaits. Step inside to find yourself among one of the beautiful historic homes of Savannah.
+The journey begins in the inviting dining area,  filled with natural light streaming through large bay windows, casting a warm glow upon terracotta tile floors, rustic board, and batten walls. A dining table set for four awaits, promising memorable meals and lively conversations.
+Venture further into the spacious living room through a large cased opening, where high ceilings, classical décor, and original hardwood floors call you to unwind and relax. Sink into the plush oversized sofa or cozy reading chair, indulge in entertainment on the smart TV, or simply enjoy the setting.
+Adjacent lies your fully appointed galley kitchen, adorned with exposed brick, where culinary adventures await. Equipped with a full appliance package, cookware, and dishware, it invites you to unleash your inner chef and create delicious meals at your leisure.
+Discover tranquility in the primary suite, where a sumptuous king bed adorned with crisp linens awaits. Bathed in sunlight from large bay windows, adorned with an original brick fireplace, and furnished with ample storage and entertainment options, it promises nights of blissful repose.
+Adjacent, find solace in the unit's well-appointed bathroom, offering a shower-tub combination, single vanity, and all the essentials for your comfort and convenience.
+
+Retreat to the second bedroom, boasting a comfortable queen mattress draped in fresh linens, illuminated by an oversized window, and adorned with simple yet stylish décor, ensuring a restful night's sleep. For those blending work with pleasure, fear not – our high-speed WiFi stands ready to support your endeavors, whether video conferencing or multitasking.
+
+Guest access
+The entire suite is for your use. You have your own private entrance off the side of the building. Please be courteous of your neighbors in the building, there are several full-time residents so please respect quiet hours (10PM - 8AM).
+
+Other things to note
+Absolutely no pets and NO parties!
+Be courteous of your neighbors in the building, there are several full-time residents so please respect quiet hours (10PM - 8AM).
+Only the number of guests listed on the reservation is permitted at the property.
+No illicit activities, peddling, or soliciting are allowed on the property.
+Do not smoke on the property or near the home. Clean up all smoke butts.
+Must be 21 years of age to drink alcohol.
+Report all damaged property to the property owner immediately.
+Treat the apartment with respect, as if it were your own property.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Bathtub
+Hair dryer
+Refrigerator
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.9 out of 5 from 105 reviews.
+4.9
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Parks
+14
+Location
+67
+Walkability
+38
+Nearby
+33
+Comfort
+35
+Cleanliness
+33
+Sleep quality
+24
+Hospitality
+32
+Noise
+11
+Getting around
+13
+Karina
+Fort Lauderdale, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+We were at this place for a week. It's exactly as advertised. It was walkable to stores, restaurants and bars. It was about a 25 min walk and a 10 min drive. The park is close too, but we didn't visit. The area at night is quiet. There is noise from the neighbors, but it's an old Victorian home! It didn't bother us. The only issue that we had was this stale smell inside the house. Like the AC hadn't been turned on in a year and the lights in the main bedroom were tricky to turn on Would I book again ? Yes. Thank you for allowing us to stay.
+Show more
+Nicole
+Van Wert, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We recently stayed here during our trip to Savannah and couldn’t have been happier with the location. It’s truly a city to fall in love with, full of charm, history, and beautiful places to explore. The property was easy to get to and perfectly situated—far enough away from the hustle and bustle to be peaceful, yet close enough to walk to many of Savannah’s historic sites, restaurants, and shops. We would definitely stay here again!
+Show more
+Michael
+Mahwah, New Jersey
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We had a great time staying at this location and would definitely stay there again.
+Kayla
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+This was such a fantastic place to stay! It was a great location and very cozy! We loved it!
+Sarai
+Lilburn, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+I truly felt in love with this home it was near everything. You felt at home when walking inside and the decorations were the perfect description of Savannah. It was super clean and peaceful! I’ll definitely be coming back here! Thank you for having us! The service was 10/10
+Show more
+Megan
+Madeira Beach, Florida
+Rating, 4 stars
+,
+·
+June 2026
+,
+·
+Stayed with kids
+The apartment was cute and charming and the location was perfect. We walked all over Savannah and didn’t have to drive once! It was very clean and welcoming and check-in was very simple and easy. 
+The beds were very comfortable and the kitchen was equipped with all of the essentials we needed. It’s a perfect size for 2 couples or a small family. 
+It was a bit noisy between the traffic and neighbors, but nothing unusual if you’re used to apartment life. The hosts do provide earplugs, so that’s thoughtful. The washer and dryer are incredibly loud and take a while to finish, so do laundry in the day. We made the mistake of starting a load at 8pm and I feel so bad for the neighbors 😣
+All in all we enjoyed our stay and would happily stay again.
+Show more
+Show all 105 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+Just one block east of Forsyth Park, you will be in the heart of historic Savannah and centrally located to all the incredible eats, drinks, and sights Savannah has to offer. Stroll into Forsyth Park from your door to enjoy Savannah’s beautiful mornings. Grab breakfast at Collins Quarter at Forsyth, which has indoor and outdoor seating.
+Looking for a sandwich and a pint? Stroll on down to the Black Rabbit, a small yet incredible sandwich shop by day, and pub by night. Need a taco fix? Try out Bull Street Tacos for scratch-made Mexican dishes.
+Looking for fine dining and a great vibe? Head on over to Local 11 Ten and their chic rooftop bar and lounge known as The Perch. Enjoy handcrafted cocktails and delicious dishes. The Perch is open year-round and features gas heaters for cooler winter days.
+Take an adventure outside of the neighborhood by visiting one of Savannah’s many museums. Mercer-William’s House Museum, Savannah African Art Museum, American Prohibition Museum, and many more are just minutes away. Tap into Savannah's artistic nature by stopping into its College of Art and Design Museum of Art. Want to get more hands-on and make some memories? Try blowing glass at Hostess City Hot Glass, a perfect time for the whole family.
+Not enough time to walk all the sights of Savannah? Take it all in at once while riding or biking. We are just minutes from Old Town Trolley Tours of Savannah and Savannah Bike Tours. Check out the city’s skyline from the water by jumping on one of the Savannah Belle’s ferries, with multiple stops all along Savannah’s riverfront.
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,353 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

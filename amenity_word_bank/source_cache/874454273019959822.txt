@@ -1,0 +1,513 @@
+URL: https://www.airbnb.com/rooms/874454273019959822
+Title: Historic 1bed 1bath Suite Steps to River St!
+Latitude: 32.0765
+Longitude: -81.0888
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Matt
+Host ID: 54761660
+Host profile ID: 1465894898453628526
+Host URL: https://www.airbnb.com/users/profile/1465894898453628526
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 queen bed
+
+=== FULL DESCRIPTION ===
+Step into a time capsule as you enter our historic apartment, where every corner tells a story. Cathedral ceilings adorned with original repurposed wood, period windows, doors, and a siding facade reminiscent of a bygone era make this space a craftsman's dream. Immerse yourself in the architectural wonder of pre-US Civil War Savannah.
+
+While history surrounds you, we've ensured your stay is nothing short of luxurious, comfortable, and modern.
+
+Stay Here!  You will not want to leave!
+
+The space
+Welcome to our exquisite one-bedroom, one-bathroom historic apartment in the heart of downtown Savannah, Georgia! Dating back to 1790, this charming abode is a true testament to the rich history of this city, offering a unique blend of old-world charm and modern conveniences.
+
+Whether you're seeking a romantic getaway, a historic exploration, or a memorable weekend in Savannah, our apartment is the ideal home base. Experience the magic of the past with all the comforts of today. Book your stay with us now and prepare to create unforgettable memories in the heart of Savannah, Georgia. 
+
+**Historic Grandeur**
+Step into a time capsule as you enter our historic apartment, where every corner tells a story. Cathedral ceilings adorned with original repurposed wood, period windows, doors, and a siding facade reminiscent of a bygone era make this space a craftsman's dream. Immerse yourself in the architectural wonder of pre-US Civil War Savannah.
+
+**Modern Comforts**
+While history surrounds you, we've ensured your stay is nothing short of luxurious. Revel in the convenience of keyless entry, smart TVs for your entertainment, and a washer and dryer combo for your convenience. The fully equipped kitchen, complete with a dishwasher, invites you to channel your inner chef and create delicious meals.
+
+**Prime Location**
+Our apartment's central location is a mere 7-minute walk to the iconic River Street. Discover an array of culinary delights, explore Savannah's renowned architecture, and indulge in the vibrant nightlife that has earned Savannah the title of the Hostess City.
+
+**Safety and Security**
+Your safety is paramount. Custom key codes provide you with peace of mind, while our security camera system diligently watches over public spaces. Additionally, our apartment is conveniently situated across from the original Savannah police department, which continues to serve as its headquarters.
+
+**A Hidden Oasis**
+As an added amenity, we invite you to unwind in our meticulously designed courtyard. This oasis was crafted using the original "Savannah gray" bricks from the building's historic footprint, creating a tranquil retreat where you can relax and soak in the ambiance of this beautiful city.
+
+We look forward to welcoming you to our historic haven!
+
+Guest access
+Guests will have access to the left apartment (B) on the blue side-by-side duplex, the shared courtyard, and the metered street parking found on either Lincoln St., Habersham St., or Oglethorpe Ave.  Please refer to the check-in guide on the app for more details.
+
+*Note:  The apartment is in a property that houses other guests much like an Inn, so we ask that the space is treated with dignity and respect at all times.  Please keep noise to a minimum between 8pm and 8am as per city ordinance.  Parties and events are strictly prohibited.
+
+Other things to note
+We ask that the space, other guests, and our neighbors are treated with dignity and respect.  Please respect the home and its rules.  This will help us maintain peace and ensure that all of our guests have a wonderful Savannah Stay! SVR-02763
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Hair & Body shampoo
+Hair & Body conditioner
+Hair & Body body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Room-darkening shades
+Iron
+Clothing storage: closet and dresser
+Entertainment
+TV with standard cable
+Books and reading material
+Heating and cooling
+AC - split type ductless system
+Ceiling fan
+Heating - split type ductless system
+Home safety
+Exterior security cameras on property
+Professionally monitored cameras are present on the property. These are only present in public spaces and are meant to be for security, not to intrude on our guests' privacy. They will be active during the stay. Please do not block under any circumstance.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Laundromat nearby
+Outdoor
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Paid parking lot off premises
+Single level home
+No stairs in home
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Cleaning available during stay
+Not included
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic 1bed 1bath Suite Steps to River St!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.97 out of 5 stars.
+4.97
+201 reviews
+201
+Reviews
+Hosted by Matt
+Superhost · 3 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In downtown Savannah's Historic District
+Steps from Columbia Square, with the Owens-Thomas House and Savannah's historic squares all around
+Pre-Civil War apartment with character
+Cathedral ceilings with original repurposed wood and period details dating back to 1790
+A place guests keep coming back to
+Guests return again and again, with many praising how clean, comfortable, and walkable it is
+Step into a time capsule as you enter our historic apartment, where every corner tells a story. Cathedral ceilings adorned with original repurposed wood, period windows, doors, and a siding facade reminiscent of a bygone era make this space a craftsman's dream. Immerse yourself in the architectural wonder of pre-US Civil War Savannah.
+
+While history surrounds you, we've ensured your stay is nothing short of luxurious, comfortable, and modern.
+
+Stay Here!  You will not want to leave!
+
+The space
+Welcome to our exquisite one-bedroom, one-bathroom historic apartment in the heart of downtown Savannah, Georgia! Dating back to 1790, this charming abode is a true testament to the rich history of this city, offering a unique blend of old-world charm and modern conveniences.
+
+Whether you're seeking a romantic getaway, a historic exploration, or a memorable weekend in Savannah, our apartment is the ideal home base. Experience the magic of the past with all the comforts of today. Book your stay with us now and prepare to create unforgettable memories in the heart of Savannah, Georgia. 
+
+**Historic Grandeur**
+Step into a time capsule as you enter our historic apartment, where every corner tells a story. Cathedral ceilings adorned with original repurposed wood, period windows, doors, and a siding facade reminiscent of a bygone era make this space a craftsman's dream. Immerse yourself in the architectural wonder of pre-US Civil War Savannah.
+
+**Modern Comforts**
+While history surrounds you, we've ensured your stay is nothing short of luxurious. Revel in the convenience of keyless entry, smart TVs for your entertainment, and a washer and dryer combo for your convenience. The fully equipped kitchen, complete with a dishwasher, invites you to channel your inner chef and create delicious meals.
+
+**Prime Location**
+Our apartment's central location is a mere 7-minute walk to the iconic River Street. Discover an array of culinary delights, explore Savannah's renowned architecture, and indulge in the vibrant nightlife that has earned Savannah the title of the Hostess City.
+
+**Safety and Security**
+Your safety is paramount. Custom key codes provide you with peace of mind, while our security camera system diligently watches over public spaces. Additionally, our apartment is conveniently situated across from the original Savannah police department, which continues to serve as its headquarters.
+
+**A Hidden Oasis**
+As an added amenity, we invite you to unwind in our meticulously designed courtyard. This oasis was crafted using the original "Savannah gray" bricks from the building's historic footprint, creating a tranquil retreat where you can relax and soak in the ambiance of this beautiful city.
+
+We look forward to welcoming you to our historic haven!
+
+Guest access
+Guests will have access to the left apartment (B) on the blue side-by-side duplex, the shared courtyard, and the metered street parking found on either Lincoln St., Habersham St., or Oglethorpe Ave.  Please refer to the check-in guide on the app for more details.
+
+*Note:  The apartment is in a property that houses other guests much like an Inn, so we ask that the space is treated with dignity and respect at all times.  Please keep noise to a minimum between 8pm and 8am as per city ordinance.  Parties and events are strictly prohibited.
+
+Other things to note
+We ask that the space, other guests, and our neighbors are treated with dignity and respect.  Please respect the home and its rules.  This will help us maintain peace and ensure that all of our guests have a wonderful Savannah Stay! SVR-02763
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 queen bed
+
+What this place offers
+Kitchen
+Wifi
+TV with standard cable
+Free washer – In unit
+Free dryer – In unit
+AC - split type ductless system
+Shared backyard – Fully fenced
+Hair dryer
+Refrigerator
+Exterior security cameras on property
+Show all 52 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.97 out of 5 from 201 reviews.
+4.97
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 1% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+99
+Location
+136
+Cleanliness
+71
+Parking
+35
+Hospitality
+75
+Comfort
+41
+Amenities
+21
+Indoor spaces
+20
+Decor
+13
+Outdoor spaces
+14
+Kaye
+San Antonio, Texas
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Great location
+Alaundra
+Lawrenceville, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+We loved staying here! It was decorated nicely and in a very walkable area!
+Fedline
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This was our second time in Savannah and there was no question that Matt’s place is where we’d be staying again. Such detailed host that provide you with all the instructions you could need prior to arrival. And the place is a beauty, small and quaint but very comfortable and clean. This will always be our go to spot if we’re in Savannah!
+Show more
+Jacob
+Oviedo, Florida
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Place was very cute and homey. Courtyard in the back was very nice for getting some fresh air. Location was the best part, within a 15 minute walk of almost everything we wanted to do.
+Show more
+Lise
+Calgary, Canada
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Matt & Bonnie are fabulous hosts. Very responsive,  went out of their way to make sure our stay was wonderful. Great location, lovely, peaceful little cottage. Would absolutely recommend. Easy check in/out and an abundance of suggestions on how to best enjoy your time at their place.
+Show more
+Chad
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Very nice place and I would definitely stay here again! Conveniently located to everything!
+Show all 201 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+When you stay in this apartment, you will be living in some of Savannah's most desirable real estate - right in the heart of Downtown! The best restaurants and sights are only steps from your rich and luxurious property.
+
+Having a car is unnecessary when living here - you can walk, ride, or bike anywhere in this part of town. Once you have booked, we will send you plenty of recommendations on what to do, see, eat, and drink while in Savannah - this list should kickstart your planning.
+
+Convenience and grocery stores are just a few minutes walk from the historic apartment - without mentioning the plethora of cafes, bars, and restaurants. Walk through each square to shop local retailers, grab a coffee or quick bite, or park yourself on a bench and just enjoy the Savannah scenery.
+
+Those in the mood for a true Southern meal will love being close to Mrs. Wilke's Boarding Room, with other local favorites such as 700 Drayton or Crystal Beer Parlor just a short walk or Uber ride from the property.
+
+Popular tourist areas such as River Street and City Market are just a 5-minute walk away, while Savannah's local green space - Forsyth Park - is about 20 minutes away on foot or five minutes by car.
+
+Once you're here, you will not want to move out!
+Show more
+Meet your host
+Matt
+Superhost
+214 reviews
+214
+Reviews
+4.95 out of 5 average rating
+4.95
+Rating
+3 years of hosting
+3
+Years hosting
+Where I went to school: Southbury CT and Newtown CT
+My work: real estate
+Welcome to our cozy Inn hosted by Matt and Bonnie! We are a friendly couple who share a deep love for Savannah's rich architectural history. Originally from the north, we found our home in this charming city and developed a passion for its unique character. Our home is inspired by the elegance of Savannah. The Oglethorpe Inn, a place that stole our hearts, is now our haven, and we are thrilled to share it with you. Cheers Matt and Bonnie
+Matt is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Matt & Bonnie
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

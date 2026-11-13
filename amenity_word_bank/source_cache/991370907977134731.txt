@@ -1,0 +1,444 @@
+URL: https://www.airbnb.com/rooms/991370907977134731
+Title: Darling Carriage Studio on Quiet Lane
+Latitude: 32.0646
+Longitude: -81.0916
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah And Michael
+Host ID: 392686204
+Host profile ID: 1469814568914204522
+Host URL: https://www.airbnb.com/users/profile/1469814568914204522
+Bedrooms: 1
+Occupancy (maximum guests): 2
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Experience Savannah's old-world charm in our new, cozy carriage house. Nestled on a quiet lane in the Victorian District, this one-bed, one-bath studio is packed with modern comforts! Unwind in a plush king bed, stay connected with fast WiFi, and relax in this perfect space for two! Enjoy the city's amazing dining options or stay in for the night and take advantage of the fully-equipped kitchen. Private parking space...included! Explore historic Savannah from this idyllic retreat.
+
+SVR 02797
+
+The space
+Welcome to our adorable carriage house studio! This newly constructed space is designed for your utmost comfort. The fully equipped kitchen boasts everything you need to whip up a delicious meal, complemented by a cute retro refrigerator. Enjoy your morning brew with our Keurig coffee maker and provided K-cups, sugar, and creamer. The modern sitting area features a wall-mounted flat-screen smart TV with streaming capabilities. Drift off in the luxurious king-sized memory foam bed, freshly made with crisp white linens. The chic, spa-like bathroom offers a walk-in, glass-enclosed shower. Your parking space is conveniently located right outside your door, ensuring easy access throughout your stay.
+
+Guest access
+The entire carriage house is all yours! There are no shared spaces or limitations on your access.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Clothing storage
+Entertainment
+42 inch HDTV with Roku
+Family
+Pack ’n play/Travel crib - always at the listing
+Heating and cooling
+AC - split type ductless system
+Heating - split type ductless system
+Home safety
+Exterior security cameras on property
+One outdoor, exterior security camera is located overlooking the front door and parking space.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Stainless steel single oven
+Coffee maker: Keurig coffee machine
+Wine glasses
+Baking sheet
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Outdoor furniture
+Parking and facilities
+Free driveway parking on premises – 1 space
+Free street parking
+Single level home
+No stairs in home
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Washer
+Washer
+Unavailable: Dryer
+Dryer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Darling Carriage Studio on Quiet Lane
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Add dates for prices
+Add dates for prices
+4.92 ·
+198 reviews
+Rated 4.92 out of 5 from 198 reviews.
+Check availability
+Tiny home in Savannah, Georgia
+2 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+198 reviews
+198
+Reviews
+Hosted by Sarah And Michael
+Superhost · 6 years hosting
+Listing highlights
+In Savannah's Victorian District
+About a 5-min walk to Forsyth Park, with historic squares and dining within easy reach
+Free private parking included
+A dedicated driveway spot right outside the door, a real convenience in historic Savannah
+A bed guests can't stop praising
+Many guests call the king memory foam bed one of the most comfortable they've slept in
+Experience Savannah's old-world charm in our new, cozy carriage house. Nestled on a quiet lane in the Victorian District, this one-bed, one-bath studio is packed with modern comforts! Unwind in a plush king bed, stay connected with fast WiFi, and relax in this perfect space for two! Enjoy the city's amazing dining options or stay in for the night and take advantage of the fully-equipped kitchen. Private parking space...included! Explore historic Savannah from this idyllic retreat.
+
+SVR 02797
+
+The space
+Welcome to our adorable carriage house studio! This newly constructed space is designed for your utmost comfort. The fully equipped kitchen boasts everything you need to whip up a delicious meal, complemented by a cute retro refrigerator. Enjoy your morning brew with our Keurig coffee maker and provided K-cups, sugar, and creamer. The modern sitting area features a wall-mounted flat-screen smart TV with streaming capabilities. Drift off in the luxurious king-sized memory foam bed, freshly made with crisp white linens. The chic, spa-like bathroom offers a walk-in, glass-enclosed shower. Your parking space is conveniently located right outside your door, ensuring easy access throughout your stay.
+
+Guest access
+The entire carriage house is all yours! There are no shared spaces or limitations on your access.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+What this place offers
+Kitchen
+Wifi
+Free driveway parking on premises – 1 space
+42 inch HDTV with Roku
+AC - split type ductless system
+Pack ’n play/Travel crib - always at the listing
+Hair dryer
+Refrigerator
+Microwave
+Exterior security cameras on property
+Show all 41 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 198 reviews.
+4.92
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 94% of reviews
+5
+4 stars, 5% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.7 out of 5 stars for location
+Location
+4.7
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Cleanliness
+84
+Parking
+36
+Walkability
+56
+Location
+65
+Comfort
+54
+Sleep quality
+49
+Air conditioning
+9
+Indoor spaces
+43
+Getting around
+25
+Hospitality
+67
+Teirah
+Gainesville, Georgia
+Rating, 4 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+The host was amazing—very friendly and provided clear instructions. I do feel like there are a few things that could have been included in the posting that would help guests better prepare for their stay. The lane the carriage house is down is very narrow, and the driveway is quite small, so not every car will fit comfortably.
+The carriage house itself is very cute, decorated well, and full of amenities. It was fully stocked with anything you could need, and the little touches, like the bottle of wine, were so thoughtful. It was also very clean, and the bed was super comfy.
+We really enjoyed the location!
+Show more
+Ashleigh
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+The house was perfect for a couple’s getaway! Hardest part at first was finding the house, but we had no issue after that. Perfect location to walk to local food & coffee shops but a short drive to other locations. 
+We also loved that the space was small & intimate while offering all the amenities. Highly recommend!
+Show more
+Alarie
+East Lyme, Connecticut
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Clean, beautiful, centrally located space. Very close to downtown savannah, but also just far enough away to feel private and quiet.
+Dylan
+3 years on Airbnb
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Stayed one night
+Excellent little spot to spend a night or two in Savannah. The kitchen and bathroom were clean and fully stocked with the essentials. The value for the space if phenomenal. 10/10 would recommend to anyone coming down for a weekend.
+Show more
+Sam
+Hershey, Pennsylvania
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Good stay with a great location
+Sierra
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+The place looked exactly like the photos. It was clean, quiet, and cozy. The bed was the most comfortable I’ve ever slept in. A perfect location for either walking or driving to major Savannah attractions. The host provided clear instructions for check in and was very responsive to any questions. 10/10 recommend and would stay again!
+Show more
+Show all 198 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+The little house is located in Savannah's Victorian District, which is filled with gorgeous architecture, tons of awesome dining options, and is packed with local history, culture, and charm! We are just 5 blocks from oh-so-famous Forsyth Park and only a bit over a mile from the River!
+Show more
+Meet your host
+Sarah And Michael
+Superhost
+876 reviews
+876
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+6 years of hosting
+6
+Years hosting
+Sarah And Michael is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+2 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Tiny house vacation rentals in Georgia
+Tiny house vacation rentals in United States
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 0 | Count unverified
+
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

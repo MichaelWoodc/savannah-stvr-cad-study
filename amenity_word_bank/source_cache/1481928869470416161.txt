@@ -1,0 +1,400 @@
+URL: https://www.airbnb.com/rooms/1481928869470416161
+Title: Tangle & Tide|2 Themed Apts. in Full Private Home
+Latitude: 32.0637
+Longitude: -81.0992
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Paul
+Host ID: 16014089
+Host profile ID: 1462976192406211064
+Host URL: https://www.airbnb.com/users/profile/1462976192406211064
+Bedrooms: 2
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Look us up at "Tangle & Tide Savannah"! Historic charm meets tasteful themes in Savannah's heart. Our private townhouse with separate upstairs/downstairs apts. means your group gets together when wanted and privacy when needed - with fully appointed kitchens, comfort-tuned quarters, and walkable to so many Historic District icons. Idyllic Forsyth Park + year-round Farmers Market are just steps away. All within 5 minutes *walking* are local gems like Sentient Bean,Local 11ten,& Corner Suite.
+
+The space
+Enjoy key-free access to *both* apartments in this historic piece of early 20th century Savannah now tastefully modernized to fit the needs of any Savannah stay. Upstairs you’ll find The Maiden Voyage, artfully maritime-themed for sailors and landlubbers alike; downstairs lies The Jungle Nook, an immersive step into imaginative flora and fauna. Each apartment has vibrant bedroom with lavish king beds, full bathroom, comfy living room with expansive and host-tested sleep sofas, smart TVs in all living rooms and bedrooms, thoughtfully-appointed workstations, fully-equipped kitchen with dining nook, and separate laundry spaces. Your stay is topped off with a shared backyard that features a grill, dining space, umbrella, and two cozy suspended egg chairs for hanging under the sun or shade. 
+
+Sip a morning cup of coffee from the Keurig as you sink into your apartment’s couch or the suspended egg chair in the sunny backyard. Walk 2 minutes to verdant Forsyth Park for a morning stroll and catch the Saturday Farmers Market before meandering downtown to take in River Street and more of Savannah’s city squares. Swing back by Tangle & Tide to grab our guest picnic baskets - fully equipped with utensils, tools, plates, blanket, wine holder, and cups for any snacker’s or wino’s needs - for a sunset picnic in Forsyth stocked with some healthy groceries from Brighter Day Natural Foods across the street. Go out to some of Savannah’s iconic spots downtown or uptown, shop upscale or thrifty, or just stay in altogether for a cozy night and grill it up in the backyard if you’d like. Enjoy a second splash of lushness, this time under the jungly full-wall mural, or a second sunset under the host’s very own wall mural –  before cuddling up in the king-size bed and winding down with your favorite movie on the bedroom’s big-screen smart TV. 
+
+Relax and recharge at Tangle & Tide amidst your Savannah adventures with all of these options and more, or plug back in as needed, with 300 Mbps FAST wifi for streaming or video calls over a handful of devices at once, and multiple workstation surfaces fully equipped for your short- or long-term stay! 
+
+BEDROOMS
+In each apartment’s bedroom you’ll find… a king bed with high-quality linens, breathable duvet, and plenty of pillows alongside oversized blackout curtains for a good night’s rest. Ten-foot ceilings and large, original windows give the space air, elegance, and sun-drenched daytimes. A large-screen mounted smart TV adorns the wall opposite the bed for easy viewing and cozy movie nights. Decorative touches throughout the room are headlined by an immersive jungle scene wallpaper. The retro Vornado fan doubles as both an excellent circulator and a white noise generator for those looking to mask the hustle and bustle of city streets during busier times of year. A full-length mirror makes for convenient suiting up, dressing up, or getting made up prior to a day or night out on the town. Nightstand and desk with soft glow lamps and USB and outlet surge protectors mean less fuss and fidgeting for your morning and nighttime routines. And a dresser and closet mean you, family, and/or friends can comfortably settle in during your stay without having to live out of your suitcase. Traveling with infants or toddlers? We've also got 2 pack n' play / travel cribs available to make the parents' stay a bit easier! 
+
+WORKSTATION / STUDIO 
+Each apartment has a workstation area in the bedroom, consisting of simple desk, lamp, and solid work surface for a laptop, notebook, and your cup of joe. A dimmable touch lamp with USB charger allows you to easily stay plugged in and work in the lighting that you find most productive, with vibrant wall mural (upstairs) and hanging jungle accents (downstairs) to keep your natural zen even as you plug into cyberspace with fast 300 mbps internet. 
+
+Our dining table, along with two accessible foldable tray tables + chairs, offer a second work surface to round out any remote work duos. And for the more couch-minded digital nomads, our living room ottomans flip into solid-surface tabletops for couch-side computer crunching. 
+
+LIVING ROOM
+Our living rooms each feature comfort-tuned couches which you can sink into for casual reading, blanketed cuddling, or the latest sports, movies, or TV shows on our smart TV mounted across the way; each couch doubles as a sleeper sofa (king sofa = downstairs; queen sofa = upstairs) that easily unfurls into quality sleepers rather than the traditional “backbreaker” sofa beds (host-tested many nights over for comfort!). Our footrest ottomans have coffee table alter-egos by flipping the tops over. Centerpiece mantels adorn you with jungle animals or seafaring pieces - and include a spread of books to enjoy at your leisure. Vibrant overhead lighting can be complemented or swapped for softer couchside lighting as nighttime reading rolls around. And finally, our shelves are stocked with various utilities and practical what-ifs: lightbulbs, chargers, flashlight, first aid kit, basic tools and spare batteries - but thoughtfully perched away from any young ones’ prying arms. 
+
+DINING AREA  
+Dining areas in each apartment feature petite wooden table, two dining chairs, and two accessible foldable chairs + extra tray tables to cozily accommodate any quartets in each apartment. The kitchen is fully equipped (see below!) with everything to set the table for the perfect stay-in date-night, hangout, or family meal. 
+
+KITCHEN
+Our kitchens are filled to a cook’s desire, with tools and vessels ranging from colander to meat thermometer to full grill set to blender to air fryer to ladle to bowl and plastic tupperware to tea kettle to mugs to plastic cups, wine glasses, and plates alongside more traditional glassware. Whether you’re whipping up a full night’s dinner or just enjoying some tasty takeout, our fully-appointed kitchen is equipped to ensure you make the most of your meal. Even at Tangle & Tide, we try to avoid sea-salty tap water, so we’ve also got a water filter pitcher to convert the tap water into more delightfully drinkable H2O. Our electric ovens and stovetops make for quick cooking, with overhead vents to keep the air flow fresh. Our dishwashers make doing dishes a breeze, and our retractable screen doors allows for some fresh air while you’re cooking up a storm. 
+
+PARKS & RECREATION
+Game on. Picnic on. Park on. Tangle & Tide features a sophisticated yet chic picnic basket n in each apartment containing all your picnicker needs [wine glasses, cooler, blanket, corkscrew, utensils, handkerchiefs, and more] to make your day out at majestic Forsyth Park or any of Savannah’s verdant squares as easy and memorable as possible, without needing to pack anything extra yourself before your stay. At home or at the park, enjoy our selection of nearly a dozen board games and card games, curated to strike a healthy balance of word games, games of chance, strategy games, games of wit, and puzzles. We also have a football, soccer ball, and ball pump for sportier jaunts to the park. 
+
+OUTDOOR SPACE 
+Our backyard offers fresh air and lounging comfort complete with grill, dining table and chairs, and a charming suspended “egg” chair that you’ll sink right into with childish delight. Take in the morning sun or cool down in the shade of the retractable umbrella. Our propane grill, full grill set, and even backup propane ensures you’re ready for your very own BBQ meal. Please note that the backyard space shares an open border with our neighbors and serves as their emergency egress - so please be respectful and reasonably-volumed when enjoying the backyard! 
+
+PARKING 
+There is free street parking immediately in front of the home that covers nearly the full length of our half of the block (~6 “car lengths” wide), with backup parking on busy days available just around the corner, one block over, and on most adjacent streets. You’ll be shared with simple yet detailed instructions for parking to ensure you’re fully covered. 
+
+LAUNDRY SPACES 
+Your own private high-power washer and dryer laundry space in each apartment comes with free supplies offered to run your wash during your stay so that you don’t need to pack anything extra to account for cleanup after a night out, recreation in the park, a morning run, the toddler spill, or an earthy picnic. A steamer, iron, and ironing board are also tucked into each apartment for your use ahead of any special occasions!
+
+SVR - 03193 / 03194
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Safe
+Clothing storage
+Entertainment
+TV
+Family
+Pack ’n play/Travel crib
+Board games
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Portable fans
+Central heating
+Home safety
+Exterior security cameras on property
+We're big believers in privacy. Our backyard and front area cameras are *not* actively monitored and only checked retrospectively if an emergency is reported, or for package deliveries.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Laundromat nearby
+Outdoor
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+BBQ grill
+Beach essentials
+Beach gear such as towels, chairs, and an umbrella
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Tangle & Tide|2 Themed Apts. in Full Private Home
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 2 bedrooms · 4 beds · 2 baths
+Rated 5.0 out of 5 stars.
+5.0
+·
+1 review
+Hosted by Paul
+Superhost · 4 years hosting
+Listing highlights
+Steps from Forsyth Park
+Forsyth Park is steps away, with the Victorian Historic District and city squares all walkable
+Shared backyard with grill and seating
+A shared backyard with a propane grill, dining table, and suspended egg chairs for lounging
+Two-apartment historic townhouse
+Two themed apartments with separate kitchens, living rooms, and in-unit laundry in each
+Look us up at "Tangle & Tide Savannah"! Historic charm meets tasteful themes in Savannah's heart. Our private townhouse with separate upstairs/downstairs apts. means your group gets together when wanted and privacy when needed - with fully appointed kitchens, comfort-tuned quarters, and walkable to so many Historic District icons. Idyllic Forsyth Park + year-round Farmers Market are just steps away. All within 5 minutes *walking* are local gems like Sentient Bean,Local 11ten,& Corner Suite.
+
+The space
+Enjoy key-free access to *both* apartments in this historic piece of early 20th century Savannah now tastefully modernized to fit the needs of any Savannah stay. Upstairs you’ll find The Maiden Voyage, artfully maritime-themed for sailors and landlubbers alike; downstairs lies The Jungle Nook, an immersive step into imaginative flora and fauna. Each apartment has vibrant bedroom with lavish king beds, full bathroom, comfy living room with expansive and host-tested sleep sofas, smart TVs in all living rooms and bedrooms, thoughtfully-appointed workstations, fully-equipped kitchen with dining nook, and separate laundry spaces. Your stay is topped off with a shared backyard that features a grill, dining space, umbrella, and two cozy suspended egg chairs for hanging under the sun or shade. 
+
+Sip a morning cup of coffee from the Keurig as you sink into your apartment’s couch or the suspended egg chair in the sunny backyard. Walk 2 minutes to verdant Forsyth Park for a morning stroll and catch the Saturday Farmers Market before meandering downtown to take in River Street and more of Savannah’s city squares. Swing back by Tangle & Tide to grab our guest picnic baskets - fully equipped with utensils, tools, plates, blanket, wine holder, and cups for any snacker’s or wino’s needs - for a sunset picnic in Forsyth stocked with some healthy groceries from Brighter Day Natural Foods across the street. Go out to some of Savannah’s iconic spots downtown or uptown, shop upscale or thrifty, or just stay in altogether for a cozy night and grill it up in the backyard if you’d like. Enjoy a second splash of lushness, this time under the jungly full-wall mural, or a second sunset under the host’s very own wall mural –  before cuddling up in the king-size bed and winding down with your favorite movie on the bedroom’s big-screen smart TV. 
+
+Relax and recharge at Tangle & Tide amidst your Savannah adventures with all of these options and more, or plug back in as needed, with 300 Mbps FAST wifi for streaming or video calls over a handful of devices at once, and multiple workstation surfaces fully equipped for your short- or long-term stay! 
+
+BEDROOMS
+In each apartment’s bedroom you’ll find… a king bed with high-quality linens, breathable duvet, and plenty of pillows alongside oversized blackout curtains for a good night’s rest. Ten-foot ceilings and large, original windows give the space air, elegance, and sun-drenched daytimes. A large-screen mounted smart TV adorns the wall opposite the bed for easy viewing and cozy movie nights. Decorative touches throughout the room are headlined by an immersive jungle scene wallpaper. The retro Vornado fan doubles as both an excellent circulator and a white noise generator for those looking to mask the hustle and bustle of city streets during busier times of year. A full-length mirror makes for convenient suiting up, dressing up, or getting made up prior to a day or night out on the town. Nightstand and desk with soft glow lamps and USB and outlet surge protectors mean less fuss and fidgeting for your morning and nighttime routines. And a dresser and closet mean you, family, and/or friends can comfortably settle in during your stay without having to live out of your suitcase. Traveling with infants or toddlers? We've also got 2 pack n' play / travel cribs available to make the parents' stay a bit easier! 
+
+WORKSTATION / STUDIO 
+Each apartment has a workstation area in the bedroom, consisting of simple desk, lamp, and solid work surface for a laptop, notebook, and your cup of joe. A dimmable touch lamp with USB charger allows you to easily stay plugged in and work in the lighting that you find most productive, with vibrant wall mural (upstairs) and hanging jungle accents (downstairs) to keep your natural zen even as you plug into cyberspace with fast 300 mbps internet. 
+
+Our dining table, along with two accessible foldable tray tables + chairs, offer a second work surface to round out any remote work duos. And for the more couch-minded digital nomads, our living room ottomans flip into solid-surface tabletops for couch-side computer crunching. 
+
+LIVING ROOM
+Our living rooms each feature comfort-tuned couches which you can sink into for casual reading, blanketed cuddling, or the latest sports, movies, or TV shows on our smart TV mounted across the way; each couch doubles as a sleeper sofa (king sofa = downstairs; queen sofa = upstairs) that easily unfurls into quality sleepers rather than the traditional “backbreaker” sofa beds (host-tested many nights over for comfort!). Our footrest ottomans have coffee table alter-egos by flipping the tops over. Centerpiece mantels adorn you with jungle animals or seafaring pieces - and include a spread of books to enjoy at your leisure. Vibrant overhead lighting can be complemented or swapped for softer couchside lighting as nighttime reading rolls around. And finally, our shelves are stocked with various utilities and practical what-ifs: lightbulbs, chargers, flashlight, first aid kit, basic tools and spare batteries - but thoughtfully perched away from any young ones’ prying arms. 
+
+DINING AREA  
+Dining areas in each apartment feature petite wooden table, two dining chairs, and two accessible foldable chairs + extra tray tables to cozily accommodate any quartets in each apartment. The kitchen is fully equipped (see below!) with everything to set the table for the perfect stay-in date-night, hangout, or family meal. 
+
+KITCHEN
+Our kitchens are filled to a cook’s desire, with tools and vessels ranging from colander to meat thermometer to full grill set to blender to air fryer to ladle to bowl and plastic tupperware to tea kettle to mugs to plastic cups, wine glasses, and plates alongside more traditional glassware. Whether you’re whipping up a full night’s dinner or just enjoying some tasty takeout, our fully-appointed kitchen is equipped to ensure you make the most of your meal. Even at Tangle & Tide, we try to avoid sea-salty tap water, so we’ve also got a water filter pitcher to convert the tap water into more delightfully drinkable H2O. Our electric ovens and stovetops make for quick cooking, with overhead vents to keep the air flow fresh. Our dishwashers make doing dishes a breeze, and our retractable screen doors allows for some fresh air while you’re cooking up a storm. 
+
+PARKS & RECREATION
+Game on. Picnic on. Park on. Tangle & Tide features a sophisticated yet chic picnic basket n in each apartment containing all your picnicker needs [wine glasses, cooler, blanket, corkscrew, utensils, handkerchiefs, and more] to make your day out at majestic Forsyth Park or any of Savannah’s verdant squares as easy and memorable as possible, without needing to pack anything extra yourself before your stay. At home or at the park, enjoy our selection of nearly a dozen board games and card games, curated to strike a healthy balance of word games, games of chance, strategy games, games of wit, and puzzles. We also have a football, soccer ball, and ball pump for sportier jaunts to the park. 
+
+OUTDOOR SPACE 
+Our backyard offers fresh air and lounging comfort complete with grill, dining table and chairs, and a charming suspended “egg” chair that you’ll sink right into with childish delight. Take in the morning sun or cool down in the shade of the retractable umbrella. Our propane grill, full grill set, and even backup propane ensures you’re ready for your very own BBQ meal. Please note that the backyard space shares an open border with our neighbors and serves as their emergency egress - so please be respectful and reasonably-volumed when enjoying the backyard! 
+
+PARKING 
+There is free street parking immediately in front of the home that covers nearly the full length of our half of the block (~6 “car lengths” wide), with backup parking on busy days available just around the corner, one block over, and on most adjacent streets. You’ll be shared with simple yet detailed instructions for parking to ensure you’re fully covered. 
+
+LAUNDRY SPACES 
+Your own private high-power washer and dryer laundry space in each apartment comes with free supplies offered to run your wash during your stay so that you don’t need to pack anything extra to account for cleanup after a night out, recreation in the park, a morning run, the toddler spill, or an earthy picnic. A steamer, iron, and ironing board are also tucked into each apartment for your use ahead of any special occasions!
+
+SVR - 03193 / 03194
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Backyard
+Exterior security cameras on property
+Show all 60 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+1 review
+1 review
+Average rating will appear after 3 reviews
+How reviews work
+How reviews work
+Lauren
+Clearwater, Florida
+Rating, 5 stars
+,
+·
+October 2025
+,
+·
+Stayed with kids
+Had a great stay. Loved the combo apts. Walkable to so much stuff. It rained our whole stay but we still were able to walk every where we went. Great touches in both places. You can tell the hosts put a lot of effort into small touches and details throughout. Will definitely be back!
+Show more
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Meet your host
+Paul
+Superhost
+213 reviews
+213
+Reviews
+4.94 out of 5 average rating
+4.94
+Rating
+4 years of hosting
+4
+Years hosting
+Fun fact: Met my wife on an airplane!
+Speaks English and Spanish
+Through the years, Paige and I have fallen in love with the unparalleled exploration of the American road trip. We've been blessed to hit the roads from sea to shining sea taking in various countryside and cityscape. Through it all, Georgia has won a special place in our hearts as home, boasting southern city charm to subdued shorelines to Blue Ridge mountains to maybe even Bigfoot. We're excited to share our home and these experiences with you.
+Paul is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+House vacation rentals in Chatham County
+House vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+House vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

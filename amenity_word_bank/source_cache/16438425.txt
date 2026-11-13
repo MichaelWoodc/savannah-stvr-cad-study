@@ -1,0 +1,466 @@
+URL: https://www.airbnb.com/rooms/16438425
+Title: Style & Comfort at Ellis Square
+Latitude: 32.0799
+Longitude: -81.0942
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Janet
+Host ID: 8051677
+Host profile ID: 1462747914451334002
+Host URL: https://www.airbnb.com/users/profile/1462747914451334002
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+=== FULL DESCRIPTION ===
+Fall for the charm of this loft-style flat with gleaming wood floors, brick walls, & a view of historic Savannah. With an elevator, king bed & pull-out sofa, this high-ceilinged, 100-year-old warehouse space sports tall windows that stream with sunlight. If you love the elegance, fun & buzz of downtown Savannah, Ellis Square Place is for you. Please note that because of its central location you will hear people having fun on the streets--especially weekends. Parking not included. 
+SVR-00661
+
+The space
+Inside the well-appointed apartment building equipped with an elevator, sunlight streams through tall windows, into a high-ceilinged 100 year old warehouse space. Historic hardwood floors and exposed original brick walls recall Savannah’s trading past. A beautiful fully equipped kitchen opens onto a dining area, living and entertaining space. This flows into the bedroom area and bathroom. Exquisitely furnished, City Market Central is the perfect spot for up to 4 people to enjoy one of America’s most fun-living cities. 
+Entertain in style from the fully stocked kitchen and bar cart or kick back and enjoy the 50" LED TV with internet access for Netflix (bring your own code), YouTube, etc., and local channels. The apartment offers a romantic king-sized bed, and a custom made leather queen sleeper sofa. The en suite bathroom features a Jacuzzi tub. Pamper yourself with high thread count organic cotton sheets and quilts and quality Turkish towels. Ample walk-in closets will take care of your party wardrobe. High-speed Wi-Fi for business and everything else. Washer/dryer for laundry. White noise machine to temper the noise of late-night revelers. Park at Whitaker Street Garage, a 3-minute walk from your front door. (Parking not included.)
+
+**Please Note: You will hear street noise, which may be loud--especially on weekends. We provide two white noise machines and ear plugs.**
+
+Guest access
+This 750 sq. ft. private apartment is at your complete disposal. There is room in the closets, drawers and shelves for you to unpack and feel at home.
+
+Other things to note
+Travel/Vacation Insurance – No one wants to cancel or cut short their travel plans, especially if they end up paying for a vacation they didn’t get to use. Travel Insurance can protect your vacation investment. I do not offer nor endorse any particular company or plan, I just want to inform or remind you that such coverage exists. To purchase, contact your insurance provider or do an Internet search.
+
+*3 night minimum stay for St. Patrick's Day & Rock N Roll Marathon*
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+City skyline view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: walk-in closet and closet
+Entertainment
+50 inch HDTV with Amazon Prime Video, Hulu, Netflix, standard cable
+Books and reading material
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stainless steel electric stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Parking and facilities
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Paid parking off premises
+Single level home
+No stairs in home
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Style & Comfort at Ellis Square
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+4 guests · 1 bedroom · 1 bed · 1 bath
+Rated 4.89 out of 5 stars.
+4.89
+·
+367 reviews
+Hosted by Janet
+Superhost · 13 years hosting
+Listing highlights
+In Savannah's Historic District
+Ellis Square and City Market are steps away, with Broughton Street shops right out the door.
+Converted warehouse with brick and light
+A 750 sq ft loft with exposed brick walls, high ceilings, and tall windows that fill the space with light.
+A comfortable bed guests keep coming back to
+Guests praise the comfortable bed, and many return visits speak to the listing's appeal.
+Fall for the charm of this loft-style flat with gleaming wood floors, brick walls, & a view of historic Savannah. With an elevator, king bed & pull-out sofa, this high-ceilinged, 100-year-old warehouse space sports tall windows that stream with sunlight. If you love the elegance, fun & buzz of downtown Savannah, Ellis Square Place is for you. Please note that because of its central location you will hear people having fun on the streets--especially weekends. Parking not included. 
+SVR-00661
+
+The space
+Inside the well-appointed apartment building equipped with an elevator, sunlight streams through tall windows, into a high-ceilinged 100 year old warehouse space. Historic hardwood floors and exposed original brick walls recall Savannah’s trading past. A beautiful fully equipped kitchen opens onto a dining area, living and entertaining space. This flows into the bedroom area and bathroom. Exquisitely furnished, City Market Central is the perfect spot for up to 4 people to enjoy one of America’s most fun-living cities. 
+Entertain in style from the fully stocked kitchen and bar cart or kick back and enjoy the 50" LED TV with internet access for Netflix (bring your own code), YouTube, etc., and local channels. The apartment offers a romantic king-sized bed, and a custom made leather queen sleeper sofa. The en suite bathroom features a Jacuzzi tub. Pamper yourself with high thread count organic cotton sheets and quilts and quality Turkish towels. Ample walk-in closets will take care of your party wardrobe. High-speed Wi-Fi for business and everything else. Washer/dryer for laundry. White noise machine to temper the noise of late-night revelers. Park at Whitaker Street Garage, a 3-minute walk from your front door. (Parking not included.)
+
+**Please Note: You will hear street noise, which may be loud--especially on weekends. We provide two white noise machines and ear plugs.**
+
+Guest access
+This 750 sq. ft. private apartment is at your complete disposal. There is room in the closets, drawers and shelves for you to unpack and feel at home.
+
+Other things to note
+Travel/Vacation Insurance – No one wants to cancel or cut short their travel plans, especially if they end up paying for a vacation they didn’t get to use. Travel Insurance can protect your vacation investment. I do not offer nor endorse any particular company or plan, I just want to inform or remind you that such coverage exists. To purchase, contact your insurance provider or do an Internet search.
+
+*3 night minimum stay for St. Patrick's Day & Rock N Roll Marathon*
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 king bed
+
+What this place offers
+City skyline view
+Kitchen
+Wifi
+Dedicated workspace
+50 inch HDTV with Amazon Prime Video, Hulu, Netflix, standard cable
+Elevator
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Show all 52 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.89 out of 5 stars from 367 reviews
+4.89 · 367 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 91% of reviews
+5
+4 stars, 8% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Noise
+120
+Walkability
+123
+Location
+288
+Nearby
+66
+Comfort
+82
+Parking
+39
+Accuracy
+55
+Sleep quality
+68
+Hospitality
+128
+Cleanliness
+97
+Kristen
+Perry, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Super cute loft in the middle of all the action of Savannah.  We loved walking next door for morning coffee and not having to use our car at all.  Janet was helpful and responsive and we enjoyed our time there!
+Show more
+Jake
+Valdosta, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+The studio was exactly as pictured and as advertised. We had a great time during our stay. We parked our car in a garage when we arrived on Thursday afternoon and didn't need it until we left on Saturday morning. This room is right in the middle of downtown and there is no shortage of things to see and do, or places to eat, within walking distance.
+However, the thing that makes this place so great during the day (the location), is also the worst part about it during the night. All of the other reviews are not exaggerating when they talk about noise from the street. The noise machines help, but definitely plan on bringing some comfortable ear plugs. 
+The positives out weighed the negatives by a lot and we wouldn't hesitate to book the room again.
+Show more
+Andrew
+Navarre, Florida
+Rating, 3 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+The place is amazing itself.  Location  is the worst. Right next to 3 night clubs. Windows are very thin, police are parked right outside the building and crank up their "NO LOITERING,  LEAVE THE AREA"  and blast their sirens at 2:45 am. All the  foot traffic noise of people  starts around 10pm. 
+Does not get truly quiet until 4am-ish.
+White noise box is a nice gesture but not effective. 
+We landed late (1030 pm) on Friday and finding parking was very hard that first night. 
+It is a shame because the place is in an amazing location and area fantastic,  but we will never stay there again. 
+Have no idea what it is like during the week? Maybe great? We stayed Friday-Sunday.
+Show more
+Abigail
+6 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+This place was beautiful. Right in the heart of Savannah and walkable to everything including amazing breakfast options just next door. The traffic would have been loud at night, but the hosts provided sound makers which blocked out pretty much everything coming from outside except for the occasional siren which is to be expected in any large city. Overall we greatly enjoyed our stay!
+Show more
+Jonathan
+Old Fort, Tennessee
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Everything was perfect, and the location couldn’t have been better! We had a little rain during our stay, but that didn’t put a damper on our trip at all we were there to relax and enjoy ourselves. My wife absolutely loved the studio apartment. It was cozy, charming, well-maintained, and exactly what we were hoping for.
+Being right on the corner of City Market was a huge bonus and made it easy to explore the area. There was a little city activity outside at one point, but nothing that affected our stay or kept us from getting a great night’s sleep. In fact, it just added to the character and energy of the location. Thank you for providing such a wonderful place to stay. We had an amazing time, would happily recommend it to others, and will definitely be back in the future!
+Show more
+Ismail
+Savannah, Georgia
+Rating, 5 stars
+,
+·
+3 weeks ago
+,
+·
+Stayed a few nights
+It was AWESOME!!!
+Show all 367 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Steps away from Ellis Square and City Market and minutes from the restaurants and nightlife of River Street. Turn left from your front door and you are in the thick of the nightlife of Congress Street. Turn right and you walk right into the boutiques on Broughton Street.
+Show more
+Meet your host
+Janet
+Superhost
+4,735 reviews
+4735
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+13 years of hosting
+13
+Years hosting
+My work: JW Management
+Speaks English and Spanish
+Hello! I've been lucky enough to live in beautiful Savannah, Georgia since 2004. I manage properties for friends and look forward to having you as a guest. Also, I'm a Superhost and have been since the program began in September 2014. This means I am an experienced host who consistently answers inquiries and is highly rated. Please look at my properties and send me an inquiry. I look forward to hosting you soon. P.S. I welcome diversity!
+Janet is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for infants (under 2 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

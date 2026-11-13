@@ -1,0 +1,505 @@
+URL: https://www.airbnb.com/rooms/17764007
+Title: Luxury New Modern Townhouse With Parking Spot!
+Latitude: 32.0663
+Longitude: -81.0909
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Mary
+Host ID: 10371587
+Host profile ID: 1462838847845697919
+Host URL: https://www.airbnb.com/users/profile/1462838847845697919
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Newly constructed townhouse with a private reserved parking spot! This gorgeous house is steps from the major downtown grocery store, a few blocks from Forsyth Park and under a mile to the River. Your group will enjoy a gourmet high end kitchen stocked with everything you need to cook and eat at home. Professionally decorated with high end comfortable furnishings. 
+
+City of Savannah SVR -00724
+
+The space
+In addition to the gorgeous kitchen, this home has a nice dining table, private back courtyard, private full size laundry machines, beautiful modern bathrooms and designer furniture with local art throughout the home.
+
+The master bedroom has a King bed and en-suite bathroom with walk in tiled shower. 
+
+Bedroom 2 has two Twin size beds Bedroom 3 has a Queen size bed. Those bedrooms share a full bathroom with combo tub/shoer, conveniently accessible to both bedrooms as it is located off the hallway. 
+
+The living room has a Full size pullout sofa bed (linens provided). We also provide a pack-n-play (portable crib) and a booster high chair for those of you with a baby!
+
+Guest access
+This is a private rental. Respect your neighbors. There is no shared space, the entire house is yours.
+
+Other things to note
+I wanted to mention that Savannah has certain bugs which we can control to some extent with poison (which every hotel and vacation rental will use on perimeters) but guests still can see them, even if they’re slower and dying from walking across poison barriers. Specifically palmetto bugs are prolific here. If guests see one we do not issue any refunds due to seeing these.
+
+Events, holidays and stays during March & April may require 3 night minimums and/or have higher rates than the standard ones published. Please inquire to confirm a quote.
+
+This is a traditional vacation rental home, not a “bed and breakfast”. We do not provide food or drinks but we do provide basic cooking and serving utensils, a coffee maker, and dish soap. Downtown Savannah has a major supermarket (Kroger) and a 24 hour market (Parkers on Drayton) so there is no need to pack everything from home if shopping when you get here makes more sense. 
+
+What to bring with you:
+
+A typical grocery run prior to arriving at your vacation home would include coffee, beer/wine, milk, eggs, butter, bread and any other basic groceries you would need for the meals you eat in the home. 
+
+When it comes to coffee, bring your own ground coffee or K-cups. The home does have a 12-cup drip coffee maker and a Keurig.  We do not typically provide coffee but if you find coffee in the apartment please feel free to use it.
+
+You should bring or buy your own napkins, laundry detergent, your own beach towels and beach gear, and your own cooler if you need one.  
+
+What we provide:
+
+We provide toilet paper (2 extras per bathroom), liquid hand washing dish soap, bathroom soap, sheets on each bed, and at least one bath towel for each guest. We do not permit our towels to be taken out of the house which is why you must bring your own towels if you visit the beach. 
+
+If you find we have left seasonings, oil, dishwasher pellets, or any unopened food or drinks then of course feel free to use what is there. We occasionally leave items but just cannot promise them all the time. 
+
+Please also note that in Savannah, sugar ants can smell cookies, spilled sugar or syrup, or an open sugar container from a mile away and will find a way in through a windowsill or door frame. It can be somewhat like a cartoon picnic where they march in a line to find the food. To avoid this try to keep your snacks contained in air tight baggies, the refrigerator, or buy single serve packets and put the trash in the outdoor trash cans as soon as possible. 
+
+The following is standard Savannah Luxury Rentals information: We provide sheets, toilet paper and soap. If you prefer thick cushioned toilet paper bring it along but use it sparingly in our older plumbing and never flush "flushable" wipes or other products that are likely to cause a clog.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Hotel size bar soap body soap
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Iron
+Entertainment
+TV with standard cable
+Family
+Pack ’n play/Travel crib
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Exterior security cameras on property
+Exterior cameras with a view of rear courtyard + Front door.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Oven
+Coffee maker
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Private patio or balcony
+Parking and facilities
+Free parking on premises
+Free street parking
+Services
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Luxury New Modern Townhouse With Parking Spot!
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+6 guests · 3 bedrooms · 4 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.93 out of 5 stars.
+4.93
+162 reviews
+162
+Reviews
+Hosted by Mary
+Superhost · 13 years hosting
+Listing highlights
+In Savannah's Historic District
+About a 5-min walk to Forsyth Park and Whitefield Square, with shops and restaurants nearby
+Free reserved parking
+A dedicated parking spot included, a real convenience in downtown Savannah
+Mary is a responsive, helpful host
+Guests praise the host Mary for clear communication and quick, helpful responses
+Newly constructed townhouse with a private reserved parking spot! This gorgeous house is steps from the major downtown grocery store, a few blocks from Forsyth Park and under a mile to the River. Your group will enjoy a gourmet high end kitchen stocked with everything you need to cook and eat at home. Professionally decorated with high end comfortable furnishings. 
+
+City of Savannah SVR -00724
+
+The space
+In addition to the gorgeous kitchen, this home has a nice dining table, private back courtyard, private full size laundry machines, beautiful modern bathrooms and designer furniture with local art throughout the home.
+
+The master bedroom has a King bed and en-suite bathroom with walk in tiled shower. 
+
+Bedroom 2 has two Twin size beds Bedroom 3 has a Queen size bed. Those bedrooms share a full bathroom with combo tub/shoer, conveniently accessible to both bedrooms as it is located off the hallway. 
+
+The living room has a Full size pullout sofa bed (linens provided). We also provide a pack-n-play (portable crib) and a booster high chair for those of you with a baby!
+
+Guest access
+This is a private rental. Respect your neighbors. There is no shared space, the entire house is yours.
+
+Other things to note
+I wanted to mention that Savannah has certain bugs which we can control to some extent with poison (which every hotel and vacation rental will use on perimeters) but guests still can see them, even if they’re slower and dying from walking across poison barriers. Specifically palmetto bugs are prolific here. If guests see one we do not issue any refunds due to seeing these.
+
+Events, holidays and stays during March & April may require 3 night minimums and/or have higher rates than the standard ones published. Please inquire to confirm a quote.
+
+This is a traditional vacation rental home, not a “bed and breakfast”. We do not provide food or drinks but we do provide basic cooking and serving utensils, a coffee maker, and dish soap. Downtown Savannah has a major supermarket (Kroger) and a 24 hour market (Parkers on Drayton) so there is no need to pack everything from home if shopping when you get here makes more sense. 
+
+What to bring with you:
+
+A typical grocery run prior to arriving at your vacation home would include coffee, beer/wine, milk, eggs, butter, bread and any other basic groceries you would need for the meals you eat in the home. 
+
+When it comes to coffee, bring your own ground coffee or K-cups. The home does have a 12-cup drip coffee maker and a Keurig.  We do not typically provide coffee but if you find coffee in the apartment please feel free to use it.
+
+You should bring or buy your own napkins, laundry detergent, your own beach towels and beach gear, and your own cooler if you need one.  
+
+What we provide:
+
+We provide toilet paper (2 extras per bathroom), liquid hand washing dish soap, bathroom soap, sheets on each bed, and at least one bath towel for each guest. We do not permit our towels to be taken out of the house which is why you must bring your own towels if you visit the beach. 
+
+If you find we have left seasonings, oil, dishwasher pellets, or any unopened food or drinks then of course feel free to use what is there. We occasionally leave items but just cannot promise them all the time. 
+
+Please also note that in Savannah, sugar ants can smell cookies, spilled sugar or syrup, or an open sugar container from a mile away and will find a way in through a windowsill or door frame. It can be somewhat like a cartoon picnic where they march in a line to find the food. To avoid this try to keep your snacks contained in air tight baggies, the refrigerator, or buy single serve packets and put the trash in the outdoor trash cans as soon as possible. 
+
+The following is standard Savannah Luxury Rentals information: We provide sheets, toilet paper and soap. If you prefer thick cushioned toilet paper bring it along but use it sparingly in our older plumbing and never flush "flushable" wipes or other products that are likely to cause a clog.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Free parking on premises
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Private patio or balcony
+Pack ’n play/Travel crib
+Exterior security cameras on property
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.93 out of 5 from 162 reviews.
+4.93
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 6% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.8 out of 5 stars for location
+Location
+4.8
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+49
+Comfort
+54
+Parking
+28
+Location
+72
+Cleanliness
+73
+Nearby
+45
+Parks
+6
+Hospitality
+40
+Sleep quality
+23
+Getting around
+26
+André
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+4 weeks ago
+,
+·
+Stayed with kids
+Great place to stay in a very convenient location. Close to many restaurants and Cafes. Will stay again.
+Soteria
+Charleston, South Carolina
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Stayed a few nights
+We loved everything about our stay. What a beautiful place and location! The Airbnb was exactly as pictured. We walked to Forsyth Park every day and highly recommend The Collins Quarter, The Mate Factor, The Sentient Bean coffee shop, Brighter Day Natural Foods for specialty groceries, and the Goodwill vintage boutique.
+It’s also just a short drive to anything you’d want to see downtown, but we spent a lot of time in the neighborhood because it was so wonderful. We truly can’t recommend Mary’s place enough.
+Just a quick note for anyone traveling with elderly family members: there are stairs, and they can be a bit steep, but my mother managed them just fine.
+Show more
+Taehwan
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+We stayed at Mary’s Airbnb in Savannah for two nights with our family and had a great experience. The location was excellent—close to Forsyth Park and conveniently near grocery stores, making it easy to get around and pick up anything we needed. One of the best features was the parking, which was very convenient and hassle-free. The home offered good value for the price, and we were happy with our stay. We would recommend it to anyone visiting Savannah.
+Show more
+Eui-Chul
+11 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+It was a comfortable and nice place to stay. The landlord is also very kind.
+Dorothy
+Piedmont, California
+Rating, 5 stars
+,
+·
+January 2026
+,
+·
+Stayed with kids
+We enjoyed our 3 day stay at this lovely townhouse.
+Our host welcomed us graciously. 
+Place was clean, well stocked, quiet and very comfortable for our family of six including. 2 grandparents. There was even a designated parking space. 
+The location was  near the beautiful  Forsynth  Park and walking distance to sites and restaurants. 
+We thank our host.
+Show more
+Katie
+Maineville, Ohio
+Rating, 5 stars
+,
+·
+November 2025
+,
+·
+Group trip
+Had a fantastic stay! Well maintained home. Close to Forsyth Park. Very walkable. Instructions were clear for check in. Having a designated parking spot was a bonus.
+Show all 162 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Bounce Luggage Storage - Victorian District
+Storage
+Screamin' Mimi's
+Food and drink
+Kroger
+Grocery store
+Jones Street - Prettiest Street in Savannah
+Tourist attraction
+CVS
+Pharmacy
+B. Matthew's Eatery
+Restaurant
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+This gorgeous house is steps from the major downtown grocery store, a few blocks from Forsyth Park and under a mile to the River. This is at the southern end of the one square mile Historic District of Savannah.
+Show more
+Meet your host
+Mary
+Superhost
+12,063 reviews
+10,000
++
+Reviews
+4.83 out of 5 average rating
+4.83
+Rating
+13 years of hosting
+13
+Years hosting
+My work: Anderson VIP Concierge LLC
+Lives in Savannah, Georgia
+SavannahLuxuryRentals is a one stop shop for vacation rentals, tennis lessons for hire whenever possible and trolley tour tickets ;) We have budget friendly basic rentals as well as some of the most gorgeous luxury homes available. Please ask if you need us to help you select the best fit for you! Your contacts at the company will be Mary or Jennifer
+Mary is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Skylynn
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

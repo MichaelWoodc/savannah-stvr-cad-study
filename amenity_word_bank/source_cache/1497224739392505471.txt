@@ -1,0 +1,512 @@
+URL: https://www.airbnb.com/rooms/1497224739392505471
+Title: Walk to Forsyth and River Street * Ideal Location
+Latitude: 32.0723
+Longitude: -81.0918
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Laura W/ Southern Grace Getaways
+Host ID: 673964632
+Host profile ID: 1470687891344471003
+Host URL: https://www.airbnb.com/users/profile/1470687891344471003
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Set just off historic Lafayette Square, this stunning first-floor flat is perfect for your Savannah stay. Located in the heart of the Savannah Historic District, you're just a short stroll from the Cathedral of St. John the Baptist, Forsyth Park, River Street, and many of the city's best restaurants, shops, and landmarks.
+
+This beautiful home is filled with charm and character, from ornate architectural details to cozy corners bathed in sunlight, the space is designed to make you feel at home.
+
+The space
+This elegant first-floor flat blends historic Savannah charm with modern comforts. Featuring a sunlit bay window, ornate columns, and a grand fireplace, the open living space is perfect for relaxing after a day of exploring. The fully equipped kitchen boasts custom cream cabinetry, stainless steel appliances, and a spacious island. With three comfortable bedrooms (1 king, 2 queen, 1 sleeper) and two classic bathrooms, the home comfortably accommodates up to six guests. Located just off Lafayette Square in the heart of the Historic District, you’ll be steps from Savannah’s most iconic landmarks.
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+★ Key Features:
+
+• Prime location near Lafayette Square
+
+• 3 bedrooms (1 king, 2 queens)
+
+• Sleeper in living room
+
+• 2 full bathrooms
+
+• Sunlit bay window & grand fireplace
+
+• Full kitchen w/ stainless steel appliances
+
+• Ceiling fans in bedrooms & living room
+
+• In-unit washer & dryer
+
+• High-speed WiFi & smart TVs
+
+• Elegant historic details throughout
+
+• Walk to Forsyth Park, shops & dining
+
+
+
+SVR-00753
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Extra pillows and blankets
+Iron
+Clothing storage
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Portable fans
+Heating
+Home safety
+Exterior security cameras on property
+Exterior cameras and cameras in the shared stairwell
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Waterfront
+Right next to a body of water
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free street parking
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Walk to Forsyth and River Street * Ideal Location
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+8 guests · 3 bedrooms · 4 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.84 out of 5 stars.
+4.84
+25 reviews
+25
+Reviews
+Hosted by Laura W/ Southern Grace Getaways
+Superhost · 2 years hosting
+Listing highlights
+In Savannah's Historic District
+Right on Lafayette Square, steps from the Cathedral of St. John the Baptist and Forsyth Park
+Historic townhouse with period details
+Ornate columns, a grand fireplace, and a sunlit bay window in a historic first-floor flat
+Attentive hosts, walkable location
+Guests highlight the location and how responsive and attentive Laura is throughout the stay
+Some info has been automatically translated. Show original
+Set just off historic Lafayette Square, this stunning first-floor flat is perfect for your Savannah stay. Located in the heart of the Savannah Historic District, you're just a short stroll from the Cathedral of St. John the Baptist, Forsyth Park, River Street, and many of the city's best restaurants, shops, and landmarks.
+
+This beautiful home is filled with charm and character, from ornate architectural details to cozy corners bathed in sunlight, the space is designed to make you feel at home.
+
+The space
+This elegant first-floor flat blends historic Savannah charm with modern comforts. Featuring a sunlit bay window, ornate columns, and a grand fireplace, the open living space is perfect for relaxing after a day of exploring. The fully equipped kitchen boasts custom cream cabinetry, stainless steel appliances, and a spacious island. With three comfortable bedrooms (1 king, 2 queen, 1 sleeper) and two classic bathrooms, the home comfortably accommodates up to six guests. Located just off Lafayette Square in the heart of the Historic District, you’ll be steps from Savannah’s most iconic landmarks.
+
+Guest access
+Guests have a private access and will receive a key code prior to arrival to enter the home. This keycode is changed after every guest for your safety.
+
+Other things to note
+★ Key Features:
+
+• Prime location near Lafayette Square
+
+• 3 bedrooms (1 king, 2 queens)
+
+• Sleeper in living room
+
+• 2 full bathrooms
+
+• Sunlit bay window & grand fireplace
+
+• Full kitchen w/ stainless steel appliances
+
+• Ceiling fans in bedrooms & living room
+
+• In-unit washer & dryer
+
+• High-speed WiFi & smart TVs
+
+• Elegant historic details throughout
+
+• Walk to Forsyth Park, shops & dining
+
+
+
+SVR-00753
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Waterfront
+Kitchen
+Wifi
+Dedicated workspace
+Free street parking
+TV
+Washer
+Dryer
+Air conditioning
+Exterior security cameras on property
+Show all 57 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.84 out of 5 from 25 reviews.
+4.84
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 84% of reviews
+5
+4 stars, 16% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Location
+16
+Walkability
+6
+Hospitality
+11
+Parking
+3
+Cleanliness
+6
+Family
+4
+Indoor spaces
+5
+Nearby
+5
+Comfort
+5
+Condition
+2
+Sophia
+Kansas City, Missouri
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Great place, felt clean and right at home. Wasn’t too noisy at night. Good location with lots to do, felt safe. The fridge water didn’t work but that’s the only issue we ran into. Host communicated well.
+Show more
+Jen
+Sterling Heights, Michigan
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Southern Grace is in the perfect location. The space is stunning and welcoming. The hosts were so sweet and responsive.  My family and I had the best time and will definitely stay again!
+Show more
+John
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Had a great time. Accommodations were perfect
+Show more
+Tara
+4 years on Airbnb
+Rating, 4 stars
+,
+·
+August 2026
+,
+·
+Group trip
+We had a great time at this Airbnb! The location is great and Laura is very attentive as a host!
+Show more
+Sayvon
+Charleston, South Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Group trip
+We enjoyed our stay, and would recommend it to another group as well.
+Show more
+Melina
+9 years on Airbnb
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Group trip
+The living and dining room area were as described, charming and friendly. Accurate location, everything was a 10-20min walk away. Most of the surrounding parking is not free or has restrictions except on weekends, and the spot that is attached to the property is not for guest use.
+Small things need upgrades - such as a broken shower floor, the doorknob handle fell off, the water from the refrigerator did not work & a broken chair in the living room, but the host was responsive and offered to have someone come and fix it during our stay. 
+It is a 2-story building and another party was above us, it was still private just good to know if you expect a certain noise level.
+Show more
+Show all 25 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Show more
+Meet your host
+Laura W/ Southern Grace Getaways
+Superhost
+537 reviews
+537
+Reviews
+4.83 out of 5 average rating
+4.83
+Rating
+2 years of hosting
+2
+Years hosting
+Born in the 70s
+Where I went to school: Winthrop University
+Laura W/ Southern Grace Getaways is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Kennedy
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in: 4:00 PM - 11:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Waterfront vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Waterfront vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Family-friendly vacation rentals in Georgia
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

@@ -1,0 +1,536 @@
+URL: https://www.airbnb.com/rooms/16083674
+Title: Gorgeous One Level at Forsyth Park
+Latitude: 32.0666
+Longitude: -81.0947
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Janet
+Host ID: 8051677
+Host profile ID: 1462747914451334002
+Host URL: https://www.airbnb.com/users/profile/1462747914451334002
+Bedrooms: 3
+Occupancy (maximum guests): 5
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 3
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 single bed
+
+=== FULL DESCRIPTION ===
+Garden Suite-Your Family Oasis at Forsyth Park. 
+Park Off-street, Walk Everywhere.
+One of The Suites at Forsyth
+
+Barely a stone's throw from Forsyth Park, The Suites at Forsyth will set the bar for your vacation rental experience in Savannah. Lovingly restored in the classic Savannah style, you will fall in love with this 1870's townhouse. One of three units in the building, Garden Suite is located on the ground floor.
+
+City of Savannah Short-Term Vacation Rental Certificate SVR-00406
+
+The space
+Old World Grace and Modern Convenience with Assigned Parking for One Car--A Rarity in Savannah!
+
+Your breath will catch as you enter.  This gorgeous space feels like you’ve stepped into the pages of a design magazine. With exceptional attention to detail, the beautiful restoration blends old world grace and modern convenience. The original heart pine floors gleam, the modern kitchen and bathrooms glow, and the 12-foot ceilings frame it all. To create this perfect blend of old Savannah charm and a modern designer's touch, all of the furnishings and art were sourced locally and thoughtfully in Savannah.
+
+In the foyer is a roll-top desk where you can check email. The gracious and welcoming living room boasts a 12-foot ceiling and an antique Italian chandelier. Every corner of this room is a feast for the eyes. There is a comfortable sofa and chairs, reading lamps, and a 50-inch high definition TV. The living room flows easily into the huge eat-in kitchen with a round farm table at its center. It is a perfect place to gather with friends and family to cook a great meal. We supply coffee (Free Trade Organic), teas, spices and oils to save you time and money. 
+
+The library, with its cozy day bed, is tucked off the kitchen and is a great place to slip away to curl up with a book or take a nap. Here you will find another desk as well as our lending library. The laundry room features a full-sized washer and dryer and an iron and board.
+
+The sleeping quarters are down the hallway from the main living area. Each bedroom has its own full bath directly across the hall from it. One bedroom has a comfortable king bed, nightstands, large dresser and a wardrobe. The second has a comfortable queen bed, nightstands, a dresser, and a small wardrobe. Both bathrooms are gorgeously tiled and filled with an assortment of personal care products including a hair dryer. One bath has a full-sized shower and the second has an original cast iron tub and shower. Quality bed linens and towels are provided, along with soaps, shampoo and conditioner. You'll also find a white-noise sound machine in each bedroom. The just-installed heating and cooling system will keep you comfortable no matter what the weather brings. 
+
+Reach your private deck through the back of the suite. With a table for six and direct access to the incredible courtyard, this is a perfect place to dine al fresco, enjoy your morning coffee, or sip sweet tea or wine in the afternoon. If you're feeling social, simply step off your deck into the lush tropical oasis that is the shared courtyard.
+
+For your entertainment, enjoy WIFI, cable TV with 70 channels, as well as streaming video--bring your own codes. For music, you can choose Pandora on the Amazon Fire TV Stick or the Amazon Echo for effortless music streaming. Simply say "Echo, play jazz" (or your favorite selection) and the music will play. 
+
+We use Seventh Generation cleaning products and choose fragrance-free whenever possible. 
+
+Two Outdoor Living Rooms
+Gather with friends on the graceful front porch under the glow of the gas lanterns. Each walk-up porch offers seating for six and recessed lighting adds to a warm glow to the gas lamps. 
+
+Delight in the rear courtyard, our crown jewel. This tropical oasis is ideal for morning coffee, afternoon cocktails, dining al fresco, and enjoying the warm Savannah nights in a gently-lit dream garden. 
+
+The fenced and secure courtyard is shared by all of the guests of The Suites at Forsyth* and was designed to be experienced both communally and privately. The center is a large patio where you can gather with family, friends and meet other guests. If you desire a private experience, then slip into one of the four sheltered spaces that nestle at the periphery of the courtyard. These four ‘rooms’ are tucked into the foliage; each with vintage outdoor chairs and tables. The lovely lighting, lush landscaping, and splashing water from the fountain will make the courtyard your favorite place in Savannah--your ‘outdoor living room’.
+
+*The Suites at Forsyth consist of six private residences within two historic, attached homes. We’re confident you’ll fall in love with our 1870's townhouses just like we did! We are two sets of friends who fulfilled a long-held desire to renovate a beautiful structure in one of Savannah's historic districts.
+
+Guest access
+This 1150 sq. ft. private apartment is at your complete disposal. There is room in the closets, drawers and bathroom shelves for you to unpack and feel at home. Garden Suite is one of three apartments sharing the front door and the front porch on this side of the house. There are six units total that share the courtyard.
+
+Other things to note
+Travel/Vacation Insurance – No one wants to cancel or cut short their travel plans, especially if they end up paying for a vacation they didn’t get to use. Travel Insurance can protect your vacation investment. I do not offer nor endorse any particular company or plan, I just want to inform or remind you that such coverage exists. To purchase, contact your insurance provider or do an Internet search.
+
+No arrivals or departures on St. Patrick's Day, March 17. You want to be here to enjoy the festivities!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Courtyard view
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Clothing storage: wardrobe and dresser
+Entertainment
+44 inch HDTV with standard cable, Roku
+Bluetooth sound system
+Books and reading material
+Family
+Children’s books and toys
+Board games
+Heating and cooling
+Central air conditioning
+Portable fans
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 222 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+GE stainless steel electric stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Outdoor
+Shared patio or balcony
+Shared backyard – Fully fenced
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Parking and facilities
+Free parking on premises
+Free street parking
+Single level home
+No stairs in home
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Gorgeous One Level at Forsyth Park
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire rental unit in Savannah, Georgia
+5 guests · 3 bedrooms · 3 beds · 2 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.96 out of 5 stars.
+4.96
+324 reviews
+324
+Reviews
+Hosted by Janet
+Superhost · 13 years hosting
+Listing highlights
+Steps from Forsyth Park
+Forsyth Park is steps away, with restaurants and a grocery store within a few blocks.
+Restored 1870s townhouse with high ceilings
+An 1870s townhouse with 12-foot ceilings, heart pine floors, and a private deck off the back.
+Guests praise Janet and the location
+Many guests highlight Janet's responsiveness and the walkable location near Forsyth Park.
+Garden Suite-Your Family Oasis at Forsyth Park. 
+Park Off-street, Walk Everywhere.
+One of The Suites at Forsyth
+
+Barely a stone's throw from Forsyth Park, The Suites at Forsyth will set the bar for your vacation rental experience in Savannah. Lovingly restored in the classic Savannah style, you will fall in love with this 1870's townhouse. One of three units in the building, Garden Suite is located on the ground floor.
+
+City of Savannah Short-Term Vacation Rental Certificate SVR-00406
+
+The space
+Old World Grace and Modern Convenience with Assigned Parking for One Car--A Rarity in Savannah!
+
+Your breath will catch as you enter.  This gorgeous space feels like you’ve stepped into the pages of a design magazine. With exceptional attention to detail, the beautiful restoration blends old world grace and modern convenience. The original heart pine floors gleam, the modern kitchen and bathrooms glow, and the 12-foot ceilings frame it all. To create this perfect blend of old Savannah charm and a modern designer's touch, all of the furnishings and art were sourced locally and thoughtfully in Savannah.
+
+In the foyer is a roll-top desk where you can check email. The gracious and welcoming living room boasts a 12-foot ceiling and an antique Italian chandelier. Every corner of this room is a feast for the eyes. There is a comfortable sofa and chairs, reading lamps, and a 50-inch high definition TV. The living room flows easily into the huge eat-in kitchen with a round farm table at its center. It is a perfect place to gather with friends and family to cook a great meal. We supply coffee (Free Trade Organic), teas, spices and oils to save you time and money. 
+
+The library, with its cozy day bed, is tucked off the kitchen and is a great place to slip away to curl up with a book or take a nap. Here you will find another desk as well as our lending library. The laundry room features a full-sized washer and dryer and an iron and board.
+
+The sleeping quarters are down the hallway from the main living area. Each bedroom has its own full bath directly across the hall from it. One bedroom has a comfortable king bed, nightstands, large dresser and a wardrobe. The second has a comfortable queen bed, nightstands, a dresser, and a small wardrobe. Both bathrooms are gorgeously tiled and filled with an assortment of personal care products including a hair dryer. One bath has a full-sized shower and the second has an original cast iron tub and shower. Quality bed linens and towels are provided, along with soaps, shampoo and conditioner. You'll also find a white-noise sound machine in each bedroom. The just-installed heating and cooling system will keep you comfortable no matter what the weather brings. 
+
+Reach your private deck through the back of the suite. With a table for six and direct access to the incredible courtyard, this is a perfect place to dine al fresco, enjoy your morning coffee, or sip sweet tea or wine in the afternoon. If you're feeling social, simply step off your deck into the lush tropical oasis that is the shared courtyard.
+
+For your entertainment, enjoy WIFI, cable TV with 70 channels, as well as streaming video--bring your own codes. For music, you can choose Pandora on the Amazon Fire TV Stick or the Amazon Echo for effortless music streaming. Simply say "Echo, play jazz" (or your favorite selection) and the music will play. 
+
+We use Seventh Generation cleaning products and choose fragrance-free whenever possible. 
+
+Two Outdoor Living Rooms
+Gather with friends on the graceful front porch under the glow of the gas lanterns. Each walk-up porch offers seating for six and recessed lighting adds to a warm glow to the gas lamps. 
+
+Delight in the rear courtyard, our crown jewel. This tropical oasis is ideal for morning coffee, afternoon cocktails, dining al fresco, and enjoying the warm Savannah nights in a gently-lit dream garden. 
+
+The fenced and secure courtyard is shared by all of the guests of The Suites at Forsyth* and was designed to be experienced both communally and privately. The center is a large patio where you can gather with family, friends and meet other guests. If you desire a private experience, then slip into one of the four sheltered spaces that nestle at the periphery of the courtyard. These four ‘rooms’ are tucked into the foliage; each with vintage outdoor chairs and tables. The lovely lighting, lush landscaping, and splashing water from the fountain will make the courtyard your favorite place in Savannah--your ‘outdoor living room’.
+
+*The Suites at Forsyth consist of six private residences within two historic, attached homes. We’re confident you’ll fall in love with our 1870's townhouses just like we did! We are two sets of friends who fulfilled a long-held desire to renovate a beautiful structure in one of Savannah's historic districts.
+
+Guest access
+This 1150 sq. ft. private apartment is at your complete disposal. There is room in the closets, drawers and bathroom shelves for you to unpack and feel at home. Garden Suite is one of three apartments sharing the front door and the front porch on this side of the house. There are six units total that share the courtyard.
+
+Other things to note
+Travel/Vacation Insurance – No one wants to cancel or cut short their travel plans, especially if they end up paying for a vacation they didn’t get to use. Travel Insurance can protect your vacation investment. I do not offer nor endorse any particular company or plan, I just want to inform or remind you that such coverage exists. To purchase, contact your insurance provider or do an Internet search.
+
+No arrivals or departures on St. Patrick's Day, March 17. You want to be here to enjoy the festivities!
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 3 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 single bed
+
+What this place offers
+Courtyard view
+Kitchen
+Fast wifi – 222 Mbps
+Dedicated workspace
+Free parking on premises
+44 inch HDTV with standard cable, Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Show all 59 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.96 out of 5 from 324 reviews.
+4.96
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Location
+216
+Parks
+63
+Parking
+30
+Outdoor spaces
+81
+Walkability
+101
+Nearby
+76
+Hospitality
+110
+Cleanliness
+86
+Indoor spaces
+67
+Comfort
+69
+Rebecca
+10 years on Airbnb
+Rating, 4 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+The place was well located, generally clean and had all the standard, modern amenities. As is common with historic homes, the walls are thin so bring earplugs if you're a light sleeper! Be aware that you only receive one roll of toilet paper per bathroom, so bring or buy your own. The parking is one space for the driveway and then free-for-all street parking - be aware of the street cleaner times as you'll need to move your car a few times. Otherwise the owners are responsive, if needed.
+Show more
+Katharine
+Virginia Beach, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Great location to forsyth park and about a mile from the downtown area. The area was quiet and she made the most of the space. Check in was easy and parking in the lot next door was easy too!  It was a bit hot with the Savannah sun beating down when we arrived in the space but it cooled off over night. They had the essentials in the kitchen which made quick meals easy.
+Show more
+Sally
+St. Louis, Missouri
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+My sisters and I had a wonderful weekend in Savannah, and Janet’s Airbnb was the perfect home base. The layout was ideal, with the kitchen serving as the heart of the home where we enjoyed getting together to play card games.  We also loved starting our morning on the beautiful front porch with a cup of coffee.
+The location couldn’t have been better - just down from Forsyth Park.  Overall, we had a fantastic time in Savannah and our stay at Janet’s Airbnb made the trip even more special.  We would definitely stay here again.
+Show more
+Jenn
+Utica, New York
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+Great stay at Janet’s place in Savannah! The location was perfect for our family, especially with our 4-year-old. We loved being so close to Forsyth Park’s playground and grabbing coffee at Collin’s walk-up window just steps away. The house itself was stunning (think equal parts historic charm and modern comfort) and so welcoming, with plenty of comfortable space for our family of 5. Would happily stay again!
+Show more
+Michael
+Folly Beach, South Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Beautiful home. Right on Gwinnett adjacent to the Bardo and Park. Two amazing restaurants steps away. Cant beat the location. Home was clean, well appointed and has a great outdoor space.
+Show more
+Jana
+9 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+The place beat our expectations. Super convenient, felt very safe and enjoyed our stay immensely!
+Show all 324 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+All of historic Savannah is literally at your doorstep. Park your car in its private lot and explore the tree-lined streets and gardens of this gorgeous city. Within a few blocks you will find a major grocery store along with restaurants, bars, coffee shops, and more. Famous Bull Street passes through the center of Forsyth Park, just a couple hundred feet away.
+Show more
+Meet your host
+Janet
+Superhost
+4,738 reviews
+4738
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+13 years of hosting
+13
+Years hosting
+My work: JW Management
+Speaks English and Spanish
+Hello! I've been lucky enough to live in beautiful Savannah, Georgia since 2004. I manage properties for friends and look forward to having you as a guest. Also, I'm a Superhost and have been since the program began in September 2014. This means I am an experienced host who consistently answers inquiries and is highly rated. Please look at my properties and send me an inquiry. I look forward to hosting you soon. P.S. I welcome diversity!
+Janet is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+5 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for infants (under 2 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Apartment vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Apartment vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

@@ -1,0 +1,609 @@
+URL: https://www.airbnb.com/rooms/13167983
+Title: Heated Pool Access | 5*Clean | Flex Cancelation
+Latitude: 32.0742
+Longitude: -81.0887
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 3
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 4
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+One of our Savannah vacation rentals to consider on your Georgia vacations is the Habersham House. This is a nearly 2,500 square foot property with three bedrooms and two and a half baths. It's a fantastic location for vacation homes Savannah between East Perry Street and East Perry Lane, which puts it near the Colonial Park Cemetery and a variety of good restaurants like the Bier Haus and Screamin' Mimis.
+
+The space
+Finding things to do near your vacation homes Savannah won't be hard when you're in walking distance of many historic sites. Right nearby the Habersham House is the Colonial Park Cemetery, which covers about six acres and is now more of a park, since it has been closed to new burials since the mid-1800s. Deep in the historic district is four renovated blocks that is now known as the City Market. This is one of the top visited places in downtown Savannah and features jazz clubs, restaurants, many open-air cafes, boutiques and gift shops. Another top attraction in Savannah is the 26 acres that constitutes Forsyth Park. Prominently featured in the well-known book and movie "Midnight in the Garden of Good and Evil," this park really shines in the spring time when all the flowers are in bloom. The famous iron fountain completes the park known as the "pride of Savannah" and is modeled after a similar fountain in Paris. Another feature from the "Midnight in the Garden of Good and Evil" book and film is Monterey Square and The Mercer House. This house is available for tours and also has a museum. A quick way to see Savannah is to take one of the many tours. You can choose from horse-drawn carriages, pedal-cabs and guided walking tours among others.
+
+
+
+Savannah is always full of things to do and various festivals and celebrations happen all year round. The following is a short list of events that might be available:
+
+
+
+• Annual Martin Luther King, Jr. Day Celebration in January
+
+• Georgia Heritage Society's Colonial Faire and Muster in February
+
+• Savannah Music Festival in March
+
+• Fourth of July Fireworks on the Beach in July
+
+• Seafood & Music Festival in August
+
+• Savannah Jazz Festival in September
+
+• Savannah Harbor Boat Parade of Lights in November
+
+• Holiday Tour of Homes in December
+
+
+
+SVR-00574
+
+Guest access
+Fantastic Location!
+
+    One Queen Bedroom Ensuite Bathroom
+
+    One Queen Bedroom
+
+    One King Bedroom
+
+    One Pull-Out Sofa
+
+    Elevator
+
+    2.5 Baths
+
+    Garage Parking for 1 Car
+
+    Gourmet Kitchen
+
+    Recently Remodeled
+
+    Drip Coffee Maker
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Pool
+Elevator
+The home or building has an elevator that’s at least 52 inches deep and a doorway at least 32 inches wide
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Heated Pool Access | 5*Clean | Flex Cancelation
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire home in Savannah, Georgia
+8 guests · 3 bedrooms · 4 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.97 out of 5 stars.
+4.97
+96 reviews
+96
+Reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In the heart of Savannah's historic district
+Steps from Troup Square, with Lafayette Square and the Flannery O'Connor Home nearby
+Private garage parking
+A private garage in a neighborhood where street parking is scarce
+Loved for location and comfort
+Guests highlight the walkable location, comfortable beds, and a responsive host
+One of our Savannah vacation rentals to consider on your Georgia vacations is the Habersham House. This is a nearly 2,500 square foot property with three bedrooms and two and a half baths. It's a fantastic location for vacation homes Savannah between East Perry Street and East Perry Lane, which puts it near the Colonial Park Cemetery and a variety of good restaurants like the Bier Haus and Screamin' Mimis.
+
+The space
+Finding things to do near your vacation homes Savannah won't be hard when you're in walking distance of many historic sites. Right nearby the Habersham House is the Colonial Park Cemetery, which covers about six acres and is now more of a park, since it has been closed to new burials since the mid-1800s. Deep in the historic district is four renovated blocks that is now known as the City Market. This is one of the top visited places in downtown Savannah and features jazz clubs, restaurants, many open-air cafes, boutiques and gift shops. Another top attraction in Savannah is the 26 acres that constitutes Forsyth Park. Prominently featured in the well-known book and movie "Midnight in the Garden of Good and Evil," this park really shines in the spring time when all the flowers are in bloom. The famous iron fountain completes the park known as the "pride of Savannah" and is modeled after a similar fountain in Paris. Another feature from the "Midnight in the Garden of Good and Evil" book and film is Monterey Square and The Mercer House. This house is available for tours and also has a museum. A quick way to see Savannah is to take one of the many tours. You can choose from horse-drawn carriages, pedal-cabs and guided walking tours among others.
+
+
+
+Savannah is always full of things to do and various festivals and celebrations happen all year round. The following is a short list of events that might be available:
+
+
+
+• Annual Martin Luther King, Jr. Day Celebration in January
+
+• Georgia Heritage Society's Colonial Faire and Muster in February
+
+• Savannah Music Festival in March
+
+• Fourth of July Fireworks on the Beach in July
+
+• Seafood & Music Festival in August
+
+• Savannah Jazz Festival in September
+
+• Savannah Harbor Boat Parade of Lights in November
+
+• Holiday Tour of Homes in December
+
+
+
+SVR-00574
+
+Guest access
+Fantastic Location!
+
+    One Queen Bedroom Ensuite Bathroom
+
+    One Queen Bedroom
+
+    One King Bedroom
+
+    One Pull-Out Sofa
+
+    Elevator
+
+    2.5 Baths
+
+    Garage Parking for 1 Car
+
+    Gourmet Kitchen
+
+    Recently Remodeled
+
+    Drip Coffee Maker
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property is not pet-friendly. If you’re traveling with a dog, ask us about our pet-friendly properties that accommodate up to 2 dogs (50 lb combined weight max) for a $130 pet fee.
+Show more
+All sleeping arrangements
+
+Advertised beds: 4 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pool
+TV with standard cable
+Elevator
+Washer
+Dryer
+Air conditioning
+Show all 52 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.97 out of 5 from 96 reviews.
+4.97
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 97% of reviews
+5
+4 stars, 3% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+43
+Parking
+24
+Location
+58
+Access
+17
+Cleanliness
+25
+Comfort
+21
+Family
+18
+Indoor spaces
+16
+Hospitality
+24
+Condition
+10
+Andrew
+California, Maryland
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We enjoyed our time at the Habersham house. The property was as clean and a great space for our family of 5. Instructions were clear and accurate and Southern Belle were very responsive and helpful. The only miss was that the dryer was out of service but we didn’t see the sign on it until the day before we checked out. When I contacted Southern Belle in the evening they offered to find an empty rental nearby with a working washer/dryer but it was too late to start that process. They also offered us a late checkout, which was a nice gesture. I would definitely book with Southern Belle again if we find ourselves in the Savannah area in the future.
+Show more
+Alexander
+Johns Creek, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with kids
+We had another wonderful stay at this beautiful home in Savannah! This was actually our second time staying here - we first visited four years ago and loved it so much that we came back.
+The house is gorgeous, spacious, and very well equipped with everything we needed. We especially appreciated the private garage, so we never had to worry about parking on the street, and the elevator was a great convenience. The location is fantastic, making it easy to explore Savannah.
+Everything was clean, comfortable, and exactly as expected. We would happily stay here again and highly recommend this home to anyone visiting Savannah.
+Show more
+Barb
+Marietta, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Great home! Great location! We loved this beautifully decorated home with its spacious living room and bedrooms, along with the garage and elevator!
+Barb and Dave Smith
+Show more
+Katrina
+4 months on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Group trip
+This is a BEAUTIFUL house. We really enjoyed staying here. The location was very quiet, even with construction across the street. The garage space was well worth it since it rained several times. The elevator was fantastic for the person in our party who has mobility issues. I would highly recommend this house. We walked to River Street, Bull Street shops, and Forsyth Park easily.
+Show more
+Armando
+Dallas, Georgia
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Absolutely stunning home. Loved the neighborhood; it was quiet but still very close to historic downtown. Everything was easy to reach, and the garage was amazing to have
+Jonathan
+Kite, Georgia
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Group trip
+Location was great was great place within walking distance of everything we needed very clean right at home
+Show all 96 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Broughton East
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Beach house vacation rentals in Savannah
+House vacation rentals in Chatham County
+Family-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

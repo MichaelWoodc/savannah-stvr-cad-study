@@ -1,0 +1,566 @@
+URL: https://www.airbnb.com/rooms/1061824254594787543
+Title: Historic 5 Star•Troup Sq•2 King•2 Parking•Courtyd
+Latitude: 32.0727
+Longitude: -81.0887
+Privacy radius (meters): 0
+Location type: Unverified
+Location precision: Exact displayed location
+Location verification: Not verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Donna
+Host ID: 35035474
+Host profile ID: 1462667345016842642
+Host URL: https://www.airbnb.com/users/profile/1462667345016842642
+Bedrooms: 2
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: False
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: privacy_radius_available
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 2
+
+Bed-count verification: matched
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+=== FULL DESCRIPTION ===
+Unwind in our 1890 Historic District townhouse steeped in Southern charm. Enter the lantern-lit courtyard & step into soaring 13’ ceilings, crown molding, antique furnishings, luxe kitchen & two welcoming king bedrooms with 2.5 baths. Enjoy free parking in front & only steps from Troup Square, the Cathedral & favorite local eateries. Sip morning coffee or evening wine in the serene courtyard, then stroll cobblestone streets & savor Savannah’s best Southern flavors—all from charming Harris Haven.
+
+The space
+Please take a moment to add our Haven on Harris townhouse to your wishlist by clicking the ❤ in the upper-right corner so you can easily find us again. 
+
+Our family townhouse is a true Southern haven—tucked away on a quiet residential street, hidden from the crowds, yet just steps from Savannah’s most beloved sights and experiences.
+
+This downtown gem offers two off-street parking spaces (a rare and valuable treat in Savannah), making it easy to explore the city on foot and return home effortlessly. Step outside and you’re immediately immersed in the rhythm of historic Savannah—tree-lined streets, classic townhomes, and the gentle hush of a true residential neighborhood.
+
+If you love strolling beneath moss-draped oaks, admiring 18th- and 19th-century architecture, or lingering at an outdoor café, you’re right where you should be. Just around the corner, stop by Urban Deli for fresh bites, gourmet sandwiches, and excellent lattes—perfect fuel before a day of exploring. Along the way, enjoy a peaceful walk through Troup Square, home to the elegant Armillary Sphere, a favorite photo stop and one of the city’s most charming squares.
+
+Wander a few blocks to famed Jones Street, often called the most beautiful street in America, then stop in at Clary’s Café, a beloved Southern institution featured in Midnight in the Garden of Good and Evil. From there, continue south to Forsyth Park, where you’ll find the iconic white fountain, shaded walking paths, and the lively Saturday farmers market filled with local vendors, flowers, and fresh coastal flavors.
+
+History lovers will appreciate the short walk to the breathtaking Cathedral Basilica of St. John the Baptist, one of Savannah’s most awe-inspiring landmarks. Nearby Broughton Street invites you to shop, dine, and explore—home to boutiques, art galleries, restaurants, and classic Savannah squares that reveal something new with every visit.
+
+From this location, Savannah unfolds at an easy, unhurried pace. Slip on your walking shoes, follow the sound of church bells and carriage wheels, and let the beauty, history, and warm hospitality of the Hostess City carry you from one charming moment to the next 🌸
+
+SVR-02930
+
+Guest access
+Guests will have access to the entire luxury townhouse, charming courtyard and two off street parking spaces.
+
+Guest will have access to our provided items…
+Bed Linens & Blankets
+Luxury Towels
+Shampoo/Conditioner/Body Wash
+
+Starter amount…
+Dish Soap/Dishwasher Pods/Sponge
+Coffee (Regular & Decaf)/Creamer/Sugar/Artificial Sweetener/Tea
+Cell Phone Chargers & Cables
+Laundry Soap
+Toilet tissue/Paper Towels
+
+Other things to note
+Special Recommendations:
+We do like to offer our guests specialty vacation experiences at their request. We feel our homes provide a “live like a local” feel and strive for a personal touch that extends to the services we recommend below. All of these professionals come to you to make your vacation as relaxed as possible. 
+
+Chef
+Our chefs specialize in preparing personalized dinners or meals tailored to your preferences. 
+
+Baker
+Our baker specializes in cakes, cookies, meringues, cupcakes and amazing sweet treats of all kinds. I frequently send her a photo of something I’d like for a party or small gathering and she can make it! Most recently, she made my mothers 80th birthday cake and there wasn’t one morsel left over:) 
+
+Tour Guides
+Our guides specialize in history tours of Savannah’s Landmark Historic District. They can tailor your tour to your preferences…history, architecture, ghost or pub tour.
+
+Certified Yoga Instructors
+Our instructors specialize in providing a class for your group’s specific needs either on the back porch or dock at the River House of if you are staying at Parker House or Harris St townhouse, she can do them in the Square by the house. They will bring everything your group needs for the class.
+
+Charters
+We also have recommendations for fishing trips, dolphin watching and shark tooth hunting charters! Come explore Savannah’s coastal landscape with one of our experienced guides.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Scenic views
+Courtyard view
+Bathroom
+Bathtub
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage: walk-in closet, closet, wardrobe, and dresser
+Entertainment
+TV
+Books and reading material
+Family
+Pack ’n play/Travel crib - available upon request
+Sheets provided, room-darkening shades
+Standalone high chair - available upon request
+With padding and food tray
+Children’s dinnerware
+Board games
+Heating and cooling
+Air conditioning
+Ceiling fan
+Central heating
+Home safety
+Exterior security cameras on property
+Security cameras are on the EXTERIOR only of the townhouse, one facing the parking lot & one facing the door to the courtyard. Cameras are actively recording both audio & video. They are in place for safety if the police were called for any reason.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Outdoor furniture
+Parking and facilities
+Free parking on premises
+Services
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+Cleaning available during stay
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic 5 Star•Troup Sq•2 King•2 Parking•Courtyd
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+4 guests · 2 bedrooms · 2 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.98 out of 5 stars.
+4.98
+170 reviews
+170
+Reviews
+Hosted by Donna
+Superhost · 4 years hosting
+Listing highlights
+Top 1% of homes
+This home is one of the highest ranked based on ratings, reviews, and reliability.
+Steps from Troup Square
+Troup Square is right outside, with the Cathedral of St. John the Baptist about a 3-min walk away.
+Private courtyard with a Southern feel
+A lantern-lit courtyard with lounge seating, ideal for morning coffee or a quiet evening glass of wine.
+Donna goes above and beyond
+Guests consistently praise Donna's recommendations and responsiveness throughout the stay.
+Unwind in our 1890 Historic District townhouse steeped in Southern charm. Enter the lantern-lit courtyard & step into soaring 13’ ceilings, crown molding, antique furnishings, luxe kitchen & two welcoming king bedrooms with 2.5 baths. Enjoy free parking in front & only steps from Troup Square, the Cathedral & favorite local eateries. Sip morning coffee or evening wine in the serene courtyard, then stroll cobblestone streets & savor Savannah’s best Southern flavors—all from charming Harris Haven.
+
+The space
+Please take a moment to add our Haven on Harris townhouse to your wishlist by clicking the ❤ in the upper-right corner so you can easily find us again. 
+
+Our family townhouse is a true Southern haven—tucked away on a quiet residential street, hidden from the crowds, yet just steps from Savannah’s most beloved sights and experiences.
+
+This downtown gem offers two off-street parking spaces (a rare and valuable treat in Savannah), making it easy to explore the city on foot and return home effortlessly. Step outside and you’re immediately immersed in the rhythm of historic Savannah—tree-lined streets, classic townhomes, and the gentle hush of a true residential neighborhood.
+
+If you love strolling beneath moss-draped oaks, admiring 18th- and 19th-century architecture, or lingering at an outdoor café, you’re right where you should be. Just around the corner, stop by Urban Deli for fresh bites, gourmet sandwiches, and excellent lattes—perfect fuel before a day of exploring. Along the way, enjoy a peaceful walk through Troup Square, home to the elegant Armillary Sphere, a favorite photo stop and one of the city’s most charming squares.
+
+Wander a few blocks to famed Jones Street, often called the most beautiful street in America, then stop in at Clary’s Café, a beloved Southern institution featured in Midnight in the Garden of Good and Evil. From there, continue south to Forsyth Park, where you’ll find the iconic white fountain, shaded walking paths, and the lively Saturday farmers market filled with local vendors, flowers, and fresh coastal flavors.
+
+History lovers will appreciate the short walk to the breathtaking Cathedral Basilica of St. John the Baptist, one of Savannah’s most awe-inspiring landmarks. Nearby Broughton Street invites you to shop, dine, and explore—home to boutiques, art galleries, restaurants, and classic Savannah squares that reveal something new with every visit.
+
+From this location, Savannah unfolds at an easy, unhurried pace. Slip on your walking shoes, follow the sound of church bells and carriage wheels, and let the beauty, history, and warm hospitality of the Hostess City carry you from one charming moment to the next 🌸
+
+SVR-02930
+
+Guest access
+Guests will have access to the entire luxury townhouse, charming courtyard and two off street parking spaces.
+
+Guest will have access to our provided items…
+Bed Linens & Blankets
+Luxury Towels
+Shampoo/Conditioner/Body Wash
+
+Starter amount…
+Dish Soap/Dishwasher Pods/Sponge
+Coffee (Regular & Decaf)/Creamer/Sugar/Artificial Sweetener/Tea
+Cell Phone Chargers & Cables
+Laundry Soap
+Toilet tissue/Paper Towels
+
+Other things to note
+Special Recommendations:
+We do like to offer our guests specialty vacation experiences at their request. We feel our homes provide a “live like a local” feel and strive for a personal touch that extends to the services we recommend below. All of these professionals come to you to make your vacation as relaxed as possible. 
+
+Chef
+Our chefs specialize in preparing personalized dinners or meals tailored to your preferences. 
+
+Baker
+Our baker specializes in cakes, cookies, meringues, cupcakes and amazing sweet treats of all kinds. I frequently send her a photo of something I’d like for a party or small gathering and she can make it! Most recently, she made my mothers 80th birthday cake and there wasn’t one morsel left over:) 
+
+Tour Guides
+Our guides specialize in history tours of Savannah’s Landmark Historic District. They can tailor your tour to your preferences…history, architecture, ghost or pub tour.
+
+Certified Yoga Instructors
+Our instructors specialize in providing a class for your group’s specific needs either on the back porch or dock at the River House of if you are staying at Parker House or Harris St townhouse, she can do them in the Square by the house. They will bring everything your group needs for the class.
+
+Charters
+We also have recommendations for fishing trips, dolphin watching and shark tooth hunting charters! Come explore Savannah’s coastal landscape with one of our experienced guides.
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 2 | Count verified
+
+Bedroom 1
+1 king bed
+
+Bedroom 2
+1 king bed
+
+What this place offers
+Courtyard view
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+TV
+Washer
+Free dryer – In unit
+Air conditioning
+Exterior security cameras on property
+Show all 58 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.98 out of 5 from 170 reviews.
+4.98
+Guest favorite
+This home is in the top 1% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 98% of reviews
+5
+4 stars, 2% of reviews
+4
+3 stars, 0% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.9 out of 5 stars for value
+Value
+4.9
+Guest reviews mention
+Walkability
+72
+Location
+103
+Hospitality
+103
+Comfort
+53
+Parking
+29
+Sleep quality
+31
+Nearby
+19
+Indoor spaces
+29
+Quiet
+17
+Cleanliness
+38
+Kim
+Athens, Texas
+Rating, 4 stars
+,
+·
+5 days ago
+,
+·
+Stayed a few nights
+Cute house in a very walkable neighborhood. It was so quite you would never know you had neighbors. The beds were quite comfortable and we loved the furnishings. Our only complaint was the steep stairs to the bedrooms which were upstairs and the faint musty odor when we first arrived. To be honest, I expect this with homes of this age, but the overall home is stunning gorgeous and freshly updated from top to bottom.
+Show more
+Deanna
+Calgary, Canada
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed about a week
+Thank you so much Donna for the wonderful hospitality! The house is beautiful and exactly as described. The private parking was much appreciated, particularly in Savannah where spots are tough to find. The house is located with 0.5-1 mile of most restaurants, museums and shopping areas. We were maybe a 15 minute walk from everything, and never more than a 5 minute drive. Most importantly, Donna is a thoughtful and considerate host. She provided numerous recommendations, and was always responsive and kind. We will definitely be back - thanks again!
+Show more
+Alina
+Fort Lauderdale, Florida
+Rating, 5 stars
+,
+·
+2 weeks ago
+,
+·
+Stayed a few nights
+Fantastic location, cleanliness, and communication. Beds are comfy, towels are fluffy, and welcome treats were delicious. 10/10 recommend.
+Show more
+Carly
+Cleveland, Ohio
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with kids
+We used to live in the area, and we wanted a place that felt very Savannah while we were back in town. This townhouse has that historic elegance and character we were looking for. The bedrooms are beautiful with very comfortable king beds and pillows in each. We worked remotely throughout our stay. The wi-fi was adequate, and one bedroom has a desk (though the chair isn’t a comfy office chair). 
+The location is on the outside of downtown, so as long as you like a walk, you will have a quiet, peaceful stay while still being close to all the great restaurants and things to do downtown. Plus you have places on/near Liberty like The Public, Urban Deli, Savoy Society, Peregrin, etc, which are super close. 
+Donna is a great communicator, and she provides lots of clear instructions.
+Show more
+Troy
+Monroe, Georgia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+The location was great just 2 short blocks to the #16 Hop on Hop off trolley tour at StJohn’s Basilica. 
+We had a lovely time visiting!
+Show more
+Sunhee
+Chapel Hill, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+As soon as we walked into the house, our entire family was amazed. Everything was spotless and incredibly comfortable—from the kitchen, dining room, and living room to the bedrooms, bathrooms, and even the laundry room upstairs. The neighborhood was also very peaceful and made us feel safe throughout our stay.
+Donna was an exceptional host. She was kind, thoughtful, and always available whenever we had questions or needed help, making sure we had everything we needed to enjoy our stay.
+When it was time to leave, our family wished we could have stayed longer. We truly enjoyed our time here and created wonderful memories. We would absolutely love to stay here again if we have the opportunity. Highly recommended!
+Show more
+Show all 170 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Wesley Monumental United Methodist Church
+Religious site
+Unitarian Universalist Church Of Savannah
+Religious site
+215 E Broad St
+Premise
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+Neighborhood highlights
+316 Harris Street neighborhood is located in the Historic Landmark District. It is steps from beautiful Troup Square, the Cathedral Basilica of St John, many local eateries, bars and history filled streets of Savannah.
+Show more
+Meet your host
+Donna
+Superhost
+457 reviews
+457
+Reviews
+4.97 out of 5 average rating
+4.97
+Rating
+4 years of hosting
+4
+Years hosting
+Born in the 60s
+My work: Property Management
+Rooted in Savannah for over 55 years, our family-owned business is inspired by the city’s timeless beauty and rich history. We are proud to offer elegant, luxurious accommodations and personalized service. Our properties include Parker House on Warren Square, Haven on Harris near the Cathedral Basilica & The River House located on the Wilmington River, just 15 minutes from downtown. Our mission is to create an exceptional experience where you can truly relax and enjoy all Savannah has to offer.
+Donna is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Beth
+Abbegayle
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Townhome vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD

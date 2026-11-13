@@ -1,0 +1,589 @@
+URL: https://www.airbnb.com/rooms/547796117055595492
+Title: Historic Retreat | Parking | Sleeps 8 | Pets OK
+Latitude: 32.0701
+Longitude: -81.088
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Chris
+Host ID: 299762974
+Host profile ID: 1469540043461572564
+Host URL: https://www.airbnb.com/users/profile/1469540043461572564
+Bedrooms: 4
+Occupancy (maximum guests): 8
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 6
+
+Beds enumerated in room tiles: 6
+
+Bed-count verification: matched
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 queen bed, 2 single beds, 1 crib
+
+=== FULL DESCRIPTION ===
+A picture perfect family and friend getaway in the heart of Savannah. 
+✫ Full of historic charm.
+✫ Private deck and terrace w/ fire pit & hammock
+✫ Off street parking behind the property
+✫ 3 floors with 2100 sq ft 
+✫ Arcade system
+✫ Fully equipped kitchen
+✫ Near Whitefield Square
+✫ Walkable: Forsyth Park, Broughton St, River St, City Market, Civic Center all within a mile.
+✫ Walk Score: 81, Bike Score: 96
+
+SVR-02522
+
+The space
+Welcome to your warm and spacious retreat in Savannah’s charming Historic District! This beautifully restored 1800s townhouse blends timeless Southern character with modern comforts—perfect for families, friends, or pet-loving travelers seeking an unforgettable city escape.
+
+🏡 Highlights at a Glance
+    •	Prime walkable location – just a 10-minute stroll to iconic Forsyth Park, SCAD, River Street, and City Market (Walk Score 81, Bike Score 96) 
+    •	Private outdoor oasis – back-deck terrace complete with fire pit, hammock chair, and shaded relaxation
+    •	Rare downtown convenience – off-street parking available for up to 2 cars—ideal for Savannah visits 
+    •	4 bedrooms | 2.5 baths | sleeps 8 – ideal for group travel with families or friends 
+
+
+✨ Charming Historic Interiors
+    •	Three floors totaling ~2,100 sq ft with soaring ceilings, original hardwood floors, and classic fireplaces 
+    •	Living areas decorated in tasteful blend of modern-traditional furnishings—curated for comfort
+    •	Fully equipped kitchen and large formal dining room—great for family meals or entertaining
+
+🌙 Comfortable Accommodations
+    •	Master suite with private Juliet balcony—sip wine while overlooking the terrace
+    •	Three additional bright bedrooms with plush bedding
+    •	Two full bathrooms (one with a jetted tub) plus an elegant half bath
+
+🌳 Relax, Recharge, Explore
+   •	Outdoor terrace is a serene space to unwind after a day of sightseeing
+    •	Pet friendly (up to 2 dogs, max 50 lbs each)—no need to leave furry family behind 
+    •	Keyless entry ensures seamless, stress-free check-in and check-out
+
+📍 Savannah’s Historic District
+    •	Located in a peaceful pocket of the Beach Institute neighborhood—quiet yet close to the action
+    •	Easy access to the DOT shuttle at East Charlton & Drayton, or the free Downtowner rideshare (10 am–midnight) 
+    •	Quiet hours from 10 pm to 8 am ensure restful nights in this serene city setting 
+
+🔹 Why Guests Love It
+    •	"Great location!" – perfect for walking to everything with a quiet, historic neighborhood feel 
+    •	"Very spacious, clean, and charming" – ideal for large groups and pets 
+    •	"Hosts were very responsive" – seamless communication and smooth stay 
+
+✅ Book Your Stay Today
+Whether you're planning a family getaway, friends' reunion, or a pet-friendly dive into Savannah's rich culture, this historic townhouse offers modern comfort, excellent location, and rare amenities that make a stay memorable.
+
+Reserve Now to secure your dates—your magnolia-view oasis in Savannah awaits! 🌿
+
+Guest access
+You will be provided a keyless access code upon check-in.  You will have access to the entire home, back deck, terrace and driveway that can fit two cars.
+
+Other things to note
+Other Things to Note:
+Out of courtesy to our neighbors, quiet hours are from 10pm to 8am.  Please remember this is a home.  Please treat the space with respect.  If any problems arise we do our best to take action ASAP, but no one is living on-site 26/7.  A guest lease agreement outlining property rules must be signed prior to arrival.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Bathtub
+Hair dryer
+Cleaning products
+Shampoo
+Conditioner
+Body soap
+Bidet
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Cotton linens
+Room-darkening shades
+Iron
+Drying rack for clothing
+Clothing storage: walk-in closet, closet, and dresser
+Entertainment
+TV with Roku
+Record player
+Game console
+Arcade games
+Books and reading material
+Family
+Crib
+Pack ’n play/Travel crib
+High chair
+Board games
+Baby safety gates
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+In a common space
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Stainless steel oven
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Private backyard – Not fully fenced
+An open space on the property usually covered in grass
+Fire pit
+Outdoor furniture
+Hammock
+Outdoor dining area
+BBQ grill
+Parking and facilities
+Free parking on premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Smoking allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Lockbox
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Historic Retreat | Parking | Sleeps 8 | Pets OK
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+8 guests · 4 bedrooms · 6 beds · 2.5 baths
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.91 out of 5 stars.
+4.91
+91 reviews
+91
+Reviews
+Hosted by Chris
+Superhost · 5 years hosting
+Listing highlights
+In Savannah's Historic District
+Steps from Whitefield Square, with Forsyth Park and Lafayette Square about a 5-min walk away
+Private deck with fire pit and hammock
+A private back deck with a fire pit, hammock, and outdoor seating for unwinding after a day out
+Chris is a responsive, attentive host
+Guests consistently praise Chris for quick responses and checking in throughout the stay
+A picture perfect family and friend getaway in the heart of Savannah. 
+✫ Full of historic charm.
+✫ Private deck and terrace w/ fire pit & hammock
+✫ Off street parking behind the property
+✫ 3 floors with 2100 sq ft 
+✫ Arcade system
+✫ Fully equipped kitchen
+✫ Near Whitefield Square
+✫ Walkable: Forsyth Park, Broughton St, River St, City Market, Civic Center all within a mile.
+✫ Walk Score: 81, Bike Score: 96
+
+SVR-02522
+
+The space
+Welcome to your warm and spacious retreat in Savannah’s charming Historic District! This beautifully restored 1800s townhouse blends timeless Southern character with modern comforts—perfect for families, friends, or pet-loving travelers seeking an unforgettable city escape.
+
+🏡 Highlights at a Glance
+    •	Prime walkable location – just a 10-minute stroll to iconic Forsyth Park, SCAD, River Street, and City Market (Walk Score 81, Bike Score 96) 
+    •	Private outdoor oasis – back-deck terrace complete with fire pit, hammock chair, and shaded relaxation
+    •	Rare downtown convenience – off-street parking available for up to 2 cars—ideal for Savannah visits 
+    •	4 bedrooms | 2.5 baths | sleeps 8 – ideal for group travel with families or friends 
+
+
+✨ Charming Historic Interiors
+    •	Three floors totaling ~2,100 sq ft with soaring ceilings, original hardwood floors, and classic fireplaces 
+    •	Living areas decorated in tasteful blend of modern-traditional furnishings—curated for comfort
+    •	Fully equipped kitchen and large formal dining room—great for family meals or entertaining
+
+🌙 Comfortable Accommodations
+    •	Master suite with private Juliet balcony—sip wine while overlooking the terrace
+    •	Three additional bright bedrooms with plush bedding
+    •	Two full bathrooms (one with a jetted tub) plus an elegant half bath
+
+🌳 Relax, Recharge, Explore
+   •	Outdoor terrace is a serene space to unwind after a day of sightseeing
+    •	Pet friendly (up to 2 dogs, max 50 lbs each)—no need to leave furry family behind 
+    •	Keyless entry ensures seamless, stress-free check-in and check-out
+
+📍 Savannah’s Historic District
+    •	Located in a peaceful pocket of the Beach Institute neighborhood—quiet yet close to the action
+    •	Easy access to the DOT shuttle at East Charlton & Drayton, or the free Downtowner rideshare (10 am–midnight) 
+    •	Quiet hours from 10 pm to 8 am ensure restful nights in this serene city setting 
+
+🔹 Why Guests Love It
+    •	"Great location!" – perfect for walking to everything with a quiet, historic neighborhood feel 
+    •	"Very spacious, clean, and charming" – ideal for large groups and pets 
+    •	"Hosts were very responsive" – seamless communication and smooth stay 
+
+✅ Book Your Stay Today
+Whether you're planning a family getaway, friends' reunion, or a pet-friendly dive into Savannah's rich culture, this historic townhouse offers modern comfort, excellent location, and rare amenities that make a stay memorable.
+
+Reserve Now to secure your dates—your magnolia-view oasis in Savannah awaits! 🌿
+
+Guest access
+You will be provided a keyless access code upon check-in.  You will have access to the entire home, back deck, terrace and driveway that can fit two cars.
+
+Other things to note
+Other Things to Note:
+Out of courtesy to our neighbors, quiet hours are from 10pm to 8am.  Please remember this is a home.  Please treat the space with respect.  If any problems arise we do our best to take action ASAP, but no one is living on-site 26/7.  A guest lease agreement outlining property rules must be signed prior to arrival.
+Show more
+All sleeping arrangements
+
+Advertised beds: 6 | Enumerated: 6 | Count verified
+
+Bedroom 1
+1 queen bed
+
+Bedroom 2
+1 queen bed
+
+Bedroom 3
+1 queen bed
+
+Bedroom 4
+1 queen bed, 2 single beds, 1 crib
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Free parking on premises
+Pets allowed
+TV with Roku
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Bathtub
+Show all 66 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.91 out of 5 from 91 reviews.
+4.91
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 92% of reviews
+5
+4 stars, 7% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.7 out of 5 stars for cleanliness
+Cleanliness
+4.7
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+37
+Location
+60
+Parking
+12
+Hospitality
+37
+Indoor spaces
+19
+Family
+18
+Decor
+8
+Comfort
+11
+Cleanliness
+13
+Nearby
+6
+Megan
+Hendersonville, North Carolina
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed with a pet
+Very roomy home with all the amenities you could want. Well taken care of and comfy! Easy to walk to the downtown area. Two reserved spots for parking is a huge bonus and out front seemed to have lots of open parking as well. Even on the weekend during summer! I would absolutely stay here again with my family. Thankful our dog Dexter found come with us also. He enjoyed the stay as well! 4 paws from him!
+Show more
+Amanda
+Matthews, North Carolina
+Rating, 5 stars
+,
+·
+5 days ago
+,
+·
+Stayed with kids
+Amazing place! Loved everything about it! We parked the car and did not move till we left!
+Laura
+Brevard, North Carolina
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed with a pet
+Beautiful home in a beautiful city!!  Very comfortable, nicely decorated, large kitchen, charming historic home.  Parking spaces in the rear of the home (down the small street that runs behind the houses on E Taylor) which is nice.  Walkable to restaurants, bars and sights around Savannah.  Would definitely stay here again :)
+Show more
+Julie
+Arlington, Virginia
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Group trip
+We were a group of five women and found the house conducive to having great conversations in all the shared common spaces. We were lucky to have  nice weather so we could take advantage of morning coffee and evening cocktails on the patio. The house is easy walking distance to a grocery store and several restaurants.  The house was in immaculate condition and tastefully decorated.  Chris was very responsive to all our questions, which was much appreciated. We had a wonderful time.
+Show more
+Cali
+Athens, Georgia
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with a pet
+A great place to stay especially with a group. It’s in a great location and it was very inviting and comfortable!
+Angela
+Cohasset, Massachusetts
+Rating, 5 stars
+,
+·
+April 2026
+,
+·
+Stayed with kids
+Everything about our stay was great. We visited Savannah with a multi-generational family, one grandparent, two sets of adults and 3 kids aged 12, 13 and 15. The set up of the house was great where the kids had their own space on the third floor. Our octogenarian is pretty mobile, so the stairs weren't an issue to get to the bedrooms on the second floor. The location was both walkable and had easy access to the bus route. Chris was an excellent communicator and we thoroughly enjoyed our stay.
+Show more
+Show all 91 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+The Neighborhood:
+In a beautiful historic neighborhood close to all of the excitement Savannah has to offer yet far enough to enjoy quiet evenings and peaceful rest. You will be within a 10 minute walk of charming cafes, eateries, groceries, Forsyth park and much more!
+Show more
+Meet your host
+Chris
+Superhost
+91 reviews
+91
+Reviews
+4.91 out of 5 average rating
+4.91
+Rating
+5 years of hosting
+5
+Years hosting
+Born in the 80s
+My work: Assistant Town Manager
+Hi my wife Jessica and I are residents of the lowcountry. We love everything about the region from Charleston to Savannah. Chris works in local government and has his Master of Public Administration and is a Rotarian and Jessica is a local veterinarian. We enjoy hikes and the beach with our kids. We love exploring Savannah and hope you enjoy it as much as we do!
+Chris is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+8 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Must climb stairs
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Mansion vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Townhome vacation rentals in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

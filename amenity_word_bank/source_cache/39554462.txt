@@ -1,0 +1,460 @@
+URL: https://www.airbnb.com/rooms/39554462
+Title: Hidden Carriage House near Lafayette Square
+Latitude: 32.0722
+Longitude: -81.087
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Sarah
+Host ID: 303913984
+Host profile ID: 1469556971016452253
+Host URL: https://www.airbnb.com/users/profile/1469556971016452253
+Bedrooms: 1
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 1
+
+Beds enumerated in room tiles: 1
+
+Bed-count verification: matched
+
+Bedroom
+1 king bed
+
+=== FULL DESCRIPTION ===
+This charming carriage house is in the heart of the downtown, historic district. Lovely courtyard provides quiet outdoor space to enjoy our Southern weather and our location is perfect...just a short walk to all of the best spots to explore in the city! We hope you absolutely love the modern updates and amenities we provide while still maintaining all of the old world feel that makes Savannah, "The Hostess City," so wonderful!
+
+SVR 00299
+
+The space
+Your private carriage house apartment is located on the second story of the detached carriage house, behind our home. Once inside, you will find the master bedroom with brand new, KING bed, large and newly renovated bathroom with a fantastic walk-in shower, and a comfortable and open living/dining space! There are flat screen smart TVs with YoutubeTV in both the living room and bedroom as well as super fast Wifi! Have a third guest tagging along? The sofa also pulls out into a comfortable queen bed, and of course, all the linens are provided! We also hope you get to enjoy some time outside in our adorable courtyard, equipped with gas grill for your use and plenty of seating! Need something extra, like a pack n play for your little one or beach towels for a trip to Tybee? Just ask and we can try our best to have it waiting for you!
+
+Guest access
+The entire carriage house apartment is YOURS! Completely private, detached from the main house. You will travel down the path alongside the main house, through the shared courtyard, and up to your apartment on the second floor of the carriage house.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Bedroom and laundry
+Free washer – In unit
+Free dryer – In unit
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+HDTV
+Family
+Pack ’n play/Travel crib - always at the listing
+Standalone high chair - always at the listing
+Baby safety gates
+Heating and cooling
+Central air conditioning
+Ceiling fan
+Central heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Fast wifi – 334 Mbps
+Verified by speed test. Stream 4K videos and join video calls on multiple devices.
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Electric stove
+Single oven
+Hot water kettle
+Coffee maker: drip coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Barbecue utensils
+Grill, charcoal, bamboo skewers/iron skewers, etc.
+Dining table
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Shared patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Outdoor dining area
+Shared BBQ grill: gas
+Parking and facilities
+Free street parking
+Paid street parking off premises
+Services
+Self check-in
+Lockbox
+Not included
+Unavailable: Exterior security cameras on property
+Exterior security cameras on property
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Hidden Carriage House near Lafayette Square
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+3 guests · 1 bedroom · 1 bed · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+385 reviews
+385
+Reviews
+Hosted by Sarah
+Superhost · 7 years hosting
+Listing highlights
+Top 10% of homes
+This home is highly ranked based on ratings, reviews, and reliability.
+In Savannah's Historic District
+Troup Square is steps away, with Lafayette Square and the Flannery O'Connor Home about a 5-min walk
+Private carriage house with courtyard
+A detached carriage house with a full kitchen, in-unit washer and dryer, and a courtyard with a grill
+Clean, comfortable, and walkable
+Guests consistently highlight how clean and comfortable the space is and how walkable the location is
+This charming carriage house is in the heart of the downtown, historic district. Lovely courtyard provides quiet outdoor space to enjoy our Southern weather and our location is perfect...just a short walk to all of the best spots to explore in the city! We hope you absolutely love the modern updates and amenities we provide while still maintaining all of the old world feel that makes Savannah, "The Hostess City," so wonderful!
+
+SVR 00299
+
+The space
+Your private carriage house apartment is located on the second story of the detached carriage house, behind our home. Once inside, you will find the master bedroom with brand new, KING bed, large and newly renovated bathroom with a fantastic walk-in shower, and a comfortable and open living/dining space! There are flat screen smart TVs with YoutubeTV in both the living room and bedroom as well as super fast Wifi! Have a third guest tagging along? The sofa also pulls out into a comfortable queen bed, and of course, all the linens are provided! We also hope you get to enjoy some time outside in our adorable courtyard, equipped with gas grill for your use and plenty of seating! Need something extra, like a pack n play for your little one or beach towels for a trip to Tybee? Just ask and we can try our best to have it waiting for you!
+
+Guest access
+The entire carriage house apartment is YOURS! Completely private, detached from the main house. You will travel down the path alongside the main house, through the shared courtyard, and up to your apartment on the second floor of the carriage house.
+
+Other things to note
+Don't be afraid to reach out if you need anything!  We live super close-by and are always happy to help out, even mid-stay.
+Show more
+All sleeping arrangements
+
+Advertised beds: 1 | Enumerated: 1 | Count verified
+
+Bedroom
+1 king bed
+
+What this place offers
+Kitchen
+Fast wifi – 334 Mbps
+Dedicated workspace
+Free street parking
+HDTV
+Free washer – In unit
+Free dryer – In unit
+Central air conditioning
+Shared patio or balcony
+Backyard
+Show all 54 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 385 reviews.
+4.92
+Guest favorite
+This home is in the top 10% of eligible listings based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 6% of reviews
+4
+3 stars, 1% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 5.0 out of 5 stars for cleanliness
+Cleanliness
+5.0
+Rated 5.0 out of 5 stars for accuracy
+Accuracy
+5.0
+Rated 5.0 out of 5 stars for check-in
+Check-in
+5.0
+Rated 5.0 out of 5 stars for communication
+Communication
+5.0
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+190
+Location
+225
+Comfort
+99
+Cleanliness
+139
+Sleep quality
+47
+Hospitality
+140
+Parking
+70
+Quiet
+54
+Accuracy
+54
+Amenities
+39
+Robbie
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+My wife and I stayed here for a few days during a recent visit to Savannah. Sarah's place was great. It was very clean and private. Hardly any outside noise. The location was within walking distance to Bay Street and River Street where there are plenty of restaurants and shops to visit. The weather during our visit was extremely hot, but the a/c in the apartment worked great. Kept it nice and cool. There is only street parking, but with Sarah's instructions it wasn't an issue and easily found a spot each day. We only had to contact her once with a question, but she was very prompt in responding. You can't go wrong with this place!
+Show more
+Casey
+2 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+The Airbnb was absolutely spotless, and both looked and felt clean. There were lots of little touches with the amenities that really made it feel like Sarah went above and beyond to provide a perfect stay. The location was very cool as well, as being right in the middle of historic downtown means everything in Savanah is very walkable. Being in a detached carriage house, it feels very private because you aren’t sharing walls or ceilings with anyone. The check in process was also very smooth, and Sarah provided very clear instructions. I would absolutely recommend this place to anyone visiting Savannah!
+Show more
+Evelin
+1 month on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+First time visiting Georgia and Sarah hosting made it very memorable. Beautiful neighborhood and close to Tybee Island! Will definitely visit again and stay at Sarah’s spot!
+Julie
+5 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+My husband and I had a fantastic stay at Sarah’s place for our long weekend away. The space was perfect for the two of us to spend time during the day and also very comfortable for sleeping at night. The attention to detail with how the space was set up was great. The location worked out very well for us to walk to things in the morning, come back for a break during the hottest part of the day, and walk back out at night. Parking was never an issue for the times we decided to drive somewhere to avoid the heat. We would absolutely come back again.
+Show more
+Renee
+6 years on Airbnb
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Stayed a few nights
+Sarah's place is just like the pictures. It is a lovely place that is cozy and thoughtfully decorated. I was confused at first because you have to go through the backyard and into the garage to get upstairs, but the man who answered the door was very sweet and helpful. I only stayed two nights, but it was just what I needed while driving through Savannah to Fl. It is walkable to all the shops and restaurants and other touristy activities if that is what you are looking for. If you stay during a heat wave like I did (106 degrees and humid), you will still be nice and cool inside at Sarah's. If you are a light sleeper, there is occasional noise from the trucks or cars on the road outside the bedroom window, but she does provide a sound machine. The bed is very comfortable, and I slept well! Alternate side of the street parking if you are coming with a car, so you will have to move on certain days/times, but it was very easy and there was plenty of parking on the street.
+Show more
+Sarah
+5 months on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+I felt so comfy and relaxed in this beautiful condo I highly recommend it and I will definitely be back!! comfy king size bed and the host treated me like family and welcomed me with a friendly hello and I felt so happy and I had an amazing stay everything was perfect!! The condo was beautiful and there was so many extra supplies and helpful instructions and it was so sparkling clean!! Smelled amazing and I slept like a baby!!! Great hosts!!!! ❤️
+Show more
+Show all 385 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Our sweet carriage house is located on a quiet, residential street, tucked amongst lovely historic homes in the downtown district. We feel like our location is the BEST part of our place! Easily walkable to all of the downtown restaurants, sightseeing spots, and amazing Savannah architecture. Our hideaway is the perfect homebase for exploring our Southern gem of a city!
+Show more
+Meet your host
+Sarah
+Superhost
+385 reviews
+385
+Reviews
+4.92 out of 5 average rating
+4.92
+Rating
+7 years of hosting
+7
+Years hosting
+Adopted Savannahians, but self-proclaimed locals! We are newlyweds (Savannah wedding, but of course) and both enjoy camping, as in camping in a nice hotel or resort with plenty of amenities. Michael is a helicopter pilot and Sarah is a forensic psychologist. We are proud parents of two quirky but lovable dogs. Sarah was also a featured host in the Summer 2017 Airbnb Magazine! Send a message or book with us if you want a gorgeous rental in the Historic Downtown District!
+Sarah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Sarah
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Not suitable for infants (under 2 years)
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Condo vacation rentals in Savannah
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Condo vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

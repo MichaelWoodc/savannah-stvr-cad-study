@@ -1,0 +1,641 @@
+URL: https://www.airbnb.com/rooms/12651848
+Title: Heated Pool Access | 5*Clean | Flex Cancelation
+Latitude: 32.0735
+Longitude: -81.0975
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Southern Belle Vacation Rentals
+Host ID: 67790127
+Host profile ID: 1462775319804255392
+Host URL: https://www.airbnb.com/users/profile/1462775319804255392
+Bedrooms: 3
+Occupancy (maximum guests): 6
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 3
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Savannah might be a year-round vacation destination that offers something for everyone, but you shouldn't listen to folks who say it doesn't matter where you stay. The location and amenities at Savannah vacation rentals can make or break a trip to Georgia's coastal gem, and it's critical that you choose a place that speaks to you and your family. At Pickett's Place, you'll find everything you could ask for in a temporary home base - and then some.
+
+The space
+Pickett's Place: Modern Living in the Savannah GA Historic District
+
+
+
+Located just blocks from the heart of Savannah downtown, Pickett's Place offers an unmatched mix of convenience, creature comforts and historic charm. This beautiful townhouse is tucked into a quiet corner at the intersection of Jones and Tattnall Streets. It's just blocks from lush, centuries-old Chatham and Pulaski Squares, resplendent outdoor spaces in which meandering tourists often come face-to-face with wedding parties, historical reenactments and performance artists. What's more, Pickett's Place is close to some of Savannah's finest cultural and culinary establishments. When you're this close to the center of the Savannah GA Historic District, anything seems possible.
+
+
+
+Other Savannah Vacation Rentals Can't Match These Charms
+
+
+
+Pickett's Place has a range of amenities that you simply won't find at other Savannah vacation rentals. When you enter the home, you'll be greeted by a spacious living area with a sectional that comfortably seats six guests as well as sleek, modern seating for several more. A flatscreen TV is sure to keep the kids entertained, and a downstairs half-bath will please your guests. If you're in the mood to stay in and spend some quality time with the family, check out a stunning kitchen that features a breakfast bar, gleaming appliances and plenty of counter space for the budding gourmet in you.
+
+
+
+Pickett's Place is quite roomy by Savannah GA Historic District standards. The two second-floor bedrooms have ensuite bathrooms with recently updated appliances and lots of space for pampering. A loft-style room on the third floor offers privacy for older kids, and a private patio area in the back lets you listen to the sounds of central Savannah without revealing yourself to the public.
+
+
+
+Aside from these incomparable touches and modern bits of flair, Pickett's Place has all the conveniences you'd expect from your primary home. Whether it's central heating and cooling to get you through Savannah's unpredictable nights, a powerful washer-dryer that eliminates the need to find a laundromat or full-house wifi that ensures you remain connected to those who couldn't be with you on your trip, this property leaves other Savannah vacation rentals in the dust.
+
+
+
+Things to Do in Savannah Downtown
+
+
+
+The bustling, cobbled streets and sidewalks of Savannah downtown truly offer something for everyone. If you're looking for a cultural experience to rival anything you'd find in Atlanta or New York, visit the art exhibits at the nearby Telfair Museum or Jepson Art Gallery. For a more contemporary take on visual art, the Julia Christian Gallery and the Savannah College of Art and Design's galleries sit within easy walking distance. To discover pieces of colonial history that you may have thought were lost to the mists of time forever, visit the Davenport House Museum, Georgia Historical Society or Georgia Railroad Museum. If you wouldn't pass up a shopping opportunity for the world, never fear: The world-renowned shops and stores of Broughton Street aren't far off.
+
+
+
+Make Your Mark at Pickett's Place Today
+
+
+
+Whether you're in town for a quick weekend getaway or wish to relax with the whole family for an unforgettable week, Pickett's Place gives you the freedom to structure your Savannah vacation as you see fit. With an enviable location, beautiful furnishings and every amenity a pampered homeowner could want, you'll have trouble leaving this incomparable property. To begin your adventure in the heart of the Savannah GA Historic District, book your stay at Pickett's Place today.
+
+Guest access
+2 King-Sized Beds
+
+1 Queen-Sized Bed
+
+2.5 Baths
+
+Half bath on First Floor
+
+Flatscreen TVs
+
+Washer/Dryer
+
+Full Kitchen
+
+Wi-fi
+
+Central Heat & Air
+
+Walk everywhere
+
+Regular drip coffee maker
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+SVR-00450
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Cleaning products
+Shampoo
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Room-darkening shades
+Iron
+Clothing storage
+Entertainment
+Ethernet connection
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+First aid kit
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Freezer
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Wine glasses
+Toaster
+Baking sheet
+Blender
+Dining table
+Location features
+Private entrance
+Separate street or building entrance
+Outdoor
+Patio or balcony
+Backyard
+An open space on the property usually covered in grass
+Outdoor furniture
+Parking and facilities
+Pool
+Paid parking off premises
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Keypad
+Check yourself into the home with a door code
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+Heated Pool Access | 5*Clean | Flex Cancelation
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire townhouse in Savannah, Georgia
+6 guests · 3 bedrooms · 3 beds · 2.5 baths
+Rated 4.71 out of 5 stars.
+4.71
+·
+73 reviews
+Hosted by Southern Belle Vacation Rentals
+Superhost · 10 years hosting
+Listing highlights
+In the Historic District near Chatham Square
+Chatham Square is right outside, with Pulaski Square and Forsyth Park within a 10-min walk
+Private courtyard off a quiet street
+A private patio out back for morning coffee, tucked away from the bustle of the Historic District
+Walkable and comfortable
+Guests consistently praise how walkable this location is and how comfortable the beds are
+Savannah might be a year-round vacation destination that offers something for everyone, but you shouldn't listen to folks who say it doesn't matter where you stay. The location and amenities at Savannah vacation rentals can make or break a trip to Georgia's coastal gem, and it's critical that you choose a place that speaks to you and your family. At Pickett's Place, you'll find everything you could ask for in a temporary home base - and then some.
+
+The space
+Pickett's Place: Modern Living in the Savannah GA Historic District
+
+
+
+Located just blocks from the heart of Savannah downtown, Pickett's Place offers an unmatched mix of convenience, creature comforts and historic charm. This beautiful townhouse is tucked into a quiet corner at the intersection of Jones and Tattnall Streets. It's just blocks from lush, centuries-old Chatham and Pulaski Squares, resplendent outdoor spaces in which meandering tourists often come face-to-face with wedding parties, historical reenactments and performance artists. What's more, Pickett's Place is close to some of Savannah's finest cultural and culinary establishments. When you're this close to the center of the Savannah GA Historic District, anything seems possible.
+
+
+
+Other Savannah Vacation Rentals Can't Match These Charms
+
+
+
+Pickett's Place has a range of amenities that you simply won't find at other Savannah vacation rentals. When you enter the home, you'll be greeted by a spacious living area with a sectional that comfortably seats six guests as well as sleek, modern seating for several more. A flatscreen TV is sure to keep the kids entertained, and a downstairs half-bath will please your guests. If you're in the mood to stay in and spend some quality time with the family, check out a stunning kitchen that features a breakfast bar, gleaming appliances and plenty of counter space for the budding gourmet in you.
+
+
+
+Pickett's Place is quite roomy by Savannah GA Historic District standards. The two second-floor bedrooms have ensuite bathrooms with recently updated appliances and lots of space for pampering. A loft-style room on the third floor offers privacy for older kids, and a private patio area in the back lets you listen to the sounds of central Savannah without revealing yourself to the public.
+
+
+
+Aside from these incomparable touches and modern bits of flair, Pickett's Place has all the conveniences you'd expect from your primary home. Whether it's central heating and cooling to get you through Savannah's unpredictable nights, a powerful washer-dryer that eliminates the need to find a laundromat or full-house wifi that ensures you remain connected to those who couldn't be with you on your trip, this property leaves other Savannah vacation rentals in the dust.
+
+
+
+Things to Do in Savannah Downtown
+
+
+
+The bustling, cobbled streets and sidewalks of Savannah downtown truly offer something for everyone. If you're looking for a cultural experience to rival anything you'd find in Atlanta or New York, visit the art exhibits at the nearby Telfair Museum or Jepson Art Gallery. For a more contemporary take on visual art, the Julia Christian Gallery and the Savannah College of Art and Design's galleries sit within easy walking distance. To discover pieces of colonial history that you may have thought were lost to the mists of time forever, visit the Davenport House Museum, Georgia Historical Society or Georgia Railroad Museum. If you wouldn't pass up a shopping opportunity for the world, never fear: The world-renowned shops and stores of Broughton Street aren't far off.
+
+
+
+Make Your Mark at Pickett's Place Today
+
+
+
+Whether you're in town for a quick weekend getaway or wish to relax with the whole family for an unforgettable week, Pickett's Place gives you the freedom to structure your Savannah vacation as you see fit. With an enviable location, beautiful furnishings and every amenity a pampered homeowner could want, you'll have trouble leaving this incomparable property. To begin your adventure in the heart of the Savannah GA Historic District, book your stay at Pickett's Place today.
+
+Guest access
+2 King-Sized Beds
+
+1 Queen-Sized Bed
+
+2.5 Baths
+
+Half bath on First Floor
+
+Flatscreen TVs
+
+Washer/Dryer
+
+Full Kitchen
+
+Wi-fi
+
+Central Heat & Air
+
+Walk everywhere
+
+Regular drip coffee maker
+
+Other things to note
+Heated Pool Access
+
+Our guests have access to our beautiful, heated pool that is located on the South End of Tybee Island. For our Savannah properties, it is a scenic 25-minute drive through Wilmington and Whitemarsh Island, taking you over the Savannah River Delta onto Tybee Island. The Pool is open during the below dates and times.
+
+
+
+March 1 - Oct 31: Open 7 days a week from 10am-5pm.
+
+Nov 1 - Feb 28/29: Open Friday and Saturday from 10am-5pm
+
+
+
+Additional Pool Hours available during the off-season are listed below. If these dates fall in the middle of the week, the pool will be open as listed below and every Friday and Saturday.
+
+
+
+Day before Thanksgiving, Thanksgiving Day, and the day after Thanksgiving
+
+Day before Christmas Eve, Christmas Eve & Day, and the day after Christmas Day
+
+Day before New Years Day, New Years Day, and the day after New Years Day
+
+Day before MLK Day, MLK Day, and the day after MLK Day
+
+
+
+Summer Hours of the North End Pool - Unheated
+
+Open daily from 10:00 a.m.–5:00 p.m. May 31–Tuesday after Labor Day
+
+
+
+Guests with Pets 
+
+This property happily welcomes your furry travel companions! Guests may bring up to 2 dogs, with a combined weight limit of 50 lbs.​​​​​​​ Pets must be added to your reservation at the time of booking, and a non refundable $130 pet fee will apply.
+
+
+
+Long-Term Stays
+
+For our long-term stays, 30 days or more, we require a deposit and our office will reach out to you for details. For these reservations, we require an additional cleaning at a cost every 30 days. The cleaning cost varies by property. Our office will be in touch to schedule.
+
+
+
+SVR-00450
+Show more
+All sleeping arrangements
+
+Advertised beds: 3 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pool
+Pets allowed
+TV with standard cable
+Washer
+Dryer
+Air conditioning
+Patio or balcony
+Show all 51 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.71 out of 5 stars from 73 reviews
+4.71 · 73 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 77% of reviews
+5
+4 stars, 19% of reviews
+4
+3 stars, 3% of reviews
+3
+2 stars, 1% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.8 out of 5 stars for cleanliness
+Cleanliness
+4.8
+Rated 4.8 out of 5 stars for accuracy
+Accuracy
+4.8
+Rated 4.8 out of 5 stars for check-in
+Check-in
+4.8
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 5.0 out of 5 stars for location
+Location
+5.0
+Rated 4.7 out of 5 stars for value
+Value
+4.7
+Guest reviews mention
+Walkability
+28
+Location
+59
+Parking
+15
+Nearby
+20
+Cleanliness
+23
+Quiet
+9
+Pool
+6
+Hospitality
+23
+Sleep quality
+12
+Parks
+3
+Amanda
+Boston, Massachusetts
+Rating, 4 stars
+,
+·
+1 week ago
+,
+·
+Stayed with a pet
+Great location, walkable to almost the whole city.  Only downside was the street parking, you have to pay on weekdays but there was always an available spot right outside the front door. 
+Crystal beer parlor is right next door and it’s a great spot for a cheap meal and good food.
+Show more
+Danielle
+Glen Allen, Virginia
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Group trip
+Hosts communicated very well. Location was great. Would stay here again.
+Show more
+Sandra
+4 years on Airbnb
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed with a pet
+What can I say about location! Beautiful  homes & parks in this historic district. The most beautiful Jones street was right in front of us plus Mrs. Wilkes restaurant. Street parking was easy and convenient. We took our 2 dogs and they absolutely enjoyed the morning & evening strolls around the neighborhood and parks. Enjoyed the little courtyard with coffee each the morning. Many boutique type shops, eateries and parks were very close by. The area was peaceful & quiet at night and the beds were very comfy! My only suggestion would be to have room darkening curtains in bedrooms..Southern Belle  staff were very quick to respond when I contacted them.Would definitely consider staying here again if we return to Savannah.
+Show more
+Cynthia
+Spring Hill, Tennessee
+Rating, 4 stars
+,
+·
+May 2026
+,
+·
+Group trip
+Great location. Very clean. Bathrooms are inside bedrooms with no access for third bedroom guests without entering sleeping quarters. Lots of steps  and pool is not onsite (20+ mins away).
+Show more
+Becca
+Burnet, Texas
+Rating, 5 stars
+,
+·
+May 2026
+,
+·
+Stayed a few nights
+Location location location! Excellent - can walk everywhere you need and so close to everything!! Beautiful neighborhood!!
+Hugo
+Colombia, Colombia
+Rating, 4 stars
+,
+·
+July 2026
+,
+·
+Group trip
+A vacation without setbacks in a family-friendly and pleasant atmosphere
+Show all 73 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+Jones West
+Show more
+Meet your host
+Southern Belle Vacation Rentals
+Superhost
+20,180 reviews
+10,000
++
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+My work: Southern Belle Vacation Rentals
+Speaks English
+Southern Belle Rentals has developed a strong reputation for listening to our customers and exceeding their expectations again and again. If you’re traveling on business or pleasure and have a special request, feel free to ask. We will do our best to make it happen for you. Traveling can be stressful and tiring. The goal of Southern Belle Rentals is to make your trip as perfect as possible.
+Southern Belle Vacation Rentals is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+6 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Townhome vacation rentals in Savannah
+House vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Vacation rentals with a pool in Savannah
+Pet-friendly vacation rentals in Chatham County
+Vacation rentals with a pool in Chatham County
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

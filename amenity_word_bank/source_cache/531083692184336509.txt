@@ -1,0 +1,431 @@
+URL: https://www.airbnb.com/rooms/531083692184336509
+Title: The Grand Porch Oasis - Historic YWCA Building
+Latitude: 32.077
+Longitude: -81.0942
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Brandon & Chase
+Host ID: 103537579
+Host profile ID: 1467243122778730477
+Host URL: https://www.airbnb.com/users/profile/1467243122778730477
+Bedrooms: 2
+Occupancy (maximum guests): 3
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Experience classic Southern charm at The Grand Porch Oasis! Sip sweet tea or a mojito from the private balcony overlooking historic Oglethorpe Ave. With a 97 Walk Score, you’re steps from Savannah favorites like Collins Quarter, Husk, Flying Monk, and more. This light-filled, renovated historic condo features fast WiFi, Smart TV, Keurig, full kitchen, original hardwood floors, and modern comforts in the heart of downtown Savannah. SVR-02488
+
+The space
+Gorgeous original maple flooring, extremely high ceilings, pronounced trim and other historic features take you back in time where sipping sweet tea over good conversation was a common routine. We have a fully-equipped kitchen with a dishwasher, laundry closet for washing/drying your clothes and plenty of seating space. We have a full table set in case you want to show off your culinary skills and have a formal sit-down meal. The cozy living room gets tons of light from the huge windows and French doors, so you can have a sunny morning breakfast to start the day off right! The twin room is a nice additional space for those with a child or maybe just a third-wheeler :) Easy to "work from home" with the high-speed Wi-Fi and plenty of table space to set up at.
+
+SVR-02488
+
+Guest access
+You have 24/7 access to the entire condo, make yourself at home! being on the first floor, you can walk up the front steps and access your unit with ease. The balcony is totally private to you and your group. It is actually the only balcony in the condo building that is occupied. You have access to the rear courtyard which is shared with the condo building. There is a charcoal BBQ grill and plenty of outdoor seating back there. This is the only place you may smoke. There is a storage space in the lobby where folks keep their bikes should you want to bring yours, or leave your luggage while you go explore if you're waiting on a later flight out.
+
+Other things to note
+The condo building is mostly long-term residents so please respect your neighbors and keep your inside voices on. "Quiet hours" are from 10pm-8am. Please be a courteous guest and help us show the City of Savannah how important you all are to us!
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Hot water
+Bedroom and laundry
+Washer
+Dryer
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Extra pillows and blankets
+Iron
+Entertainment
+TV
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Exterior security cameras on property
+There is a camera in the main building which is managed by the condo association - solely for safety reasons.
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+In a room with a door
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Cooking basics
+Pots and pans, oil, salt and pepper
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Dishwasher
+Stove
+Oven
+Hot water kettle
+Coffee maker
+Toaster
+Outdoor
+Private patio or balcony
+Services
+Luggage dropoff allowed
+For guests' convenience when they have early arrival or late departure
+Self check-in
+Smart lock
+Not included
+Unavailable: Private entrance
+Private entrance
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Log in or sign up
+The Grand Porch Oasis - Historic YWCA Building
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Entire condo in Savannah, Georgia
+3 guests · 2 bedrooms · 2 beds · 1 bath
+Guest
+favorite
+One of the most loved homes on Airbnb, according to guests
+Rated 4.92 out of 5 stars.
+4.92
+214 reviews
+214
+Reviews
+Hosted by Brandon & Chase
+Superhost · 10 years hosting
+Listing highlights
+In downtown Savannah's Historic District
+Steps from Wright Square and Chippewa Square, with the Jepson Center about a 5-min walk away
+Private porch for morning coffee
+A private balcony with rocking chairs overlooking historic Oglethorpe Ave
+Comfortable beds, walkable location
+Guests highlight the comfortable beds and how walkable everything is from this spot
+Experience classic Southern charm at The Grand Porch Oasis! Sip sweet tea or a mojito from the private balcony overlooking historic Oglethorpe Ave. With a 97 Walk Score, you’re steps from Savannah favorites like Collins Quarter, Husk, Flying Monk, and more. This light-filled, renovated historic condo features fast WiFi, Smart TV, Keurig, full kitchen, original hardwood floors, and modern comforts in the heart of downtown Savannah. SVR-02488
+
+The space
+Gorgeous original maple flooring, extremely high ceilings, pronounced trim and other historic features take you back in time where sipping sweet tea over good conversation was a common routine. We have a fully-equipped kitchen with a dishwasher, laundry closet for washing/drying your clothes and plenty of seating space. We have a full table set in case you want to show off your culinary skills and have a formal sit-down meal. The cozy living room gets tons of light from the huge windows and French doors, so you can have a sunny morning breakfast to start the day off right! The twin room is a nice additional space for those with a child or maybe just a third-wheeler :) Easy to "work from home" with the high-speed Wi-Fi and plenty of table space to set up at.
+
+SVR-02488
+
+Guest access
+You have 24/7 access to the entire condo, make yourself at home! being on the first floor, you can walk up the front steps and access your unit with ease. The balcony is totally private to you and your group. It is actually the only balcony in the condo building that is occupied. You have access to the rear courtyard which is shared with the condo building. There is a charcoal BBQ grill and plenty of outdoor seating back there. This is the only place you may smoke. There is a storage space in the lobby where folks keep their bikes should you want to bring yours, or leave your luggage while you go explore if you're waiting on a later flight out.
+
+Other things to note
+The condo building is mostly long-term residents so please respect your neighbors and keep your inside voices on. "Quiet hours" are from 10pm-8am. Please be a courteous guest and help us show the City of Savannah how important you all are to us!
+Show more
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+TV
+Washer
+Dryer
+Air conditioning
+Private patio or balcony
+Luggage dropoff allowed
+Exterior security cameras on property
+Show all 34 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+Rated 4.92 out of 5 from 214 reviews.
+4.92
+Guest favorite
+This home is a guest favorite based on ratings, reviews, and reliability
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 93% of reviews
+5
+4 stars, 5% of reviews
+4
+3 stars, 2% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.9 out of 5 stars for cleanliness
+Cleanliness
+4.9
+Rated 4.9 out of 5 stars for accuracy
+Accuracy
+4.9
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.9 out of 5 stars for communication
+Communication
+4.9
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.8 out of 5 stars for value
+Value
+4.8
+Guest reviews mention
+Walkability
+96
+Noise
+63
+Location
+160
+Sleep quality
+46
+Hospitality
+82
+Comfort
+61
+Outdoor spaces
+41
+Cleanliness
+65
+Decor
+24
+Parking
+25
+Kristen
+8 years on Airbnb
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+This was a perfect spot, the porch was an excellent way to spend the evenings!
+Nicolette
+11 years on Airbnb
+Rating, 5 stars
+,
+·
+July 2026
+I absolutely loved my stay here! This vacation rental is spacious, clean, filled with lots of light, and the beds are so comfortable. The curtains are wonderful for privacy as well as temperature control. And the front porch is absolutely fantastic. I definitely intend to return because I loved my time here so much! Although I had a rental car, everything in this area is very walkable. Plus, if you wake up hungry in the middle of the night, you're right around the corner from Parker’s, which is open 24/7. I also loved this block because you could hear all the bells around town. 
+When I was a SCAD student, I would drive by this building every week on my way home and see an adorable Labrador hanging out on the porch. I was always so curious because it looked like such an incredible lookout. Being able to finally experience the porch myself felt like a full-circle moment. Thank you to my hosts! Until next time…
+Show more
+Mark
+McCordsville, Indiana
+Rating, 5 stars
+,
+·
+August 2026
+,
+·
+Stayed a few nights
+Really enjoyed our stay, great location with nice amenities.
+Brandelyn
+Fitzgerald, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Brandon and Chase were awesome with their detailed check-in information and simple checkout instructions. Beautiful historic condo!
+Vicki
+Jacksonville, Florida
+Rating, 5 stars
+,
+·
+1 week ago
+,
+·
+Stayed a few nights
+Great stay with Brandon and Chase as always
+Lilia
+Atlanta, Georgia
+Rating, 5 stars
+,
+·
+June 2026
+,
+·
+Stayed a few nights
+Great place for a couple or small family, perfect location. Just far away from busy nightlife area but still only a five minute walk.  Very central to everything, comfortable place and the patio with the rocking shares was my favorite to just sit and people watch.
+Show more
+Show all 214 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+We are located at Oglethorpe and Whitaker, an absolute prime location. You are walking distance to EVERYTHING. That said, if you're bringing a car, we suggest parking in the Robinson Parking garage which is only a few blocks from the condo. You may park out front also but it is metered, and sometimes hard to find a space. It is free on Sundays. We are surrounded by some of the best local restaurants in town and only a short walk to River Street, Bay Street and City Market. You really don't even need an Uber/Lyft at this location, walking is so easy from here :)
+Show more
+Meet your host
+Brandon & Chase
+Superhost
+17,350 reviews
+10,000
++
+Reviews
+4.9 out of 5 average rating
+4.9
+Rating
+10 years of hosting
+10
+Years hosting
+Born in the 90s
+My work: South Key Management Co.
+We are fellow Airbnb hosts that love to travel, experience new cultures, and definitely new foods! Very laid back and easy to deal with :) We are a small business, always striving to be better! South Key Mgmt is our site.
+Brandon & Chase is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Co-hosts
+Max
+Host details
+Response rate: 100%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 10:00 AM
+3 guests maximum
+Learn more
+Safety & property
+Exterior security cameras on property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Condo vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Condo vacation rentals in Chatham County
+Condo vacation rentals in Georgia
+Family-friendly vacation rentals in Georgia
+Family-friendly vacation rentals in United States
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

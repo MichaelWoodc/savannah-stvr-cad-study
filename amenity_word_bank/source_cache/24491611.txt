@@ -1,0 +1,463 @@
+URL: https://www.airbnb.com/rooms/24491611
+Title: Carriage Near Forsyth Fountain by Lucky Savannah
+Latitude: 32.071
+Longitude: -81.0962
+Privacy radius (meters): 0
+Location type: Verified
+Location precision: Exact displayed location
+Location verification: Verified by Airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Location source: page JSON:$.niobeClientData[0][1].data.node.pdpPresentation.location
+Airbnb-displayed coordinates; may be approximate, not a verified property address.
+=== HOST AND LISTING SUMMARY ===
+Host name: Lucky Savannah
+Host ID: 93020268
+Host profile ID: 1467123752622109770
+Host URL: https://www.airbnb.com/users/profile/1467123752622109770
+Bedrooms: 1
+Occupancy (maximum guests): 4
+Listing address verified by Airbnb: True
+Exact location displayed: True
+Exact address provided: Unknown / not provided
+Location status: verified_by_airbnb
+Privacy radius source: rendered_map.LocationPdpSectionView.mapMarkerRadiusInMeters
+Map zoom-in clicks: 3
+=== END HOST AND LISTING SUMMARY ===
+
+
+=== ALL SLEEPING ARRANGEMENTS ===
+Advertised beds: 2
+
+Beds enumerated in room tiles: 0
+
+Bed-count verification: UNVERIFIED — inspect host details
+
+No sleeping-arrangement tiles exposed by this listing.
+
+=== FULL DESCRIPTION ===
+Stay in a slice of Savannah history with this one-bedroom sun-filled carriage house. Guests will enjoy the peace and quiet in this pocket of downtown, whilst being steps away from most major attractions.
+
+The space
+Surround yourself with historical furnishings but with the modern amenities you expect on vacation in this spacious, one-bedroom carriage. Resting behind a grand Forsyth Park estate, up to four guests can get a taste for high life in the South. 
+
+A set of steps lead you to this second-level carriage house, situated just one block from the famous Fountain at Forsyth Park. The living room allows for ample seating as you regale on the day's adventures. The living room sofa can pull out into a Queen sleeper to accommodate an additional two guests.
+
+The kitchen is well-equipped with every essential you'd need for a quick bite or cup of coffee. Enjoy a slow morning at the breakfast nook before setting off to see Savannah's many wonders. The bedroom is just down the hall, with a Queen size bed and beautiful views of the city. En suite to the bedroom is a full bath with standing shower, all recently renovated with marble tile.
+
+Guests will love being part of the Forsyth community; steps from everything the park has to offer while only being a short walk away from attractions further North towards the river.
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+Sleeping Configuration:
+Bed 1: Queen 
+Bed 2: Queen Sleeper Sofa
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-01549
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+
+=== AMENITIES ===
+What this place offers
+Bathroom
+Hair dryer
+Shampoo
+Conditioner
+Body soap
+Hot water
+Shower gel
+Bedroom and laundry
+Essentials
+Towels, bed sheets, soap, and toilet paper
+Hangers
+Bed linens
+Iron
+Entertainment
+TV with standard cable
+Heating and cooling
+Air conditioning
+Heating
+Home safety
+Smoke alarm
+Carbon monoxide alarm
+Fire extinguisher
+Internet and office
+Wifi
+Dedicated workspace
+Kitchen and dining
+Kitchen
+Space where guests can cook their own meals
+Refrigerator
+Microwave
+Dishes and silverware
+Plates, bowls, cups, cutlery, and other utensils
+Stove
+Oven
+Coffee maker
+Toaster
+Coffee
+Location features
+Private entrance
+Separate street or building entrance
+Services
+Pets allowed
+Assistance animals are always allowed
+Long term stays allowed
+Allow stay for 28 days or more
+Self check-in
+Smart lock
+Not included
+Unavailable: Washer
+Washer
+
+=== LISTING PAGE (INCLUDING HOST DETAILS) ===
+Skip to content
+Homes
+Homes
+Experiences
+Experiences
+Services
+Services
+Start your search
+Location
+Anywhere
+Check in / Check out
+Anytime
+Guests
+Add guests
+Become a host
+Carriage Near Forsyth Fountain by Lucky Savannah
+Share
+Save
+Show all photos
+Photos
+Amenities
+Reviews
+Location
+Add dates for prices
+Add dates for prices
+4.63 ·
+35 reviews
+Rated 4.63 out of 5 from 35 reviews.
+Check availability
+Entire rental unit in Savannah, Georgia
+4 guests · 1 bedroom · 2 beds · 1 bath
+Rated 4.63 out of 5 stars.
+4.63
+·
+35 reviews
+Hosted by Lucky Savannah
+Superhost · 10 years hosting
+Listing highlights
+In Savannah's historic district
+Steps from Forsyth Park, with Monterey Square and Lafayette Square within a short walk
+Historic carriage house with character
+A second-level carriage house behind a grand Forsyth Park estate, furnished with period details
+A location guests love
+Guests consistently highlight the walkability, with Forsyth Park right outside the door
+Stay in a slice of Savannah history with this one-bedroom sun-filled carriage house. Guests will enjoy the peace and quiet in this pocket of downtown, whilst being steps away from most major attractions.
+
+The space
+Surround yourself with historical furnishings but with the modern amenities you expect on vacation in this spacious, one-bedroom carriage. Resting behind a grand Forsyth Park estate, up to four guests can get a taste for high life in the South. 
+
+A set of steps lead you to this second-level carriage house, situated just one block from the famous Fountain at Forsyth Park. The living room allows for ample seating as you regale on the day's adventures. The living room sofa can pull out into a Queen sleeper to accommodate an additional two guests.
+
+The kitchen is well-equipped with every essential you'd need for a quick bite or cup of coffee. Enjoy a slow morning at the breakfast nook before setting off to see Savannah's many wonders. The bedroom is just down the hall, with a Queen size bed and beautiful views of the city. En suite to the bedroom is a full bath with standing shower, all recently renovated with marble tile.
+
+Guests will love being part of the Forsyth community; steps from everything the park has to offer while only being a short walk away from attractions further North towards the river.
+
+What is parking like for this home?
+Parking for this home is on-street and metered, which is enforced by the City of Savannah from Monday through Friday, 8am to 5pm. Guests may conveniently pay using the ParkSavannah app, feed the meter or parking kiosks directly, or park on a nearby non-metered street. Please take note of posted Sweep Zone signs when parking on the street.
+
+Sleeping Configuration:
+Bed 1: Queen 
+Bed 2: Queen Sleeper Sofa
+
+We can welcome your dog companions at this pet friendly home, but ask that you find other arrangements for cats, birds, and other furry friends. There is a $130 pet fee (non-refundable) with a 35 lb. maximum weight limit per dog and a limit of 2 dogs per reservation. Some homes may allow larger dogs, please inquire for more information.
+
+SVR-01549
+
+Other things to note
+AGE RESTRICTION: All renters must be over the age of 25, unless it is a child accompanied by a parent. If a guest is found to have falsified their reservation in any way we reserve the right to evict the guest, cancel their reservation and retain ALL DEPOSITS PAID TO THAT POINT.
+Show more
+What this place offers
+Kitchen
+Wifi
+Dedicated workspace
+Pets allowed
+TV with standard cable
+Air conditioning
+Hair dryer
+Refrigerator
+Microwave
+Long term stays allowed
+Show all 32 amenities
+Add dates for prices
+Add dates for prices
+CHECK-IN
+Add date
+CHECKOUT
+Add date
+GUESTS
+1 guest
+Check availability
+Report this listing
+4.63 out of 5 stars from 35 reviews
+4.63 · 35 reviews
+How reviews work
+How reviews work
+7 of 7 items showing
+Overall rating
+5 stars, 71% of reviews
+5
+4 stars, 20% of reviews
+4
+3 stars, 9% of reviews
+3
+2 stars, 0% of reviews
+2
+1 stars, 0% of reviews
+1
+Rated 4.7 out of 5 stars for cleanliness
+Cleanliness
+4.7
+Rated 4.7 out of 5 stars for accuracy
+Accuracy
+4.7
+Rated 4.9 out of 5 stars for check-in
+Check-in
+4.9
+Rated 4.8 out of 5 stars for communication
+Communication
+4.8
+Rated 4.9 out of 5 stars for location
+Location
+4.9
+Rated 4.6 out of 5 stars for value
+Value
+4.6
+Guest reviews mention
+Walkability
+15
+Location
+27
+Parks
+5
+Noise
+11
+Parking
+6
+Sleep quality
+6
+Cleanliness
+8
+Indoor spaces
+6
+Hospitality
+9
+Air conditioning
+4
+Jillian
+Sterling, Virginia
+Rating, 3 stars
+,
+·
+May 2024
+,
+·
+Stayed a few nights
+We were disappointed with the noice! It was all day and all night. New windows might help. Unclear when booking as too no parking and short term parking or feed a meter! Made the stay very difficult. Disappointing!
+Show more
+Seleesha
+Alpharetta, Georgia
+Rating, 4 stars
+,
+·
+April 2026
+,
+·
+Stayed a few nights
+The good – location, location, location! You can’t beat it. It’s directly across from Forsyth Park and easily accessible from Whitaker Street. This is what you’re paying for.
+Where we struggled:
+Parking – Guests cannot use available onsite parking, so you must pay offsite. We found a daily spot about a block away on W Gordon Street.
+Bedroom – The mattress needs replacing, desperately; it’s soft and lopsided, and the pillows are flimsy. Consider bringing your own pillows
+Bathroom – Needs storage (shelf or cabinet). Counter space is very limited, to the extent that I was lining the sink with a towel because there’s nowhere sanitary to place a brush. Water pressure is also low.
+Trash – Guests must take trash to outside bins despite a cleaning fee, requiring two flights of stairs and around bldg
+Wi-Fi was weak and required resets; TV is fine for local channels but not ideal for streaming.
+They requested a personal email for house rules, which was unusual. Info was ultimately texted.
+Show more
+Victoria
+Concord, New Hampshire
+Rating, 5 stars
+,
+·
+May 2025
+,
+·
+Stayed a few nights
+The location is seriously unbeatable. I am very much a "walker", and there are lots of shops and restaurants within a mile or two. It was a pretty quiet neighborhood, and as a solo female traveler, I felt safe walking at the night; I also appreciated having and additional lock on the door.
+Show more
+Nicole
+New York, New York
+Rating, 5 stars
+,
+·
+March 2024
+,
+·
+Stayed a few nights
+We very much enjoyed our stay! you can’t beat the location, we would wake up every day and walk through Forsyth Park, then make our way uptown to the historic district or to the river. Lots of places to grab coffee nearby. 
+A couple of minor things about this listing that did not match the description: there was a coffee maker, but no coffee, so bring your own if you plan to make some in the apartment. And the TV in the living room is actually a smart TV and not just a cable TV like listed, which is great. Also, if you plan to cook it all, there was no cooking oil in the kitchen just salt and pepper.
+The street noise got a little loud in the mornings, so if you a very light sleeper plan on using earplugs or noise canceling headphones. My partner is not a light sleeper and had absolutely no issues sleeping in. So, this might only be an issue if you’re very sensitive to noise Like I am.
+Overall, we really enjoyed our stay, and would be happy to stay here again!
+Show more
+Lian
+Sarasota, Florida
+Rating, 4 stars
+,
+·
+April 2024
+,
+·
+Stayed with a pet
+Lucky Savannah is quaint, but very small, and not alot of room to move around.  There were 2 of us.  Four people would be very tight.  Bed was very confy.  The place was clean and cutely decorated sort of vintage style. Great location, near many of the parks.   I have to mention though, it is not soundproof.  It is located on a very busy one-way street, so it was very loud.  Sirens woke us up 2x in one night in the middle of the night.  The other night  passerby's were outside making alot of noisy drunk commotion very late.   We had booked for 3 nights and left to come home after 2 nights of no sleep.  The noise is the only complaint, bur was a major no-go for me.  We really enjoyed walking Forsythbpark which is basically right outside the door and to the left.
+Show more
+Mary Morgan
+Huntsville, Alabama
+Rating, 5 stars
+,
+·
+October 2023
+,
+·
+Stayed a few nights
+Cobb’s Carriage was spectacular! From the location to the decorations, it was everything we could hope for! This old apartment has been decorated beautifully, was clean, and had towels GALORE! We enjoyed being able to walk everywhere, even all the way to the river. We had no issues with parking and were able to find free parking our entire stay. Renters do need to note that the windows are old and not the most sound proof - there is a good bit of street noise so if that is an issue, I recommend bringing a sound machine. We loved getting to meet the owner, Christopher! He lives next door and he invited us in to see his beautiful home! We will definitely be back and recommend this apartment to our friends and families!
+Show more
+Show all 35 reviews
+Where you’ll be
+Savannah, Georgia, United States
+Find things to do
+Try a local café
+Find public transit
+Explore dining
+Keyboard shortcuts
+Map data ©2026 Google
+200 m 
+Terms
+Report a map error
+This listing's location is verified. Learn more
+Neighborhood highlights
+...
+Show more
+Meet your host
+Lucky Savannah
+Superhost
+9,303 reviews
+9303
+Reviews
+4.69 out of 5 average rating
+4.69
+Rating
+10 years of hosting
+10
+Years hosting
+Lives in Savannah, Georgia
+We’re a 100% local Savannah team, passionate about sharing the city we call home. Our homes are thoughtfully curated and our stays are designed to feel seamless, so you can experience Savannah like a local.
+Lucky Savannah is a Superhost
+Superhosts are experienced, highly rated hosts who are committed to providing great stays for guests.
+Host details
+Response rate: 99%
+Responds within an hour
+Message host
+To help protect your payment, always use Airbnb to send money and communicate with hosts.
+Things to know
+Cancellation policy
+Add your trip dates to get the cancellation details for this stay.
+Add dates
+House rules
+Check-in after 4:00 PM
+Checkout before 11:00 AM
+4 guests maximum
+Learn more
+Safety & property
+Carbon monoxide alarm
+Smoke alarm
+Learn more
+Airbnb
+United States
+Georgia
+Chatham County
+Savannah
+Explore other options in and around Savannah
+Four Corners 
+Vacation rentals
+Orlando 
+Vacation rentals
+Kissimmee 
+Vacation rentals
+Atlanta 
+Vacation rentals
+Sevierville 
+Vacation rentals
+Myrtle Beach 
+Vacation rentals
+Tampa 
+Vacation rentals
+Gatlinburg 
+Vacation rentals
+Charlotte 
+Vacation rentals
+Other types of stays on Airbnb
+Savannah vacation rentals
+Savannah monthly stays
+Family-friendly vacation rentals in Savannah
+Pet-friendly vacation rentals in Savannah
+Apartment vacation rentals in Savannah
+Family-friendly vacation rentals in Chatham County
+Apartment vacation rentals in Chatham County
+Pet-friendly vacation rentals in Chatham County
+Pet-friendly vacation rentals in Georgia
+All sleeping arrangements
+
+Advertised beds: 2 | Enumerated: 0 | Count unverified
+
+Site Footer
+Support
+Help Center
+Get help with a safety issue
+AirCover
+Travel insurance
+Anti-discrimination
+Disability support
+Cancellation options
+Report neighborhood concern
+Hosting
+Airbnb your home
+Airbnb your experience
+Airbnb your service
+AirCover for Hosts
+Earnings Protection
+Hosting resources
+Community forum
+Hosting responsibly
+Airbnb-friendly apartments
+Join a free hosting class
+Find a co‑host
+Refer a host
+Airbnb
+2026 Summer Release
+Newsroom
+Careers
+Investors
+Gift cards
+Airbnb.org emergency stays
+Footer section
+© 2026 Airbnb, Inc.·Privacy·Terms·Your Privacy Choices
+English (US)
+$
+USD
+Zoom level 15 of 21.

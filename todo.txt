@@ -1,0 +1,4 @@
+make presets at the top as a drop down
+every selected filter should highlight that portion in red in the menu
+if they change any filter have the preset dropdown change to "custom" with a save button where they could name the preset, save it into their cookies
+have a preset for all of the most notable, both high and low call, properties.  
