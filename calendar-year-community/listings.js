@@ -128,7 +128,7 @@
     $('above-average-baseline').textContent=`Direct calls only; all ${allLicensed.length} eligible STVR parcels, including zero-call parcels. The all-residential comparison is ${fmt(residentialAverage,3)} calls per parcel per calendar year for the selected call categories. Click a statement to show those parcels.`;
     for(const [id,r] of [['residential',b],['stvr',a]]){
       for(const [key,value] of [['house',r.directRate],['combined',r.combinedPerParcel],['neighbors',r.rate]]){const cell=$(`comparison-${id}-${key}`);cell.textContent=value===null?' - ':fmt(id==='stvr'?value/occupancy:value);cell.dataset.calendarRate=value===null?'':String(value);cell.title=value===null?'No qualifying parcels':`Unadjusted calendar-year rate: ${fmt(value,4)}${id==='stvr'?`; calendar-year rate`:''}`;}
-      $(`comparison-${id}-count`).textContent=`${fmt(r.n,0)} ${id==='residential'?'random':'STVR'}\nparcels`;
+      $(`comparison-${id}-count`).textContent=id==='stvr'?`${fmt(r.n,0)} of ${fmt(allLicensed.length,0)} eligible STVR parcels`:`${fmt(r.n,0)} random parcels`;
     }
     $('comparison-all-house').textContent=fmt(allResidential.directRate);
     $('comparison-all-house').title='Full-population average: unique residential calls / all eligible residential parcels / calendar years. Neighborhood rows are not repeated for this column.';
