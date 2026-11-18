@@ -5,7 +5,7 @@
   const screen=D.listingScreen;
   const featureInfo=new Map(screen.features.map(f=>[f.id,f]));
   const listByPin=new Map();for(const l of screen.listings){if(!listByPin.has(l.pin))listByPin.set(l.pin,[]);listByPin.get(l.pin).push(l);}
-  const filter={permitTypes:new Set(['non_owner']),maxThreePermits:true,features:new Set(['hot_tub']),overCapacity:false,minOverage:0,minCalls:0,minTotalCalls:0,minApproved:0,comparisonMode:'none',minBedrooms:0,minGuests:0,callsBasis:'combined',evidence:'mention',mode:'any',categories:new Set(),rank:'combined',occupancy:100,aboveAverage:true};
+  const filter={permitTypes:new Set(),maxThreePermits:false,features:new Set(),overCapacity:false,minOverage:0,minCalls:0,minTotalCalls:0,minApproved:0,comparisonMode:'none',minBedrooms:0,minGuests:0,callsBasis:'combined',evidence:'mention',mode:'any',categories:new Set(),rank:'combined',occupancy:100,aboveAverage:false};
   const emoji={
     'Noise / loud parties':'🎉','Domestic disturbances':'🏠','Sexual offenses':'⚠️',
     'Fights / physical disturbances':'🥊','Assaults / stabbings':'⚠️','Disturbance / nuisance':'📢',
@@ -20,7 +20,8 @@
   // Exploratory data-selected comparison; see category_selection.csv.
   // These differences do not establish causation.
   const defaultExcluded=new Set(["Animal calls (excluding barking)", "Assaults / stabbings", "Burglary", "Civil / service / public request", "Domestic disturbances", "Fire / hazardous conditions / rescue", "Gunfire / shooting reports", "Mental health / suicide", "Robbery / holdup / abduction", "Theft / vehicle theft", "Trespass / unwanted person"]);
-  const defaultCategories=allCategories.filter(x=>!defaultExcluded.has(x));
+  const exploratoryCategories=allCategories.filter(x=>!defaultExcluded.has(x));
+  const defaultCategories=[...allCategories];
   window.STVR_DEFAULT_CATEGORIES=[...defaultCategories];
   const categorySelectionActive=()=>filter.categories.size!==allCategories.length;
   const categoryLabel=name=>`${emoji[name]||'📋'} ${esc(name)}`;
@@ -174,6 +175,7 @@
   $('feature-filters').innerHTML=screen.features.map(f=>`<label><input type="checkbox" value="${esc(f.id)}" ${filter.features.has(f.id)?'checked':''}><span>${f.emoji} ${esc(f.label)} <span class="feature-count" data-feature-count="${esc(f.id)}"></span></span></label>`).join('');
   $('listing-coverage').textContent=`${screen.summary.text_covered_residential_licensed_parcels.toLocaleString()} residential licensed parcels have matched numbers in Airbnb listings. Unmatched/out-of-area listings stay in the all-listings audit.`;
   $('category-body').onchange=e=>{const name=e.target.dataset.callCategory;if(!name)return;if(e.target.checked)filter.categories.add(name);else filter.categories.delete(name);update();};
+  $('exploratory-call-categories').onclick=()=>{filter.categories=new Set(exploratoryCategories);update();};
   $('clear-call-categories').onclick=()=>{filter.categories=new Set(allCategories);update();};
   $('jump-call-categories').onclick=()=>{$('category-section').open=true;$('category-section').scrollIntoView({block:'start'});};
   $('stvr-occupancy').oninput=e=>{filter.occupancy=Number(e.target.value);render();};
@@ -197,18 +199,18 @@
   $('above-average').onchange=e=>{filter.aboveAverage=e.target.checked;render();};
   $('listing-rank').onchange=e=>{filter.rank=e.target.value;render();};
   function refreshClearButton(){
-    const changed=filter.comparisonMode!=='calendar'||filter.minApproved>0||filter.minTotalCalls>0||filter.overCapacity||filter.minCalls>0||filter.minBedrooms>0||filter.minGuests>0||filter.features.size>0||filter.maxThreePermits||filter.permitTypes.size>0||filter.aboveAverage||filter.occupancy!==100||filter.callsBasis!=='direct'||filter.evidence!=='mention'||filter.mode!=='any'||(filter.categories.size!==defaultCategories.length||defaultCategories.some(x=>!filter.categories.has(x)))||filter.rank!=='direct'||state.measure!=='citizen_initiated'||state.colorBy!=='direct'||!state.licenses||state.excluded||state.points||state.controls||$('search').value.trim()!=='';
-    const button=$('clear-listing-filters');button.classList.toggle('filters-adjusted',Boolean(changed));button.textContent=changed?'Reset to above-average defaults (adjusted)':'Reset to above-average defaults';
+    const changed=filter.comparisonMode!=='none'||filter.minApproved>0||filter.minTotalCalls>0||filter.overCapacity||filter.minCalls>0||filter.minBedrooms>0||filter.minGuests>0||filter.features.size>0||filter.maxThreePermits||filter.permitTypes.size>0||filter.aboveAverage||filter.occupancy!==100||filter.callsBasis!=='direct'||filter.evidence!=='mention'||filter.mode!=='any'||(filter.categories.size!==defaultCategories.length||defaultCategories.some(x=>!filter.categories.has(x)))||filter.rank!=='direct'||state.measure!=='citizen_initiated'||state.colorBy!=='direct'||!state.licenses||state.excluded||state.points||state.controls||$('search').value.trim()!=='';
+    const button=$('clear-listing-filters');button.classList.toggle('filters-adjusted',Boolean(changed));button.textContent=changed?'Clear all filters (adjusted)':'Clear all filters';
     button.title=changed?'Reset all filters and display settings to defaults; keep the current map area.':'All filters are at their defaults.';
   }
   $('search').addEventListener('input',refreshClearButton);
   function applyPreferences(saved={}){
     const choice=(v,allowed,fallback)=>allowed.includes(v)?v:fallback;
-    filter.permitTypes=new Set((Array.isArray(saved.permitTypes)?saved.permitTypes:['non_owner']).filter(x=>x==='owner'||x==='non_owner'));
-    filter.maxThreePermits=typeof saved.maxThreePermits==='boolean'?saved.maxThreePermits:true;$('max-three-permits').checked=filter.maxThreePermits;
+    filter.permitTypes=new Set((Array.isArray(saved.permitTypes)?saved.permitTypes:[]).filter(x=>x==='owner'||x==='non_owner'));
+    filter.maxThreePermits=typeof saved.maxThreePermits==='boolean'?saved.maxThreePermits:false;$('max-three-permits').checked=filter.maxThreePermits;
     $('permit-owner').checked=filter.permitTypes.has('owner');$('permit-non-owner').checked=filter.permitTypes.has('non_owner');
-    filter.aboveAverage=typeof saved.aboveAverage==='boolean'?saved.aboveAverage:true;$('above-average').checked=filter.aboveAverage;
-    filter.features=new Set((Array.isArray(saved.features)?saved.features:['hot_tub']).filter(k=>featureInfo.has(k)));
+    filter.aboveAverage=typeof saved.aboveAverage==='boolean'?saved.aboveAverage:false;$('above-average').checked=filter.aboveAverage;
+    filter.features=new Set((Array.isArray(saved.features)?saved.features:[]).filter(k=>featureInfo.has(k)));
     filter.minOverage=Math.min(Number($('min-overage').max),Math.max(0,Number(saved.minOverage)||0));filter.overCapacity=filter.minOverage>0;
     for(const [id,key] of [['min-bedrooms','minBedrooms'],['min-guests','minGuests']]){filter[key]=Math.min(Number($(id).max),Math.max(0,Number(saved[key])||0));$(id).value=filter[key];}
     filter.comparisonMode=choice(saved.comparisonMode,['none','calendar'],'none');$('comparison-mode').value=filter.comparisonMode;
@@ -227,9 +229,9 @@
     $('over-capacity').checked=filter.overCapacity;$('min-overage').value=filter.minOverage;$('min-calls').value=filter.minCalls;$('calls-basis').value=filter.callsBasis;$('feature-evidence').value=filter.evidence;$('feature-mode').value=filter.mode;$('listing-rank').value=filter.rank;
     $('feature-filters').querySelectorAll('input').forEach(e=>e.checked=filter.features.has(e.value));$('search').value=typeof saved.search==='string'?saved.search.slice(0,200):'';$('search-result').textContent='';update();
   }
-  window.ListingScreen.getPreferences=()=>({...filter,callDefaultVersion:2,rankDefaultVersion:2,categorySelectionVersion:3,categories:[...filter.categories],features:[...filter.features],permitTypes:[...filter.permitTypes],...state,search:$('search').value});
+  window.ListingScreen.getPreferences=()=>({...filter,startupDefaultsVersion:2,callDefaultVersion:2,rankDefaultVersion:2,categorySelectionVersion:3,categories:[...filter.categories],features:[...filter.features],permitTypes:[...filter.permitTypes],...state,search:$('search').value});
   window.ListingScreen.applyPreferences=applyPreferences;
-  const resetDefaults=()=>applyPreferences({permitTypes:[],maxThreePermits:false,features:[],comparisonMode:'calendar',categories:defaultCategories,categorySelectionVersion:3,aboveAverage:false,rank:'direct',rankDefaultVersion:2,callsBasis:'direct',colorBy:'direct'});
+  const resetDefaults=()=>applyPreferences({permitTypes:[],maxThreePermits:false,features:[],comparisonMode:'none',categories:defaultCategories,categorySelectionVersion:3,aboveAverage:false,rank:'direct',rankDefaultVersion:2,callsBasis:'direct',colorBy:'direct'});
   $('clear-listing-filters').onclick=resetDefaults;
   $('direct-call-parcels').onclick=e=>{const button=e.target.closest('[data-direct-parcel]');if(!button)return;const f=features.get(button.dataset.directParcel);map.fitBounds(L.geoJSON(f).getBounds(),{maxZoom:18,padding:[40,40]});selectParcel(f);};
   $('listing-ranking').onclick=e=>{const button=e.target.closest('[data-parcel]');if(!button)return;const f=features.get(button.dataset.parcel);map.fitBounds(L.geoJSON(f).getBounds(),{maxZoom:18,padding:[40,40]});selectParcel(f,undefined,{listingId:button.dataset.listing});
