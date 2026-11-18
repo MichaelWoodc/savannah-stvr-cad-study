@@ -74,11 +74,9 @@
 <section aria-label="Savannah parcel map" class="map-wrap"><div id="map"></div>
 <section aria-label="Annual call rate comparison" aria-live="polite" class="comparison-panel" id="averages-panel">
 <h2>Average calls per residential parcel</h2>
-<table id="comparison-table"><thead><tr><th scope="col">Residential calls</th><th scope="col">All residential<br/><small>Per calendar year</small></th><th scope="col">Random<br/>residential<br/><small>Per calendar year</small></th><th scope="col">STVR<br/><small>Per calendar year</small></th></tr></thead>
-<tbody><tr><th scope="row">House only</th><td id="comparison-all-house" rowspan="3"></td><td id="comparison-residential-house">?</td><td id="comparison-stvr-house">?</td></tr>
-<tr><th scope="row">House + neighbors</th><td id="comparison-residential-combined">?</td><td id="comparison-stvr-combined">?</td></tr>
-<tr><th scope="row">Neighbors only</th><td id="comparison-residential-neighbors">?</td><td id="comparison-stvr-neighbors">?</td></tr></tbody>
-<tfoot><tr><th scope="row">Full-cohort average<br/><small>All properties; selected call types</small></th><td id="comparison-all-overall"></td><td id="comparison-residential-overall"></td><td id="comparison-stvr-overall"></td></tr><tr><td></td><td id="comparison-all-count"></td><td id="comparison-residential-count"></td><td id="comparison-stvr-count"></td></tr></tfoot></table>
+<table id="comparison-table"><thead><tr><th scope="col">All residential<br/><small>Calls per parcel per calendar year</small></th><th scope="col">STVR<br/><small>Calls per parcel per calendar year</small></th></tr></thead>
+<tbody><tr><td id="comparison-all-house">?</td><td id="comparison-stvr-house">?</td></tr><tr><td id="comparison-all-count"></td><td id="comparison-stvr-count"></td></tr></tbody></table>
+<div hidden><span id="comparison-residential-house"></span><span id="comparison-residential-combined"></span><span id="comparison-residential-neighbors"></span><span id="comparison-stvr-combined"></span><span id="comparison-stvr-neighbors"></span><span id="comparison-all-overall"></span><span id="comparison-residential-overall"></span><span id="comparison-stvr-overall"></span><span id="comparison-residential-count"></span></div>
 <details class="instructions-notes"><summary>Notes</summary><p id="occupancy-explanation"></p>
 <p>All groups use calendar-year rates; no booking-occupancy adjustment is applied.</p>
 </details></section><div aria-live="polite" class="map-status" id="map-status">Loading study…</div></section>
