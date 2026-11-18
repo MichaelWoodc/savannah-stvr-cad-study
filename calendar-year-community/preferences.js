@@ -17,7 +17,7 @@
   function save(){if(consent!=='yes'||restoring)return;const center=window.STVR_MAP.getCenter();write(STATE,JSON.stringify({version:1,filters:window.ListingScreen.getPreferences(),center:[center.lat,center.lng],zoom:window.STVR_MAP.getZoom(),ui:window.StudyUI.getPreferences()}));}
   function queueSave(){clearTimeout(timer);timer=setTimeout(save,200);}
   if(consent==='yes'){
-    try{const saved=JSON.parse(read(STATE)||'null');if(saved?.version===1){restoring=true;window.ListingScreen.applyPreferences(saved.filters?.startupDefaultsVersion===2?saved.filters:{});
+    try{const saved=JSON.parse(read(STATE)||'null');if(saved?.version===1){restoring=true;window.ListingScreen.applyPreferences(saved.filters?.startupDefaultsVersion===4?saved.filters:{permitTypes:[],maxThreePermits:false,features:['pool'],evidence:'onsite',comparisonMode:'none',minGuests:6,categories:window.STVR_DEFAULT_CATEGORIES,categorySelectionVersion:3,aboveAverage:false,rank:'direct',rankDefaultVersion:2,callsBasis:'direct',colorBy:'direct'});
       if(Array.isArray(saved.center)&&saved.center.length===2&&saved.center.every(Number.isFinite)&&Math.abs(saved.center[0])<=85&&Math.abs(saved.center[1])<=180&&Number.isFinite(saved.zoom)&&saved.zoom>=1&&saved.zoom<=20)window.STVR_MAP.setView(saved.center,saved.zoom,{animate:false});
       window.StudyUI.applyPreferences(saved.ui);
     }}catch{}finally{restoring=false;}

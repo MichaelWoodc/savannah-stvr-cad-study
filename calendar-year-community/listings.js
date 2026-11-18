@@ -20,8 +20,8 @@
   // Exploratory data-selected comparison; see category_selection.csv.
   // These differences do not establish causation.
   const defaultExcluded=new Set(["Animal calls (excluding barking)", "Assaults / stabbings", "Burglary", "Civil / service / public request", "Domestic disturbances", "Fire / hazardous conditions / rescue", "Gunfire / shooting reports", "Mental health / suicide", "Robbery / holdup / abduction", "Theft / vehicle theft", "Trespass / unwanted person"]);
-  const exploratoryCategories=allCategories.filter(x=>!defaultExcluded.has(x));
-  const defaultCategories=[...allCategories];
+  const exploratoryCategories=["Noise / loud parties", "Property checks / alarms", "Property damage / vandalism", "Sexual offenses", "Suspicious activity / person / vehicle"];
+  const defaultCategories=["Noise / loud parties", "Property checks / alarms", "Property damage / vandalism", "Sexual offenses", "Suspicious activity / person / vehicle"];
   window.STVR_DEFAULT_CATEGORIES=[...defaultCategories];
   const categorySelectionActive=()=>filter.categories.size!==allCategories.length;
   const categoryLabel=name=>`${emoji[name]||'📋'} ${esc(name)}`;
@@ -36,9 +36,9 @@
   const residentialDirectAverage=()=>{rebuildCounts();return residentialAverage;};
   const parcelMatches=pin=>{if(!permitMatches(pin))return false;const capacity=approvedCapacity(pin);if(filter.minApproved&&(capacity===null||capacity<filter.minApproved))return false;const p=propsFor(pin);if(filter.comparisonMode!=='none'&&(!p||p.citizen_direct_per_year/(filter.comparisonMode==='occupied'?filter.occupancy/100:1)<=residentialDirectAverage()))return false;if(filter.minTotalCalls&&(!p||p.citizen_direct_calls<filter.minTotalCalls))return false;if(filter.minCalls){const field=filter.callsBasis==='direct'?'citizen_direct_per_year':filter.callsBasis==='combined'?'citizen_combined_per_year':'citizen_neighbor_only_per_year';if(!p||p[field]+1e-12<filter.minCalls)return false;}return true;};
   function matches(l,chosen=filter.features){
-    if(!parcelMatches(l.pin))return false;
+    if(!features.get(l.pin)?.properties.licensed||!parcelMatches(l.pin))return false;
     if(filter.minBedrooms>0&&(l.advertised_bedrooms===''||l.advertised_bedrooms===undefined||Number(l.advertised_bedrooms)<filter.minBedrooms))return false;
-    if(filter.minGuests>0&&(l.advertised_capacity===''||l.advertised_capacity===undefined||Number(l.advertised_capacity)<filter.minGuests))return false;
+    if(filter.minGuests>0&&(l.advertised_capacity===''||l.advertised_capacity===undefined||l.advertised_capacity===null||!Number.isFinite(Number(l.advertised_capacity))||Number(l.advertised_capacity)<filter.minGuests))return false;
     if(filter.overCapacity&&(!String(l.capacity_status).startsWith('advertised_exceeds')||Number(l.capacity_overage)<filter.minOverage))return false;
     const available=new Set(filter.evidence==='onsite'?l.onSiteFeatures:filter.evidence==='restriction'?l.restrictionFeatures:l.activeFeatures);
     return !chosen.size||(filter.mode==='all'?[...chosen].every(k=>available.has(k)):[...chosen].some(k=>available.has(k)));
@@ -60,7 +60,7 @@
     const own=new Map(),cit=new Map();
     for(const c of D.calls){if(!callAllowed(c))continue;own.set(c.pin,(own.get(c.pin)||0)+1);if(c.initiation==='Cit Initiated')cit.set(c.pin,(cit.get(c.pin)||0)+1);
       if(!directCategory.has(c.pin))directCategory.set(c.pin,[]);directCategory.get(c.pin).push(c);}
-    residentialAverage=[...own.values()].reduce((a,b)=>a+b,0)/features.size/S.exposure_years;
+    const residentialPins=[...features.keys()].filter(k=>!features.get(k).properties.licensed);residentialAverage=residentialPins.reduce((n,k)=>n+(cit.get(k)||0),0)/residentialPins.length/S.exposure_years;
     for(const [pin,f] of features){const p=f.properties,ns=p.neighbor_pins.map(x=>x.replace(/[^A-Z0-9]/gi,''));const a=own.get(pin)||0,b=cit.get(pin)||0;
       const n=ns.reduce((sum,k)=>sum+(own.get(k)||0),0),nc=ns.reduce((sum,k)=>sum+(cit.get(k)||0),0);
       props.set(pin,{...p,direct_calls:a,direct_per_year:a/S.exposure_years,citizen_direct_calls:b,citizen_direct_per_year:b/S.exposure_years,
@@ -122,23 +122,23 @@
     selectedPins=listingActive()?new Set(currentListings.map(l=>l.pin)):new Set(allLicensed.filter(parcelMatches));
     const featureCounts=renderFeatureCounts();
     currentControls=draw;
-    const a=group([...selectedPins]),b=group(currentControls),overallSTVR=group(allLicensed),allResidential=group([...features.keys()]),occupancy=filter.occupancy/100;
+    const a=group([...selectedPins]),b=group(currentControls),overallSTVR=group(allLicensed),allResidential=group([...features.keys()].filter(k=>!features.get(k).properties.licensed)),occupancy=filter.occupancy/100;
     $('stvr-occupancy-value').textContent=`${filter.occupancy}%`;
-    const residentialAverage=allResidential.directRate;for(const [mode,id] of [['calendar','above-average-calendar'],['occupied','above-average-occupied']]){const count=allLicensed.filter(pin=>propsFor(pin).citizen_direct_per_year/(mode==='occupied'?occupancy:1)>residentialAverage).length;const pct=allLicensed.length?100*count/allLicensed.length:0;$(id).dataset.parcelCount=String(count);$(id).textContent=mode==='calendar'?`${fmt(pct,1)}% of eligible STVR parcels (${count} of ${allLicensed.length}) had direct calls above the all-residential average per calendar year.`:`${fmt(pct,1)}% of eligible STVR parcels (${count} of ${allLicensed.length}) exceeded the all-residential calendar-year average per calendar year.`;}
-    $('above-average-baseline').textContent=`Direct calls only; all ${allLicensed.length} eligible STVR parcels, including zero-call parcels. The all-residential comparison is ${fmt(residentialAverage,3)} calls per parcel per calendar year for the selected call categories. Click a statement to show those parcels.`;
+    const residentialAverage=allResidential.directRate;for(const [mode,id] of [['calendar','above-average-calendar'],['occupied','above-average-occupied']]){const count=allLicensed.filter(pin=>propsFor(pin).citizen_direct_per_year/(mode==='occupied'?occupancy:1)>residentialAverage).length;const pct=allLicensed.length?100*count/allLicensed.length:0;$(id).dataset.parcelCount=String(count);$(id).textContent=mode==='calendar'?`${fmt(pct,1)}% of eligible STVR parcels (${count} of ${allLicensed.length}) had direct calls above the non-STVR residential average per calendar year.`:`${fmt(pct,1)}% of eligible STVR parcels (${count} of ${allLicensed.length}) exceeded the all-residential calendar-year average per calendar year.`;}
+    $('above-average-baseline').textContent=`Direct calls only; all ${allLicensed.length} eligible STVR parcels, including zero-call parcels. The non-STVR residential comparison is ${fmt(residentialAverage,3)} calls per parcel per calendar year for the selected call categories. Click a statement to show those parcels.`;
     for(const [id,r] of [['residential',b],['stvr',a]]){
       for(const [key,value] of [['house',r.directRate],['combined',r.combinedPerParcel],['neighbors',r.rate]]){const cell=$(`comparison-${id}-${key}`);cell.textContent=value===null?' - ':fmt(id==='stvr'?value/occupancy:value);cell.dataset.calendarRate=value===null?'':String(value);cell.title=value===null?'No qualifying parcels':`Unadjusted calendar-year rate: ${fmt(value,4)}${id==='stvr'?`; calendar-year rate`:''}`;}
       $(`comparison-${id}-count`).textContent=id==='stvr'?`${fmt(r.n,0)} of ${fmt(allLicensed.length,0)} eligible STVR parcels`:`${fmt(r.n,0)} random parcels`;
     }
     $('comparison-all-house').textContent=fmt(allResidential.directRate);
-    $('comparison-all-house').title='Full-population average: unique residential calls / all eligible residential parcels / calendar years. Neighborhood rows are not repeated for this column.';
-    $('comparison-all-count').textContent=`${fmt(allResidential.n,0)} residential\nparcels`;
+    $('comparison-all-house').title='Non-STVR residential average: direct calls / non-STVR residential parcels / calendar years. Neighborhood rows are not repeated for this column.';
+    $('comparison-all-count').textContent=`${fmt(allResidential.n,0)} non-STVR\nparcels`;
     $('comparison-all-overall').textContent=fmt(allResidential.directRate);
-    $('comparison-all-count').title='All eligible residential parcels in the study area, including licensed residential STVR parcels. Hotels and commercial parcels excluded.';
+    $('comparison-all-count').title='Eligible residential parcels without an STVR license in the historical study inventory. Hotels and commercial parcels excluded.';
     $('comparison-residential-overall').textContent=fmt(b.combinedPerParcel);
     $('comparison-stvr-overall').textContent=fmt(overallSTVR.combinedPerParcel/occupancy);
     $('comparison-stvr-overall').title=`All ${allLicensed.length} eligible STVR parcels; unadjusted ${fmt(overallSTVR.combinedPerParcel,4)} calls per calendar year. No listing filters; selected call categories and initiation measure apply.`;
-    $('occupancy-explanation').textContent=`Rates count calls recorded directly on each parcel per calendar year. All residential includes all eligible residential parcels, including licensed STVRs. STVR reflects the selected property filters. Both use the selected call categories and include zero-call parcels. These are descriptive associations, not evidence of causation.`;
+    $('occupancy-explanation').textContent=`Rates count calls recorded directly on each parcel per calendar year. Non-STVR residential excludes eligible licensed STVR parcels. STVR reflects the selected property filters. Both use the selected call categories and include zero-call parcels. These are descriptive associations, not evidence of causation.`;
     $('category-body').innerHTML=Object.keys(emoji).map(name=>{
       const x=a.categories.get(name)||0,y=b.categories.get(name)||0,z=allResidential.categories.get(name)||0;
       if(!filter.categories.has(name))return `<tr><td><label class="category-choice"><input type="checkbox" data-call-category="${esc(name)}">${categoryLabel(name)}</label></td><td colspan="3">Excluded</td></tr>`;
@@ -147,7 +147,7 @@
       const difference=stvrRate!==null&&averageRate>0?(stvrRate/averageRate-1)*100:null;
       const rounded=difference===null?null:Math.round(difference);
       const percent=rounded===null?' - ':`${rounded<0?'−':'+'}${fmt(Math.abs(rounded),0)}%`;
-      return `<tr><td><label class="category-choice"><input type="checkbox" data-call-category="${esc(name)}" ${filter.categories.has(name)?'checked':''}>${categoryLabel(name)}</label></td><td>${stvrRate===null?' - ':fmt(stvrRate,3)} <small class="category-difference" title="STVR rate compared with the all-residential rate for this category; both rates use calendar years">${percent}</small><small>(${x})</small></td><td class="random-category-column">${b.links?fmt(y/b.links/S.exposure_years,3):' - '} <small>(${y})</small></td><td>${averageRate===null?' - ':fmt(averageRate,3)} <small>(${z})</small></td></tr>`;
+      return `<tr><td><label class="category-choice"><input type="checkbox" data-call-category="${esc(name)}" ${filter.categories.has(name)?'checked':''}>${categoryLabel(name)}</label></td><td>${stvrRate===null?' - ':fmt(stvrRate,3)} <small class="category-difference" title="STVR rate compared with the non-STVR residential rate for this category; both rates use calendar years">${percent}</small><small>(${x})</small></td><td class="random-category-column">${b.links?fmt(y/b.links/S.exposure_years,3):' - '} <small>(${y})</small></td><td>${averageRate===null?' - ':fmt(averageRate,3)} <small>(${z})</small></td></tr>`;
     }).join('');
         const mapMatch=pin=>selectedPins.has(pin)&&(!categorySelectionActive()||(propsFor(pin)?.citizen_direct_calls||0)>0);
     licenseOutlines.setStyle(f=>{const flags=flagReasons(f.id),flagged=flags.overCapacity||flags.amenities.length>0,match=mapMatch(f.id);return {color:match?'#12365f':'#8494a6',weight:match?4.5:2.5,opacity:match?1:.7,fillOpacity:match?0.55:0.15,fillColor:flagged?'url(#licensed-parcel-crosshatch)':'url(#licensed-parcel-hatch)'};});
@@ -199,7 +199,7 @@
   $('above-average').onchange=e=>{filter.aboveAverage=e.target.checked;render();};
   $('listing-rank').onchange=e=>{filter.rank=e.target.value;render();};
   function refreshClearButton(){
-    const changed=filter.comparisonMode!=='none'||filter.minApproved>0||filter.minTotalCalls>0||filter.overCapacity||filter.minCalls>0||filter.minBedrooms>0||filter.minGuests>0||filter.features.size>0||filter.maxThreePermits||filter.permitTypes.size>0||filter.aboveAverage||filter.occupancy!==100||filter.callsBasis!=='direct'||filter.evidence!=='mention'||filter.mode!=='any'||(filter.categories.size!==defaultCategories.length||defaultCategories.some(x=>!filter.categories.has(x)))||filter.rank!=='direct'||state.measure!=='citizen_initiated'||state.colorBy!=='direct'||!state.licenses||state.excluded||state.points||state.controls||$('search').value.trim()!=='';
+    const changed=filter.comparisonMode!=='none'||filter.minApproved>0||filter.minTotalCalls>0||filter.overCapacity||filter.minCalls>0||filter.minBedrooms>0||filter.minGuests!==6||filter.features.size!==1||!filter.features.has('pool')||filter.maxThreePermits||filter.permitTypes.size>0||filter.aboveAverage||filter.occupancy!==100||filter.callsBasis!=='direct'||filter.evidence!=='onsite'||filter.mode!=='any'||(filter.categories.size!==defaultCategories.length||defaultCategories.some(x=>!filter.categories.has(x)))||filter.rank!=='direct'||state.measure!=='citizen_initiated'||state.colorBy!=='direct'||!state.licenses||state.excluded||state.points||state.controls||$('search').value.trim()!=='';
     const button=$('clear-listing-filters');button.classList.toggle('filters-adjusted',Boolean(changed));button.textContent=changed?'Clear all filters (adjusted)':'Clear all filters';
     button.title=changed?'Reset all filters and display settings to defaults; keep the current map area.':'All filters are at their defaults.';
   }
@@ -229,10 +229,10 @@
     $('over-capacity').checked=filter.overCapacity;$('min-overage').value=filter.minOverage;$('min-calls').value=filter.minCalls;$('calls-basis').value=filter.callsBasis;$('feature-evidence').value=filter.evidence;$('feature-mode').value=filter.mode;$('listing-rank').value=filter.rank;
     $('feature-filters').querySelectorAll('input').forEach(e=>e.checked=filter.features.has(e.value));$('search').value=typeof saved.search==='string'?saved.search.slice(0,200):'';$('search-result').textContent='';update();
   }
-  window.ListingScreen.getPreferences=()=>({...filter,startupDefaultsVersion:2,callDefaultVersion:2,rankDefaultVersion:2,categorySelectionVersion:3,categories:[...filter.categories],features:[...filter.features],permitTypes:[...filter.permitTypes],...state,search:$('search').value});
+  window.ListingScreen.getPreferences=()=>({...filter,startupDefaultsVersion:4,callDefaultVersion:2,rankDefaultVersion:2,categorySelectionVersion:3,categories:[...filter.categories],features:[...filter.features],permitTypes:[...filter.permitTypes],...state,search:$('search').value});
   window.ListingScreen.applyPreferences=applyPreferences;
-  const resetDefaults=()=>applyPreferences({permitTypes:[],maxThreePermits:false,features:[],comparisonMode:'none',categories:defaultCategories,categorySelectionVersion:3,aboveAverage:false,rank:'direct',rankDefaultVersion:2,callsBasis:'direct',colorBy:'direct'});
-  $('clear-listing-filters').onclick=resetDefaults;
+  const resetDefaults=()=>applyPreferences({permitTypes:[],maxThreePermits:false,features:['pool'],evidence:'onsite',comparisonMode:'none',minGuests:6,categories:defaultCategories,categorySelectionVersion:3,aboveAverage:false,rank:'direct',rankDefaultVersion:2,callsBasis:'direct',colorBy:'direct'});
+  $('clear-listing-filters').onclick=()=>applyPreferences({permitTypes:[],maxThreePermits:false,features:[],comparisonMode:'none',minGuests:0,categories:allCategories,categorySelectionVersion:3,aboveAverage:false,rank:'direct',rankDefaultVersion:2,callsBasis:'direct',colorBy:'direct'});
   $('direct-call-parcels').onclick=e=>{const button=e.target.closest('[data-direct-parcel]');if(!button)return;const f=features.get(button.dataset.directParcel);map.fitBounds(L.geoJSON(f).getBounds(),{maxZoom:18,padding:[40,40]});selectParcel(f);};
   $('listing-ranking').onclick=e=>{const button=e.target.closest('[data-parcel]');if(!button)return;const f=features.get(button.dataset.parcel);map.fitBounds(L.geoJSON(f).getBounds(),{maxZoom:18,padding:[40,40]});selectParcel(f,undefined,{listingId:button.dataset.listing});
   };
